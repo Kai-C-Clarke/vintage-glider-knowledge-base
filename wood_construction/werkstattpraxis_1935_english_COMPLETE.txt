@@ -1,0 +1,2787 @@
+WERKSTATTPRAXIS FÜR DEN BAU VON GLEIT- UND SEGELFLUGZEUGEN
+Hans Jacobs, 1935 (Otto Maier Verlag, Ravensburg)
+English translation produced from German OCR source, June 2026
+For private workshop reference use only
+============================================================
+
+WORKSHOP PRACTICE
+FOR THE CONSTRUCTION OF
+GLIDERS AND
+SAILPLANES
+
+BY
+HANS JACOBS
+
+OTTO MAIER PUBLISHER, RAVENSBURG
+
+---
+
+WORKSHOP PRACTICE FOR THE
+CONSTRUCTION OF GLIDERS AND
+SAILPLANES
+
+BY
+HANS JACOBS
+TECHNICAL ASSISTANT AT THE RESEARCH INSTITUTE
+OF THE RHÖN-ROSSITEN SOCIETY
+
+OTTO MAIER PUBLISHER, RAVENSBURG
+
+---
+
+Copyright 1935 by Otto Maier, Ravensburg
+Richard Bechtle Printing Works, Esslingen a. N.
+
+---
+
+FOREWORD
+
+If one travels through Germany today, it not infrequently happens that one comes unexpectedly upon a nondescript shed in some out-of-the-way village, where busy hands are assembling the framework of an aircraft. Drawing closer, one learns that the village youth have built this aircraft themselves in the shed, which on closer inspection reveals itself as a simple but serviceable workshop, and are now presenting it for inspection to the building examiner called in from the nearest town.
+
+Aircraft construction in the village, carried out with more enthusiasm than technical knowledge, yet with such care and precision that the flight-eager village youth can entrust themselves with confidence to their self-built aircraft, even in flight!
+
+This small soaring episode, which one can witness today in any Rhön village or in Württemberg, in Hesse, Silesia, East Prussia, and Westphalia, shows how thoroughly the sailplane sport has taken root among us, and how it not only makes a sporting flying spirit into a universal matter of course, but also, through the self-construction of aircraft, awakens previously unknown technical abilities in the youth of our people, regardless of place of residence, social standing, or education.
+
+Since soaring groups have abandoned their go-it-alone approach to design and construction, and have recognized that the adoption of suitable, proven aircraft designs — for which they can readily obtain all necessary documentation — is the most advantageous path, this widespread practice of self-building gliders and sailplanes has been able to establish itself throughout Germany.
+
+Despite all plans and instructions, self-construction initially costs dearly in lessons learned. What an abundance of craft-related ex-
+
+PAGE 5 (continued)
+
+...experiences are required before a young construction group has acquired the necessary workshop practice — experiences that cannot easily be obtained elsewhere, but which each group must work out for itself, because all the small tricks and advantages that arise from workshop practice usually remain part of the accumulated knowledge of individual groups and never find their way into the public domain. Thus every group must develop its own workshop practice through its own efforts. Much can be improved in this regard, and laborious, often fruitless and costly work can be avoided. The present book commendably takes this path and offers guidance that has been tested and proven at the foremost centre of soaring flight: the Wasserkuppe in the Rhön.
+
+For the value of soaring flight, the self-building of the aircraft is no less significant than flying achievement. There is a great moral strength in the w o r k s h o p a c t i v i t y of our groups. It is the foundation of the exemplary comradeship found in soaring flight; it cultivates selflessness, self-discipline, care, and conscientiousness. The spirit in the workshop is the foundation for the spirit in flight! Therefore all care must belong to the workshop — the home of our soaring groups.
+
+Walter Georgii (Darmstadt)
+
+---
+
+=== PAGE 6 ===
+
+FOREWORD
+
+New aviation clubs are being founded throughout all parts of Germany on a continuing basis. All of them wish to build their training and soaring aircraft in their own workshops. In doing so, each one must again gather the experiences that can only be acquired through years of practice. Setbacks due to faulty construction occur easily. The enthusiasm for self-building is gone when the building inspector has examined the aircraft and identified the many deficiencies, some of which can be remedied only with great difficulty or only at the cost of considerable additional work.
+
+How many mistakes would have been avoided if an experienced workshop supervisor had provided proper guidance. No one involved in building gliders in the workshop will be spared from paying their tuition, so to speak. This book has a twofold purpose. On the one hand it is intended to identify the difficulties that, as experience shows, arise in every build; and on the other hand, by means of explanatory illustrations, to provide the means of avoiding them. This book is intended to reduce the amount of that tuition. It is therefore addressed primarily to the young and still inexperienced glider builder, but the seasoned and experienced practitioner will also find here and there a useful pointer regarding something he has not yet tried himself.
+
+The Author
+
+=== PAGE 7 ===
+
+TABLE OF CONTENTS
+
+Page Page
+Foreword by Editor.......... 3 Edge Strips............ 68
+Preface................ 5 Frames............... 69
+The Workshop and its Equip- Fuselage Noses........... 70
+ment................. 7 Strut Towers, Lattice Tails,
+The Materials............ 10 etc................. 72
+Wood............... 11 General Notes on the Manu-
+Which Wood Species to Use facture of Fittings...... 74
+for Specific Structural Fitting Installation........ 75
+Members?........... 15
+Wing Assembly........... 78
+Glue............... 15
+Jig for a Normal Rectangular
+Plywood............. 16
+Wing.............. 78
+Sheet Steel, Strip Steel and
+Jig for a Tapered Wing
+Steel Tube.......... 16
+with a Break......... 79
+Light Metals: Elektron and
+Jig for Swept Wings..... 82
+Dural.............. 18
+Vertical Wing Construction.. 82
+Screws, Bolts, Turnbuckles,
+Wing Assembly......... 84
+Pulleys............. 18
+Wire and Cable.......... 19 Applying Plywood Leading-
+Edge Skins............ 89
+Covering Fabric.......... 20
+Preparatory Work....... 90
+Dope for Fabric Covering... 21
+Applying a Leading Edge
+Wood Preservative....... 21
+with Nail Strips....... 91
+Fitting Preservative........ 22
+Applying the Leading Edge
+with Stitching........ 92
+Materials Processing........ 22
+Completing the Wing...... 92
+Gluing.............. 22
+Welding.............. 29 Fuselage Construction........ 97
+Brazing.............. 30 Pilot's Head Fairing......... 110
+Wire and Cable Connections.. 31 Tail Surface Construction..... 113
+Working with Steel Wire Strut Construction.......... 116
+and Control Cables..... 31 Solid Struts........... 116
+Splicing.............. 33 Milled Struts........... 117
+Covering Flying Surfaces..... 41 Struts with Faired Spars.... 118
+Doping.............. 45
+Rough Assembly.......... 120
+Painting.............. 46
+Assembly of Braced and
+Reading Drawings.......... 47
+Cantilever Aircraft...... 124
+Cutting Strips to Length...... 50
+Weighing and Balancing the
+Building Ribs and Spars..... 50
+Completed Aircraft........ 127
+Building Spars........... 60
+Inspection Checklist for Glider
+Flap Levers............ 65
+and Sailplane Construction.. 128
+Wingtips.............. 66
+
+=== PAGE 8 ===
+
+THE WORKSHOP AND ITS EQUIPMENT.
+
+The room in which we wish to set up our workshop must meet a number of requirements. Depending on the building programme we intend to carry out in our workshop, it must be of sufficient size. The length of the fuselage or wing determines the minimum length of the workshop in one direction. We must also bear in mind that in addition to final assembly, individual components must be manufactured as well. Are the doors or other access openings large enough to remove the finished parts? It is a bitter lesson when this question is considered too late and doors or window openings have to be enlarged.
+
+In winter the workshop must be heatable, as fresh glue joints are rendered unusable by frost.
+
+It is practical if our workshop is situated near a larger open area where our aircraft can be assembled.
+
+Following the proverb "Mastery reveals itself within limitations," we can manage with very minimal workshop equipment, particularly when building beginner aircraft. Only gradually, as building activity grows, should the equipment be expanded!
+
+We will soon discover that the most important tool in aircraft construction is the clamp. One can never have enough of them. The most useful clamps are shown in Figure 1. The smaller one is now supplied with a considerably longer travel. The dimensions of these clamps are as follows:
+
+Small clamp .... 250 mm travel, 50 mm throat depth
+Standard clamp .. 250 mm travel, 100 mm throat depth
+
+=== PAGE 9 ===
+
+Fig. 1. Screw clamps. Fig. 2.
+
+In the next illustration we see the "Ulma clamps," which are particularly suited for pressing corners where standard clamps can only be applied with difficulty.
+
+Fig. 3. Use of Ulma clamps.
+
+For the further equipping of the workshop, the following tools are also required:
+
+A workbench
+a smoothing plane
+a trying plane
+a jointer plane
+a toothing plane
+a rebate plane, 13–14 mm wide
+
+=== PAGE 10 ===
+
+three to four chisels of various widths
+a scraper (draw blade with handles)
+a large hammer
+two smaller hammers¹
+a standard carpenter's saw
+a fine saw or veneer saw
+a jigsaw
+a pair of pincers
+a pair of round-nose pliers
+a pair of combination pliers
+a lever cutting tool
+a circle cutter
+a pair of side cutters
+a screwdriver
+a set of spanners for 4 to 12 mm bolts
+a centre punch
+a drift punch
+a large rasp
+a large wood file
+a metal file
+a bevel gauge (adjustable square)
+a standard drill (for twist drills)
+a compass.
+
+When building an aircraft we will usually work together with a few friends; each can find something useful from his own toolbox, so that obtaining the necessary tools is generally not too difficult.
+
+A workbench can also be replaced by a sturdy work table, which we can build ourselves from planks.
+
+One small practical device worth mentioning, which we can put to good use when building gliders (Fig.
+
+¹ Regarding the small hammers, it should also be noted that magnetic hammers are most suitable for driving small nails. This is a small hammer one end of which is magnetised, so that the nail to be driven adheres by its head to the hammer and does not need to be held. Most useful is one fitted with a brass sleeve around the magnetised area.
+
+=== PAGE 11 ===
+
+4). On gliders, the fabric covering on the trailing edges of the wings and control surfaces must be provided with grommets for ventilation. This device is excellently suited for that purpose.
+
+For making splices, a splicing clamp together with a splicing needle is a great convenience.
+
+THE MATERIALS.
+
+The materials from which aircraft are made must be selected with particular care, since maximum strength combined with the lowest possible weight is required of them. In the design of gliders, the material dimensions (especially for wooden and metal fitting components) are always calculated on the basis of good-quality material.
+
+Our principal building material is wood, and to this we shall devote our greatest attention. Since we mostly select the wood ourselves, we must also be in a position to judge its suitability for our purposes. For the other materials mentioned later, such as sheet steel, cable, bolts, etc., procurement is considerably simpler, since these are mostly standardised and their quality can be expressed numerically when ordering. The last-mentioned materials should only be obtained from
+
+=== PAGE 12 ===
+
+WOOD.
+
+The most frequently used timbers are pine, spruce, and ash. Polish pine, or the equivalent East Prussian pine, is particularly suitable due to its well-aligned grain. Occasionally pine is also replaced by American Oregon pine, which is distinguished by a very fine grain. However, with the latter type, care must be taken when selecting, as the grain may run true for several metres and then suddenly deviate sharply from the straight.
+
+The selection of wood for specific structural members falls into two main parts:
+
+1. Selecting at the timber yard, and
+2. cutting the strips from the planks.
+
+What requirements must we now place on our planks at the timber yard? What must they look like? From the construction drawings we have established clearly which timber species we need. The cross-sections of the strips to be cut from the plank also determine the required thickness of the material.
+
+At the timber yard the trees are stacked cut into individual boards; from the individual logs we must always select the right planks suited to our purposes. Figure 5 shows us a log in cross-section,
+
+=== PAGE 13 ===
+
+# Workshop Manual: Wood Selection and Testing
+
+---
+
+## Wood Selection
+
+The trunk is separated into individual boards stacked in layers. Approximately one third of the trunk diameter is occupied by the heartwood, which can be identified by its darker coloration. At the very centre of the heartwood lies the pith. This must not be used for structural components. The heartwood itself is particularly well suited for compression struts (stanchions). Surrounding the heartwood is the sapwood, which, when cut from the region nearest the heartwood, is suitable for spar flanges and similar components. From the illustration we can see the approximate position of the planks that yield the most useful material for our purposes. Precise specifications cannot naturally be given, since every trunk presents a different appearance. The essential point, however, is that we require the sapwood planks lying approximately halfway between the heartwood and the bark. The timber merchant will not be particularly pleased when we select the best planks from the middle of his trunk; no matter — insist on it. For our aircraft we need the very best available.
+
+---
+
+## Grain Inspection
+
+We must now examine the grain of the plank. It should show long, straight, and fine grain — completely free of knots, without wind shakes, and with as few resin pockets as possible. From Figure 6 we can clearly identify the two pieces with poor grain and the one with good grain. This gives us a general picture of what our timber should not look like. Furthermore, ensure that our planks are not musty — that is, showing staining — and that they exhibit neither blue stain nor red rot. Finally, the trunk may exhibit spiral grain, which can be recognised by the helical pattern of the bark. Spar flanges, particularly box spar flanges, cut from such a trunk will warp.
+
+---
+
+## Moisture Content
+
+The timber must have been stored in the open air (not in a drying chamber), but kept under cover. The moisture content must lie between 14 and 16%. We determine the moisture content of a plank by weighing a test piece, drying it completely in an oven, and determining the percentage loss in weight; this must then lie between 14 and 16%.
+
+---
+
+## Cutting the Planks
+
+When the plank is subsequently cut into strips, the two outermost sections are discarded (being the softer part of the sapwood adjacent to the bast). Cut into individual strips as closely as possible along the direction of the grain.
+
+---
+
+## PAGE 14
+
+*Figure 6. Timber Samples.*
+
+Left sample: Wild growth; knots and resin pockets, uneven grain, wind shakes.
+Right sample: Well-grown timber.
+
+---
+
+## Strength Testing
+
+When cutting into individual strips, follow the grain as closely as possible.
+
+If we still have doubts about the quality of our timber (in the case of strips for spar flanges), we can quickly carry out a few strength tests. We need have no knowledge of structural mechanics in order to determine the breaking strength of our material by the method described below. We need only observe all the specified...
+
+---
+
+*[Text continues on page 15]*
+
+we adhere precisely to these measurements, we obtain a reliable indication of the quality of our wood.
+
+We prepare three strips of approximately 1.3 m length and a cross-section of exactly 15 × 15 mm. As shown in Figure 7, we clamp the strips so that a load can be applied at a distance of one metre from the clamping point. It should also be noted that a roller or similar object must be placed under the clamping point, so as not to create a notch through a sharp edge, as this would damage the outermost fibre and cause the rod to break prematurely (Fig. 7).
+
+*with unloaded rod — free length*
+
+**Fig. 7. Strength test.**
+
+We now hang weights from the beam, beginning with one kilogram and increasing the load by ¼ kg at a time until the rod breaks. With good wood quality, a rod of pine must be able to withstand a load of approximately 5–6 kg. We carry out this test with our three test rods in succession, add the breaking loads achieved, divide by three, and thus obtain the mean breaking load.
+
+With a lever arm of one metre and a cross-section of 15 × 15 mm, the rod must not break until:
+
+| Wood type | Breaking load |
+|-----------|--------------|
+| Pine | 5–6 kg |
+| Spruce | 4–5 kg |
+| Ash | 6–7 kg |
+
+14
+
+=== PAGE 16 ===
+
+WHICH TYPES OF WOOD DO WE USE FOR SPECIFIC
+STRUCTURAL MEMBERS?
+
+For all highly stressed parts such as spars, struts, and fuselage frames heavily loaded by the wings, we most advantageously use pine, or alternatively well-grained spruce.
+
+For ribs, trailing edges, and other parts that serve as covering, one preferably uses lighter wood such as spruce, lime, or again fir.
+
+In many cases it is not entirely clear in the workshop which wood may be used. One must always strive to build as light as possible. Parts that serve to transmit flight or landing loads — such as frames to which the wing, control surfaces, or similar components are attached — must naturally not be made from lime.
+
+For control surface horns and for the skid, which during landing is subjected to considerable bending and also abrasion, we use the tough and resilient ash.
+
+For filling corners and other fairing work (the fairing tail of the cockpit enclosure, fairings over protruding fittings, etc.), balsa wood is used. This is distinguished by its extraordinarily low weight and ease of workability.
+
+When a piece of balsa wood has been shaped and is to be smoothed, the surface is brushed several times with cold glue mixed to a thin consistency. This creates a hard surface that takes varnish well. Without this treatment, the soft fibres make it impossible to achieve a smooth finish.
+
+---
+
+GLUE.
+
+In aircraft construction only cold glue, also called casein glue, is used. The glue is supplied as a flour-like powder and is mixed with water ready for use. Nothing may be glued with joiner's glue or hot glue, as this is neither water-resistant nor possesses the necessary bonding strength.
+
+¹ Supplier: F. A. Sohst, Timber Importers, Hamburg, Grunerdeich 20.
+
+15
+
+=== PAGE 17 ===
+
+PLYWOOD.
+
+For joining strips, and for skinning wing leading edges, fuselages, etc., plywood is used. Plywood is normally glued together from three thin layers, of which the two outer layers run lengthwise and the inner layer runs crosswise. In glider construction we work with plywood from 0.8 to 3 mm, or occasionally 4 mm thickness; the latter is rarely used, as it is only required for torsion noses of very large cantilever aircraft.
+
+The skinning of highly stressed parts, such as spars, wing leading edges, fuselages, and connecting fishplates of diagonals, etc., may only be carried out using birch plywood of aircraft quality. Parts that serve purely as fairing, as well as corner pieces in ribs or similar applications, may be worked with lower grades. However, these must be carefully selected, and defective pieces must be rejected before use. Defective areas are immediately recognisable by holding the panel up against the sun or against a strong electric light bulb. Voids in the middle layer then appear as bright spots. For the outer layers the same applies as for normal timber: no knots, cracks, etc. When dealing with the manufacture of individual components, the possibility of using lower grades will be addressed again.
+
+---
+
+SHEET STEEL, STRIP STEEL, AND STEEL TUBE.
+
+**Sheet Steel.** For fittings that are to be bent and welded, box-annealed deep-drawing sheet of approximately 28% elongation at a tensile strength of 35 kg/mm² must be used. Sheet iron
+
+---
+
+Today a great many different types of cold glue are offered on the market. Of the many good products, only the cold glues by Elhardt and Certus shall be mentioned. A number of cold-glue products are unsuitable for aircraft construction, and it is always better to use time-proven products. Should any doubt exist regarding suitability, samples should be sent to recognised testing institutes for strength testing.
+
+or other inferior materials are not permissible for aircraft fittings. To test the sheet metal for suitability, it is folded double; no cracks may appear at the fold (Fig. 8). (Trade designation for Krupp sheet steel: JZ 4.)
+
+*No cracks may appear at this point.*
+
+Fig. 8. Double fold test.
+
+**Strip steel** with greater strength is used for narrow straps Strip steel without flanged edges (fittings for attaching wires). (Up to 70 kg/mm² tensile strength.) Such hard and strong material is completely unsuitable for the manufacture of flanged and bent fittings, as it tears at the bending edges.
+
+**Steel tube** for normal loads must have a strength of Steel tube approx. 40 kg/mm² and an elongation of approx. 28%. For particularly high loads we order bright-drawn steel tube, which has a strength of approx. 50 kg/mm² and an elongation of approx. 7%. In working, particularly when bending, the latter material is disadvantageous due to its greater hardness.
+
+Gas pipe or other types of iron pipe must not be used. This is to be observed especially in the manufacture of control systems, as these are subjected in part to very high loads.
+
+2 Workshop Practice 17
+
+=== PAGE 19 ===
+
+STEEL FOR CONICAL BOLTS FOR WING ATTACHMENT FITTINGS
+
+Conical bolts for wing attachment fittings are normally turned from SM steel. For bolts subject to particularly high loads, the steel grades marketed under the following designations are suitable: weldable steel St.C.25.61, non-weldable steel St.C.45.61.
+
+---
+
+LIGHT METALS: ELEKTRON AND DURAL
+
+For cable pulleys and parts of segment levers over which cables run, Elektron pressed material or Galalith is used. No other materials should be used for this purpose, as cables running only on these materials suffer little wear.
+
+**Dural Sheet**
+
+Dural sheet is used only in rare cases in glider construction, since the working of Dural requires special equipment for heat treatment after bending operations. Clubs cannot normally afford this, and club workshop operations can be managed perfectly well without Dural sheet. Should the need to fabricate Dural fittings arise, however, one should send for the Dural processing literature, from which everything worth knowing about its working can be found.
+
+**Dural Tube**
+
+For elevator bearing tubes and controls that require only drilling and little other machining, grade 681a, hardness 1, from Dürener Metallwerke is very suitable, with an ultimate tensile strength of 40 kg/mm² and an elongation of approximately 10%.
+
+---
+
+SCREWS, BOLTS, TURNBUCKLES, PULLEYS
+
+These are finished products best obtained from firms that deal in these materials, as only from such sources can we be assured that the material will be supplied in the correct form, dimensions, and good quality. Furthermore, these parts are inexpensive enough that self-manufacture is not worthwhile. For gliders, the use of ball-bearing pulleys is recommended, since achieving a smooth-running aileron control presents difficulties, particularly on larger aircraft. Pulley diameter not less than 50 mm. The larger we make the pulley
+
+*[continues on page 20]*
+
+Fig. 9. Screws, bolts, etc.
+
+the larger the diameter chosen, the easier the operation. Large pulleys can always be ordered and manufactured to specification at any time — no iron pulleys, only Elektron, Galalith, or pressed material.
+
+Regarding screws, attention should be drawn to the following: no slotted-head screws where the heads are subjected to tensile stress. **Use of slotted-head screws**
+
+---
+
+## WIRES AND CABLES
+
+**Wire**
+For bracing lattice tails, cross-bracing of struts, or similar purposes, steel wire is used. The use of iron wire for bracing is not permitted in aircraft construction.
+
+**Control cables**
+For control runs, use only cable with a hemp core (trade designation DIN L 9). Control cables are wound from individual strands laid around a hemp core. Each strand is itself twisted from many fine wires, the individual diameter of which must not exceed 0.3 mm, as otherwise the cable becomes too stiff and runs over the pulley with excessive friction loss.
+
+Do not use old cables with individual broken wire strands, as such fracture points rapidly enlarge
+
+---
+
+*=== PAGE 21 ===*
+
+and can easily lead to a complete break. Bowden cables, or cables without a hemp core, are not permitted.
+
+---
+
+## COVERING
+
+The covering fabric for gliders and sailplanes must be selected according to the intended use of the aircraft. For training sailplanes, a firm cretonne or linen is sufficient, while for high-performance machines a lighter material such as silk batiste or raw silk is preferred. Should there be any possibility that the latter machines will be used for cloud flying, where the covering is at risk from hail damage, then covering with the firm yet light raw silk — or alternatively with the admittedly heavier cretonne or linen — is absolutely essential. Silk batiste becomes brittle after doping with Cellon and cannot withstand hail impact.
+
+We can see the effect hail damage can have from the elevators of the *Fafnir*. The well-known sailplane pilot Gronhoff encountered severe hail squalls during one of his cross-country flights, which caused considerable damage to the wing and elevator covering (Fig. 10). The covering was made of silk batiste.
+
+*Fig. 10. Elevator covering destroyed by hail damage.*
+
+When selecting covering fabric, we always first purchase a sample piece and test its suitability with regard to doping with Cellon and lacquering. On a frame (see later under "Doping with Cellon") we stretch the piece, apply the Cellon dope, and determine whether the fabric tightens correctly, does not absorb too much Cellon, is airtight, and does not become too brittle. Coarse-weave fabrics in particular consume a large amount of Cellon.
+
+---
+
+*=== PAGE 22 ===*
+
+FABRIC STRENGTH
+
+A minimum strength of 6 kg/cm in warp and weft is required of the fabric. Almost any fine-weave linen or cotton fabric is suitable for training aircraft, provided it is only lightly sized.
+
+---
+
+IMPREGNATION AGENTS FOR COVERING FABRIC
+
+For covering beginner gliders, the fabric may be impregnated with waterglass or starch. These agents tauten the fabric and make it reasonably airtight. Such an aircraft should not be left standing in the rain for long, as the whole covering will otherwise soften.
+
+**Waterglass**
+For impregnation with waterglass, only cretonne with sizing is suitable. Waterglass is available at any chemist's shop. One coat is sufficient. The waterglass may need to be thinned somewhat with water.
+
+**Starch**
+Any fabric can be impregnated with rice starch, prepared in the same way as shirt starch. The starch should however be applied warm.
+
+**Cellon**
+The covering of all other sailplanes must be treated with Cellon. Cellon is likewise manufactured by numerous firms; not every Cellon is compatible with every type of fabric. Again, order samples first and check suitability. After two to three coats the fabric must be properly taut and airtight. (Test by drawing air through with the mouth.)
+
+---
+
+WOOD IMPREGNATION
+
+Internal aircraft components are best protected with a colourless spirit varnish. This is inexpensive, dries quickly, and is easily removed during repairs, as it contains no oil and therefore does not penetrate into the wood. The Cellon varnish "Ocker," manufactured by Titanin-Werke, has also proven very satisfactory. In addition to fast drying, a coat of this varnish provides the further advantage that the yellow finish remains clearly visible, ensuring no unprotected spots are left, and the interior of the aircraft always appears clean.
+
+---
+
+*[Page 21]*
+
+=== PAGE 23 ===
+
+FINISHING WITH VARNISH
+
+Those who must work economically may also paint the exterior of the aircraft with spirit varnish; however, its durability is low and a high degree of smoothness cannot be achieved. The best high-gloss finish is obtained with a good boat varnish. Using inferior varnishes is pointless, as the price evens out through greater durability.
+
+The wood is first impregnated with a pore filler, then sanded and coated with the finish varnish.
+
+TREATMENT OF FITTINGS
+
+All fittings are protected against rust with a clear finish varnish (blue or green). The varnish must be transparent in order to allow inspection of the fittings. As already mentioned above, the coloured varnishes have the advantage of being easy to see.
+
+---
+
+MATERIAL PROCESSING
+
+GLUING
+
+**Mixing the glue**
+
+As already mentioned, only cold casein glue is used in aircraft construction. The cold glue powder is mixed with water. Each manufacturer supplies appropriate instructions for use, which must be followed exactly. The cold glue is mixed in enamel, stoneware, or glass vessels — metal containers will spoil the glue — using a wooden spatula, and only in quantities that will be used within the next eight hours, as the glue has a limited working life.
+
+**Working life**
+
+(Barely 10 hours; in high temperatures the working life is reduced to 6 hours.) Never use leftover glue from the previous day.
+
+Glue powder must be stored dry and in airtight containers, as it deteriorates on exposure to air.
+
+Glue only at normal temperature. Frost destroys any glued joint.
+
+**Clamping**
+
+For a durable glued joint, adequate clamping pressure is the most important factor. Do not apply the glue too thinly; it must squeeze out from the joints. Do not wash off the squeezed-out glue — it may only be removed with a spatula after one hour.
+
+---
+
+*[Page 24]*
+
+The clamping device must remain in place for 6 hours, and further processing should not begin until after 12 hours. In summer, during very dry weather, these times are reduced considerably. The glue that has been squeezed out can serve as a gauge of correct bonding — it must be almost hard.
+
+Depending on the location of the glued joint, the clamping devices also vary. The most important aircraft construction equipment — clamps — has already been mentioned. To transfer the pressure of the individual clamps across the entire gluing surface during pressing, packing pieces are used, i.e. thick wooden strips placed between the workpiece and the clamps. In addition, the wood grain is protected from damage by the clamps by means of these packing pieces.
+
+**Clamps**
+
+Another type of clamp was shown in Figure 3. This can be used in places where screw clamps cannot easily reach. The steel clamps are spread apart using suitable pliers and then applied.
+
+All pieces to be glued must fit together cleanly, whether fitted into or onto one another. No voids must be allowed to form which are simply filled with glue, with the assumption: "Now everything is in order — nothing can be seen anymore."
+
+*Nail strip on a component as a clamping device*
+
+**Fig. 11. Clamping Device**
+
+23
+
+---
+
+=== PAGE 25 ===
+
+# Nailing Strips
+
+When applying plywood (fuselage walls, nose planking, or corner joints), nailing strips are used. For this purpose, strips of 10 × 5 or 15 × 5 mm are taken, and nails are driven through the strip into the glue joint (Fig. 11). Since the nailing strips distribute the pressure evenly, it is not necessary to drive nails right next to one another. When the glue has dried, the nailing strip together with the nails is pulled out using pliers.
+
+# Nail Strips for Curved Parts
+
+For pressing round parts or pressing against them, plywood strips (d = 2 mm) are used instead of solid strips. (Applying plywood to wing leading edges.)
+
+Nailing strips should always be prepared in generous quantities, since they are in constant use. Nails of 15 to 18 mm length are nailed into the strips at intervals of 15 to 20 mm so that only the tips of the nails protrude; later the strips need only be placed on the glue joint and the nails driven through firmly.
+
+# Use of Nails
+
+In a good glue joint, nails do not increase the strength of the connection. The fewer nails that remain in the wood, the better for the service life and appearance of the aircraft interior. Iron nails must be removed in all cases, as they rust and destroy the wood fibres. No nails whatsoever in wing spar flanges!
+
+# Wood Screws
+
+Never use nails that are too large, or wood screws, for pressing. Spar flanges, struts, and diagonals in particular must be protected from damage by large nails — every nail destroys wood fibres.
+
+# Roughening Surfaces
+
+For highly stressed glue joints, such as the spar, segment, and control surface planking, the wood onto which the plywood is to be glued must be roughened. With hardwood in particular, this roughening is always necessary, as it bonds less well than softwoods. For roughening, a toothed plane is required. It is set fine, and the gluing surface is first roughened diagonally across the grain and then perpendicular to it. The plane iron must be adjusted so that it cuts only very fine grooves into the wood.
+
+24
+
+---
+
+*=== PAGE 26 ===*
+
+# GLIDER WORKSHOP MANUAL (1935) — TRANSLATION
+
+---
+
+**A small tip for sharpening the toothing plane iron:** Sharpen it like a normal plane iron, but afterwards do not strop it; instead, drive it firmly into the end grain of a piece of hardwood, and the iron will be sharp again.
+
+---
+
+## PRESS BOARDS
+
+If one wishes to glue plywood sheets together along their length (**scarfing**), one will find that ordinary clamps do not reach far enough across the sheets to apply sufficient pressure in the middle. Using nail strips punches too many holes in the plywood, which looks particularly unsightly on the leading-edge skins of high-performance aircraft. For pressing, we therefore use the device shown in **Figure 12**.
+
+**Fig. 12.**
+*Press boards for gluing scarf joints.*
+
+The device consists of two stout pieces of timber, each planed to a uniform curve on one side. There must be no kinks in the curve, as otherwise the pressing force will not be transmitted evenly across the joint. The device can be made up following **Figure 13**.
+
+---
+
+*[Page 27]*
+
+To glue two sheets together, tack one sheet onto the lower beam (curved side facing up) with two or three pins, apply glue to the scarf, lay the second sheet on top, tack it down with a few pins as well, and then press the upper beam down from above (curved side facing down) against the lower one using clamps.
+
+---
+
+**Fig. 14.**
+*Arrangement of scarf joints in load-bearing components.*
+
+*Scarf positioned incorrectly — tends to split open at the ends under load.*
+
+The press boards must be well varnished or greased to prevent the plywood from being glued to the pressing device by squeeze-out. It is also advisable to place a sheet of paper (waxed paper) between them.
+
+---
+
+## SCARFING OF STRIPS
+
+The longitudinal joining of two strips is accomplished by scarfing. The scarf length for strips shall be equal to **fifteen times** their thickness. **Figure 14** shows the correct orientation of the scarf. When pressing, take care that the bevelled surfaces do not cause the strips to slide apart, which would result in the actual cross-section of the flange being too small (see **Fig. 15**). A well-made scarf joint is as strong as the solid strip. If, for example, a knot or other defective area is found in one of the wing spar flanges, cut it out and scarf in a sound piece (see **Fig. 16**).
+
+---
+
+*[Page 28]*
+
+**Fig. 15.** *Scarf joint has slipped during pressing.*
+
+**Fig. 16.** *Inserting an intermediate scarf piece.*
+
+---
+
+## CORNER BLOCKS
+
+Where two strips meet at right angles — that is, where long grain meets end grain — a sound connection must be ensured by means of corner blocks and plywood gussets. With corner blocks, attention must be paid to the correct grain direction. As much long grain as possible must always be glued to long grain (see **Figs. 17 and 18**).
+
+---
+
+*[Page 29]*
+
+**Fig. 17.** *Corner blocks at obtuse angles.*
+
+*Incorrect*
+
+Fig. 18. Corner blocks in acute angles.
+
+**Plywood Scarf Joints**
+
+Plywood panel joints are also made by scarfing. The scarf length must equal fifteen times the plywood thickness.
+
+The plywood side to be bevelled is fastened with nails to a straight board so that the plywood edge is flush with the edge of the supporting board. The scarf width is marked out and bevelled with a smoothing plane. The two upper plies of the plywood may be removed, while the bottom ply must remain intact (Fig. 19). With plywood scarf joints too, we must take care that the scarf faces do not slip against each other during pressing, as this causes the thickness at the scarf to no longer equal the thickness of the plywood. Rasps and files should only be used for scarfs on rounded edges. Take care that the upper surface of the scarf does not become rounded.
+
+Scarf length
+Displaced scarf joint
+
+Fig. 20.
+
+A less common method of plywood jointing in glider construction is overlapping the plywood edges without bevelling; here too the overlap width is 15 × s.
+
+---
+
+**WELDING**
+
+It would go beyond the scope of this book to write about welding itself; this chapter is intended only to give everyone the means to assess a weld. A great deal depends on the quality of welding on wing attachment fittings or control fittings. We must therefore entrust the welding of aircraft fittings only to a welder who is experienced in welding thin-walled sheet metal and tubing and who guarantees good workmanship. The principal defects that can affect a weld are:
+
+1. The seam is burned — typical signs of this are blisters, holes, and slag inclusions;
+
+2. or the seam is "blobbed" — the weld material sits on top of the sheet without having penetrated into the depth. The sheet metal did not become molten during welding. In a good weld seam, scale must follow scale evenly and without interruption.
+
+Weld seam blobbed
+Weld seam burned
+Good weld seam
+
+Fig. 21. Weld seams.
+
+The finished weld seam must neither be filed down nor covered with an opaque lacquer.
+
+From Fig. 21 we can see one good weld seam and two defective ones.
+
+---
+
+**BRAZING**
+
+Brazing has hitherto been used for securing reinforcement eyelets to fittings. Similar defects to those in welding can occur here as well. The brazing alloy must have flowed through properly everywhere and must not be blistered or crusty at the edges.
+
+During brazing, a slag layer forms over the brass; when this is scraped away, bright brass must appear beneath it.
+
+WIRE AND CABLE CONNECTIONS.
+
+WORKING WITH STEEL WIRE.
+
+To attach steel wires to turnbuckles, bolts, or tabs, the end is fitted with an eye. The making of a correct eye is shown in Fig. 23.
+
+A suitable spiral ferrule is slid onto the wire, then the eye is bent using round-nose pliers (not combination or flat-nose pliers), both ends are angled, the turnbuckle or relevant tab is hooked in, the spiral is pushed firmly into the eye, the free wire end is bent over and cut off. The eye must be nearly circular. Fig. 22 shows an eye as it should not look. A failed eye must under no circumstances be bent back, but must be replaced with a new one. When steel wire is bent back, it becomes brittle and breaks under the slightest load.
+
+Holes in sheet-metal tabs into which steel wire is to be hooked must be fitted with copper tube rivets.
+
+CABLE CONNECTIONS.
+
+Cable ends must be fitted with an eye for attaching fittings, turnbuckles, or similar hardware, into which a thimble is inserted. The correct securing of the cable end is achieved either by splicing or by fitting a cable clamp. The cable clamp may be used only on gliders. The fitting of a cable clamp is shown in Fig. 24.
+
+If a cable is to be secured in a clamp, then
+
+---
+
+*Fig. 23. Bending a correct wire eye.*
+
+---
+
+**Note on preceding passage:**
+
+If the brass appears bubbly and granular, the soldering was done at too high a temperature — that is, the solder was burned. Hard soldering should today be avoided wherever possible, as soldered-on parts can easily pop off or shear away under load.# Workshop Manual Translation (1935 German Glider Manual)
+
+---
+
+First remove the screws from the cable clamp, slide the clamp onto the cable, and pass the wire rope through the turnbuckle eye over a thimble. (The thimble is bent open for insertion into the turnbuckle. Make sure the thimble is the correct size for the rope.) The free end is now passed through the clamp, which is then pushed up close to the thimble. Once the small screws have been tightened back into the cable clamp and the cone nuts firmly tightened down so that no part of the cone protrudes, the free end can be
+
+**Fig. 24. Securing a turnbuckle and the use of a cable clamp.**
+
+folded back and secured against the clamp with seizing wire. From Fig. 24 we also see the correct method of securing a turnbuckle with seizing wire. For flight operations, all turnbuckles must be safetied against unwinding. The wire is passed from one end of the turnbuckle through the bore of the barrel to the other end, then back through the bore to the starting point, and fastened securely.
+
+On sailplanes, cable ends may only be joined by splicing.
+
+---
+
+## Splicing
+
+Fear of splicing is entirely unwarranted. Following the splicing instructions below, with the aid of the explanatory illustrations and some manual dexterity, one will be able to produce a correct splice in a short time.
+
+*3 Workshop Practice 33*
+
+---
+
+**=== PAGE 35 ===**
+
+**Fig. 25. Splicing clamp. Fig. 26. Splicing without a splicing clamp.**
+**Upper image: Completed splice.**
+
+---
+
+I will describe the splicing procedure in two parts. The first is intended to address the questions that commonly arise; the second shows us the actual splicing process.
+
+The tools required for splicing are remarkably few. A round-nose plier, a combination plier, a cutting plier, and a thin file without a handle are entirely sufficient.
+
+Our control cable consists of six strands, each of which is in turn twisted from seven thin wires. The six strands run helically around a hemp core. Before we
+
+*34*
+
+---
+
+**=== PAGE 36 ===**
+
+# Cable Splicing Instructions
+
+**Fig. 27a.** **Fig. 27b.**
+
+The illustration shows the cable with the lower thimble end, three strands laid together upward and three strands laid together downward. As can be seen, the turns of the fixed end run clockwise. I mention again that it is correct to make the splice exactly as described here, since otherwise difficulties will arise later. The splicing method that follows has been specified by the German Research Institute for Aviation (DVL). The splice is made against the lay of the cable, in contrast to the splice still common today in gliding circles, which runs with the lay. The latter is not as strong and requires the same amount of work to produce as the present method.
+
+---
+
+**Fig. 27c.** **Fig. 27d.**
+
+Using the splicing needle we have now, from the right side, pushed through the fixed cable at a right angle to the rope, so that three strands lie on top and three strands come to lie on the bottom. In other words, we have pushed through the middle of the rope. Care must be taken that the hemp core is not damaged or pulled out when piercing the cable. From the left we now push the three strands 1, 2, and 3, individually or together, into the opening and pull them taut. The piercing should be made as close to the thimble as possible; strands 4, 5, and 6 remain standing upward.
+
+---
+
+We now pierce an opening in the cable once more from the right with the splicing needle, but advancing one strand further — that is, we leave strand x in place and emerge from the same opening into which strands 1, 2, and 3 run, then push strand 6 from the left through the opening so created. Strand 6 therefore lies under two fixed strands and shares the same exit opening with strands 1, 2, and 3. Figure 27c already shows the completed insertion of strand 6.
+
+---
+
+This illustration shows the insertion of strand 5. As the illustration already makes quite clear, strand 5 is inserted into the same opening and passed under only one strand. It thus enters the same opening as strands 1, 2, 3, and 6, but emerges one strand earlier than strand 6. Strand 4 remains standing upward, as the splicing process will be begun with this strand later.
+
+**Fig. 27e. Fig. 27f.**
+
+We now turn the thimble 180° so that we have the underside facing up. Strands 4, 5, and 6 have been omitted for clarity. Only the three strands 1, 2, and 3, inserted together, are visible on the left side. From this view, the further distribution of the individual strands is carried out.
+
+Strand 2 is led back through the exit opening of the same and passed under two strands toward the right. The illustration shows us the strand that has been passed through. This must now be pulled completely through. When pulling through, the strand tends to form a loop. This loop must be untwisted so as not to break the strand when the loop is drawn tight. To clarify the last step once more, I repeat: strand 2 is passed back through the exit opening of strands 1, 2, and 3, and led under two fixed strands toward the right. By "fixed strands" is meant: the strands of the fixed cable (see Fig. 27a).
+
+---
+
+**Fig. 27g. Fig. 27h.**
+
+This illustration shows strand 2 already laid upward, and strand 1 passed back by one strand — that is, strand 1 is passed back through the exit opening and led to the right on the outside under one strand. This is also pulled through and laid upward like strand 2.
+
+If we now examine our cable, we will notice that between every two fixed strands there is always one end showing. Under no circumstances may two loose strands show between two fixed strands; if so, an error must have occurred. The loose strands must be properly tensioned in order to achieve a good, firm splice. To do this, we first pull the loose strand firmly toward our body — best done with a pair of combination pliers — and then the strand is drawn by hand as close as possible to the thimble. By pulling toward the body we ensure that the loop around the wires is drawn up tightly. By drawing toward the thimble we achieve the greatest possible compactness of the splice.
+
+---
+
+We turn our thimble 180° again and we see the four strand ends 4, 5, 6, and 3, which have all first been pulled firmly toward the body and then pressed as close as possible against the thimble. The actual splicing operation begins with strand 4. This is the strand that remained standing up alone; strands 1 and 2 lie at the back and cannot be seen.
+
+**Fig. 27i. Fig. 27k.**
+
+Now the splicing begins. This is very simple. We only need to pay attention and apply the necessary care, and even our first splice will succeed.
+
+The splicing process begins with strand 4. The splicing proceeds against the lay direction of the standing cable and follows the simple rule: **over one, under two.** By "one" and "two," the standing strands are meant. The illustration shows us how strand 4 runs over standing strand y and is then passed under the next two strands, emerging at the exit opening of strand 3. We will now already know how strand 5 is spliced. It passes over strand 2 and under the next two strands.
+
+**Fig. 27k.**
+
+This illustration shows us strand 6, which has been drawn tight, and strand 5, which has also already been spliced. The splicing process is continued in this way with each successive strand until we have gone all the way around. When splicing, one must always take the finished spliced strand with the left hand against the standing cable, in order to avoid confusing it with the strands not yet spliced. Work must always continue with the next loose strand, as otherwise errors will occur. Once we have gone all the way around, we again take each strand one by one and pull it firmly toward the body and then firmly toward the thimble. We then let all the strands stand upward again and begin a second round of splicing, always following the rule:
+
+**"over one, under two"**
+
+strands. Once we have spliced three times all the way around, we drop two strands and cut them off with cutting pliers. Then we splice with the remaining four strands once more all the way around ("over one, under two"), drop two more strands (cut them off), and finally splice once more all the way around with the remaining two strands — and with that we have achieved a good taper on our splice.
+
+*(Splice needle [illustrated])*
+
+The strand ends are cut off as close as possible to the splice, and then the entire area of the cut-off strands is wrapped tightly with thin brass wire. With a piece of wood we finally tap the splice so that it beds down properly and takes on a neat, round shape. The upward-bent tips of the thimble can now be bent back again. Once we have taken the trouble to learn splicing, we will find how simple it is to produce an absolutely reliable cable connection.
+
+---
+
+*39*
+
+=== PAGE 41 ===
+
+Before we cut our cable in order to work the corresponding piece, we must anneal the cable thoroughly in the area of the cut, so that the internal tension is removed from the cable. If we were simply to cut through the cable without annealing it beforehand, it would untwist very quickly and far too much.
+
+We now lay our cable around the thimble so that the free end, with which the splicing is done, stands out approximately 15 cm. We press the edge of the thimble firmly against the cable with round-nose pliers, so that it can no longer slip out. We secure the cable at the points where it exits the thimble with two wire clips (see Fig. 27a). These wire clips are intended to prevent the cable from untwisting further during splicing. The free rope end is now annealed once more over a length of 4 cm, so that it becomes completely soft; the strands are then untwisted from one another and each individual end is twisted together with combination pliers, so that no more small wires can come out of the strands. The hemp core running in the centre is fed through during the first splicing operation and then cut off. The hemp core is not shown in the explanatory illustrations in order to avoid confusion with the strands. A splicing needle is required for piercing the cable; either we obtain one similar to that shown alongside, or we take a larger nail and file it to a point over a greater length, or we use the pointed end of a round file.
+
+A further aid in splicing is the **splicing clamp** (see Fig. 25), which presses the cable into the thimble from all sides. It is available for approximately 8 to 10 Reichsmarks at the relevant shops. This aid is not absolutely necessary, however, as the quality of the splice does not depend on the clamp. We hang the thimble up somewhere with a piece of wire (see Fig. 26). In order to begin the splice as close as possible to the thimble, the thimble points are bent upward at right angles. The splicing now begins with Fig. 27a.
+
+40
+
+=== PAGE 42 ===
+
+# COVERING WING SURFACES
+
+**Test Frames**
+
+We stretch our fabric samples onto several test frames as shown in Figure 28. The frame has approximately the shape of the panel formed by two ribs and the spars. The samples are celloned two to three times and the most suitable fabric for our aircraft is selected.
+
+*Fig. 28. Test frame.*
+
+Anyone who has not yet applied cellon or lacquer can practice this work well on the test frame, and will then approach the treatment of the entire surface with a practiced hand (see later under *celloning*).
+
+*Fig. 29. Sewing fabric panels together.*
+
+**Joining Fabric Panels**
+
+To achieve the necessary width of covering, two panels usually have to be sewn together (Fig. 29), as the fabric is too narrow. The *warp* of the fabric, which runs along the length of the panel, must lie parallel to the spars when covering.
+
+Along the spars, the fabric is pulled taut during application so that it sags as little as possible between the ribs; otherwise the cross-sectional shape of the wing is altered unfavourably, as shown in Figure 30. The profile is the most important
+
+---
+
+*=== PAGE 43 ===*
+
+feature of the entire machine, and the greatest care must therefore be taken to preserve it. At the creases, vortices break away which increase the aerodynamic drag of the wing and thereby greatly reduce its flying characteristics.
+
+*Fig. 30. Sagging of the fabric.*
+*(Caption: Cross-section showing the difference between correctly tensioned and sagged fabric.)*
+
+---
+
+**Covering**
+
+We begin by covering the undersides of the wing panels. To do this, the fabric is rolled up along its width so that the long roll of fabric lies along the leading edge spar. Glue is applied over a width of 25 mm at the nose, and the fabric is rubbed down along its entire length using a rounded piece of wood, while pulling it firmly toward the wing tips, until the glue penetrates through the fabric and it lies down well. Mix the glue thinner than normal. Do not use too much glue, and do not apply it right up to the spar edges, as it will otherwise pull the fabric around the spar edge (Fig. 31).
+
+*Fig. 31. Glue was applied up to the spar edge and pulls the fabric down.*
+
+After approximately one hour the glue has dried, and we then apply glue to all the outline edges of the wing panel: the wingtip strip, the innermost and outermost ribs, and the trailing edge strip. The fabric is now unrolled and rubbed down with lateral tension — do not pull in the direction of the ribs. A few tacks to hold the fabric in place make this work easier. Applying the fabric requires 3 to 4 men. Using a wooden rod, we now apply glue thinly everywhere along the rib positions and rub it through the fabric onto the spars. We must proceed very carefully here so that the covering adheres properly at every point.
+
+**Workshop Manual — Glider Construction (1935)**
+**Translation — continued**
+
+---
+
+(A further aid for applying the glue is a nozzle formed from a pointed cone of paper used as a syringe.) The method described above may appear more complicated than simply applying the glue directly to the ribs and rolling the fabric over them. With that approach, however, the fabric slides back and forth across the ribs during the subsequent tautening, causing the glue to adhere all over the covering instead of where intended.
+
+On beginner aircraft, which have only small plywood leading-edge strips, it is best to wrap the fabric around them. In this case one begins covering at the trailing edge, draws the fabric around the nose and back again to the trailing edge; for this, three to four widths must be sewn together.
+
+---
+
+**Sewing on the Fabric**
+
+On high-performance sailplanes it is advisable to sew the fabric on. This is particularly necessary on strongly curved wing undersurfaces, since the fabric repeatedly pulls free under tension before the glue has set.
+
+---
+
+*[Figure 32 caption — integrated here as it appears in two columns alongside the illustration:]*
+
+The ribs are cut through at the spar, and their connection is achieved by means of plywood gussets. The leading-edge planking must not be relied upon as the connecting element, since its grain runs transverse to the ribs. Rounded tabs remain from the leading-edge planking; these effectively prevent the fabric from sinking in between the ribs.
+
+---
+
+*Fig. 32.*
+
+---
+
+For sewing on the fabric, the ribs must either be wrapped with narrow strips torn from the covering fabric, or strips must be glued to the sides of the ribs through which we sew later. Wrapping the ribs has proved to be the better method.
+
+At the leading edge and trailing edge the covering is glued on as before using cold glue or dope-adhesive. The forward edge of the fabric is frayed out in order to achieve a still more intimate bond between the plywood and the fabric.
+
+Since the covering tends to form a crease at the spar edges, as already mentioned, in order to prevent this one should —
+
+---
+
+*[Text continues on page 45.]*
+
+---
+
+**[Page 43 ends here]**
+
+**Plywood Skin**
+
+...the plywood skinning to project rearward and cuts it into a tab shape as shown in Figure 32. This design ensures an absolutely smooth transition of the fabric. With a continuous tab that is not cut into this tab shape, it tends to wrinkle easily, which cannot occur with the method described above. During the doping process, the fabric tends to stick to the plywood tab; this can be prevented by placing strips of oilpaper underneath. Use only oilpaper, since it remains inside the wing, and any other paper would rot (Fig. 33).
+
+**Nose Skinning**
+
+*Fig. 33. — Rib upper surface*
+
+*Fig. 34. Sewing on the fabric.*
+
+Applying the fabric is again entirely straightforward — stretch it taut along the spar and glue it down at the outer edges. Using a curved needle (Fig. 34), the fabric is sewn to the ribs with the stitching tape. Every second or third stitch is knotted in itself. Stitch spacing approximately 3 cm. On the underside, where it is strongly curved, the stitches must be correspondingly closer together. The seams on the ribs are
+
+**Covering the Seams**
+
+...covered with fabric strips approximately 2 cm wide, once the covering has been doped. For this purpose, the strips are dipped in undiluted dope and laid tautly over the seams by two men.
+
+**Ventilation Holes**
+
+Once the underside is fully covered, on sailplanes so-called air holes must be fitted at the rear, directly at the trailing edge. Among the tools, a riveting tool for fitting grommets was already mentioned (Fig. 4). The wide solid piece has a spring-loaded punch, over which...
+
+*[Page 44]*
+
+---
+
+*=== PAGE 46 ===*
+
+CELLONING.
+
+Once again, attention is drawn to the test frame — it is absolutely necessary for learning the celloning process and for testing the cellon. It also allows us to determine the correct mixture of cellon and cellon thinner, as this varies considerably depending on the type of fabric. With two to three coats, a correctly celloned surface must be airtight and taut.
+
+Do not cellon outdoors or in a draught, as the fabric will become blotchy and cellon consumption will increase due to rapid evaporation. Cellon work should be carried out in enclosed spaces at normal temperature (16–18°C).
+
+Caution with open flame. Cellon is highly flammable.
+
+When the second coat has dried, the fabric must be sanded with fine sandpaper. Take care at ribs and other edges not to sand through the fabric; this happens very quickly and can only be avoided by paying close attention. If necessary, apply another coat of cellon and sand again.
+
+Sanding after only a single coat of cellon is pointless, as the spaces between the threads have not yet been sufficiently filled, and we would merely be sanding away the threads.
+
+---
+
+Preceding passage (preceding page, included in submitted text):
+
+...a small brass tube with a flange is pushed over it. This pierces up through the fabric from below; a washer is placed over the tube from above, and by means of a punch the tube is riveted over with a firm hammer blow.
+
+Fitting the sail eyelets is strongly recommended in order to allow ventilation of the wing interior. The air that would otherwise remain stagnant inside the wing causes the interior to become completely musty very quickly, and once that happens the good appearance is gone. If such a tool is not available, have similar eyelets punched into the fabric by a saddler or tent-maker. One eyelet every three to four ribs is entirely sufficient. The upper surface is then covered with fabric in the same manner.
+
+---
+
+45
+
+=== PAGE 47 ===
+
+LACQUERING
+
+To achieve an absolutely flawless smooth surface, the following must be observed during lacquering:
+
+Spray the workshop floor with water and sweep it out.
+If possible, do not fire the stove any further; if the temperature cannot be maintained, heat with great caution.
+Keep windows and doors closed to avoid draughts.
+Refrain from all other work and unnecessary movement about the workshop.
+
+All of this serves only to prevent dust from being stirred up, as it is the worst enemy when applying a smooth surface and allowing the lacquer to dry.
+
+**Top Coat**
+
+The temperature should be approximately 15°C. Using a normal, not too small, hair brush, apply the lacquer evenly over the wing, always stroking in the direction of flight. Apply as thinly as possible, do not work over any one spot for too long, and take care not to miss any uncoated areas. On steeply inclined surfaces in particular, do not apply the lacquer too thickly, as it will otherwise begin to run after a short time, forming unsightly drips and ripples. Reference should again be made to the test frame. If this is tilted during test lacquering, one will quickly notice how thickly the lacquer may be applied before it begins to run.
+
+Boat lacquer is dust-dry after approximately 12 hours, but may require up to 36 hours to dry completely. Then wash all lacquered surfaces with cold water and a chamois leather. This may be repeated several times; it is this process that gives the lacquer its proper hardness.
+
+**Pore Filler**
+
+Before applying the top coat, brush all wooden parts with pore filler and sand down thoroughly.
+
+**Spirit Lacquer**
+
+For smaller training gliders, protection of the wood and covering fabric by spirit lacquer is sufficient. When brushing —
+
+=== PAGE 48 ===
+
+# READING DRAWINGS
+
+## Interior Coating
+
+You must work quickly with this varnish, as it dries very rapidly and will streak or become grainy if applied too slowly.
+
+For the interior coating of wooden parts in aircraft used for training purposes and frequently repaired, use only spirit varnish or Cellon lacquer. During repairs, all glue joints must be cleaned of varnish. With spirit varnish this is a simple matter, as it is very brittle and can be scraped off. Oil-based varnishes, on the other hand, penetrate deeply into the wood and cannot be completely removed, which greatly reduces the strength of glued joints.
+
+---
+
+## READING DRAWINGS
+
+Only someone who understands drawings in all their details and can read them correctly is able to build airworthy aircraft. An object depicted in a drawing must, depending on its construction, be drawn in either two or three views. When these three views are not sufficient, the designer often resorts to a perspective representation — that is, the object is drawn as the eye actually sees it.
+
+In which three views, and how, is an object drawn? We will clarify this using a simple fitting as an example (Fig. 35). This is a U-bracket
+
+**Fig. 35. U-bracket.**
+
+**Fig. 36. Projection planes.**
+
+---
+
+### Page 49
+
+of the kind used for the attachment of wings or similar components.
+
+In order to specify all dimensions for length, width, bore holes, etc., we must draw this fitting in three views. How these views are produced is shown in Figure 36. Between three planes, A, B, and C, which are all perpendicular to one another, the fitting is suspended such that its underside is parallel to plane A, its side walls are parallel to plane B, and accordingly its front and rear faces are parallel to plane C. If we now imagine rays of light falling first in the direction of x, then in the direction of y and z respectively, three shadows will be projected onto the three planes: on plane B we obtain the side view, on plane C the front view, and on plane A the top view of the fitting.
+
+On a drawing sheet, however, it is not possible to draw in this three-dimensional manner. In technical drawings, the three planes on which the fitting is visible are unfolded flat (Fig. 37).
+
+**Fig. 37. Unfolded planes: A, B, and C.**
+
+We notice something further. In addition to the solid lines, there are also dashed lines and dash-dot lines. All solid lines
+
+---
+
+### Page 50
+
+# Workshop Practice
+## Page 51
+
+...indicate edges that are visible from the outside. If a part is concealed by another part in front of it, the lines are shown as dashed — for example, ribs beneath the plywood skin. Dash-dot lines indicate hole centres, centre lines of components, or other reference lines. Large parts such as fuselages, wings, and so on are drawn in the same way as this fitting. For the fuselage we find the side view, the top view, and in the frame plan the front or rear view.
+
+We frequently encounter what are called sections, which appear at locations where the cross-section of a component is not constant throughout. As an example, Figure 38 shows a spar through which a section has been taken.
+
+---
+
+*[Figure 38.]*
+
+---
+
+In drawings, components are usually shown reduced in size. The standard reduction scales are 1:2.5, 1:5, 1:10, 1:25, and 1:50. If a component is given at a scale of 1:50, it is drawn at 1/50 of its true size. At a scale of 1:10 it is drawn at 1/10 of its true size, and so on. Complex and small parts are often drawn at full size, scale 1:1.
+
+One final point should be emphasised: **measurements must never be scaled off from drawings.** Draughting inaccuracies, distortion of tracings, and so on will always introduce errors that can become quite significant. In a proper drawing all necessary dimensions are provided; if one should happen to be missing, consult the designer, or attempt to calculate the missing dimension from other dimensions that are available. A drawing contains a great deal more information than one might suppose at first glance — so keep your eyes open and study it carefully.
+
+---
+
+*4 Workshop Practice*
+
+CUTTING STRIPS TO SIZE
+
+Strips for the construction of spars, ribs, trailing edges, fuselage longerons, etc. should, if no machinery is available in one's own workshop, be cut to size directly at the sawmill, or as needed by a joiner. When ripping our plank for spar flanges, cut along the grain. In the most extreme case, the grain may run out of the strip at a ratio of no more than 1:15. Pieces exhibiting the defects mentioned earlier, such as resin pockets, knots, wind shakes, etc., must be rejected.
+
+**Rib strips.** The cutting of the thin flange strips for the ribs is carried out at the router table, as shown in Figure 39. When
+
+*Fig. 39. Cutting rib strips.*
+
+building the ribs, use the strips as they come from the saw. Do not dress or sand them down — strips glue best in their rough state, since sanding only clogs the pores. Anyone who wishes their wing to have a neat appearance may finish the completed ribs afterwards.
+
+In passing, a note on marking out dimensions on wood and plywood: never scribe lines with sharp objects such as a marking awl or similar tools, as these destroy the fibres.
+
+---
+
+CONSTRUCTION OF RIBS OR SPARS
+
+The ribs are the form-giving structural members of the wing. The greatest care must already be taken when laying out the rib profile, for the performance of an aircraft depends to a considerable degree on the accuracy with which the ribs are made.
+
+*(page 50)*
+
+---
+
+=== PAGE 52 ===
+
+# Glider Workshop Manual (1935) — Translation
+
+---
+
+greatly. In most cases the designer provides us with a **full-scale lofting plan** from which we can trace or prick through the rib profile. If, however, we have only the dimensions of a rib, we must lay it out ourselves. We plot all the points as given in the drawing, and we fair the outline through all the points using a batten that is straight-grained and flexible. We hold the batten in the desired position with nails (Fig. 40). Before we draw the outline with a sharp pencil, we satisfy ourselves that it shows no kinks. We check this by sighting along the batten lengthwise. The upper surface of the forward third of the ribs is
+
+**Drafting the rib profile**
+
+**Fig. 40. Drafting the rib profile using a batten and nails.**
+
+particularly sensitive to discontinuities, since in flight vortices easily detach here and these significantly degrade the flying characteristics.
+
+Once the outline is established, the spar and diagonal cutouts and the rib lightening holes must also be drawn in.
+
+From Figure 41 we can see three of the most common rib designs.
+
+There are now a number of methods of rib manufacture, the most important of which are described here. The simplest is the **nail jig**, in which one can always lay in and glue only 1–2 ribs at a time.
+
+**Nail jig**
+
+The rib profile is traced onto a heavy, smoothly planed board and the outlines are fixed with nails (Fig. 42). The heads are clipped from the nails and their length is kept such that they do not protrude beyond the rib thickness. The cap strips are laid in first. Since these are sharply curved at the nose, we must pre-bend them.
+
+---
+
+**Fig. 41.**
+- **a)** T-rib with double strips and plywood in the centre.
+- **b)** Rib with strips in the centre and plywood gussets on both sides.
+- **c)** Box rib.
+
+**Fig. 42. Building ribs in a nail jig.**
+
+---
+
+The forward ends of the strips are briefly dipped in hot water so that they can be bent easily. Even more effective is a hot stovepipe, around which wet strips can be drawn into very sharp curves. Strips that have been wetted for easier bending must first dry in the jig before they are glued. Wet wood glues poorly. Once
+
+---
+
+*=== PAGE 53 ===*
+
+*=== PAGE 54 ===*
+
+**Page 53**
+
+If one has many ribs of the same type, the chord strips can be pre-bent in a jig, as shown in Figure 43.
+
+*Fig. 43. Jig for pre-bending rib strips.*
+
+After the chords have been inserted, the vertical and diagonal webs are fitted. Depending on whether a box or T-rib is being built, the layer of strips must be single or double. At the front, the nose block is glued in, which later ensures a secure connection between the leading-edge strip and the rib. The chord strips usually cannot be bent fully around at the front, so the nose block must be made correspondingly larger (Fig. 44).
+
+*Fig. 44. Nose block.*
+
+*The rib chords do not conform to the outline profile and must be trimmed to fit later.*
+
+The plywood gussets are slid under the strips in accordance with the given dimensions, using the specified glue, and placed on top — or, in the case of T-ribs, slid between the strips. The gussets may be allowed to protrude slightly beyond the chords on the outside, since gussets can easily shift during pressing. The protruding plywood can afterwards be trimmed cleanly with a penknife without much difficulty.
+
+For the gussets of standard ribs that are not required to transmit large forces, inexpensive grades of plywood may be used.
+
+---
+
+**Page 55**# Glider Workshop Manual (1935) — Translation
+
+---
+
+A sturdy board is now laid over the rib as a backing piece for the clamps. If no clamps are available, the necessary pressure can be applied by placing weights on top (containers of water, sandbags, or stones).
+
+A final option is to press the corners using small pins. This is, however, very time-consuming; furthermore, iron nails should be removed again afterwards, as they destroy the wood fibres through rust. The standard brass nails are too thick for the thin strips used in glider construction. It will always be possible to obtain weights for pressing, thus sparing oneself the tedious work of nailing.
+
+---
+
+**Plywood Gussets**
+
+For the nose section of the ribs, a plywood gusset is used in place of plywood corner pieces, in order to make the rib stiffer. This gusset must be traced from the rib drawing onto plywood and cut out accurately. If a large number of gussets of the same shape are required, up to 20 sheets of plywood may be stacked on top of one another. A 2 mm thick sheet of plywood is placed on top and bottom as a cover plate. The nose outline is drawn on the upper cover plate, and the entire block is then cut out using a band saw or jigsaw. Particular care must be taken with the outer profile, so that the rib flanges bond fully to the plywood at all points (Fig. 45).
+
+*Fig. 45. Plywood gussets cut out as a block.*
+
+The nail jig is suitable only for building a single rib at a time. With very careful work and thick nails, two ribs can be produced in a single operation.
+
+---
+
+**Spar Extending to the Outer Edges of the Ribs**
+
+In order to achieve the greatest possible spar depth, the spar is often run up to the top edge of the rib. During assembly, the front and rear sections of the rib would then have to be attached to the spar separately. This is, however, not very favourable for maintaining the correct aerofoil profile, since such a joint can never be fitted accurately enough to truly reproduce the desired profile shape. To allow the rib to be slid onto the spar as if it were uncut, strips are glued along the top and bottom of the spar opening (Fig. 46), and the rib flange at the spar opening is then notched out.
+
+*Fig. 46. Gluing in strips where the spar extends to the upper and lower edges of the rib.*
+
+*Fig. 47. Rib fitting over metal fittings.*
+
+For ribs that fit over metal fittings, the webs bearing against the spar are made wider to allow sufficient material to be cut away, or filler blocks are inserted (Fig. 47).
+
+---
+
+*[Page 55 / Page 56 / Page 57]*
+
+# Block Jig and Rib Box
+
+## Block Jig
+
+For batches of up to four ribs, the block jig shown in Figure 48 is suitable. Blocks with vertical edges are glued or nailed around the outer edge of the rib profile. At the spar and wing diagonal cutouts, small boards equal in width to these openings are glued to the base of the jig. Jigs of this type must be thoroughly oiled or varnished so that the ribs do not become glued to the jig by squeeze-out. This also applies to the spar jig described later.
+
+*Fig. 48. Jig for 2–3 ribs.*
+
+*Fig. 49. Pressing the rib using packing pieces and clamps.*
+
+Into this jig are placed first (for box ribs) plywood gussets with the specified glue, then the pre-bent flange strips, and then the webs. Once the webs are fitted,
+
+---
+
+*=== PAGE 58 ===*
+
+another layer of plywood gussets is added, then the same procedure is repeated for the next rib, until the required number of ribs lies stacked on top of one another. Packing pieces and clamps provide the necessary clamping pressure (Fig. 49). It should also be noted that the webs and diagonals must fit accurately and must press the rib flanges outward against the blocks. Do not apply too much glue, in order to prevent the ribs from being bonded to one another.
+
+---
+
+## Rib Box
+
+If a large number of ribs of the same shape are to be built, it is worthwhile constructing a rib box, in which up to 14 ribs can be produced in a single operation. Building this many ribs in one operation can only be accomplished by skilled and experienced workers. The rib box is very similar in construction to the block jig, except that the boards for the spar and diagonal cutouts are removable. These boards are held in position by tenons fitting into the base below and into the blocks above. The removal of these boards is necessary for emptying a completed rib box after the ribs have been assembled.
+
+A rib box of this kind must be made with the greatest care. All inner faces of the blocks must stand perfectly perpendicular to the heavy base board.
+
+*Fig. 50. Removable spar-cutout board.*
+
+---
+
+*=== PAGE 59 ===*
+
+# CONSTRUCTION OF GLIDERS — WORKSHOP MANUAL (1935)
+
+---
+
+## Rib Construction (continued)
+
+The small boards for the cut-outs must stand vertically and the tenons must be fitted accurately (Fig. 50). In a carelessly made jig, the bottom rib will have an entirely different shape from the topmost one.
+
+Figure 51 shows a rib box for approximately 8 ribs, with prepared plywood gussets and strips. The flanges have been pre-bent on the jig. Inserting the gussets and strips is best carried out by two men working together; the work must proceed quickly, since otherwise the glue on the bottom rib will already have dried by the time the last rib is laid in. The box should only be filled to the point where the packing pieces used for pressing still have guidance against the blocks. The packing pieces must fit precisely so that they bear evenly everywhere. Here too, use only a small amount of glue. The box must not be emptied until approximately 6 hours have elapsed.
+
+---
+
+## Finishing Glued Ribs
+
+*Fig. 51. Rib box with prepared gussets and strips.*
+
+Fully glued ribs must be trimmed precisely to the rib drawing. At any points where the flanges have slipped inward, the error must be corrected by gluing on strips of plywood or thin battens. At the rib nose, pay particular attention to accurate agreement with the drawing.
+
+---
+
+### Page 60
+
+Also mark out the notch for the leading-edge strip and cut it in cleanly. Cut it accurately, so that the leading-edge strip does not run in a wavy line during later assembly.
+
+When we have many ribs of the same shape, we slide them onto two short spar sections, which must fit snugly in the spar cut-outs, matching in height and thickness (Fig. 52). All ribs are then worked simultaneously with plane and rasp, and the notch for the leading-edge strip is cut at the same time. Figure 52 also shows an adjustable plane, with which curved surfaces can be worked effectively.
+
+*Fig. 52. Trimming ribs.*
+
+---
+
+### Page 61
+
+## SPAR CONSTRUCTION
+
+In Figure 53 we see a series of the more commonly used spar construction types. The spar flanges are either planked with plywood on both sides (box spar), or the flange is divided and the plywood lies in the centre (I-spar). For large spar depths, the spar is often resolved into a lattice structure in order to partly avoid the heavy plywood webs that would otherwise be required.
+
+*Fig. 53. Spar types.*
+
+The most important structural element of spars is the flanges. The greatest care must be applied to their preparation. Sufficient attention has already been drawn to the required timber quality. It remains to discuss the planing of the flanges to the required thickness.
+
+In order to plane the flanges straight, one needs an appropriate base that is accurately trued and has a length of 3 to 4 metres. The best base is a plank set on edge with a straight top edge.
+
+---
+
+### Page 62
+
+#### Marking Long Straight Lines
+
+In passing, the marking out of a straight line should be mentioned. For accuracies of 1 to 2 mm, a taut string is sufficient…
+
+# Glider Workshop Manual (1935) — Translation
+
+---
+
+rubbed with chalk, held at both ends and lifted vertically in the middle, then snapped down onto the surface, leaving a white chalk line. For marking out more precise straight lines (drawing spar templates, wing or fuselage jigs), we use a linen thread, stretched taut around two nails, drop auxiliary points down using a set square, and connect the points with a straightedge to form a line.
+
+If we plane the spar on an uneven surface, the flange will give way at various points during planing and will become completely wavy.
+
+**Spar Construction**
+
+Spar manufacture is carried out in templates, as shown in Figure 54; strips are nailed along the spar outlines, high enough that the spar flange still projects approximately 10 mm above them.
+
+*Fig. 54. Part of a spar template.*
+
+For both the box spar and the I-beam spar, the flanges are laid into the template first, and then the corresponding webs and filler blocks are fitted. This must be done so that they bear against the flanges without any gap. Plane the edges truly square, so that the filler block does not sit as shown in Figure 55.
+
+The thickness of the web and filler blocks is chosen greater than that of the flanges and is later planed back to the correct dimension. Once the blocks are correctly fitted, they are removed and reinserted with the specified adhesive.
+
+---
+
+*=== PAGE 63 ===*
+
+---
+
+Press lightly into place using small clamps. For long filler blocks, clamp the ends firmly (Fig. 56). Once the glue joint has dried, both faces of the spar are planed flush.
+
+*Fig. 55.*
+
+*Fig. 56. Clamping long filler blocks with screw clamps.*
+
+*Fig. 57. Filler blocks as they should not be installed, since they have no smooth transition from block to flange.*
+
+*Fig. 58. Filler blocks.*
+
+*Block for the attachment of control-surface fittings or similar.*
+
+---
+
+*=== PAGE 64 ===*
+
+# Glider Workshop Manual — Translation (1935)
+
+---
+
+straightened and roughened and placed back into the jig.
+
+**Filler Blocks**
+
+Fig. 57 shows a series of filler blocks as they must **not** be made — a smooth transition from the flanges into the filler blocks must always be ensured. Particularly dangerous are blocks whose grain runs perpendicular to the flanges. Experience teaches us that strips bent over sharp edges break far more easily than when bent over a rounded object. Filler blocks must only be made as shown in Fig. 58.
+
+*Fig. 59. Fitting of reinforcement strips.*
+
+The main filler blocks in spars, which also serve to absorb bending forces, must be made from carefully selected wood. Fig. 59 shows us the correctly fitted reinforcements for spars or flanges. Always allow the strips to taper out gradually.
+
+---
+
+## THE SPAR IS NOW SKINNED.
+
+The grain of the plywood skin must run perpendicular to the spar flanges. A series of strips, each equal in width to the spar depth, are scarfed together and the upper face of the spar is skinned. Apply glue generously; use no nail strips — clamp with screw clamps only. The plywood may also be applied in individual pieces; in that case each successive piece is always scarfed to the next at a web or block. Once the glue has set, the spar is removed from the jig and the plywood is trimmed flush. With a straight, symmetrical spar it may be turned over and placed back into the jig for skinning the second face.
+
+*(p. 63)*
+
+---
+
+*(p. 65)*
+
+With cranked spars (as on the *"Falke"*) the skinning of the opposite face is carried out on a flat board. Skinning of the first face must in every case be done in the jig in order to prevent the spar from warping.
+
+---
+
+**I-Spar**
+
+The production of a double-T (I-beam) spar proceeds in exactly the same way as for a box spar, except that the jig strips must be made tall enough to provide a positive stop for the second flange as well, so that it cannot shift. In addition, the plywood web is pre-fitted to the jig to the correct dimensions.
+
+With asymmetrically single-face-skinned spars, take care that you build a left-hand and a right-hand spar for each aircraft. In box spars, ventilation holes must be drilled through the skin to prevent the interior of the spar from rotting.
+
+---
+
+Since the jig already carries reference lines for web positions, rib spacings, and other layout dimensions, it is practical to transfer these directly onto the finished spar at once. The positions of the fittings are then marked and the bolt holes are drilled. If the front and rear spars are identical, stack all four spars together for marking and scribe all of them simultaneously.
+
+*(p. 64)*
+
+---
+
+*(p. 66)*
+
+# CONTROL LEVERS
+
+The ailerons, elevator, and rudder are operated by levers. The manufacture of these levers must be carried out with great care, as the failure of one would have catastrophic consequences.
+
+Levers with thicknesses of 12 to 18 mm are made from ash or pine and faced on both sides with 2 mm plywood. The wood grain must run perpendicular to the direction of stress (Fig. 60). The outer grain of the plywood facing runs in the same direction. In many cases it is also glued at right angles to this. The former method, however, appears to be the better one and is most commonly used. To achieve a good glue joint, the gluing surfaces must be roughened.
+
+Into the ends of the levers, where the control cable or the relevant fitting is attached, a copper tube rivet must be inserted. Copper tube 8×1 mm or 6×1 mm is inserted into the pre-drilled hole and riveted over using the drift shown in Figure 61, which can be made by the worker himself. Before riveting over, the tube projects approximately 3 to 4 mm above and below the surface.
+
+*5 Workshop Practice 65*
+
+---
+
+# WINGTIP BOWS
+
+Curved strips are used in all manner of locations, most commonly as form-giving members — for example on elevators and rudders, fuselage noses, wing tips, and so forth. In some cases the required curvature is too sharp for the cross-section involved, so that it cannot be bent from a single strip. Such a bow is therefore made from several thin strips — also called laminations — which are bent and glued in a block or nail former. Figure 62 shows the pressing of the strips with screw clamps in a nail former of the type that must be used for load-bearing bows.
+
+A different method is shown in Figure 63. First, nails are driven along the inner circumference of the bow, then the individual strips, coated with the specified glue, are pressed together by nails driven as closely as possible to the outside of the strips all the way around. In addition, the nails are drawn even more tightly against the strips using binding wire.
+
+It may also occur that the strips must be bent not merely in a single plane but must follow a three-dimensional curve (fuselage nose or similar). For this purpose, the bow is first drawn on a flat board in plan view, and blocks are placed at certain intervals; these blocks must be as high as the amount by which the strip rises out of the plane. If the out-of-plane bend is very pronounced, the bow is first glued up in one plane, then cut back into individual laminations and drawn around in the other direction (Fig. 64).
+
+*66–67*
+
+# TRAILING EDGE STRIPS
+
+Trailing edge strips form the finishing edge of wing or tail surface trailing edges, around which the fabric is glued. The fabric, pulled taut by the doping process, will bend poorly designed trailing edge strips out of true. This is effectively prevented by inserting a plywood fin (Fig. 65). The standard cross-section of trailing edge strips is 10 × 10 mm. The plywood is slid into a groove milled 5 mm deep using the specified glue (Fig. 66a), or two strips of 5 × 10 mm are glued to each side of the fin (Fig. 66b).
+
+Anyone who prefers a pointed trailing edge strip may construct it along the lines of Figure 66c. The trailing edge strips described above have proven themselves best in practice and are well established. The belief that pointed trailing edge strips improve aircraft performance is mistaken. So build trailing edge strips with a square cross-section without hesitation.
+
+---
+
+*p. 68*
+
+---
+
+## FORMERS
+
+The simplest are rectangular formers. There is not a great deal to say about their construction: on a flat board we mark out the former shape and all the reinforcing strips. We secure the position of all former strips with nails or small battens (Fig. 67). Corner blocks are fitted into the corners through which the fuselage longerons will later pass. One should not economise on well-fitting corners, as they substantially increase the strength of a former. The application of the planking or plywood corners is carried out in exactly the same way as for the ribs.
+
+*Fig. 67. Block template for the construction of formers.*
+
+On each completed and glued former we carefully mark the positions of the fuselage longerons and notch them in. If the fuselage longerons run at an angle, the bevel must first be marked out using a sliding bevel. In addition, the centreline and any other reference edges that we will later need for setting up the formers are marked on each former.
+
+*Fig. 68. Curved former in a nail jig. Note also the dovetail-shaped cut-out filler blocks.*
+
+---
+
+*p. 69*
+
+# Glider Workshop Manual (1935) — Translation
+
+---
+
+If filling blocks are installed for the attachment of fittings, care must again be taken to ensure a smooth transition from these blocks into the frame strips. The same applies here as was already stated for the spar filling blocks: **avoid stress concentrations.** It requires somewhat more work to shape the ends of the blocks in a dovetail fashion, but it is necessary if the greatest possible strength at low weight is to be achieved.
+
+**Figures 68 and 69** show circular frames as used in high-performance aircraft. We need not go into their manufacture in detail, since the bending of thin strips and the use of templates are sufficiently familiar to us from rib construction.
+
+---
+
+## FUSELAGE NOSES
+
+In sailplanes, good nose form on fuselages must be given careful attention. Here again there are a number of possible design approaches, which will be discussed in detail. **Figure 70** shows a fuselage nose of the simplest construction. The fuselage longerons are built up in laminated form.
+
+*Fig. 70. Fuselage nose with laminated strips.*
+
+---
+
+### Page 72
+
+The nose block shown in **Fig. 71**, into which the fuselage longerons run, is glued up from plywood as illustrated in **Fig. 72**. This is done by drawing the nose outline (in plan view) onto two sturdy planks — the inner contour on one, the outer contour on the other. The plywood stack is then pressed between these two forms. The blank is made sufficiently deep that enough material is available for gluing in the fuselage longerons. The nose shape is cut out only after fitting to the fuselage.
+
+*Fig. 71. Fuselage nose glued from plywood.*
+
+---
+
+### Round Noses
+
+For aircraft with round fuselages, cowlings are either glued up in strips over a roundly shaped block (**Figure 73**), or beaten from aluminium sheet.
+
+Beating aluminium cowlings is a matter of practice, but is not so difficult that we should hesitate to attempt it. The material to be beaten must be particularly soft. Beating is carried out with ball-peen hammers. For the initial curvature, a flat surface is used as backing, and blows are struck evenly, one beside the other with a ball-peen hammer, working outward from the centre, until a gentle curve is formed.
+
+*Fig. 72. Templates for gluing up the nose.*
+
+---
+
+### Page 73
+
+**Fig. 73. Gluing a fuselage nose on a solid wood block.**
+
+Working from this shell, we now carve a hollow form into a block and continue working our cowling in this form until it has the desired shape, hollowing out the wood block further as needed. Do not hammer too much in one spot, as the material will harden there and crack. The planished areas are smoothed out with a small wooden mallet.
+
+Anyone with some practice can also work any shape very well on a piece of hardwood covered with felt.
+
+---
+
+## CABANE STRUTS, LATTICE TAILS, ETC.
+
+The construction of cabane struts and lattice tails is the same. The form is laid out on the floor, which should be as level as possible, and the position of the strips is marked out using sturdy blocks. The entire construction process resembles frame building, except that considerably heavier strips and larger dimensions are involved here. All corner blocks and webs must sit cleanly flush. The surfaces that are to be planked must be thoroughly roughened. Particularly with cabane struts, which are subjected to heavy stress during training flights ("petroleum drilling"), structural strength is of great importance. Poor glue joints soon come apart, and we are constantly troubled by having to re-glue them.
+
+---
+
+**Fig. 74. Cabane strut template.**
+
+If we need to build many cabane struts, we make templates such as those shown in Figure 74.
+
+Figure 75 shows the construction of a lattice tail.
+
+A number of individual components are still missing, such as skids, struts, control surface spars, and so on.
+
+Skids and struts will be covered in more detail later in the assembly section, while nothing further need be said about the construction of control surface spars and ribs.
+
+---
+
+**Fig. 75. Construction of a lattice tail with cabane strut.**
+
+# GENERAL NOTES ON THE MANUFACTURE OF FITTINGS
+
+That fittings must be made from the material specified by the designer has already been discussed.
+
+**Marking Out**
+Fittings are marked out using a brass scriber or pencil. Drill holes must be centre-punched, as otherwise the drill cannot be set accurately and will wander. **Drilling** — drill only with non-percussion, sharp drill bits. Execute holes accurately, particularly where mating fittings are present, as otherwise during assembly the bolts will run at an angle through the wood and the bolt head and nut will bear skewed against the fitting. This is shown in exaggerated form in Figure 76. Drill the fitting and its backing plate together.
+
+---
+*Fig. 77.*
+*By removing the burr with a large drill, the hole was countersunk.*
+
+*Fig. 76. Bolt hole not perpendicular.*
+
+---
+
+**Drill Burr**
+Removal of the drill burr must be done with a file only, and not with larger drill bits, as this will easily countersink the hole. A fitting hole must be cylindrical, not partly conical — see Figure 77. If fittings are to be attached to thick structural components, it is practical to keep the holes in the fitting slightly undersized and then ream them to the correct final size at the structural component.¹
+
+When bending fittings in a vice, never clamp without a copper insert, as the bend edges of fittings must not be sharp. A **bend radius** of at least
+
+> ¹ *The finished diameter is kept 1 + 0.5 mm undersize.*
+
+---
+
+## PAGE 76
+
+twice the sheet thickness must be maintained (Fig. 78). Figure 79 shows a square bar that serves as a template for bending flanged edges. On these as well, the edges must be "broken."
+
+| Incorrect | Correct |
+|-----------|---------|
+| *(sharp bend)* | *(radiused bend)* |
+
+*Fig. 78. Bend radius. — Fig. 79. Square bar as bending template.*
+
+**Distortion**
+When flanging, take care that the fittings remain flat on the underside and do not draw up into a curve as shown in Figure 80, since such fittings have too small a bearing surface when bolted to the structural components.
+
+---
+
+*Fig. 80. Underside of fitting has drawn up into a curve.*
+
+---
+
+The necessary information on welding and brazing has been given in the chapters on materials processing. When constructing the control runs, care must be taken that the control stick is perpendicular to the aileron cable drive lever, and that the pivot bolt for the control stick is a good fit.
+
+---
+
+# INSTALLING FITTINGS
+
+Fittings required for assembling the individual aircraft components serve the purpose of transferring loads from wooden parts through the fittings back into wooden parts. The greatest care must therefore be devoted to achieving a sound connection between the fittings and the wood.
+
+The standard fastening element is the hexagon-head bolt. The use of tubular rivets will rarely be applicable in club workshop operations.
+
+Since the fitting transfers loads partly through friction — generated by the clamping pressure against the wood produced by the bolts — and partly through
+
+---
+
+*[Continues page 77]*
+
+**Fitting and Drilling Guidelines for Hardware Attachments**
+
+...held in the wood by the bolt bearing against the hole walls, attention must be paid to these two factors.
+
+Good adhesion of the fitting to the wood is achieved by tightening the screws evenly and correctly. Do not over-tighten, as this compresses the wood and deforms the fitting; there is also the risk of stripping the thread. In time, one develops the proper feel for tightening a screw.
+
+---
+
+**Gluing Fittings**
+
+To further increase friction between the fitting and the wood, a mixture of cobbler's pitch and beeswax in a 1:1 ratio can be prepared. This compound is applied warm to the wood, the fitting is positioned and tightened down. A blowtorch is then used to heat the fitting from the outside, and the screws are tightened further until the adhesive compound appears at the edges of the fitting. Fittings attached in this manner can afterwards only be removed from the wood with great difficulty. Gluing fittings in place is naturally only justified for highly stressed fittings, for example wing attachment fittings on high-performance aircraft.
+
+---
+
+**Burning Holes**
+
+Furthermore, the holes drilled in the wood are of importance for a sound fitting installation. Never burn holes for safety-critical fittings. The surrounding wood fibres are destroyed during hole-burning, and the hole wall yields under subsequent loading by the bolt, resulting in loose-sitting screws.
+
+Drill perpendicularly — do not work the drill back and forth until you happen to come out at the right spot. If one lacks practice, a colleague can assist by positioning himself three to four metres away and sighting first from the front and then from the side to check whether the drill is being applied perpendicularly to the workpiece. It is always advisable, when working with heavy structural members, to pre-drill first with a thin drill bit, and then to ream and bore out to the correct final diameter.
+
+---
+
+**Packing Block**
+
+If we notice that a hole has gone astray, we must not be so irresponsible as to drive a screw in at such a point and simply leave it at that. Such a screw holds virtually nothing. If the packing block is too small, or is positioned in the wrong...
+
+*(continues on page 78)*
+
+**Fig. 81.** The thread of the left bolt bears load on the fitting.
+
+---
+
+...the component will have split at that point, and a proper block must be provided.
+
+Where possible, do not screw a fitting directly onto bare wood. A plywood backing plate distributes the pressure more evenly. This should be particularly noted for the installation of eye bolts and fork bolts. If no plywood is available as a backing plate, the washers can be pulled deep into the soft wood, and when the wood dries out the bolt will become loose and may rotate.
+
+**Thread**
+
+With the screws used, care must be taken that the fitting plate does not bear load on the threaded portion of the shank (Fig. 81). Should the bolt shank be slightly too long, up to 3 washers may be placed underneath.
+
+- a) Centre-punching
+- b) Castle nut with safety pin
+- c) Castle nut with split pin
+
+**Fig. 82.** Nut locking methods.
+
+---
+
+**Centre-Punching**
+
+Once fittings are fully bolted up, the protruding threaded ends are cut off and filed flush with the nut. With 3–4 centre-punch blows applied to the joint between the nut and the bolt, the nut is secured against unscrewing (Fig. 82).
+
+Centre-punching of nuts should only be used on fittings...
+
+*[Page 77]*
+
+---
+
+*=== PAGE 79 ===*
+
+ASSEMBLY OF WINGS.
+
+The individual components — ribs, diagonals, and spars of our wing — are finished. On the spars we have marked out and pre-drilled the positions of the fittings according to the drawing. For assembling the wing and completing the build, we need a jig on which we can clamp the skin and which guarantees the correct position of the ribs relative to a horizontal plane. In the simplest wing types, all ribs lie at the same angle relative to one another; the wing has no twist. In sailplanes, however, the outer profiles are frequently twisted by a defined angle relative to the inner ones (washout). In order to maintain during assembly the wing form prescribed by the profile fairings plan and the spar drawing, we build ourselves a building board (Helling).
+
+---
+
+BUILDING BOARD FOR A NORMAL RECTANGULAR WING.
+
+The wing form is rectangular, with two parallel spars of equal height and a continuous identical profile throughout (e.g., the skin
+
+---
+
+...which, apart from repairs, are not to be dismantled again. For all permanently fixed fittings the nuts are centre-punched.
+
+For joining individual structural members, either split-pin bolts with washers and safety pins, or bolts with castle nuts and split pins, or alternatively safety pins again, are used.
+
+**Securing of pivot joint connections such as eye bolts and fork bolts**
+
+At pivot joints on control surface hinges, split-pin bolts with washers and split pins may be used; safety pins should not be used, as they can catch and work loose.
+
+For fittings that are screwed to a structural member without a backing plate, always fit washers under the bolt head. Bolts must be inserted against the direction of flight, or from top to bottom respectively.
+
+On fittings where the bolt heads are subject to tensile loading, do not use slotted-head screws!
+
+# Leveling the Building Jig
+
+(from the "Zöffling"). Depending on the size of the wing panel, we need three to four trestles, which we level horizontally with one another. We begin with one trestle; this is secured firmly to the floor (do not place one end on a yielding floorboard!) and its top surface is leveled horizontally with a spirit level. The trestle at the other end is then worked to the same height and also leveled horizontally. The remaining trestles standing between the two are brought into the same plane one after another by sighting and adjusting. When sighting across all the trestles, all the top edges must form a single line.
+
+We have made one error, which we can afford, since it makes little difference on floors that are not too uneven: when leveling the first two trestles, we should lay a straightedge across them and ensure that it lies horizontally. Figure 83 shows us a wing cross-section in which the rear and front spars lie at the same height above the horizontal.
+
+*Fig. 83. Rib with spar lower edges at equal height.*
+
+We can therefore use the trestle tops directly as bearing surfaces for the spars.
+
+If, however, the rear spar lies higher or lower by a specific amount, the difference is compensated by inserting a packing piece of the corresponding height.
+
+---
+
+## Building Jig for a Tapered Wing with a Dihedral Break
+
+In the jig described below, we again work from the horizontally leveled trestles, except that we use packing blocks corresponding to the dihedral angle of the wing and the positions of the front and rear spars. Normally the designer will prepare a jig plan for the workshop, from which the spacing of the trestles and the height of the packing pieces can be read off. As a competent
+
+79
+
+---
+
+*=== PAGE 81 ===*
+
+# Fig. 84. Wing Overview with Spar Drawing. The spar is kinked at rib 11.
+
+As aircraft builders, we must also be able ourselves to establish the jig plan from a lofting plan, wing drawing, and spar drawing.
+
+As an example, a tapered wing has been chosen that has a kink at rib 11 (see Fig. 84). The wing is to be built on three trestles, positioned under ribs 3, 11, and 20. The spars serve as bearing surfaces — in this case the main spar and the auxiliary spar. The trestles are placed directly beside the ribs, spaced according to the rib distances of 2,400 and 2,700 mm, with their upper edges aligned horizontally.
+
+Using a batten or stretched string, we mark out the centerline of the main spar, which is straight. The distance from the main spar to the auxiliary spar must then also be marked on the trestles. This measurement is taken from the rib plan or wing overview drawing.
+
+The packing block heights are then taken directly from the spar drawing. (Measured from a horizontal reference line, which, if not already present, can easily be added.) If no dimension is given at the point on the spar where a trestle is to stand, it must be calculated from the available dimensions. (Do not scale from the drawing!) For the spar in our example, the packing block heights work out to 50, 240, and 340 mm.
+
+---
+
+## Page 82
+
+**Rib Plan.**
+*Reference axis*
+
+**Fig. 85.** Section of the rib plan; the remaining ribs have been omitted for clarity.
+
+From the rib plan (Fig. 85) we can determine how much higher or lower the bottom edge of the auxiliary spar lies relative to the corresponding bottom edge of the main spar. We draw a reference axis perpendicular to the spars; its distance from the ribs is immaterial, since we only want to establish the difference in bottom-edge heights between the main spar and the corresponding auxiliary spar. (Only the ribs relevant to our purposes are shown in the plan, in order to keep the diagram clear.)
+
+**Fig. 86.**
+The 3 trestles with their packing blocks.
+
+At rib 3, our measurements would be 45 mm at the main spar and 75 mm at the rear spar — meaning the auxiliary spar lies 30 mm higher than the main spar. Therefore the packing block height for the auxiliary spar must be 80 mm. For the remaining trestles, everything is derived from Figure 86.
+
+---
+
+## Page 83
+
+It is not always the case that the auxiliary spar sits higher; it may be at the same height or lower. The measurement must always be taken to the edge with which the wing rests on the jig.
+
+*(6 — Workshop Practice, p. 81)*
+
+# Wing Assembly Jig Construction
+
+**Fig. 87. Main spar extends from upper to lower edge of rib.**
+
+If the main spar looks as shown in Figure 87, measurement is taken down to the lowest edge.
+
+---
+
+## JIG FOR SWEPT WINGS
+
+For swept wings, the jig construction is similar to the previously described method. Using the wing plan view, we select the ribs beside which we wish to place the trestles, and set the leading edges at an angle corresponding to the sweep. However, the trestle sides must all run parallel to one another, since the ribs likewise lie parallel to each other. The top edges are aligned horizontally, and the packing blocks are then fitted.
+
+---
+
+## VERTICAL WING CONSTRUCTION
+
+As a special method of wing construction, the vertical building technique should also be mentioned. For large wings with large plywood leading edges, it offers two significant advantages. First, the plywood can be applied to the leading edge without obstruction from the jig, since the spar rests on the jig only at its trailing edge, and not at its lower edges as in the previously described jig types. Second, it saves considerable space.
+
+**Fig. 88. Jig for vertical wing construction.**
+
+---
+
+Figure 88 shows such a wing construction method. The construction of such a jig does not differ in principle from that described previously. The same measurements must be taken, with the main spar profile again being the determining factor.
+
+**Fig. 89. Schematic diagram of rib and spar in the vertical position.**
+
+From Figure 89 we see a trestle (top edge aligned horizontally). A reference line and the spar bottom edge for the corresponding ribs are now marked on this. The rear spar stop is scribed by plumbing down from the main spar trailing edge, and by offsetting the difference by which the auxiliary spar sits higher or lower. This must be carried out at each trestle, taking into account the spar spacing.
+
+---
+
+In general, the following should also be noted regarding jig construction:
+
+> **What to observe during jig construction:**
+> Do not place the jig too close to the workshop stove, as during wing assembly the one-sided radiant heat can very easily cause the wing to warp. If proximity to the stove cannot be avoided, set up stove screens.
+
+# WING ASSEMBLY
+
+**During the assembly of the wing**, particularly when fitting the leading edge, the building jig is subjected to considerable stress; it must therefore be made as rigid as possible. Secure the trestles firmly to the floor, and if the jig still appears too unsteady, brace it with diagonal members.
+
+---
+
+## ASSEMBLY OF WINGS
+
+**Spars**
+Before assembly, the rib positions must be marked out on the spar. For all ribs, a line must be drawn on the front or rear spar wall, running from the top edge to the bottom edge of the spar. (On tapered wings, measurements are always taken from inner edge to inner edge of the rib.) In addition, mark on the spar the points where it will rest on the jig.
+
+**Diagonals**
+Diagonal braces that are to be incorporated into the finished wing must be cut to an exact length. Since the diagonals always terminate in a corner formed by the ribs and spar, the ends must be tapered to a point. It is more practical, however, to first slide the ribs onto the spars, align them, and then fix them in place. The diagonals are then fitted; the upper
+
+*Fig. 90. Section of the wing surface. — Fig. 91. Rib and spar intersection, seen from above.*
+
+*Working out the rib cutouts on swept wings.*
+
+strips are installed, the wing is turned over, and the lower half of the diagonals is installed. During assembly, do not forget the aileron spar, as it cannot be added at a later stage.
+
+---
+
+*84*
+
+=== PAGE 86 ===
+
+# Glider Construction Manual (1935) — Translation
+
+## Spar Cutouts in Ribs
+
+The spar cutouts in the ribs must be carefully finished, especially in ribs where the spars run at an angle (type "Falke"). Work precisely, as otherwise fitting the assembly together will cause considerable difficulty. The correct cutout is difficult to specify on the rib drawing alone; instead, mark the spar centerline directly on the rib. On a sheet of paper, draw the rib and the spar at full size (Figs. 90, 91). When building the rib, the web spacings c and d are established, and for the subsequent angled filing of the cutouts, dimensions a and b are laid off. Take care to bevel correctly for a left wing and a right wing respectively.
+
+Once the wing rests everywhere on the building jig without tension and the spars are straight, the ribs can be glued to the spars. Push each rib slightly to one side, apply glue, then push it back into position and pin it in place. Between the aileron spar and the rear spar, insert small spacer blocks after applying glue. This achieves the necessary clamping pressure and at the same time ensures the spars are at the correct spacing from one another.
+
+## Installing Fittings and Plywood Gussets
+
+Fitting installation proceeds in parallel (ensure good bedding).
+
+On both the upper and lower wing surfaces, all diagonal members are now connected to the spar by means of stout plywood gussets (typically 2 mm).
+
+---
+
+*Fig. 92. Installation of the leading-edge strip.*
+
+Round the strip slightly more than the nose profile strictly requires, so that the strip does not later press through the plywood nose skin.
+
+---
+
+Apply clamping pressure by clamps wherever possible; otherwise use nail strips.
+
+## Leading-Edge Strip
+
+Now fit the filler strips, leading-edge strips, and trailing-edge strips (Fig. 92). These will already have been prepared in advance. The notches for the leading-edge strips are trimmed to final fit so that the strip does not run in a wavy line. If a notch has been cut too large, glue in small wedge pieces.
+
+## Trailing-Edge Strip
+
+For the strips at the trailing edge, cut open the rib tails and slide the plywood tongue in with glue applied. Take care that all rib tails are of equal length. On high-performance aircraft it is advisable, in order to maintain a straight trailing-edge strip, to glue small wedges between the plywood tongue and the rib flanges (Fig. 93).
+
+## Filler Strip
+
+*Fig. 93. Trailing-edge strip.*
+*Fig. 94. Filler strip.*
+
+Cut filler strips generously thick and plane them to fit (Fig. 94). At the rear spar, filler strips are fitted only in the areas covered by plywood skin and the aileron. At all locations where only fabric passes over, they are omitted, since the fabric sags slightly between the ribs and would form a crease at a filler strip.
+
+---
+*Pages 85–86*
+
+# Glider Workshop Manual — Translation (1935)
+
+---
+
+**Fig. 95. Correct / Incorrect**
+The lever must be aligned in the direction of cable travel.
+*Incorrect*
+
+The aileron lever is fitted and secured with a strong lever-triangle block. Set the lever in the direction of the departing cable (see Fig. 95).
+
+---
+
+**Fitting of Pulleys**
+
+At the same time, the pulley brackets and pulleys are installed. A number of details must be observed here, which also apply to the installation of pulleys in fuselages, cabane struts, etc. Fit retaining guards on all pulleys to prevent the cable from jumping off. Figure 96a shows how a pulley must **not** be installed. The pulleys must rotate freely. When mounting pulleys on wooden parts, place a washer under the small distance sleeve (Fig. 97) so that when tightened the sleeve does not pull into the wood and cause the pulley to bind. Pulleys often retain a burr from machining, or the outer edges are sharp; this must
+
+*Incorrect*
+
+**Fig. 97.** Distance tube made from steel tube, to ensure smooth running.
+
+**Fig. 96.** Thin washers when mounting pulleys on wood.
+
+---
+
+*p. 87*
+
+---
+
+**Fig. 98.**
+The groove edges must be rounded to prevent the cable from chafing through.
+*Correct / Incorrect*
+
+**Fig. 99.** Correct and incorrect cable seating on pulleys.
+*Correct / Incorrect*
+
+---
+
+...be eliminated (Fig. 98). The cable must run correctly into the groove to prevent the cable from rubbing against the groove walls (Fig. 99). This can always be achieved by shimming wedges underneath. On swivelling pulleys, the pivot axis must lie parallel to the fixed cable run (Fig. 100).
+
+On a properly detailed drawing, the dimensions for securing the pulleys will be specified. Otherwise, the best method of determining the run-on and run-off direction of the cables is to use a long length of cord and shift the pulley until the cable ends run off correctly.
+
+If control cables run through the nose, they must be threaded in before planking is applied.
+
+---
+
+**Aligning the Nose**
+
+The filler strips, trailing-edge strips, and nose strips are now trimmed to fit, and on gliders the interior parts are treated with spirit varnish. Do **not** coat the upper and lower faces of the ribs, as these will otherwise not bond with glue. By holding a batten across the ribs, the correct alignment can be checked —
+
+**Fig. 100.** Cable running on a swivelling pulley.
+
+---
+
+*p. 88*
+
+**Fig. 101. Aligning the Ribs.**
+
+We check whether any unevenness exists from one rib to the next, as otherwise the plywood cannot be drawn over them (Fig. 101). Do not sand the upper and lower surfaces of the ribs with glasspaper; the sanding dust closes the pores and prevents a good glue bond.
+
+---
+
+## APPLYING PLYWOOD LEADING EDGE SKINS
+
+Applying plywood over large leading edges requires practice and has caused many a glider builder considerable trouble.
+
+First, let us be clear about what a properly applied plywood leading edge must look like — one that also meets the structural strength requirements placed upon it.
+
+The grain of the plywood runs in most cases along the length of the leading edge. The applied plywood must be well glued to the ribs and spars. It should not be applied so wet that the ribs are pressed through. The plywood must be undamaged — that is, it must have no cuts from careless work with sharp tools, and no cracks from bending the plywood too sharply. The individual panel joints must be executed cleanly, with no slipped or frayed scarf joints. In standard construction, the plywood finishes flush with the trailing edge of the spar. Care must be taken that it bears against the full width of the spar. Finally, the leading edge skin must not be applied in such a way that the wing warps. The wing must still fit on the building jig without tension during the skinning process. (Due to filler strips and plywood, the
+
+---
+
+*[Continues on page 91]*PREPARATORY WORK
+
+**Truing Up**
+A prerequisite for well-fitting planking is the correct truing up of the ribs, because plywood can only be bent in one plane. Therefore, when a straight batten is laid across all the ribs, they must all lie at the same height. The direction of the batten must be applied at approximately the same proportional rib depth (Fig. 101).
+
+**Scarfing**
+Scarfing of the plywood sheets is always carried out over a rib, since this provides the necessary backing surface for pressing. The sheets must be cut to exact size and scarfed beforehand, particularly in the case of sharply angled leading edges. To do this, wrap the rough sheet around the ribs and trace the outline from the inside. Scarf width must be allowed for. If the leading edges are very oblique and pointed (as on the Falke), make a template from stiff paper. Plywood is expensive, and a miscut sheet can only be used for smaller parts. When scarfing, ensure that on any given sheet one scarf joint faces upward and the one at the other end faces downward. If a single sheet does not reach all the way around the leading edge, a piece is scarfed onto it beforehand. Place such scarf joints on the underside of the wing wherever possible.
+
+**Pre-bending the Plywood**
+If difficulty is encountered in bending the plywood around the leading edge, dampen the outer surface, then clamp it in the bent position around a tube or similar object and allow it to dry. If the leading edge is very pointed, bend the plywood gradually by repeatedly dampening and re-clamping it until the required curvature is achieved. When pulling the plywood onto the leading edge, it must not be too wet, as it will otherwise pull excessively over the ribs and these will telegraph through after drying. **Dampen the outside only!**
+
+**Preparatory Steps for Pressing**
+Before we apply the sheets, the necessary preparations for pressing must be made. If we are attaching the plywood using nail strips and straps, these must be in
+
+*(continued on page 92)*
+
+---
+**Translator's note:** The opening lines belong to a preceding section (planked wings sitting too high at the front; packing strips plus plywood thickness must be added beneath the rear spar accordingly). Page 92 follows.
+
+# GLIDER WORKSHOP MANUAL — TRANSLATION
+
+---
+
+...be prepared in sufficient quantities. Similarly when pulling the nose skin on with washing cords or straps — everything must be laid out and ready so that the process can proceed quickly once it begins.
+
+## Nail Strips
+
+With nail strips made of plywood, the pins fall out during nailing. To prevent this, dampen the strip so that the plywood swells.
+
+---
+
+## APPLYING A NOSE SKIN WITH NAIL STRIPS
+
+The wing is clamped correctly onto the building jig with clamps. If a jig trestle happens to be positioned in the area of the nose section to be skinned, it must be removed from in front of the spar and replaced with another support that provides adequate support to the spar. Skinning begins on the underside. Glue is applied generously to the ribs and spars. The plywood is positioned correctly at the trailing edge of the lower spar and tacked with two or three pins. It is pressed firmly using nail strips — two or three placed side by side for very wide spars.
+
+Always begin nailing from the centre of the panel outward, since wrinkles easily form if you work from the ends toward the centre. At the upper edge of the plywood we attach several hold-down clamps or screw clamps (do not forget the packing pieces) and use these to draw the plywood around the nose. Do not position the clamps at the ends of the panel, as this will cause the plywood to be pulled too strongly at the outer edges when drawing it around, causing it to collapse inward. Under continuous firm tension, the skin is nailed down with the help of nail strips. Take care that the nails are also driven into the ribs so that the correct pressure is achieved. At the spar, pressure is again applied using nail strips.
+
+This method of nose skinning has proved to be the most practical, particularly for inexperienced aircraft builders.
+
+---
+
+*[Page 91]*
+
+---
+
+## APPLYING THE NOSE SKIN WITH CORDS
+
+*(Page 93)*
+
+When applying the nose skin with nail strips, the plywood becomes heavily perforated, which is not very desirable for the appearance of the aircraft. To avoid this entirely, the skinning can be carried out as shown in Figure 102. Glue is applied, the pre-bent plywood is placed in position and lightly tacked, and then — starting from the nose tip — the correct pressure is produced using wet washing cords together with the necessary packing pieces. As Figure 103 shows, the pressure can also be achieved using wet fabric straps. If the underside of the nose is very flat, packing pieces must be used to produce uniform pressure.
+
+> **Fig. 102.** *Applying the nose skin using washing cords and packing pieces.*
+
+When pulling on the nose skin, leave the wing clamped down as firmly as possible so that it cannot twist.
+
+---
+
+## FINISHING THE WING
+
+Once the entire wing has been fully skinned, the remaining small...
+
+> **Fig. 103.** *Applying the nose skin using wet fabric straps.*
+
+---
+
+*[Page 92 / Page 94 continues]*
+
+# Glider Construction Manual (1935) — Translation
+
+## Plywood Gussets and Skin Panels
+
+Skin panels are attached as shown in our drawing. Where the ribs are cut through at the spar, they must be connected to the spar by means of gussets (Fig. 104). The grain of the plywood must always run **along the ribs**, since the gussets are intended to carry tensile loads. Never use the nose skin simultaneously as a means of rib attachment — unless the grain of the skin runs in the direction of flight. The attachment gussets are fitted separately.
+
+Where fittings protrude from the wing and are not surrounded by plywood, a plywood gusset is glued to the spar or rib. This is necessary for the attachment of the fabric covering (Figs. 105 and 106).
+
+*Fig. 104. Correct and incorrect fitting of plywood gussets.*
+
+*Fig. 105. A fitting exit is enclosed with a plywood gusset.*
+
+---
+
+**Page 95**
+
+*Fig. 106. Fitting exit.*
+
+---
+
+## Access Holes
+
+Where strut attachment fittings pass through the nose skin, it is advisable to fit a plywood doubling plate.
+
+Wherever pulleys are located, hand-access holes or inspection holes must be provided. Inspection holes are impractical, since they allow one to determine that something is wrong but not to reach inside — the wing covering must first be opened before the fault can be rectified. Figs. 107 to 109 show a series of hand-access hole designs. The covers are always arranged on the underside of the wing, positioned so that they cannot be torn open by the airflow during flight.
+
+Fitted with hinges and secured with a latch bent from steel wire.
+
+*Fig. 108. Hand-access cover strip.*
+
+Aluminium cover fastened with a hinge to the wing underside. A spring holds the flap closed. A wire stiffener is inserted around the edge of the cover.
+
+---
+
+**Page 96**
+
+*Fig. 109. The most common form of hand-access hole. The cover is inserted and secured against falling out by rotating it.*
+
+---
+
+## Bandaging
+
+The remaining work — such as bandaging the diagonal braces, trimming the plywood gussets, and so on — must now be carried out. For bandaging the diagonal braces to the ribs, use cold-glue-impregnated tape, 15 mm wide (Fig. 110).
+
+*Fig. 110. 1. Bandaging of ribs to diagonal braces. 2. Plywood reinforcement at cable exit. 3. Sheet-metal fishplates on the control horn.*
+
+---
+
+## Rigidity
+
+**Ailerons** are in most cases assembled completely on the wing and then cut free. If it turns out that they are too flexible, they must be stiffened.
+
+---
+
+*[Page 95 of original]*
+
+If the diagonals are already installed, one must observe when twisting the control surface whether the diagonals or ribs deflect in any way. This must then be prevented by gluing on plywood gussets and inserting webs. The best way to achieve sufficient rigidity is by fully planking the ribs and diagonals with plywood.
+
+The question now arises as to what should be considered soft in a control surface. Based on tests carried out on standard training aircraft control surfaces, the following rule of thumb can be established:
+
+When checking a control surface for rigidity, grasp it at approximately 1.2 m from the segment lever rib at the trailing edge and twist it by pushing down with one hand and up with the other. The experienced aircraft builder can assess the rigidity of the control surface on the basis of the twist. The inexperienced builder can form a judgement by supporting the control surface trailing edge at the segment lever rib and loading it at 1.2 m distance with 10 kg. On a normally rigid control surface, this point deflects by approximately 4–5 cm. This measurement is of course approximate, but can serve as an initial guide when assessing control surface rigidity.
+
+---
+
+**Fitting the Eye Bolts and Fork Bolts**
+
+The fitting of the eye bolts and fork bolts is carried out after the aileron has been cut to size. Using a straightedge, mark the pivot axis on the control surface spar and drill the holes precisely perpendicular. Now hold the control surface against the wing in the correct position, and by inserting a bolt filed to a point at the front end through the hole, the corresponding hole in the rear spar is always marked out.
+
+Before we now cover the wing with fabric, the remaining aircraft components are first completed so that the aircraft can be fully assembled in the rough-build stage. This is necessary for the following reasons:
+
+1. Errors may have been made — such as incorrectly fitted fittings, incorrect strut lengths, etc. — which can still be more easily corrected at this stage.
+
+2. The control cables can be more easily routed, and it can be properly checked that they do not rub against any structural component during control operation.
+
+# FUSELAGE CONSTRUCTION
+
+**3. The aircraft, when complete in rough construction, must be inspected by a construction inspector.**
+
+**Re 3.** Every glider or sailplane must be approved by a construction inspector appointed by the RRG¹ or the DLV.² Club builders or self-builders may contact the aforementioned institutions at any time in order to have the appropriate construction inspector assigned to them.
+
+---
+
+## FUSELAGE CONSTRUCTION
+
+For nacelles built as cockpit fairings on strut towers (faired Zögling, Hols der Teufel, etc.), assembly presents no difficulties. The strut tower is set up vertically, the frames are attached, and the spars are drawn in. The rigid strut tower completely replaces a building jig *(Fig. 111)*.
+
+**Fig. 111. Frames on the strut tower.**³
+
+---
+
+¹ Research Institute of the Rhön-Rossitten Society, Aviators' Camp Wasserkuppe, Post Gersfeld (Rhön).
+² German Aviation Association, Berlin.
+³ This photograph is taken from Volume 138 of the series *"Spiel und Arbeit"* — *"Segelflugzeug"* (Instructions for building a braced high-wing monoplane with nacelle fuselage), published by Otto Maier, Ravensburg (see advertisements section).
+
+*7 Workshop Practice* — 97
+
+---
+
+**=== PAGE 99 ===**
+
+## Fuselage Building Jig
+
+For every fuselage that has no strut tower, keel, or similar structure, a building jig must be erected on which assembly takes place. Figure 112 shows the building jig for the fuselage of a high-performance aircraft. The construction of the building jig will naturally always vary, as it depends on the materials available to a club. Fuselages are mostly assembled upside down on the jig. The bottom structural members used are the side longerons, which are fixed to the jig, upon which the frames are then erected.
+
+**Fig. 112. Fuselage building jig.**
+
+As with the wing building jig, construction of the fuselage jig also proceeds from a horizontal plane on which the frames stand vertically. The fuselage plan determines the spacing of the frames and the heights of the side chords above the horizontal *(Fig. 113)*. The construction of a fuselage building jig, as
+
+**Fig. 113. Fuselage sketch.**
+
+98
+
+---
+
+**=== PAGE 100 ===**
+
+# Fuselage Assembly Jig and Construction
+
+How easily it can be built is shown in Figure 114. As the lowest component, a sturdy frame is nailed together, the top edge of which is leveled with a spirit level. This top edge later serves as our reference edge; on it the frame station spacings are marked out. When determining the height of the trestles, we must consider how far the frames project downward — particularly the tall rudder frame must not be forgotten. This often projects a long way downward, and it is not always possible to cut a hole in the floor. The trestles are checked in both directions (transversely and longitudinally) to ensure that the top edges are horizontal and the side faces are vertical. Once all the trestles are in position, the fuselage centerline is marked on each trestle using a taut string; in addition, the frame widths must also be scribed. The fuselage longerons are then laid onto the jig and clamped firmly in place with clamps, screw clamps, or similar devices (Fig. 115). It is practical to place 10 mm blocks underneath the flanges throughout, since otherwise, when applying the plywood skin, it will foul the trestle edges.
+
+---
+
+## Setting Up the Frames
+
+The notched-in frames are now erected. Fittings located on the frames are pre-drilled beforehand. Each frame should have the centerline scribed on both its top and bottom edges so that it can be aligned vertically on the jig using a plumb line. The frame centerline must coincide with the jig centerline and stand plumb in all directions. The correctly aligned frame is then braced fore and aft with thin battens. Once all frames are erected, the remaining fuselage longerons are slid into place. The bracing battens are left in position until the diagonal members have been fitted, or until the skinning has been applied.
+
+Regarding the fitting of the diagonal members, there is nothing new to mention; they must be fitted cleanly into the corners and must sit without tension, as otherwise they will twist the fuselage.
+
+In the case of angular fuselages, the fuselage side panels are skinned first, always alternating — one or two sheets on one side, then two sheets on the other side in turn. If one side of the fuselage is skinned completely before the other, it will tend to pull crooked in that direction.
+
+Strut or wing attachment fittings are screwed on firmly before skinning, and the nuts are properly peened over. The skinning in the area of these fittings must be carefully fitted.
+
+---
+
+## Fuselage Nose
+
+The fuselage longerons at the nose are scarfed, and the glued curved members are spliced on. Figure 116 shows the gluing
+
+# The Nose Strips on the "Falke" Fuselage
+
+All strips must be made considerably stronger than shown in the drawing, because it is not possible to scarph the strips so precisely that a kink — even a slight one — does not occur. There must be enough material present so that one can plane down properly. The fuselage side walls are planed down first — that is, the ground plan of the nose is brought into a good form. When planing down, one must sight repeatedly to determine where and how much material needs to be removed. The fuselage nose is then planked all around.
+
+With a round fuselage, thin battens must be used to assist in planing down the frames, with the help of which any irregularities in the fuselage can be more easily detected (Fig. 117).
+
+---
+
+**Fig. 117.** *Aligning the frames using thin battens.*
+
+---
+
+## Skid Block
+
+When the fuselage bottom is planked, the skid is fitted. At the front of the fuselage nose, a stout block is glued on as shown in Figure 118; this block transmits the forces into the fuselage bottom effectively during skidding landings. Care must be taken that the block transitions smoothly into the skid. Inside the fuselage, several strips are glued lengthwise onto the planking to serve as a backing support for the skid block. This robust skid attachment is used primarily on training aircraft. On performance sailplanes it will be made considerably lighter in the interest of weight saving.
+
+---
+
+**Fig. 118.** *Skid block.*
+
+---
+
+*Page 101*
+
+---
+
+## Page 103
+
+## Rubber Blocks
+
+As suspension, the square rubber blocks shown in Figure 119 were frequently used. However, those shown in Figure 120 are considerably softer in their cushioning action. The latter are retained against both the aircraft and the skid by leather cords.
+
+---
+
+**Fig. 119.**
+*Square rubber blocks, which have not proved themselves well in service, as they tend to break easily in the slot for the fitting.*
+
+---
+
+## Attachment of the Skid
+
+The attachment of the skid to the block is accomplished by gluing and wood screws. These screws, however — as must also the rubber block fitting screws — must be countersunk into the underside of the skid, in order to prevent the aircraft from catching on protruding screw heads.
+
+At the front of the fuselage nose, the skid must be nicely rounded off, to prevent the launch cable — when it falls away from the release hook — from catching on it.
+
+When fitting the release hook, ensure that the launch cable releases cleanly; the hook must only be inclined slightly rearward, and—
+
+---
+
+**Fig. 120.** *Attachment of a round rubber block.*
+
+---
+
+*Page 102*
+
+---
+
+## Page 104
+
+# Fig. 121. Round Rubber Blocks.
+
+The hook opening must be generously large (Fig. 122). In addition, a suitable guard against the launch cable ring flipping around is fitted over the nose.
+
+The fuselage is now taken off the building jig, turned over, and the control installation and cable routing carried out. The control bearings are fastened to frames or spars with bolts. Set bearings precisely on the centreline of the frame; at the same time the drive for the elevator (in the case of all-moving tailplanes) is installed and the control cables are threaded through. The necessary information on the correct connection of control cables was already given in the chapter on Wire Connections.
+
+When operating the controls, check that up to the maximum deflections the cables rub against neither the control tube nor any other structural components.
+
+*(Fig. 122. Installation of the launch hook with guard against the launch cable snagging. Skid.)*
+
+---
+
+## Page 105
+
+If a cable cannot be routed without friction, the cable must be redirected by means of a guide pulley.
+
+Every control run must be fitted with a turnbuckle in order to be able to set the control stick correctly relative to the control surface.
+
+It must be avoided that splices run over pulleys.
+
+It is often quite practical to assemble the aircraft provisionally and also to thread in the aileron cables. When installing the redirect pulleys, always ensure that the cables run correctly onto them and that they are secured against jumping off the pulleys.
+
+For rudder actuation, thin steel wire may be used (1.0 to 1.5 mm diameter); however, the run must pass without any sharp bends from the rudder bar to the rudder horns. When using separate rudder pedals, it is advisable to install a return line of rubber cord, 10 mm diameter, running over a large wooden pulley. This rubber return line should only prevent the pedals from folding rearward.
+
+*(Fig. 123. Trainee pilot's seat.)*
+
+**Seat** — While the fuselage is still readily accessible from above, we will carry out the installation of the pilot's seat, parachute box, etc. The pilot's seat, particularly in high-performance sailplanes, must be comfortable and moreover mounted on a robust subframe. Adjustability is to be regarded as desirable.
+
+---
+
+## Page 106
+
+The front of the pilot's seat is raised upward in order to prevent the pilot from becoming caught on the control stick mounting in the event of a hard landing or a crash (crotch guard) (Fig. 123).
+
+*(Fig. 124. Dimensions for a comfortable seat.)*
+
+If a parachute is to be accommodated, it is most often arranged behind the pilot's back, since the fuselage depth rarely suffices to seat the pilot on top of the parachute. However, merely providing space for a parachute is not sufficient — care must be taken that the pilot can also exit the aircraft with the parachute without the parachute snagging. Therefore, round off any corners that lie in the way (sliding surfaces of plywood) (see Figs. 124–126).
+
+*(Fig. 125. The seat as per Fig. 124.)*
+
+---
+
+## Page 107
+
+# Fig. 126. Fuselage with Pilot's Seat.
+
+A solid attachment point must be chosen for the safety harness. Do not attach to the plywood wall without gluing on substantial reinforcing strips, as without these it cannot absorb any impact. Shoulder harnesses are now mandatory. The harness must be fitted so that in the event of a crash the pilot is restrained from moving forward and upward. The correct method of attachment is shown in Figure 127.
+
+**Fig. 127. Fitting of the Safety Harness.**
+
+---
+
+## Inspection Holes
+
+Inspection holes must also be provided in the fuselage at all ribs, and those in the centre section of the fuselage are similar to those in the wing. At the tail ends of high-performance aircraft, which are usually spindle-shaped, however, we must exercise caution when cutting into the fuselage skin. The tail section is small in cross-section and must transmit the control loads from both the horizontal and vertical tail surfaces. If the tail section is weakened by a cutout, its strength can be reduced very considerably. The requirements for inspection holes in highly stressed plywood skins are:
+
+---
+
+*— page 106 —*
+
+---
+
+only circular cutouts, as small as possible, with the edge of the cutout reinforced by gluing on a sturdy plywood ring.
+
+If one wishes to make larger access panels, cockpit fairings, doors, or similar items, separate construction presents difficulties. A good fit, particularly with curved components, can never be achieved this way. If, for example, one wishes to build a larger door for the installation of a barograph, or an exit hatch for the pilot, the fuselage is first fully planked; the door frame is then glued onto the skin, along with the door itself. Between the door and frame strips, pieces of 1 mm plywood are inserted, which automatically provide the necessary gap between the strips. Once everything is thoroughly glued and dried, the door is carefully cut out with a penknife. For curved doors, the strips are laminated so that the door does not warp during the subsequent cutting-out process (Fig. 128).
+
+**Fig. 128. Fuselage door seen from the inside.**
+
+*→ Fuselage skin*
+
+---
+
+*— page 107 —*
+
+# Glider Workshop Manual (1935) — Translation
+
+---
+
+## Planking Notes for Round Fuselages
+
+When planking round fuselages, it should also be noted that the nose piece on the upper surface is **not** scarfed from frame to frame, since the rapidly decreasing fuselage cross-sections would produce a hump at each frame. Instead, the plywood is scarfed in longitudinal strips over template boards (Figure 129). Sturdy boards are used, which receive notches at the frames. During provisional fitting and securing in the fuselage, their upper surfaces are cut approximately to shape.
+
+> **Fig. 129.** Template boards fitted beneath the frames.
+
+The sharper the curvature, the narrower the plywood strips must be, and accordingly the closer the boards must be spaced. The templates are then planed to match the fuselage shape, and the strips are drawn on one after another (Figure 130).
+
+> **Fig. 130.** Plywood partially drawn on.
+
+---
+
+*Page 108*
+
+---
+
+## Page 110
+
+### Drainage
+
+Several drain holes must also be provided in the fuselage floor so that any water that enters can drain away again.
+
+### Padding
+
+The completed fuselage is now trimmed and sanded with fine glasspaper. The pilot's seat cutout is well padded; all surfaces against which the pilot's head could strike during a hard landing must be padded with particular thickness. The most economical padding material is split goatskin leather and kapok. The method of attaching the leather and filling it is shown in Figure 131.
+
+> **Fig. 131.** Installation of padding.
+
+Where rollers are fitted above the pilot's head (as on the Zögling and other trainer types), a head guard must be fitted using leather straps.
+
+### Hold-Back Device
+
+A hold-back device for the launch must also be provided at the rear of the fuselage or tail boom. On trainer aircraft, a rope passed through a fixed point is sufficient. On performance aircraft, where the launch tension is considerably greater, a solid block or fitting must be installed through which the holding rope is guided. More elegant still is a quick-release mechanism operable from the pilot's seat.
+
+### Instrument Installation
+
+A few words should also be said regarding the installation of instruments. Instrumentation is naturally intended only for performance sailplanes, since on training aircraft at most an airspeed indicator is justified — the student should learn to fly the aircraft without instruments, and only when undertaking performance soaring flights should instruments be of assistance to him.
+
+The most commonly used instruments are: altimeter, airspeed indicator, variometer, and compass, and possibly also a blind-flying instrument. A number of manufacturers have developed instruments specifically for sailplanes. All instruments must be mounted on a soft backing. Pitot tubes are to be arranged so that they lie in the free airstream and not in an accelerated—
+
+---
+
+*Page 109*
+
+---
+
+*[Text continues on page 111]*
+
+PILOT'S HEAD FAIRING.
+
+To reduce the drag of the pilot's head, a wide variety of fairings have been developed, with varying degrees of success. The fairing commonly used — as illustrated by the *Wien* — achieves good airflow separation at the head.
+
+*Fig. 132. Head fairing of the "Wien."*
+
+Such a fairing must enclose the head well on all sides, with the side walls transitioning smoothly into the decking in a gentle curve. This type of fairing is most easily formed from aluminium sheet. If it is to be made from plywood, a solid wood block must first be worked to shape, and the plywood applied in scarfed strips.
+
+---
+
+=== PAGE 112 ===
+
+A step further is the complete enclosure of the pilot's head, as first seen on the *Fafnir* (Fig. 133). An essential feature of this fairing is that the pilot must still be able to feel the airflow by turning his head. Since these cutouts can easily generate turbulence and thereby produce drag, the portion of the fairing located behind them must be executed with particular care (Fig. 134).
+
+*Fig. 133. Fafnir pilot fairing.*
+
+---
+
+=== PAGE 113 ===
+
+These pilot head fairings must be easily removable from the inside, in order to allow the pilot to exit quickly by parachute should his aircraft no longer be controllable. A further advantage of the removable fairing is that instruments mounted within it can be taken along when abandoning the aircraft (Fig. 135).
+
+*Fig. 134.*
+- Removable fairing panel
+- Cutouts for the pilot
+- Thickening of the fairing to prevent turbulence (caused by the cutouts)
+
+The pilot fairing shown in Figure 136 is reported not to have proved itself particularly well, probably for two reasons: the shaping for airflow separation is somewhat too steep due to the pronounced upward slope toward the nose; furthermore, the pilot was completely enclosed by the canopy —
+
+*Fig. 135. Instrument installation in the Fafnir (seen through the pilot's hatch).*
+
+---
+
+=== PAGE 114 ===
+
+*(text continues)*
+
+---
+
+**Preceding passage (restored for continuity):**
+
+...to lie within the airstream, and they must also be aligned with the direction of flight. To prevent theft of the very expensive instruments, it is practical to mount all instruments on a removable panel.
+
+When arranging the instruments, care must be taken to ensure good visibility for the pilot, so that he does not have to crane his neck in order to read the airspeed, altitude, or similar indications.
+
+# CONSTRUCTION OF TAIL SURFACES
+
+*(Fig. 136. Fairing of the Luftikus.)*
+
+...enclosed, so that it largely lacked connection with the airflow.
+
+---
+
+## CONSTRUCTION OF TAIL SURFACES
+
+Gliders and training sailplanes will generally have control surfaces with fixed stabilizer surfaces. Since these control surfaces are built rectangular and with a uniform profile, their manufacture presents few difficulties; spar and rib construction is sufficiently well known, and we need concern ourselves only with the assembly process.
+
+Figure 137 shows a tail elevator of this type. The control horns are mounted onto the finished, machined spar. With the
+
+*(Fig. 137. Elevator.)*
+
+elevator, we must pay attention to the direction of the cables acting on the horns — these must not pull at an angle across the fitting. After the horns are fitted, all the plywood gussets for rib attachment are glued on, clamped down on a flat board (Figure 138), the diagonal corner pieces set in place and glued fast. The rib end must always lie vertically above the centre-line of the spar. The spar tails are slotted and the trailing edge strip, with its plywood tab, is glued in.
+
+*(Fig. 138. Elevator spar with plywood gussets, ready for insertion of ribs.)*
+
+For all-moving (pendulum) rudders, assembly is carried out in a similar manner, except that here, due to the considerably longer rib tails, careful attention must be paid to achieving a good vertical seating. Align ribs using a plumb line.
+
+In many cases, an all-moving control surface is operated by means of a lever housed in the fuselage, connected to a torsion tube onto which the control surfaces are slid. In order to provide good bearing support for the elevator on the tube, a plywood tube is glued into the spar. This is scarfed onto a suitable tube — if already available during control surface construction, onto the torsion tube itself — over a turned hardwood piece of the required cross-section. The plywood tube should not be glued for any greater length than the drawing requires, since it is difficult, and sometimes impossible,
+
+*(p. 114)*
+
+---
+
+*(p. 115 continues)*
+
+**CONSTRUCTION OF THE STRUTS**
+
+---
+
+it is impossible to remove a fully glued tube from its former again.
+
+When cutting the plywood to size, we need 3.14 × D of the tube plus the scarf width. The tube on which we glue is rubbed with grease and wrapped in waxed paper to make pulling off the finished tube easier. Pressing is achieved by wrapping wet linen strips around the tube. When pulling it off the former, the former is clamped firmly and the plywood tube is drawn off with a rotating motion. The tube is now glued together with the necessary corner blocks (Fig. 139). To prevent the tube from being crushed, we insert our former and leave it in place until assembly is complete.
+
+When applying dope to the fabric-covered control surfaces, these tend to warp. This can be avoided by treating one panel on one side first, then the corresponding panel on the other side, and so on. This approach continually equalises the tensions. If one entire side were doped to completion first, the fabric would pull the trailing edge around, and this could not be corrected even by vigorous doping on the opposite side.
+
+When drilling for the attachment bolts, both control surfaces must be slid onto the torsion tube on the fuselage and brought to equal setting angles by sighting. When drilling, mark the hole centres precisely and drill with a fine drill bit.
+
+115
+
+---
+
+**=== PAGE 117 ===**
+
+**CONSTRUCTION OF THE STRUTS**
+
+**SOLID STRUTS**
+
+The simplest struts are those made from solid wood. The advantage of simplicity is, however, offset by their considerable weight. As already mentioned at the outset, pine is best used — specifically a tight-grained heartwood piece. The strut is first cut to length, width, and thickness in rectangular form, then tapered toward the ends as specified by the drawing (Fig. 140), and only then is the profile worked out according to the drawing. The thickest point — usually one third of the strut depth — is marked with a pencil line; this line must remain visible during shaping so that the strut thickness is maintained.
+
+*Fig. 140. Shaping the struts.*
+
+116
+
+---
+
+**=== PAGE 118 ===**
+
+MILLED STRUTS.
+
+Considerably lighter are the milled-out struts (Fig. 141). A prerequisite for this work, however, is access to a joiner's shop where the milling can be carried out. The work can also be done with hollow chisels and round planes, but this is very laborious. First, the two halves are prepared as rectangular blanks and then milled out. When hollow-milling, care must be taken to leave sufficient wood at the ends for fitting the hardware. Only then is the tapering toward the ends and the profiling carried out. Once both halves are finished, they are glued together and bandaged with cold-glue-soaked fabric.
+
+Fig. 141. Milled strut cross-sections.
+
+To avoid removing too much material during milling — which would otherwise easily result in walls that are too thin — templates for the depth and width of the hollow are made from plywood before milling begins. At the same time, the reference marks for aligning the templates are scribed onto the strut board.
+
+---
+
+=== PAGE 119 ===
+
+STRUTS WITH COVERED SPARS.
+
+The strut is formed by a box spar or flat spar together with a plywood skin (Fig. 142). The spar is made according to the drawing, and the shape-forming blocks are fitted to it (Fig. 143). The blocks serve simultaneously as a gluing edge for the plywood skin.
+
+Fig. 142. Hollow struts. *(with flat spar / with box spar)*
+
+Fig. 143. Strut spar with fitted form pieces.
+
+---
+
+=== PAGE 120 ===
+
+At the trailing edge, a thin edge strip is inserted onto which the plywood is glued together — similar to the method used for the fuselage cabane strut (Fig. 144).
+
+For small struts used in tail assemblies or similar applications, made from solid wood, the hardware fittings are slid in and bolted. To prevent the fittings from pulling out, plywood collars are glued around both strut ends before the fittings are secured.
+
+It is practical to attach the fittings only provisionally at first, and to fix them permanently only during the rough assembly. Small errors in wing or fuselage construction, or in fitting placement, can easily be compensated by adjusting the strut fittings. When the fittings have been slid into the strut ends, the holes should not yet be drilled through, as otherwise the holes will never align accurately when finally bored.
+
+Once the fittings are in their final position, it must still be verified that they cannot buckle under compressive loading (Fig. 145). If necessary, glue in a plywood backing plate or wooden wedges.
+
+*Backing plate missing — leads to failure!*
+
+*(incorrect) (correct)*
+
+Fig. 145. With these fittings, ensure that they cannot deflect under compressive loading.
+
+# RAW ASSEMBLY (ROHBAUMONTAGE)
+
+In the raw assembly stage, the aircraft is completely assembled, with bracing wires and cables installed. As mentioned earlier, raw assembly is always advisable, since any mistakes that may occur can still be corrected easily at this stage.
+
+**What must be observed during assembly?**
+
+At connection fittings where bolts will not enter freely, do not use force. Much can often be achieved by reaming with a reamer; filing must be avoided under all circumstances, as the holes will become oval and the connection fitting will become loose after only a short time in service.
+
+It is practical to keep all connection bores 1 millimetre undersize, and only to ream them to the correct diameter at the time of assembly.
+
+*Fig. 146. Zögling with elastic suspension for the upper bracing wires.*
+
+A drift pin is used to hold the bore in the desired position. The tip of the connection bolt is filed to a taper to ease insertion. The bolt must be drivable with light hammer blows. Do not strike with a 2 kg hammer as though our machine were an anvil.
+
+On braced aircraft — for example the Zögling — the upper wires are installed first, with the turnbuckles wound half open. The rubber-cord suspension for the upper wires has proven very effective (Fig. 146). During heavy "bounce" landings
+
+---
+
+*=== PAGE 122 ===*
+
+in normal service, spar fractures will rarely occur, and the tearing of the upper wires and the resulting "tent-pitching" collapse will be rarer still. The elastic suspension absorbs even very severe landing shocks completely. When assembling with the suspension system, the jury strut is set vertically, the wings are connected on the inside and propped so that they have a slight upward V-form; the upper wires are then installed, and the wings are pulled downward with the lower wires until they are perfectly level.
+
+*Fig. 147. Errors that can occur during assembly.*
+
+*The tail unit is crooked. The left wing panel is lower. The wing has positive dihedral. The fuselage is not perpendicular to the wing.*
+
+Figure 147 shows a series of alignment conditions as they should **not** appear. When checking the angle of incidence of the two wings relative to each other, stand 3 metres in front of the aircraft at the centreline, positioning yourself at a height such that the lower edge of the profile at the front spar aligns exactly with the trailing edge of the profile at the centre. The trailing edge must project beyond — or sit higher than — the leading edge by the same amount on both the left and right wings. It is better for the flying characteristics if the trailing edge rises slightly toward the outer ends — that is, the angle of incidence is smaller at the outer sections than at the inner sections.
+
+---
+
+*=== PAGE 123 ===*# Glider Workshop Manual (1935) — Translation
+
+---
+
+The fuselage and strut tower must be vertical, or parallel to the wing surfaces respectively. Regarding the bracing wires, the following should be stated once more: if a wire eye is hung directly into a fitting, the hole must be lined with a copper tube rivet. Bend clean, round eyes, and use only the correct size thimbles for the wire.
+
+**Fig. 148.**
+
+---
+
+## Checking the Control Surface Movement
+
+**Control cables** — The connection of the control cables was already treated in detail in the sections "Wing and Fuselage Assembly." We need only verify at this stage that the correct control surface deflections result from the corresponding control stick movements (Fig. 148).
+
+Figure 149 shows the schematic of a standard aircraft control system as used, with minor variations, in most training and glider aircraft.
+
+---
+
+*Page 124*
+
+---
+
+**Fig. 149.**
+*Aircraft control system schematic.*
+
+---
+
+*Page 125*
+
+---
+
+When the controls are operated, the control cables must not rub against the ribs, diagonal members, or any other structural components. At ribs, trim the plywood gusset corners accordingly; in some cases, struts may also need to be repositioned. Do not notch diagonals — it is preferable to take the trouble of repositioning a pulley or of catching the cable with a guide roller.
+
+The connection of cables to the aileron horns should, in sailplanes, be made exclusively by means of sheet-metal clevis tabs.
+
+In gliders, the use of safety pins or steel wire split pins is still permitted. These are not, however, to be regarded as exemplary connections.
+
+The use of cable clamps is permitted only on gliders, and even there only in compliance with the regulations set out in the chapter on cable connections.
+
+---
+
+## ASSEMBLY OF BRACED AND CANTILEVER AIRCRAFT
+
+In braced aircraft, the wings are hung on the fuselage and then supported and aligned by means of battens or trestles. The struts are assembled at the fuselage first. The fittings are held in position on the strut by means of clamps. The struts are then fitted and the fittings drilled through. By fastening the fittings afterwards, we relieve ourselves of a major concern: our aircraft will have the correct angle of incidence, provided that we have sighted correctly when supporting the wing.
+
+For wing surfaces on high-performance aircraft, the wing attachments are often made by means of tapered bolts. The wing is assembled in the normal manner, and through the holes that are to be reamed out for the tapered bolts, suitable bolts are inserted to hold the wing panel in position. The panel is then firmly supported, one attachment bolt is withdrawn, and the hole is reamed out with a tapered reamer matching the bolt. 
+
+---
+
+*Page 126*
+
+# Glider Workshop Manual (1935) — Translation
+
+---
+
+A round file will not produce a proper fit. If it is difficult to work with the reamer in the narrow wing gap, weld a steel tube extension onto the reamer shank.
+
+If, when sighting along the fully assembled wings, it becomes apparent that they have different angles of incidence on the two sides, we must determine exactly where the fault lies. If the wing is twisted throughout, the attachment fittings have been set on inaccurately. This is, however, rarely the case; far more frequently the wing warps during the application of the wet plywood leading-edge skin. At the point where one wing begins to be warped, the leading-edge skin must be stripped off and re-applied. In some circumstances the wing is clamped on the building jig in the direction opposite to the warp and re-skinned. When removed from the jig, the error is then exactly compensated. Judging the correct amount of counter-twist requires a practical feel that can only be acquired through extended experience.
+
+Once the aircraft has been completed to this stage, the building inspector may come for the rough-construction inspection. He will examine everything thoroughly, and if we have observed all the requirements, he will find scarcely anything to fault. Our own sense of pride will demand that everything is finished so correctly and neatly that we ourselves take genuine pleasure in the work accomplished.
+
+At the end of this manual there is an inspection form by which the aircraft is checked through by the building inspector. Before we cover the aircraft with fabric, we must still consider how we can eliminate sources of aerodynamic drag that impair performance. The first of these are gap fairings. One should fair over gaps not only on high-performance machines, but particularly on gliders as well. Training is conducted very extensively over flat terrain, and it is precisely there that every small improvement in flight performance counts. On the *Zögling*, for example, it is well worthwhile covering the gap between the wing and the strut pylon with plywood. Good control-surface gap fairings not only reduce drag but also increase the effectiveness of the control surfaces. On the upper surface of the wing these fairings are most important. The simplest solution is cello-
+
+---
+
+*125*
+
+---
+
+**=== PAGE 127 ===**
+
+# BALANCING THE COMPLETED AIRCRAFT
+
+The flight-ready machine must be balanced for correct loading before the first flight. For standard training and gliding aircraft with rectangular wing planforms, the centre of gravity must lie at approximately ⅓ of the chord depth. The loaded aircraft must be balanced on a round block or tube. For other types, the designer or drawing supplier must specify the aircraft's centre of gravity, and this must agree with the balanced result. During the first flights, test only over flat terrain, and where possible by a C-rated pilot, who can give us a reliable assessment of the flying characteristics of the new machine.
+
+---
+
+## PRECEDING PAGE CONTENT (p. 126–127)
+
+...fabric strips, which are nailed onto the aileron spar. Do not varnish them, as they will otherwise warp upward and stand away from the wing. Their service life is not long, however — after some time they curl upward and must be renewed.
+
+More elegant, though requiring more work, is the slot fairing shown in Figure 150. On performance aircraft, the control surfaces should always be constructed in this manner or similarly. Eye bolts and fork bolts can no longer be used for control surface suspension.
+
+**Fig. 150. Slot fairing of control surfaces.**
+
+Drag can also be reduced by fairing over protruding fitting parts, such as the strut attachment on the fuselage of the Wien type (Fig. 132). All protruding bolt heads, strips, and edges running transverse to the flight direction should be avoided. Protruding levers or similar components should be streamlined or faired over as much as possible.
+
+A great deal also depends on the subsequent fabric covering and varnishing. The necessary guidance for proper execution has been given above.
+
+# Inspection Sheet
+## for Glider and Sailplane Construction Examination
+
+Issued by the Departments of Flight Technology and Flying School of the
+Research Institute of the Rhön-Rossitten Society, Wasserkuppe
+
+Examination of the aircraft belonging to *(Owner)*
+
+by ................................................................................. on .............
+
+---
+
+## I. Material Inspection
+
+**What characteristics and defects were found in the wood used for construction?**
+*See: Wood Defects, p. 12.*
+
+**Moisture content?**
+*See p. 12.*
+
+**Method of drying?**
+*See p. 12.*
+
+**Grain pattern?**
+*See p. 12.*
+
+**Strength test?**
+*See p. 14.*
+
+**At which points of structurally critical members — such as spars, frames, wooden levers, etc. — were defective areas of wood found?**
+
+**Have different types of wood been used, and which wood species was used for the wing spars, fuselage longerons, rib flanges, struts, and tail unit components?**
+
+**Which plywood grades are being used?**
+**Are they properly bonded?**
+*See p. 25.*
+
+**Which grade of sheet metal was used for the fittings?**
+*See p. 16.*
+
+**Carry out the file test, ring test, and double-bend test; determine whether inferior iron sheet has been used anywhere.**
+*See p. 17.*
+
+**Is the steel wire used of satisfactory quality?**
+*(No iron wire.)*
+*See p. 19.*
+
+**Does the control cable meet specifications?**
+*(No iron cable or Bowden cable without hemp core.)*
+*See p. 19.*
+
+**Bend test.**
+
+---
+
+¹ *Reprint with permission of the Rhön-Rossitten Society, from* Werkstattpraxis *(Workshop Practice).*
+
+p. 128
+
+---
+
+*=== PAGE 130 ===*
+
+# II. Raw Construction Inspection (continued)
+
+**Are the screws and cotter-pin bolts properly manufactured and made of the correct material (S.M. steel)?** — See page 18.
+
+**What type of covering fabric is used, and with what is it doped?** — See page 20.
+
+**What type of cold glue is used?** — See page 15.
+
+**Is the glue being mixed and applied correctly?** — See page 22.
+
+---
+
+## II. Raw Construction Inspection
+
+**According to which construction drawings was the aircraft built?**
+
+**Do all dimensions — especially those of the critical components — agree with the measurements shown in the drawings?** Pay attention to spars, ribs, fitting-plate thickness, bolt diameters, struts, plywood thickness, and wire and cable gauges.
+
+**What modifications were made, and by whom were these reviewed and approved?**
+
+**Are all drilled holes within tolerance, so that the bolts do not rattle in them?**
+
+**Are all glued joints sound?**
+- Is the glue fully hardened and dry?
+- Has the glue squeezed out properly everywhere?
+- Is the glue joint a good fit?
+- Were the gluing surfaces roughened?
+
+**Are all scarf joints executed at a ratio of at least 1:12?**
+
+**How are the scarf joints of the plywood carried out on torsion-rigid wing leading edges, on wing spars, and on fuselage skinning?** — See pages 22–29.
+
+**Has no hot glue been used?**
+
+**Was the gluing achieved by clamp pressure or by nailing?**
+
+**Has Forsmann wood-sheet been used anywhere in place of plywood where plywood is specified?**
+
+**Have load-bearing wooden parts been weakened by excessive nailing?**
+
+---
+
+*9 — Workshop Practice* — 129
+
+# Glider Workshop Manual (1935) — Translation
+
+---
+
+**Check torsional rigidity of wing, all** | See page 96.
+**control surfaces, and fuselage.**
+
+What vibration frequencies were recorded on the cantilever or semi-cantilever wings of high-performance aircraft?
+
+Are the control horn levers firmly connected to the control spars by means of packing blocks, and are the levers themselves faced on both sides with plywood?
+
+See page 8, Fig. 3, 65, 113.
+
+What grain direction does the wood insert of the levers show?
+
+Are the holes in the control horns lined with copper tube rivets?
+
+Are proper locking devices fitted to all | See page 78.
+important screwed and bolted connections? (Centre-punching of nuts, splitting of castellated nuts or clevis pins, locking by safety pins, double-sided wire locking on turnbuckles. — Spring washer locking on wooden components is not permissible.)
+
+By what means are the control-movement components — such as control column, rocker arms, control surface hinges, etc. — secured? (Safety pins are not permissible.)
+
+Are washers fitted beneath all bolt heads | See page 77.
+or nuts where they bear on wood?
+
+Are the washers under nuts and bolts | See page 77.
+of sufficient size? Pay particular attention to this on washers bearing on wooden components.
+
+Are all wire eyes and splices executed correctly? (In accordance with the guidelines.)
+
+Is a thimble inserted at every cable splice?
+
+See pages 31–40.
+
+Were suitable spiral eyes used for the wire eyes?
+
+Are copper tube rivets inserted in all steel straps at wire attachment points?
+
+Are all bolts and screws correctly | See page 78.
+oriented — head uppermost or facing forward?
+
+---
+
+*130*
+
+---
+
+*=== PAGE 132 ===*
+
+# Glider Workshop Manual — Inspection Checklist (1935)
+
+---
+
+Have all metal parts been properly protected against rust by appropriate coating before installation? — *See page 22.*
+
+Are all bolt lengths exact, so that the threaded portion does not bear the load? Which bolts have play? — *See page 77.*
+
+Are all nuts and turnbuckles screwed in sufficiently far so that too few thread turns are not carrying the load? — *Minimum 5–6 gauge.*
+
+Are all frequently adjusted turnbuckles running freely enough that no twisting of the shafts occurs during tensioning?
+
+Are all pulleys running smoothly so that the cable does not chafe?
+
+Are the control cables secured everywhere against jumping off the pulleys?
+
+Do all cable pulleys lie in the direction of cable pull? — *See pages 87–88.*
+
+Can the cable pulleys that are mounted to pivot when the direction of pull changes also adjust themselves freely?
+
+How can the cable pulleys on the fuselage and wing be inspected? Are there inspection windows of Cellon or hand-access openings at those locations? — *See pages 94–95.*
+
+Are the control cables everywhere clear of obstructions so that they do not chafe against other structural components? — *See pages 122 and 124.*
+
+How much free play does the control system exhibit?
+
+Are the connections at the control horns articulated so that no tension stresses are introduced into the cables?
+
+Are all joints and pulleys properly greased and lubricated?
+
+Have all welds present been carried out correctly? Note the following: — *See pages 29–30.*
+
+- Material not burned.
+- Weld free of voids.
+- Weld seam fully penetrated.
+- Correct positioning of the weld seam (guidelines).
+
+Has no weld point been filed over or painted with an opaque coating?
+
+---
+
+*Page 131*
+
+---
+
+*=== PAGE 133 ===*
+
+# Glider Workshop Manual — Final Inspection Checklist
+
+---
+
+Are the wire cross-bracing and rigging wires not tensioned excessively, such that the pre-tension loads are too great?
+
+Have all wooden components (except on beginner gliders) received a moisture-resistant coating? — *See page 21.*
+
+Have ventilation holes and water drain openings been fitted in the wing trailing edge and fuselage floor beneath the pilot's seat? — *See page 44.*
+
+Is there adequate padding of the fuselage cut-out around the pilot's seat, as well as of the structural components located within the pilot's seat area? — *See page 109.*
+
+---
+
+## III. Final Inspection
+
+Is the covering fabric properly secured to the wooden parts? (Guidelines.) — *See pages 41–45.*
+
+Is the exterior finish of the covering fabric as well as the wooden parts airtight and waterproof? — *See page 46.*
+
+Has the rigging or bracing been carried out in accordance with the drawings, so that the wing is correctly aligned? Attention should be paid to the pre-tension in the rigging wires.
+
+Are the following correct? — *See page 121.*
+- the angle of incidence of the wing?
+- the washout angle of the tailplane?
+- the dihedral and/or sweep angle of the wings?
+
+Is the fuselage perpendicular to the wing, both horizontally and vertically?
+
+Are all control surfaces correctly connected? — *See page 122.*
+
+Is the control stick vertical when all control surfaces are in their neutral position?
+
+What centre-of-gravity position has been determined for the fully loaded aircraft by means of a weighing/balance check? — *See page 127.*
+
+Is a properly functioning safety harness securely attached to one of the main frames or struts? — *See pages 105–106.* A shoulder harness is required; attachment to the seat is not permitted.
+
+---
+
+*[Page 132]*
+
+---
+
+Is the safety harness also fitted with the prescribed spring tensioning?
+
+Is the launch hook strong enough and correctly shaped? — *See pages 102–103.*
+
+Is the skid fitted at the front of the fuselage in such a manner that the launch cable cannot become caught on it? — *See pages 102–103.*
+
+How is the aircraft held back at the rear during launching? Is an appropriate restraint cable correctly fitted so that no structurally critical components (e.g. horizontal stabiliser struts) are overstressed? — *See page 109.*
+
+---
+
+*[Page 133]*
+
+# GLIDER
+
+*Instructions for Self-Building by H. Jacobs. Volume 138 of the Series "Play and Work" ..... Price RM. 3.50*
+
+The aircraft whose construction is treated exemplarily through all stages of building in this work is a braced high-wing monoplane with a boat-hull fuselage and a 12 m wingspan. It is suited both to training flights and to multi-hour soaring flights. Designed in its basic form by A. Lippisch, it was built in series by Schleicher and has now been substantially improved once more for the purposes of self-building. The construction of the aircraft is straightforward and inexpensive relative to its excellent soaring characteristics.
+
+The 78-page building description is made comprehensible to everyone by the 86 photographs and drawings alone; the 4 large construction plans in particular provide an entirely reliable foundation for faultless execution of the build and successful results.
+
+---
+
+# SPORT FLYING
+
+*An Introduction to Technique and Practice. Edited by Dr.-Ing. Werner von Langsdorff with the collaboration of distinguished pilots, engineers and scientists of German aviation. With numerous photographs and drawings. A publication of the year 1935. Price approx. RM. 3.50*
+
+This book aims to outline the entire field of sport flying for the sport pilot and for those who wish to become one. To that end, the physical and technical fundamentals of flight, the practical handling of sporting aircraft, and the meaning of sport flying are treated in a manner accessible to all.
+
+In order to keep the presentations true to life, all sections were written exclusively by men with many years of their own practical flying experience. Following a foreword by Air Commodore Friedrich Christiansen, the contributions of flight leaders Loerzer, Geyer, Ritter v. Schleich, Stamer, Carganico, Achgelis, Hirth, and others are brought together under the editorship of the editor himself — a noted designer and record-breaking pilot — into an altogether excellent work, one destined to carry forward the development of German air sport, which is built upon the broad foundation of gliding, into the wider field of powered flight.
+
+---
+
+*=== PAGE 136 ===*
+
+# Building Instructions from the Collection "Play and Work"
+
+---
+
+## Tailless Glider and Rocket Models
+
+**Building instructions by H. Jacobs.** 60 pages with over 80 photographs and illustrations, and 2 large model sheets.
+(Volume 134) . . . . . Price RM 2.25
+
+These are, admittedly, "only" models — but it is precisely through models that new aircraft designs are developed. The volume describes 4 thoroughly tested models which, despite excellent flying characteristics, are cleverly simple to assemble — representing a distillation of the experience of our most distinguished pioneers. The first two models are quickly built and cost practically nothing. The last, larger model (2 m wingspan), on the other hand, incorporates in fine execution all modern design forms and components, thus providing an introduction to serious aircraft construction technique, and presents an outstanding, proven type with excellent performance capability. All models are suitable for hand launch or rail launch; the larger model, after minor modification, is also suitable for rocket launch. For those who wish to continue building independently, all necessary specifications are provided. Concise, interesting, and enormously stimulating. Every enthusiast of aviation will derive great benefit from this work.
+
+---
+
+## High-Performance Rubber-Powered Model and Canard Model (Vol. 127)
+
+**Building instructions with illustrations and model sheets by H. Jacobs.** Price RM 2.25
+
+Both models are designed with considerable sophistication for high performance on long-distance flights (power plant: rubber motor). Their competition records of approximately 700 metres with a flight duration of 1½ minutes are no chance results. Even with less meticulous construction, pleasing performance figures are achieved. The building instructions, supported by numerous photographs and drawings — and above all by the large construction sheets — are clear to everyone and thus lead to assured success.
+
+---
+
+*=== PAGE 137 ===*
+
+# Further Construction Guides from the Series "Play and Work"
+
+---
+
+## Monoplane Stick Model
+Construction guide with illustrations and model sheets by A. Lippisch. Volume 113.
+Price: RM 1.20
+
+Easy to build, high-performance model with rubber motor.
+
+---
+
+## Flight Models That Cost Nothing
+For beginners; to be built from scrap material,
+by K. Gösele. Volume 148. Price: RM 1.–
+
+---
+
+## Student Glider Model
+A new guide with drawings and model sheets by K. Bibl. Volume 147.
+Price: RM 1.–
+
+---
+
+## Hand Launch of the Monoplane Stick Model
+
+A very inexpensive, stable model made from the simplest materials (pine strips, cigar box wood), following the construction plans. Particularly well suited for a first exercise in flight; features a well-profiled and braced wing, and is rewarding on account of its outstanding flight performance.
+
+---
+
+## REVIEW:
+
+*The Journal of Aeronautical Engineering and Motor Airship Navigation* comments on Volume 138:
+
+> Schleicher's proven beginner's glider can be built by anyone who takes up this booklet. A degree of skill in working with wood and sheet metal is assumed; the book imparts all remaining knowledge. The author has succeeded in describing the construction of the glider — from gluing and nailing through to flight-ready assembly, including splicing, which is presented with exemplary clarity — so clearly and systematically that no ambiguities need be feared. The highly instructive sketches and photographs make extensive written descriptions and scale drawings unnecessary. Four drawing sheets included in the appendix contain all the dimensioned information required for replication. The careful detailing of individual components with regard to economical and straightforward manufacture, and the clarity of presentation, lend the book a value exceeding its immediate purpose. It can thus offer many practical suggestions for the design and construction of small powered or glider aircraft.
+>
+> — *W. Slender*
+
+---
+
+## Coloured Model Cut-out Sheets for Young People, on Card Stock
+
+To convey an initial understanding of aircraft forms, attractive models can easily be assembled from these sheets by cutting and gluing. Since the construction material is supplied with the sheets, no additional building costs are incurred.
+
+| Item No. | Description | Price |
+|----------|-------------|-------|
+| 1701 | Model of a commercial aircraft (for hanging display) | RM –.65 |
+| 1702 | Glider models. Contains 3 models. The large one resembles our high-performance machines (for hanging display). The two small ones fly freely (tailless and dove model). | RM –.65 |
+| 1707 | Zeppelin airship. Model of the L.Z. 129, embodying the most aerodynamically favourable form (silver printing, model 78 cm long). Double sheet. | RM 1.50 |
+| 1709 | Flying boat (for hanging display), a model of the famous Dornier Wal. | RM 1.50 |
+| 1710 | Our Lufthansa. Eight different models — land and water aircraft, single- and twin-engined aircraft — providing material to learn about constructional forms and types. The best teaching aid for all courses and every kind of instruction. | — |
+
+PUBLISHER'S NOTICE / ADVERTISING MATTER
+
+Visual reference material (to appear 1935) ............................. Price approx. RM. 1,–
+
+Request the large, richly illustrated and interesting free catalogue **"Play and Work"**, which will inform you in detail about further construction manuals (boat building, radio construction, etc.)!
+
+**VERLAG OTTO MAIER / RAVENSBURG**

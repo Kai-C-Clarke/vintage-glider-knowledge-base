@@ -1,0 +1,248 @@
+{
+  "metadata": {
+    "title": "Curious Workshop Assistant - Trusted URL Database",
+    "description": "Curated list of trusted sources for the Ottfur Hook Services workshop assistant. Fetch on demand for current information.",
+    "created": "2026-06-21",
+    "maintainer": "Jon Stiles, Little Millham, Robertsbridge"
+  },
+  "sources": [
+    {
+      "id": "bga_library",
+      "name": "BGA Information Library",
+      "url": "https://members.gliding.co.uk/library/",
+      "category": "regulatory",
+      "description": "BGA forms, publications, airworthiness maintenance procedures, standard repairs, TN/AD compendium. Primary regulatory reference for BGA inspectors."
+    },
+    {
+      "id": "bga_standard_repairs",
+      "name": "BGA Standard Repairs to Gliders",
+      "url": "https://members.gliding.co.uk/library/standard-repairs-to-gliders/",
+      "category": "regulatory",
+      "description": "Index page for all Standard Repairs sections including wood, fabric, GRP, instruments. Direct PDF links available from each sub-page."
+    },
+    {
+      "id": "bga_airworthiness",
+      "name": "BGA Airworthiness and Maintenance",
+      "url": "https://members.gliding.co.uk/airworthiness-2/",
+      "category": "regulatory",
+      "description": "BGA airworthiness requirements, AMPs, ARC procedures, type certificates, glider data sheets, inspector information."
+    },
+    {
+      "id": "bga_compendium",
+      "name": "BGA Airworthiness Compendium (TN/AD)",
+      "url": "https://members.gliding.co.uk/airworthiness-2/airworthiness-directives/",
+      "category": "regulatory",
+      "description": "BGA airworthiness instructions and compendium. Updated every two months. Check here for mandatory TN/ADs applicable to specific glider types."
+    },
+    {
+      "id": "bga_datasheets",
+      "name": "BGA Glider Data Sheets",
+      "url": "https://members.gliding.co.uk/airworthiness-2/bga-datasheets/",
+      "category": "regulatory",
+      "description": "Type-specific data sheets for gliders on the BGA register. Useful for vintage types where original manufacturer data is unavailable."
+    },
+    {
+      "id": "bga_forms",
+      "name": "BGA Airworthiness Forms",
+      "url": "https://members.gliding.co.uk/airworthiness-2/airworthiness-forms/",
+      "category": "regulatory",
+      "description": "Current BGA forms including Form 276 (ARC checklist), Form 267 (GMP report), Form 277 (complex maintenance), Form 280 (AD status)."
+    },
+    {
+      "id": "caa_cap747",
+      "name": "CAA CAP 747 Mandatory Requirements for Airworthiness",
+      "url": "https://www.caa.co.uk/cap747",
+      "category": "regulatory",
+      "description": "UK CAA mandatory airworthiness requirements. Primary source for ADs applicable from 1 January 2021 onwards."
+    },
+    {
+      "id": "caa_ginfo",
+      "name": "CAA G-INFO Aircraft Register",
+      "url": "https://siteapps.caa.co.uk/g-info/",
+      "category": "regulatory",
+      "description": "UK aircraft register. Look up current registration status, C of A details, and ARC expiry for any G-registered aircraft."
+    },
+    {
+      "id": "easa_safety",
+      "name": "EASA Safety Publications Tool",
+      "url": "https://ad.easa.europa.eu/",
+      "category": "regulatory",
+      "description": "EASA airworthiness directives. For ADs issued prior to 1 January 2021, this is the primary source. State of Design ADs apply unless UK CAA has published otherwise."
+    },
+    {
+      "id": "easa_tcds",
+      "name": "EASA Type Certificate Data Sheets",
+      "url": "https://www.easa.europa.eu/en/document-library/type-certificates",
+      "category": "regulatory",
+      "description": "EASA type certificates for Part 21 gliders. Schleicher, Schempp-Hirth, Grob etc. Check for airworthiness limitations, approved equipment lists."
+    },
+    {
+      "id": "schleicher_service",
+      "name": "Alexander Schleicher Service Documents",
+      "url": "https://www.alexander-schleicher.de/en/service/",
+      "category": "type_specific",
+      "description": "Schleicher service bulletins, technical notes, manuals for ASK-13, ASK-21, K6, K8 and other types. Essential for G-DJLL ASK-13 work."
+    },
+    {
+      "id": "faa_ac4313",
+      "name": "FAA AC 43.13-1B Advisory Circular",
+      "url": "https://www.faa.gov/documentLibrary/media/Advisory_Circular/43.13-1B.pdf",
+      "category": "reference",
+      "description": "FAA acceptable methods for aircraft inspection and repair. Chapter 1 covers wood structures in detail. Widely referenced in BGA approved data for vintage aircraft repairs."
+    },
+    {
+      "id": "faa_library",
+      "name": "FAA Document Library",
+      "url": "https://www.faa.gov/regulations_policies/advisory_circulars/",
+      "category": "reference",
+      "description": "FAA advisory circulars index. Source for AC43.13-1B, AC43.13-2B (alterations) and other reference documents."
+    },
+    {
+      "id": "bga_flickfibel",
+      "name": "Plastic Plane Patch Primer (Flickfibel 1978)",
+      "url": "https://dusin4sirodta.cloudfront.net/uploads/sites/3/2023/11/flickfibel-e.pdf",
+      "category": "reference",
+      "description": "Ursula H\u00e4nle's 1978 GRP repair manual, translated to English. Definitive practical guide for GRP glider repair. Direct PDF download."
+    },
+    {
+      "id": "westsystem_manuals",
+      "name": "West System Instruction Manuals",
+      "url": "https://www.westsystem.com/instruction/instruction-manuals/",
+      "category": "materials",
+      "description": "Free download page for all West System/Gougeon Brothers manuals including User Manual, Wooden Boat Restoration, Fiberglass Repair."
+    },
+    {
+      "id": "westsystem_user",
+      "name": "West System User Manual & Product Guide",
+      "url": "https://www.westsystem.com/app/uploads/2023/12/English-WEST-SYSTEM-User-Manual-September-2021-Screen-Version.pdf",
+      "category": "materials",
+      "description": "Current West System user manual. Covers all products, mixing ratios, fillers, surface preparation, working times and safety."
+    },
+    {
+      "id": "swindon_aircraft",
+      "name": "Swindon Aircraft Timber Company (Tim Wood)",
+      "url": "https://www.aircraftplywoodandtimber.co.uk/",
+      "category": "suppliers",
+      "description": "UK supplier of aircraft-grade timber, plywood, and adhesives. Stocks Prefere 4050/5750 (resorcinol, formerly Aerodux) and Aerolite 306 (urea-formaldehyde). Contact: Tim Wood, 01454 317877."
+    },
+    {
+      "id": "swindon_adhesives",
+      "name": "Swindon Aircraft - Adhesives Page",
+      "url": "https://www.aircraftplywoodandtimber.co.uk/aircraft_adhesives.html",
+      "category": "suppliers",
+      "description": "Current adhesive stock and pricing from Swindon Aircraft Timber. Prefere 4050M resin (medium, not fast) and 5750 hardener. Aerolite 306 and Prefere 5325 hardener."
+    },
+    {
+      "id": "wicks_aircraft",
+      "name": "Wicks Aircraft Supply",
+      "url": "https://www.wicksaircraft.com/",
+      "category": "suppliers",
+      "description": "US aircraft supply. Source for Ceconite fabric, Poly-Fiber, Cascophen resorcinol, and downloadable instruction manuals. PDFs freely available without purchase."
+    },
+    {
+      "id": "gruppofalchi",
+      "name": "Gruppo Falchi Document Archive",
+      "url": "https://www.gruppofalchi.com/",
+      "category": "reference",
+      "description": "Italian gliding club with extensive free PDF archive including Stafford-Allen Glider Maintenance Manual 1959 and Jacobs Werkstattpraxis 1935 (German original)."
+    },
+    {
+      "id": "lsa_aerospace",
+      "name": "LAS Aerospace (UK Aircraft Spruce agent)",
+      "url": "https://www.lasaerospace.com/",
+      "category": "suppliers",
+      "description": "UK agent for Aircraft Spruce. Source for aircraft hardware, materials, and consumables with UK stock and pricing."
+    },
+    {
+      "id": "bga_inspector_info",
+      "name": "BGA Inspector Information",
+      "url": "https://members.gliding.co.uk/bga-inspectors/",
+      "category": "regulatory",
+      "description": "BGA inspector procedures, Part-66L information, theoretical knowledge examinations. Relevant to maintaining inspector authorisation."
+    },
+    {
+      "id": "ottfur_hook_services",
+      "name": "Ottfur Hook Services GitHub",
+      "url": "https://github.com/Kai-C-Clarke/ottfur-hook-services",
+      "category": "ottfur",
+      "description": "Jon Stiles' Ottfur Hook Services repository. CW300/CW400/OM100 PDT documents, calibration records, technical data for Cair Aviation hook line."
+    },
+    {
+      "id": "glider_workshop_kb",
+      "name": "Glider Workshop Knowledge Base GitHub",
+      "url": "https://github.com/Kai-C-Clarke/glider-workshop",
+      "category": "ottfur",
+      "description": "Workshop knowledge base repository. OM100 ingestion pipeline, structured JSON records, BGA form adapters, CAA G-INFO adapter."
+    },
+    {
+      "id": "vgc_archive",
+      "name": "Vintage Glider Club Archive",
+      "url": "https://vintagegliderclub.org/archive/",
+      "category": "reference",
+      "description": "Largest collection of manufacturer design and production information for British gliders in the world. Drawings, flight test reports and manuals for Slingsby, Elliots of Newbury and other UK types. Physical archive at Lasham \u2014 contact archivist for specific type enquiries. Not an online database."
+    },
+    {
+      "id": "vgc_website",
+      "name": "Vintage Glider Club",
+      "url": "https://vintagegliderclub.org",
+      "category": "reference",
+      "description": "VGC website with back issues of VGC News as free PDFs. Technical articles on specific vintage types, restoration reports, airworthiness notes. Also book sales including VSA Workshop Practice (Jacobs) and Slingsby Sailplanes (Martin Simons)."
+    },
+    {
+      "id": "vgc_news_archive",
+      "name": "VGC News Back Issues",
+      "url": "https://vintagegliderclub.org/vgc-news/",
+      "category": "reference",
+      "description": "Free PDF downloads of VGC News back issues. Contains type-specific technical articles, restoration reports and airworthiness notes on vintage gliders including Olympia, Swallow, Grunau Baby, Slingsby types and continental vintage types."
+    },
+    {
+      "id": "bga_airworthiness_library",
+      "name": "BGA Airworthiness Library (Type Compendiums)",
+      "url": "https://members.gliding.co.uk/library/airworthiness/",
+      "category": "regulatory",
+      "description": "Type-specific compendiums of airworthiness information. Covers Schleicher wooden sailplanes, Schleicher composite, Schempp-Hirth, Scheibe, DG range, LS series, Blanik, Bocian, Birmingham Guild and many others. Essential for AD/TN status on specific types including K6, K8, ASK-13."
+    },
+    {
+      "id": "bga_schleicher_wooden",
+      "name": "BGA Compendium - Schleicher Wooden Sailplanes",
+      "url": "https://members.gliding.co.uk/library/airworthiness/",
+      "category": "type_specific",
+      "description": "BGA airworthiness compendium for Schleicher wooden sailplanes \u2014 K6, K7, K8 series. Search for 'Schleicher wooden' in the BGA airworthiness library. Updated October 2024."
+    },
+    {
+      "id": "slingsby_sailplanes_book",
+      "name": "Slingsby Sailplanes - Martin Simons (free PDF)",
+      "url": "https://www.cumulus-soaring.com/store/vintage-glider-club-40years",
+      "category": "reference",
+      "description": "Martin Simons' Slingsby Sailplanes (1996, 260 pages) available as free download via VGC book page. Comprehensive technical and historical reference for all Slingsby types including T38 Swallow."
+    },
+    {
+      "id": "vgc_archive",
+      "name": "Vintage Glider Club Archive",
+      "url": "https://vintagegliderclub.org/archive/",
+      "category": "reference",
+      "description": "Physical archive at Lasham \u2014 largest collection of manufacturer design documentation for British gliders in the world. Drawings, flight test reports, manuals for Slingsby, Elliots of Newbury and others. Contact archivist for specific type enquiries. Particularly useful for vintage UK types where original data is otherwise unavailable."
+    },
+    {
+      "id": "vgc_news",
+      "name": "Vintage Glider Club - VGC News Back Issues",
+      "url": "https://vintagegliderclub.org/vgc-news/",
+      "category": "reference",
+      "description": "Free PDF downloads of VGC News back issues. Contains type-specific technical articles, restoration reports, airworthiness notes on vintage gliders including Olympia, Swallow, SHK, Grunau Baby, Slingsby types and many others."
+    },
+    {
+      "id": "bga_type_compendiums",
+      "name": "BGA Airworthiness Library - Type Compendiums",
+      "url": "https://members.gliding.co.uk/library/airworthiness/",
+      "category": "regulatory",
+      "description": "BGA type-specific compendiums of airworthiness information. Covers Schleicher wooden sailplanes (K6, K8, K13 etc), Schleicher composite, Schempp-Hirth, Scheibe, DG range, LS series, Blanik, Bocian, Birmingham Guild and many others. Updated October 2024. Essential for AD compliance checking by type."
+    },
+    {
+      "id": "slingsby_martin_simons",
+      "name": "Slingsby Sailplanes by Martin Simons (free PDF - BGA archive)",
+      "url": "https://s3-eu-west-1.amazonaws.com/bga-sg-archive/Books/SLINGSBY++SAILPLANES.pdf",
+      "category": "reference",
+      "description": "Complete 260-page book covering every Slingsby type from British Falcon 1931 to Vega. Full page three-view drawings based on original workshop plans, photos and technical details. Covers T38 Swallow, T21, T31, Dart, Eagle and all other types. Direct PDF from BGA S3 archive."
+    }
+  ]
+}

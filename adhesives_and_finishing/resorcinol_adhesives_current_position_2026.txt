@@ -1,0 +1,86 @@
+# Resorcinol Adhesives for Vintage Glider Repair — Current Position
+## Compiled June 2026 | Source: BGA Technical News Sheet Issue 2-2025 (21 November 2025)
+
+---
+
+## Summary
+
+Resorcinol adhesives remain the correct choice for primary structural wood repairs on vintage gliders.
+The product landscape has changed. This note records the current position for inspectors and restorers.
+
+---
+
+## Aerodux 500 / 501 — DISCONTINUED
+
+Aerodux 500 (liquid resin) with Hardener 501 (liquid hardener), mixed 1:1 by volume, is no longer
+in production. This was the standard workshop product for many years and is referred to in older
+references including Stafford Allen (1959) and various manufacturer maintenance manuals.
+
+**Source:** BGA TNS Issue 2-2025, Safety Information Item 05:
+"Aerodux prefer 500/501 no longer in production"
+
+---
+
+## Aerodux 185 — CURRENT APPROVED PRODUCT
+
+Aerodux 185 (liquid phenol-resorcinol resin) mixed with powder hardener HRP.155 is the current
+product mandated by the major glider manufacturers for wood repairs.
+
+**Mixing ratio:** 5 parts resin to 1 part powder hardener (by weight)
+**Hardener variants:**
+- HRP.150 — specified by Scheibe aircraft
+- HRP.155 — specified by Schempp-Hirth, Schleicher, CEAPRA Robin, and most others
+
+**BGA TNS Issue 2-2025 states:**
+"Scheibe, Schempp-Hirth, Schleicher and CEAPRA Robin all mandate using Aerodux 185 for wood
+repairs. The hardener now comes in a powder form, is either 150 for Scheibe aircraft and most the
+others appear to recommend 155. Read the datasheet for clarity on mixing ratios, pot life and
+shelf life. Making a sample first is recommended if you have never used this version before."
+
+**Standards compliance:** EN 301 Type 1, BS 1203 (Type WBP), DIN 68 141
+**Luftfahrt-Bundesamt approved** for glued wood products in aeroplanes.
+
+---
+
+## UK Supplier
+
+Tim Wood — Swindon Aircraft Timber (also trading as Aircraft Plywood and Timber)
+Tel: 01454 317877
+Web: aircraftplywoodandtimber.co.uk
+
+Stocks both:
+- Aerolite 306 (urea-formaldehyde, non-structural / water-resistant)
+- Aerodux equivalent resorcinol resin + hardener (phenol-resorcinol, structural / fully weatherproof)
+
+Note: Tim Wood stocks the medium viscosity resin only. The fast resin was withdrawn due to
+manufacturer shelf-life difficulties.
+
+---
+
+## Notes for Inspectors
+
+1. Check tins are date-stamped and in-date before use. Resorcinol resins have a finite shelf life.
+
+2. If using Aerodux 185 with powder hardener for the first time, make a test piece first.
+   The powder system behaves differently to the old liquid-liquid 500/501 system.
+
+3. Aerolite 306 (urea-formaldehyde) is NOT a substitute for resorcinol in primary structural joints.
+   Aerolite is water-resistant (MR grade); resorcinol is fully waterproof (WBP grade).
+   Use resorcinol for all primary structural repairs. Use Aerolite only for non-structural,
+   interior, water-resistant work.
+
+4. West System epoxy (105/205) is suitable for gap filling and fairing only — NOT primary structure
+   on wood gliders. Some manufacturers explicitly prohibit epoxy for structural repairs.
+
+5. Curing temperature matters. Resorcinol requires a minimum curing temperature — check the
+   current datasheet. Cold workshops will extend cure time significantly.
+
+---
+
+## Reference
+
+BGA Technical News Sheet Issue 2-2025 (21 November 2025)
+https://members.gliding.co.uk/wp-content/uploads/sites/3/2025/11/TNS-issue-2-2025-v1.1.pdf
+
+Aerodux 185 Technical Data Sheet:
+https://thenamethatsticks.com/wp-content/uploads/2023/11/35500-185-tds-aerodux-185.pdf

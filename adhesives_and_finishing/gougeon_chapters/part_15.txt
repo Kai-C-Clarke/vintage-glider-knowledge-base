@@ -1,0 +1,1797 @@
+ovide the main support with smaller longitudinal
+stringers for further support. The stringers are
+sometimes minimized or left out if they don’t serve a
+definite structural purpose. The second method uses a
+series of large, longitudinal beams with smaller beams
+bent over the longitudinal beams in the athwartship
+direction. Generally, the second method is preferred on
+boats with wider decks, especially large keelboats. The
+first method is commonly used on boats with narrower
+decks, such as multihulls.
+Longitudinal Deck Beam Concept
+In the old carvel planked boats, the decks were planked
+just like hulls, and athwartship deck beams made a lot
+of sense. When using plywood instead of planking as a
+decking material, however, the structural function of
+the deck beam changes. Deck beams used to be bolted
+carefully to a clamp and shelf arrangement to hold the
+two sheers together. Now, plywood decking bonded to
+340
+Later Production Steps
+Figure 27-4  Geometric layout for deck camber.
+A semicircle with its
+radius A equal 
+to the maximum
+camber at the 
+CL of deck.
+Divide a 90° arc into
+equal spacings.
+Divide the base line into the same number
+of sections as the arc  2  then join the
+corresponding points (as B, C, D) from 
+the CL out.
+On the deck beam stock lay out the true
+width of the deck (half is shown for clarity).
+Erect the camber height A as a perpendicular at the CL.
+Then mark each half of the baseline, from the centerline
+to sheer, into the same number of sections as  2 . At
+these sections mark off the corresponding dimensions
+B, C, D perpendicular to the baseline. Finely fair a batten
+through your marks on both sides of the CL to obtain
+your deck camber curve.
+
+--- PAGE 355 ---
+the sheers serves the same function and does a much
+better job in the process.
+The major function of framework for decks is the same
+as for hulls: to best support the surface skin so that it
+will not buckle under high loads. The major loading on
+deck structures for many boats is longitudinal in nature,
+so it makes sense to orient a significant portion of the
+deck framework in a longitudinal fashion to help carry
+these loads.
+The longitudinal beam concept has been used very
+successfully on many boats, and it has some practical
+side benefits. 
+1. Most interior traffic is fore and aft. Keeping
+athwartship deck beams to a minimum size increases
+the amount of headroom available for a given dimen-
+sion of the vessel.
+2. The longitudinal beam concept can simplify deck
+framework construction.
+3. Properly positioned, the longitudinal beams can
+become strong points to which you can install major
+deck hardware for maximum loading potential.
+Examples of longitudinal deck beam construction are
+shown in Figures 27-5 and 27-6.
+The deck framing of the 42' (12.8m) sailboat shown in
+Figure 27-5 begins with the installation of four
+laminated longitudinal beams measuring about 11⁄2" 
+4" (38mm  100mm). We set them in proper position,
+using the existing bulkhead deck profiles and the sheer
+as the main measurement references. If necessary, we
+prop up the beams temporarily with posts from the
+floor of the hull, especially in places where they might
+sag a bit between bulkheads. We normally set the
+beams in place, keeping them fair to the eye as they are
+sighted longitudinally. We can check the positioning of
+the longitudinal beams at any station point that we
+desire with the template of the deck crown. When the
+longitudinals are in proper position, installing the rest
+of the deck framework is relatively easy.
+We sawed the athwartship frames (shown in Figure 27-
+5) out of straight timber stock and they measured 13⁄8"
+ 3⁄4" (35mm  18mm). We then simply bent this
+stock around the four longitudinal beams to form a
+naturally curved deck crown that ended up being
+accurate enough so that little fairing was required.
+We notched the athwartship beams as well as the longi-
+tudinal beams into the sheer clamp. The sheer notch,
+however, is of the triangular type where the athwartship
+beam is held captive and given complete support. (See
+Figure 27-7.) The triangular notch is a fast and efficient
+Chapter 27 – Deck Construction
+341
+Figure 27-5 Longitudinal and smaller athwartship beams on
+Golden Dazy.
+Figure 27-6 Foredeck framing for a 1⁄2 ton racer. Longitudinals
+will carry cabin sides and a hanging cockpit.
+
+--- PAGE 356 ---
+method of joining deck beams to the sheer clamp, and
+we have used this method for many years. We also use
+this method in a number of other areas where wood
+members need to be joined at approximate right angles.
+To make a notch, first mark the dimension of the notch
+on the stock. The two critical dimensions of the notch
+are its length and depth. These dimensions will deter-
+mine the bevel that the notch will take. The width of
+the notch will be determined by the width of the stick
+to be notched in. Saw the two sides of the notch to the
+marked lines, using a fine-toothed handsaw. Remove
+the stock between the saw cuts with a chisel and true
+up the notch with a file.
+You now only need to fit the frame or stringer to the
+existing notch. This involves transferring the bevel and
+the notch to the member to be fitted for a good mating.
+Cut the bevel on the ends to be fitted at the proper
+length, allowing the member to sit in proper final
+resting position in the notch. After the parts are
+properly fitted, bond them in place, using a thick
+adhesive mixture that will fill any gaps in the notch that
+may inadvertently exist between the members.
+You can also use longitudinal beams to advantage as
+structural members to which to attach the cockpit or
+cabin sides. In Figure 27-9, the four longitudinal beams
+serve as supporting framework from which to hang a
+unique slingshot-shaped cockpit. We accomplished this
+by first installing the cockpit itself and then clamping
+the longitudinal beams to the various sides of the
+cockpit at the proper height. Also note the use of sawn-
+to-shape half beams in the athwartship direction in the
+cockpit area. These half beams span the short distance
+from the sheer to the longitudinal beams. They are
+fitted at each end, using the triangular notched method.
+342
+Later Production Steps
+Figure 27-7  Cutting a triangular notch
+Figure 27-8  Triangular notches were cut into a laminated
+beam before it was bonded to the plywood frame.
+Longitudinal deck stringers were then easy to fit into the
+notches.
+Figure 27-9  A hanging cockpit supported by longitudinal
+beams.
+This method of
+notching for deck
+beams uses the high
+shear strength of the
+epoxy to advantage
+while maintaining the
+integrity of the carling
+or sheer clamp.
+The accuracy of this intersection is important.
+If the deck beam stands proud of the notch,
+you are losing strength in the joint and the
+deck beam because the high parts get removed
+during fairing.
+
+--- PAGE 357 ---
+Laminated Deck Beams
+More traditional laminated beams serve as the main
+support of the deck framework shown in Figure 27-11.
+The unusual shape of this deck made the longitudinal
+beam concept impractical. We lofted the heavily curved
+blister deck to determine the correct shape of each beam
+and then laminated the beams on the lofting floor using
+the block-on-floor method described in Chapter 11.
+Because it’s difficult to work on the undersides of decks,
+we prefinish all deck framing members. In this case, we
+shaped and coated the laminated beams and installed
+them with triangular notches at the sheers. To set each
+beam in proper position, we used the sheer dimensions
+on each side and the height at the centerline as refer-
+ence points, measuring the height from a string that ran
+parallel to the waterline on the interior of the boat.
+Using standard hull fairing techniques, we faired the
+beams and notched smaller 1"  3⁄4" (25mm  18mm)
+longitudinal stringers into each one. The deck had too
+much compound curvature to be covered with sheet
+ply, so we laminated two layers of 12" wide, 3⁄16" (5mm)
+plywood strips for a total deck thickness of 3⁄8" (9mm).
+Cockpit Construction and Installation
+Before installing any deck framework, we usually build
+the cockpit and set it in position. In most cases, it’s
+easier to fit deck framing around the cockpit than to fit
+the cockpit around deck beams. Even if the two
+methods were equal, it’s usually easier to fabricate the
+cockpit on the shop floor and install it as a unit than it
+is to build it from many pieces inside the cramped
+working quarters of the hull.
+Chapter 27 – Deck Construction
+343
+Figure 27-10  Laminated deck beams with centerline blocking
+and a hardwood cap. At right are blocking and a stanchion for
+a deck-stepped spar.
+Figure 27-11 Laminated frames and 1"  3⁄4" (25mm 
+18mm) stringers used as framing for a blister-type deck on 
+a 1⁄2 ton racer. Note the plywood mast partner for a keel-
+stepped spar.
+Figure 27-12 A cockpit assembly constructed outside the hull.
+Figure 27-13 An unusual slingshot-shaped cockpit is set in
+place on Golden Dazy. It is trued up with temporary bracing
+and blocking. Then the deck framework is installed around its
+perimeter.
+
+--- PAGE 358 ---
+We always begin cockpit construction by building the
+cockpit floor. The cockpit floor, like the floor of a
+house, serves as a foundation on which to erect the
+walls. We favor sandwich construction with a honey-
+comb core for cockpit floors, but a standard
+framework-supported floor similar to that used on the
+deck also works well. After we have constructed the
+floor, we saw cockpit sidewalls of appropriate plywood
+thickness and bond them to the completed floor to
+form a ready-to-install cockpit, as shown in Figure 27-12.
+344
+Later Production Steps
+Figure 27-14 Golden Dazy’s cockpit, viewed from the bow.
+Figure 27-15  A typical cockpit seat section detail.
+Figure 27-16  Cockpit construction details.
+Built-up coaming
+with teak cap
+Hinged-top wet locker
+Deck beam
+Carling
+Limber hole
+Beam
+Sole
+Plywood lip
+Cockpit sides
+Deck
+Beam
+Sides attached with sole dropped down
+onto cleats for bonding.
+Molding/cap
+Plywood cockpit sides
+Fillet
+Epoxy/Filler
+Cleat
+Honeycomb
+core
+Optional fillet permits easy
+cleaning (sole can be painted)
+Cockpit sides with cleat attached
+to support cockpit sole
+Frame built into panel/core cockpit sole
+is relieved slightly. This allows the
+builder to visually inspect the joint as
+thickened epoxy is forced into the void.
+Plywood
+Honeycomb core
+Cockpit sole and sides pre-
+assembled then fastened to
+longitudinal stringer.
+Deck
+Deckbeam
+Stringer
+Plywood sides
+Sole
+Beam
+Shelf or cleat carrying
+cockpit sole beams
+
+--- PAGE 359 ---
+The cockpit may be much more elaborate than this,
+with seats and lockers underneath. You can also add
+these before you install the whole unit in the hull.
+Positioning the cockpit in the hull is not difficult. It
+must be centered and set at the right height in relation
+to the sheer dimension or possibly to a waterline.
+Usually, there is at least one bulkhead in the vicinity of
+the cockpit, and you can cut this out to the exact
+dimension of the cockpit shape and use it as a
+positioning point for placement of the cockpit. With
+this initial support, you can true up the cockpit to the
+final dimension required. You may need temporary
+support to hold the cockpit in proper position until you
+can install enough deck framework to hold the cockpit
+installation rigidly in place.
+Decking Over
+To final fair the deck framework, use essentially the
+same methods that are used to fair up a hull. Because
+the deck surface is almost flat in comparison to the
+curves on a hull, it is easy to see and correct imperfec-
+tions, so fairing the deck framework is much less
+difficult than fairing a hull. Long-bed hand planes are
+ideal for fairing up this large, flat surface area. A large
+plywood batten measuring about 1' wide  8' long
+(300mm  2.4m) also helps indicate how the plywood
+will lie on the various frame members.
+After the deck framework is faired, it is ready for the
+plywood decking. Decking thickness depends upon a
+number of factors, such as boat size and type, amount
+and spacing of supportive deck framework, and the
+type of service that the boat is likely to see. Generally,
+decks don’t have to be as thick as hulls. A hull must be
+thick enough to withstand impact loads of hitting
+floating debris and the constant hydrodynamic loads of
+waves. The heaviest potential load on a deck is from a
+large boarding sea, and this enormous load, while
+awesome, is not particularly high on a pounds-per-
+square-foot basis when compared with the loads that a
+hull must withstand.
+For most decks, the human body presents the greatest
+concentrated load the deck will ever have to withstand.
+Thus, our minimum criterion for a successful deck is
+that it be strong and stiff enough to prevent any
+substantial deflection when it is walked upon. A contin-
+ually deflecting deck is likely to have a short life span,
+failing through fatigue at an inopportune moment.
+In the end, there are no firm guidelines for deck thick-
+ness. If you use thin plywood, you will need more frames;
+if you use thick plywood, you will need fewer frames. A
+thin skin with a number of lightweight frames is lighter
+than a thicker plywood deck, but it also takes more
+time to build. We covered the deck framework for the
+42' (12.8m) Golden Dazy, shown in Figure 27-5, with
+two layers of 1⁄4" (6mm) plywood and laid 1⁄8" (3mm)
+teak laminate over the ply. The resulting 5⁄8" (9mm) deck
+was considerably thinner than Dazy’s 11⁄8" (28.5mm)
+thick hull. The frame-supported deck on Rogue Wave, a
+60' (18.2m) trimaran, on the other hand, was only 3⁄8"
+(9mm) thick. Many small day racers have well-supported
+1⁄8" to 3⁄16" plywood decking. Ollie’s deck is 5-ply 1⁄4"
+plywood over light deck beams at 7" (175mm) spacings.
+Apply plywood decking in the same manner that you
+apply plywood panels to the hull framework in
+standard hard chine construction. (See Chapter 24.) As
+is the problem with hulls, decks normally present too
+large an area to cover easily with one prescarfed panel.
+Therefore, we apply the largest-sized panels that we can
+cut out of a 4'  8' (1200mm  2400mm) sheet of
+plywood and join them in place on the deck, using a
+deck beam or stringer as the point at which to make a
+scarf joint. Planning the scarf positioning may be a little
+bit more difficult on a deck than on a hull because of
+potential obstructions that must be fitted to, such as the
+cabin walls, hatches, and cockpit. Because the under-
+side of the deck will be seen by all, try to do the best
+Chapter 27 – Deck Construction
+345
+Figure 27-17  The foredeck and beam fairings on Rogue Wave
+are plywood over stringers. The cabin areas are sandwich
+construction using resin-coated paper honeycomb core.
+
+--- PAGE 360 ---
+job you can to hide the scarfs on top of a beam or
+bulkhead, particularly if you plan a natural finish.
+Figure 27-18 shows a method for applying a plywood
+panel to a compounded surface. We usually staple
+plywood, working along imaginary lines from the
+center out to the corners to minimize distortion. First
+we divide a panel into quarters and then into eighths
+and sixteenths until it is fastened around its perimeter.
+Scarfing in place has advantages when applying
+plywood to decks. As we have pointed out previously,
+most decks have a small degree of compound curve
+which might cause some installation problems if you
+were to install a solid panel over the whole deck
+surface. This slight compound curvature is easily dissi-
+pated within the scarf joints when you apply many
+smaller panels over the same surface.
+Sandwich-Constructed Decks
+With certain types of boats, a sandwich or core-
+constructed deck system may be advantageous. This
+uses the basic principle of separating two load-bearing
+skins with a core material. The main advantage of this
+type of deck is the smooth, unencumbered inner surface
+of the underside of the deck. The absence of any frame-
+work provides a surface which is easy to finish and,
+when complete, easier to keep clean. In addition, the
+sandwich deck provides a significant improvement in
+thermal and sound insulation properties over a
+standard frame-supported deck system. In hot climates,
+a deck that does not transmit heat from the sun can be
+a significant feature. It is also possible to build a lighter
+deck with the sandwich technique; however, this is
+dependent upon the application. It is our opinion that
+in most situations it is very difficult, on a weight-to-
+strength or weight-to-stiffness basis, to improve upon a
+well-designed frame-supported deck system.
+Sandwich-constructed decks present added construc-
+tion difficulties. For most boats, a sandwich-constructed
+deck takes longer to build than a frame-supported type
+and is also probably more difficult to execute by those
+with limited experience. A practical disadvantage of the
+sandwich deck is limited versatility when positioning
+deck hardware. Before you complete the sandwich
+deck, you must know the position of all deck hardware
+so that you can remove core material in the area of
+specific hardware items and replace it with appropriate
+solid blocking. Later, if you want to add some hardware
+items or move others to different locations, it will be
+difficult to do. With the open frame deck, you can add
+more blocking easily to the underside of the deck
+wherever it is needed. 
+346
+Later Production Steps
+Figure 27-18 Foredeck framing for a 1⁄2 ton racer.
+Longitudinals will carry cabin sides and a hanging cockpit.
+Figure 27-19  Fitting and scarfing the 3⁄16" (5mm) plywood
+deck on the main hull of the proa Slingshot. Note the pads
+and blocking for hardware that are fit between stringers 
+and frames.
+Staple plywood deck panels
+from the center out to the
+corners. This will minimize
+distortion and rippling from
+the compounding of the
+plywood.
+
+--- PAGE 361 ---
+Figure 27-20 shows the core-constructed deck as used
+on the aft deck of a large multihull. This is a good
+application for the core deck because there is limited
+camber in the deck profile and very little hardware is to
+be installed. This boat will also spend a good portion of
+her time in the tropics where the added insulation value
+is important. We began the deck construction outside
+the boat on a large prescarfed 1⁄8" (3mm) thick piece of
+plywood that was prefitted to the deck perimeter and
+then set on a flat surface for further work. We
+positioned beams of 3⁄4" (18mm) thick stock, with a
+deck camber cut on the top, athwartship every 2'
+(600mm). We installed one longitudinal beam along the
+centerline by blocking in with 2' long pieces of the
+same 3⁄4" stock. Then we positioned this partially
+constructed assembly on the hull on top of false sheer
+clamps. Next we bonded resin-coated paper honey-
+comb in place between the 3⁄4" wood frames, using a
+thick, syrupy adhesive mixture to bond the honeycomb
+only to the 1⁄8" plywood bottom. We faired the honey-
+comb core down to the precut camber on the wood
+beams, using long fairing blocks with 50-grit
+sandpaper. We used long battens to fair up the entire
+deck surface, correcting any highs or lows in the wood
+beam members in the process. Finally, we bonded 1⁄4"
+(6mm) plywood over this faired surface, using standard
+size 4'  8' (1200mm  2400mm) panels to their best
+advantage with precut scarf joints and splicing the
+various panels together in place right on the deck
+surface.
+Another core deck system is shown in Figure 27-21. This
+deck for a 26' (7.9m) monohull was on a flat floor. We
+laid out the accurate perimeter of the entire deck on the
+floor and then transferred it to a prescarfed 1⁄8" panel of
+plywood that had been prefinished on its underside.
+We then made cutouts in the plywood for the forward
+hatch, the cabin, and the cockpit areas. We next fit the
+resulting plywood deck base with 1⁄4" thick plywood
+beams spaced on 3" (75mm) centers. We cut these beams
+mostly from scrap plywood, using the mechanical tram
+method to develop a proper arc on each beam in a pro-
+duction-type set-up. Although this part looks laborious,
+one man cut the 104 beams needed in one day.
+Installation of the beams on the plywood surface was
+easy, as we bonded each individual beam to a
+premarked position. We applied a bead of thickened
+adhesive to the bottom of each beam. We then set the
+beam in position and held it there with temporary
+staples at each end until a cure was complete. We made
+a small fillet between the beam and the plywood by
+smoothing out the excess adhesive that had squeezed
+out from between the two members. We then placed
+this premanufactured deck base on top of the hull and
+bonded it to the sheer clamps. The cabin sides, a
+preconstructed cockpit, hatch framework, and all
+hardware blocking were installed in the deck base
+before we final faired the deck for decking over. For
+final fairing, we used a long sanding block with 50-grit
+paper and a hand plane to cut down a frame, or added
+blocking to one that was abnormally low.
+Chapter 27 – Deck Construction
+347
+Figure 27-20  The aft deck on Rogue Wave with a 3" (75mm)
+thick honeycomb core between plywood panels.
+Figure 27-21  Scrap strips of plywood are used as core
+framing for a sandwich deck.
+
+--- PAGE 362 ---
+After we had completed the final fairing, we covered
+the deck over with 3⁄16" (4mm) ply with stapling
+pressure applied out at the sheers, in perimeters around
+hatches, cabins, etc. Because of the natural deck curve,
+we needed very little pressure to hold the plywood
+down flush against the ribs. In areas where contact
+seemed limited between deck and beam, we applied
+weights to the deck surface to hold it down until a cure
+was effected. We made scarf joints in place on the deck
+so that only standard size panels were applied at one
+time. We designed all scarf joints so that the center of
+the scarf joint occurred over one of the deck beams.
+Applying the adhesive to the small 1⁄4" (6mm) edge of
+each of the 104 small deck beams was tedious, and we
+used a common cake decorator-applicator. The cake
+decorator can apply a very thick adhesive mixture in
+controlled amounts and in proper position to provide
+the best bond between deck beam and deck surface.
+Blocking for Hardware
+Hardware can develop extremely high stress concentra-
+tions on a deck that must be adequately distributed
+throughout the structure. Some hardware items are
+more critical than others: the blocking for a major
+winch, for example, will have to be more substantial
+than the blocking for a simple cleat. It’s difficult to
+decide how much blocking to use; to make a judgment,
+evaluate the loads on a given fitting and the direction—
+straight up or parallel to the deck, for instance—in
+which they are applied. Blocking is integral to the
+success of the hardware bonding techniques described
+in Chapter 14.
+With frame-supported decks, blocking is usually
+installed by extending it to all surrounding framework
+and carefully bonding it to get the best load distribu-
+tion. Thus, the framework pattern may affect your
+hardware location. The ideal location of the winch, as
+shown in Figure 27-22, is in the center of the frame-
+work in order to distribute its load over the greatest
+area. If the winch were located toward one side of the
+blocked-in box, it would reduce the load distribution
+potential of the deck-supporting framework, relying on
+the closest framework for a majority of support.
+Because of its multidirectional laminations, plywood is
+an excellent blocking material to distribute loads over a
+wide area. It is used in a majority of situations. Blocking
+is a good place to use all of your small scrap pieces of
+plywood. You can also use standard sawn wood stock
+for blocking, especially where you want to direct high
+loads over an immediate area such as would be done
+when blocking for sail track. In contrast to the old
+methods of blocking, we do not use high-density hard-
+woods, but substitute lower density Sitka spruce or
+Douglas fir. These softwoods are adequate if you use
+the hardware bonding techniques detailed earlier in this
+book.
+348
+Later Production Steps
+Figure 27-22 Hardware blocking details.
+Figure 27-23  Sawn Sitka spruce blocking is bonded to core
+deck at all structural frames and planed flush with the deck
+profile. Note the strip of blocking for adjustable sail leads to
+the left.
+Decking
+Winch located on
+blocking so as to
+optimize load distri-
+bution to deck beam
+Deck beam
+Plywood blocking
+Spruce blocking
+aligned with direction
+of load on winch,
+turning block, sheet
+stoppers, etc.
+Deck beams
+
+--- PAGE 363 ---
+Most blocking is easiest to install before the plywood
+decking goes on. With core decks, the blocking must all
+be installed before the final layer of plywood is bonded
+in place. It is much easier to fit, install, and fair in the
+blocking to the bare deck framework than to install it
+laboriously from the underside of a capped-over deck.
+Sometimes, however, it’s difficult to complete your deck
+hardware layout plan until the deck is fully completed
+and you can study it for a while. If this is the case,
+you’re probably better off installing blocking for those
+items later on from underneath the completed deck,
+rather than installing it wrong and having to chisel out
+blocking that is not needed (if you’re like us and can’t
+stand to sail with unnecessary weight).
+Cabin Construction
+For construction purposes, the cabin is really an exten-
+sion of the deck. It increases standing headroom and
+provides a place for windows or ports that will let in
+light and fresh air below. Cabins are always installed
+after the deck has been at least framed in, and usually
+after the deck has been completed. Design the deck
+framework with an opening for the cabin and sufficient
+framework around the opening perimeter for attaching
+the cabin walls. You will have to pre-bevel to the degree
+desired for the cabin walls.
+Plywood is the most common material for making
+cabin sides. It should be thick enough to stand on its
+own with no further frame support for minimal deflec-
+tion. You may laminate the walls out of several layers of
+plywood or veneers to get a desired precurved shape
+that might be difficult to form with a single piece of
+thicker ply. It is common to laminate the front wall of
+the cabin to provide attractive curves and improve
+windage. As we mentioned in Chapter 23, cabins can
+also be built with strip composite techniques.
+Fitting cabin walls can be tricky. It is a good idea to
+make patterns of cheap paneling and then carefully cut
+the cabin walls to the exact pattern size before final
+fitting and installation. It is usual to install the walls of
+the cabin first and then join the corners with an appro-
+priate wood gusset that has enough bonding area for a
+strong joint.
+The most difficult part of building cabins is to establish
+a cabin top sheer-line dimension. This may be a difficult
+dimension to take from the plans, and it is complicated
+by the fact that the type and shape of the cabin roof
+that is installed might dictate some of the final sheer
+Chapter 27 – Deck Construction
+349
+Figure 27-24  All spaces between the blocking in the deck
+shown in Figure 27-23 were filled with honeycomb core.
+Figure 27-25  A sandwich deck with all of the framing and
+honeycomb core in place before the top plywood deck surface
+was laid.
+
+--- PAGE 364 ---
+line dimensions. For cabin tops with frame-supported
+roofs, build the frame using the same technique used
+for decking. Cover the framework over with sheet ply,
+or laminate it with strips of ply or veneer.
+Because cabin tops are smaller and sometimes have
+more compound curves than decks, building a core-
+constructed cabin top or even a solid molded cabin top
+offers interesting alternatives to the frame system. Either
+one of these methods provides maximum headroom
+with a clear underside surface and no beams on which
+to hit your head. The only problem with these two
+options is that you must first mold the cabin top and
+then fit it to the cabin walls. Therefore, for final fitting,
+we leave the cabin walls bare with no sheer clamps
+until the cabin roof has been fitted perfectly so that it
+meets the cabin walls on all four wall surfaces. At this
+point, we install a cabin wall sheer clamp joining
+member around the newly-fitted upper perimeter of the
+cabin walls so that we can then install the cabin roof
+permanently with proper bonding area.
+A molded cabin top only 1⁄2" (12mm) thick, especially
+one with compound curves, is rigid. You can easily
+mold this type of cabin roof out of multiple layers of
+veneer over a simple ribband mold made up before-
+hand to the desired shape. You can completely prefinish
+the interior surface of this cabin roof molding before
+installation.
+When designing cabin structures, it is good to keep in
+mind the type and amount of hardware that you may
+install on the cabin top surface. If major winches are to
+be located on the cabin corners, you should design the
+whole cabin structure to accommodate this extra load.
+Provide adequate blocking in proper places for hardware
+installation. Take care to make the blocking look nice
+because it is in a place where it will be continually
+viewed.
+Deck Finishing
+Prepare the deck for coating or covering with fabric in
+much the same manner as the hull, except that the
+overall fairness of the deck is usually not as crucial. The
+two most important criteria for the finished deck surface
+are attractiveness and safety. A non-skid deck surface
+contributes to safe and efficient movement and opera-
+tions by crew members.
+There are several ways to make non-skid deck surfaces.
+Probably the easiest is to purchase one of the commer-
+cial non-skid paint systems, which can be applied over
+WEST SYSTEM epoxy and/or fabric. The general proce-
+dure is to mix a non-skid compound with the base
+paint at a prescribed ratio and apply it over the sanded
+epoxy surface. Although the idea of mixing non-skid
+material directly into epoxy seems appealing, attempts
+at doing so are not usually successful. The 100% solid
+epoxy tends to cover the non-skid material, minimizing
+its effectiveness, and paint applied over the unsanded
+epoxy may not adhere well. Sanding the epoxy to
+improve paint adhesion further reduces the non-skid’s
+potential.
+350
+Later Production Steps
+Figure 27-26 A cabin roof built over a cabin top and tempo-
+rary forms inside the cabin. Small, 1⁄2" wide  3⁄4" thick (12mm
+ 18mm) ribs spaced on 4" (100mm) centers were laminated
+over the interior ply and faired smooth. Blocking for a
+headsail track was inserted at the edge of the cabin and a 3⁄16"
+(5mm) plywood roof was laminated over the assembly.
+Figure 27-27 Construction details for cabin sides and tops.
+Deck
+Beam
+Cabin trunk
+sides
+Cleat or fastening strip
+Laminated top
+Plywood
+cabin top
+Beam
+Trim
+Carling
+Beam
+Deck
+Carling
+
+--- PAGE 365 ---
+Some of our customers have found that an alternative
+to mixing non-skid material with paint is to pour large
+quantities of sand ballast, available at hobby shops for
+use in miniature landscaping, over wet epoxy. To do
+this, mask off the perimeter of the non-skid area. Coat
+the enclosed surface with epoxy and then immediately
+cover the epoxy with a 1⁄4" (6mm) layer of sand ballast.
+When the epoxy has cured, brush and vacuum away
+excess sand and paint the surface, which should be
+rough everywhere. Use generous quantities of sand
+ballast to make sure that no glossy spots remain between
+particles since these may cause problems with paint
+adhesion.
+You can also use 6 oz or 10 oz (200g/m2 or 340g/m2)
+fiberglass cloth to make a somewhat less coarse deck.
+Mask off areas that you want to remain smooth and
+cover them with plastic. Bond the fabric to the surface,
+using techniques described in Chapter 13, but remove
+all excess epoxy with a plastic spreader. The weave of
+the cloth will provide the “non-skid” traction, so leave it
+exposed. When the epoxy has cured, scrub the area
+with water and a 3M Scotch Brite™ pad or steel wool
+until it is dull all over. Then paint the glass-covered area.
+Another approach to a non-skid deck surface is to
+purchase the commercially available Treadmaster™
+deck covering material. It is easy to bond this to the
+WEST SYSTEM epoxy surface using an adhesive mixture
+as the bonding agent. You can purchase this decking
+additive in a variety of colors and apply it in tasteful
+patterns wherever non-skid potential is needed. The
+disadvantages of this material are its added expense and
+the potential extra weight per square foot that may be
+objectionable on a smaller boat. Treadmaster is a
+flexible material adding no strength or stiffness to a
+deck surface.
+Teak Veneer Deck System
+You can achieve a very successful deck surface by
+laminating a layer of teak over a well-sealed plywood
+base. This veneer lamination of teak ends up being
+about 1⁄8" to 3⁄16" (3mm to 5mm) thick, which is thick
+enough to provide a durable, hard-wearing surface
+capable of lasting for many years. The methods that we
+have used to apply this teak surface are described in the
+following paragraphs.
+Prepare the deck plywood surface in the normal fashion
+with a minimum of two coats of WEST SYSTEM epoxy
+prior to the application of the teak strips. This is done
+to provide a good moisture barrier directly underneath
+the teak surface. This will protect the deck plywood
+surface and supporting framework from any moisture
+attack. Wash the cured epoxy surface with water and
+sand the epoxy surface lightly in preparation for
+bonding the teak strips to the deck surface.
+Before starting any bonding operations, determine a
+pattern for the layout of the teak strips. Traditionally,
+teak decks have always been laid parallel to the
+halfbreadth deck line. However, we have also laid some
+decks with the planking parallel to the centerline that
+have been very attractive and also practical, more effec-
+tively contributing to compression load resistance.
+There seems to be no limit to the artistic possibilities in
+laying out a teak deck. (See Figure 27-28.)
+Saw the teak stock slightly thicker than the desired
+finished dimension, leaving 1⁄32" to 1⁄16" (.8mm to 1.6mm)
+extra to allow for the sanding process. Saw all of the
+strips to a given consistent width that most economi-
+cally uses the stock you have on hand. Usually, we buy
+our teak in 2" (50mm) thick rough-sawn planks, and
+are able to get close to 13⁄4" (45mm) finished dimension
+from this. We saw up the stock so that the 13⁄4" width of
+the teak strips will be edge grained. This minimizes
+expansion-contraction potential (very small with teak
+anyway) and makes for a more attractive and more
+evenly wearing surface than slab-grained strips would
+provide. You can do this by squaring your stock
+(sawing it into 2"  2" squares) and then turning it to
+Chapter 27 – Deck Construction
+351
+Figure 27-28 The intersection of the teak deck, a mahogany
+covering board, and cedar topsides on Golden Dazy. All three
+types of wood are no thicker than 5⁄32" (4mm) and laminated
+in place with temporary staples. Note the teak toerail with
+limber holes.
+
+--- PAGE 366 ---
+the best position from which you can saw edge-grained
+teak strips. (See Figure 27-29.) It is crucial that the
+width dimension of all the sawn strips be exact and that
+you cut the ends off each strip exactly square. The
+thickness of the teak strips is not as critical, and you
+can rough saw these, eliminating dressing with a thick-
+ness planer. You will take care of the teak thickness
+when sanding the deck later on. The strips should
+range from 6' to 12' (1.8m to 3.6m) in length. Strips
+any longer than this are difficult to handle when
+bonding them to the deck.
+Install each teak strip by first coating it and the area on
+the deck where it will be applied with unthickened
+resin/hardener mixture. Next, make up an adhesive
+mixture using a combination of 404 High-Density Filler
+and 423 Graphite Powder. Add High-Density Filler to
+the consistency of mayonnaise and then mix in graphite
+at a rate of 5-10% by volume. This is enough to color
+the epoxy the traditional black between the teak strips
+and, more importantly, to protect the epoxy from ultra-
+violet light. Although we have never had any trouble
+with it, some varieties of teak are notoriously hard to
+bond. Try some sample joints with the teak you intend
+to use before applying it to the deck.
+Don’t worry about applying too much epoxy: excess
+adhesive between the deck and the strips helps to
+guarantee that strips are bonded to the deck with no
+voids and very little will be wasted. Leave gaps of about
+3⁄32" (2mm) between strips for the traditional look and to
+ensure a positive seal between the edges of the
+individual planks. If little or no epoxy floods into a gap,
+you have an immediate indication of a potential epoxy-
+starved area.
+Use butt joints where long strips are needed. Saw the
+ends of the planks square on a miter box or cutoff saw
+so that they will lie flat and coat them liberally with
+adhesive. Stagger joints for the most appealing effect.
+There are many ways to hold planking down until the
+epoxy cures. The objectives are straightforward and any
+technique can be used if you keep them in mind. Strips
+should be in contact with the epoxy and, to avoid water
+damage in the future, there should be no holes in the
+deck. We recommend inserting #10 sheet metal screws
+and washers, both of which have been coated with a
+mold-release agent, into the gaps between planks. The
+washers hold the edges of the teak firmly until the
+epoxy cures, are easy to remove, and provide 3⁄16"
+(5mm) spacing. When the strips are bonded in place,
+the deck is usually a mess, with black adhesive smeared
+on rough teak and, if you’ve used them, staples sticking
+up all over the place. At this point, remove the screws
+and washers and fill the holes with the same filled
+(High-Density Filler and Graphite Fiber) black epoxy
+used to bond the deck boards. Using a syringe will
+speed this process. Rough sand the entire deck with 50-
+grit paper and a hand-operated belt sander or a rotary
+sander with a good foam disc pad and thin plywood or
+plastic face. Rotary sanders are designed for this type of
+work and do an excellent job.
+352
+Later Production Steps
+Figure 27-30  Use sheet metal screws with large washers to
+clamp the strips in position until the epoxy/404/423 Graphite
+mixture cures. Fill hole and gaps with epoxy/404/423
+Graphite mixture after screws are removed. Sand flush with
+teak planks after epoxy cures.
+Figure 27-29  Two methods for cutting edge-grained deck
+strips from rough-sawn teak planks.
+Edge-grained strips
+Flat
+sawn
+stock
+#10 Sheet 
+metal screw
+Fill holes and gap with
+epoxy/404/423
+Sand flush
+1⁄8"–1⁄4" Thick Strips (veneers)
+Vertical grain stock
+
+--- PAGE 367 ---
+After rough sanding, the teak deck is relatively smooth,
+but gaps and voids usually remain between some strips.
+Fill these flush with the filled black epoxy mixture so
+that none are left anywhere on the surface. Trowel the
+epoxy filler evenly into the gaps, removing any excess
+on the deck to reduce the sanding required for a final
+finish. After the filled surface has cured, do a final
+sanding of the teak surface using 80-grit sandpaper.
+Usually, a rotary sander with a foam disc pad is adequate
+to achieve a nice, smooth surface. Another handy tool
+for final teak sanding, especially for getting in tight
+Chapter 27 – Deck Construction
+353
+Figure 27-31  The deck of a 26' (7.9m) Luders 16 framed-in
+and ready for plywood covering.
+Figure 27-32 The Luders 16 deck covered with 1⁄4" (6mm)
+okoume plywood. The teak overlay will contribute to deck
+strength and stiffness.
+Figure 27-33 Installing teak planking parallel to the sheer,
+beginning along the outer sheer line and progressing toward
+the center of the boat. This is a sprung deck.
+Figure 27-34 Deck planking and final sanding are completed.
+Note the herringbone pattern where planks meet along the
+centerline. Also note that the teak begins several inches
+inboard from the sheer to allow for a painted cover board for
+an attractive effect.
+
+--- PAGE 368 ---
+areas, is the modified air file sander (as described in
+Chapter 8). Inevitably, final sanding will involve some
+hand sanding with a block, especially when getting up
+around tight areas, such as cabins, hatches, and cockpits.
+After you have completed the final sanding, your deck
+surface is done. There is nothing more to do but install
+the hardware. If you spill any epoxy or paint on the
+deck surface, don’t worry. You can remove it easily with
+a little sanding.
+Comments about the Teak Veneer System
+We have had excellent results with teak decks that have
+ended up measuring about 1⁄8" to 3⁄16" (3mm to 5mm)
+thick. We feel that 1⁄4" (6mm) thick is about maximum
+for this type of system, and we advise against using any
+thicker strips. The reason is that WEST SYSTEM adhesive
+bonding is able to overpower the expansion-contraction
+forces which occur in these thinner sections. Teak strips
+of much thicker dimension, such as 3⁄8" or 1⁄2" (9mm or
+12mm), might create forces so great as to overwhelm
+the adhesive, causing it to fail. We see no reason to go
+to any teak veneer thicker than 3⁄16". We estimate that it
+will take at least 20 years of heavy foot traffic to wear
+through this thickness of teak, and should this unlikely
+event happen, you can easily replace individual planks
+of the teak.
+However, some people have had success with thicker
+teak using flexible caulk as shown in Figure 27-36.
+The teak does not necessarily add any weight to a deck
+surface and can be included as a part of the deck scant-
+ling system. A deck designed for 1⁄2" plywood might very
+well be made up of 3⁄8" plywood and 1⁄8" teak strips at
+much the same weight as if 1⁄2" plywood had been used.
+Although the teak can gain weight through moisture
+absorption, it is a high-density wood and does not gain
+weight appreciably as softwoods are prone to do.
+Repair and Maintenance
+Damage to teak deck surfaces, while not very common,
+is easy to repair. Set a router bit to cut the depth of the
+teak veneer and rout out the plank or planks to be
+removed. Replace with new strips of teak, bonding
+exactly as you did the original deck. Sand the new
+pieces flush with the rest of the deck surface and the
+job is done. It will look as good as new.
+There are various treatments on the market for keeping
+teak bright. Some of these are excellent if you want to
+put the time into this type of upkeep, but they are not
+necessary. A lustrous gray, sun-bleached deck can be
+very appealing.
+354
+Later Production Steps
+Figure 27-35 Teak planking on Golden Dazy laid parallel to
+the centerline. Installation was simplified because strips did
+not have to bend to the arc of the sheer line.
+Figure 27-36 For planks thicker than 1⁄4", use epoxy to bond
+planks to the deck only. Fill the plank gaps with flexible caulk.
+Fill screw holes with epoxy
+Leave plank gaps unfilled
+Fill plank gaps with
+flexible caulk
+1⁄4"–3⁄4" Thick Strips (planks)
+
+--- PAGE 369 ---
+Appendices
+Appendix A
+Review of Basic Techniques for 
+Using WEST SYSTEM® Epoxy
+Appendix B
+Wood Data
+Appendix C
+Fatigue Aspects of Epoxies and 
+Wood/Epoxy Composites
+Appendix D
+Scantlings for Well-Known Boats Built with
+WEST SYSTEM® Epoxy
+Appendix E
+Impact Testing on Reinforced Laminates
+Appendix F
+English to Metric Conversions 
+Selected Bibliography
+Index
+
+--- PAGE 371 ---
+Using WEST SYSTEM epoxy correctly, that is, making 
+best use of its handling characteristics and getting the
+most out of its physical properties, requires some under-
+standing of the chemistry involved in curing epoxy.
+Epoxy’s Cure Stages
+Mixing epoxy resin and hardener begins a chemical
+reaction that transforms the combined liquid ingredients
+to a solid. The time it takes for this transformation is
+the cure time. As it cures, the epoxy passes from the
+liquid state, through a gel state, before it reaches a 
+solid state (Figure A-1). 
+1. Liquid—Open time 
+Open time (also working time or wet lay-up time) 
+is the portion of the cure time, after mixing, that 
+the resin/hardener mixture remains a liquid and is
+workable and suitable for application. All assembly 
+and clamping should take place during the open 
+time to assure a dependable bond.
+2. Gel—Initial cure phase
+The mixture passes into an initial cure phase (also called
+the green stage) when it begins to gel, or “kick-off.” 
+The epoxy is no longer workable and will progress
+from a tacky, gel consistency to the firmness of hard
+rubber. You will be able to dent it with your thumbnail.
+The mixture will become tack free about midway
+through the initial cure phase. While it is still tacky
+(about like masking tape), a new application of epoxy
+will still chemically link with it, so you may still bond
+to or recoat the surface without special preparation.
+However, this ability diminishes as the mixture
+approaches the final cure phase.
+3. Solid—Final cure phase
+The epoxy mixture has cured to a solid state and can 
+be dry sanded. You will no longer be able to dent it
+with your thumbnail. At this point the epoxy has
+reached most of its ultimate strength, so clamps can 
+be removed. A new application of epoxy will no longer
+chemically link to it, so the surface of the epoxy must
+be properly prepared and sanded before recoating to
+achieve a good mechanical, secondary bond. (See
+Surface Preparation.)
+The mixture will continue to cure for the next several
+days to two weeks at room temperature, becoming an
+inert plastic solid.
+Controlling Cure Time
+Open time and overall cure time govern much of the
+activity of building and repairing with epoxy. Open
+time dictates the time available for mixing, application,
+smoothing, shaping, assembly, and clamping. Cure 
+time dictates how long you must wait before removing
+clamps, or before you can sand or go on to the next
+Figure A-1 As it cures, epoxy passes from a liquid state, to a
+gel state, to a solid state. Cure time is shorter when the epoxy
+is warmer and longer when the epoxy is cooler.
+This is a review of the epoxy handling information and basic techniques for WEST SYSTEM epoxy that are
+described primarily in Chapters 4, 11, 12, 13, 14, and 15. Refer to Chapter 10 for epoxy safety informa-
+tion. This review, not included in previous editions, is intended as a helpful reference if a current WEST
+SYSTEM User Manual is not available. We recommend that you refer to a current WEST SYSTEM Product
+Guide for up-to-date product descriptions and handling characteristics. You may also find current product
+information at westsystem.com. The following basic techniques are common to most projects, regardless
+of the type of structure or material you are working with.
+Review of Basic Techniques for 
+Using WEST SYSTEM® Epoxy 
+A P P E N D I X
+A
+
+--- PAGE 372 ---
+358
+Appendices
+step in the project. Two factors determine an epoxy
+mixture’s open time and overall cure time—hardener
+cure speed and epoxy temperature.
+Hardener speed
+Each hardener has an ideal temperature cure range. 
+At any given temperature, each resin/hardener combi-
+nation will go through the same cure stages, but at
+different rates. Select the hardener that gives you
+adequate working time for the job you are doing at 
+the temperature and conditions you are working 
+under. The product descriptions in Chapter 4 and 
+the container labels describe hardener pot lives and
+cure times. 
+Pot life is a term used to compare the cure speeds of
+different hardeners. It is the amount of time a specific
+mass of mixed resin and hardener remains a liquid 
+at a specific temperature—a 100g-mass mixture in a
+standard container, at 72°F (22°C). Because pot life is
+a measure of the cure speed of a specific contained mass
+(volume) of epoxy rather than a thin film, a hardener’s
+pot life is much shorter than its open time.
+Epoxy temperature
+The warmer the temperature of curing epoxy, the faster 
+it cures (Figure A-1). The temperature of curing epoxy 
+is determined by the ambient temperature plus the
+exothermic heat generated by its cure.
+Ambient temperature is the temperature of the air or
+material in contact with the epoxy. Air temperature is
+most often the ambient temperature unless the epoxy 
+is applied to a surface with a different temperature.
+Generally, epoxy cures faster when the air temperature 
+is warmer.
+Exothermic heat is produced by the chemical reaction
+that cures epoxy. The amount of heat produced
+depends on the thickness or exposed surface area of
+mixed epoxy. In a thicker mass, more heat is retained,
+causing a faster reaction and more heat. The mixing
+container’s shape and the mixed quantity have a great
+effect on this exothermic reaction. A contained mass of
+curing epoxy—8 fl oz (236ml) or more—in a plastic
+mixing cup can quickly generate enough heat to melt
+the cup and burn your skin. However, if the same
+quantity is spread into a thin layer, exothermic heat 
+is dissipated, and the epoxy’s cure time is determined
+by the ambient temperature. The thinner the layer of
+curing epoxy, the less it is affected by exothermic heat,
+and the slower it cures.
+Adapting to warm and cool temperatures
+In warm conditions, gain open time by using a slower
+hardener, if possible. Mix smaller batches that can be
+used up quickly, or pour the epoxy mixture into a
+container with greater surface area (a roller pan, for
+example), thereby allowing exothermic heat to dissipate
+and extending open time. The sooner the mixture is
+transferred or applied (after thorough mixing), the 
+more of the mixture’s useful open time will be available
+for coating, lay-up, or assembly.
+In cool conditions, use a faster hardener, or use supple-
+mental heat to raise the epoxy temperature above the
+hardener’s minimum recommended application temper-
+ature. Use a hot air gun, heat lamp, or other heat source
+to warm the resin and hardener before mixing or after
+the epoxy is applied. At room temperature, supple-
+mental heat is useful when a quicker cure is desired.
+NOTE! Unvented kerosene or propane heaters can
+inhibit the cure of epoxy and contaminate epoxy
+surfaces with unburned hydrocarbons.
+CAUTION! Heating epoxy that has not gelled will
+lower its viscosity, allowing the epoxy to run or sag
+more easily on vertical surfaces. In addition, heating
+epoxy applied to a porous substrate (soft wood or low-
+density core material) may cause the substrate to “out-
+gas” and form bubbles or pinholes in the epoxy coating.
+To avoid out-gassing, wait until the epoxy coating has
+gelled before warming it. Never heat mixed epoxy in a
+liquid state over 120°F (49°C). Regardless of what steps
+are taken to control the cure time, thorough planning
+of the application and assembly will allow you to make
+maximum use of epoxy’s open time and cure time.
+Dispensing and Mixing
+Careful measuring of epoxy resin and hardener 
+and thorough mixing are essential for a proper cure.
+Whether the resin/hardener mixture is applied as a
+coating or modified with fillers or additives, observing
+
+--- PAGE 373 ---
+The Gougeon Brothers On Boat Construction
+359
+the following procedures will assure a controlled and
+thorough chemical transition to a high-strength epoxy
+solid.
+Dispensing
+Dispense the correct proportions of resin and hardener
+into a clean plastic, metal, or wax-free paper container.
+Don’t use glass or foam containers because of the poten-
+tial danger from exothermic heat buildup. DO NOT
+attempt to adjust the epoxy cure time by altering the
+mix ratio. An accurate ratio is essential for a proper 
+cure and full development of physical properties.
+Most problems related to curing of the epoxy can be
+traced to the wrong ratio of resin and hardener. To
+simplify dispensing and reduce the possibility of errors,
+we recommend using calibrated WEST SYSTEM Mini
+Pumps to meter the correct working ratio of resin 
+to hardener. (Figure A-2).
+Pump one full pump stroke of resin for each one full
+pump stroke of hardener. Depress each pump head
+fully and allow the head to come completely back to
+the top before beginning the next stroke. Partial strokes
+will give the wrong ratio. Read the pump instructions
+before using pumps. Before you use the first mixture 
+on a project, verify the correct ratio according to the
+instructions that come with the pumps. Recheck the
+ratio anytime you experience problems with curing.
+To dispense without Mini Pumps or other metering
+pumps, refer to the hardener container for the proper
+resin/hardener ratios for dispensing by weight or
+volume.
+First-time users—If this is the first time you have used
+WEST SYSTEM epoxy, begin with a small test batch to get
+the feel for the mixing and curing process before
+applying the mixture to your project. This will demon-
+strate the hardener’s open time for the temperature you
+are working in and assure you that the resin/hardener
+ratio 
+is metered properly. Mix small batches until you are
+confident of the mixture’s handling characteristics.
+Mixing
+Stir the two ingredients together thoroughly—at least 1
+minute—longer in cooler temperatures (Figure A-3). To
+assure thorough mixing, scrape the sides and bottom of
+the pot as you mix. Use the flat end of the mixing stick
+to reach the inside corner of the pot. If you are using a
+power mixer, occasionally scrape the sides and corners
+of the mixing pot while mixing. If you are going to be
+using the mixture for coating, quickly pour it into a
+roller pan to extend the open time. 
+WARNING! Curing epoxy generates heat. Do not fill
+voids or cast layers of epoxy thicker than 1⁄2" (12mm)
+—thinner if enclosed by foam or other insulating
+material. Several inches of mixed epoxy in a confined
+mass (such as a mixing cup) will generate enough heat
+to melt a plastic cup, burn your skin, or ignite
+combustible materials if left to stand for its full pot 
+life. For this reason, do not use foam or glass mixing
+containers or pour into confined spaces. If a pot of
+mixed epoxy begins to exotherm (heat up), quickly
+move it outdoors. Avoid breathing the fumes. Do not
+dispose of the mixture until the reaction is complete
+and has cooled.
+Figure A-2 Dispense the proper proportions of resin and
+hardener. With Mini Pumps—pump one full stroke of resin for
+every one full stroke of hardener.
+Figure A-3 Stir resin and hardener together thoroughly—at
+least one minute, longer in cooler temperatures.
+
+--- PAGE 374 ---
+360
+Appendices
+Adding Fillers and Additives
+Throughout this book and in other WEST SYSTEM
+publications, we refer to epoxy or resin/hardener
+mixture, meaning mixed resin and hardener without
+fillers or additives added, and thickened mixture or
+thickened epoxy, meaning mixed resin and hardener
+with fillers added. Fillers are used to thicken epoxy 
+for specific applications such as bonding or fairing.
+Additives are used to give epoxy additional physical
+properties when used as a coating.
+Fillers
+After selecting an appropriate filler for your job (see
+Chapter 4), use it to thicken the epoxy mixture to 
+the desired consistency. The thickness of a mixture
+required for a particular job is controlled by the amount
+of filler added. There is no strict formula or measuring
+involved—use your eye to judge what consistency will
+work best. Figure A-4 gives you a general guide to the
+differences between neat (unthickened) epoxy and the
+three consistencies referred to in this book.
+Always add fillers in a two-step process:
+1. Mix the desired quantity of resin and hardener
+thoroughly before adding fillers. Begin with a small
+batch—allow room for the filler.
+2. Blend in small handfuls or scoops of the appropriate
+filler until the desired consistency is reached 
+(Figure A-5).
+For maximum strength, add only enough filler to
+completely bridge gaps between surfaces without
+sagging or running out of the joint or gap. A small
+amount should squeeze out of joints when clamped.
+For thick mixtures, don’t fill the mixing cup more 
+than 1⁄3 full of epoxy before adding filler. When 
+making fairing compounds, stir in as much 407 or 
+410 as you can blend in smoothly—for easy sanding,
+the thicker the better. Be sure all of the filler is
+thoroughly blended before the mixture is applied.
+Spread the mixture into a thinner layer, either 
+around the inside of the mixing cup or onto a flat 
+non-porous surface or palette, to extend its 
+working life. 
+Consistency
+Unthickened mixture
+Slightly thickened
+Moderately thickened
+Maximum thickness
+Syrup
+Catsup
+Mayonnaise
+Peanut Butter
+General
+Appearance
+Characteristics
+Drips off vertical
+Sags down vertical
+Clings to vertical
+Clings to vertical
+surfaces.
+surfaces.
+surfaces-peaks
+surfaces-peaks
+fall over.
+stand up.
+Uses
+Coating, “wetting-out”
+Laminating/bonding
+General bonding,
+Gap filling, filleting,
+before bonding, applying
+flat panels with
+filleting, hardware
+fairing, bonding
+fiberglass, graphite,
+large surface areas, 
+bonding.
+uneven surfaces.
+and other fabrics.
+injecting with a syringe.
+Figure A-4
+Epoxy can be thickened to the ideal consistency needed for a particular job. We refer to four commonly-known
+consistencies: syrup, catsup, mayonnaise, and peanut butter.
+
+--- PAGE 375 ---
+The Gougeon Brothers On Boat Construction
+361
+Additives
+Although additives are blended with mixed epoxy 
+in the same two-step process as fillers, they are not
+designed to thicken the epoxy. Refer to the Additive
+descriptions in Chapter 4 and follow the mixing
+instructions on the individual additive containers.
+Surface Preparation
+Whether you are bonding, fairing, or applying fabrics,
+the success of the application depends not only on the
+strength of the epoxy, but also on how well the epoxy
+adheres to the surface to which it is being applied.
+Unless you are bonding to partially cured epoxy, the
+strength of the bond relies on the epoxy’s ability to
+mechanically “key” into the surface. That is why the
+following three steps of surface preparation are a 
+critical part of any secondary bonding operation. 
+For good adhesion, bonding surfaces should be 
+Clean—Bonding surfaces must be free of any contami-
+nants such as grease, oil, wax, or mold release. Clean
+contaminated surfaces with lacquer thinner, acetone, 
+or other appropriate solvent (Figure A-6). Wipe the
+surface with paper towels before the solvent dries.
+Clean surfaces before sanding to avoid sanding the
+contaminant into the surface. Follow all safety 
+precautions when working with solvents.
+Dry—All bonding surfaces must be as dry as possible
+for good adhesion. If necessary, accelerate drying by
+warming the bonding surface with a hot air gun, hair
+dryer, or heat lamp (Figure A-7). Use fans to move 
+the air in confined or enclosed spaces. Watch for
+condensation when working outdoors or whenever 
+the temperature of the work environment changes.
+Sanded—Sand smooth, non-porous surfaces—
+thoroughly abrade the surface (Figure A-8). 80-grit
+aluminum oxide paper will provide a good texture 
+for the epoxy to “key” into. Be sure the surface to 
+be bonded is solid. Remove any flaking, chalking,
+blistering, or old coating before sanding. Remove 
+all dust after sanding. 
+Special preparation for various materials
+Cured epoxy—Amine blush can appear as a wax-like
+film on cured epoxy surfaces. It is a byproduct of the
+curing process and may be more noticeable in cool,
+moist conditions. Amine blush can clog sandpaper and
+inhibit subsequent bonding, but it is water soluble and
+can easily be removed. It’s a good idea to assume it has
+formed on any cured epoxy surface.
+Figure A-5 Stir in small handfuls of filler until the desired
+consistency is reached.
+Figure A-6 Clean the surface. Use an appropriate solvent as
+necessary to remove contaminants.
+Figure A-7 Dry the surface. Allow wet surfaces to dry
+thoroughly or use heat or a fan to speed drying.
+Figure A-8 Sand non-porous surfaces. Provide a texture for
+the epoxy to key into.
+
+--- PAGE 376 ---
+362
+Appendices
+To remove the blush, wash the surface with clean water
+(not solvent) and an abrasive pad, such as Scotch-brite™
+7447 General Purpose Hand Pads. Dry the surface with
+paper towels to remove the dissolved blush before it
+dries on the surface. Sand any remaining glossy areas
+with 80-grit sandpaper. Wet-sanding will also remove
+the amine blush. If a release fabric is applied over the
+surface of fresh epoxy, amine blush will be removed
+when the release fabric is peeled from the cured epoxy
+and no additional sanding is required.
+Epoxy surfaces that are still tacky may be bonded to or
+coated with epoxy without washing or sanding. Before
+applying coatings other than epoxy (paints, bottom
+paints, varnishes, gelcoats, etc.), allow epoxy surfaces 
+to cure fully, then wash and sand.
+Hardwoods—Sand with 80-grit paper.
+Teak/oily woods—Wipe with acetone 15 minutes
+before coating. Solvent removes the oil at the surface
+and allows epoxy to penetrate. Be sure solvent has
+evaporated before coating.
+Porous woods—No special preparation needed. If
+surface is burnished, possibly by dull planer or saw
+blades, sand with 80-grit paper to open pores. 
+Remove dust.
+Steel, lead—Remove contamination, sand or grind 
+to bright metal, coat with epoxy, and then (wet) sand
+freshly applied epoxy into surface. Re-coat or bond to
+the surface after first coat gels.
+Aluminum—Remove contamination, sand to a bright
+finish, and prepare with 860 Aluminum Etch Kit before
+oxidation occurs. Follow kit directions.
+Polyester (fiberglass)—Clean contamination with a
+silicone and wax remover such as DuPont Prep-Sol™
+3919S. Sand with 80-grit paper to a dull finish.
+Plastic—Adhesion varies. If a plastic is impervious 
+to solvents such as acetone, epoxy generally will not
+bond to it. Soft, flexible plastics such as polyethylene,
+polypropylene, nylon, and Plexiglas fall into this
+category. Hard, rigid plastics such as PVC, ABS,
+polycarbonate, and styrene provide better adhesion 
+with good surface preparation and adequate bonding
+area. After sanding, flame oxidizing (by quickly passing
+the flame of a propane torch over the surface without
+melting the plastic) can improve bonding in some
+plastics. 
+It’s a good idea to conduct an adhesion test on any
+plastic (or any other material) that you are uncertain
+about. 
+Bonding (gluing)
+This section refers to two types of structural bonding
+with epoxy. Two-step bonding is the preferred method
+for most situations because it promotes maximum
+epoxy penetration into the bonding surface and
+prevents resin-starved joints. Single-step bonding can
+be used when joints have minimal loads and excess
+absorption into porous surfaces is not a problem. In
+both cases, epoxy bonds best when it is worked into
+the surface with a roller or brush.
+Before mixing epoxy, check all parts to be bonded 
+for proper fit and surface preparation, gather all the
+clamps and tools necessary for the operation, and cover
+any areas 
+that need protection from spills. 
+Two-step bonding
+1. Wet out bonding surfaces—Apply an unthickened
+resin/hardener mixture to the surfaces to be joined
+(Figure A-9). Wet out small or tight areas with a
+disposable brush. Wet out larger areas with a foam
+roller or by spreading the resin/hardener mixture
+evenly over the surface with a plastic spreader. You
+may proceed with step two immediately or any time
+before the wet-out coat becomes tack free.
+Note: Precoating porous surfaces with neat (unthick-
+ened) epoxy before applying a thickened epoxy
+Figure A-9 Apply unthickened epoxy to the bonding surfaces.
+
+--- PAGE 377 ---
+The Gougeon Brothers On Boat Construction
+363
+adhesive or fairing compound improves adhesion. 
+Neat epoxy penetrates and “keys” into surface pores 
+and end grain better than thicker epoxy.
+2. Apply thickened epoxy to one bonding surface.
+Modify the resin/hardener mixture by stirring in the
+appropriate filler until it becomes thick enough to
+bridge any gaps between the mating surfaces and 
+to prevent “resin-starved” joints. Apply enough of 
+the mixture to one of the surfaces so that a small
+amount will squeeze out when the surfaces are
+joined together with a force equivalent to a firm 
+hand grip (Figure A-10).
+Thickened epoxy can be applied immediately over
+the wet-out surface or any time before the wet-out is
+no longer tacky. For most small bonding operations,
+add the filler to the resin/hardener mixture remaining
+in the batch that was used for the wet-out. Mix
+enough resin/hardener for both steps. Add the filler
+quickly after the surface is wet out and allow for a
+shorter working life of the mixture. 
+3. Clamp components. Attach clamps as necessary 
+to hold the components in place. Use just enough
+clamping pressure to squeeze a small amount of the
+epoxy mixture from the joint, indicating that the
+epoxy is making good contact with both mating
+surfaces (Figure A-11). Avoid using too much
+clamping pressure, which can squeeze all of the
+epoxy mixture out of the joint.
+Any method of clamping is suitable as long as there
+is no movement between the parts being joined.
+Common methods include spring clamps, “C”
+clamps and bar clamps, rubber bands, packaging
+tape, applying weights, and vacuum bagging. If
+necessary, cover clamp pads with tape, or use
+polyethylene sheeting or release fabric under the
+clamps so they don’t inadvertently bond to the
+surface. Staples, nails, or drywall screws are often
+used where conventional clamps will not work. In a
+corrosive environment, any fasteners left in should be
+a non-corroding alloy such as bronze. In some cases,
+the thickened epoxy or gravity will hold parts in
+position without clamps. Avoid excessive clamping
+pressure.
+4. Remove or shape excess adhesive that squeezes 
+out of the joint as soon as the joint is secured with
+clamps. An 804 Mixing Stick is an ideal tool for
+removing the excess (Figure A-12). Allow the 
+epoxy to cure thoroughly before removing clamps.
+Single-step bonding
+Single-step bonding is applying the thickened epoxy
+directly to both bonding surfaces without first wetting
+out the surfaces with neat resin/hardener. We recom-
+mend that you thicken the epoxy no more than is
+necessary to bridge gaps in the joint (the thinner the
+mixture, the more it can penetrate the surface) and that
+you do not use this method for highly-loaded joints,
+especially when bonding end grain or other porous
+surfaces.
+Figure A-10 Apply thickened epoxy to one of the bonding
+surfaces.
+Figure A-11 Clamp components in place before the epoxy gels.
+Figure A-12 Remove or shape excess epoxy that squeezes
+out of the joint.
+
+--- PAGE 378 ---
+364
+Appendices
+Laminating
+The term laminating refers to the process of bonding
+numbers of relatively thin layers, like plywood, veneers,
+fabrics, or core material to create a composite. A
+composite may be any number of layers of the same
+material or combinations of different materials.
+Methods of epoxy application and clamping will 
+differ depending on what you are laminating.
+Because of large surface areas and limitations of wet 
+lay-up time, roller application is the most common
+method for applying epoxy. A faster method for large
+surfaces is to simply pour the resin/hardener mixture
+onto the middle of the panel and spread the mixture
+evenly over the surface with a plastic spreader. Apply
+thickened mixtures with an 809 Notched Spreader.
+Using staples or screws is the most common method 
+of clamping when you laminate a solid material to a
+solid substrate. An even distribution of weights will
+work when you are laminating a solid material to a 
+base that will not hold staples or screws, such as a 
+foam or honeycomb core material.
+Vacuum bagging is a specialized clamping method for
+laminating a wide range of materials. Through the use
+of a vacuum pump and plastic sheeting, the atmos-
+phere is used to apply perfectly even clamping pressure
+over all areas of a panel regardless of the size, shape or
+number of layers. (For detailed information on
+vacuum bagging, refer to WEST SYSTEM 002-150
+Vacuum Bagging Techniques manual.)
+Bonding with Fillets
+A fillet (fil’it) is a cove-shaped application of thickened
+epoxy that bridges an inside corner joint. It is excellent
+for bonding parts because it increases the surface area
+of the bond and serves as a structural brace. All joints
+that will be covered with fiberglass cloth will require a
+fillet to support the cloth at the inside corner of the
+joint.
+The procedure for bonding with fillets is the same as
+normal bonding except that instead of removing the
+squeezed-out thickened epoxy after the components are
+clamped in position, you shape it into a fillet. For larger
+fillets, add thickened mixture to the joint as soon as the
+bonding operation is complete, before the bonding
+mixture becomes tack free, or any time after the final
+cure and sanding of exposed epoxy in the fillet area.
+1. Bond parts as described previously.
+2. Shape and smooth the squeezed-out thick epoxy into
+a fillet by drawing a rounded filleting tool (mixing
+stick) along the joint, dragging excess material ahead
+of the tool and leaving a smooth cove-shaped fillet
+bordered on each side by a clean margin. Some
+excess filleting material will remain outside of the
+margin (Figure A-13). Use the excess material to
+refill any voids. Smooth the fillet until you are satis-
+fied with its appearance. A mixing stick will leave a
+fillet with about a 3⁄8" (9mm) radius. For larger fillets,
+an 808 Plastic Spreader, cut to shape or bent to the
+desired radius, works well. 
+Apply additional thickened epoxy to fill voids or
+make larger fillets. Apply the mixture along the joint
+line with the rounded mixing stick, using enough
+mixture to create the desired size of fillet. For longer
+or multiple fillets, empty caulking gun cartridges or
+disposable cake decorating bags can be used. Cut the
+plastic tip to lay a bead of thickened epoxy large
+enough for the desired fillet size. Heavy duty, sealable
+Figure A-14 Clean up the excess epoxy outside of the fillet
+margin.
+Figure A-13 Shape and smooth the fillet with a rounded
+filleting tool.
+
+--- PAGE 379 ---
+The Gougeon Brothers On Boat Construction
+365
+food storage bags with one corner cut off may also be
+used.
+3. Clean up the remaining excess material outside of 
+the margin by using a mixing stick or a putty knife
+(Figure A-14). Fiberglass cloth or tape may be applied
+over the fillet area before the fillet has cured (or after
+the fillet is cured and sanded).
+4. Sand smooth with 80-grit sandpaper after the fillet
+has fully cured. Wipe the surface clean of any dust
+and apply several coats of resin/hardener over the
+entire fillet area before final finishing.
+Bonding Fasteners and Hardware
+Installing screws and other threaded fasteners with
+WEST SYSTEM epoxy dramatically improves load carrying
+capacity by spreading the fastener’s load into a greater
+area of the substrate. There are several methods or
+levels of hardware bonding depending on the loads 
+on the hardware.
+Basic fastener bonding
+For improved pullout strength and waterproof connec-
+tions, the easiest fastener bonding method is to simply
+wet out stripped fastener holes and new pilot holes
+before installing the screws. Epoxy penetrates the fiber
+around the hole, effectively increasing the fastener
+diameter. Epoxy also provides a stronger interface with
+the fastener threads than wood fiber and keeps out water.
+1. Wet out a standard-size pilot hole. Work the mixture
+well into the hole with a pipe cleaner or syringe
+(Figure A-15). Thicken a second coat of epoxy as
+necessary for stripped or oversized holes.
+2. Insert the fastener in the hole and allow the epoxy 
+to cure.
+Advanced fastener bonding
+For greater strength and stability, drill oversized holes to
+increase the exposed substrate area and the amount of
+epoxy around the fastener.
+1. Drill oversized holes 2⁄3–3⁄4 the depth of the fastener.
+The diameter may be up to twice the fastener
+diameter (Figure A-16).
+2. Drill a normal sized pilot hole at the bottom of the
+oversized hole to the full length of the fastener. The
+normal sized pilot hole serves to hold or clamp the
+hardware in position until the epoxy cures. If the
+fastener/hardware can be clamped by other means,
+the oversized hole can be extended to the end of 
+the fastener.
+3. Wet out the holes and the fastener with epoxy. Allow
+the epoxy to thoroughly soak into the exposed end
+grain of the wood.
+4. Fill the hole with thickened epoxy/adhesive filler. Use
+404 High-Density (preferred) or 406 Colloidal Silica.
+5. Install the fasteners with just enough force to hold the
+hardware in place. Allow the epoxy to cure thoroughly
+before applying load to the hardware.
+Bonding hardware
+Bonding hardware goes a step beyond bonding the
+fasteners only. By bonding the hardware base directly to
+the surface, you further increase hardware load capacity
+and provide a solid bearing surface for the hardware. 
+It also seals the wood underneath and is a stronger,
+longer lasting attachment than bonding the fasteners
+only. It is especially useful to mount hardware on curved,
+uneven, or unlevel surfaces.
+Figure A-15 Wet out a standard pilot hole and install the
+fastener.
+Figure A-16 Drill oversized holes to increase the exposed
+substrate area and the amount of epoxy around the fastener.
+
+--- PAGE 380 ---
+366
+Appendices
+1. Prepare the mounting surface and the hardware base
+for good adhesion (refer to Surface Preparation).
+2. Wet out the oversized hole with epoxy. Allow the
+epoxy to soak into the exposed end grain of the
+wood (as with fastener bonding).
+3. Coat the bottom contact surface of the hardware
+with unthickened epoxy. Wire brush or sand the 
+wet epoxy into the surface with 50-grit sandpaper. 
+4. Inject a non-sagging epoxy/404 or 406 mixture into
+the hole. Use enough mixture so there are no voids
+in the hole after inserting the fastener. Coat the
+bottom of the hardware and the fastener threads 
+with thickened epoxy (Figure A-17).
+5. Place the hardware in position. Insert and tighten
+fasteners until a small amount of the mixture
+squeezes out of the joint (Figure A-18).
+6. Remove excess epoxy or shape into a fillet. Allow the
+epoxy to cure at least 24 hours before applying load
+to the hardware. Allow more time in cool weather.
+Casting a base
+Use the thickened epoxy to cast a base under the
+hardware when mounting hardware to a curved or
+uneven surface, or mounting hardware at an angle 
+to the surface.
+1. Prepare the fasteners, holes, substrate, and base as
+described above. 
+2. Bond small blocks to the substrate to support the
+base at the desired height and position (e.g., winch
+base, Figure A-19a).
+3. Apply enough thickened epoxy to cover the blocks.
+If the gap between the base and the surface is over
+1⁄2" (12mm), fill the gap in two separate layers to
+avoid exotherm. 
+4. Place the hardware in position, resting on the blocks
+(Figure A-19b) and install the fasteners.
+5. Smooth the excess epoxy into the desired fillet shape
+around the base (Figure A-19c). Allow the epoxy to
+cure fully before loading. Protect exposed epoxy
+from UV.
+Bonding studs
+Bond threaded rods or studs into the substrate (instead
+of bolts or screws) and attach the hardware with nuts.
+This variation is appropriate for many engine, motor, 
+or machine installations. Coat the base with wax/mold
+release to make the hardware removable. Although the
+hardware is not “bonded” to the substrate, the epoxy
+still provides a bearing surface that perfectly matches
+and supports the base of the hardware.
+1. Prepare the studs/threaded rods by waxing the upper
+ends (above the surface) and cleaning the lower ends
+(below the surface). 
+2. Place a nut and washer on the studs, wet out the
+lower ends, and push them into the epoxy-filled
+holes. Allow the epoxy to cure thoroughly before
+attaching hardware and tightening the nuts 
+(Figure A-20).
+Figure A-18 Tighten fasteners until a small amount of epoxy
+squeezes from the joint.
+Figure A-17 Coat the hardware bottom and fastener threads
+with thickened epoxy.
+Figure A-19 Support the base in position with blocking and
+fill the void with thickened epoxy.
+
+--- PAGE 381 ---
+The Gougeon Brothers On Boat Construction
+367
+Removing fasteners
+If you know that you will want to remove the fastener,
+you can coat the threads with wax or mold release
+(contaminating the surface enough to prevent a good
+bond).
+Remove a permanently bonded fastener by applying
+heat to the head of the fastener with a soldering iron 
+or propane torch. Use a heat shield to protect the
+surrounding area. Heat will travel down the fastener,
+softening the epoxy in contact with it. At about 250°F
+(121°C) the epoxy should soften enough to allow the
+fastener to be backed out. Allow more time for heat 
+to travel down longer or larger diameter fasteners.
+Fairing
+Fairing refers to the filling of low areas and the 
+shaping and smoothing of a surface to blend with 
+the surrounding areas and appear “fair” to the eye 
+and touch. After major structural assembly has been
+completed, final fairing can be easily accomplished 
+with WEST SYSTEM epoxy and low-density fillers.
+1. Prepare the surface as you would for bonding (see
+Surface Preparation). Sand smooth any bumps or
+ridges on the surface and remove all dust from the
+area to be faired. 
+2. Wet out porous surfaces with unthickened epoxy
+(Figure A-21).
+3. Mix resin/hardener and 407 Low-Density or 410
+Microlight™ filler to a peanut butter consistency. 
+The thicker the mixture, the easier it will be to 
+sand when cured.
+4. Trowel on the thickened epoxy mixture with a plastic
+spreader, working it into all voids and depressions.
+Smooth the mixture to the desired shape, leaving the
+mixture slightly higher than the surrounding area
+(Figure A-22). Remove any excess thickened epoxy
+before it cures. If the voids you are filling are over 1⁄2"
+(12mm) deep, apply the mixture in several applica-
+tions or use 206 Slow Hardener or 209 Extra Slow
+Hardener, depending on ambient temperature.
+NOTE: On vertical and overhead surfaces, allow 
+the wet-out coat to gel before applying fairing
+compound. The fairing compound may sag or 
+slide off the fresh wet-out coat. Apply the fairing
+compound while the wet-out is still tacky.
+5. Allow the final thickened epoxy application to cure
+thoroughly.
+6. Sand the fairing material to blend with the
+surrounding contour (Figure A-23). Begin with 
+50-grit sandpaper if you have a lot of fairing material
+to remove. Use 80-grit paper on the appropriate
+sanding block when you are close to the final contour. 
+CAUTION! Don’t forget your dust mask. Remove the
+sanding dust and fill any remaining voids following 
+the same procedure.
+Figure A-20 Bond threaded rods or studs into the substrate
+as an alternative for easily removable hardware.
+Figure A-21 Wet out porous surfaces before applying fairing
+compound.
+Figure A-22 Apply fairing compound to fill all voids, and then
+smooth it to the desired shape.
+
+--- PAGE 382 ---
+368
+Appendices
+7. Apply several coats of resin/hardener to the area 
+with a disposable brush or roller after you are satis-
+fied with the fairness. Allow the final coat to cure
+thoroughly before final sanding and finishing.
+Applying Woven Cloth and Tape
+Fiberglass cloth is applied to surfaces to provide
+reinforcement and/or abrasion resistance, or in the 
+case of Douglas fir plywood, to prevent grain checking. It
+is usually applied after fairing and shaping are
+completed, and before the final coating operation. 
+It is also applied in multiple layers and in combination
+with other materials to build composite parts.
+Fiberglass cloth may be applied to surfaces by either of
+two methods. The “dry” method refers to applying the
+cloth over a dry surface. The “wet” method refers to
+applying the cloth to an epoxy-coated surface, often after
+the wet-out coat becomes tacky, which helps it cling to
+vertical or overhead surfaces. Since this method makes 
+it more difficult to position the cloth, the dry method is
+the preferred method especially with thinner cloth.
+Dry method
+1. Prepare the surface as you would for bonding (see
+Surface Preparation).
+2. Position the cloth over the surface and cut it several
+inches larger on all sides. If the surface area you are
+covering is larger than the cloth size, allow multiple
+pieces to overlap by approximately two inches
+(50mm). On sloped or vertical surfaces, hold the cloth
+in place with masking or duct tape, or with staples.
+3. Mix a small quantity of epoxy (three or four pumps
+each of resin and hardener).
+4.

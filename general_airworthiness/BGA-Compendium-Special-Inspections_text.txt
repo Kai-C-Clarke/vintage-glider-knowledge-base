@@ -1,0 +1,141 @@
+
+--- PAGE 1 ---
+Special Inspections All Types
+Page 1
+BGA Compendium 05/10
+General information for guidance of inspectors collated from Airworthiness Directives applicable to all types, experience of incidents, published articles and general information.
+Note: Deleted entries in this section have been entered into relevant sections within the compendium. (Aircraft manufacturers, Engine, Propeller or Equipment)
+1.
+AIRBRAKES after repairs & repaints check opening & locking with wings bent. Insufficient clearance around paddle ends can prevent them being opened in flight.
+TNS 06/96
+2.
+BALLAST WEIGHTS (& BAGS etc) must be secured. For preference use bolted in ballast weights. Record if ballast weights are fitted, especially if out of sight. TNS
+12/00
+3.
+BGA FORMS 267 – See item 50
+4.
+BUNGEE HOOKS should be removed to prevent hang-ups on cable parachutes.
+5.
+CABLES - is the swaging satisfactory? Cables must be proof load checked or batch sample checked if made in situ to assure strength. Only use compatible cable, swage
+and tooling DO NOT MIX & MATCH
+Hemp cored cables must be replaced. Ref TNS 08/93.
+Stainless steel for control cables not recommended in applications with high chafing or tight turns on small pulleys. It has very poor fatigue properties. TNS 06/91,
+Piper SB 1048 Lubrication of SS control cables.
+Rudder pedal “S” tubes, check for wear by slipping cables. Worn anti wear liners must be replaced. Check for wear into tube if liners are damaged. TNS 12/03
+Assess the need for end-to-end inspections at annual check TNS 08/00
+Severe corrosion of control cables. Inspect in moisture traps, ducted cables etc. TNS 2-2010
+6.
+CONTROL SURFACE TAPE must be renewed regularly. Loose tape can cause major control problems. TNS 12/97 & 06/99. BGA inspection 011/12/2000 issue 1
+detailing annual inspections on control tape and seals. TNS 12/00
+7.
+CONTROL RODS - can be damaged by root ribs during trailer transport. Secure them. Damaged whilst rigging TNS 10/03
+8.
+CONTROLS L’Hotellier connectors MANDATORY inspections LBA AD 1993-001/3 and AD 1994-001/2 applicable to all types. Annual wear check. Must be
+replaced before flight if worn to limits. TNS 02/04
+9.
+GROUND LOOPING INCIDENTS- inspections in depth are required to establish the integrity of both structures and control systems. Ref BGA GRP Inspection
+Guidelines in AMP Manual.
+10. INSTRUMENTATION TUBING - PVC loosens with age & leaks, glue it or use neoprene.
+
+--- PAGE 2 ---
+Special Inspections All Types
+Page 2
+BGA Compendium 05/10
+11. INSTRUMENT PANEL sharp metal edges are very dangerous. Leg protection must be fitted. Glass-fibre panels are much safer. “ASW” glass panels are designed to
+break up during an accident. Instrument installations (compasses) impeding canopy jettison BGA 021/10/2001 iss1 recommended inspection. Inspection guidelines and
+replacement guidelines issued by Technical Committee. Replace metal panels with wood/composite or composite where possible. TNS 02/05
+12. LIGHTNING STRIKE inspections of GRP gliders. TNS 12/88 & wooden glider control cables TNS 04/87. The need for bonding is emphasised TNS 08/00.
+13. LIMITATIONS - must be permanently and legibly placarded, (including engine limitations).
+14. OTTFUR rings distort and jam in Tost hooks. Use only Tost rings for all launching. TNS 06/97 Ottfur hooks new & product support - CAIR Aviation Ltd tel. 01293
+888185, fax 01293 881764. See TNS 12/97 & 08/02 for maintenance data.
+15. SEATBACKS “slot in” types eg PW5, Vega & Jantar must be secured such that they can’t come loose under negative “G”. TNS 06/89 ME7 and AC4 included in types
+to check for security
+16. SEAT TRIM Seat trim obstructing exit from glider Recommended inspection BGA 019/06/2001 iss1.
+17. STIFF NUTS may be used to replace split pin locked castellated nuts in any position where the nut is done up tightly. For example where a nut & bolt clamp up a
+bearing or a bush. Stiff nuts must be in safety – at least 1 full thread protruding TNS 10/03 Check residual torque of stiff nuts if re-using. Stiff nuts cannot replace
+castellated nuts where there is any relative movement in the assembly or where the MM or AD specifies castellated nut and split pin. TNS 5-2006
+18. TRIM TABS - dangers of unsecured drive systems. TNS 12/88
+19. VENTS & DRAINS - do they work? (Have you checked?) All components must have vents & drains. More reports of missing drain holes causing serious corrosion
+and wood rot TNS 02/04
+20. WEIGHT AND BALANCE all types are normally to be re-weighed every EIGHT years. Inaccuracies and incorrect placarding can be fatal. TNS 02/87. Some notes
+on procedures are given in TNS 06/99
+21. WHEEL BRAKES
+Technical Committee clarification on serviceability.
+“When any glider has a wheel brake incorporated in the type design or by modification, then that brake system must be fitted and serviceable unless a front skid is also fitted
+and is of a type that can be lowered onto the ground to provide another means of deceleration and placarded accordingly”. TNS 1-2006
+22. WOOD AND FABRIC STRUCTURES - over-tautening of fabric. TNS 10/88 always follow fabric manufacturers’ instructions. Attach fabric correctly; use adhesive
+not dope for synthetics. TNS 08/98
+23. AIRFRAME LIFE INSPECTIONS all glass types of German origin, and others must be inspected at 3 000 hours and every subsequent 1 000 hours as per
+manufacturers special instructions. Additional inspections on some types at 6 000 hours – see aircraft section for specific instructions.
+24. WINCH GUILLOTINES all winches must be equipped by end of 2000. And checked on at least an annual basis.
+
+--- PAGE 3 ---
+Special Inspections All Types
+Page 3
+BGA Compendium 05/10
+25. NYLON PEEL PLY Use approved materials and follow manufacturers instructions TNS 08/00, 09/00, 12/00.
+26. DUPLICATE INSPECTIONS reminder that duplicate inspections are required if a control system or critical point is disturbed TNS 08/00.
+27. SELF SUSTAINER SAILPLANES See item 50
+28. TORQUE LOADING reminder to follow manufacturers specified torque loading TNS 12/00
+29. HEAVY LANDINGS recommend “weight off” inspections following heavy landings TNS 12/00 Check for structural deformation.
+30. BGA WEIGHT INCREASE CONSSESION 3% of AUW or 5% of NLP subject to conditions and limitations on pre 28/9/03 BGA gliders 02/01
+31. DYNAFOAM Guidelines on thickness of foam to use and to avoid injury TNS 08/02. remove from aircraft if left outside overnight due vermin damage 06/05
+32. FULL AND FREE CHECKS ensure that controls are un-restricted by seats, trim or any other control unless specifically designed to do so 12/02
+33. HOT WEATHER PROBLEMS. Use correct sealing and draft proofing materials for sealing canopies. Inappropriate materials may cause canopy to seal itself shut and
+prevent entry or exit. 08/03
+36. GLUE FAILURES
+Reports of glue failures on many types, some possible Casein type glues on older types. Take note of storage conditions if damp can promote
+failure of glue. Assess need to remove fabric or skin for access to inspect. Also see A/W notice 20.TNS 10/03.
+34. RELOCATION OF AIRCRAFT DURING MAINTENANCE. Strict rules apply if moving an aircraft (glider, motor glider or tug) to ensure continued airworthiness.
+Proper hand over, certification of part done maintenance, awareness of outstanding defects or part completed tasks. TNS 10/03
+35. SPLIT PINS Failure of split pins in control systems reported in Eastern European gliders due to poor metal quality. TNS 02/04
+36. VINTAGE GLIDERS check deterioration of rubber elastic bungees used in control systems TNS 04/04
+37. RECOVERY OF DAMAGED PARTS parts damaged in an accident or incident may only be returned to service after overhaul or repair in accordance with approved
+repair schemes. TNS 10/04
+38. SECONDARY DAMAGE When inspecting GRP structures be aware of secondary damage that may be very difficult to spot especially if the aircraft is finished in
+acrylic paint. TNS 10/04
+39. APPLICABILITY OF BGA APPROVED MODIFICATIONS. BGA mods may not be installed on Gliders issued with a EASA C of A or gliders issued with a BGA
+C of A after 28/9/03 unless approved by the CAA or EASA.
+
+--- PAGE 4 ---
+Special Inspections All Types
+Page 4
+BGA Compendium 05/10
+EASA approved mod for DG1000s rear seat TNS 10/05
+40. GLIDER BATTERY CURRENT LIMITERS if used a fuse must also be used in the circuit as current limiters are not fail safe TNS 04/05
+41. MARKING OF CONTROLS all minor controls must be marked in accordance with CS-22 TNS 04/05
+42. PLACARDS check for legibility and replace if necessary ENG NEWS 30. only BGA approved or manufacturers placards are mandatory in BGA gliders TNS 1-2007
+43. CAA GLIDER REGISTRATION please see AMP Leaflet 3-7 for details and guidance on CAA registration of gliders.
+44. POWDER COAT PAINTING Not approved for use on gliders and powered aircraft TNS 10/05
+45. ALL WOODEN GLIDERS BGA inspection 047/02/2006 issue 1. Identifying Kaurite glue, mandatory inspection and 5 year repeat. TNS 1-2006
+46. SPINNING GLIDERS WHILST IN BGA EXTENDED WEIGHT CATEGORY Technical Committee clarification.
+“The committee confirmed that provided the aircraft was approved for spinning within normal limitations, but choice of spinning of these sailplanes within the published
+narrower tolerances of the reduced flight limitations was an operational matter. It should be remembered that whilst operating at an increased weights the reserve factors will
+be reduced and exceeding limitations will be easier.” TNS 1-2006
+47. REPAIRS TO POST 2003 GLIDERS all gliders registered after 28/9/03 if requiring repair must be repaired to an approved repair scheme. TNS 1-2006
+48. SELLING GLIDERS OVERSEAS The BGA is not able to issue an export C of A TNS 1-2006
+49. NEW 267 FORM to be used for all post 9/2003 gliders and ALL Self Sustaining Sailplanes C of A issue and renewal recommendations. Old forms may be used for pre
+9/2003 gliders until supplies used up or new form can be used. All sections must be completed.
+50. LOCKING WIRE reported use of soft lockwire. On BGA aircraft only Stainless Steel or Inconel Locking wire must be used except for tell tails where fuse wire or
+equivalent is used. TNS 3-2006, 4-2006
+51. CABLE MANUFACTURE if making up control cables follow process information and if found not to conform must be scrapped (Also see item 5) TNS 4-2006
+52. RIGGING AND CONTROL CHECKS It is a BGA mandatory requirement to rig gliders and check and record control deflections as part of each Annual maintenance
+and C of A check. This cannot be waived.
+
+--- PAGE 5 ---
+Special Inspections All Types
+Page 5
+BGA Compendium 05/10
+53. CANOPY JETTISON Annual C of A requirement (GMS Task 8) ensure jettison is not restricted by cables or other items. Report all findings to BGA TNS 6-2006
+54. SEAT HARNESSES may be operated on condition TNS 1-2007
+55. SEAT HARNESSES shoulder straps must be wrapped around correct structural mountings or tubes, wire loops are for location only TNS 4-2008
+56. GLIDER TRANSITION AFTER 28/9/2008 Gliders registered with the BGA before 28/9/2008 may continue to be transitioned to EASA C of A using the established
+transition process, however the BGA C of A will not be renewed and the transition must processed by the CAA with EASA C of A and ARC issued before the glider
+may be operated. TNS 4-2008
+57. USE OF 30 DAY TICKETS Only annex II gliders may be issued with a BGA 30 day ticket
+58. RECORDING SERIAL NUMBER OF LIFED ITEMS At next annual inspection record the serial number of all lifed items in the log book and each time a lifed item
+is changed TNS 5-2009
+59. RELEASED PARTS MUST BE USED WHEREVER POSSIBLE. Parts should be released with a EASA form 1 or FAA 8130-3 approval tag. Standard parts may be
+released with a Certificate of Conformity. Only in cases where there is no product support may non released parts be used, then they must be of suitable aviation quality. TNS
+5-2009
+60. TURNBUCKLE LOCKING EASA Safety Information Bulletin SIB 2010-06 highlighting possible problem with incorrectly locked cable turnbuckles TNS 1-2010

@@ -1,0 +1,193 @@
+# Chapter 5
+
+Electrical Systems
+FAA-H-8083-30B, Chapter 12 (Also for Part66 Module 1L.3)
+AMP 1-11
+Section 1
+General Description and Components
+Electrical Systems in gliders are relatively simple, one or two batteries feed power to
+the instrument panel(s) and on to instruments via switches and fuses or circuit
+breakers.
+One thing to note is that if some wiring is made redundant take it out, don’t leave it in
+the glider! Too often wound up coils of wire are left insitu ‘just in case’ it is needed in
+the future. One guy asked for advice about his glider’s wiring - rip it all out and start
+again! The next day he appeared with one length of wire about 3 feet long comprising
+4 or 5 bits soldered together! Try to avoid solder as a means of connecting two
+conductors, if you have a high resistance the solder can melt and the joint broken.
+Having said that most plugs and sockets rely on soldered joints.
+A simple circuit will comprise a battery complete with a fuse on the battery feeding the
+instrument panel via two wires, one positive, the other negative. The panel should have
+a Master Switch in the positive line, a Master Fuse and that will feed across to all the
+fuses, one per instrument. From the fuse there next comes a switch and then on to the
+instrument. The negative supply does not need a fuse or switch and the various
+instruments can be connected to one negative terminal.
+If two batteries are carried then arrangements need to be made for battery selection – a
+Master Switch of the On-Off-On variety. Centre position is OFF whilst up and down is
+ON. Battery 1 and 2. Alternatively you can fit a double pole switch that will turn on
+both positive supplies and then have the battery selection at each individual instrument
+switch. It is a choice for the Owner but the first option takes less wiring up. Note that
+the power from two batteries can be carried by three wires, two positive, one from each
+battery and one common for the negative supply.
+If creating a new wiring system sit down and thing about what you are intending to
+achieve. Apart from Power In you generally need:
+
+Radio comprising:
+o
+Transceiver
+o
+PTT
+o
+Microphone
+o
+Speaker
+o
+Aerial
+
+FLARM comprising
+o
+FLARM Unit
+o
+Flarm Display
+o
+Aerial
+
+Electric Vario
+
+--- PAGE 63 ---
+58
+
+GPS - Tablet
+
+Turn and Slip and/or Artificial Horizon
+It is best to connect the instruments to a terminal block of the Barrier type. These have
+screw terminals that take 4mm ring terminals. Crimp the ring terminals onto the
+instrument wires and then to the terminal block. This makes removing an instrument
+easy – no need to unsolder wires.
+Miniature circuit breakers are readily available, a good type is ETA Circuit Breakers.
+They come in different current ratings just like fuses. They are easy to fit and have
+small spade connectors for the wires.
+Wires also have current ratings. The wire gauge needed for an instrument is often
+stipulated in the equipment manual. Aircraft standard wiring is readily available but is
+all white. Radios come with ‘normal’ wire and the use of good quality commercial wire
+is acceptable. Wire is usually categorised by AWG – American Wire Gauge. The higher
+the gauge number the thinner the wire and the less current it can carry.
+Instrument Panels need to be removed occasionally for access to rudder pedals for
+example or to change an instrument. Power supply and ‘off-panel’ radio items need to
+be disconnected so use a plug and socket for these circuits. There are several makes of
+bulkhead sockets and line plugs available to do the job, just don’t hard wire to
+switches.
+The components you need for a decent electrical system are:
+
+Battery
+
+Fuse or circuit breaker for the battery
+
+Master Switch
+
+Miniature circuit breakers, one per instrument (Type ETA 106-P10 Series RS or
+Farnell)
+
+ON-OFF Switches, one per instrument
+
+Wires of different sizes and colours
+
+Barrier Terminal Blocks (Farnell)
+
+4mm Ring Terminals (Solistrand is a good make – RS Components)
+
+Bulkhead Sockets with X number of pins
+
+Line mounted Plugs with matching X number of pins
+
+Appropriate Crimp Tooling
+
+Heat Shrink Tubing for insulation purposes
+
+Hot Air Gun
+
+Multimeter
+Take the time to draw a circuit diagram, it helps you and anyone who wants to
+understand what is going on behind the panel. An example of a wiring diagram is
+below. Note that as a precaution of disrupting the power supply to the IGC FLARM
+there is a capacitor introduced into the circuit. The capacitor acts as a small battery and
+will maintain power for sufficient time to cover switching from Battery 1 to Battery 2
+whilst the switch passes through the OFF position.
+
+--- PAGE 64 ---
+59
+Section 2
+Inspection of Electrical Systems
+Electrical systems correctly installed and maintained are inherently safe. However, if
+badly installed and left to chafe on a hard edge or get to a stage with old wiring that the
+insulation starts to disintegrate then short circuits can occur. A short circuit creates
+heat, high currents and in the worst case – fire.
+Inspection of wiring is necessary to ensure that there is no chaffing, wire and looms are
+correctly secured and that insulation is not breaking down. Also check that the owner
+has not added his/her own bit of wire and chocolate box connector, practical things but
+not very nice and are rarely secured.
+Check that fuse ratings are correct, circuit breakers should not change their rating.
+Make sure the switches work and are not loose in the panel. Switches, fuses and/or
+circuit breakers should be labelled to show what they control. Radios must have the
+glider registration noted adjacent to it.
+Damaged wires or components should be replaced, replace wires end to end, don’t just
+cut out a bit and solder in a new piece. If you have to pull wire out of a conduit –
+solder a scrap piece to the end so you can pull the new wire back through. Sometimes
+in a two seat glider as per K21 where wires go front to rear panels maybe leave a
+length of wire in the conduit tied out of the way. This makes threading a new wire
+through easier if something is being added to a panel.
+Electrical components should be replace like for like rather than trying to fit something
+new.
+
+--- PAGE 65 ---
+60
+Battery Boxes need to be inspected for security and their ability to restrain a battery
+whilst undergoing a 25G force! In a crash situation things are bad enough without a
+2Kg battery being hurled at you from the centre section. A shallow tray with a piece of
+‘Velcro’ (Hook and Loop Fabric Tape) to hold a battery down is quite insufficient. A
+box secured to the structure with two self-tapping screws is also pretty useless no
+matter how good the actual box is. Use nuts and bolts to secure a box to the structure
+and put large diameter washers under the structure or an aluminium plate to spread the
+load.
+Section 3
+Battery Charging and Testing
+AMP 1-11
+Battery charging should be undertaken outside of the glider just in case anything goes
+wrong, applies especially to the Lithium batteries. An appropriate battery charger
+should be used, there are several makes of ‘automatic’ chargers that charge and then
+keep a float charge going thus not wrecking the battery. Most Clubs have battery
+charging facilities adjacent to the gliders in the hangar, left on charge and removed and
+put into the glider when required.
+As the AMP Leaflet says we should know what the capacity of the battery is and to
+know that the battery is given a capacity test. Rarely carried out in the gliding world! It
+is a time consuming process and currently there does not seem to be a way of doing it
+with automatic recording. Somone somewhere must have a system for doing that.
+However, the Leaflet tells you how to carry out a capacity test and work out the result.
+With gliders if a battery does not last long enough a complaint will be forthcoming if it
+is a club glider; the owner, Club or Private, may just buy a new battery.
+If a new battery loses power quickly during a flight then one must assume there is a
+power drain. Sometimes difficult to find and isolate the cause. One K21 apparently
+always drained batteries quickly, despite inserting an ammeter into the positive line at
+the battery and not getting any high amperage readings with any combinations of
+switched on instruments the issue remained unresolved.
+Batteries that have been dropped should be carefully examined to ensure they have not
+suffered a cracked case. If in doubt scrap it and get another – not that expensive.
+Batteries for engine starting should ideally be tested particularly those in Self-
+launching Sailplanes or Turbos. These batteries need to function as soon as the pilot
+requires it to avoid a field landing! TMG batteries are not often required in flight and if
+not in good condition will object to starting a cold engine on the ground. Take the time
+and do the test.
+If an apparently good battery fails to produce the necessary energy required to turn an
+engine over check the connection to the battery terminals; there could be a high
+resistance between the terminal and cable terminal or cable and its crimped terminal.
+This condition can be established with an Ohm Meter or feeling the junction to see if it
+is warm or hot if current has been flowing for an extended period. Of course the
+problem may be in the Starter Solenoid Switch. The solenoid may appear to function
+(in that it is heard to engage the switch) but the metal plate that actually makes the
+
+--- PAGE 66 ---
+61
+electrical connection may be ‘burnt’. Some solenoid switches are not too difficult to
+strip down and clean, most are easy to replace.
+
+--- PAGE 67 ---
+62

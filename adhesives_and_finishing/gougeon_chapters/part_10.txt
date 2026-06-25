@@ -1,0 +1,1736 @@
+tions in Chapter 20.
+At this point, you should have a reasonably clear idea of
+the shape and dimensions of the keel and stem, so you
+can prepare stock to laminate the blank for the stem
+and keel. You can laminate the stock to the exact thick-
+ness desired, but you should always add a little extra
+width to allow for trimming after the blank is
+completed. While it is possible to save some stock by
+varying the lengths, widths, and thicknesses of the
+stock in the laminate, this is normally more compli-
+cated than it’s worth because of the great amount of
+planning and work involved in cutting out and properly
+lining up all of the different size pieces. It’s more
+practical to control the thickness of a keel or stem by
+step tapering the wood along the length.
+Make the keel and stem blanks a little longer than you
+will actually need them. The scarf joint will use up some
+of this surplus so plan for it. Since the forward tip of
+the stem blank is usually fastened securely to the floor
+or strongback in the set-up, extra stock beyond the sheer
+line may be necessary. The keel blank should extend a
+short distance beyond the transom to facilitate fairing.
+Springback may complicate construction of both the
+keel and the stem, and it can make proper alignment
+difficult. In keels, springback can sometimes be so
+slight that you can push the piece back into position.
+Chapter 19 – Keels, Stems, and Sheer Clamps
+209
+Figure 19-2  The laminated stem for the proa Slingshot. The
+extra blocking on the side of the stem is for the slight flare in
+the bow. Note the set-up cable on the floor and the notch for
+the cable in the stem at the lower left corner of the photo.
+
+--- PAGE 224 ---
+Stem laminations are usually thicker and may present
+greater springback problems. If it’s impossible to push a
+stem into shape, you may have to laminate extra stock
+onto one side and plane away wood from the other to
+regain the designed curve.
+Laminating Forms
+The stem may be the largest and most difficult laminated
+piece in your hull. It’s also usually one of the first lam-
+inated components you’ll need. Practice with a dry run
+before applying WEST SYSTEM® epoxy to the stem blank.
+We usually lay out and bond stem blanks on the floor,
+using triangular blocks to make a form as described in
+Chapter 11. Take care to avoid any twisting in the
+laminate. The stem is aligned along the centerline of a
+boat so any distortion will complicate marking the
+centerline and positioning the stem in the set-up.
+Triangular blocks may also be used to laminate keel
+blanks. We often laminate keels right on our set-ups,
+using mold frames as forms. The difficulty with this 
+is that the laminating stock is usually wider than the
+trimmed keel will be, so the lamination must be
+completed before any notches for the keel can be cut in
+the permanent or mold frames. The trick is to work out
+an adequate form without damaging the mold frames.
+We recommend the following procedure in this situa-
+tion. Measure up from the bottom of the marked keel
+notch enough to clear the notch. Draw a line across the
+frame, parallel to the base of the notch. Mark all frames
+in this way and saw them off flush with these lines.
+Screw or clamp 11⁄2" (38mm) square cleats or blocks 
+to the control sides of all mold frames. Clamp them to
+permanent frames. These will be points that you can
+clamp to the keel blank. Include limber holes at the
+frame/keel joints by cutting notches a little wider than
+needed for the keel blank. Be careful not to remove so
+much stock that the frame becomes too weak to support
+and outline the hull shape. On thick keels, limber holes
+that do not extend the full depth of the notches can
+work effectively.
+You may need temporary jigging aft of the transom and
+up around the bow for laminating to help coax the keel
+blank into bending as it approaches these areas. This
+jigging can consist of a temporary addition to a bow
+frame and a partial frame just aft of the transom.
+Because of springback, it’s often a good idea to slightly
+overbend the keel toward the bow and stern.
+When the keel lamination is in position, clamp it
+securely at each station point, covering each station
+with polyethylene sheeting to keep epoxy from dripping
+onto permanent members and accidentally bonding the
+keel to the mold forms. Use clamps at each edge of the
+keel to hold it to the blocks on the mold frame. To be
+sure that there is adequate clamping pressure on the
+laminate between stations, use hand clamps with
+clamping pads to spread the load. Remove any epoxy
+that squeezes out of the lamination.
+Joining Keel and Stem Blanks
+Mark centerlines and station lines on the stem and keel
+blanks while they are still in the set-up. To mark the
+interior of the stem, hold a plumb bob under the stem
+and drop it to the centering cable. Mark the location
+from which the plumb bob falls straight to the cable at
+intervals along the stem and draw a line with a batten
+to connect the marks.
+Use a level to lay out station lines and any other frame
+locations perpendicular to the centerline. Then mark
+the widths of the keel and stem on their respective
+blanks. Rough plane the side edges of the blanks to
+these dimensions, but wait to taper any thickness until
+after the pieces have been joined. Place the keel/stem
+template on the blanks or take them to the lofting.
+Transfer all reference lines and marks for the scarf.
+210
+First Production Steps
+Figure 19-3  Set-up for the 42' (12.8m) Golden Dazy. The
+keel can be seen on sawhorses beyond the molds. The slight
+rocker in this hull allowed the use of a solid keel.
+
+--- PAGE 225 ---
+Cut scarf bevels on both blanks and join them in the
+set-up to check for proper alignment. If the angles don’t
+match almost perfectly, work with them until they do.
+We usually allow a little extra length in scarf joints to
+allow for this bit of fitting: if the bevel does fit the first
+time, we remove the excess length.
+We generally bond the scarf joint in the set-up, with
+both keel and stem lined up in position. Once the bevels
+are cut correctly, you can clamp the joint anywhere, but
+to avoid any longitudinal distortion be careful to make
+sure that the centerlines of the two pieces line up.
+When the keel and stem are a single unit, prefinish the
+portions which will show on the hull’s interior. Plane
+and sand the surface smooth and round any edges.
+Apply two or more coats of WEST SYSTEM epoxy to the
+prepared surface and lightly sand it before installing it
+in the set-up.
+The final step in making the keel/stem unit is machining
+bevels on the surfaces to which planking will be bonded.
+It’s possible to do this using lofted measurements, but
+the job is easier in the set-up, where the controlling edges
+of mold frames can act as guides in determining angles.
+Notching Frames
+When the keel and stem are joined and shaped, cut
+notches in the frames to receive the unit. The width and
+depth of the notch in any frame are determined by the
+dimensions of the keel/stem at this station. Lay out these
+measurements on the frames and cut the notches as
+accurately as possible. The bevel of the notch will be the
+same as the bevel of the frame in the area of the notch.
+Good fits between the keel/stem and mold frames are
+essential wherever the assembly is attached to permanent
+frames. In areas where the keel is a single thickness, use
+a long batten to check the fairness of keel notches in
+the mold frames. We often insert the keel/stem in
+position to check the notches for depth and width. The
+stem usually crosses only one or two frames. After that,
+it’s unlikely that it will be notched in place. Instead, it
+will sit on top of a flattened area which is machined at
+the correct height on the mold frame.
+Installing the Keel/Stem in the Set-Up
+Join the keel/stem to the frames at every station in the
+set-up. Bond the unit to permanent members with a
+thick mixture of epoxy and high-density filler. Draw the
+pieces together with clamps if they reach easily around
+the frames, or drill holes and run screws through the
+keel and into the frames. If you use screws, remember
+to remove them after the joint has cured so that they
+won’t be in the way of beveling. Fill the drilled holes
+during finishing. To reduce sanding, remove any epoxy
+that squeezes out of the joint.
+Chapter 19 – Keels, Stems, and Sheer Clamps
+211
+Figure 19-4 A laminated stem scarfed to a solid keel. Note
+the stringer bonded to the stem.
+Figure 19-5 The keel/stem assembly is fit to molds for the
+32' (9.7m) Hot Flash. Molds are notched so the keel lies flush
+with the control face of the mold. Note the blocking used to
+secure the keel/stem assembly to the molds.
+
+--- PAGE 226 ---
+To anchor the keel/stem to mold frames, use blocks and
+screws in somewhat the same manner as described
+earlier for using the set-up as a laminating form. Screw
+square blocks of appropriate dimensions to the control
+side of the mold frames, making them even with the
+bottom of the notched-out area and holding them in
+place with several screws and perhaps some adhesive, 
+if needed. Drill each of these blocks for one screw
+(although you can use several if necessary) and insert
+the screw upward through the block and into the
+interior side of the keel. Use a washer to keep the head
+of the screw from pulling through the block. Do not
+insert the screw so far that it will interfere with
+machining that will be done on bonding surfaces. Later,
+when the hull is completed, you will need to remove
+these screws so that the keel and hull will come free
+from the mold frames.
+You will need jigging to position the tip of the stem so
+that it will not move during beveling. You can use the
+excess length that has been left on the stem blank
+beyond the sheer line as an attachment point for this
+jigging. After the planking has been applied, you can
+saw the stem flush with the sheer line measurement.
+Beveling the Keel and 
+Stem to Receive the Planking
+After the keel and stem have been securely positioned
+in the set-up, mark them for beveling. We usually use a
+handsaw for this procedure. Saw into the keel, using
+the saw blade to represent a fair extension of the
+control edge of the mold frame. Make another similar
+saw cut an inch or so away and remove the material
+between these cuts with a chisel. Fair the bevel with the
+mold frame itself. Repeat this procedure at every station
+on each side of the keel. Use a long plane to cut away
+the stock between the mold frames until the keel is
+planed down to the bevels already cut at each station
+position. For large keels, a power plane can save a lot of
+time and work. Take great care not to develop any
+hollows between stations and lay a batten along the
+length of the keel to make sure that you are
+maintaining overall fairness. If you do develop any low
+spots or you find that the keel lamination was a little
+shy in some areas, you can bond another layer of
+veneer or thin plywood in this low area and then fair it
+to the desired level.
+Stems are a little more difficult to bevel for several
+reasons. First, you can only rely on one or two mold
+frames to act as guides for beveling. Secondly, the bevel
+is usually a much more severe V-shape that requires
+considerable removal of stock. To complicate matters,
+only that area of the stem close to the waterline may in
+fact be V-shaped. Higher up in the hull (or close to the
+sheer line) the stem may become flat on the forward
+surface. The flat on the stem will be extended to its
+final dimension with a laminated cap that covers both
+the stem and planking as shown in Figure 19-1.
+The cross section of the stem blank is more rectangular
+than the desired final shape. When you jig the stem
+into position, locate it by positioning the centerline on
+the back of the stem over the centerlines on any
+stations or jigging that it crosses. When the stem is
+positioned accurately, mark it with all of the dimensions
+needed for beveling. Usually, the most important
+measurements are the control lines drawn on the face of
+the stem. The control line(s) may be just a centerline,
+or, if the stem will have some flare, two lines delin-
+eating each corner. See Chapter 16 for detailed
+discussion of how the stem dimensions are developed.
+212
+First Production Steps
+Figure 19-6 The laminated keel for Rogue Wave bonded to
+frames. The keel is ready to be faired. The frame crossing the
+centerboard slot will remain uncut through the planking
+process to prevent any distortion of the keel from stresses
+created during planking. The centerboard case was installed
+after the boat was turned over because, in this case, it was
+taller than the set-up allowed.
+
+--- PAGE 227 ---
+Begin by cutting the bevels on each side of the stem
+down to the lines drawn on the front face of the stem.
+Use a fairing batten to check the angle of the bevels as
+you progress. For accuracy, lay the batten on the
+controlling edges of the mold frames three to four
+stations back from the stem. When the batten lies flush
+on the stem bevel and meets the control lines drawn 
+on the bevel face (this may be a perfect point along the
+centerline), the stem is completed. Stem bevels can be
+tricky because there is often a large angle change in 
+a short distance, so you should make frequent checks
+with a fairing batten along the entire stem dimension 
+to avoid any over-beveling which could cause a
+crooked stem. Sighting the stem from above the set-up 
+or sighting along its length from the floor can help
+you detect any unfairness that might develop as you
+work. Also lay a short batten along the stem to check
+for hollows.
+Chapter 19 – Keels, Stems, and Sheer Clamps
+213
+Figure 19-7 A set-up for a typical IOR racer. Control lines have been drawn on the stem. Notches are cut in the keel at the
+molds to determine bevels. The stem is blocked up to allow the centerline cable to pass freely underneath.
+Keel and stem scarf
+Clean out stock between
+saw kerfs with chisel
+Bearding line picked
+up off the lofting
+Using a batten,
+carefully fair the
+stem with molds and
+dress the faying or
+bonding surface with
+a plane
+Swell of the stem
+for flair or flam
+Centerline cable
+Mold
+Saw into the keel
+along a projection
+of the mold’s
+control edge
+
+--- PAGE 228 ---
+The Keelson
+Keels can take many shapes and forms. The design
+shown in Figure 19-8 is one of the more successful
+solutions to the problem of distributing high point
+loading, as might be generated by a ballast keel, over
+maximum area. This type of keel and keelson assembly
+is basically a relatively lightweight I-beam with two
+faces separated by blocking along the length of the
+boat. Laminated floors and frames distribute load
+athwartship.
+Keelsons are usually made of dense woods with high
+strength. Mahogany, for example, is a good choice. We
+generally install keelsons after removing hulls from
+their set-ups. The keelson is laminated over the floor
+and core blocking to form a single unit.
+The structural advantage of this keelson concept is
+excellent longitudinal stiffness and strength at a light
+weight. The major advantage, however, is the large
+safety margin that this method of construction can
+provide if you ground with a modern, fin-type ballast
+keel. Grounding on a rock can produce severe loading
+on the entire keel and adjoining structures as the aft
+portion of the ballast keel is forced upward into the
+hull. The beauty of the keelson concept is that the
+complex is capable of absorbing a great deal of energy
+by putting the bottom keel and hull skin in compres-
+sion and the keelson in tension, which is wood’s
+strongest property. Often, a severe grounding will cause
+the keelson to break in tension. It will absorb tremen-
+dous amounts of energy in the process with the positive
+result that no other part of the boat is damaged. The
+214
+First Production Steps
+Figure 19-8 Detail and cross section view of a keel and keelson assembly. This design offers light weight and good distribution
+of the high point loading of a ballast keel.
+Laminated frame/floor
+Keelson
+Athwartship blocking
+under frame
+Limber hole
+Keel
+Ballast keel
+Fore and aft keel blocking
+Planking
+Laminated 
+floor timbers
+Limber
+holes
+Keel
+Planking
+Blocking
+Hardwood
+keelson
+
+--- PAGE 229 ---
+keelson is relatively easy to repair by simply scarfing in
+another piece in the area that has been fractured, and
+the repair costs little in materials or labor hours. This is
+a great savings when compared to the possible damage
+that the hull itself might sustain without this arrange-
+ment. (In two instances, large IOR boats that we have
+built have had major groundings on rocks. In both
+cases, the keelson concept worked beautifully, absorbing
+most of the energy that was generated by the tremendous
+grounding forces.)
+Another structural advantage is that you can make the
+lower keel itself much smaller than normal, permitting
+laminated floors or ribs of the maximum size to pass
+across the keel with the minimum amount of notching.
+This provides excellent athwartship load distribution
+and provides maximum usable headroom space in the
+process. The keelson represents a very efficient use of
+material and takes relatively few hours to manufacture.
+Centerboard and Daggerboard Cases
+Centerboard and daggerboard cases are, in effect, exten-
+sions of the keel that provide a cutout for either a
+centerboard or daggerboard to pass through. They are
+also points of extreme high loading, and it is very
+common for damage and leaking to occur in these areas
+of the boat. Because of this, you should carefully build
+up the keel in the area in which you install a case. To
+do this, you might make the keel much thicker at this
+point, using more cross-grain plywood laminations to
+provide added resistance to splitting. Because a vast
+majority of the loading on a case is generated in the
+front where the slot protrudes through the keel, this
+area can become one of the highest load points in the
+entire boat structure. Therefore, you should make the
+front of the slot especially strong to distribute this load
+over as much area as possible.
+Figure 19-10 illustrates our technique for building and
+installing centerboard and daggerboard cases. Begin by
+cutting a slot in the keel a little larger than the perimeter
+of the case. Lightly bevel the slot, shaping it into a
+wedge that tapers from a slightly wider top to a
+narrower bottom. Insert the case into the cutout so that
+it is flush with the bottom of the keel, plumb, and lined
+up with the centerline.
+Next, you must make sure that any epoxy you apply
+will not drip immediately out of the keel/case joint.
+Block the bottom of the case with a piece of wood or
+tack a bead of epoxy along the joint line and allow it to
+cure. We usually wrap thin plywood in plastic and
+staple it to the keel, as shown in Figure 19-10, and find
+that this not only prevents oozing but also helps to hold
+the case in place. Because the plywood is wrapped in
+plastic, it’s easy to remove when the joint has cured.
+When the anti-drip device is positioned, pour an epoxy
+mixture, slightly thickened with 404 High-Density Filler,
+around the outer edges of the case to the full thickness
+of the keel. Allow this to cure. To finish the case, apply
+a cap and round over its edges. Fiberglass cloth can be
+added as desired. We recommend that you apply it to
+the corners where the boat and the case meet.
+The method will result in a perfect structural fit
+between the case and the keel, and this will effectively
+transfer all loads to the keel. The chances of failure of
+the joint between the case and the keel have been
+minimized, so the possibility that the boat will leak
+when it is in the water is greatly reduced.
+Chapter 19 – Keels, Stems, and Sheer Clamps
+215
+Figure 19-9 The effect of grounding on the keelson. Shock
+loads from grounding and the resultant forces on the keel cause
+a tension break in the keelson at the back edge of the keel.
+Shock loads from grounding and resultant
+force on keel cause tension break in keelson
+Grounding force
+
+--- PAGE 230 ---
+Laminating Sheer Clamps
+We generally build up sheer clamps from two or three
+long pieces of stock in much the same way as we
+laminate keels. Any sheer clamp that is over 1" (25mm)
+thick should be laminated. The sheer clamps on many
+monohulls curve more than their keels and have more
+twist over their length, a combination which results
+from the flare of the hull toward the bow and leads to
+reasonable concern that the clamp might split.
+Use the set-up mold frames as a form for laminating the
+sheer clamps, just as described for laminating the keel.
+Firmly attach temporary cleats to both sides of all the
+mold frames at the sheer so that you will be able to
+clamp at each station. The cleats should be strong
+enough to support the weight of many clamps all along
+the sheer. (Clamp weight works in your favor on a keel
+lamination, but against you when clamping a sheer
+216
+First Production Steps
+Figure 19-10  Detail of a centerboard case construction and installation.
+Figure 19-11 Laminating a sheer clamp over the outside of
+mold frames. No notches have yet been cut in the molds.
+When it has cured, the sheer clamp is removed, dressed and
+prefinished. Then it is fit to notches in the molds.
+Splitting stresses at the
+forward end of the center-
+board slot can be extreme.
+Precautionary measures
+such as cross-grain 
+lamination in the keel, 
+unidirectional fiberglass, or
+bulkhead installation
+counteract these forces.
+Slot in keel relieved to allow
+inspection as epoxy mixture
+is forced in the joint.
+Centerboard case ledge
+Centerboard case
+Keel
+Fairing flap
+Fiberglass tape
+Temporary plate to prevent epoxy mixture run-out
+Cap
+
+--- PAGE 231 ---
+clamp at about right angles to the floor.) If there is severe
+twist in the sheer clamp, you may have to brace up the
+mold frame to keep it from distorting.
+It’s fairly easy to control unusually severe twist in a sheer
+clamp by clamping a large stick perpendicular to it. This
+gives you leverage on the sheer clamp. You can block
+the outside end of the stick up or down to position the
+sheer clamp at the desired twist, thereby removing a
+great deal of stress from the mold frame. When the sheer
+clamp lamination is completed, plane and sand all of its
+interior surfaces and apply two or more coats of WEST
+SYSTEM epoxy. Then notch the mold frames and install
+the sheer clamp in the set-up, following the procedures
+described for installing keels.
+With the stringer-frame and strip plank methods of
+laminating hulls, the sheer clamps are usually installed
+in the set-up before planking. With the mold method
+and sometimes with smaller strip-built boats, sheer
+clamps are not generally necessary for hull construction
+and you can install them later, when the hull is
+completed. When you do this, be sure to use wood
+clamping pads to prevent damage to the hull.
+Chapter 19 – Keels, Stems, and Sheer Clamps
+217
+Figure 19-12 Considerations in the design of a sheer clamp.
+Figure 19-13  A sheer clamp laminated on the outside of a
+hull, using the hull as a mold. Note the clamping pad on the
+outside to protect the cedar planking.
+In any boat the scantlings and design of the sheer
+joint depend on several factors:
+1. The displacement of the boat.
+2. The probable stresses the sheer as a whole (or in
+part) will be subjected to.
+3. The design of the framing system for the entire hull.
+4. In the epoxy bonded boat, a careful balance of the
+grain strength of the woods used and the bonding
+area of the joint.
+Dowels
+resist
+splitting
+forces.
+Bulkheads or gusseted
+frames significantly
+increase the strength
+of the sheer joint.
+
+--- PAGE 232 ---
+218
+First Production Steps
+
+--- PAGE 233 ---
+Hull Construction Methods
+Chapter 20
+Building a Mold or Plug
+Chapter 21
+Laminating Veneer Over a Mold or Plug
+Chapter 22
+Stringer-Frame Construction
+Chapter 23
+Strip Plank Laminated Veneer and 
+Strip Composite Construction
+Chapter 24
+Hard Chine Plywood Construction
+Chapter 25
+Compounded Plywood Construction
+
+--- PAGE 235 ---
+A mold is a form over which veneer or plywood is laminated to create the desired hull or deck shape. The
+mold provides a solid base on which to exert the pressure necessary to hold layers of veneer together until
+the epoxy has cured. A mold allows one or several hulls to be built over it. Its biggest advantage is that
+any number of identical shapes can be built from a single mold. The mold method of boat construction 
+was popular in the early years of wood/epoxy boatbuilding but is used infrequently now.
+Even though molds are now rarely used to build hulls of laminated wood, the construction techniques
+described in this chapter are invaluable and are basic to custom and production fiberglass boatbuilding.
+Production boatbuilders often build wood male molds which are then used to make the production 
+female molds. The wood molds used this way are precisely finished, highly polished, exact replicas of 
+the actual part. When used in this manner, a male mold is called a plug and is the basis of all production
+boatbuilding.   
+Builders of custom one-off boats also need to build molds, albeit not as highly finished as a plug, on 
+which to construct the hull and other complex shaped parts. Keep in mind as you read this chapter that
+laminating any complicated shape may require a mold, so don’t limit your thinking just to hull shapes. 
+The deck, the cabin roof, cockpit liner, rudder, etc. can all be built using a mold.
+Chapters 17 and 18 discussed making mold frames and setting up. This chapter draws on that information
+and details how to build a male mold. 
+The strengths and weaknesses of the mold method of
+laminating hulls result from the mold itself. The process
+of building a mold is time-consuming, and materials
+may be expensive. Permanent parts, except for the keel
+and stem, cannot be installed in the set-up, so the
+technique is practical only on smaller, thick hulls with
+little interior framework. When a hull is finished, you
+have a choice between cutting up and discarding the
+mold or storing it for years. On the other hand, the
+mold method is hard to beat if more than one boat is to
+be built. When a number of hulls are constructed
+around a single plug, its costs are more than repaid in
+labor savings alone.
+Types of Molds
+A mold is a form over which to laminate veneer or
+plywood. It must accurately describe the shape of the
+finished hull, and it must be strong enough to hold this
+shape as you work. As long as it does these things, the
+exact construction details of a mold may vary according
+to the requirements of an individual project.
+Molds may have solid surfaces, or they may be little
+more than open lattices. The type of mold you need
+will depend on a number of factors. Molds used for
+many hulls or relied upon for exact tolerances must be
+more substantial than molds used for a single boat. In
+many cases, the kind of pressure used to hold layers of
+laminate in place as the epoxy cures will determine the
+nature of the mold.
+We have used a wide variety of molds. When we built
+Tornado catamarans, our goal was to turn out many
+boats to exact specifications. We used vacuum bag
+techniques to “clamp” our layers of veneer, so our mold
+had to be airtight. We built a solid or planked plug,
+edge gluing strip planks as we might on a boat hull.
+This mold was rigid and fair, but to be sure that we
+could move it around the shop without losing the hull
+shape, we laminated a layer of veneer onto its surface.
+Few molds are so sophisticated.
+A simple lath or stringered mold is at the other end of
+the spectrum. With this type, we set up frames and
+then fasten ribbands, long stringers of wood, over the
+Building a Mold or Plug
+C H A P T E R
+20
+
+--- PAGE 236 ---
+set-up. Gaps between ribbands may be wider than the
+ribbands themselves so that only 40 or 50% of the
+mold surface is solid wood. Because staples can only 
+be inserted where there are ribbands, we mark the first
+and second layers of veneer before fastening them. This
+takes extra time, but since a ribband mold is quicker 
+to build than a planked one, the balance may lie in its
+favor when it will be used for only one or two boats.
+Somewhere between these extremes lies the mold that
+is adequate for laminating most hulls. The quality of 
+a mold is most important as the first two layers are
+laminated, when long staples are used to hold the
+veneers snug against it. Staples may be inserted
+anywhere in it, so a solid plug has a distinct advantage
+during this stage. One less elaborate way to build a
+strong, rigid planked mold is to laminate two layers 
+of 1⁄8" (3mm) veneer over an open, stringer mold.
+Production Boatbuilding Molds
+Production boatbuilding molds come in two varieties
+commonly referred to as male and female molds. Male
+molds have convex surfaces and female molds have
+concave surfaces. Parts built on male molds are smooth
+on the inside surface (for example, a cockpit liner) and
+rough on the outside. Parts built in female molds are
+smooth on the outside (for example, a cabin roof) and
+rougher on the inside.
+When producing hundreds of boat hulls, it is important
+to reduce labor costs, so these boats are built in female
+molds so that the outside of the part comes out of the
+mold finished. The opposite is true of parts built on 
+a male mold. The inside is smooth and the outside
+requires considerable labor to fair it and paint it.
+Hence, a male mold is useful only for one-of-a-kind
+boats.
+Female molds are almost always built on a highly
+polished plug because it is much easier to finish a
+convex surface than a concave surface. 
+Setting Up the Mold
+The first step in manufacturing the mold is to set up
+the frames and forms onto which you will assemble the
+longitudinal ribbands. The principles of construction
+and set-up for mold frames are discussed in Chapter 18.
+The materials used to construct the mold frames must
+be structurally adequate, cheap, and have an edge thick
+enough to receive a fastener so that you can attach
+222
+Hull Construction Methods
+Figure 20-1 Building female molds from a single plug. The fine polished finish on the plug transfers to the inside of the mold
+and to the outside of the finished part.
+Added framework and legs 
+Top (deck) mold half
+Plug
+Top and bottom mold
+halves are split at the
+widest point of the plug
+A temporary shelf
+attached to the plug
+gives a finished edge
+to the molds
+Bottom (hull)
+mold half
+Added framework
+and legs 
+
+--- PAGE 237 ---
+the planking easily. When making the mold frames,
+remember that you must not only deduct the planking
+thickness of the hull, but also the planking thickness
+that you will use on the mold. If the hull is to be 
+1⁄2" (12mm) thick and the ribbands are to be 3⁄4" (18mm)
+thick, you must deduct a total of 11⁄4" (30mm) planking
+thickness from the lofting in order to arrive at properly
+sized mold frames. Because of this unusually large
+deduction, you must pay careful attention to the
+planking thickness deduction procedure. (See 
+Chapter 16 for a detailed discussion of lofting.)
+Once you have properly set up the mold frames and
+completed final fairing, you can begin planking the
+mold. Although it is not always necessary, many
+molded hulls are built with provisions in the mold 
+to insert a permanent keel and stem which can be
+removed with the hull from the mold. It is relatively
+easy to insert a permanent keel into the mold and to
+attach the veneers permanently to the keel during the
+molding process.
+If the keel is to be 4" (100mm) wide, leave a gap along
+the centerline of the mold slightly over this width,
+allowing approximately 1⁄8" (3mm) clearance between
+each side of the keel and the mold. We run a perma-
+nent ribband, which we call a keel runner, along each
+side of the keel. This then becomes a joining point for
+all the rest of the ribbands on the mold that would
+intersect the keel at a diagonal angle. If the keel is
+thicker than the ribbands, recess the mold frames
+whatever extra distance is required so that the keel 
+will fair up smooth with the ribbands on the mold
+surface. (See Figure 20-3.)
+Installing a permanent stem is somewhat more compli-
+cated because you must construct the mold using an
+inner mold stem on which the permanent stem will
+repose during the laminating procedure. You need the
+inner mold stem as a point on which to attach the
+ribbands as they approach the bow stem area. This
+interior mold stem must continue on up to the keel
+area where the keel runners intersect so that every
+ribband running in from the hull can either connect
+with the inner mold stem or the keel runner. No
+ribbands can be allowed to end at the stem or keel area
+without being attached to one of these solid points. A
+difficult part of this installation is to determine the exact
+location and shape and size of the inner mold stem. To
+determine this information, you will have to go to the
+lofting board and work back from the outer stem area.
+The location of the permanent stem itself might be
+back a distance due to the effect of the planking and
+stem cap that protrude out in front. Thus, from the
+outer profile of the boat, you might have to deduct the
+stem cap and the permanent stem before determining
+Chapter 20 – Building a Mold or Plug
+223
+Figure 20-3  A mold with a recessed keel.
+Figure 20-2 A plug for a 32' (9.7m) catamaran is polished
+and waxed, ready for a mold to be cast. The mold for the
+upper surface will be female in the areas of the hulls and
+cabin top and male in the cockpit area.
+Notch so keel may
+sit fair with
+surface of mold
+Keel
+runners
+Keel
+Ribbands 
+faired and
+secured to mold
+Mold
+
+--- PAGE 238 ---
+the outer measurement of the mold stem assembly. (See
+Figure 20-4.)
+Even for molds where you will not be inserting a
+permanent stem, you will still need to recess the actual
+mold stem back further than the permanent stem
+would be, and you can easily deduct these measure-
+ments from the lofting board. You’re going to need
+some room for stem assembly, whether it remains
+attached to the mold or becomes a permanent part 
+of the laminated hull. For example, if you’re using 3⁄4"
+(18mm) square ribbands and they meet at the bow 
+on a mold stem that is shaped to a perfect point, the
+ribbands alone will still project a frontal flat area of 11⁄2"
+(36mm). Thus, you will have to add some material
+anyway, regardless of whether it will become a perma-
+nent part of the mold or the hull. This is a practical
+consideration to be thinking about when looking at the
+lofting board and determining your positioning of the
+mold stem piece. You should also keep in mind that a
+permanent stem should be large enough to offer suffi-
+cient surface area for a properly bonded joint. Thus 
+the size or depth of the permanent stem will affect the
+location of the mold stem.
+Planking the Mold
+The planking on both solid and stringered molds must
+bend in even, fair curves as it is laid over the mold
+frames. Knots and severe grain run-out will cause wood
+to bend unfairly or even to break, so use high quality
+lumber for stringers. When you consider the waste
+which results from irregularities in lower grade stock,
+high quality wood is really not significantly more
+expensive. We usually use clear redwood, cedar, or
+white pine for planking molds, but many other species
+work well.
+As soon as you have finished your lofting and before
+you set up your mold frames, decide the thickness of
+your ribbands. Subtract this measurement from the
+frames just as you subtracted planking thickness. Most
+commercially available lumber is already planed to 3⁄4"
+thick, so we usually use 3⁄4" square ribbands. If they will
+not bend easily over all curves, we laminate stringers
+from thinner pieces or shift them around until they lie
+well. If long boards are not available, we scarf the
+ribbands before fitting them. Ribbands may be joined
+with butt blocks, but we prefer scarf joints because they
+take only a little more time and do not result in hard
+spots.
+We begin planking the mold by identifying its most
+difficult curves. Some IOR racers, for example, have
+unusually curved shapes to fit a particular rule. Since
+these may be unnegotiable if approached from the
+wrong angle, we save time and trouble by running our
+first stringer so that it best negotiates all of them. This
+is the master ribband, and from it we align all of the
+other ribbands along the hull.
+As you progress up and down the hull, ribbands
+aligned with the master ribband may have to be reori-
+ented to conform to other shapes. If your planking runs
+primarily fore and aft, this problem is magnified by the
+difference between the girth of the hull’s fat middle and
+its thinner ends. Much more planking is needed in the
+middle of the hull than at its ends. 
+A simple solution to this is to leave larger gaps between
+ribbands at the center than at the ends of the hull.
+Slight variations in the distances between stringers will
+very slowly change the direction in which they run.
+This permits a gradual directional transition and allows
+the planking to bend more easily around more difficult
+curves. Be careful not to overdo this, however, because
+224
+Hull Construction Methods
+Figure 20-4 Lofting and set-up of a mold/stem assembly.
+The stem for this
+male mold must be
+lofted and built to
+support the inner
+face of the boat’s
+stem. All dimensions
+must be consistent
+with the lofted lines
+of the hull
+Sheer
+W.L.6
+W.L.6
+Inner face of stem
+Profile of stem
+Profile of stem
+cap or cutwater 
+Planking
+Cap
+Stem
+Keel profile
+Baseline/centerline
+Cap
+Stem
+Planking
+Mold
+stem
+Mold
+ribbands
+Profile of the boat’s hull
+Keel runner
+Ribbands 
+are faired over
+the molds and
+mold stem, then
+fastened securely
+Mold
+frames
+Mold stem
+Sheer
+
+--- PAGE 239 ---
+too much space between ribbands reduces potential
+stapling area and may compromise the rigidity of the
+mold.
+It’s easy to reinforce a mold when it seems to be too
+flexible. Short stringers can be inserted between longer
+ones, as shown in Figure 20-6, if the gaps between
+ribbands are too large. To provide additional support 
+to ribbands midway between station frames, bond and
+staple 2" (50mm) wide strips of thin plywood to the
+inside of the mold. If you use extraordinarily thin
+ribbands and therefore need additional reinforcement,
+two or even three of these strips can be evenly spaced
+between frames. A final and effective way to build
+rigidity into a weak stringer mold is to cover it with a
+layer or two of veneer and turn it into a solid mold.
+Fastening Ribbands to Mold Frames
+We generally fasten ribbands to mold frames with a
+staple gun and narrow crown wire staples up to 11⁄4"
+(30mm) long. Staple guns are fast and easy to use, and
+air-powered models will jar the set-up much less than
+hammering nails will. The staple gun automatically
+recesses staples about 1⁄8" (3mm) below the surface, 
+so they do not get in the way of fairing. This system
+successfully fastens planking up to 3⁄4" (18mm) thick.
+Nails are the second best fasteners for attaching
+planking. If you use them, drill your planks first to
+prevent splitting and to minimize the hammering
+needed to drive them home. Use finishing nails,
+recessing them to facilitate fairing. An air nailer with
+18-gauge brad nails up to 2" (50mm) long also 
+works well.
+You may also use screws to attach ribbands to mold
+frames, especially over sharp curves where additional
+holding power is needed. Always drill a lead hole with
+the proper size bit and countersink the screw. Self-
+tapping screws are the best choice if you are working
+with chipboard mold frames. We sometimes bond or
+nail pieces of scrap wood to both sides of chipboard
+frames, close to their edges, and staple or nail ribbands
+to these rather than to the chipboard. This technique
+may be quicker than drilling and inserting screws.
+If a mold is to be at all permanent or if it will be
+moved, we bond the ribbands to the frames with a
+mixture of high-density filler and WEST SYSTEM® epoxy.
+Occasionally, we do this after installing the ribbands,
+running fillets on both sides of the joint between the
+ribband and the mold frame. When we lay veneers 
+over mold frames to make a solid mold, we edge-glue
+them and make the entire mold a rigid, monocoque
+structure.
+If you are building a mold for use with the vacuum bag
+method of applying pressure, your prime requirement 
+is that the mold be airtight. You must maintain this
+airtightness even though you have driven staples into
+the mold and removed them numerous times. You need
+a few staples to hold the veneers in general position
+Chapter 20 – Building a Mold or Plug
+225
+Figure 20-5  The ribbands for this 26' (7.9m) mold were run
+parallel to the sheer and butted along the centerline of the
+keel.
+Figure 20-6 A ribband mold for an IOR 1⁄2 ton racer. Note
+the use of shorter ribbands to fill gaps between full-length
+ribbands. The skeg shown was laminated out of veneers
+beforehand, then secured to the mold. The veneer used to
+plank the hull was bonded to the skeg. This was done to
+save the extra expense and time of molding such an
+extreme shape during general laminating.
+
+--- PAGE 240 ---
+until you can apply the vacuum bag. This means that
+the mold material must be reasonably thick. We have
+built ours using edge-glued strip planking over which
+we diagonally bonded one layer of 1⁄8" (3mm) veneer.
+This made a substantial mold, which held up well after
+manufacturing many units. For vacuum bagging, you
+should install a flange on the mold below the actual
+sheer clamp area, extending out approximately 2"
+(50mm) around the entire perimeter of the mold. The
+flange serves as a point where you can seal off the
+vacuum bag itself, and also provides an apex area
+where the flange meets the mold surface so that you
+can install piping with which to remove the air between
+the vacuum bag and the mold. If any permanent stems
+or keels are to be inserted into this type of mold, pay
+attention to these recessed areas to make sure that no
+air leaks at these points.
+Whatever type of mold you build, you must complete
+final fairing prior to beginning the lamination process.
+Any unwanted humps or hollows will tend to be dupli-
+cated in the laminating process, and you are far better
+off removing them from the mold than trying to do it
+later by removing needed material from the hull or
+adding unwanted extra weight in filler material. Use 
+the same final fairing techniques described for hulls in
+Chapter 21 to fair the mold surfaces.
+Finishing the Mold
+When you have completed the final fairing, it’s time to
+pay attention to several other items. Sheer measure-
+ments are still located on the mold frames and ultimately
+will be transferred to the hull itself. The easiest way to
+do this is to run a ribband directly on the frame marks
+that define the sheer. This will be a straight, accurate
+edge you can use later to scribe the hull before lifting 
+it from the mold. Because laminating pressure will be
+needed a bit beyond the actual sheer, add ribbands
+beyond this line. Usually an additional 1" or 2" (25mm
+or 50mm) of stringers is adequate. Leave a 1⁄4" to 1⁄2" 
+(6mm to 12mm) gap between the sheer stringer and 
+its neighbor to make room for marking the hull.
+Another method for marking the sheer is to drill small
+marking holes through the mold at each mold frame
+sheer measurement point prior to laminating the hull.
+This procedure leaves a little to be desired if you are
+trying to maintain exact tolerances, but you can line up
+these holes and check them on the mold using a lofting
+batten to see whether they form a reasonably fair sheer
+line. If they are accurate, drill through the pilot hole
+into the completed laminate to transfer the sheer
+measurements and then use the lofting batten to
+complete the sheer measurement on the laminated hull
+by connecting all of the drilled holes after you remove
+the hull from the mold.
+If you are going to insert a permanent keel and stem
+into the mold, you must laminate them (if needed) and
+226
+Hull Construction Methods
+Figure 20-7  An epoxy/low-density filler mixture was applied
+near the bow for fairing.
+Figure 20-8  A marking gauge and batten arrangement for
+transferring the sheer line from the mold to the hull.
+Planking
+Mold
+ribbands
+Sheer
+height
+These
+ribbands
+must be
+positioned
+accurately
+Marking gauge
+
+--- PAGE 241 ---
+saw them to shape. You might even prefinish them on
+that part that would show on the interior of the com-
+pleted laminated hull, saving some time later on. It is
+usual to scarf and join together the keel/stem complex
+right in the mold and final fair them after they are
+solidly secured in position. Hold them in this secure
+position by installing screws from the interior of the
+mold, usually through a cleat that is attached to the
+mold frame. Locate these screws in an easy access area
+so that you can back them off when the hull is com-
+plete and ready for removal from the mold. Complete
+the final shaping and fairing of the keel/stem complex
+to the mold surface, using the techniques that we have
+explained in Chapter 19.
+With some types of laminated hulls, it is also possible
+to include the permanent transom in the mold set-up.
+You can only do this if the transom does not have any
+reverse slope or if the hull does not have any reverse
+slant. Either of these would prevent removal of the
+laminated hull from the mold. It is rather easy to install
+a permanent transom by temporarily attaching it to the
+mold transom, to which the ribbands are already
+attached. The transom might be prelaminated or might
+simply be a sheet of plywood. You may have laminated
+on some additional cleats to create more bonding area,
+which should not cause any problems. Once you have
+positioned the transom, fair it off flush with the general
+mold surface, just as was done with the keel/stem
+complex. When permanent transoms are not set in, it is
+usual to extend the mold transoms an 1" or 2" (25mm
+or 50mm) to allow a little extra length for trimming.
+Prior to beginning any laminating over a mold, take
+steps to ensure that you will be able to remove the
+laminated hull from the mold when it is complete. To
+prevent any bonding of the laminations to the mold, we
+generally cover the entire mold surface with a layer of
+polyethylene sheet, usually 4 to 6-mil thickness, using a
+new sheet for each hull produced. For molds that do
+not have any permanent keels, stems, or transoms
+inserted, it is a simple matter to cover the entire mold
+with plastic. For molds that do have these permanent
+inserts, you must insert the plastic around these struc-
+tural members so that permanent bonding between the
+laminations and the permanent members can take
+place. Usually you can tuck the polyethylene sheet film
+in between the slight gaps that will exist between the
+permanent members and the mold itself. If this is
+somewhat difficult, relax the screws holding these
+permanent members in place just a bit so that you can
+insert the plastic under or beside them. This will
+provide the necessary barrier so that you do not bond
+the lamination members to the wrong part. When you
+have completed this step, you are ready to begin the
+process of building the laminated hull with the mold
+method.
+Chapter 20 – Building a Mold or Plug
+227
+
+--- PAGE 242 ---
+228
+Hull Construction Methods
+
+--- PAGE 243 ---
+This chapter describes in detail the process of laminating layers of thin wood veneer over a mold or plug
+such as those described in the previous chapter. The process of laminating veneers is more commonly
+known as cold molding, and what follows is one of the best available descriptions of the process. While
+popular in the early years of wood/epoxy construction, the cost of building a throw-away mold, the inability
+to include interior structure in the set-up, and labor required make cold molding less attractive than other
+methods of boat construction. Cold molding is still utilized in conjunction with strip plank construction on
+larger boats.
+When the mold is faired, it’s time to begin planking.
+Your plans will specify the number of layers of veneer
+or plywood the hull requires. Although this count may
+vary from project to project, laminating techniques do
+not. A hull may be made of sliced veneer, plywood, or
+stock which you have sawn yourself. In this chapter, for
+simplicity, we use the term veneer to refer to all of
+these materials.
+The general procedure for laminating hulls over a mold
+is not complicated. If your wood doesn’t have a single
+straight edge, you will have to cut one. Then spile each
+piece, trimming it so that it lies true against its neighbor
+at a desired angle, apply thickened epoxy, and staple it
+to hold it in place until the epoxy has cured.
+The first layer of a laminated hull is the most fragile.
+Edge glue its pieces and staple them directly to the
+mold. Carefully remove excess adhesive and staples.
+Use thickened WEST SYSTEM® epoxy to laminate a
+second layer of wood at an angle to the first and staple
+through the first layer to the mold. Continue laminating
+in this way, stapling subsequent layers to each other but
+not to the mold until the hull is as thick as you want it.
+Fair it, finish it, and remove it from the mold.
+Preparing the Stock
+You can use any of several different types of wood to
+laminate your hull. In most cases, boatbuilders use 1⁄8"
+(3mm) commercially sliced veneer, but you may choose
+plywood or saw the lumber yourself. The first step is 
+to make sure that every piece has one straight and true
+edge. Later in this chapter, when we discuss spiling, 
+the reasons for this will be apparent.
+Plywood has a manufactured straight edge accurate
+enough to require no further trimming. Veneer,
+Laminating Veneer Over a Mold or Plug
+C H A P T E R
+21
+Figure 21-1 A method for cutting a straight edge on veneers.
+Clamp
+1" X 8" Straightedge
+Veneer
+Rough edge
+Circular saw
+Sawn edge
+Veneer
+2" X 12" Base
+
+--- PAGE 244 ---
+however, usually arrives with rough sawn edges, which
+must be straightened. Over the years, we have devel-
+oped a quick and easy way to work on a number of
+pieces of veneer, up to 17' (5m) long, at one time. 
+We set up our cutting jig on three sawhorses, storing 
+it when it’s not needed.
+Lay four to eight pieces of veneer on a 2"  12" (38mm
+ 286mm) plank so that their rough edges are slightly
+inboard from the plank’s edge. Make a straightedge
+from a piece of clear 3⁄4"  8" (18mm  200mm)
+stock, carefully dressing the edge for overall straight-
+ness. Position this on top of the veneers to serve as a
+guide for a hand-held circular saw. Try to waste as little
+wood as possible, but place the straightedge far enough
+back from the edges of your veneers to guarantee that
+you will be able to transfer a straight line to all your
+pieces. Sandwich the veneers between the straightedge
+and the plank and hold the assembly with large clamps
+at either end. Tighten the clamps so the veneers can’t
+shift.
+Set your circular saw blade deep enough to cut through
+all the veneers. A little overcut into the plank is accept-
+able. Run the saw along the stack, as shown in Figure
+21-1. When your pieces have one accurate edge, cut
+parallel straight edges on their other sides. The easiest
+way to do this is to run the veneers through a table saw.
+Some very long veneers taper significantly from one
+end to the other. Truing these up results in a lot of
+waste, especially since you can use them for interior
+layers of the laminate by alternating the tapered ends
+from piece to piece so that there is no angle change.
+When we receive tapered veneers, we use our straight-
+ening jig on both sides rather than just on one.
+Two factors determine the width of laminating material:
+the amount of compound curve in your hull and how
+you want your boat to look. You can use much wider
+pieces of veneer at the ends of your boat, where there 
+is less compounding, than in its middle sections, where
+curvature is likely to be more severe. Most people
+prefer uniform veneer widths on naturally finished
+interior and exterior surfaces, but this is not particularly
+necessary. Thin pieces or, less commonly, wide pieces,
+can be very pleasing to the eye when arranged so that
+their colors contrast.
+Most commercial veneers are between 5" and 12"
+(125mm and 300mm) wide after straightening. Wait 
+to saw them into thinner strips until you have experi-
+mented enough to know which width will bend and
+look best on your hull. It’s a shame to saw 12" (300mm)
+wide veneer into three 4" (100mm) strips when two 6"
+(150mm) strips may bend just as well with much less
+labor. You will find out very quickly if your veneers 
+are too wide. If they are, the edges will be increasingly
+difficult to hold down as the pieces resist bending in
+two directions at once.
+Sort the veneers into piles according to their quality and
+color. Collect your finest pieces and save them for your
+first and last laminations, particularly if you plan to
+bright-finish your hull. Further sort this pile into dark,
+medium and light-toned pieces. Some woods, such as
+Douglas fir and Sitka spruce, show very little color
+variation, while others, including Western red cedar
+and some of the mahoganies, have a great deal. Knotty
+veneers can be used on all but the first and last layers.
+In most cases, 25% of the material you purchase will
+end up as scrap and only 75% will actually become
+part of your boat. Most waste is in length because small
+cut-off ends are almost useless. It makes sense, there-
+fore, to try to reduce your scrap rate by ordering veneer
+in the most economical lengths for your project. If you
+do this, however, you may find that your supplier is
+unable to fill your order. He probably doesn’t have
+much control over the lengths of wood he purchases.
+The opposite approach—making decisions based on
+what is available—is usually more successful. A typical
+boat hull requires a range of veneer lengths, from very
+short to very long. These dimensions depend to some
+extent on the angle at which you laminate. You may wish
+230
+Hull Construction Methods
+Figure 21-2  A ribband mold for a 1⁄2-ton racer showing
+alignment markings for various veneer layers.
+
+--- PAGE 245 ---
+to work with this angle and your stock until you find
+the most efficient use of the veneers you have on hand.
+You can greatly cut down on scrap by butt joining or
+scarfing shorter pieces of veneer. In thick laminates,
+butts are perfectly acceptable as long as they are
+staggered across and through the structure. Wood is
+many times stronger in tension than it is in compres-
+sion, and a properly bonded butt joint can transmit
+100% of all compression loads. Wood’s excess tensile
+strength permits the use of butt joints with a good
+degree of safety in a hull with many laminations.
+When a hull has only two or three layers of veneer,
+however, we recommend that you choose 8-to-1 scarf
+joints instead of butt joints. Use the Scarffer™ attach-
+ment and the plywood scarfing techniques described in
+Chapter 12 to cut your bevel. Assemble and bond the
+joint right on the mold. For accurate fits of both butts
+and scarfs, remember to cut the ends of your veneers
+exactly flush at right angles to their straightened sides.
+Inserting and Removing Staples
+Successful lamination is closely related to your expertise
+with a staple gun. Staples are used on every layer to mold
+veneers in place until the epoxy has cured, so you will
+shoot and remove a great many of them. Master several
+easy techniques before you take aim at your hull.
+There are several things to think about as you staple
+layers of veneer: the orientation of the staple with respect
+to the grain of the wood, the pressure pattern applied
+by each staple, and if and how you will extract the staple.
+As you work you exert pressure, which the staple
+maintains.
+For maximum holding power, always insert staples so
+that their crowns are perpendicular to the grain of the
+wood. This will also reduce any damage the staples may
+do to wood fiber, so it will save some filling on the last
+layer. Staple holes parallel to the grain are much less
+noticeable than those which run across the grain.
+Chapter 21 – Laminating Veneer Over a Mold or Plug
+231
+Figure 21-3  Veneers in interlaminate layers of this laminated hull are butted randomly. This reduces scrap and eases lay up
+without sacrificing the strength of the hull. Note the final layer of veneer being laid fore and aft at the lower left.
+
+--- PAGE 246 ---
+When a staple is inserted into a piece of veneer, it creates
+an oval area of pressure, but when it is inserted into a
+piece of plywood, the pressure area is more circular.
+These patterns are caused by the direction of the wood
+fiber: plywood is bidirectional, so pressure is distrib-
+uted more evenly than it is in unidirectional veneer. The
+shapes of these pressure areas determine the most effec-
+tive stapling patterns to use in laminating. We
+recommend the patterns shown in Figure 21-4 for use on
+the flat sections of a hull. Note that plywood usually
+requires fewer staples than veneer.
+Planking thickness and the curve to which you are
+bending your wood may also affect the number of
+staples needed for good bonding. Thin veneers require
+more staples than thicker planking. At the midpoint of
+a heavily curved hull, a veneer’s natural resistance to
+bending exerts a good deal of pressure, so you can
+insert relatively few staples. At either side of this sharp
+curve, however, the veneer will tend to bend away from
+the mold and more staples will be necessary. Sometimes,
+for particularly sharp curves, you may want more pres-
+sure than can be exerted by the staples you’re using. In
+these situations, use longer staples or hammer nails
+through a heavy strip of wood to distribute pressure.
+We generally begin a stapling pattern in the center of a
+veneer. Applying pressure here first helps to work
+excess epoxy out towards the edges. If you staple edges
+and then centers on any but the first layer, you may
+trap pools of epoxy in the center of the veneer, and this
+may cause it to become unfair. When you apply unusu-
+ally wide pieces, it is especially important to work out
+from the center because this is the only practical way to
+move excess epoxy from within the lamination.
+We usually use 3⁄8" (9mm) or 1⁄2" (12mm) long wide
+crown staples to fasten the first two layers of 1⁄8" (3mm)
+veneer to the mold. These staples must be removed
+before new laminations are installed or it will be very
+difficult to free the hull from the plug. We also often
+extract staples used to attach veneer to permanent
+232
+Hull Construction Methods
+Figure 21-4 Recommended stapling patterns.
+Staple veneer in staggered
+rows roughly 11⁄2" (38mm)
+apart with the staples
+spaced 2" (50mm)
+in the rows.
+Pressure under a staple will vary from veneer to plywood.
+Due to its grain, veneer will produce an exaggerated oval
+pressure area. Plywood because of its balanced lamina-
+tions will have a more circular pressure distribution.
+The thickness of the planking
+as well as the curve you are
+bending it to will affect the
+stapling pattern.
+Obviously common sense will dictate
+the stapling pattern. The basic
+intent should be to prevent flow 
+of the epoxy under the veneer
+causing lumps and ridges. 
+The more staples you put 
+in, the more staples you 
+will have to remove.
+Thick planking and areas
+of severe curve (unless
+compounding occurs) will
+need less.
+Veneer
+Staple plywood in a
+rough 2" grid
+Plywood
+Thin veneers and flat areas
+or sections with reverse
+curve will need more staples.
+
+--- PAGE 247 ---
+members such as the stem and keel, although these
+may be left in place if corrosion-resistant types are used.
+From the third layer on, we use shorter staples, say 3⁄8"
+(9mm) or 5⁄16" (8mm) long for three layers of 1⁄8" (3mm)
+veneer, because we are no longer stapling into the
+mold. Since these staples will not penetrate beyond the
+first layer and will not interfere with the mold, they do
+not have to be extracted. We do, however, pull out
+staples used on the final, exterior lamination.
+You can use steel staples, but plan to remove them. If
+you don’t want to pull them out, use Monel or plastic
+staples (plastic staples require a special staple gun). We
+have left steel staples in our own boats with no problems,
+but steel staples may rust if the hull or the protective
+coating around them is damaged. Monel staples are
+more expensive than steel, but their cost is more than
+offset by the reduced risk of corrosion and by the labor
+savings which result from leaving staples in place.
+If you use Monel staples and do not remove them, be
+sure to adjust your staple gun so that it shoots the
+staples slightly recessed into or flush with the veneer.
+Otherwise, difficulties can develop when you try to fair
+the surface in preparation for the next layer of wood. If
+protruding staples interfere with laminating, grind them
+flush with power tools when you rough fair your hull.
+As you build, you will remove a good many staples. To
+make this job easier, staple through a strip of material,
+leaving a tail you can grasp to yank out your fasteners.
+For most applications, we use inexpensive 1⁄2" (12mm)
+wide, .030" (.8mm) thick plastic banding tape. We 
+cut this to length, usually 3' to 6' (1m to 2m), tuck 
+the pieces in our belts, and pull them out as needed,
+perhaps four or six strips on a 6" (150mm) wide
+veneer. When our veneers are very long, it’s more
+efficient to cut and handle strips that are half the length
+of the veneers. The plastic is so strong that even when
+we staple through it, we only have to tug at it to pull it
+and many staples free. We remove staples from our
+banding and reuse it.
+Chapter 21 – Laminating Veneer Over a Mold or Plug
+233
+Figure 21-5 More staples are necessary to hold down thin
+veneers in a reverse or concave area near a skeg. Note the
+reasonably regular stapling patterns employed on planking in
+the foreground.
+Figure 21-6 Recommendations for staple length.
+Figure 21-7  Stapling veneer plank to a hull’s stringers. Note
+the use of plastic strips under the staple heads to ease
+removal.
+First 2 layers of veneer will require
+longer staples to hold the planks
+together and to the molds
+Planking veneers
+The third layer of veneer
+should only require 3⁄8" or
+5⁄16" staples to hold it down
+to the previous layers
+This should reduce the number
+of staple holes punched
+through the inner layer
+
+--- PAGE 248 ---
+At times, particularly on final layers of laminate, other
+materials serve better than plastic banding. Wooden
+mixing sticks, scrap veneer, thin rippings from sawn
+stock, and thin plywood can make very good stapling
+strips. These pieces are heavier than plastic and they
+distribute pressure over greater area, so fewer staples
+may be needed. The biggest problem with using them
+is that they tend to bond to the veneer when epoxy
+squeezes out through openings or cracks. When this
+happens, use an offset paring chisel to carefully peel off
+the strip. Prevent wood strips from sticking by laying
+down 6 mil plastic strips prior to stapling.
+Wood stapling strips are also useful for preventing
+damage to veneer. When you use plastic banding, each
+staple is likely to leave a small, hard-to-sand indenta-
+tion, which may discolor slightly after coating. The
+process of removing staples can also mar the surface 
+of veneer, and wood stapling strips provide some
+protection against this.
+The special care required for removing staples from the
+first and last layers of veneer is described in other parts
+of this chapter. All staples in all layers, from the second
+layer on, may be removed within hours after they are
+applied. In fact, it’s much easier to pull them out when
+epoxy is partially cured but strong enough to hold
+veneers by itself, so we recommend that you attempt
+this at the earliest possible moment. When your epoxy
+is fully cured, staples are much tougher to remove and
+you will spend a lot more time on the job.
+Depending on which hardener you use and the temper-
+atures at which you are working, start removing staples
+4 to 7 hours after applying a layer of veneer. It’s easy to
+determine the partial cure stage. Check epoxy that has
+squeezed up between veneers. If it is generally hard to
+the touch but you can dent it with your fingernail, it’s
+ready. If you have used banding tape, pull its end
+directly up and away from the hull. Many of your
+staples will remain embedded in the tape.
+Staples remaining in the hull often dangle by one leg.
+Pull these out with a pair of pliers. Some, especially
+those that are at a bad angle, may tear through the
+stapling strip and remain in the lamination. These will
+have to be removed by hand, but since tugging on the
+strip usually lifts them a little, there probably will be
+gaps between the hull and their crowns into which you
+can insert a staple-pulling tool.
+Where no gap exists, staple removal is a little more
+difficult, and a well-designed staple remover comes in
+handy. Although the principles are simple and variations
+234
+Hull Construction Methods
+Figure 21-8  Various staple removers.
+Bauman’s artfully
+reworked bearing
+scraper
+Store-bought tack
+puller – nice but
+needs customizing
+Rather tedious store-bought
+stamped-out model
+Jaws must be re-ground
+Much revered parrot’s-beak pliers
+Compression
+spring to make
+things more
+enjoyable
+Taped handles
+Awl- short and bent
+Rebuilt 1⁄4" wood chisel – rounded and
+smoothed, this one is easy to sharpen
+
+--- PAGE 249 ---
+on them are potentially endless, we have been able to
+find only one effective staple removing tool, a model
+designed for upholsterers manufactured by the Stanley
+Tool Company. A good tool should have a very sharp,
+hardened steel point which inserts easily under the
+crown of a staple, and it should have a fulcrum
+immediately aft of this point which is wide enough 
+to prevent damage to the wood. You should be able 
+to rock the handle to extract the staple with minimal
+effort. Figure 21-8 shows some of the tools we have
+built in the shop with these design criteria in mind.
+You can modify a large screwdriver by grinding its end
+to a sharp wide edge and by grinding a curve on one
+side so that there is some rocker on the side opposite
+the edge. If, after grinding, you find that your fulcrum
+is too small, try bending the screwdriver slightly. A
+well-hardened screwdriver may not permit this, in
+which case you can bond a piece of wood or add 
+thickened epoxy to build up the fulcrum. Your staple
+remover will receive a lot of use, so it’s worth the time 
+it takes to make a good tool that works easily and well.
+Applying the First Layer of Veneer
+The first layer will become the interior of your boat, so
+select its veneers with great care and present the finest
+grain and color you have. We almost always naturally
+finish interiors because they are beautiful and practical
+when done this way.
+Begin by placing a master veneer in the middle of the
+mold. If you start here, you can plank toward the stem
+and toward the transom simultaneously. If two people
+or teams are available, they can work in opposite direc-
+tions. Because your angle is in the middle of the hull,
+it’s easier to maintain as you apply veneers. There is no
+set rule for the angle of the first layer, but 45° is good
+for starters.
+Mark the angle of the first veneer on the polyethylene
+mold cover. Set your sliding bevel at the desired angle,
+place it on top of a level, and position both tools next
+to the hull. Move the level until its bubble is centered 
+in its markings and transfer the angle from the bevel
+square to the mold. Make a mark just long enough to
+indicate the placement of the first veneer. Then hold 
+the veneer on the mold and draw a line all the way
+across the mold surface to show its exact position.
+If you are installing the master veneer on a mold which
+has an inset permanent keel, apply an epoxy mixture
+thickened with 404 High-Density Filler to both the keel 
+and veneer surfaces to bond it in place. Clamp well
+with staples. Hold the veneer in position on the rest 
+of the mold with as few staples as necessary. To fasten
+Chapter 21 – Laminating Veneer Over a Mold or Plug
+235
+Figure 21-9  Fitting the first layer of cedar veneer for a
+laminated hull. The plank is secured in the middle, then the
+ends are adjusted and fitted to an adjoining plank.
+Figure 21-10 Applying epoxy to the edge of a previously
+fastened plank.
+
+--- PAGE 250 ---
+1⁄8" (3mm) veneers, we usually use 3⁄8" (9mm) long wide
+crown staples and an air-powered, electric-powered, or
+hand-powered staple gun. If these staples won’t hold
+the veneer, try 1⁄2" (12mm) long staples.
+When the master veneer is in position, fit the veneers
+on either side of it. Because of the hull’s compound
+curvature, these will not butt perfectly. Your next step
+will be to trim or spile the planks so that they fit well
+and lie flat without distorting.
+Spiling
+The goal of spiling is to taper the ends of a piece of
+veneer. The amount of spiling necessary for any hull 
+is in direct proportion to the extent of its compound
+curvature. Trim and fit your first layer by hand, and
+remember that your craftsmanship will be on display
+whenever anyone looks at the interior of the hull.
+A typical veneer will taper more at its top and bottom
+and less towards its middle. A scant 1⁄8" (3mm) of wood
+may have to be trimmed from the ends of veneers for a
+long, thin hull, since its planking will taper gradually in
+a slight curve toward the middle. A full rounded hull,
+on the other hand, may require planking that tapers
+strongly, so you may have to cut an inch or more off the
+ends of veneers for this type of design.
+To begin spiling, use a staple gun to lightly tack a new
+veneer as close as possible to the master veneer. The
+two pieces will usually almost fit at their ends, but
+there will be conspicuous gap in the middle. The
+reason for fitting the veneer at this point is to mark it
+and to make sure that it has a proper lay. Figures 21-11
+and 21-12 suggest guidelines for evaluating this.
+Proper lay is especially important when you spile longer
+veneers. As they get longer, it becomes easier to position
+them so that one end is tighter to the mold than the
+other. If you mark a plank with an improper lay, the
+error will show up when you permanently install it. It
+takes a bit of experience to get the feel of what will and
+will not work.
+If one edge of the middle of the veneer is tighter to the
+mold than the other, correct the problem by moving
+the ends until both edges are an equal distance from it.
+To further check the lay, clamp the middle section of
+the veneer to the mold with several staples and move
+the free ends slightly back and forth until you find the
+natural, neutral position that each will take. Temporarily
+position the ends with a couple of staples and mark the
+piece for trimming.
+Use a scribe or a compass, as shown in Figure 21-14, 
+to mark the veneer. For greater accuracy, especially on
+heavily compounded hulls, you can make a special
+spiling marker. Whichever tool you use, set it to the
+maximum distance between the two veneers, using the
+edge of the master veneer as a guide. Draw a line of this
+236
+Hull Construction Methods
+Figure 21-11  Guidelines for evaluating the proper lay of planking. (1) Planking laid too close to plumb will not show
+compounding, but may break when bent around the bilge. (2) Planking laid at too low an angle will bend easily around the bilge,
+but may develop more severe compounding, resulting in lumps between the staple lines along the stringers. This compounding
+depends on the relationship between the bend around the curve of the bilge and the bend required along the fore and aft axis,
+“X”. (3) By experimenting with the curvature at different angles, one can arrive at an angle that will bend easily around the bilge
+without excessive compounding.
+
+--- PAGE 251 ---
+distance on the temporarily fastened veneer all the way
+from keel to sheer. Remove the marked veneer and trim
+it to the line with a saw and plane.
+Finally, trim veneers with a hand-held block plane. In
+instances where you don’t have to remove much stock,
+this may be the only tool you need. If you set the plane
+blade a little deeper than you would normally, you can
+remove material very rapidly.
+When it is trimmed, position the newly spiled veneer
+next to the master veneer on the mold for a final check.
+You can usually hold it in place with your hands and
+knee. If you marked and cut accurately, the veneer
+should fit. Mark any humps or gaps on the edge with a
+pencil, remove the piece, and lightly touch it up with
+the plane. The first and last layers of veneer will be
+visible and should fit well everywhere, but you can
+leave 1⁄16" to 1⁄8" (1mm to 3mm) gaps between interior
+veneers.
+After you have fit the first plank, you will find that spiling
+the next series of veneers is very similar: about the same
+amount of wood will have to be removed from the same
+areas for a good fit. As you become more experienced,
+you will be able to anticipate the amount of material to
+be removed. The job will progress much faster as it
+becomes more repetitive, and you will soon see that you
+can position a piece for marking in a short time. A
+straight, true edge on the veneer is important because 
+a crooked edge will mislead you and slow progress.
+As you fit veneers for the first layer, staple them to the
+mold and bond them to any permanent members just
+as you did with the master veneer. Be careful not to lose
+your veneer angle. If you spile too much off the top or
+bottom of a series of veneers, the angle will change in
+that direction. Although a few degrees is not worth
+worrying about, correct any substantial deviation by
+installing a tapered veneer to restore your original angle.
+Although it takes a little extra time, there are good
+reasons to edge glue first layer veneers. Edge gluing
+Chapter 21 – Laminating Veneer Over a Mold or Plug
+237
+Figure 21-12 Guidelines for edge setting. In some cases during fastening, a person may try to force or edge set poorly spiled
+and fitted planks as in (1). This edge setting subjects the plywood to stresses in such a way as to distort it along the plank’s
+edge, lifting it off the stringer, mold or previous layers of veneer, as in (2) where lumps are formed as the planking is stapled to
+the stingers. Minor lumps can be stapled flat, but severe ones will not go away. Proper initial fitting is the best solution, as no
+edge setting is needed. However, if a poor fit finds its way into the planking job, the solution is to fasten the plank flat, ignoring
+the edge fit and relying on the gap-filling qualities of the epoxy mixture to fill the void.
+Figure 21-13 Fitting a veneer against a previously bonded
+plank.
+
+--- PAGE 252 ---
+prevents epoxy from running out between the edges of
+the first layer as the second layer is applied and in this
+way contributes to the quality of an interior surface. 
+If the epoxy hardens, it will be more difficult to sand
+than uncoated wood, and bumpy surfaces may result.
+Precoating the veneers to avoid unevenness is imprac-
+tical since many staple holes will have to be coated and
+filled anyway. A second advantage of edge gluing is that
+it makes the first layer more rigid, so fewer staples are
+required to hold the veneers in position.
+To edge glue the first layer of veneer, add 407 Low-
+Density Filler to epoxy for a mixture with gap-filling
+consistency. Apply the minimum amount of adhesive
+necessary to the edges of the veneers. Clamp with
+staples, using a thin wooden batten or pieces of scrap
+veneer to distribute pressure over the entire length of
+the joint. Be sure to cover the stapling sticks with
+plastic so they won’t stick to the veneers.
+Applying WEST SYSTEM Epoxy
+Structural, gap-filling adhesives make it possible to
+laminate hulls with little clamping pressure. Low-
+pressure laminating procedures do have a few predictable
+trouble spots, but you can avoid these by properly
+applying WEST SYSTEM epoxy and filler mixtures between
+layers of veneer. If you have not yet done so, read over
+the laminating section of Chapter 11 to be certain that
+you understand the procedures outlined there.
+No matter how well you staple the wood, you may end
+up with less-than-contact pressure in some areas.
+Voids—air pockets between layers of veneer—are there-
+fore an ever-present problem. The key to eliminating
+them is to use a high-viscosity epoxy mixture and to
+apply slightly more of it than you really need. If you do
+this, voids will usually be filled solidly with epoxy. WEST
+SYSTEM epoxy can safely span reasonably large areas and
+make them as strong as any other part of the laminate.
+Without fillers, epoxy is too thin and runny to be used
+in laminating. Increase its viscosity and reduce its
+density by adding WEST SYSTEM 407 Low-Density Filler.
+This mixture is ideal for use between layers of veneer
+and also somewhat cheaper by volume than epoxy
+alone. Filler slightly retards epoxy penetration and
+reduces the possibility of an epoxy-starved joint. A side
+benefit of this mixture is that it is easier to sand than
+regular epoxy and so saves time when you clean and
+fair between laminations.
+Mixtures of WEST SYSTEM epoxy and low-density filler
+are almost always well above grain strength, but if you
+are using veneers from high-density woods, you may
+want to use a high-density filler. 407 Low-Density Filler
+may be inadequate for wood with high grain strength.
+Stir either filler into the epoxy to the consistency of
+heavy syrup. The mixture should be thin enough to
+apply with a foam roller or a notched squeegee. It 
+must be able to spread easily within the laminate as 
+you apply pressure and flow to areas where it is most
+needed to fill gaps. You also want excess adhesive to
+work its way to the edges of the veneer, where it can
+escape to the surface.
+238
+Hull Construction Methods
+Figure 21-14 Scribing with a compass.
+Figure 21-15 Applying an adhesive epoxy mixture to the
+edge of a cedar plank.
+Compass or scriber
+should be kept level
+or parallel with some
+reference line
+It should not pivot 
+along the edge being
+scribed
+
+--- PAGE 253 ---
+There is an optimum quantity of adhesive for most
+laminating situations. If you use too little, there may not
+be enough epoxy between the veneers to fill voids and
+gaps. Too much mixture, especially if it is too thick,
+may form puddles. When these develop, the veneer
+may bulge and you may have a bump in the hull,
+which you’ll have to fair smooth. Using too much
+epoxy is expensive and messy.
+Two factors determine the quantity of epoxy to apply.
+The first is the quality of the laminating surfaces. If the
+veneers are rough and the surface not particularly fair,
+you will have more voids and more need of a gap-filling
+adhesive. The amount of pressure and the type of
+curves in the hull also affect application rates.
+Usually, a spread rate of about 20 square feet per pound
+(4m2/kg) of epoxy, before adding fillers, is adequate for
+rough surfaces. A rate of 30 square feet per pound
+(6m2/kg) is possible with better surfaces and adequate
+pressure. If in doubt, start out using a little bit too
+much adhesive and then adjust downward, using a little
+less with each veneer until you reach a good rate.
+It is essential to apply enough epoxy mixture to the
+veneer, but it is just as important that this be spread
+evenly over the entire surface area. Even distribution
+helps to prevent dry spots. We use both foam rollers
+and notched plastic spreaders to ensure even distribu-
+tion. Techniques for using these simple tools are
+described in detail in earlier chapters. Although the
+squeegee is a little harder to get used to and can be
+messy if you’re not careful, it is better at spreading a
+predictable amount of adhesive on a surface. It is also
+superior if the adhesive mixture is so thick that it is
+difficult to apply with normal rolling methods.
+Pour adhesive directly from its mixing pot as evenly as
+possible along the surface to be coated, and move it
+around with an 809 Notched Spreader until the entire
+area is evenly covered. Remove any excess epoxy from
+the wood and transfer it to the next veneer.
+If you are using an 800 Roller Cover, you can either
+pour the epoxy directly from the pot onto the veneer or
+put it in a pan first and then pick it up with the roller
+to apply it. Maintain a relatively even coating thi

@@ -1,0 +1,1782 @@
+arge of static electricity or a spark from a
+combustion engine, light switch, or power tool. Some
+fine powders and fillers can generate enough static 
+electricity to ignite a flammable atmosphere. When
+handling large quantities of powdered material, keep
+airborne concentrations to a minimum and use
+grounding devices on transfer equipment.
+Common Shop Dusts
+As mentioned, dust from partially cured epoxy is a
+hazard and should be avoided. It can cause respiratory
+problems if inhaled and dermatitis if allowed to settle
+on skin. However, dust from fully cured epoxy is inert
+and considered a nuisance dust. 
+Inhalation of any dust in excessive quantities will cause
+bronchial congestion. The world is full of dust and
+normally our respiratory systems deal successfully with
+large volumes of it. Mucus in our lungs attracts foreign
+particles, which are moved up and out on fine hairs
+called cilia. We can withstand incredible abuse, but
+there are limits. Smoking, dry air, and high dust
+concentrations all strain our bodies. If two or three
+of these stressors combine, the burden becomes too
+great, and significant health problems may develop. 
+Dusts from minerals, such as asbestos and crystalline
+(not amorphous) silica, are dangerous because of their
+shape, which makes them difficult to expel from the
+lungs. This is also true of airborne glass, carbon, and
+similar fibers, which come from cutting and handling
+glass tape or cloth or from sanding or grinding a fiber-
+glass composite. Use these materials only with adequate
+ventilation and appropriate respiratory protection, such
+84
+Getting Started
+Evap. Rate
+LEL2
+PEL3
+Solvent
+Flash point1
+(Butyl acetate =1)
+(%)
+(ppm)
+Acetone
+0°F (-17°C)
+7.7
+2.8
+750
+Methylene Chloride
+Non-flammable
+14.5
+—
+25
+Methyl Ethyl Ketone (MEK)
+16°F (-8°C)
+4.6
+1.4
+200
+Toluene
+40°F (4°C)
+1.5
+1.1
+50
+Turpentine
+95°F (35°C)
+.38
+0.8
+100
+Xylene
+81°F (27°C)
+.75
+1.1
+100
+1 Flash point is the lowest temperature at which flammable vapor is given off by a liquid in a test vessel in sufficient concentration to be ignited in air when 
+exposed momentarily to a source of ignition.
+2 Lower explosive limit is the volume percentage of the vaporized solvent that makes an explosive mixture in air.
+3 Permissible exposure limits were extracted from “Department of Public Health Air Contaminants Standard,” issued in 1990.
+Figure 10-1 Table of comparative flash points, evaporation rates, Lower Explosive Limits (LEL), and Permissible Exposure Levels
+(PEL). Information from this chart was extracted from “Fire Protection Guide to Hazardous Materials,” NFPA, 10th edition, 1991.
+
+--- PAGE 99 ---
+as an approved particulate dust mask. For comfort and
+safety, avoid inhaling these dusts!
+Wood Dust
+Wood dust is a basic element of wooden boatshops.
+Modern woodworking equipment, especially high-
+speed abrasion tools, generate high concentrations of
+wood dust. Sawdust and timber are so “organic” that
+we assume they’re benign. In fact, they aren’t. Both can
+be significant hazards to your health.
+Dust from two North American trees can lead to other
+respiratory ailments. Redwood dust is the cause of
+sequoiosis, an acute respiratory disease similar to
+pneumonia. Symptoms, including shortness of breath,
+bronchial congestion, dry coughing, chills, sweating
+and fever, usually appear a few hours after exposure.
+Repeated attacks can result in permanent scarring of
+lung tissue. Western red cedar dust can cause asthma
+or rhinitis, an inflammation of the nasal passages. The
+causative agent here seems to be plicatic acid, which
+may also give the wood its well-known smell. West
+Indian satinwood and mansonia are considered primary
+irritants because rashes and blisters will appear after a
+single contact. Cocobola and other tropical woods are
+sensitizers: skin inflammation may develop after repeated
+contact with them.
+As Figure 10-2 indicates, the resins, alkaloids, tannins,
+acids, salts, and gums of some wood species are toxic
+to humans. Direct contact with dust, sap, or oil from
+these trees may cause skin irritations and other allergic
+reactions. Wood saps and oils contain irritants. These
+allergens are reduced as lumber dries, so it is always
+better to work with seasoned wood. 
+Preventing Overexposure to Dusts
+The following sensible shop suggestions may help to
+reduce exposure to epoxy dusts, wood dusts, and fillers.
+1. Use personal protective equipment if you handle
+wood you suspect that you may be particularly 
+sensitive to.
+2. Sand only in shop areas with adequate ventilation.
+If dust levels in your shop are high or if you are
+sanding in a confined space for a long time, wear
+an approved dust mask. If the entire shop is dusty,
+make sure everyone, not just the person sanding,
+wears a mask.
+3. When you have a choice, use a cutting tool, a chisel
+or plane, rather than an abrading tool, a polisher or
+sandpaper. Wear safety glasses.
+Chapter 10 – Safety
+85
+Respiratory
+Skin and eye
+Wood type
+ailments1
+allergies2
+Cedar, western red (Thuja plicata)
+X
+X
+Ebony (Diospyros)
+X
+X
+Greenheart (Ocotea rodiaei)
+X
+X
+Iroko (Chlorophora exceisa)
+X
+X
+Mohogany, African (Khaya ivorensis)
+X
+X
+Mohogany, American 
+X
+(Swietenia macrophylla)
+Makore (Tieghemella heckelii)
+X
+X
+Mansonia (mansonia altissima)
+X
+X
+Obeche (Triplochiton scleroxylon)
+X
+X
+Opepe (Nauclea trillesu)
+X
+X
+Ramin (Gonystylus bancanus)
+X
+Rosewood, Brazilian (Dalbergia nigra)
+X
+Rosewood, East Indian 
+X
+(Dalbergia Ianfolia)
+Satinwood, Ceylon
+X
+(Chloroxylon swietenia)
+Satinwood, West Indian
+X
+(Fagara flava)
+Sequoia, redwood
+X
+(Sequoia sempervirens)
+Teak (Tectona granifs)
+X
+1 Respiratory ailments include bronchial disorders, asthma, rhinitis,
+and mucosal irritations.
+2 Skin and eye allergies includes contact dermatitis, conjunctivitis,
+itching, and rashes.
+Figure 10-2 Toxic woods and their hazards. This chart is
+excerpted from “Health Hazards in Woodworking,” by Stanley
+Wellborn, in Fine Woodworking, Winter, 1977, and includes
+woods that are known to cause allergic, toxic, infectious, or
+respiratory reactions. Although researchers point out that
+not everyone is sensitive to these woods, they warn that
+woodworkers should be particularly cautious when sanding
+or milling them.
+
+--- PAGE 100 ---
+4. Use wet, rather than dry, sanding techniques on
+epoxy. When sanding fresh epoxy, wait for several
+days to ensure a complete cure. If you can’t wait to
+sand, wear protective clothing, eye wear, and a
+dust mask.
+5. If you must sweep your floor, wear a dust mask and
+use a sweeping compound. It is safer to vacuum
+or mop because less dust goes into the air.
+6. Use dust collectors on major dust producing
+machinery.
+7. Take steps to prevent fires. Store solvents safely
+and make rules about smoking. Dust, solvent
+vapors, and an ignition source can make an
+explosive combination.
+8. Prevent conditions that could create a static electrical
+charge. If handling large quantities of dust or filler,
+ground equipment properly.
+9. When handling fillers, try to keep them from
+becoming airborne, where they can remain
+respirable for long periods.
+Environmental Concerns
+Volatile Emissions
+Recent clean air regulations have added new require-
+ments to reduce emissions of volatile organic compounds
+(VOCs) and other air pollutants. Because of these
+regulations and other environmental concerns, many
+customers are asking builders to use products that
+pollute less. The volatile emissions from our epoxies
+are much lower than that of conventional vinyl esters
+and polyesters used in the composites industry. While
+our epoxy doesn’t have one major or easily identifiable
+volatile component, emissions may include small
+amounts of benzyl alcohol, low-molecular weight
+amines, or a reactive diluent. 
+To put it into perspective, making a laminate which
+requires 10 gallons of conventional vinyl ester resin
+would put 30 pounds of VOCs into the air. A laminate
+requiring the same quantity of WEST SYSTEM epoxy
+would emit only one-half pound of VOCs. Consider
+the environmental impact when choosing the products
+you will use on your projects.
+Disposal of Leftover Resin and Hardener
+WEST SYSTEM epoxy resin and hardeners are not
+considered hazardous wastes in their purchased form,
+using the criteria outlined in the Resource Conservation
+and Recovery Act (RCRA). Some state and local regula-
+tions and disposal facilities may require additional lab
+analysis or evaluation of a Material Safety Data Sheet
+(MSDS) to determine if your wastes satisfy their
+requirements. It is always the end user’s responsibility
+to properly dispose of wastes.
+The following guidelines should help you make the
+right decisions when it comes time to dispose of
+unused epoxy resin and hardener.
+1. You do not have to designate unused resin and
+hardener as “waste” if you may use it on a future
+project. WEST SYSTEM epoxy products have a long
+shelf life when stored in sealed containers. Simply
+use the product on another project.
+2. You may dispose of cured epoxy (resin and hardener
+mixed at the proper ratio and completely solidified)
+as a non-hazardous solid.
+3. Dispose of empty product containers only after you
+follow these simple “empty” rules: (1) You’ve made
+every effort to empty the container, and (2) no more
+than three percent by weight of the total capacity of
+the container remains in the container. Containers
+drain more completely when warm.
+4. Keep waste to a minimum. Work with small batches
+of epoxy. When emptying a container for disposal,
+collect the residue for use on a future project.
+5. Reclaim for further use epoxy resin or hardener
+collected from a spill or leak. If it is contaminated,
+designate it as waste. If you have used a solvent to
+clean up a spill, then the resultant mixture of solvent
+and epoxy may become a regulated hazardous waste.
+6. Respect the environment. Don’t release hazardous
+wastes directly to the land, air, or water. Many
+communities organize periodic waste collections
+where consumers can take household wastes for
+safe disposal, usually free of charge.
+The disposal guidelines above may not comply with the
+laws and regulations in your area. If you are uncertain,
+86
+Getting Started
+
+--- PAGE 101 ---
+refer to local, state, and federal regulations. Also, this
+section has addressed only the disposal of our epoxy
+resin and hardener. Boatbuilding and repair projects
+generate many hazardous wastes, including bottom
+paint, gel coat, paints, and solvents. These materials
+can harm the environment, so identify and dispose of
+them properly.
+Summary
+In this chapter, we have presented the health hazards
+of mishandling epoxies and related materials. In the
+course of a building or repair project, you may run a
+greater risk of harm falling from a ladder or misusing
+power tools. It’s self-defeating to worry a great deal about
+epoxies if you are careless about using your table saw.
+Good health can help you avoid and overcome the pro-
+blems described here. Avoid stress, eat right, and exercise
+to help reduce your susceptibility to these hazards.
+Use common sense. The more informed you are about
+the products you use, the better off you’ll be. Master
+basic health and safety principles and take responsi-
+bility for seeing them through. Your shop or business
+will be a safe place and you’ll be able to continue work-
+ing with WEST SYSTEM epoxy products for a long time. 
+When it comes to setting the rules and work practices
+of your shop, your health and safety are in your own
+hands.
+All WEST SYSTEM technical manuals include basic safety
+information. All of our product labels provide appropriate
+hazard warnings. If you need more specific information,
+request MSDS through your distributor or dealer.
+For additional information contact:
+Safety Department 
+West System Inc. 
+P.O. Box 665 
+Bay City, MI 48707 USA
+safety@westsystem.com
+Chapter 10 – Safety
+87
+
+--- PAGE 102 ---
+88
+Getting Started
+
+--- PAGE 103 ---
+Core Boatbuilding Techniques
+Chapter 11
+Laminating and Bonding Techniques
+Chapter 12
+Scarfing
+Chapter 13
+Synthetic Fibers and WEST SYSTEM® Epoxy
+Chapter 14
+Hardware Bonding
+Chapter 15
+Coating and Finishing
+
+--- PAGE 105 ---
+The laminating and bonding techniques discussed in this chapter are fundamental to using epoxy and
+have not changed over the years. When this book was first written, we used honeycomb paper core
+material for most lightweight sandwich panels. Since then, the development of foam cores has provided
+many new options. While this chapter describes the building of honeycomb-cored panels, the techniques
+for foam or balsa cored panels are quite similar.
+Our methods of boatbuilding are simple and flexible
+because they rely on a few very basic skills and proce-
+dures: laminating, bonding, scarfing, coating, and
+finishing. Detailed instructions on using WEST SYSTEM®
+Brand epoxy in each of these applications are provided
+here and in the following chapters of this book.
+In building our boats, we use two basic types of bonding
+procedures, one for joining structural framework and
+interior items, and the other for constructing hull and
+deck skins. This chapter will concentrate on the first
+of these and includes instructions for laminating wood,
+laminating wood with core materials, and applying fillet
+joints. Later chapters provide detailed information on
+various methods of laminating hull skins.
+We believe that bonding is the most efficient and struc-
+turally sound way to join pieces of wood. While our
+techniques for bonding wood fibers in epoxy are some-
+what similar to the methods of bonding glass fiber in
+polyester resin as used in fiberglass boat construction,
+we use much less epoxy.
+Principles of Laminating Lumber
+Frames, ribs, keels, stems, and deck beams are structural
+elements that are usually made by laminating several
+pieces of lumber stock to form the finished parts. The
+basic reason for laminating these items is to achieve
+the desired shape of the particular parts as exactly as
+possible. Traditionally, these shapes were formed by
+steam bending, by using wood with a natural curve
+similar to that desired, or by sawing curves on various
+segments of straight stock and joining them together
+with fasteners to form the desired shape.
+Besides achieving the desired shape, laminating wood
+has the following advantages:
+• Laminating provides high strength with low poten-
+tial for failure due to defect. Any one piece of wood
+may be compromised with a defect, but if several
+pieces are laminated together, a defect in one of the
+pieces is only a minor problem; thus, the more
+pieces involved in a lamination, the lower the failure
+rate due to defects.
+• A curved lamination made up of many thin pieces
+of wood relieves most internal stresses prior to the
+bonding of the parts into one unit. Internal stresses
+can easily develop in thicker solid stock.
+• Laminating can also be an economical use of material.
+You can make use of shorter pieces of stock by incor-
+porating scarf joints within a laminate, following
+procedures described in Chapter 12. You can also
+join smaller pieces to make up the width you want.
+The thickness of each layer of stock within a laminate
+is crucial to its success. Choices here depend totally on
+the radius to which the piece must conform. Generally,
+we select a thickness that bends easily around the
+desired curve, checking it by sawing up a sample and
+bending it around the form or shape over which we
+plan to laminate. If it feels a bit stiff and difficult to
+bend, we plane it down until it’s easier to position.
+When you choose a stock thickness, remember that the
+stiffness of wood is proportional to its thickness cubed,
+so if one piece is twice as thick as another piece of the
+same species, it will be about eight times as stiff. Be
+sensitive to small changes in stock dimension because
+they have major implications for the make-up of your
+laminate.
+Thickness of laminating stock will also affect spring-
+back. Any lamination will retain a slight bit of memory.
+When clamps are released and a piece is freed from its
+Laminating and Bonding Techniques
+C H A P T E R
+11
+
+--- PAGE 106 ---
+form, it will relax and become slightly less curved than
+the form. This new dimension is sometimes referred to
+as the springback shape. There is less springback if
+more layers are used to laminate a given thickness. 
+Keep in mind that while it may be easy to bend one
+layer of wood over a form, it will be a little more diffi-
+cult to bend many layers. If you have a total of ten
+veneers to bend at the same time, the combined resist-
+ance of all of the pieces may be more than you are
+prepared to handle with the clamping method you
+have devised.
+Don’t saw stock thinner than it needs to be. Except
+for a possible reduction in springback, usually nothing is
+gained structurally by adding more layers to a laminate.
+When you use thin layers where thicker ones would
+work well, you spend unnecessary time sawing, lami-
+nating, and bonding the increased surface area.
+Even when laminating is not needed to achieve a desired
+shape, we always laminate when the stock needed
+exceeds 1" (25mm) in thickness. With lumber stock
+thicker than this, the potential for internal stresses
+that may cause problems later on is too great, especially
+with kiln-dried lumber, which is the most widely
+available on the market today.
+Preparing Stock for Laminating
+The major goal when manufacturing stock for lami-
+nating is to prepare the most dimensionally accurate
+stock possible, which, when stacked together, will
+leave as few voids as possible and will therefore require
+less gap-filling adhesive for proper bonding. Most
+laminating stock will have to be sawn to size, and we
+recommend a table saw of at least 1 horsepower with
+a 10" blade so that you can make both accurate and
+smooth cuts on the surface of the stock being sawn.
+This is especially important if you do not own or
+have access to a thickness planer with which to
+further dress the laminating stock.
+Check the accuracy of your saw to make sure that the
+guide is parallel with the blade and that the blade is
+positioned exactly at right angles to the table surface.
+Make cuts over 3" (7.5mm) deep (depending upon the
+species of wood) by sawing in from both sides; that is,
+make a saw cut of several inches from one side, then
+turn the material end-for-end and saw in several inches
+from the other side. You should set up ramps both in
+front and in back of the saw to hold the stock in the
+proper plane with the saw table surface as it passes
+through the blades. Also, set up spring tension guides
+to hold the stock flush with both the table surface and
+the saw guide. Even with the best sawing techniques,
+there will be some discrepancy in dimensional accuracy,
+but the stock is usually acceptable for most laminating
+situations.
+If you plan to use a planer or jointer, keep the knives
+sharp. Otherwise it will burnish the surface and
+adversely affect the bond. It is a good practice to sand
+planed high-density woods prior to gluing. Craftsmen
+who take very good care of their tools sometimes wax
+the tables of their planers. Since wax can interfere with
+the quality of a bond, remove any wax residue that
+might be on your planer before you begin.
+Forms for Laminating
+The block-on-floor method is most commonly used
+to manufacture laminated ribs, frames, and stems. A
+wooden floor or a thick piece of plywood serves as the
+base to which you can affix blocks to form the shape
+you desire. Transfer the shape to be laminated to this
+surface from the lofting board. Then saw triangular
+blocks, as illustrated in Figure 11-1, and drill several
+holes in their backs for screws or nails. Fasten an
+adequate number of blocks along the outside perimeter
+of the shape on the floor. Then position a second set
+of blocks opposite each of these, leaving a sufficient
+distance in between to insert both the lamination to be
+clamped and a clamping wedge. If the curve is severe,
+use the clamping wedge with a pad which you can
+place against the stock. Drive the wedge between the
+blocks on the floor and the clamping pad. You will only
+need enough blocks to hold the laminate to its shape
+because you can use any number of clamps between
+the blocks to achieve enough clamping pressure on
+the laminate once you have developed its shape.
+Some laminations may be too wide to be handled easily
+with the block-on-floor method. In these cases, you can
+manufacture a simple mold form similar to that shown
+in Figure 11-3. Lay out the shape you want on thick
+construction-grade plywood, allowing for the thickness
+of the lath planking which you will nail across the
+92
+Core Boatbuilding Techniques
+
+--- PAGE 107 ---
+plywood edge. Cut out two identical pieces of plywood
+and place them at the desired distance from one another.
+Then fasten and bond the lath planking into position
+at desired intervals. Add any additional bracing that is
+needed to make the structure sufficiently sturdy. Using
+additional crosspieces to press the lamination material
+against the form, clamp the laminating stock to this
+form by positioning a clamp at either edge of the mold
+form.
+Often, the hull framework itself serves as a natural
+laminating form, and you can save a great deal of time
+by taking advantage of this. Take special care that no
+damage occurs to the framework during the laminating
+Chapter 11 – Laminating and Bonding Techniques
+93
+Figure 11-1 Cleats and clamping arrangement for laminating
+structural pieces on a floor or baseboard.
+Figure 11-2 Laminating a long structural member for
+trimaran crossbeam using cleats secured to the lofting floor.
+Figure 11-3 A simple form for laminating wider pieces.
+Figure 11-4 Laminating floor timbers using stringers as the
+form.
+Clamps (plenty of them)
+should be clean and easy to
+adjust before the laminating
+process begins.
+Spacers to keep
+timber off floor
+and ease
+clamping.
+Knees or cleats nailed to
+lofting on floor. Knees on
+inside can be positioned to
+allow adjustment of timber
+with wedges.
+1" x 2" cleats
+Plywood sides
+
+--- PAGE 108 ---
+procedure. Shield the framework from clamp marks
+with the use of clamping pads and protect members
+against any excess epoxy with a plastic sheet barrier.
+Figure 11-4 shows some frames being laminated using
+the stringers as a form. Further details on this type of
+laminating procedure are discussed in Chapter 21.
+Allowance for Springback
+All laminations will relax from the curve that they have
+been clamped to. This springback may range from 1⁄16"
+to several inches, depending upon two factors: the
+severity of the curve the lamination must take, and the
+number of pieces used to make up a lamination. The
+object, of course, is to try to anticipate what the spring-
+back might be and then to overbend your lamination
+so that when it relaxes, it will assume the exact shape
+desired. Refer to Figure 11-6 to determine the amount
+of springback that a lamination will have. It is rare for 
+a lamination to end up exactly as desired, although
+you can come very close and then take several corrective
+measures, which will be discussed later.
+The Dry Run and Clamping Procedures
+If you don’t have much experience or if you are faced
+with a complex or unusually shaped form, try a dry run
+of your lamination. Assemble and clamp your pieces
+with no epoxy to see if there are any flaws in your
+approach. Also check at this time to be sure that you
+have enough clamps. Because there is no epoxy in the
+way, you will be able to see gaps and take appropriate
+corrective action, including increasing clamping
+pressure and re-machining your stock. Once WEST
+SYSTEM epoxy is applied, you will have only a short
+time to correct any mistakes. If something goes wrong,
+you could lose the whole lamination and all the work
+and material that goes with it.
+To distribute clamping pressure over more area, make
+up clamping pads out of pieces of wood to be placed
+between the clamp jaws and the stock. The pads will
+also prevent any clamp marks from occurring on the
+lamination surface. When you have clamped the lamina-
+tion to your satisfaction, it is sometimes helpful to mark
+the position of each clamp on the stock so that you can
+reposition it quickly when actual laminating begins.
+When you remove the clamps from their trial run
+positions, place them close by so that you won’t have
+94
+Core Boatbuilding Techniques
+When a strip of wood, a ply, is bent to a curve and released,
+it springs back to its original shape. A stack of loose plies
+will do the same. When these plies are glued together while
+clamped to a curve, they tend to stay curved, but will
+straighten out or spring back a little. When building the
+mold or form for the laminate, it’s common to make the curve
+a little tighter to compensate for the springback. The amount
+of springback depends on the number of plies in the laminate,
+not in the ply material or the ply thickness. A simple formula
+can help predict the amount of springback you can expect:
+y = x/n2
+y = the amount of springback
+x = the amount of deflection
+n = the number of plies
+Thus with four plies, the springback (y) will be 1⁄16" if the
+amount of deflection (x) is 1". By using plies half the thick-
+ness, you double the number of plies for a given thickness
+of laminate and reduce springback four times—in this case
+to 1⁄64".
+Figure 11-5 Cleats are screwed to a baseboard to force
+laminates into the shape required. Clamps in the pile in the
+upper right will be used during the dry run and the final
+lamination.
+Figure 11-6 Computing springback in a curved laminate.
+From Fine Woodworking 119, July 1996.
+
+--- PAGE 109 ---
+to hunt around for them and can position each clamp
+as quickly as possible.
+Clamps are usually heavy and cumbersome, and they
+can take a lot of time to position and tighten. It is
+extremely important, before laminating begins, that
+there is a reserve of clamps close by, that they are of
+sufficient size, and that they have been checked for
+workability (i.e., that no glue lumps are on the threads).
+Whenever we are preparing for laminating without the
+luxury of a dry run, we line up more clamps and clamp
+pads than we actually think will be needed and place
+them at various intervals around the laminating area for
+quick access. For speed, we recommend that you use
+the adjustable bar-type clamps rather than C-clamps,
+which take much longer to fit into place. If you do use
+C-clamps, we suggest that you open them all before-
+hand to the approximate dimension you will need.
+Applying WEST SYSTEM® Epoxy
+For laminations that are large and composed of many
+pieces, you should organize the adhesive application
+procedure so that it can progress quickly. Cover a bench
+with polyethylene sheet and nail several sticks across it
+to keep the laminations from touching the bench surface
+when they are covered with adhesive and turned over.
+Coat one surface of the lamination with an adhesive
+mixture, roll the piece over on the strips, and coat the
+opposite surface. The bottom and top pieces of the
+lamination, of course, need coating on one surface only.
+As you coat the pieces with adhesive, assemble them in
+a neat stack in preparation for insertion in the form.
+From the time that you begin, you will have about an
+hour to apply the adhesive to all of the lamination
+members, insert the members in the form, and apply
+the clamping pressure. If the temperature is over 85°F
+(29°C), you may not have this much time, even when
+using a slow hardener. When laminating, adhesive
+application usually requires the most time, but several
+applicators working simultaneously can speed up this
+operation.
+We almost always use a high-density filler to make up
+the adhesive mixture for laminating, determining the
+thickness of this mixture according to the quality of our
+wood. Rough sawn surfaces may require epoxy and
+filler mixed to gap-filling, thick syrup consistency. With
+sufficient clamping pressure, the epoxy used to laminate
+well-planed stock will need little if any filler to guarantee
+adequate adhesion.
+Thoroughly stir your epoxy and filler and pour it into
+a roller pan. Use a foam roller cut to the desired width
+(the width of the lamination) to apply the adhesive to
+your wood. Roll vigorously with downward pressure
+to control the amount of epoxy on the bonding surface.
+When a thicker adhesive mixture is rolled on the
+surface, it will leave a thicker film, which is usually the
+desired effect. A thinner adhesive mixture is easier to
+control and you can roll it on the surface either in a
+very thin film or in thicker quantities, as you wish.
+Again, the quality of the laminating material will deter-
+mine how much epoxy you need to apply to the mating
+surfaces.
+When you have applied adhesive to all of the mating
+surfaces (we always coat both mating surfaces), you are
+ready to form the lamination. If you have already done
+a dry run, the only thing you need to add is polyeth-
+ylene, which you can wrap around the lamination stack
+to prevent it from becoming bonded to any of the form
+members, clamps, or the floor. Be careful to prevent any
+of this plastic from inadvertently becoming lodged
+between some of the laminations, preventing a good
+bond. Then apply clamping pressure, taking up the
+clamps slowly as the adhesive squeezes out from
+Chapter 11 – Laminating and Bonding Techniques
+95
+Figure 11-7 Uneven clamping pressure forces epoxy out of
+the joint, causing distortion or a twist in the timber. Clamps
+should be placed in the middle of the laminate, spaced evenly
+and tightened with consistent pressure.
+Uneven clamping pressure
+forces epoxy up and out of
+the joint, causing distortion
+or twist in the timber.
+Clamps should be staggered
+and tightened evenly.
+Pads to protect wood
+and distribute load.
+
+--- PAGE 110 ---
+between the laminations. Excess adhesive moves to the
+edges slowly, and you may have to tighten all clamps or
+wedges at several intervals of perhaps 10 minutes. A
+small amount of adhesive escaping from the edges is a
+healthy sign that there are no voids within the lamina-
+tion itself. However, if an excessive amount of adhesive
+is escaping, then you probably applied more than was
+needed; with the next lamination, you should try
+applying a little less. There is no need to apply exces-
+sive force to the lamination with the clamps; in fact,
+excessive clamping pressure may create undesirable
+stresses within a lamination. Good, solid contact
+pressure is all you really need.
+Fitting to Shape
+All laminations, after they are manufactured, will have
+what we call a mating surface, which you will eventu-
+ally bond to another part of the boat. This surface is
+usually the shape used to determine the setting up of
+the lamination forms. A lamination can be formed over
+a male or female form. The female form’s surface usually
+describes the mating surface for a rib or frame lamina-
+tion. If a male form is used, the thickness of the rib or
+frame being laminated should be deducted from the
+form dimensions to manufacture a lamination with a
+correct mating surface. 
+When the adhesive has cured, remove the lamination
+from its form and check the mating surface for accuracy.
+You can do this with a template made from the body
+plan, or perhaps by fitting the lamination in the hull or
+mold set-up where it will eventually be positioned. If
+springback has been severe but it is a light lamination
+that is easily bent, you can probably bend the lamina-
+tion to the desired position when you install it in the
+boat and should have no problems. For a heftier lamina-
+tion with springback that you cannot easily bend to the
+proper shape, mark it and machine it to the proper
+dimension, using a saw and hand plane. In addition,
+you may need to bevel the lamination or do other
+special machining, such as notching for stringers or
+keel. Usually this work is done when the lamination is
+fitted into its final position in the boat.
+If the laminated piece will be exposed in the finished
+boat, as ribs and frames sometimes are, plane or sand
+its sides and face and round its interior edges as desired.
+It is far easier to precoat and prefinish at your workbench
+rather than inside your hull, so do these jobs before in-
+stalling your part.
+Using Core Materials
+Lightweight core materials are often sandwiched between
+denser, load-bearing skins of materials like fiberglass.
+These cores may also be laminated between two pieces
+of wood to form rigid, lightweight panels. This is a
+particularly effective way to build extra stiffness, with
+96
+Core Boatbuilding Techniques
+Figure 11-8 Laminated frames fit to a hull.
+Figure 11-9 Laminated floors, fit and prefinished, ready to be
+installed.
+
+--- PAGE 111 ---
+Chapter 11 – Laminating and Bonding Techniques
+97
+little additional weight, into parts that have a lot of
+surface area. It may be used on cockpit floors, bunk
+bottoms, bulkheads, partitions, decks, cabin tops, and
+even hulls.
+Many materials have good panel stiffness, but they are
+also relatively heavy by the square foot. A core must be
+lightweight, and it must have adequate crush and shear
+strengths. We’ve found three core materials that bond
+well with epoxy and produce good results when lami-
+nated between wood skins: lightweight wood, such as
+balsa, in both flat and end-grain dimensions; various
+types of foam; and manufactured honeycomb materials,
+especially resin-impregnated honeycomb paper.
+Balsa is one of the better core materials. When used in
+its end-grain dimension, it makes a core with excellent
+crush resistance. We’ve also tried balsa in flat grain, using
+it both as a core and to improve structural strength by
+contributing to the overall stiffness and strength of a
+panel. End-grain balsa is available with a special surface
+treatment that is designed to reduce resin absorption
+into the core. It is also available in an untreated form.
+When using the untreated type, there is a possibility
+of epoxy starvation to the glue joint of the layer glued
+over it. We have seen epoxy drain completely through 1⁄2"
+(12mm) thick end-grain balsa, so be sure to experi-
+ment with gluing technique if you are using the
+unsealed type. 
+We have often used other lightweight woods in flat
+grain dimension as cores in some framework lamina-
+tions. Laminated deck beams are good examples of
+how to save weight higher up in a hull by combining
+proper proportions of a low-density wood, say, cedar,
+with a high-density wood, Douglas fir or mahogany.
+The resulting lamination has adequate stiffness and
+strength and is much lighter than one made entirely
+of high-density wood.
+Resin-impregnated honeycomb paper is the cheapest
+of the various honeycombs available, and it is easy to
+bond and apply. Prices vary by cell size, resin content,
+and thickness. We used paper honeycomb for years
+and found its light weight and good crush and shear
+strengths perfectly adequate in many applications.
+Honeycomb paper is helpful on both flat and curved
+surfaces. It can be applied to slightly compounded
+areas, such as decks and cabin tops, because its cells
+are able to bend slightly and deform. Honeycombs
+are available in a wide variety of materials, from paper
+to titanium. Metallic honeycombs are among the most
+expensive core materials.
+Foam cores have become a reasonable alternative to
+balsa and honeycombs. Foams cover a wide range in
+price and density, but they are generally more expensive
+than balsa and paper honeycombs. They are better
+insulators than other core materials. WEST SYSTEM epoxy
+will not chemically react in a destructive way with
+foams. But, because of the insulating properties of foam,
+Figure 11-10 A DN-class iceboat hull bottom showing
+honeycomb core material between frames. The outer
+plywood skin has not yet been bonded to this panel.
+
+--- PAGE 112 ---
+epoxy will exotherm easier in a lamination with foam
+than with other materials especially in a heavy applica-
+tion or very thick glue line.
+Interlaminate application rates of WEST SYSTEM epoxy
+vary a great deal. Tests on samples of wood hull laminate
+show an average rate of 12.8 square feet per pound
+(2.7kg/m2) of epoxy per glue line. The application rate
+of a medium-density mixture of epoxy and filler,
+applied with a notched plastic spreader to bond core
+materials to plywood skins, is about 18 square feet per
+pound (3.7kg/m2) of epoxy. A rate of approximately 28
+square feet per pound (5.7kg/m2) can be expected for
+mixtures applied over coated surfaces. Factors deter-
+mining these rates include surface condition of the
+substrate, pot life of the epoxy, ambient temperature,
+work habits, size of the job, and quality of clamping
+pressure.
+Bonding Core Materials
+Different core materials require slightly different bonding
+techniques. End-grain wood and foam absorb epoxy at
+unusually high rates, and allowances must be made for
+this in order to guarantee good joint strength. The
+cells of resin-impregnated paper honeycomb bond
+to wood in a very atypical pattern of small fillets.
+Normal laminating procedures are sufficient, however,
+when your core material is low-density wood in flat
+grain dimension.
+Large quantities of WEST SYSTEM epoxy will penetrate
+end-grain wood. When too much epoxy is absorbed
+by a wood core, there will not be enough adhesive for
+a strong bond with a skin, and the joint will be epoxy-
+starved. To solve this problem, we recommend a two-
+step application procedure. First, use a foam roller to
+apply unthickened epoxy to the surfaces to be bonded.
+Your coating should be adequate but not overabundant.
+Next, apply a mixture of epoxy and filler, in thick syrup
+consistency, to the core. Use enough of the mixture to
+fill any voids between the core and the surrounding
+skins.
+This adhesive mixture may be too thick to apply evenly
+with a foam roller, so use a notched spreader like the
+WEST SYSTEM 809 Notched Spreader shown in Figure
+11-12 to apply even, controlled amounts of the thicker
+adhesive, especially over large areas. You may also
+modify an 808 Plastic Spreader by using a chisel, knife
+or bandsaw to cut notches in the edge. Experiment to
+98
+Core Boatbuilding Techniques
+In sandwich construction, fiber reinforced
+resin serves as the structural skin of a
+part. Separating two structural skins
+with a core material will improve the
+composite’s stiffness and reduce
+weight, much like the web of an I-beam
+separates the flanges. Cores can be of
+plywood, end-grain balsa, foam or
+honeycomb. Normally, the core is
+much lighter than the skin material.
+Like most materials, different cores
+have advantages and disadvantages. 
+Loads tend to concentrate at the load
+bearing skin/core interface, so low-
+strength cores are prone to shear
+failure. Cores are low in density and tend to insulate the laminate.
+This can be detrimental as heat concentrates on the skin, softening
+the resin or causing adhesion problems between the skin and core.
+To facilitate assembly around curved surfaces, cores are often grid-
+scored. As the core passes around curves, the grid score opens. If
+not filled, the open score may act as a conduit for moisture passage.
+Figure 11-12 The 809 Notched Spreader has three different
+notch sizes to apply epoxy at different rates.
+Figure 11-11 Core types for sandwich construction.
+
+--- PAGE 113 ---
+find the notch depth and frequency that will deposit the
+correct amount of epoxy/filler mix on your wood
+as in Figure 11-13.
+Foam cores absorb slightly less epoxy than end-grain
+wood, and their absorption rates are very predictable.
+When the large pores on the foam’s surface are filled,
+the rest of the epoxy/filler blend will fill gaps between
+the core and laminate skin. Since the object is to make
+a bond which is at least as strong as the foam but is
+lightweight, use low-density, gap-filling filler; even if the
+mixture is heavily loaded with filler, the bond will be
+stronger than the foam. To be sure that all voids are
+filled on more porous foams, use additional low-density
+additive to make a thicker adhesive mixture. The
+notched squeegee will help force thick adhesive into
+foam pores.
+Paper honeycomb presents an unusual bonding situation.
+Because it is made up of cells ranging from 1⁄4" to 1⁄2" (6-
+12mm) in diameter, this type of core is actually joined
+to only a small percentage of the total area of the
+surface skins. Many little fillets form when honeycomb
+is bonded in lamination. The adhesive “gets legs” as it
+is applied to the core and, due to its surface tension,
+travels up the cell walls a distance of up to 1⁄8" (2mm),
+although 1⁄16" (1mm) is normal. This process results in a
+bond that is far stronger than the paper honeycomb.
+Take steps to be sure that these little fillets develop. First,
+use a foam roller to wet out the edges of the honeycomb
+with unthickened epoxy. Don’t try to deposit quantities
+of epoxy on the edges as you do this—the goal is to
+saturate cell wall edges in the same way that you apply
+a first penetrating coat of epoxy to wood. Then, still
+using the foam roller, apply a thick coat of unthickened
+epoxy to the surfaces of the structural skins. If your
+skins are precoated, slightly less epoxy is required. In
+this case, follow the directions in Chapter 15 to prepare
+the coated surfaces for bonding. To avoid the formation
+of high spots, assemble your lamination before the
+epoxy on the honeycomb has a chance to set up.
+If the fit between a honeycomb core and plywood skins
+is not close or you suspect that your clamping pressure
+may be inadequate, you may wish to modify this tech-
+nique. Coat your core with unthickened epoxy and then
+coat your wood with a mixture of epoxy and low-density
+filler. The viscosity of this mixture depends on the fit
+between core and skins. Use more filler if you have a
+rough fit, less if your surfaces present fewer gaps. If
+you know that there is perfect contact between your core
+and wood, you may need no additive, provided that you
+apply the epoxy in sufficient quantity.
+When you use a honeycomb core, be careful to avoid
+dry bonds within the laminate. This is usually a result
+of the wood’s absorbing too much epoxy. If the skins
+absorb most of the epoxy you apply, there will not be
+enough epoxy on the surface to develop the fillet bond
+needed for maximum strength. One way to prevent this
+is to coat the wood, wait an hour or so until the epoxy
+is tacky, and then apply a fresh cot and bond the
+honeycomb to the skins.
+Whatever the core material and adhesive mixture used,
+structural strength will be only as good as the quality
+of the bond that is developed between the components.
+We suggest that you make a sample laminate of the
+combination that you intend to use and then destruc-
+tion test it so that you can assess the quality of the
+bond. This is a simple and quick way to determine both
+the ideal mixture and the amount of adhesive needed
+for a given surface to ensure adequate bonding. Once
+you have tested several laminates with a given type of
+core material, you will have gained enough experience
+to be able to determine the adequate amount of adhesive
+for a given surface without having to test each laminate.
+To perform a destruction test, make two samples, each
+about 3" wide  10" long (75mm  250mm). Place
+two 2"  2"  4" (50mm  50mm  100mm) blocks
+Chapter 11 – Laminating and Bonding Techniques
+99
+Figure 11-13 Applying thickened epoxy with a modified
+plastic spreader. Cut notches in the edge, sized and spaced
+to suit the desired rate of application.
+
+--- PAGE 114 ---
+of wood near the edge of a bench, roughly 10" apart,
+and support one test sample on them. Using a clamp in
+the middle of your sample, slowly deflect
+the wood toward the bench until it breaks. Study the
+relationships between the various components to deter-
+mine where the sample failed and how. Take your
+second sample, put it in a vise, and hit it with a large
+hammer. This will give you some idea of how well
+your sample will withstand shock loads.
+Forming and Clamping Cored Laminates
+Cored laminates are easy to make if their surfaces are
+flat, a bit more difficult if slightly curved, and very
+difficult if curved in more than one plane.
+To manufacture flat parts such as bulkheads, partitions,
+doors, counter tops, bunk bottoms, and floors, look for
+a flat area which is at least as large as the part to be
+laminated. This can be the floor or a bench. If you are
+planning many flat laminates, it is worth building a
+special form. Your work area must be perfectly even
+with no twists or warps.
+Assemble components, usually two outer skins and
+a core, on your surface, apply adhesive, and then use
+weights for pressure over the surface area of your
+assembly. Almost anything that is easy to handle and
+weighs from 3 to 10 pounds (1.4 to 4.5kg) can be used
+as a weight. Many common items, including bricks and
+small pieces of scrap steel, work well. In our shop, we
+often use double-wrapped sandbags.
+The amount of weight you need depends on your partic-
+ular lamination. In all cases, pressure should be sufficient
+for complete contact between the layers. If the outer
+skins are thin plywood, very little weight is necessary
+unless the panels are badly warped. Distribute pressure
+over the entire surface of the skin using leftover stringer
+stock, scrap lumber of equal thickness, or thicker pieces
+of plywood or particleboard to spread the load.
+You can apply some clamping pressure to the lamina-
+tion with staples. Usually, cored laminations have an
+outer perimeter that is made up of a solid wood material,
+which we refer to as core framing. This material is
+prepared beforehand from stock the exact thickness of
+the core material and can be used wherever desired in
+conjunction with the core material within the laminate.
+Some cored laminates may be designed to have a great
+deal of core framing within the laminate so that only
+staple pressure is needed for assembly. However, staple
+assembly is usually successful only with thicker plywood
+skins because of their increased panel stiffness. In most
+cases, even with the use of staples, weighting will still
+be needed to ensure a good bond between the laminate
+components.
+We usually plan our cored laminate layout right on
+the plywood panel from which we will cut one of the
+exterior skins. Once the perimeter of the laminate is
+determined, you can lay out the exact positions and
+dimensions of the core framing right on the panel.
+Cut the laminate skin slightly larger than size (to facili-
+tate final fitting) and make a duplicate that will become
+the second skin on the opposite side of the core material.
+Saw the prepared core framing to length and position
+it around the perimeter of the laminate and wherever
+else desired within the interior of the laminate. When
+the core framing is fitted, bond it into position on the
+marked skin surface using either temporary or perma-
+nent staples to hold the pieces in place until the adhesive
+100
+Core Boatbuilding Techniques
+Figure 11-14 A cored deck constructed using lightweight
+beams and resin-coated paper honeycomb core material. See
+Chapter 27 for a full description of this deck construction.
+
+--- PAGE 115 ---
+can cure. Fit the core material around the core framing
+and apply the adhesive. With all of the parts in place,
+you can complete the laminate by bonding on the
+second skin.
+You can make slightly curved cored laminates using
+techniques similar to those used for flat laminates, but
+you must build a special curved form. This curved
+form must be a fair arc over which the components of
+the laminate will bend easily. A proper form will help
+ensure that the curve in the laminate is fair and will
+require fewer clamps and weights for good contact
+pressure between the components. A slight curve can
+also facilitate clamping. Position several long boards of
+adequate stiffness across the laminate at given intervals
+and clamp them down to the form at each end.
+Cored laminates with compound curves are very difficult
+to manufacture unless you use enough core framing
+material within the laminate to allow for a good deal
+of staple pressure. Even then, you should not make
+these cored laminates of solid panels, but should mold
+them with veneers or strips of plywood over a form,
+as discussed in Chapter 20. The most successful com-
+pounded cored laminates have been manufactured
+using vacuum bag techniques. Unfortunately, prepara-
+tions for this method require a great deal of time, and
+it is uneconomical when only one laminate is to be
+manufactured. Achieving a mold surface with good
+vacuum integrity involves considerable work and
+expense.
+Bonding with the Fillet
+The fillet has become one of the most versatile methods
+of bonding wood, especially for joining parts at or near
+Chapter 11 – Laminating and Bonding Techniques
+101
+Figure 11-15 Cockpit seats showing an inner skin bonded
+to the framing and a matching outer skin. Core material can
+be cut to fit the spaces within the frames. In this case the
+framing itself was adequate to support the plywood panels.
+Figure 11-16 A cockpit sole with a curved shape using core
+laminates. This was accomplished by laminating a curve in
+the frames before they were bonded together.
+
+--- PAGE 116 ---
+right angles to each other. Basically, a fillet is a contin-
+uous bead of thickened epoxy mixture applied to the
+angle between two parts to be joined. It increases the
+surface area of the bond and serves as a structural
+brace. Filleting requires no fasteners of any kind and
+can result in a joint that is as strong as the parts being
+joined together. The use of fillets in conjunction with
+fiberglass tape is fully explained in Chapter 24.
+There are some limitations with filleting, however.
+The fillet cannot join two materials end-for-end and is
+most successful for joining parts at roughly right angles.
+The fillet also works best when joining thinner wood
+material, such as plywood up to 1⁄4" (6mm) thick. At
+this size, it is relatively easy to manufacture a joint that
+is equal to material strength. As the material joined
+becomes thicker, the fillet size must increase accord-
+ingly. The large fillet becomes less attractive because
+of material costs (wood is much cheaper than epoxy)
+and application difficulties (a large fillet becomes very
+unwieldy as its mass increases, due to the consistency
+of the material in the uncured stage).
+A fillet is especially effective when joining parts that
+meet at difficult angles. A good example would be
+a bulkhead that meets with the hull skin at varying
+angles along its perimeter. Traditionally, a wood cleat
+would be laboriously laminated and fitted to join hull
+and bulkhead, requiring many hours. However, a fillet
+of the proper size may be just as effective structurally
+and can be installed easily and quickly. Other interior
+items, such as cabinets, bunks, partitions, seats, counters,
+and floors, can also be quickly installed in the hull with
+the use of the fillet. Some of these items, such as shelves
+and cabinets, may be installed with small fillets that,
+although not up to material strength, may be adequate
+because they serve no critical structural purpose.
+We often use the fillet to reinforce existing joints. The
+fillet can be a simple and fast way to increase the
+bonding surface area between two parts. For example,
+you can give a frame or stringer more contact bonding
+area with the hull skin by installing a fillet on either
+side of the member. The alternative might be to
+choose a thicker stringer or deck beam than is really
+needed for the sole purpose of developing more
+bonding area; the fillet can solve the problem with
+considerably less weight.
+To make up filleting mixture, use WEST SYSTEM epoxy
+and various fillers. The object is to make the best joint
+at the least weight using the lowest density filleting
+material possible. At the same time, your joint must
+have enough strength so that any joint failure will occur
+in the wood rather than in the fillet itself. Our 406
+Colloidal Silica Filler is stronger and heavier than our
+low-density fillers. For high-strength applications, we
+use 406 Filler mixed with epoxy to a peanut butter
+consistency. This produces a material that spreads easily
+but does not sag under its own weight.
+In many situations, a high-density fillet is not needed
+because its physical properties are far above the grain
+strength of wood, so we make up a lower density
+material using a combination of 406 and low-density
+fillers, varying the proportions depending on the
+strength required. WEST SYSTEM 405 Filleting Blend
+may be added to mixtures that will be used for exposed
+fillets on certain woods. Its color will blend well with
+some woods to make fillets less conspicuous.
+Figure 11-18 shows the results of tests we performed
+using various plywood thicknesses and epoxy/406
+Colloidal Silica fillet sizes. These results apply only to
+the specific plywood we tested and might be different if
+another wood were used. Because of the many variables
+involved, we cannot advise on the sizes and types of
+fillets needed for every application. You can easily
+102
+Core Boatbuilding Techniques
+Figure 11-17 Cross section of low-density and high-density
+fillets. Low-density fillets require a much larger radius than
+high-density fillets to make joints of the same strength.
+Low-Density
+Fillet
+High-Density
+Fillet
+
+--- PAGE 117 ---
+perform your own testing to determine the exact fillet
+you need. This type of testing will also quickly give you
+a feel for the strengths and limitations of the fillet as a
+joining method. When you have gained knowledge
+through use, you will find many places in your project
+where fillets will both improve your structure and save
+you time.
+Make a test sample similar to the one in Figure 11-18,
+using the material you plan to join. Take an educated
+guess about the filler and fillet size needed to develop
+material strength. Make a fillet on your sample and
+allow it to cure for at least 24 hours or less if you apply
+heat. Put the control part of your test piece in a vise and
+load it. The load should be exerted a distance of about
+eight times the thickness of the material, measured from
+the base of the joint.
+If your sample breaks clean, leaving the fillet intact, you
+have achieved material strength, the breaking strength
+of the material as a cantilevered beam. This is consid-
+ered strong enough for most engineering in boat
+construction. If the break occurs within the fillet or the
+wood fiber of the control piece, make a new sample
+with a larger fillet. Repeat the test until the fillet
+performs to your satisfaction.
+Applying the Fillet
+There are five steps in the process of applying a fillet:
+1. Fitting and marking the parts to be joined.
+2. Applying epoxy/filler mixture to the joint.
+3. Forming the fillet to the size and shape desired.
+4. Cleaning up the fillet.
+5. Sanding and coating.
+If the fillet is to be a practical joining method, you must
+learn to make it with both ease and speed. At the same
+time, you will want to make fillets that are pleasing to
+the eye so that they will not detract from the beauty
+of your boat. Your first try at filleting will probably be
+awkward and slow, but it doesn’t take long to develop
+reasonable skills.
+Fit all parts as carefully as possible. Reducing gaps
+between pieces reduces mechanical loading on the filler
+and improves joint strength potential. When you are
+satisfied with your fit, make several surmarks up and
+down the joint and across both pieces so that you can
+remove and accurately replace them later. To save
+mixing and preparation time, fit and mark a number
+of parts and then bond them all in one large filleting
+operation.
+Chapter 11 – Laminating and Bonding Techniques
+103
+Plywood
+Fillet
+thickness
+radius
+High-density fillets
+5⁄32" (4mm)
+5⁄8" (15mm)
+3⁄16" (5mm)
+3⁄4" (18mm)
+1⁄4" (6mm)
+7⁄8" (22mm)
+Low-density fillets
+5⁄32" (4mm)
+13⁄4" (44mm)
+3⁄16" (5mm)
+13⁄4" (44mm)
+1⁄4" (6mm)
+13⁄4" (44mm)
+Figure 11-18 Failure mode for proper sized fillet radius is
+shown in Cross Section A. Failure mode for inadequate sized
+fillets is shown in Cross Section B. The chart shows the radius
+size required for high-density fillets to produce a wood failure
+(A) rather than a joint bond failure (B). Results vary depending
+on plywood quality and thickness, and filler density. Experiment
+to find the proper radius for the materials you are using.
+A High-Density Fillet
+Experimentation with the
+fillet can produce a joint
+strong enough that failure
+will occur in the plywood
+rather than in the
+wood-epoxy bond.
+8X
+Load
+A Low-Density Fillet
+Fillet fails in tension
+and starts wood
+failure along
+grain.
+Low-density
+fillet compresses
+under load.
+Wood failure
+along the base
+of the joint.
+X
+
+--- PAGE 118 ---
+If the parts to be joined are uncoated, it’s a good idea to
+apply an initial coating of epoxy to the area of the joint.
+When fillets are made on bare wood, the substrate may
+absorb too much epoxy from the filleting mixture. Then,
+the mixture thickens and becomes almost impossible to
+work with. If the wood has been precoated, as described
+in Chapter 15, you will need only to sand the joint area
+to be sure of an adequate bond.
+When the parts are ready, mix the epoxy and appropriate
+fillers. Good, smooth fillets depend on the correct thick-
+ness of the filleting mixture. With a little experience, you
+will quickly learn what works best for you. The viscosity
+of this mixture becomes more crucial with larger fillets.
+As the mass and weight of your epoxy/filler combination
+increase, so does its tendency to sag.
+One solution to this problem is to make the mix even
+thicker, but this results in fillets which are difficult to
+apply and which will require a lot of clean up later. A
+thick filleting mixture may not properly penetrate the
+substrate and so may result in weak bonding. We find
+that a two-step installation procedure, applying about
+60% of the joint on the first pass and the remainder
+when this stiffens up, is effective in this situation.
+Begin making your fillet by applying a liberal amount
+of fillet mixture to the mating edge of the joint. Then
+position the part so that its surmarks line up exactly,
+using staples, small nails, or clamps as appropriate to
+hold it temporarily in place. Much of the epoxy/filler
+mixture you use here will squeeze out and become part
+of the fillet; the rest will fill any gaps between the two
+parts. Next, apply fillet mixture all along the line of the
+joint in the quantity needed for the desired fillet size.
+Most often the mixing stick is used to move adhesive
+from pot to joint. The WEST SYSTEM 804 Mixing Stick
+has a round end for applying and shaping fillets and a
+beveled square end for scraping up excess epoxy.
+Continue using your stick to smooth out the fillet and
+to remove excess material and redeposit it where
+needed. Applying just the right amount of epoxy/filler
+blend to a joint is one of the keys to filleting success. It
+is better to add just a little more than to end up short
+because it’s more difficult to add material later than to
+remove a little excess.
+In the past, we have recommended a variety of tools
+for fillet application. Disposable cake decorating bags
+are clean and accurate for laying down a bead of fillet
+mixture, but they are difficult to find. Syringes, too,
+104
+Core Boatbuilding Techniques
+Figure 11-19 A disposable syringe being used to apply a
+bead of thickened epoxy.
+Figure 11-20 The proper sequence for (1) coating and
+joining the parts, (2) applying and shaping the fillet and (3)
+cleaning away excess epoxy outside of the fillet.
+Joint coated with epoxy and
+temporarily held with staples
+Sharpened tongue
+depressor or putty
+knife
+Tangent point of fillet
+stick produces a clean
+margin area that
+aids in the cleanup of
+excess epoxy mixture
+Excess
+Fillet
+stick
+1
+2
+3
+
+--- PAGE 119 ---
+make good applicators, but they require time-consuming
+loading and cleaning. While it may seem to be efficient
+to use your finger to apply and smooth fillets, don’t do
+it. A splinter in the joint may cut through your glove
+and into your finger, and this can be quite painful.
+To finish your joint, take a piece of thin stock a little
+wider than the fillet itself and round off one end. Cut
+the radius of this curve to match the desired radius
+of your fillet when the stick is held so that it bisects
+the joint. Because this dimension is very important in
+controlling fillet size, round off several sticks and experi-
+ment with them. The rounded end of an 804 Mixing
+Stick creates a 3⁄8" (9mm) radius fillet. With a fillet stick
+of any given radius, you can further control fillet size by
+changing the angle of your passes. When you hold the
+stick at a 10° angle to your joint, your fillet will be
+flatter, while if you hold it at a larger angle, it will be
+curved.
+The experienced applicator can form a perfect fillet with
+only one pass of the fillet stick over a properly applied
+fillet mixture. It is not unusual, however, to need several
+passes to form and smooth the fillet to the desired state.
+Always make the final pass with the fillet stick with some
+firmness so that the excess fillet mixture will be deposited
+on either side of the fillet. The pressure on the fillet stick
+is important because it creates a gap between the excess
+material and the fillet so that you can clean away the
+excess without disturbing the fillet. Figure 11-21 shows
+a plastic-tipped filleting tool that has worked particu-
+larly well to form very smooth surfaces on the fillet.
+Clean up of the fillet begins with careful removal of
+excess material. Usually a 1" (25mm) putty knife or the
+beveled end of an 804 Mixing Stick is used in conjunc-
+tion with a paper cup or can. Carefully scrape away
+the excess from either side of the fillet and then
+deposit it in the container by wiping the side of the
+knife on the container edge. Repeat this procedure
+until all of the excess has been removed as shown in
+Figure 11-20.
+After the fillet has begun its cure and started to stiffen
+(anywhere from 30 minutes to 2 hours depending on
+fillet size, temperature, and hardener speed), you can
+do some further smoothing of the fillet surface with
+more passes of the fillet stick. A rough fillet surface
+or protruding edges can be smoothed considerably,
+especially if you catch the fillet at just the right stage
+in the cure cycle. This saves a lot of sanding later on.
+When the fillet has achieved a full cure, you can, of
+course, sand it as smooth as desired, but this is hard
+work, especially with a high-density fillet. Fortunately, a
+properly installed fillet should need very little sanding
+to achieve adequate smoothness. Usually we use hand-
+held 80-grit sandpaper for smoothing fillets, being
+careful not to damage any wood grain on either side of
+the fillet. When the fillet is completed, we always apply
+one coat of unthickened epoxy over the entire fillet
+surface. You can do this when you apply a coat of
+epoxy to the general area. 
+Chapter 11 – Laminating and Bonding Techniques
+105
+Figure 11-21 A simple plastic filleting tool that can be made
+to the desired radius.
+Plastic disc cut from a coffee can lid
+and screwed to a scrap wood handle.
+This tool was recommended to us and it
+does a good job. The plastic discs can be
+made to any radius and are easy to clean.
+Figure 11-22 An alternative filleting tool can be made by
+cutting an 808 Plastic Spreader with the desired fillet radius
+and the adjoining sides at 75° angle. With an adequate amount
+of thickened epoxy in the joint and by holding the tool at the
+proper angle you can make a smooth fillet in one pass. The
+sides of the tool will force all of the excess epoxy toward the
+fillet and leave a clean margin on either side.
+
+--- PAGE 120 ---
+106
+Core Boatbuilding Techniques
+
+--- PAGE 121 ---
+Scarfing remains an essential boatbuilding skill. This chapter has few changes from the 1985 edition. 
+It does, however, discuss additional ways to cut scarfs in plywood.
+It’s very difficult to buy lumber and plywood in the
+right lengths for boat construction. When we do
+manage to find wood that is long enough, it is usually
+too expensive to consider. As a result, we’ve developed
+our own scarfing procedures and use them to make
+long boards, panels, plywood, and veneers out of
+shorter ones.
+Scarfing is a basic and essential boatbuilding skill.
+When a well-made scarf is bonded with WEST SYSTEM®
+epoxy, it can be as strong as the material it joins.
+Desired lengths of lumber and plywood may be built
+up with no increase in the width or thickness of the
+material at the joint.
+Although there are several different kinds of scarf joints,
+we use only one, the simplest and most reliable. We
+machine identical bevels at the ends of the pieces to be
+joined, fit these matching bevels, and then permanently
+bond them with epoxy. In many boatbuilding situations,
+we use a ratio of 8-to-1 to determine the size of the
+bevel, so that a 1" (25mm) thick board will have a
+bevel 8" (200mm) long. When high-density, high-
+strength wood is used in a critical area, a mast for
+example, 12-to-1 proportions may be required. For
+extra strength and safety, we increasingly recommend
+12-to-1 scarfs for lumber.
+The main object of the bevel is to develop enough
+surface bonding area to exceed the strength of the
+wood itself. If you have any doubts about the amount
+of surface area needed with the wood you intend to
+use, you can manufacture a sample joint and destruc-
+tion test it. The sample does not have to be large: 12"
+thick  1" (12mm  25mm) wide is sufficient.
+Machine 8-to-1 bevels on two pieces and join them with
+an adhesive mixture. When the epoxy has cured,
+support the ends of the sample (well beyond the scarf
+joint) and then apply force in the middle of the scarf
+joint until it breaks. If failure occurs within the bond of
+the scarf itself, you will have to increase its surface area
+by increasing the scarf angle to a higher ratio for the
+stock thickness.
+The direction of the load on the scarf joint itself is of
+little significance in comparison to the development of
+bonding surface area to withstand that load. To develop
+maximum surface bonding area with minimum waste
+of material, you should bevel the side of the lumber
+with the largest dimension. For example, if you had a
+piece of 2"  4" (38mm  89mm) stock, no matter
+what the load direction, you would make the 8-to-1
+beveled joint on the 4" side rather than the 2" side.
+Although the principles of scarfing lumber and
+plywood are the same, the actual procedures differ.
+In this chapter, we first discuss methods of scarfing
+boards and then move on to a discussion of plywood
+scarfs. We rarely scarf veneers for boats, but when we
+do, we follow the basic steps used with plywood.
+Scarfing Lumber
+Making scarf bevels by hand
+Depending on the size and type of lumber, you can 
+use a variety of hand tools to cut bevels. Other methods
+of beveling are faster, so we make bevels by hand only
+on large stock or when we have just a few pieces to
+work on.
+Check to make sure that the end of your board is
+sawed square with its length. Plan the bevel dimensions
+carefully and mark them on the end of the board.
+Measure the length of the bevel in from the squared
+edge and, using a square, draw a line parallel to the
+edge. This will represent the end of the bevel; it is
+usually referred to as the bevel line. Draw diagonal
+lines on each side of the board to connect the bevel
+line with the squared edge on the opposite side.
+Scarfing
+C H A P T E R
+12
+
+--- PAGE 122 ---
+Now remove excess stock to get close to the lines you
+have drawn. There are many ways to do this: you can
+make a careful cut with a sharp handsaw, sawing as
+close to the marks as your skill will allow, or you can
+use a wide chisel and mallet, a large plane with a deep-
+set blade, or a power plane. When you have rough
+machined the bevel close to its marks, use a sharp
+block plane to finish it, watching the marked lines as
+you proceed.
+At this point, place the stock on a flat surface such as a
+workbench with a block under the feather edge of the
+bevel which can support the edge but will not interfere
+with the hand planing. Continually check the bevel for
+flatness in both directions so that when you plane the
+bevel to its final marked lines, you leave a fine, feath-
+ered edge at the very end of the stock. When you have
+completed the scarf bevel, check to make sure that it is
+flat in both the length and widths planed—we just set
+the edge of the plane on the bevel surface for a quick
+check. This ensures a totally flat surface, which will
+mate properly with another scarf bevel to form a
+dimensionally accurate and strong scarf joint.
+The scarfing jig
+To save time, you can easily build a jig on which to
+mass produce accurate scarf bevels on various sizes of
+straight lumber. Our basic scarfing jig design, shown in
+Figure 12-1, operates on the same principle as a miter
+box. A typical miter box is really only useful for cutting
+45° bevels, but this jig can produce the angles of cuts
+needed for 8-to-1 and 12-to-1 bevels.
+The final dimensions of the jig are determined by the
+stock to be beveled, but we always have made ours a
+little larger so that we can bevel a reasonable variety of
+stock sizes on one fixture. Construct the jig by bonding
+two upright fences onto a flat base, making the fences
+and base long enough to support the stock being cut.
+Cut a mortise into the bottom of one of the fences of
+the jig to receive a wedge, which will hold the stock
+firmly against the opposite fence. Then lay out the
+bevel angle accurately and mark it on the jig, being
+extremely careful to make sure that the sawing line is
+perpendicular to the jig floor so that you will produce
+square bevels. Make the first saw cut into the jig, using
+a back saw or a carefully controlled panel saw. This first
+cut is crucial to an accurate jig. Test its accuracy by
+manufacturing several beveled joints and checking
+them for squareness. Now you can use the jig to
+manufacture scarf bevels by placing stock in the jig
+and using a back saw or panel saw to make the desired
+cuts. You may need to finish the bevels with a sharp
+block plane.
+You can also set up this scarfing jig on the table of a
+radial arm saw. Clamp the jig to the table so that it is
+angled slightly to the travel of the saw to produce the
+exact bevel desired as you pull the saw blade through.
+Clamp lumber in the jig and proceed to cut the bevel.
+Although the set-up with the radial arm saw takes
+longer, it vastly increases the speed at which you can
+machine bevels. It is not unheard of to manufacture
+over a hundred accurate bevels per hour when you
+are well set up and organized.
+The router method
+Another method of making bevels is to use a router in
+conjunction with a guide fixture. This has one advantage
+over the scarf jig in that it has the capacity to cut bevels
+in stock of a wider dimension range. The disadvantage
+is that the basic fixture takes a little more time to
+engineer and construct and is not so portable because
+it must be aligned with a flat surface in order to be of
+value. Usually this fixture is permanently attached at
+the end of a long, flat surface, such as a workbench,
+108
+Core Boatbuilding Techniques
+Figure 12-1 Basic scarfing jig.
+Fence
+Fence
+Fence
+Wedge
+Stock
+Base
+
+--- PAGE 123 ---
+and used when needed. Figure 12-2 shows the basic
+components of this fixture and how it might be assem-
+bled. There are a number of variations on this design,
+but the basic principle, which is to provide guides
+which direct the router across the stock and machine
+the proper bevel, is the same. Move the router back and
+forth across the bevel face, cutting as much stock as the
+fly cutter bit and power of the router will allow. With a
+sharp bit and accurate guides, you can produce a very
+smooth and even bevel surface. An electric plane can
+be substituted to perform in the same manner as the
+router.
+Bonding scarf joints 
+A beveled scarf joint is only as strong as the bond
+developed between the two mating pieces. Therefore,
+the bonding and structural capacity of the adhesive
+you use is absolutely crucial to successful joints. Over
+a long period of time, WEST SYSTEM adhesive mixtures
+have shown the ability to produce strong scarf joints
+if proper bonding procedures are followed.
+The quality of the fit between mating surfaces is another
+important factor in successful scarfing. Although it is
+possible to correct minor irregularities with a thickened,
+gap-filling adhesive mixture, it is better to keep working
+a joint until it fits well. To check the fit, clamp the two
+pieces of stock together in a trial run. If the bevels mate
+poorly, gaps will be immediately apparent and you can
+fix them. Even if the bevels do mate properly, sight
+down the joined pieces to make sure that there is no
+bend at the scarf to indicate that the bevel angles do
+not match. When you are satisfied with the joint, you
+are ready to apply an adhesive mixture to the bonding
+surfaces of both parts.
+Beveled scarf joints present a unique bonding problem
+because you are dealing primarily with end-grain wood.
+Most bonding in wooden boatbuilding is between
+side or flat grain wood, where tight cell structure limits
+epoxy penetration into the wood fiber. End-grain wood,
+in comparison, can be penetrated deeply by the bonding
+adhesive. This penetration of adhesive far into the
+wood in itself makes the joint stronger. However, deep
+penetration can cause difficulties if so much adhesive
+is drawn into the wood fiber that an adhesive-starved
+joint develops. Then, serious voids can occur between
+the mating surfaces, which may compromise the struc-
+tural integrity of the joint. Once you understand this
+problem, you can easily take preventive measures
+when applying the epoxy.
+There are several ways to apply epoxy to a lumber scarf
+joint. The method of choice, outlined here, not only
+helps to fill gaps, but also minimizes the chances that
+the epoxy you’ve applied to fill gaps will be drawn into
+the end grain during the curing process.
+To bond lumber scarfs, mix a batch of WEST SYSTEM
+epoxy and apply it, with no fillers, to both bevels. Let
+this coating sit for five minutes, and then add 406
+Colloidal Silica or another high-density filler. to the
+epoxy in your pot. The consistency of this mixture
+depends on the quality of your joint. Apply desired
+quantities of thickened epoxy to both bonding surfaces.
+The first coating will penetrate into the wood, increasing
+the likelihood that the second coating will remain
+close to the scarfed surface to bridge any minor voids.
+Clamping scarf joints
+To make accurate scarf joints, you need a long, flat
+surface, such as a workbench or the floor, on which
+you can assemble and clamp the bevel joints. After
+you have applied the adhesive, bring together the two
+pieces of stock you are joining so that their bevels
+slowly meet, using slight pressure with your gloved
+hands. Press them together firmly, squeezing out any
+excess adhesive. Make sure that both pieces are flat on
+Chapter 12 – Scarfing
+109
+Figure 12-2 A jig for cutting scarf bevels with a router.
+Router and base
+Jig mounted on bench
+and constructed so
+that pipes are aligned
+parallel with the scarf
+bevel
+Stock
+Bench
+Router with
+flycutter bit cuts
+scarf on the stock
+
+--- PAGE 124 ---
+the surface, but pressed well together so that there is
+neither over nor under matching of the bevels (See
+Figure 12-3.) Determine straightness in the edge
+dimension by feeling the edges of the scarf with your
+gloved fingers or set up a straightedge on the flat
+surface against which you can assemble the two pieces
+of stock, thus ensuring straightness in both dimensions.
+When you have lined up the scarf joint perfectly, locate
+a staple along the edge of the scarf joint on one surface,
+turn the stock over, realign the joint, and locate another
+staple on the opposite surface in the opposite scarf
+edge. These temporary locating staples hold the scarf
+joint in proper position until you can apply clamping
+pressure.
+It is important that you clamp the joint firmly so that
+good contact is made between the surfaces. However,
+excessive clamping pressure is not needed and should
+be avoided because it may pre-stress the joint unneces-
+sarily. To facilitate cleanup, remove any excess epoxy
+that has squeezed out of the joint before you apply any
+clamping pressure. Then wrap the scarf joint in wax
+paper or light polyethylene film to prevent inadvertent
+bonding of the scarf joint with clamps or the flat
+surface. Apply clamping pressure with any number of
+clamps desired or make up simple clamping fixtures
+utilizing wedges to apply even pressure over the entire
+scarf joint. Often we insert a clamping pad between
+the clamp and the stock being clamped to distribute
+clamping pressure over more area and prevent clamp
+marks from appearing in the face of the stock.
+When manufacturing the planking, stringers, or
+ribbands for a mold or hull, you will bond a great
+many scarf joints in a short time. Just as we have
+developed higher production methods to machine
+scarf bevels, so have we developed techniques which
+vastly speed up the scarf bonding procedure. When
+making numerous scarfs with the same size stock, we
+prepare and temporarily line up the joints and then,
+rather than clamping them individually, apply adhesive
+and clamps to a number of scarfs in one operation as
+shown in Figure 12-4. The number of joints that you
+can assemble at one time is limited by the assembly life
+of your epoxy and the dimensional capacity of the
+clamps or clamping fixtures you are using. While we
+have clamped up to twenty scarf joints at once, it takes
+a great deal of care to keep this many from shifting.
+110
+Core Boatbuilding Techniques
+Figure 12-3 When bonding thin stock or more than one
+scarf, take care to avoid overmatching the bevels (A) or
+undermatching the bevels (B). Use wire brads or staples
+to hold a bevel in proper alignment (C) and prevent slipping
+during clamping.
+Figure 12-4 Stringers being prepared for bonding and
+clamping. Scarf bevels have been cut on both ends. This
+set-up places scarfs close to each other to minimize the
+number of clamps needed.
+
+--- PAGE 125 ---
+Production bonding needs to be well organized and
+requires the cooperation of at least two people. First,
+pre-sort the stock to be joined and lay out the individual
+pieces on a flat surface opposite one another with each
+of the beveled surfaces facing up and pointing toward
+its mate. No doubt you will want to make up varying
+lengths of scarfed material, and you should do your
+planning at this stage to minimize waste when you are
+actually assembling the scarfed stock on the boat.
+When you have laid out and organized all of the stock,
+establish a separate assembly area close by on a flat
+surface and prepare the clamps and a staple gun which
+shoots 38" (9mm) wide-crown staples. On the floor, lay
+out wax paper or a polyethylene sheet that is somewhat
+wider than the scarf joints themselves to prevent
+inadvertent bonding. Make up the adhesive mixture
+and apply it to all the upward-facing beveled surfaces,
+following the application procedure previously described.
+Move two matched pieces of stock to the prepared
+assembly area and align their beveled bonding surfaces,
+using the procedure previously described. After you
+have inserted the locating staples, turn the stock up on
+edge with the side of the scarf joint resting on the wax
+paper or polyethylene sheet. Before you move another
+pair of matched pieces into the assembly area, wrap a
+roll of wax paper over the standing surface of the scarf
+you have just lined up; this will create a barrier between
+it and the next scarf joint when they are placed side
+by side. Then lift this roll of paper up the side of the
+second scarf joint so that you can nestle the third scarf
+joint beside the second without any bonding occurring
+between them. Continue weaving the roll of wax paper
+back and forth between all the ensuing scarf joints you
+line up.
+When you have lined up all of the joints in this manner
+and they are sitting on edge, position heavy pieces of
+stock about twice the scarf length on each side of the
+stack. These serve as clamping pads to distribute
+pressure evenly. Position clamps at either end of the
+pads to keep the joints from sliding apart when
+pressure is applied to the scarf area. Use enough clamps
+to apply sufficient pressur

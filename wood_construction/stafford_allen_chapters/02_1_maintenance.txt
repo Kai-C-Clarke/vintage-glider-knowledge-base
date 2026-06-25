@@ -1,0 +1,653 @@
+# 1. MAINTENANCE
+
+^yn may define Maintenance as work 
+carried out on a glider to prevent 
+deterioration, or to delay its effects, while 
+repairs may be defined as operations to 
+rectify damage. These two definitions are 
+clearly not perfect since they do, in a sense, 
+overlap. However, they are good enough 
+for our purposes.
+Let us deal with Maintenance first. How- 
+ever much money we lay out on the pur- 
+chase of a brand new "Super-Heaven" sail- 
+plane, it will, from the moment we take 
+delivery, begin to deteriorate. 
+But, by 
+taking a little thought, and putting in some 
+work on it, we can keep that sailplane in 
+virtually brand new condition. 
+The first 
+thing we must deal with is: 
+Lubrication
+It is more or less axiomatic that, where 
+metal rubs on metal, some lubricant should 
+be used to reduce friction and prevent wear. 
+In the general structure and control system 
+of gliders, the moving parts are all slow- 
+moving, and for this purpose the best 
+lubricant is a good quality grease. 
+Un- 
+fortunately most manufacturers are rather 
+stingy in the matter of fitting grease nipples, 
+which enable grease to be pumped in with a 
+grease gun. Unless this can be done, it is 
+extremely difficult to get the grease into a 
+bearing, and no amount of grease slapped 
+on the outside of a bearing does any good 
+at all. Probably the best method may be 
+said to be: "take it apart, grease it, and put 
+it together again."
+There is a good deal to be said for the use 
+of heavy oil, about SAE 140, for control 
+systems, particularly for control surface 
+hinges. Where the latter are of the usual 
+pin-and-split pin type, the only satisfactory 
+way to get grease into them is by taking 
+them apart. Slapping grease on the outside 
+only seems to result in a frightful-looking 
+sort of toffee-apple of dust, sand and mud 
+forming around the hinge. To strip every 
+hinge is a long job. Now, heavy oil does 
+creep into the bearing surfaces, and it does 
+not take long to go round a glider and put a 
+drop on each hinge.
+The points which do require regular 
+attention are as follows: 
+1. The release hooks.
+2. All control surface hinges.
+3. All pulley bearings (bearings only 
+please).
+4. Stick 
+bearings and torque tube 
+bearings.
+5. All control lever bearings and the pins 
+which connect the levers to the rods or 
+cables.
+6. Landing wheels unless of the sealed 
+ball-bearing type.
+You cannot do any harm by over- 
+lubricating provided (and this is important) 
+the oil or grease goes where it is meant to go. 
+You can do a good deal of harm by allowing 
+oil or grease to get into places where it 
+should not be. Therefore take great care 
+that no lubricants get into the wrong places. 
+These are as follows: 
+1. On to any timber. If left, the timber 
+will soak up the oil and eventually 
+become rotten.
+2. On to any fabric. 
+The same will 
+happen.
+3. On to any cables. The result of this is 
+that the oil, or grease, will collect grit 
+and form a grinding compound which 
+will wear away the cable where it 
+passes over pulleys, or through fair 
+leads.
+4. On to any rubber. If left, the rubber 
+will dissolve into a horrid sticky mess.
+If you should accidentally spill a little oil 
+in any of these places, wipe it up at once; it 
+will save you a lot of work in the end.
+Finally, how often should you lubricate 
+your glider? This is a difficult question, as 
+so much depends on the conditions under 
+which the glider operates and is stored. 
+You will be fairly safe, however, if you 
+make a rule to do it about every 20 hours' 
+flying, or once a month at least.
+Corrosion
+This is the chief enemy of the STEEL in 
+your glider. 
+There are several ways of 
+combating it, but all of them depend on 
+covering the metal with a protective skin. 
+Some steel parts are cadmium or chromium 
+plated, but the most usual method is by the 
+use of some sort of paint. The principle to 
+follow is this: keep the protective skin 
+intact. 
+If you see any rust developing, 
+remove it carefully with a wire brush or fine 
+emery cloth and repaint. If you have to do
+ 1-
+
+--- PAGE 9 ---
+this, please make sure that the corrosion 
+has not weakened the fitting appreciably. 
+If it has done so, you must replace it with a 
+new fitting. There are a few metal parts 
+which cannot be painted, such as spar pins, 
+etc. 
+These must be kept covered with 
+grease.
+There is one other place where corrosion 
+must be guarded against, and that is 
+wherever wood and steel touch. Wherever 
+there is plate fitted onto a wooden member 
+or wherever steel bolts pass through 
+timbers, there is a chance of corrosion due 
+to the moisture in the timber itself. If you 
+have to replace bolts or plates in these 
+conditions, make sure that both wood and 
+steel have a liberal coating of chromate 
+jointing compound before assembly.
+Timber and Plywood
+Both these will deteriorate if they are 
+allowed to become too wet or too dry. The 
+timber and ply was in its best condition 
+when your machine was built, and your aim 
+should be to keep it so. Therefore ensure 
+that the protective covering on all the wood- 
+work is kept intact and touch up with the 
+paint brush whenever necessary. This is 
+particularly important if your machine is 
+built with casein glue as damp will cause a 
+fungus to form and attack the glue.
+Fabric
+When the fabric was applied to your 
+machine it was doped to tighten it, and to 
+make it waterproof. The doping scheme 
+ought to have included in it at least one 
+coat of aluminium dope to make it opaque 
+as well, although there are still some 
+machines flying with clear-doped fabric. 
+The main enemies of fabric are ultra-violet 
+light, which rots the fibres, and oil, water 
+or acid which will eventually destroy it. 
+Therefore, keep these things away from 
+fabric as far as you can. If the doping was 
+properly done, the fabric should be im- 
+pervious to water so the odd shower of rain 
+will do no harm. However, if water gets 
+inside the wing, it may be able to soak the 
+fibres of the fabric, so keep the drainage 
+eyelets clear. Ultra-violet light is a thing you 
+cannot do much about, except to avoid sun- 
+light for unnecessarily long periods; and in 
+any case, if the doping is really opaque, the 
+ultra violet light will be prevented from 
+getting at the fabric. In brief, keep the 
+fabric clean, and do not let the sun get at it 
+more than necessary.
+Instruments
+Modern aircraft instruments are ex- 
+tremely reliable bits of mechanism, and if 
+anything does go wrong with them, it is 
+generally much better to send them either 
+to the manufacturers, or to a specialist firm 
+for overhaul. The difficulty is that even if 
+one knows what is wrong with them, they 
+must be checked for accuracy after any 
+adjustment, and this almost always requires 
+a special calibrating gadget of some sort. 
+However, to prevent trouble developing, the 
+following points should be borne in mind: 
+1. Use good quality rubber pipe for the 
+connections, and replace it whenever 
+there are any signs of perishing.
+2. Keep moisture and dust out of 
+instruments and their piping.
+3. Do not subject instruments to rough 
+treatment, shocks, etc., and do not 
+blow into Air Speed Indicators or 
+Variometers.
+Cables
+Most gliders use cables in their control 
+circuits, and it is most important to keep 
+the cable tensions correct. If the tension is 
+too slack there is a risk >f turnbuckles 
+fouling ribs or bulkheads, while if the cable 
+is too tight the fittings may be subjected to 
+unnecessarily large loads. The effect of "g" 
+on cable loads must not be overlooked. In a 
+loop, for example, the elevator cable of most 
+gliders is subjected to quite a big increase in 
+tension, since it is only supported at two 
+points about 15 feet apart. Due to the extra 
+"g," it tries to sag, and if the tension was 
+tight to start with, the increase of tension 
+may be very great.
+Cables tend to stretch and shrink as the 
+temperature increases or decreases, so they 
+may require adjusting fairly frequently. 
+While on this point, remember that a sail- 
+plane sitting on the ground in a temperature 
+of 75°F. or more, on a fine sunny summer's 
+day, may well be at 8,000 ft. a short time 
+later, where the temperature will probably 
+be around freezing point; so do not over- 
+tighten the cables in summer.
+What is the correct tension for cables? 
+This is a very difficult matter to describe in 
+print, and is much better learnt by an actual 
+demonstration on a glider. However, here 
+are two rough guides. On a machine such 
+as a Tutor with no mass balance on the 
+elevator, the tension in the elevator cable is 
+about right if the stick will just fall forward 
+due to the weight of the elevators. On a
+•2—
+
+--- PAGE 10 ---
+machine like the Olympia, the cable is about 
+right for tension if you just cannot feel a 
+"tight-spot" in the elevator movement. 
+This latter case is of course complicated by 
+the fact that the elevator is partially mass- 
+balanced, so the first method does not work 
+properly. Use these tensions as a guide tc 
+the setting of aileron cables. Rudder cables 
+on most gliders are bungee-tensioned in the 
+nose of the machine, and in this case they 
+look after themselves as regards tension. 
+We are assuming, of course, in all these 
+tests, that the control circuit is properly 
+lubricated.
+Safety and Locking
+All parts of a glider must be so fitted and 
+locked that there is no risk of anything 
+working loose or coming undone. We can 
+consider turnbuckles first. One commonly 
+used type has a barrel in which there is a 
+socket at each end with right and left 
+handed threads. Into these sockets screw 
+the eyebolts. With this type, all the threads 
+of the eyebolts must be inside the barrel if 
+the turnbuckle is "in safety" or able to 
+develop its full strength. 
+If any threads 
+show, then the cable must be increased in 
+length, by the addition of links, etc., to 
+allow full engagement of all the threads. A 
+second type of turnbuckle, found on
+Locking wire,
+Olympias and other gliders, consists of a 
+right and left handed screw for the central 
+portion, and this fits into two sockets which 
+are swaged onto the ends of the cable. In 
+this type the central screw is threaded 
+almost up to the middle, and there is a 
+different method of determining whether 
+sufficient threads are engaged with the 
+sockets to provide full strength. On each 
+socket will be found a small hole, about 
+f inch from the mouth of the socket, and 
+this is the "safety hole." The socket is "in 
+safety" if the screw has been screwed in past 
+this hole. This must be verified, either by 
+looking into the hole or by feeling with a 
+pin or piece of wire. This type of turnbuckle 
+also has two brass locknuts which should be 
+screwed back against the sockets when the 
+adjustment is correct. 
+In spite of these 
+locknuts, the turnbuckle must be properly 
+wire-locked as described below.
+All turnbuckles must be locked against 
+possible movement. Soft iron locking wire 
+is generally used for this, and it can be 
+bought, galvanised, very cheaply at any 
+ironmongers. 
+There are two accepted 
+methods of locking turnbuckles. The first, 
+shown in Fig. 1 (a), is done by passing a 
+length of wire through the hole in the 
+middle of the barrel, bending the ends up 
+and passing them through the eyebolts or
+At least 3 full turns
+\
+(a)
+Safety hole
+Locking wire
+Cable
+At least 3 full turns
+(b)
+Fig.
+
+--- PAGE 11 ---
+fittings. The ends are then wrapped round 
+the shanks of the eyebolts (and the wire 
+itself) for at least three full turns, but 
+preferably more.
+The second method, sometimes called the 
+"figure-of-eight" lock, is preferable where 
+the turnbuckle is in an inaccessible place, 
+and the wrapping round of the ends is a 
+difficult job. 
+In the screw type of turn- 
+buckle, each socket will be found to contain 
+some more holes. One, near the cable end, 
+is a little blind hole and was used by the 
+makers to ensure that the cable was fully 
+home before it was swaged in. This hole 
+does not concern us, but near it is a hole 
+right through the socket. This is the locking 
+hole. The wire passes through this hole, 
+crosses through the hole in the central 
+screw, through the locking hole in the other 
+socket, and the two ends are twisted together 
+with at least 3 full turns (preferably more) to 
+form a complete figure-of-eight as shown in 
+Fig. 1 (b). This may seem more complicated 
+than the first method, but you will find that 
+it is not. One can usually fiddle the wire in 
+easily enough, but often the wrapping down 
+of the ends is very difficult in a confined 
+space, using the method of Fig. 1 (a). The 
+advantage of the second method is that
+WRONG
+once the wire is threaded into place, and the 
+ends brought together, a pair of pliers can 
+be used to twist up. 
+Whatever type of 
+locking is used, always fold down ends of 
+wire so that no fouling can occur.
+Bolts are used all over the structure of 
+most gliders, and all bolts must be locked 
+so that there is no danger of the nut 
+accidentally working loose. One simple way 
+of locking a bolt is to bash the end over 
+until it is riveted over the nut. 
+This is an 
+admirable method for bolts which, you 
+hope, are never going to be undone. The 
+snag is that if ever you do have to take the 
+bolt out, it, and its nut, must be scrapped 
+and a new bolt and nut fitted. The next 
+method is by means of a castellated nut and 
+split pin fitted through a hole in the bolt. 
+This is very satisfactory, but in awkward 
+places attempts to get the split pin into 
+place can lead to much bad language. There 
+are on the market a number of so-called 
+locking washers which do the job quite well. 
+They have a serious disadvantage, however, 
+in that all of them tend to cut the fitting and 
+the nut with their locking elements, teeth, 
+claws or whatever you like to call them. 
+You will do well to avoid them on gliders.
+Lastly we come to the Stiff nuts, Nyloc,
+CORRECT
+Thread
+in 
+shear
+Thread
+in 
+bearing
+Washer
+No
+-, 
+thread 
+in shear 
+or bearing
+Fig. 2
+_4
+
+--- PAGE 12 ---
+Simmonds nuts or Pinnacle nuts. These are 
+self-locking nuts and they really are self- 
+locking. They have none of the snags of the 
+above methods and should be used when- 
+ever possible. One small point: make sure 
+that the bolt thread does go right through 
+the nut, otherwise the self-locking element 
+may not be able to do its job. These nuts 
+may be used over and over again, but reject 
+any which do not seem to be reasonably 
+tight on the thread. As a rough guide, if you 
+can screw the nut right on with your fingers 
+it should be scrapped. Some manufacturers 
+prefer to use slotted nuts and split pins in 
+control circuits, etc., where there is a chance 
+of the bolt rotating, and you should always 
+use the same method as the manufacturer.
+One method of locking which is some- 
+times seen should not be used on gliders. 
+This is the practice of screwing down a 
+second nut tight onto the first one. It is an 
+unreliable method and usually damages the 
+bolt threads.
+When replacing bolts with new ones, 
+make sure that the new bolt is the correct 
+length. Bolts should not be fitted with their
+threads in shear or in bearing. 
+Fig. 2 
+should make this clear.
+For this reason a washer should always be 
+fitted, and you should check that the 
+straight portion of the bolt does actually 
+reach right through the fitting but not 
+through the washer.
+Wing pins should be good fits in their 
+holes and should be kept greased. 
+The 
+usual way of locking these is to fit safety 
+pins, though if a machine is only very rarely 
+derigged, it is a good plan to use split pins 
+and washers. These do not rattle so much, 
+and are not so liable to catch on clothing, 
+etc. This can be a danger with safety pins in 
+exposed places, and it is quite easy to pull 
+open a safety pin unnoticed from this cause.
+Finally, a few general points. Never use 
+a split pin more than once. Always use the 
+correct size of split pin or safety pin. Always 
+use non-cprrodible split pins. Do replace 
+locking wire with new if you have to unlock 
+a turnbuckle. Do watch for corrosion, bad 
+fabric, slack fittings, hinges, faults in wood- 
+work finish, etc., and deal with these 
+matters at once.
+OTTLEY MOTORS LTD.
+Established over 30 years as repairers of all types of mechanical 
+devices, including engine overhauling and tuning.
+Manufacturers and repairers of all types of motor bodies, chassis, etc.
+Finishes on metal and wood of all descriptions including cellulose 
+and varnish.
+Designers and Manufacturers of the
+Ottfur Release Gears. Suitable for
+Sailplanes and Aero Tugs.
+Manufacturers and repairers of all types of Sailplanes and Gliders. 
+Machines collected and delivered.
+A.R.B. Approved.
+Fully experienced staff for all department!. 
+Estimates free.
+11 CRESCENT ROAD, WOOD GREEN, 
+LONDON, N.22
+Telephone: BOWES PARK 4568 
+  _
+
+--- PAGE 13 ---
+2. REPAIRS. GENERAL CONSIDERATIONS
+J^EPAIRS are usually the result of 
+accidental damage to a glider. They 
+may be necessary, however, as a result of 
+bad maintenance, or plain old age. If you 
+carry out the necessary maintenance on 
+your glider conscientiously, you should be 
+able to eliminate almost entirely repairs due 
+to bad maintenance, but it is obvious that 
+no part of a glider can be considered to last 
+for ever, and will, sooner or later, require 
+replacing or repairing.
+The first thing to remember about any 
+sort of repair is that you must only use 
+approved materials in your repair. When 
+the machine was designed and built, great 
+care was taken to ensure that every part of 
+the glider was strong enough for its job. 
+Quite as much care was taken to see that no 
+part was unnecessarily strong, for in this 
+case the glider would be heavier than it need 
+be. Now, in calculating the strength of all 
+the pieces of the glider, the designer used as 
+a basis the known strength of approved 
+aircraft timber, spruce, ply, etc. and the 
+known strength of various specification 
+steels. If you, subsequently, go and replace 
+some of these high-quality materials with 
+any old bits of wood, or metal, your repair 
+may look all right but it will most certainly 
+be all wrong.
+An Inspector of Aircraft Materials is a 
+highly skilled man, who has at his disposal 
+a fair amount of testing equipment, and 
+nobody suggests that we should all become 
+Inspectors and set up our own test labora- 
+tories. But you must and this cannot be 
+stressed too highly you really must make 
+sure that nothing goes into your glider 
+which has not been tested and approved. 
+The best way of doing this is to buy your 
+supplies from reputable firms and to insist 
+upon an Approved Certificate or Release 
+Note for whatever you buy. All good firms 
+issue these Notes as a matter of course and 
+usually the material, wood, ply or metal, 
+bears a stamp or mark which is quoted on 
+the Release Note. 
+All repairs must, of 
+course, be entered up and signed for in the 
+glider's log book, and against the entry for 
+the repair you should enter the number and 
+date of the Release Note for the materials 
+used in the repair. It is, if you like, your 
+proof that you did use proper aircraft 
+materials for the job. The name "Release
+—6-
+Note" puzzles some people. It is merely a 
+note issued by an Inspector that he has 
+examined the material in question, that he 
+is satisfied that it is up to standard and that 
+it may be "released" from store for use on 
+aircraft.
+A good repair on any aircraft must 
+satisfy four requirements: 
+1. It must be at least as strong as the 
+original structure.
+2. It must be as nearly as possible as 
+rigid, or stiff, as the original structure 
+but neither more nor less so.
+3. It must not be appreciably heavier 
+than the original structure.
+4. All protective coverings, paint, dope, 
+etc., must have been made good.
+If, when you have completed a repair, you 
+can honestly say that it fulfils all four of 
+these requirements, then you have every 
+right to call it a good repair.
+Let us take these four requirements in 
+order.
+No. 1, strength, is obviously vital, for on 
+it may depend your life. First, there must 
+be no doubt as to the material in the repair. 
+This is satisfied so long as only Approved 
+materials are used. 
+Secondly, the repair 
+scheme must be worked out and splices, 
+etc., made correctly. 
+For many jobs, 
+standard repair schemes can be employed 
+which have been found satisfactory by many 
+tests. If no standard repair scheme can be 
+used for a particular repair, then one must 
+be worked out. This means that you must 
+plan what damaged material has got to be 
+cut out, how you are going to replace it, 
+where the joints are going to be, and 
+whether any temporary structure has got to 
+be fitted to hold the component secure while 
+the repair is made and glue is setting. This 
+matter is dealt with more fully in a later 
+chapter. If the repair is a replacement of a 
+component, then this aspect of the job is 
+simple.
+Your workmanship must be of aircraft 
+standard. Now, this does not imply fan- 
+tastic skill. Any normal person can fairly 
+quickly acquire sufficient skill with wood- 
+working tools, and files, and hacksaws, to 
+produce first-class repairs. The operations 
+in themselves are relatively simple, but you
+
+--- PAGE 14 ---
+must make sure that nothing but first-class 
+work goes into your repair. All wood joints, 
+splices, etc., must fit. If they do not, then 
+they must be chiselled, filed, sandpapered, 
+until they really do fit. Unless the repair is a 
+relatively small one, in which case you can 
+use the damaged parts as patterns, you will 
+need to obtain drawings of the damaged 
+component, and you must make sure that 
+the sizes of timber and thicknesses of ply, 
+dimensions of gussets and all other details 
+are exactly as called for in the drawing.
+One might be forgiven for thinking that, 
+if a repair is strong enough, then it is satis- 
+factory. Things are not quite as simple as 
+this, however, and this is where this business 
+of stiffness comes in (our No. 2 Require- 
+ment). Take, for example, the spar of a 
+cantilever wing. The booms, or flanges, of 
+the spar are carefully tapered, being thick 
+at the wing root where the big bending loads 
+act, and thinning out at the tip where the 
+loads are lighter. Built like this, the whole 
+spar will bend evenly and smoothly like a 
+well-designed bow. Now, suppose we make 
+a repair to the spar somewhere near the 
+middle of the wing, and, misguidedly, we 
+beef it up with lots of timber and make it 
+very stiff at this point. The spar will now 
+not be able to bend, or flex, at the repair 
+point, and in consequence it will throw a 
+lot' of extra load onto the sections of spar 
+at the ends of our repair. If it fails, it will
+not fail at our repair. Oh no! Our repair is 
+much too strong, but it will fail at the ends 
+of the repair. Do not get the idea that we 
+have somehow weakened the spar at these 
+points. The spar here is as good as ever. 
+What we have done, though, is to put a lot 
+of extra load onto these points in the spar  
+extra load which they were not designed to 
+cope with and which ought to have been 
+spread over the repaired portion evenly. 
+The net result is that the spar as a whole is 
+weaker than it should be.
+Requirement No. 3, that the repaired job 
+should not be appreciably heavier than the 
+original, will, in general, be satisfied if the 
+repair satisfies our first two requirements as 
+to strength and stiffness. A repair is almost 
+bound to involve some extra weight, but 
+this should be kept as small as possible. In 
+all big repairs, and any repairs which are a 
+long way from the centre of gravity of the 
+glider, the machine must be re-weighed, and 
+its new centre of gravity determined. Any 
+alteration in weight or C. of G. position 
+will alter the permitted maximum and 
+minimum pilot weights.
+Requirement No. 4 should be only 
+common sense. Apart from appearances, 
+it is clearly lunacy to spend time and money 
+on a good repair job without making sure 
+that, when the job is finished, the elements 
+cannot get at your work and destroy it.
+Sailplane and Gliding
+The sports only magazine 
+PUBLISHED EVERY OTHER MONTH
+60 pages of illustrations and articles for the gliding enthusiast all over
+the world.
+17s. Annually (U.S.A. $3.00) or Single Copies 2s. lOd.
+from: 
+BRITISH GLIDING ASSOCIATION
+LONDONDERRY HOUSE, 
+19 PARK LANE, LONDON, W.I
+
+--- PAGE 15 ---

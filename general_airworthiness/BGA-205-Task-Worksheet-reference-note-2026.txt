@@ -1,0 +1,71 @@
+# BGA Form 205 — Task Worksheet (Current Version: BGA 205 05/26)
+## Current as of May 2026 | Source: Gordon McDonald, BGA CAO
+
+---
+
+## IMPORTANT — Current Version Only
+
+The current BGA 205 Task Worksheet is version **BGA 205 05/26** (May 2026).
+
+All previous versions must be deleted. All worksheets used in the BGA airworthiness
+system must be identifiable as 'BGA CAO' worksheets. Personal modifications are
+not permitted.
+
+The form is held in this Archive as:
+general_airworthiness/BGA-205-Task-Worksheet_June_2026.doc
+
+---
+
+## What the Form Covers
+
+This worksheet may be used for Gliders, Motor Gliders and BGA Tugs.
+
+Fields: Registration, Type, File Reference, Date, Check/Zone, Sheet number.
+Task table: No. | Task | Action | Completed
+
+---
+
+## CAA Requirement — Tools and Panels Clearance
+
+The following statement is now a CAA requirement and must be completed on every worksheet:
+
+> "After completion of maintenance to ensure that the aircraft or component is clear
+> of all tools, equipment and any extraneous parts and material, and that all access
+> panels removed have been refitted."
+
+This is no longer optional — it must be signed off on every Form 205.
+
+---
+
+## Three Signature Blocks
+
+**Non-Part 21 aircraft** (formerly Annex II):
+- Work carried out in accordance with BGA Airworthiness Exposition
+- Supplement UK CAA BCAR APPROVAL: DAI/8378/73
+
+**Part 21 aircraft** (formerly EASA aircraft):
+- BGA Inspector Certificate of Release to Service ML.A.801(e)
+- CAA Approval No. UK.CAO.0025
+- Certifies work carried out in accordance with Part-ML
+
+**Pilot-Owner Certificate of Release to Service**
+- Ref ML.A.801(e), ML.A.201(c), ML.A.801 and ML.A.803
+- For limited pilot-owner maintenance under Part-ML
+
+Signed: BGA Authorisation/pilot No: Date:
+Tick appropriate box.
+
+---
+
+## Form 205 Wording Guidance
+
+When completing the task description, cite the reference document used. Examples:
+
+- Wood repair: "Repaired in accordance with BGA Standard Repairs Section 3"
+- Fabric covering: "Covered in accordance with Ceconite Manual 101"
+- Adhesive joints: "Aerodux 185 resorcinol adhesive used throughout"
+- Hook calibration: "Calibrated in accordance with Cair Aviation CW300/CW400 PDT"
+
+---
+*Source: BGA CAO. Form version BGA 205 05/26 issued May 2026.*
+*All previous versions superseded. Do not use modified versions.*

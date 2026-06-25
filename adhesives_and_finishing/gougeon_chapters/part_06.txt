@@ -1,0 +1,1643 @@
+e over the scarf joint area to
+ensure good bonds. When clamping a large number of
+joints at one time, you may need to tighten the clamps
+at several intervals as excess adhesive slowly squeezes
+out of the joints.
+Fairing up scarf joints
+A scarf joint is almost finished when its adhesive has
+cured. The final steps in scarfing are always fairing
+and cleanup. Excess epoxy inevitably squeezes out
+around the joint and must be removed. If you have any
+misalignment within your scarf, you will need to fair
+into the overall dimensions of the stock. We suggest
+that you take care of these matters when the epoxy is
+partially cured—5 to 8 hours after application the
+joint should be strong enough to allow you to remove
+clamps—because at this stage the epoxy is easiest to
+sand and plane. After 5 to 7 days, the work will be
+much more difficult.
+Remove the temporary locating staples before you begin
+fairing. Hand-held block planes are the basic tools
+for fairing scarf joints. Using two of them, each at a
+different blade setting, speeds up the fairing process
+when you have a lot of scarf joints to do. Set the blade
+on the second block plane for a finer cut to remove the
+last bits of material. Then use an 11" (275mm) sanding
+block with 60-grit paper to smooth out any plane
+marks and finish the joint.
+Chapter 12 – Scarfing
+111
+Figure 12-5 Plastic sheeting woven back and forth between
+stringers contains the excess epoxy runout and prevents
+bonding of the stringers to each other. When placing this plastic
+sheet, avoid pinching the plastic in any of the scarf joints.
+
+--- PAGE 126 ---
+Scarfing Plywood Panels
+There are major differences between scarfing lumber
+and scarfing commercially manufactured plywood
+panels. One significant dissimilarity is dimension: a 6"
+or 8" (150mm or 200mm) wide scarf joint in lumber is
+considered large, but a 4' (1200mm) or even 8'
+(2400mm) wide scarf joint in plywood is standard.
+Plywood is usually much thinner than lumber and
+therefore plywood bevels are usually shorter. Unlike
+bevels in stock, which consist entirely of end-grain
+wood, plywood bevels have both end and flat grain.
+Because plywood differs from lumber as a material, the
+methods used to cut plywood bevels and bond
+plywood scarf joints are somewhat different from
+those used with lumber.
+Plywood is such a commonly used material in modern
+wooden boatbuilding that the ability to join plywood
+panels with a sufficiently strong joint is of major impor-
+tance. The average boatbuilding project also uses
+enough plywood so that plywood scarfing requires a
+significant number of labor-hours in relation to the
+boatbuilding project as a whole. We recognized this
+problem long ago in our own shop and developed a
+guide which could be assembled on a table saw to
+direct a plywood panel across the table saw blade and
+create a perfectly sawn bevel edge in a short period
+of time. The only difficulty with this fixture was that
+we had to use the table saw for many other things
+and, therefore, had to set up and remove the fixture
+frequently. The set-up procedure required at least 20
+minutes, so unless we had a lot of bevels to cut on
+plywood, we usually planed them by hand.
+To solve this problem, we adapted our table saw device
+and attached the guide to the bottom of a hand-held
+circular saw. What we liked best about this tool was
+that we could leave it in place on the saw, ready for use
+at any time with no set-up required. The combined cost
+of a saw and attachment was so low that we could well
+afford the luxury of keeping the device permanently
+attached to an extra saw. Eventually, because we found
+it so useful, we added it to our line of WEST SYSTEM
+products. We also show another alternative, building
+a production jig for cutting plywood scarfs.
+The Scarffer™ attachment
+The Scarffer circular saw attachment, shown in Figures
+12-6 through 12-8, is inexpensive and can be bolted to
+the bottoms of most 714" hand-held circular saws. It
+comes with step-by-step instructions for attaching it to
+a saw, setting up plywood panels, and sawing bevels.
+The Scarffer attachment is ideal for work with plywood
+up to 14" (6mm) thick, and with minor hand finishing
+may be used on panels up to 12" (12mm) thick. We feel
+that it is an investment that quickly pays for itself in
+labor savings, even on small projects. Bevels cut with
+the Scarffer attachment can be more accurate than hand-
+cut joints, especially when you have little experience
+making scarfs by hand.
+112
+Core Boatbuilding Techniques
+Figure 12-6  Setting up a straightedge for the Scarffer 
+attachment.
+Figure 12-7 Cutting a scarf bevel by running the saw with
+the Scarffer attached along the straightedge.
+
+--- PAGE 127 ---
+Building a production jig for cutting plywood scarfs
+You can also build a jig for cutting plywood scarfs with
+a circular saw, as shown in Figure 12-9. This jig can be
+set over an existing table or made freestanding. The jig
+lets you cut an accurate bevel on the end of a plywood
+panel and doesn’t tie up your circular saw with a semi-
+permanent attachment like the Scarffer. 
+A standard circular saw is guided by a track mounted
+on the end of the table, below the table’s edge. You can
+make the guide of 3⁄4" (18mm) plywood. Mount it at the
+appropriate angle to form an 8-to-1 bevel with relation
+to the table top when the saw is set for a normal 90°
+cut. The plywood forms a flat plane that the base of the
+circular saw can follow. A permanently mounted
+straightedge strip holds the saw at the appropriate
+height and guides it along the length of the cut. Set this
+tool up with a clamping bar to hold the plywood flat
+against the table. The clamping bar should include a
+feature that will protect the operator from the exposed
+saw blade while the scarf is being cut. The advantage of
+this jig is that it lets you use a circular saw without
+modifications. Nothing is attached to it, and the
+retractable blade guard is left to operate freely.
+Making bevels by hand
+A prime requirement for hand beveling is a flat table
+or bench of sufficient size and with an edge that will
+support the plywood edge you are beveling. Position
+Figure 12-9 A jig for cutting plywood scarfs.
+Chapter 12 – Scarfing
+113
+Figure 12-8 A plywood panel with a bevel cut using the
+Scarffer attachment.
+Table Saw Track (section)
+Blade guard
+Clamping bar
+Closed cell
+foam strip
+Blocking
+Extend 2 x 4 beyond table
+edge for clamping
+Table Fence (section)
+1/4" Gap allows sawdust
+to fall through
+Blocking 12" – 16" O.C.
+Table
+fence
+Clamping bar
+Saw track
+Metal straight edge
+Circular Saw Method
+Plywood bevel
+Cutting table
+Adjust track
+width to match
+saw base
+8:1 Angle
+Spacer
+Metal edge
+
+--- PAGE 128 ---
+the plywood so that the edge to be beveled is lined up
+perfectly with the edge of the table or bench and clamp
+it down. Draw a bevel line along the length of the
+plywood just as you would with lumber stock. Usually
+you would have an 8-to-1 bevel, so if you were using
+1/4" (6mm) plywood, you would draw the bevel line 2"
+(48mm) from the edge of the plywood. Because of the
+length involved and the fact that plywood edges are
+usually straight, we usually use a marking gauge to
+transfer this distance for the bevel line.
+The basic tools you will need for hand beveling are a
+block plane and a smoothing plane. Using a power
+plane can save a lot of time in roughing the scarf bevel
+down close to its intended dimension, but without this
+luxury use a smoothing plane with a sharp, deep-set
+blade to remove a majority of the stock as quickly as
+possible. Then use a more finely set block plane to
+finish off the scarf bevel, being careful to keep the bevel
+straight and flat as you proceed. Keep the plane blades
+sharp at all times. Otherwise, the alternating grain in
+the plywood edge will begin to cut at different rates,
+causing unevenness in the bevel face. This problem
+means you also have to use sandpaper with extreme
+caution because it will sand the two directions of grain
+at different rates, also causing unevenness. The only
+real defense against the grain problem is to sharpen the
+plane blade frequently. The plane will lose its fine
+cutting edge quickly when you plane plywood due to
+the adhesive between plies. The lines created by the
+various plies in the plywood give a good indication of
+progress you are making when planing the bevel. Any
+humps or unevenness in the bevel usually show up as a
+crooked line when you sight down the glue line
+between the laminations.
+Hand beveling can be tedious and difficult, but it is like
+a lot of other boatbuilding jobs in that it is a learned
+skill and your quality and speed improve with time. If
+you have never done hand beveling, we suggest that
+you practice on a few scrap pieces of plywood.
+Occasionally, plywood bevels get messed up beyond
+repair, but a mistake does not usually mean disaster.
+Simply mark in a new bevel line an inch or so beyond
+the old line and start the whole procedure over again.
+You can save a good deal of time when hand beveling
+by setting up several panels in a stack for simultaneous
+planing. For instance, assume that you want to plane
+bevels on four 1⁄4" panels all at once. Draw 2" bevel
+lines, which represent 8-to-1 bevels across all the
+panels, and stack all four of the panels on top of one
+another on a flat table. Place the edge of the bottom
+panel flush with the edge of the table. Then place the
+second panel with its edge matching the bevel line of
+the first panel, and the third panel with its edge
+matching the bevel line of the second panel, and so
+on. Clamp the whole stack to the table and plane one
+continuous bevel over all of the panel ends. (See
+Figures 12-12 and 12-13.)
+However you cut the bevels, we do add one note of
+caution about laying out the bevels if you plan on
+natural finishing. It is not uncommon to receive
+plywood panels that have a higher quality veneer on
+one side than the other. Be sure to lay out the bevel
+angles on the proper side of the plywood panels so
+when you join the panels, the good surfaces are
+always on the same side of the joined panels.
+Bonding plywood scarf joints
+Plywood panels, beveled by hand or with the Scarffer
+attachment, are more difficult than lumber to line up
+and join for bonding. You can quickly learn to assemble
+small scarf joints with nothing more than your sense
+of touch and several clamps. Long plywood scarf joints,
+on the other hand, are troublesome to fit and may
+require complex clamping procedures. Because the
+114
+Core Boatbuilding Techniques
+Figure 12-10 Use a power plane to rough shape a scarf
+bevel. Finish shaping the bevel with a block plane.
+
+--- PAGE 129 ---
+possibility of aggregate error is high, we recommend
+against clamping a number of wide scarf joints in a
+single operation.
+To prepare plywood scarf joints for bonding, first line
+up the bevels to check them for mating accuracy. This
+requires a flat working surface—either a floor or a
+bench that is large enough to accommodate the two
+pieces being joined. You will need a steel straightedge
+about 1' (300mm) long to lay across the face of the
+scarf joint to help sight it from above. Mate the two
+beveled surfaces by pushing them into each other,
+tapping them a fraction of an inch at a time. Between
+taps, press the bevels from the top with your hand,
+holding both plywood panels flush with the underlying
+surface. Then place the straightedge across the joint; if
+the bevels are meeting correctly with no overlap, the
+straightedge should be touching both surfaces evenly.
+If there is an overlap of the bevels, the straightedge will
+rock slightly on the featheredge and stand high on one
+side or the other of the panels. If there is a gap between
+the beveled surfaces, simply sighting the edge of the
+scarf should indicate this. Occasionally there may be
+an advantage in tapping the panels together until the
+straightedge indicates that a slight override exists
+between the bevel surfaces. Then, draw the two panels
+from each other in very small increments until the
+straightedge again reads that a flat surface exists
+between the two panels. With long scarf joints, line
+up the bevel carefully on one edge and then insert a
+temporary staple. Then line up the opposite edge in
+similar fashion and insert a staple in it. If you have
+machined the bevels straight on both panels, the mating
+between the two in the center portion of the panel
+should follow the accuracy that is developed at either
+end. When the panels are in perfect alignment, make
+surmarks across the faces of both panels so that when
+you apply adhesive, you can reassemble them in the
+exact position. Make the surmarks across the scarf joint
+edge at approximately a 45° angle. Make at least two
+surmarks, one at each edge of the panel, and insert as
+many as you need in between.
+Apply the adhesive to the beveled plywood faces using
+either one of the methods described for use with
+lumber. Lumber bevels are composed entirely of end-
+grain wood, but at least one third and perhaps as much
+as two thirds of the joint face of plywood will be flat
+grain. This will not absorb the large amounts of epoxy
+that end grain does, so you can apply less epoxy and
+still be sure of a sound bond between panels.
+Chapter 12 – Scarfing
+115
+Figure 12-11 Planing narrow plywood strips with a block
+plane.
+Figure 12-12 Stacking 1⁄4" thick panels to cut several 8-to-1 scarf bevels simultaneously. The setback of each panel is based on
+the panel thickness and bevel ratio.
+Clamps should be placed
+as close as possible to
+the scarf.
+Bench
+2"
+2"
+2"
+2"
+1⁄4"
+
+--- PAGE 130 ---
+Clamping plywood scarf joints
+The potential problem with the plywood scarf joint is
+achieving proper clamping pressure. A large, flat work
+surface of the size used to fit the joint is required for
+clamping, but with one additional provision. The work
+surface must be of a material which will receive staples
+or small nails. If needed, you can position several sheets
+of 3/4" (18mm) thick sheathing grade plywood over
+your floor or the workbench to receive fasteners readily.
+Cover that part of the work surface that will be beneath
+the scarf joint with wax paper or polyethylene sheet.
+Apply the bonding adhesive, position the panels on the
+flat surface, and join the bevel surfaces together so that
+the surmarks line up. Then position a locating staple in
+each edge of the joint to prevent any movement of the
+two panels while you are clamping. Cover the top of
+the joint with wax paper and place a strip of plywood
+over the paper at the scarf joint. This plywood strip
+should be about the same thickness as the material
+being spliced together and should be wide enough to
+cover at least the entire area of the splice. Drive a suffi-
+cient number of staples or nails through the strip and
+the scarf joint into the receiving material below,
+drawing the two beveled surfaces firmly together.
+You can create adequate pressure with staples when
+clamping plywood up to 1/4" (6mm) thick. With thicker
+panels, nailing is recommended. When using nails, we
+usually use a much thicker clamping strip, of perhaps
+3/4" (18mm) stock, so that fewer nails are necessary for
+even pressure over the entire surface area. A piece of
+curved stock, held in place with clamps as shown in
+Figure 12-14, will help distribute clamping pressure
+evenly across your joint.
+Because you may be bonding wide panels, it is
+extremely important to fair up these joints while the
+adhesive is still in its partial cure stage. Use the same
+tools and procedures to clean up and fair plywood scarf
+joints as you would use with lumber scarf joints. It
+works best to do the cleanup and fairing operations
+while the plywood is still lying on a flat surface; this is
+especially important with thinner plywood.
+Scarfing in Place
+Very often in a boatbuilding job, you may need a scarfed
+panel of very large dimensions (for example, a complete
+deck surface) which is impractical to install in one piece.
+To solve this problem, we have developed a technique to
+scarf together plywood panels right in place on the hull
+as they are being installed. This scarfing-in-place proce-
+dure adds two difficulties in the basic plywood bonding
+operations: (l) the measuring, marking, and fitting of the
+116
+Core Boatbuilding Techniques
+Figure 12-13 Cutting scarf bevels on stacked panels.
+Figure 12-14 Three methods for clamping scarf joints during
+bonding.
+Curved clamping piece
+For thin plywood or veneers,
+use staples through pads on
+the feather edge.
+Plastic
+Sheet
+With thicker plywood,
+fewer nails are needed
+Backing blocks, table
+or floor under scarf
+In all cases, use several staples to
+secure the scarf and prevent slipping
+during the clamping or nailing operations.
+
+--- PAGE 131 ---
+bevels on the two panels to be joined will require a great
+deal of extra planning if the scarf joint is to be made over
+a solid portion of the hull framework; and (2) the two
+plywood panels will require more clamping because they
+will be bent over a curved surface rather than laid on a
+flat surface. The degree of curvature involved will deter-
+mine how much clamping pressure is needed to
+overcome the natural tendency of the plywood panel
+to resist the bending forces.
+In most situations, it is easier to place the scarf joint
+over a solid member of the hull framework when you
+are scarfing in place. This may be a frame, bulkhead, 
+or stringer large enough to receive staples, nails, or
+screws of sufficient length and numbers to generate the
+needed pressure. Plan the scarf joints carefully so that
+the bevels will center themselves directly on this solid
+point when you install the panels. Even with careful
+measuring, you may have to sacrifice some plywood in
+order to locate the scarf joint properly because of the
+existing hull or deck framework location. Follow the
+normal procedure for clamping; however, you may
+need to generate much more pressure to pull the joints
+properly in place for contact to take place. To generate
+maximum pressure, use temporary steel screws in
+conjunction with washers and insert them in pilot holes
+which are drilled through the clamping strip and
+through the scarf joint into the receiving solid member
+in the interior framework. Scarfing in place is commonly
+done in constructing hulls and decks with sheet
+plywood. Chapters 24 and 27 give more detailed expla-
+nations of the measuring and installation procedures.
+Scarfing to Reduce the Scrap Rate
+In the past, the scrap rate could reach close to 40% of
+materials purchased for a given project. You can reduce
+this figure substantially by the proper use of the scarf
+joint. When you consider that longer lengths of both
+plywood and lumber are sold at premium prices, it is
+easy to understand that being able to use shorter
+lengths of material can be extremely cost-effective.
+Quality plywood is not only expensive, but much of it
+may be wasted because of its limited length. A typical
+example is the use of plywood for laminating strips
+when molding hulls. On a larger boat, the lengths you
+need may vary anywhere from 9' to 14' (2.7m to 4.3m),
+depending upon the area of the hull where you apply
+the strips. With this variation, no matter how careful
+the planning, significant waste will occur. 
+However, you can cut the waste to less than 5% by
+making up extremely long panels (as long as your
+working space will allow) from which you can then cut
+carefully measured lengths. It is not uncommon for us
+to make up 50' (15m) long plywood panels, perhaps
+12" (300mm) wide, from which the major waste might
+be at most several feet at the end. The smaller scrap
+pieces become, the less value they have because of the
+increasingly limited areas in which they can be used. So
+joining several smaller pieces together to make up a
+larger piece can be time well spent. 
+When making up stringers, planking, sheer clamps, or
+keels, a little planning can pay big dividends. Try to
+determine ahead of time, within a foot or two, the exact
+lengths of each member required and then plan a
+combination of stock and scarf joints that will come
+closest to the desired length. For instance, you could
+join two 18' boards into one 35' length; if needed, make
+a shorter 26' length by joining one 18-footer with half
+of another 18-footer. Then use the other half of the 18-
+footer to join with yet a smaller 14-footer to form a
+plank 22' in length, and so on. If you have made up a
+list of all plank lengths needed for your project, you can
+methodically begin to make the best use of your stock
+by developing those lengths most easily made. Then
+make up those lengths where you may have to accept a
+higher scrap rate, which at some point is always
+unavoidable. The point is that prior planning will
+enable you to make the best use of the stock you have
+on hand.
+Chapter 12 – Scarfing
+117
+
+--- PAGE 132 ---
+118
+Core Boatbuilding Techniques
+
+--- PAGE 133 ---
+The term synthetic fiber includes fiberglass (glass fiber), carbon (graphite) fiber, aramids (Kevlar™),
+and low-modulus fibers like Dynel™ and polypropylene. These fibers share similarities with wood, such
+as being strong parallel to the fiber direction and weaker off-axis. In most cases, the density of synthetic
+fibers is greater than that of wood.
+When this book was written in 1979, the materials and techniques it described were the “cutting edge” of
+boat construction. The use of wood was in serious decline, and many boats were being built with fiberglass
+and polyester resins. Because a solid fiberglass laminate is several times heavier than an equal volume of
+a wood laminate and not as stiff, Gougeon Brothers were not keen on using fiberglass. Indeed, our mindset
+in the 1970s might be summed up by the sign on the wall in the boatshop: “If God had wanted us to use
+fiberglass, He would have created fiberglass trees.”
+Nonetheless, we at Gougeon Brothers did realize the value of synthetic fibers early on. At the time, carbon
+fiber and Kevlar were primarily aerospace materials, but we experimented with their uses in boatbuilding,
+mostly to reinforce wood locally in areas such as centerboards, rudders, and masts. We also recognized
+the value of bonding a woven fabric, such as fiberglass, with epoxy to exterior surfaces of a boat to
+increase durability and resist abrasion and impact loads. Not much was known then about how these
+synthetic fibers would interact with wood. Time has proved their effectiveness.
+The technology of manufacturing fiberglass, carbon fiber, Kevlar, and other synthetic fibers has advanced
+rapidly. Fiber manufacturers have developed better sizings for their fibers as well as more sophisticated
+weaving techniques. Since this book was last revised in 1985, Gougeon Brothers, Inc. has become a
+leading proponent of the use of synthetic fibers. We have developed testing techniques, including the
+Hydromat™ Test Method (ASTM D-6416), that characterize the strength and stiffness of low-density core
+sandwich composites as well as solid synthetic fiber laminates. These test data are used by naval archi-
+tects, laminate engineers, and composites scientists. 
+A large volume of data now exists on static and fatigue performance of solid fiberglass and carbon fiber
+laminate and sandwich composites. Much of this information is in the public domain and can be found on
+Internet sites such as www.sandia.gov and in NASA documents.
+We have not tried to incorporate all the new information about synthetic fibers into the 5th edition 
+because, as explained in the Preface, this book represents a snapshot in time. So this chapter remains
+largely unchanged from when it was written except to reflect the current WEST SYSTEM® product line and
+to discuss special application techniques for clear finishing. Nonetheless, it provides an excellent
+overview of synthetic fibers and their use with WEST SYSTEM epoxy.
+There are many areas in wooden boat construction
+where we and many others have successfully used
+synthetic fibers to augment wood structures and increase
+their overall capability. Synthetic fiber augmentation has
+been particularly effective in areas where constrained
+geometry is necessary. Centerboards, rudders, and
+masts are all components where denser, high-strength
+fibers can be incorporated with wood to improve
+performance.
+For hulls, the fiberglass-covered, wood strip composite
+process described in Chapter 23 has proved to be an
+excellent mating of wood and synthetic fibers. In more
+typical wood/WEST SYSTEM Brand epoxy construction,
+synthetic fibers are regularly used to increase exterior
+Synthetic Fibers and WEST SYSTEM
+® Epoxy
+C H A P T E R
+13
+
+--- PAGE 134 ---
+hull and deck durability by providing a denser outer
+surface to resist abrasion and impact loads. This is
+usually accomplished by sheathing exterior surfaces
+of a boat with a woven fabric which is bonded to the
+wood with epoxy. Glass fiber is by far the most impor-
+tant and popular synthetic because of its low cost,
+ready availability in many different weaves, and ease of
+handling. However, carbon and aramid fibers are used
+increasingly in areas where weight or stiffness is critical.
+The decision to use fabric sheathing and structural
+synthetic fiber augmentation should be made carefully,
+with particular attention to the extra cost and weight
+involved. There are a potentially infinite number of
+ways to assemble combinations of wood, synthetic
+fibers, and epoxy into a structure. Be aware when speci-
+fying an assortment of materials into a composite
+matrix that a wide variation in material properties can
+result. For example, a combination that has high
+specific stiffness may have very low impact strength. 
+Unfortunately, for most composite material combina-
+tions, there are no scantling rules. Some results of static
+and fatigue testing of various wood and fiberglass
+laminates are provided in Appendices C and E. These
+data can be used in the development of composite
+laminates, but we suggest you seek the help of materials
+experts and directly test specific laminates before
+making final decisions on scantlings for a given craft.
+A Survey of Synthetic Fibers and Cloths
+Both synthetic fibers and natural fibers may be used
+with WEST SYSTEM epoxy in boatbuilding. Excellent
+results may be obtained when synthetic fibers are
+applied to wooden structures at room temperature
+with minimal bonding pressure. The performance
+characteristics of the wood, however, will dominate
+the composite unless considerable synthetic fiber
+reinforcement has been used. Synthetic fibers can be
+easy to maintain and most have good strength-to-
+weight ratios, but they can be difficult to machine
+with typical woodworking tools.
+Fiberglass, Kevlar™ aramid, and graphite (carbon fiber)
+are popular modern structural materials, which have
+applications in boat construction. Fiberglass, available
+in E(electrical) and S(structural) grades, is denser and
+has less stiffness and tensile strength than either Kevlar
+or graphite. Fiberglass has more impact strength than
+graphite. Kevlar 49 has higher impact resistance and
+tensile strength than fiberglass and graphite, and it has
+the highest strength-to-density ratio of the fibers, but it
+is relatively weak in compression. Graphite, also called
+carbon, has the highest stiffness-to-density ratio of 
+the three.
+Since fiberglass, aramid, and graphite have clear
+strengths and weaknesses, it’s fairly easy to decide
+among them. Lightweight (up to 6 oz or 200g/m2)
+fiberglass, which is white and opaque, will become
+transparent when it is wet out with epoxy. Kevlar and
+graphite are yellow and black respectively and there-
+fore are not appropriate for sheathing boats which will
+be naturally finished (although recently, both fabrics
+have gained popularity as high tech fashion statements
+and are often left exposed as the outer layer). Kevlar’s
+high tensile strength and impact resistance can be
+exploited, but it should not be relied upon for high
+compression loading. Kevlar is impossible to fair and 
+it becomes fuzzy when it is sanded. Although it is
+moderately priced compared to graphite, Kevlar is
+considerably more expensive than fiberglass. Graphite
+can be especially helpful in building small or intricately
+shaped components, which must be quite stiff, but its
+brittleness and price restrict its use in other applica-
+tions.
+Three other synthetic fibers have been used extensively
+in boatbuilding. Dynel™ acrylic, polyester, and poly-
+propylene fabrics are low-modulus materials, which
+stretch much more than glass fibers to resist a load.
+One popular theory is that this may be an advantage
+if a hull is damaged by a sharp object—an outer skin
+of fabric might stretch rather than tear and serve as a
+bladder to keep the boat afloat. Meanwhile, under
+normal conditions, these fabrics are parasitic: they
+contribute weight, but very little strength or stiffness
+to the structure. An alternative is to use Kevlar, which
+can pay for its weight in added strength and stiffness
+when fiberglass cannot provide sufficient impact resist-
+ance. Kevlar will, however, significantly increase the
+cost of a hull.
+Dynel, polyester, and polypropylene are quite inexpen-
+sive compared to the other reinforcing fibers, but some
+aspects of their application can be difficult. In some
+120
+Core Boatbuilding Techniques
+
+--- PAGE 135 ---
+cases, they do not become transparent when they are
+wet out. They tend to float in epoxy, and this may cause
+an irregular surface which requires additional fairing.
+These fibers do not abrade well, so this process can be
+difficult.
+All of these synthetics are available in many forms.
+Fiberglass, for example, is sold as chopped fibers,
+chopped strand mat, roving, and cloths woven with
+twisted and untwisted yarns. Woven cloths are sold by
+weight—a square yard of 6 oz cloth weighs 6 ounces,
+and a square yard of 17 oz cloth weighs 17 ounces.
+Weave patterns affect the feel and handling of the cloth
+and can detract from its physical properties, particularly
+in fatigue, because of stress where the yarns cross. Woven
+cloth is better than matting insofar as it permits precise
+alignment of fibers. Twisted yarns tend to be weaker
+than untwisted yarns because filaments can be fractured
+in spinning. “Knit” unidirectional cloths provide the
+best alignment of fibers under load. Biaxial, triaxial, and
+quadraxial fabrics are now available. In these, layers of
+unidirectional fabric are sewn together, one layer atop
+another, with each layer oriented on a different axis.
+Most fibers, synthetic and natural, are treated with
+sizing to protect them from moisture and to enhance
+adhesion. Some of these finishes were designed to be
+more compatible with epoxy, some with polyester
+resins. In the past, compatibility was more of an issue
+than it is today. WEST SYSTEM epoxy is compatible with
+both finishes, but if you are using new or unfamiliar
+fabric, you should test it for wet out, especially if a
+clear finish is desired.
+Combinations of wood and reinforcing fibers may be
+used to take advantage of the strengths and weaknesses
+of the fibers. If, for example, you sheathe a hull with
+Kevlar for impact strength, you may also have to add
+an exterior layer of fiberglass to prevent abrading the
+aramid during fairing. As we explain more thoroughly
+in Appendix E, two or more layers of synthetic fibers
+can be laid together on a wood laminate, or they can
+be interspersed between layers of wood. In an attempt
+to increase impact resistance, it may be more efficient
+to laminate a layer of Kevlar near the interior of a hull,
+where loads will be in tension and fairing problems
+minimized. Then a fiberglass skin can be added on the
+exterior.
+Fatigue Behavior of Synthetic Fibers
+As we were testing fatigue behavior in wood, another
+NASA program investigated fatigue resistance in several
+glass fiber composites. From this, several conclusions
+can be drawn about both glass fibers and the resin used
+to bond them. The type of resin played a significant
+part in high cycle fatigue resistance. Polyester-bonded
+samples were about 8% stronger in one-time, load-to-
+failure static capability than epoxy-bonded samples.
+In high cycle fatigue, however, the roles reversed: the
+polyester laminate retained less than 19% of its original
+one-time static strength. (For more detailed discussion,
+see Appendix C.)
+Failure occurs in glass laminate in two distinct ways.
+Early on, even in the first few cycles, a matrix cracking
+and debonding occur, primarily because of glass’s low
+elastic modulus. At about 100,000 cycles—or, if a boat
+is subjected to cyclic load increases associated with
+waves every 3 seconds, after about 83 hours of sailing—
+the glass fibers, having relieved themselves of small
+discontinuities, become the dominating factor through
+to final failure. At the early low cycle matrix debonding
+stage, there is significant loss of residual mechanical
+properties, including stiffness. This is probably what
+causes some fiberglass racing boats to get soft and lose
+their competitive edge.
+Common Uses for Fiberglass Cloth
+Glass cloth is regularly used for protection in high
+abrasion areas. We use it on interior surfaces of center-
+board trunks and cases for retracting rudder blades. We
+also cover the centerboards, daggerboards, and rudders
+that move in these cases with cloth for abrasion resist-
+ance and increased strength. The end grain in plywood
+joints can be protected with cloth or tape. Joints in high
+traffic areas receive more abuse than other areas, so we
+often use glass tape on them. In Chapter 24, we discuss
+the use of glass tape on plywood chines.
+Although we do not always use fiberglass cloth on high-
+quality, marine-grade plywood, an exterior layer of cloth
+is necessary for finishing soft or rotary-peeled plywood.
+For boats planked with soft woods like Western red
+cedar, a layer of fiberglass provides a tougher, more
+abrasion and impact resistant surface. Fiberglass can
+Chapter 13 – Synthetic Fibers and WEST SYSTEM® Epoxy
+121
+
+--- PAGE 136 ---
+make Douglas fir ply much easier to work and more
+reliable over time. Cloth sheathing will also prevent
+the surface checking which is so common with fir
+plywood.
+A layer of cloth serves as a screed and helps to maintain
+an adequate thickness of epoxy coating, creating a more
+durable surface. Without the cloth, it’s easy to sand away
+a lot of epoxy and leave little to protect the wood surface.
+Glass cloth is also useful for structural purposes. In
+strip composite construction, it increases hull strength
+and stiffness. In other types of hulls, it can improve
+local strength and stiffness, especially in areas where
+loads do not coincide with the orientation of the wood
+grain or when extra support is needed to balance
+uneven numbers of layers of wood. Additional wood
+will also increase hull strength and stiffness, and it is
+often cheaper and lighter to use, but in some areas
+constrained geometry doesn’t allow enough room.
+Layers of cloth can rapidly turn 5-ply panels into 7-ply
+panels, and do so in such a way that a layer with a
+higher modulus of elasticity is further away from the
+neutral axis. When fiberglass cloth is applied to a
+curved panel, it is neutral while the wood below it
+is prestressed. The cloth helps the entire panel retain
+its shape, and it can reduce the number of stringers
+needed for longitudinal support. When fiberglass is
+laid away from the neutral axis between layers of a
+wood laminate, it can help control springback. In
+other applications, it restricts cross-grain shrinking,
+swelling, and splitting.
+We often use lightweight, 4 oz to 6 oz (135g/m2 to
+200g/m2) woven glass to cover the many hundreds
+of tiny staple holes on the exterior surfaces of hand-
+laminated hulls. To do this, we coat the hull, let the
+epoxy cure, and sand it lightly. The epoxy seals the
+end grain in staple holes so that they will not absorb
+too much epoxy as the cloth is applied. Then we apply
+the fiberglass in the normal manner.
+On naturally finished hulls, lightweight fiberglass cloth
+can be particularly useful. Just as cloth covers staple
+holes, it will cover some smaller flaws, and the fabric
+will hold clear epoxy in small voids until it cures. Flaws
+and voids may also be filled with tinted epoxy, a tech-
+nique used on major imperfections, but the results are
+unsightly by comparison. Suggestions on the best ways
+to treat larger flaws are provided later in this chapter.
+Although it is cheaper than Kevlar and graphite, fiber-
+glass is more expensive than wood, and its application
+is time-consuming. To decide if a sheathing material is
+warranted for a project, make test panels out of the
+wood you plan to use. Judge the effectiveness of any
+fabric according to weight increase per square foot,
+relative increase in stiffness and strength, resistance to
+abrasion and impact, difficulty of application, and cost.
+Surface Preparation
+for Reinforcing Fabrics
+Before applying any cloth, roll an initial coating of WEST
+SYSTEM epoxy over the bare wood surface following
+instructions in Chapter 15. Fill all depressions and
+voids with epoxy thickened with low-density filler. The
+initial coating doesn’t need to be completely cured, but
+if putty is applied while the epoxy is still fluid, it may
+disturb the surface and result in more sanding later.
+Some builders prefer to allow the initial coating to cure
+completely, and then wipe it with a damp cloth and
+sand it lightly or scrape it with a cabinet scraper before
+filling. The smoother surface may allow for a more
+precise puttying operation, which requires less sanding.
+On bright finished boats, we try to fill voids as attrac-
+tively as possible, ignoring very small nicks and relying
+on the cloth to hold enough epoxy in place to fill them.
+Sometimes we mix epoxy with fillers and other ingredi-
+ents to make putties that blend in with the color of the
+surrounding wood and use these to fill larger voids. At
+other times, we mix about 2 oz (60ml) of 105 Resin and
+207 Special Coating Hardener and let it stand for about
+45 minutes at 70°F (21°C), or until it is a thick, clear
+paste which can be directly applied to voids. To keep it
+from sagging, we cover the paste with a small piece of
+polyethylene, pressing the patch smooth to fair it into
+the overall surface. Then, when the epoxy has cured,
+we remove the plastic and sand the surface fair. We
+always try to avoid sanding through the initial coating
+of surfaces that will be naturally finished because sanded
+areas will show up noticeably lighter after recoating.
+(Much of this discoloration will modify with time.)
+When the initial coating and puttying applications have
+cured, begin sanding or scraping the epoxy coating very
+122
+Core Boatbuilding Techniques
+
+--- PAGE 137 ---
+lightly. Then do a more thorough job on all puttied areas
+until you have removed the fuzzy feel of the cured epoxy
+and the filled spots are fair and smooth. We usually use
+a 2,000 rpm electric polisher with a 7" soft foam disc
+pad and 80-grit aluminum oxide paper for this job,
+but a sanding block and 50 or 80-grit paper will also
+work. Vacuum or sweep the surface to remove all
+residue. Particles the size of sand granules can help
+trap air between substrate and cloth and cause serious
+bonding problems.
+Applying Fabric
+All fabrics can be applied to surfaces in one of three
+general methods. The dry method, applying fabric to
+a dry surface, has several advantages. The fabric is easy
+to control and, because you can use limited quantities
+of epoxy at any time, there is no rush. It is an easier
+method for one person to manage. Applying fiberglass
+where a clear finish is desired, such as stripper canoes
+and kayaks, requires some special considerations and a
+variation of the dry method. The dry method for clear
+finishes uses WEST SYSTEM 105 Resin combined with
+207 Special Coating Hardener. The 105 Resin/207
+Hardener combination is preferable for areas that will
+be naturally finished for both the dry method and the
+wet method.
+The dry method will not work on overhead and vertical
+surfaces, so in those areas, you need to rely on a wet
+method, that is, applying fabric to a surface coated
+with wet epoxy. With the wet method, speed is of some
+importance because the timing of the operation is
+affected by the initial surface coating. This method can
+be tricky, especially overhead, and may require the
+organized efforts of two or three people. 
+The Dry Method
+If the surface is fairly flat, lay the cut cloth over it and
+smooth all wrinkles. Use staples or masking tape to
+hold it in place, slightly overlapping any cloth joints.
+When the material is in position, pour mixed epoxy
+directly on the fabric. Begin by mixing small quantities
+of epoxy and increase batch size as you gain more
+experience. Use a flexible plastic spreader or squeegee
+to spread the epoxy and to remove any pools which
+form. Firm pressure is necessary, but don’t press so
+hard that you shift the cloth. 
+The Dry Method for Clear Finishing
+Take special steps if you are applying fiberglass to a
+naturally finished hull and want it to be clear and
+transparent. Pouring a puddle of epoxy on the fiber-
+glass cloth and spreading it around with a spreader, as
+described in the dry method, is a quick way to wet out
+fiberglass. However, it may result in a blotchy looking
+fiberglass job because the puddle area has much less air
+trapped in the fiberglass weave than the surrounding
+area to which the epoxy was spread. This does not create
+a problem if the surface is to be painted, but if you are
+aiming for a naturally finished surface, the techniques
+described in Figure 13-2, while a little more time
+consuming, will yield a better looking job.
+Chapter 13 – Synthetic Fibers and WEST SYSTEM® Epoxy
+123
+Figure 13-1 Applying fiberglass to the deck of the 60'
+(18.2m) proa Slingshot using the dry method. Applicators
+have wet out the glass cloth around the daggerboard slot 
+and are working toward the bow and stern.
+
+--- PAGE 138 ---
+124
+Core Boatbuilding Techniques
+Fiberglass Application for Clear Finishing
+These techniques have been perfected by Ted Moores, an expert
+on clear wood strip/fiberglass finishes, and author of CanoeCraft,
+KayakCraft, and Kayaks You Can Build. Moores’ techniques are
+designed to produce the clearest possible finish for fiberglass over
+wood with the least amount of sanding. The goal is to saturate the
+wood and fiberglass cloth and build up sufficient epoxy over the
+cloth so it can be sanded smooth without cutting into the cloth—
+all this without trapping air. Trapped air can cause the epoxy film to
+initially appear milky, and it will also cause color changes over time
+as the air bubbles are exposed to UV light. To avoid trapping air,
+apply the fiberglass in three different steps, using three different
+application techniques.
+It takes 8 to 12 hours to apply the fiberglass to a typical canoe or
+kayak. It is worth completing the job in one work session if time
+allows. Each step takes 11⁄2 to 2 hours, so there are opportunities
+to take a few breaks. To avoid outgassing, be certain the shop
+temperature is stable before and during the procedure, especially
+when applying fiberglass to the inside.
+1. Gather the appropriate materials.
+Fiberglass—The fiberglass cloth used is very important to
+the clarity of the final finish. Some types of fiber sizing wet-
+out more clearly than others. WEST SYSTEM 4 oz or 6 oz
+(135g/m2 or 200g/m2) cloth, when properly wet out with
+105 Resin and 207 Special Coating Hardener, becomes
+almost invisible. The cloth must be rolled, never folded.
+Epoxy— WEST SYSTEM 105 Resin and 207 Special Coating
+Hardener produce a high gloss, slightly amber, clear finish.
+Meter it with WEST SYSTEM Mini Pumps to simplify getting
+an accurate ratio of resin to hardener. For best results, all
+surfaces and the epoxy should be 70°F (21°C) or higher.
+Application tools—Obtain a few cheap brushes with natural
+bristles 2" to 3" wide. These brushes should have stiff
+bristles—it may be necessary to trim them shorter to make
+them stiffer. Dark bristles are better than light because they
+are easier to see if they fall out of the brush. You will also
+need a couple of WEST SYSTEM 808 Flexible Plastic Spreaders
+and several 800 Roller Covers for fill coats.
+2. Drape the dry fiberglass cloth over the hull and pull the cloth
+from the ends to remove the wrinkles.
+3. Apply the first coat of epoxy.
+This coat should saturate the wood and fiberglass cloth but not
+build up on the surface. Use a stiff bristle brush to apply the
+epoxy to the cloth but do not try to work epoxy into the cloth—
+just transfer the epoxy to the surface and let it soak in on its
+own. Be fast and not necessarily neat with this coat. Work with
+small batches of 105/207 (4 to 5 pump strokes) so you always
+have freshly mixed epoxy. Apply a batch of epoxy on one side
+of the boat for about 5 minutes and then the next batch on the
+other side, alternating sides. This will maintain fresh epoxy at
+the wet edge and will result in a much more uniform color.
+Look for dry or gray areas in the fabric and apply fresh epoxy
+to these spots to restore the clarity.
+After the epoxy has been soaking into the cloth for about 20-30
+minutes, go back and use a spreader to squeegee the surface.
+Once again, do not overwork the surface. Hold the spreader
+between your thumb and fingers with the beveled edge at a
+very low angle to the surface. Your thumb should almost drag
+on the epoxy. Move the spreader slowly from the keel
+to the sheer using light pressure. Discard the excess epoxy
+collected on it. Once again, look for gray or discolored areas
+and add fresh epoxy to restore clarity. The spreader will clean
+up runs from excess application as well as any large air
+bubbles trapped under the cloth. Begin by squeegeeing the 
+first area applied. Then apply the next batch before going 
+back to squeegee the second batch applied. It is important 
+to maintain the wet edge.
+Allow the epoxy to cure to a soft, rubbery consistency.
+4. Apply the second coat of epoxy.
+This coat should level the texture of the fiberglass cloth so that
+the last coat may be applied without introducing air. Pour the
+epoxy on the surface and use a spreader to force the epoxy in
+and the air out. On vertical surfaces where it is difficult to
+spread the epoxy with a spreader, brush the epoxy on the lower
+surface and use a spreader to pull it up. Allow the epoxy to
+cure to a soft, rubbery consistency.
+5. Apply the third coat of epoxy.  
+This one can be rolled on with a WEST SYSTEM Roller Cover. Roll
+and tip as you go.
+6. Sand and finish.
+When the epoxy has cured, block sand it with 150-grit paper.
+Apply several coats of spar varnish, sanding with 220-grit
+paper between each coat.
+Figure 13-2 Dry Method of Fiberglass Application for Clear Finishing.
+
+--- PAGE 139 ---
+The Wet Method
+If you are working on a vertical or overhead surface, lay
+out and fit the fabric. Then roll it back on a cardboard
+tube or PVC pipe for easy handling. Mix resin and
+hardener, apply a coating to the substrate, and wait
+until it thickens slightly. Then lay the cloth into the
+epoxy, sliding it into position. Surface tension will
+usually hold the cloth where you want it, but when
+you are installing heavy cloth overhead, you may need
+staples to prevent drooping. We find that the entire
+process is much more successful when one person
+holds the tube of cloth and one or two others position
+it and smooth out wrinkles. As soon as the cloth is
+positioned where you want it, roll on more epoxy. Wet
+out the cloth completely and remove any air bubbles,
+using a plastic spreader to squeegee the surface as you
+would with the dry method.
+With the wet method, application area is limited by time
+and the number of workers. If you use a slow hardener
+(WEST SYSTEM 206 or 207), you will have only about an
+hour from the time you first coat the surface to complete
+the procedure. This is usually adequate, but if you are
+inexperienced or have problems convincing friends to
+share in the fun, start with smaller areas and work up
+to big surfaces as you become more capable.
+An alternate wet method allows one person to apply
+glass to vertical or overhead surfaces. The technique is
+similar to hanging wallpaper. Cut the standard glass roll
+in half. A typical roll is 60" (1500mm) wide (4 oz
+glass is 50" (1250mm) wide). A 30" (750mm) wide
+roll is much easier to handle. Wet out an area of the
+hull with unthickened epoxy wider than the cut strip.
+Cut the glass strip to length and wet it out on a protected
+work surface. Roll the wet fabric onto a cardboard tube.
+Position the edge of the glass against the hull. Press the
+fabric against the hull and smooth it out with one hand
+as you unroll it with the other. (See Figure 13-5.)
+Whether you use the wet or the dry method, the point
+of the squeegee process is to saturate the weave of the
+cloth and then to remove any puddles of excess epoxy
+which might cause the fiberglass to float from the
+surface. Squeegeeing also helps to loosen air which
+might be trapped in the cloth/epoxy matrix. A properly
+squeegeed surface has a matte finish and its weave
+should be only about two-thirds filled with epoxy.
+Don’t try to fill it completely at this point—later
+coatings will take care of the problem. As you work,
+watch for areas of cloth that haven’t received enough
+epoxy. Dry spots may be difficult to see, but they
+usually look dull and slightly white. It’s especially
+important to prevent them on surfaces that will be
+naturally finished because the cloth will remain
+visible if it is not wet out completely.
+Whichever method you use, remember that the epoxy/
+cloth matrix is easiest to trim when it is only partially
+Chapter 13 – Synthetic Fibers and WEST SYSTEM® Epoxy
+125
+Figure 13-3 Applying polypropylene cloth to a 45' outrigger
+hull using the wet method.
+Figure 13-4 Wetting out the fiberglass cloth on a wing mast
+for the 60' proa Slingshot. In this application, 4 oz cloth was
+draped over the spar and wet out with rollers.
+
+--- PAGE 140 ---
+cured, 2 or 3 hours after application with fast hardener.
+Excess cloth is much more difficult to cut when the
+epoxy is fully cured, and it can be hard to peel it from
+a surface where it is not wanted. Use a sharp blade to
+cut away overhangs of epoxy-soaked cloth, keeping
+the blade clean with solvent.
+We usually lay cloth on one half of a hull in one opera-
+tion, overlapping it a couple of inches past the keel.
+An irregular overlap can cause fairing problems, so
+we trim the edge of the fabric parallel to the keel before
+the epoxy has cured. To do this, we hold a light batten
+parallel to the keel, cut along it with a sharp knife, and
+peel away the excess. Then, when we apply cloth to the
+other side, we lap it 2" (50mm) past the centerline for a
+total overlap of about 4" (100mm), and even it off. Trim
+the edge with scissors or lay a protective strip of wood
+or cardboard under the edge if using a knife. The
+extra layers of cloth help to protect the keel, which
+takes a good deal of abuse.
+Running out of cloth and starting a new roll halfway
+down the hull can cause some problems. An overlap
+will create a bump, which will require filling and
+sanding, but it can be hard to butt two pieces of cloth
+against each other. We’ve found that the best solution
+is to fit the two pieces carefully, with as little overlap as
+possible, and squeegee them in place. Then, when the
+epoxy is partially cured, we slice down the middle of
+the overlap and, working on each side in turn, lift the
+fabric from the hull, pull away the excess and replace
+the fitted portion. A little more epoxy may be needed
+to re-wet the surface.
+You can recoat the cloth with foam rollers when the
+epoxy is tacky. The first roller coating will probably not
+fill the weave of the fabric completely. Allow it to cure,
+then wash and sand the surface lightly with a power
+sander and soft foam disc pad, taking care not to over-
+sand any areas. Don’t try to achieve a totally smooth
+surface—just remove the high spots so that the next
+coating will flow out more evenly and less sanding will
+be needed later. We usually apply two more coats of
+epoxy in quick succession before final sanding, but
+one is adequate in some cases. Coat the cloth heavily
+enough to make sure that final sanding will not expose
+any bare fiber and reduce the moisture vapor barrier
+provided by WEST SYSTEM epoxy. Then coat and finish
+the hull as described in Chapter 15.
+Estimating Epoxy Amounts
+The formula will help you estimate the amount of
+mixed epoxy needed to wet out fiberglass cloth
+(assuming a resin-to-fiber ration of 50:50) and apply
+three rolled epoxy coats to fill the weave of the cloth,
+i.e. “fill coats.”
+The formula includes a waste factor of approximately
+15%; however, more (or less) may be needed
+depending on the job and personal application
+technique. The epoxy is applied at standard room
+temperature, approximately 72° F.
+Gallons of mixed epoxy = 
+A 3 [(Wf 3 0.00085) + 0.0075]
+Where
+A = Total area covered by fiberglass. Units are in square
+feet (ft2)
+Wf = Total weight (W) per square yard of fiberglass (f)
+cloth used in laminate. Units are in ones per
+square yard (oz/yd2), i.e. 6 oz fiberglass cloth
+weighs 6 oz/yd2.
+Note: a Group Size B resin and hardener makes 1.2 or
+1.3 gal of mixed epoxy depending on hardener.
+126
+Core Boatbuilding Techniques
+Figure 13-5 Roll up a half width piece of cloth on a section
+of PVC pipe to make overhead application easier.
+
+--- PAGE 141 ---
+Applying Unidirectional Graphite Fibers
+WEST SYSTEM Unidirectional Carbon Tapes are useful
+in masts, rudders, centerboards, and other applications
+where high strength and stiffness are necessary but
+space is limited. The fibers, each one less than the
+diameter of a human hair, are arranged in bundles
+of about 12,000 fibers each (12K). The bundles are
+stitched together, 12 bundles to an inch, for a total
+of 144,000 fibers per inch of width. The fibers are
+arranged and held together with stitching to make
+application easier.
+To prepare a surface for graphite fibers, check to see that
+it is clean and apply an initial coating of WEST SYSTEM
+epoxy, following instructions in Chapter 15. Before the
+coating begins to cure, fill surface voids with a putty-like
+mixture of epoxy and 406 Colloidal Silica and allow this
+to cure. Sand filled areas flush with the surface and then
+lightly sand the entire substrate. Remove the dust with
+a damp cloth and rinse the rag with clean water to
+guarantee that no contaminants remain to affect
+adhesion. Before applying graphite to aluminum, use
+a WEST SYSTEM 860 Aluminum Etch kit to prepare the
+substrate. Defects and holes in aluminum may be filled
+with a mixture of epoxy and 406 Colloidal Silica and
+sanded, but an initial coating of epoxy is unnecessary.
+Apply a liberal coating of unthickened epoxy to the
+surface. This should be thick enough so that the graphite
+fibers will be partially saturated when they are laid out.
+Place the fibers as desired in the wet epoxy. If you are
+dealing with long pieces of graphite, use a dowel as an
+axle through the reel, unrolling with one hand and
+positioning with the other. Apply more epoxy and lightly
+work it into the fibers with a plastic spreader. Tap epoxy
+in between the filaments with a stiff-bristled brush. This
+process is easier if you warm the epoxy with a hair
+dryer as you work, especially when working in cool
+temperatures. When the graphite seems to be thoroughly
+saturated, carefully inspect it, probing with a corner of
+a spreader and moving the fibers very slightly.
+Use a modification of this technique to bond graphite to
+vertical and overhead areas. After coating, filling, and
+sanding as usual, apply a second, light coat of epoxy to
+the surface. Before applying the graphite tape to the
+surface, wet out the fibers on a protected work surface.
+Press the epoxy-covered tape into place on the surface
+and run your gloved hand or a plastic spreader along
+the tape with even pressure.  Apply more epoxy to
+thoroughly coat the tape. For additional strength, it’s
+possible to apply several layers of tape on top of each
+other. In this situation, it’s best to step-taper the layers
+of tape like a leaf spring, applying the longest piece first
+and then successively shorter pieces. This way, you can
+feather each layer when you sand it and avoid cutting
+through full-length fibers.
+Chapter 13 – Synthetic Fibers and WEST SYSTEM® Epoxy
+127
+
+--- PAGE 142 ---
+128
+Core Boatbuilding Techniques
+
+--- PAGE 143 ---
+As stated earlier in this book, Gougeon Brothers and WEST SYSTEM® epoxy have been responsible for many
+innovations that have made wooden boats practical. None, however, has been more revolutionary than
+hardware bonding. Hardware bonding is a method of securing fittings and fasteners to wood in a way
+that greatly increases the wood’s ability to carry high point loads. From over 30 years of testing and field
+experience, GBI has established a very successful hardware bonding track record—from potting loose
+hinge screws, to bonding winches to decks, to helping support 150,000 pound lead keels.
+Since the early 1980s, our Materials Testing Laboratory has been the world recognized authority in
+hardware bonding. The lab has performed thousands of static and fatigue tests to determine the
+capabilities of WEST SYSTEM epoxy in regards to hardware bonding. These tests often end when the fastener
+breaks, not when it is pulled from the wood. The data from these tests show that hardware bonding is a
+repeatable, predictable process, a process that allows the designer to determine in advance how a
+bonded fastener will fail if it is overloaded.
+Since the last edition of this book was printed, much additional information on hardware bonding has been
+gathered. Many boatbuilders have adopted and advanced the techniques described in this chapter. Naval
+architects are now designing boats with hardware bonding in mind—specifying adequate blocking and
+orienting the grain direction to better carry the loads.
+This chapter has been substantially revised for the 5th edition. We urge you to read it carefully and
+completely in order to understand the principles and procedures for hardware bonding. We have
+reorganized the chapter to emphasize the design process for hardware bonding, updated the
+information included, provided engineering data, and specified the materials and procedures required
+to do hardware bonding successfully.
+Hardware installation on wooden boats presents many
+problems. Even the smallest boats are usually equipped
+with cleats, winches, and other fittings that must be
+screwed or bolted to wood surfaces. Unfortunately,
+hardware attached by normal methods reveals some
+of the weaknesses of wood. While wood’s low density
+makes it an ideal material for hull construction, this
+low density is a weakness where hardware is concerned.
+The extreme high point loadings that can be generated
+by hardware can easily overstress wood fiber.
+Hardware that must bear high loads is typically fastened
+to deck surfaces by through-bolting. Nuts and washers
+or backing plates are used on the underside of the deck
+to clamp the hardware firmly to the wood surface.
+Depending on the size of the washer, only a minimum
+clamping load can be applied on the nut before reaching
+the crush strength of the wood fiber. To keep moisture
+from penetrating under the hardware and into the
+vulnerable end grain exposed in the holes, various
+forms of bedding compounds are used as sealants.
+Sealants, however, have a disadvantage in that they are
+flexible and not capable of carrying any load, leaving
+fittings free to move slightly when they are stressed. For
+example, fittings often have more than one bolt, and
+it is impossible to drill the holes so precisely that all
+the bolts will share equally in carrying the load. When
+a load is applied to the fitting, first one bolt will be
+stressed, and it will move slightly until another bolt
+is loaded. The bolts continue to move until finally all
+of them are sharing the load equally, as they were
+designed to do. However, by then, the fastener holes
+have elongated slightly, allowing the fitting to move
+slightly each time it is stressed.
+Over time, continual movement of the hardware tends
+to break down the elasticity of the sealant, and this
+eventually allows moisture to infiltrate the wood
+immediately surrounding the hardware installation.
+The invading moisture contributes to a general
+Hardware Bonding
+C H A P T E R
+14
+
+--- PAGE 144 ---
+weakening of the wood fiber and sets up favorable
+conditions for dry rot. Any leaking should be detected
+early, so that the fitting can be removed and rebedded. 
+High moisture levels in wood also contribute to other
+problems. When wet wood swells, the wood between
+the fitting and the flat washer or backing plate will
+crush. When the wood dries, it shrinks, so the fitting
+will be looser than ever. Wet wood also significantly
+reduces holding power. Data from dozens of fastener
+extraction tests show wet wood has up to 50% less
+holding power than dry wood. In addition, when
+moisture seeps beneath paint and varnish, it will
+cause a premature failure of the finish. This often
+begins at a leaking fitting. Finally, if dry rot develops,
+the entire fitting may fail.
+To overcome these problems, we have developed a
+different approach to attaching hardware, which we
+call hardware bonding.
+The Concept of Hardware Bonding 
+The goal of hardware bonding is to distribute loads
+on fasteners and fittings over as large an area of wood
+fiber as possible through adhesive bonding with WEST
+SYSTEM epoxy. We use WEST SYSTEM epoxy to achieve
+this load distribution bond in two distinct ways:
+• Fastener Bonding. All fasteners—all screws, bolts,
+and threaded rod—are bonded directly to the
+surrounding wood fiber. This is particularly
+effective where the fastener is stressed in tension. 
+• Hardware (or Fitting) Bonding. In addition to
+bonding the fasteners, the fitting itself is bonded
+directly to the wood fiber on which it rests. This
+is particularly effective where the fastener is stressed
+in shear.
+When you install hardware using the hardware bonding
+techniques explained in this chapter and install deck
+blocking as described in Chapter 27, the hardware can
+withstand dramatically more load than hardware which
+is simply through-bolted and bedded in position.
+WEST SYSTEM epoxy has the capacity to bond dissimilar
+materials, which makes hardware bonding practical.
+WEST SYSTEM epoxy is an excellent adhesive for wood. It
+can also be used to bond metal to wood. For a variety of
+reasons, other types of glue typically used on wood are
+not appropriate for gluing metal to wood. Additionally,
+not all brands of epoxy will work. Many are too flexible;
+a few are too brittle. Careful formulation of the resin
+and hardener is needed to create a cured epoxy capable
+of transferring the loads from metal to relatively soft,
+flexible wood. WEST SYSTEM epoxy has this capability.
+When a screw is inserted in wood, its threads break
+the wood fiber. The screw keys into the wood. This
+mechanical keying makes the screw effective, but it
+does so imperfectly. Voids remain between the wood
+and the metal. When the pilot hole for the screw and
+the screw itself are wet out with epoxy, however, the
+epoxy molds to the shape of the screw threads and
+flows into all minute voids. Mechanical keying becomes
+far more efficient and the screw is therefore able to bear
+a greater load. The wood-epoxy matrix immediately
+surrounding the fastener is stronger than wood alone,
+and it distributes the fastener load more efficiently to
+the surrounding wood fiber.
+Basic Approaches to Hardware Bonding
+Overall, hardware bonding relies on three basic
+approaches.
+1. Wet out a standard size pilot hole with epoxy.
+The simplest and most common way to bond small
+fasteners is to wet out a standard size pilot hole,
+using a pipe cleaner or syringe to work epoxy
+completely into the hole and all of the wood fiber
+immediately surrounding it. Dab epoxy over the
+screw’s shank and threads. Then insert the fastener
+and allow it to cure. The bonded screw will have
+much greater load capacity than an identical fastener
+inserted in an identical hole without epoxy. Our tests
+showed increased fastener load capacity in tension
+by up to 100% on low-density woods. We gain 
+this phenomenal increase with little expense or
+additional effort and use it in many moderately
+loaded hardware applications.
+2. Cast the fastener into an oversize hole filled
+with epoxy. To increase the amount of epoxy
+surrounding the fastener and, therefore, its holding
+power, a fastener may be inserted in an oversize
+hole. This creates an annulus, or ring, of epoxy
+between the metal and the wood. The diameter
+of the hole may be considerably larger than the
+diameter of the fastener, up to twice the diameter
+of a small screw. We more typically recommend an
+annulus of between 1⁄8" and 1⁄4" (3mm to 6mm) per
+130
+Core Boatbuilding Techniques
+
+--- PAGE 145 ---
+side, created by drilling a fastener hole with a bit
+about 1⁄4" (6mm) larger in diameter than the fastener.
+Drill the wood to the proper depth, fill the hole with
+epoxy, coat the shank and threads of the fastener
+with epoxy, and set it in.
+Oversize holes and epoxy interfaces between metal
+fasteners and wood fibers become increasingly
+important with fasteners which are larger than 1⁄4"
+in diameter. This is particularly true in situations
+where the potential of a bolt, machine screw, or
+threaded rod must be maximized.
+3. Bond the contact surface of the fitting to wood
+fiber with epoxy. Bonding the contact surface of
+a fitting can contribute a great deal to load distribu-
+tion over maximum wood surface. Proper bonding
+of a 21⁄2" diameter pad eye, for example, can add
+up to 7,000 pounds of extra shear-load resistance,
+assuming Sitka spruce with the load parallel to grain.
+We are primarily interested in improving the shear-
+load capacity of hardware installations. It’s difficult
+to make significant shear-load improvements by
+bonding fasteners, but when a fitting is bonded to
+the wood on which it sits, it has far more capacity
+in shear than the fasteners used to attach the item
+have by themselves. We bond hardware mainly to
+improve shear strength, the main weakness of low-
+density woods.
+The Design Process for Fastener Bonding
+Hardware bonding is a predictable process that allows
+a designer or engineer to determine in advance how a
+bonded fastener or fitting will fail if it is overloaded.
+This is important because it is desirable to have
+warning signs before a catastrophic failure occurs.
+The information presented in this section provides
+the formulas and data necessary to properly design
+a wood/epoxy/metal joint whether it is stressed in
+tension, shear or a combination of the two.
+Fasteners Stressed Primarily in Tension
+With epoxy-bonded fasteners, the idea is to balance the
+three parts (fastener, epoxy, and wood/hole surface area)
+to obtain optimum performance. The key information
+needed is the tensile strength of the fastener, the shear
+strength of the epoxy, and the withdrawal resistance of
+the wood or backing block.
+The fastener dimensions and tensile strength should be
+available from various handbooks. We use a conserva-
+tive shear strength of 800 psi for the WEST SYSTEM
+105/206/404 epoxy mix. The wood performance values
+are available in timber handbooks and vary by grain
+direction (that is, whether the fastener is loaded parallel
+or perpendicular to the grain of the wood). Typically,
+one or more of the above factors is fixed, and the others
+must be adjusted to fit a pre-existing condition.
+As mentioned above, we typically use 800 psi as the
+ultimate shear stress for the filled epoxy mix. This is
+a conservative value based on long-term fatigue data.
+At this stress level, the epoxy is the limiting component.
+The interface between the fastener threads and the
+epoxy is the typical initiation point for fatigue failure.
+This is good. The fatigue failure mechanism for
+epoxy—cracking and gradual destruction of the
+matrix—gives some warning. A failure at the
+wood/epoxy interface or the loss of the bolt head
+is usually catastrophic.
+The U.S. Forest Products Laboratory uses a formula to
+estimate the ultimate withdrawal load for a drift bolt or
+pin from the side grain of seasoned wood:
+p=6,600G2DL
+(p=ultimate withdrawal load in pounds, G=specific
+gravity of wood @12% moisture content, D=diameter
+of hole in inches, L=length of hole in inches.) 
+This formula gives a good estimate of the wood’s resist-
+ance to withdrawal of the epoxy plug and can be used
+to determine the size of hole. The actual performance
+Chapter 14 – Hardware Bonding
+131
+Figure 14-1 Four different bonding techniques for small
+fasteners shown in cross section.
+Annulus of thickened 
+epoxy. Use drill bit 1⁄4"
+larger than fastener size.
+1⁄8"
+Fastener
+Wood screw
+in standard
+pilot hole.
+Wood screw
+in oversize
+holes.
+Machine screw
+in oversize hole.
+Blind threaded
+rod in oversize
+hole.
+Hardware
+
+--- PAGE 146 ---
+may be higher than the value derived above, but we
+recommend using the conservative value for estimation.
+For most applications where the shear strength of the
+wood is greater than 800 psi, we recommend a hole
+sized 1⁄4" (6mm) larger in diameter than the major
+diameter of the bolt. This gives an epoxy annulus of
+1⁄8" (3mm) around the bolt. We vary the length of the
+bolt and depth of the hole to balance the breaking
+strength of the bolt versus the withdrawal resistance
+of the epoxy plug. The 800 psi epoxy shear strength
+is the limiting value. 
+The following example shows how to determine the
+diameter and depth of an oversize hole so that the force
+required to extract the fastener is approximately equal
+to the breaking strength of the bolt:
+A 3⁄8" diameter 18-8 stainless-steel bolt with an ultimate
+tensile strength of 85,000 psi and an effective cross-
+sectional working area of 0.0775 square inches has
+a breaking strength of 6,587 pounds. The hole depth
+should be the breaking strength (6,600 pounds)
+divided by the epoxy shear strength (800 psi), divided
+by the circumference of the hole (0.625"  3.1416 =
+1.9635") to equal 4.20". In actual practice, we used
+a 5⁄8" diameter hole with a depth of 41⁄2" for a 3⁄8"
+diameter bolt with 41⁄4" inches of bonded length.
+The above calculations need to be modified when you
+are limited in the depth of the hole allowed or when
+a short or oversized bolt is specified in the hardware
+installation. You do not want to cut away large portions
+of a keel or floor by using a grossly oversized hole.
+Likewise, you may be limited in a deck application by
+blocking location or overhead space limitations. In such
+cases, it is best to use the 1⁄4" larger diameter, epoxy-
+filled hole to assist in stabilizing and securing the keel
+bolt, but use floors or metal pads to distribute the load.
+How the surface area of the hole affects small and large
+fasteners is discussed below. 
+Small fasteners in tension
+In 1978 and 1979, we conducted tests to determine
+the relative effects of surface area on fasteners. We
+compared tension withdrawal of 11⁄2" long flathead
+wood screws, ranging in size from No. 8 through No.
+14, in dry pilot holes and oversize holes from 3⁄16" to 3⁄4"
+in diameter. The screws were buried in 1⁄4" plywood
+and Sitka spruce samples which had been constructed
+to simulate a deck and blocking. All of the screws,
+from No. 8 through No. 14, had about the same load
+capacity when they were bonded in 1⁄4" diameter
+holes—approximately 1700 pounds. At this load,
+the fastener/epoxy plug pulled out of the wood. Larger
+diameter holes often resulted in a tension failure of
+the fastener.
+Large fasteners in tension
+Failure mode for 3⁄4" diameter and larger fasteners can
+also be controlled by varying the surface area of the
+hole. Withdrawal resistance is affected by a number of
+variables, including fastener aspect ratio, length, and
+shape. Therefore the figures given here should serve
+only as general guides. Depending on the number of
+load cycles, R ratio, and other variables, safe allowable
+design loads should not exceed 1⁄2 of the ultimate
+withdrawal resistance loads.
+In 2002, our Materials Test Laboratory tested some
+large fasteners potted in epoxy as part of Lloyd’s
+Register certification for a 154' wood/epoxy sailboat
+project built by Hodgdon Yachts. There were two test
+programs, one with 3⁄4" diameter stainless steel threaded
+rod and another with 11⁄2" diameter silicon bronze bolts.
+All fasteners were bonded into laminated 3⁄4" clear
+Douglas fir. Figure 14-3 shows how the bolt was
+oriented relative to the grain of the wood. The annulus
+was 1⁄16" per side, as specified for the 3⁄4" bolts—smaller
+132
+Core Boatbuilding Techniques
+Figure 14-2 Typical screw types.
+Flathead machine screw
+Self-tapping sheet metal screw
+Flathead wood screw
+
+--- PAGE 147 ---
+than we would have normally recommended. Two of
+the rods were imbedded 5" deep and five rods were
+imbedded 6" deep. It took an average of 19,400 pounds
+of force to remove the 3⁄4"  5" embed and 22,000
+pounds to remove the 3⁄4"  6" embedded threaded rods.
+An interesting note: Based on the pull-out value of
+Douglas fir and the shear strength of the epoxy, if we
+had embedded the 3⁄4" threaded rod 7" instead of 6",
+the likelihood is that the bolt would have broken
+instead of pulling out of the block of wood.
+Additionally, Lloyd’s Register requested two more tests
+on the much larger 11⁄2" silicon bronze fasteners that
+would be used to hold the propeller strut to the bottom
+of the hull. These test fasteners were bonded into much
+larger laminated wood blocks. The wood grain is
+oriented differently in this test than in the 3⁄4" rod test
+to reflect the way the grain is oriented in the hull of the
+boat, as shown in Figure 14-4. The annulus for the 11⁄2"
+bolts was 1⁄8" per side. 55,000 pounds was required to
+remove the 11⁄2"  9" embedded silicon bronze rods.
+The force required, in pounds per square inch of hole
+surface area, ranged from 1,000 to 1,600 psi depending
+on the properties of the wood used to laminate the test
+blocks. These numbers correspond favorably to the
+conservative 800 psi we recommended above for
+fasteners that will be used in fatigue applications.
+While our results show that bonding significantly
+increases the capacity of fasteners, they should not be
+interpreted to mean that small fasteners can be substi-
+tuted for larger ones in any given application. Instead,
+the techniques described in this chapter can be used
+to increase safety margins and increase resistance to
+damage from dry rot.
+Fasteners Stressed Primarily in Shear
+Hardware items are loaded in shear more often than
+they are loaded in direct tension, so we think an under-
+standing of the shear capacity of fasteners is a critical
+part of hardware bonding. We conducted numerous
+shear tests on various types and sizes of fasteners to
+determine their capability under various load conditions.
+Most fasteners have less capacity in shear than in straight
+tension. In part, this is because fasteners tend to bend
+under shear load. This bending causes extremely high
+point loading, which begins at the upper wood surface
+immediately surrounding the fastener head and works
+down the shank as the fastener bends. To complicate
+the problem, the crush value for wood is way below
+what would be needed to withstand the high point
+loading generated by the bending fastener. Bonding a
+fastener in an epoxy/wood matrix will improve shear
+load capacity, but not as dramatically as it increases
+tension withdrawal. While an oversize hole with the
+epoxy matrix surrounding the fastener distributes load
+over more area, the extreme high point loading caused
+by the bending fastener can reach the compressive
+capability of the epoxy itself.
+Chapter 14 – Hardware Bonding
+133
+Figure 14-3 The 3⁄4" test samples before testing (left) and a
+cutaway of the damage after testing (right). Threaded rods
+were imbedded parallel to the glue joints.
+Figure 14-4 The 112" test samples before testing (left) and
+a cutaway of the damage after testing (right). The 112" silicon
+bronze threaded rods were imbedded perpendicular to the
+glue joints.
+
+--- PAGE 148 ---
+When fasteners are tested in tension, failure is easy to
+detect. When they are tested in shear, however, it is
+more difficult to determine when failure has occurred.
+We have a long-established rule that fittings should not
+move under normal maximum load. For us, fastener
+failure is detectable movement. Shear tests are difficult
+to design, however, and we could not use measure-
+ments of fastener movement as reliable indicators of
+failure. Instead, we used four measurement criteria,
+of which maximum load to detectable movement and
+maximum load with movement not to exceed a pencil
+line (.030") were the most important. In our tests,
+larger diameter fasteners proved superior to smaller
+diameter fasteners in shear resistance, as might be
+expected. With wood screws, the value at detectable
+movement for a No. 8 screw was 435 pounds, while
+the value for a No. 14 screw increased only to 696
+pounds. The increase between the two is not as large
+as the increase with standard size pilot holes in tension
+withdrawal testing.
+Fastener type
+Fastener type made a difference in performance. Self-
+tapping and machine screws were generally superior
+to wood screws for shear load resistance, but tapping
+screws tended to have a lower ultimate breaking strength
+than wood screws.
+High ultimate load capacity is good because of the
+generous safety margin it provides. Since we consider
+any movement to be initial failure, with a high proba-
+bility that ultimate failure will follow in a period of
+time, our solution is to provide an appropriate safety
+margin. In selecting fasteners to secure a fitting, we
+therefore opt for either larger tapping screws or a
+greater number of tapping screws.
+Machine screws have a distinct advantage as load-
+bearing fasteners because of their high initial resistance
+to movement and high ultimate failure capacity. This
+increased capacity is due to their larger core diameter
+and their fully threaded shank. Since machine screws
+also exhibited excellent tension withdrawal resistance,
+we think that for many applications they have the most
+potential. We use machine screws just as we would
+wood screws or self-tapping screws. The only difference
+is that machine screws have blunt ends and, therefore,
+cannot cut their own holes. You must drill pilot holes
+with the right diameter drill bit and to the proper
+depth.
+Self-tapping screws are our second choice of fasteners.
+They are usually superior to wood screws in tension
+withdrawal. Wood screws, which were developed
+primarily for use in attaching two pieces of wood,
+seem to be superior only in ultimate failure in shear,
+and this is of little consolation after large movement
+has occurred. They appear to have no significant advan-
+tage as fasteners for attaching hardware to wood. Wood
+screws are probably adequate for most hardware appli-
+cations, but we see no reason to use them when tapping
+and machine screws are available at comparable prices.
+134
+Core Boatbuilding Techniques
+Figure 14-5 Cross section view of a test sample demon-
+strating shear load on a fastener.
+Figure 14-6 Cross section view of failure modes for shear on
+self-tapping screws and flathead machine screws.
+Zinc plated flathead
+machine screw
+Stainless
+steel tang
+Load
+Spruce block with
+plywood deck
+Epoxy filled
+oversize hole
+Plywood
+Tang
+Head sheared at tang
+Spruce
+Flat head
+machine
+screw
+Wood crushed
+Separation of screw from
+epoxy
+Epoxy
+crushed
+into wood
+
+--- PAGE 149 ---
+As a rule, flathead screws are preferable to roundhead
+screws. This is especially significant when screws are
+loaded in shear, where tight mating with the hardware
+is critical to preventing hardware movement. A round-
+head fastener inevitably has some slop between the
+fastener shank and the hardware hole through which it
+passes. While this gap can be partially filled with epoxy,
+this is not as strong as a tight metal-to-metal fit. If the
+holes in a fitting are not countersunk for a flathead
+fastener, you can usually taper them with a screw
+countersink or grind special bits to the 

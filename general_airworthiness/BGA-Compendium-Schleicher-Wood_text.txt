@@ -1,0 +1,1084 @@
+
+--- PAGE 1 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+1 
+CONTACT 
+UK Agent: - Zulu Glasstek, Peter Wells   Tel 01844 208157    
+Spares: A lot of spares like oversize pins and GL1 wood available at LTB Cranes 
+ 
+Airworthiness Directives 
+LBA,   EASA,    Factory AD’s and TN’s  
+Note: All Technical notes should be reviewed to determine applicability. 
+ 
+Schleicher General 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Structure 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+M 
+Elevator control 
+Bent elevator control arms now extended to all types with plate alloy 
+elevator arms and Inspection requirements clarified 
+BGA 004/08/2000 issue 2 
+5-2009 
+ 
+Schleicher  Wood / Metal General - In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Flying controls 
+ 
+ 
+ 
+Aileron horn and balance weight support are corroded 
+ 
+04/05 
+ 
+Wheel brake cables  
+ 
+ 
+To be wire wiped at turnbuckle to prevent air brake restriction 
+ 
+10/66 
+ 
+Wings, damage   
+ 
+ 
+By water/damp ply separation & spar damage 
+ 
+02/00, 10/83, 08/83 & 
+08/76 
+ 
+Rudder pedals (front)  
+ 
+ 
+Cracked and bent - clips broken 
+ 
+08/94, 06/84 & 02/77 
+ 
+Rudder hinges (top & bottom) 
+ 
+Cracked 
+ 
+04/87, 02/84, 04/80 & 
+01/79 
+ 
+Rudder mounting brackets 
+ 
+Cracked 
+ 
+04/91 & 02/90 
+ 
+Lower rudder hinge mount  
+ 
+Cracked repair and reinforce with 2mm ply as necessary 
+ 
+06/97 
+ 
+Elevator drive (not Ka-6E & 14) 
+ 
+Check full engagement after repair 
+ 
+06/87 
+ 
+Rigging of ailerons 
+ 
+ 
+Both neutral with elevator neutral 
+ 
+08/87 
+ 
+Fin attachments  (rear) 
+ 
+ 
+Damage by water and corroded 
+ 
+08/98, 06/95, 02/93 & 
+02/90 
+ 
+Steel tubes around wheel boxes 
+ 
+Rusted through - lack of drainage 
+ 
+04/90 
+ 
+Trim tab root rib  
+ 
+ 
+Glued joint failure tab detached - introduce drain holes 
+ 
+08/90 
+ 
+Rear fuselages (ASK 13 & K 7) 
+ 
+Structural failures 
+ 
+02/91 
+ 
+Control connectors at wing root 
+Bending of thread - adjust correctly/fit airbrake system stop half 
+connector top may be cut away to give clearance with bellcrank 
+ 
+02/91 
+ 
+Trim system turnbuckles  
+ 
+Failure at trim lever 
+ 
+ 
+08/91 
+
+--- PAGE 2 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+2 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Fin attachments  
+ 
+ 
+Ply cracked (front) & rotten at bottom 
+ 
+08/87 & 06/92 
+ 
+Canopy locks worn Ka 2/2b (& Ka 7?) 
+Canopies open during sideslips 
+ 
+08/97 
+ 
+Tail plane mounting bolt  
+Threads wear - replace bolts as necessary 
+ 
+06/99 
+ 
+Rudder pedal failure ka13  
+Reported failure 
+ 
+04/00 
+ 
+Unsecured ballast weight   
+ 
+Attachment bolt failed 
+ 
+04/00 
+ 
+Bogus parts 
+ 
+ 
+ 
+Problems with bogus parts 
+ 
+04/00 
+ 
+Fuselage fittings  
+ 
+ 
+K7 low wing conversion found with excessive material removed from 
+wing attachment lugs 
+ 
+4-2006 
+ 
+Control connections 
+K13 (applicable to other types) Aileron disconnect safety/locking pin 
+bent and missed rigging pin hole. Replace safety pins if bent or 
+distorted 
+ 
+4-2006 
+ 
+Elevator control (K8) 
+ 
+ 
+Operating bearing fitted to incorrect holes in operating arms. Could 
+also affect other similar types 
+ 
+1-2007 
+ 
+Structure 
+ 
+ 
+ 
+Delaminated stern post after hard ground strike 
+ 
+2-2007 
+ 
+Rudder pedals 
+ 
+ 
+ 
+Saddle clamps broken causing pedals to jam on fuselage frame 
+ 
+2-2007 
+ 
+Wheels  
+ 
+ 
+ 
+Broken tie bolts. Take care when removing wheels, deflate if 
+necessary 
+ 
+2-2007 
+ 
+Airbrake stops insecure 
+ 
+ 
+Rivet them into place 
+ 
+07/76 
+ 
+Cross-link in centre section  
+ 
+(not ASK-13) cracked and twisted - reinforce 
+ 
+04/89, 12/88 & 12/84 
+ 
+Airbrake handle failures 
+ 
+ 
+Cracks at rivet and bearing holes 
+ 
+10/95, 04/94, 06/92 & 
+10/88 
+ 
+Airbrake paddles (lower)  
+ 
+Delamination, lack of drain holes 
+ 
+04/93 & 04/89 
+ 
+Airbrakes  (ka-2b & k-7) 
+ 
+ 
+Reduction of travel and loads 
+ 
+ 
+02/85 & 08/89 
+ 
+Recommended airbrake travel  
+ 
+K-7, restriction to prevent heavy landings paddles should not quite 
+clear cut-outs in wings. 
+ 
+08/99 
+ 
+Jammed open in flight 
+Operating arm attach. Bolt to paddle fouling wing box. Incorrectly 
+positioned slot 
+ 
+02/01 
+ 
+Ask 13 airbrakes  
+ 
+Continuing problems with cracked “a” brackets at wing root – see 
+pervious 
+ 
+08/03 
+ 
+Controls  (k6cr and poss others) 
+ 
+Aileron disconnect due QR safety clip fouling ctr. Section shelf. 
+Ensure only correct size clip is used 
+ 
+10/03 
+ 
+Controls (K13 and others)  
+Damage to control rods in ctr. Section due to rigging damage. Check 
+for bent rods and fittings. 
+ 
+10/03 
+ 
+Fin attachment  
+ 
+ 
+It is recommended to pack lower face of fin against fuselage tubes to 
+prevent flexing 
+ 
+04/04 
+ 
+ 
+ 
+ 
+
+--- PAGE 3 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+3 
+Rhönlerche II  ("Ka 4")   
+Rhönlerche II  ("Ka 4")  Data Sheet 
+(Brief descriptions translated from German text. See AD for full details) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Structure 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+M 
+Flight controls 
+ 
+Elevator rib 1 inspection increased frequency to every year 
+BGA 043/07/2004 issue 2 
+1-2015 
+ 
+ 
+Ka-6  Series 
+K6 TCDS          Ka 6, BR & CR Data Sheet 
+(Brief descriptions translated from German text. See AD for full details) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Controls  
+ 
+ 
+ 
+Elevator drive engagement check 
+BGA 003/08/2000 issue 1 
+08/00 
+M 
+Structure 
+ 
+ 
+  
+Structural inspection due at next annual after 1st Nov 2015        
+BGA 042/07/2004 issue 5 
+ 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator rib 1 inspection increased frequency to every year 
+BGA 043/07/2004 issue 2 
+1-2015 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator trim tab control horn end rib inspection 
+BGA 045/07/2005 issue 1 
+ 
+M 
+Structure 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+ 
+K6 In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Wing ribs 1 & 2  
+ 
+ 
+Inspect for cracks 
+ 
+03/82 & 10/80 
+ 
+Tail plane front mounting  
+ 
+Damaged by carrying handle - delete handle 
+ 
+06/83 
+ 
+Elevator drive rod 
+ 
+ 
+Damaged near elevator by misrigging 
+ 
+06/83 
+ 
+Tail plane rear mounting  
+ 
+Cracked & worn fittings, loose & corroded bolts 
+ 
+06/96, 04/94 & 06/91 
+ 
+Canopy catch 
+ 
+ 
+ 
+Insecure 
+ 
+06/94 
+ 
+Trim spring & lower mounting  
+ 
+Bracket corroded/cracked – inspect 
+ 
+ 
+06/86 
+ 
+Airbrake paddles delaminated 
+Bolt and glue paddles to aluminium parts 
+ 
+BGA 
+ 
+Tail plane insecure 
+ 
+ 
+Reinforce/repair mounting as necessary 
+ 
+04/87 
+ 
+Air brakes 
+ 
+ 
+ 
+Cracks in air brake aperture 
+ 
+02/00 
+ 
+Elevator trim 
+ 
+ 
+ 
+Split pin and washer missing from control inside fuselage 
+ 
+ 
+ 
+Seat 
+ 
+ 
+ 
+ 
+Seat repositioned causing over travel of elevator and unusual spin 
+behaviour 
+ 
+5-2013 
+ 
+ 
+
+--- PAGE 4 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+4 
+K7 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Rear stick  
+ 
+ 
+ 
+comes out of mounting lock into place 
+ 
+04/83 
+M 
+Canopy   
+ 
+ 
+ 
+Strap fouls rear stick/brake lever.  Fit secondary strap 
+ 
+ 
+M 
+Controls  
+ 
+ 
+ 
+Elevator drive engagement check 
+BGA 003/08/2000 Issue 1 
+08/00 
+M 
+Structure 
+ 
+ 
+ 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator rib 1 inspection increased frequency to every year 
+BGA 043/07/2004 issue 2 
+1-2015 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator trim tab control horn end rib inspection 
+BGA 045/07/2005 issue 1 
+ 
+ 
+K7 In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Fuselage centre section 
+ 
+ 
+Cracks in welds 
+ 
+06/85 
+ 
+Rear canopies detach in flight 
+ 
+Locating lugs removed or badly worn 
+ 
+02/87 & 08/91 
+ 
+Rudder cable  
+ 
+ 
+ 
+May catch under rear airbrake pivot nut, fit guard if necessary 
+ 
+12/99 
+ 
+Air brake pivots  
+ 
+ 
+Pivot bolts may migrate if not locked 
+ 
+02/00 
+ 
+Jammed open in flight 
+ 
+ 
+Control stop jumped past stop tube 
+ 
+02/01 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 5 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+5 
+K8 
+K8 TCDS 
+(Brief descriptions translated from German text. See AD for full details) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Elevator drive 
+ 
+ 
+ 
+Inspection of engagement 
+BGA 003/08/2000 Issue 1 
+08/00 
+M 
+Structure 
+ 
+ 
+ 
+Structural inspection due at next annual after 1st Nov 2015 
+BGA 042/07/2004 issue 5 
+ 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator rib 1 inspection increased frequency to every year 
+BGA 043/07/2004 issue 2 
+1-2015 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator trim tab control horn end rib inspection 
+BGA 045/07/2005 issue 1 
+ 
+ 
+K8 and K18 In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Wing ribs 1&2 
+ 
+ 
+ 
+Inspect for cracks 
+ 
+10/80 
+ 
+Control system 
+ 
+ 
+ 
+Lower mounting in fuselage centre - cracked - inspect 
+ 
+ 
+03/82 
+ 
+Seat back to be fitted (K-8) 
+ 
+To prevent parachute catching between tubes 
+ 
+11/82 
+ 
+Elevator hinge pins 
+ 
+ 
+Not secure - inspect 
+ 
+12/86 
+ 
+Rudder cables 
+ 
+ 
+ 
+Fouling elevator rod 
+ 
+02/92 
+ 
+Elevator hinge 
+ 
+ 
+ 
+Cracked 
+ 
+06/92 
+ 
+Tail plane mountings 
+ 
+ 
+Cracked and corroded 
+ 
+04/93 
+ 
+Fuselage tubes 
+ 
+ 
+ 
+X-ray inspection is possible 
+ 
+04/97 
+ 
+Elevator push rod 
+ 
+ 
+Check for bending 
+ 
+04/96 & 04/97 
+ 
+Elevator control (K8) 
+ 
+ 
+Operating bearing fitted to incorrect holes in operating arms 
+ 
+1-2007 
+ 
+Wings 
+ 
+Balsa wood packing found inside wing 
+ 
+4-2011 
+ 
+Structures 
+ 
+ 
+ 
+Delamination of spar ply found during 5 year inspection 
+ 
+2-2011 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 6 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+6 
+ASK-13 Series (including Jubi GmbH aircraft) 
+ASK 13 TCDS           ASK 13 Flight Manual 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Rear stick  
+ 
+ 
+ 
+Comes out of mounting lock into place 
+ 
+04/83 
+M 
+Canopy   
+ 
+ 
+ 
+Strap fouls rear stick/brake lever.  Fit secondary strap. 
+ 
+ 
+M 
+Elevator  
+ 
+ 
+ 
+Inspection for bent elevator arms 
+BGA 004/08/2000 Iss 1 
+08/00 
+R 
+Controls  
+ 
+ 
+ 
+Inspection of aileron and air brake control support brackets 
+BGA 008/10/2000 Iss 1 
+10/00 
+M 
+Elevator drive 
+ 
+ 
+ 
+Inspection of engagement 
+BGA 010/12/2000 Iss 1 
+12/00 
+M 
+Structure 
+ 
+ 
+ 
+Structural inspection due at next annual after 1st Nov 2015 
+BGA 042/07/2004 issue 5 
+ 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator rib 1 inspection increased frequency to every year 
+BGA 043/07/2004 issue 2 
+1-2015 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator trim tab control horn end rib inspection 
+BGA 045/07/2005 issue 1 
+ 
+ 
+ASK 13 In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Canopy opened in flight 
+ 
+ 
+Improperly locked (lack of lubrication) - colour code open/shut 
+ 
+02/87 
+ 
+Wheel brake  
+ 
+ 
+ 
+Lug failure 
+ 
+10/75 
+ 
+Canopy jettison  
+ 
+ 
+Inoperative and hinge fractured - lack of lubrication 
+ 
+02/91 
+ 
+Weak link reduced to 850 Kg  
+ 
+Max winch/auto speed increased to 60 kts 
+ 
+12/93 
+ 
+Aileron balance weight supports 
+Corroded 
+ 
+02/94 
+ 
+Airbrake drive behind rear seat 
+ 
+Torque tube failure near drive lug weld 
+ 
+04/97 
+ 
+Air brake pivots  
+ 
+ 
+Pivot bolts may migrate if not locked 
+ 
+02/00 
+ 
+Rudder pedals 
+ 
+ 
+ 
+Failure of tube at attachment to pedal 
+ 
+04/00 
+ 
+Ballast weights 
+Unsecured ballast fouling controls due to bolt failure 
+ 
+04/00 
+ 
+Landing Gear Suspension “Donuts”  
+Displaced after heavy landing and restricting controls 
+ 
+08/02 
+ 
+Spin training 
+ 
+ 
+  
+In extended weight category, K13’s are approved for spin training 
+whilst operating. Other aerobatics prohibited. 
+ 
+1-2007 
+ 
+Air Brake Control  
+ 
+Rear Air Brake lever broken at rod attachment bearing location 
+ 
+6-2008, 5-2010 
+ 
+Aileron. Airbrake  
+ 
+ 
+Cracked bracket at wing root  
+BGA 008/10/2000 
+5-2010 
+ 
+Battery Box 
+ 
+ 
+ 
+Battery secured with cable ties due to broken support 
+ 
+ 
+1-2011 
+ 
+Nose Wheels 
+ 
+ 
+ 
+Non Schleicher conversions susceptible to damage from hard 
+landings  
+ 
+1-2011 
+ 
+Seat Harness 
+ 
+ 
+ 
+Incorrect bolt fitted to harness anchor point 
+ 
+2-2013 
+ 
+Rudder pedals 
+ 
+ 
+ 
+Ensure fwd rudder cables are correct length to avoid pedals fouling 
+nose cone 
+ 
+3-2013 
+ 
+Lower sternpost                                 
+Rotten wood at lower sternpost and extremely corroded bolts 
+ 
+2-2015 
+
+--- PAGE 7 ---
+Schleicher (Germany) 
+Wooden / Metal Structure Aircraft 
+ 
+BGA Compendium – 03/17 
+ 
+7 
+ASK 14 
+(Also see general and airbrake sections) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Controls  
+ 
+ 
+ 
+Elevator tube spar inspection 
+AD 70-86, TN 3 
+ 
+M 
+Controls  
+ 
+ 
+ 
+Cable inspections Nicropress sleeves 
+AD 82-216 
+ 
+M 
+Fuel system 
+ 
+ 
+ 
+Fuel tank 
+AD 89-121, TN 6 
+10/89 
+M 
+Controls  
+ 
+ 
+ 
+L’Hotellier connectors 
+AD 1993-001/3 
+ 
+R 
+Structure 
+ 
+ 
+ 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+ 
+ 
+ASK 16 
+K16 TCDS 
+(Also see general and airbrake sections) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+R 
+Structure 
+ 
+ 
+ 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+ 
+ASK 16 In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Control tubes in the wing  
+Corroded 
+ 
+02/92 
+ 
+ 
+ASK 18 
+K18 TCDS 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Controls  
+ 
+ 
+ 
+Elevator drive engagement check 
+BGA 010/12/2000 
+12/00 
+M 
+Structure 
+ 
+ 
+ 
+Glue inspection every 3 years at annual after 1st Nov 2015 
+BGA 042/07/2004 issue 6 
+ 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator rib 1 inspection increased frequency to every year 
+BGA 043/07/2004 issue 2 
+1-2015 
+M 
+Rudder control 
+ 
+ 
+ 
+Inspection & modification of rudder cable guide tub 
+BGA 026/03/2002 Issue 1 
+ 
+M 
+Flight controls 
+ 
+ 
+ 
+Elevator trim tab control horn end rib inspection 
+BGA 045/07/2005 issue 1 
+ 
+ 

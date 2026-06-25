@@ -1,0 +1,1786 @@
+o
+laminations so that you can shoot a long staple through
+the first and second laminations and draw them
+together tight with the temporary block.
+Checking the Second Layer for Voids
+After the epoxy has cured and you have removed the
+wide-crown staples, make a thorough check of the
+second lamination to detect any voids that may have
+developed. To do this, lightly move your hand over the
+hull surface and listen for a different sound than is
+usual for most of the surface. An area of veneer that is
+not well bonded to that beneath it will vibrate at a
+different frequency, producing a definite, higher pitched
+sound than that produced by veneers which are well
+bonded. Mark these suspect areas on the hull.
+There are two ways to fill voids. The first, which is
+easier if you plan to laminate several more layers, is to
+cut out and remove the unbonded veneer. Fill the
+resulting gap with a thick mixture of epoxy and equal
+parts of high and low-density filler. When this mixture
+262
+Hull Construction Methods
+
+--- PAGE 277 ---
+cures, fair the surface smooth and apply more veneer
+over it. The second method to fill voids is to inject
+epoxy with a syringe into the immediate area of the
+void. If it is large enough, drill several holes at various
+points in the void to make sure that you are indeed
+filling it solidly with epoxy.
+Once you have determined that the second layer is
+structurally sound, you will find that the hull surface is
+very rigid, creating a solid mold surface over which you
+can easily apply succeeding laminations. The only
+caution is that you should apply the third layer using
+staples that are short enough not to break through the
+prefinished interior surface. 
+Refer to Chapter 23 for information on fairing and
+finishing and how to roll over the hull. 
+Chapter 22 – Stringer-Frame Construction
+263
+
+--- PAGE 278 ---
+264
+Hull Construction Methods
+
+--- PAGE 279 ---
+In the 25 years since this book was first written, variations of strip plank construction have evolved, and
+they open up a wide range of building possibilities. Strip composite construction for small boats such as
+“stripper canoes” has also become increasingly popular. This chapter provides an overview of strip plank
+methods, but concentrates on strip plank laminating. 
+One of the advantages of strip construction is the
+ability to build compound shapes quickly. The strips
+are typically placed over mold frames that define the
+structure’s shape. Most shapes can be built in strip
+construction, although the more spherical shapes are
+limited by the strip’s ability to bend in two directions.
+An Overview of Strip Plank Methods
+Strip planking, as it is most commonly known, began
+as a method for planking round bottomed boats that
+was quicker and easier than carvel planking. It elimi-
+nated much of the spiling, steam bending, and caulking
+that went with carvel construction. Strip planking
+became more widely used when waterproof adhesives
+became available. Resorcinol glues were used with edge
+nailing of narrow (often square in section) planks over
+frames. The nails held the planks as the adhesive dried
+and were left in place. They offered some cross-grain
+reinforcement along with the frames. Epoxy took strip
+planking a step further because it could fill gaps better
+than resorcinol and required only contact pressure
+during cure. Everything from rowboats to 250-ton
+commercial fishing boats have been built using strip
+plank construction.
+Strip plank laminating or the strip plank veneer method
+combines strip planking with cold molding or
+laminating. Mold frames are set up and solidly planked,
+usually with edge-glued strips of softwood. The set-up
+is then covered by layers of veneer, usually applied in a
+double diagonal pattern (±45°) to provide cross-grained
+reinforcement. The strip planks become the interior
+lamination of the finished hull. As more layers are added,
+the need for interior frames is reduced or eliminated.
+Many boats in the 20' to 35' (6m to 10m) range are
+monocoque structures, for which only temporary frames
+are needed. When construction is finished, these
+temporary frames are removed.
+Compared to the mold method of building a laminated
+veneer hull, strip construction offers significant advan-
+tages. While both methods can be used to build rigid
+monocoque structures with frameless interiors, strip
+plank laminating requires much less labor. Laminating
+veneer over a temporary mold or plug is a more diffi-
+cult process, requiring multiple layers of veneer, each of
+which must be spiled, bonded, and fixed in place until
+the adhesive cures. In addition, the temporary mold
+can be as difficult to build as the actual boat. Strip
+plank laminating uses fewer veneers, the hull shape can
+be quickly established, and only part of the mold
+frames are discarded. 
+Some of the largest wood/epoxy boats ever built use
+strip plank laminating. For example, the 124' (38m)
+sloop Antonisa and the 213' (65m) barque Tenacious
+were recently built using variations of the strip plank
+laminating method. Both use double diagonal layers
+over strip planking, with a second strip plank layer on
+the exterior. At this scale, however, the diagonal layers
+are at least 3⁄8" (9mm) thick and technically not what
+you would call veneers. Hulls of this size still rely on
+internal frames and bulkheads for cross-grain support.
+This building method is recognized by marine classifi-
+cation societies like Lloyd’s Register of Shipping,
+Registro Italiano Navale (RINA) and Det Norske Veritas
+(DNV). It is a preferred and proven method for
+building large wood/epoxy vessels.
+Because the type and number of layers of material
+which can be laminated over the first layer of strip
+planking can be infinitely manipulated, this method of
+construction has endless variations and may be used to
+construct boat components as well as entire hulls. 
+Strip Plank Laminated Veneer and 
+Strip Composite Construction
+C H A P T E R
+23
+
+--- PAGE 280 ---
+Strip composite construction is another variation of
+strip planking. Strips are joined as with the previous
+variations, but all cross-grain reinforcing is done with a
+layer, or layers, of fabric, bonded with epoxy on the
+inside and outside. This results in a stiff, strong, often
+frameless, lightweight structure. With single layers of
+fabric, the epoxy and fiberglass cure clear, allowing the
+wood’s natural beauty to show. Popular examples of
+strip composite construction are stripper canoes. They
+are usually built of 1⁄4" (6mm) thick cedar strips,
+planked over temporary frames, with 4 oz (135g/m2) or
+6 oz (200g/m2) woven glass fabric inside and out.
+Though used most often for smaller boats, strip
+composite construction is not limited to small craft or
+to standard boat shapes. Larger custom racing craft may
+be constructed this way. For example, the Formula 40
+trimaran Adrenalin used unidirectional carbon fiber
+reinforcing laid at 90° to the 3⁄8" (9mm) thick cedar
+strips. 
+There are many variations of reinforcing materials and
+many choices of strip composites. When higher density
+materials such as mahogany, cedar, and pine are joined,
+they contribute to the structure and are considered an
+“active core.” They provide tensile and compressive
+strength along the grain, as well as shear strength
+through their thickness. Such a core may require
+minimal reinforcement, depending on grain strength
+and how the composite will be used. In contrast, a
+lower-density core (such as foam strips) provides shear
+strength but does not add longitudinal strength or
+significant compressive strength. 
+Setting Up for Strip Planking
+With strip plank construction, just as with the mold
+method, we use 5⁄8" (15mm) particleboard as temporary
+mold frames to define the shape of the hull. Set up the
+frames as described for the mold method and then
+cover them with strip planking. The only difference is
+that extra care must be taken to be sure that the bevels
+on the frames are correct. Hard spots may dent the
+planking as it is bent over the frames, and this damage
+can be visible in the interior.
+Decide temporary mold frame positioning and spacing
+during lofting, taking into account the locations of
+stationary bulkheads, framework, and any other
+internal items which might interfere with a chosen
+temporary frame location. Usually, setting up a perma-
+nent bulkhead means that you can eliminate a
+temporary frame, but sometimes a bulkhead is situated
+between two temporary frames and too large a gap
+would be left if either were removed. Therefore, early
+on, coordinate the locations of the permanent structural
+members which can act as mold frames with the
+locations of the temporary mold frames so that you can
+provide proper support for the strip planking process
+with the least amount of set-up.
+Planking thickness and the shape of the hull determine
+the standard spacing between mold stations. For 1⁄2"
+(12mm) thick planking, a 16" (400mm) span between
+stations is about maximum. Frames that will be covered
+with 1" (25mm) thick planking might be as far as 30"
+(760mm) apart. Average spacing for 5⁄8" to 7⁄8" (15mm to
+22mm) planking is 18" to 24" (460mm to 600mm).
+With any hull, there may be areas of tight, sharp curves
+which cannot be properly defined by the general station
+spacing. We usually insert half frames between two
+normally positioned frames in these areas. If there aren’t
+too many sharp curves, this is much quicker than
+decreasing the standard frame spacing throughout the
+hull to accommodate one area of sharp curves.
+With strip plank construction, the keel, stem, and
+transom are always included in the set-up to become
+part of the permanent hull. This means that you will
+have to make provisions for notching the keel and stem
+into the temporary mold frames as well as into
+bulkheads and laminated frames which may also be in
+the set-up. Hold the keel and stem temporarily in place
+to each temporary mold frame by inserting a screw
+through a small block that is attached to the side of the
+temporary mold frame just underneath the keel or stem
+area. The screw holds the keel or stem snug against the
+temporary mold frame until the lamination process is
+complete. You can then remove these screws easily
+when it is time to remove the temporary mold frames.
+Permanently position and attach the keel and stem to
+bulkheads, frames, or any other permanent interior
+items, using epoxy held in place with alloy wood
+screws of proper length.
+A permanent or temporary sheer clamp must be
+included in the set-up so that the planks near the sheer
+can attach to it, especially if the planking will run out
+266
+Hull Construction Methods
+
+--- PAGE 281 ---
+or cross the sheer at an angle. Without hand spiling, it’s
+very difficult to finish planking with strips running
+exactly parallel to the sheer line. We usually install
+permanent sheer clamps, although doing this means
+that we often have to saw temporary frames in order to
+remove them. This is only a problem if we want to use
+the frames for another boat.
+Precoat and sand exposed interior areas of the perma-
+nent sheer clamp, keel, stem, transom, bulkheads, and
+other permanent interior items before installing them in
+the set-up. Protect all prefinished permanent members
+by covering them with duct tape or other heavy-duty
+tape, which will prevent damage from both dripping
+epoxy and sanding.
+When you have installed all of the permanent members
+in the set-up and completed final fairing of both tempo-
+rary frames and permanent members, the set-up is
+ready for strip planking. During this procedure, you
+should attach the planking permanently to all perma-
+nent members but avoid any possibility of accidentally
+bonding the planking to the temporary mold frames.
+Cover the edges of all temporary frames carefully with
+strips of 4-mil or 6-mil polyethylene sheet, stapling the
+plastic several inches back from the edges on both sides
+of the frame. When you have completed this, you are
+ready to begin strip planking.
+Stock for Strip Planking
+Choose the most practical planking size for your
+project. Most boats will require strip planks between 1⁄2"
+and 1" (12mm and 25mm) thick. Determine the
+planking size for your hull after considering the
+following:
+1. The size and width of the boat.
+2. The spacing between permanent or temporary frames
+in the set-up.
+3. Whether the chosen thickness of planking can bend
+around the most severe curves in the hull.
+4. The most efficient use of available dimensional
+lumber.
+Planking width is governed by two factors. First is the
+need to attach one plank to the next with dowels or
+nails in the process of edge nailing. This is somewhat
+impractical with anything wider than 11⁄2" (38mm)
+strips: the widest we’ve ever used was 11⁄4" (31mm). The
+flexibility of the planking in the edgewise direction is
+the second factor and is an important consideration for
+rapid application of strip planking.
+More recently, strips have been machined on the edges
+with a matching bead and cove feature. Strips machined
+this way act like splines that align planks, eliminating
+the need for most dowels and edge nails. If you can
+select the base stock from which to saw strips, we
+suggest that you choose slab-sawn planks which, when
+ripped, will show edge grain on interior and exterior
+surfaces. Edge-grain planks are usually more attractive
+for naturally finished interiors. There are two better
+reasons for using them, however: edge-grain planks are
+more stable than other planks, and they sand and
+machine more consistently than flat grain. Fairing up
+surfaces for final finishing and laminating therefore goes
+a bit more quickly.
+Dimensional accuracy is important when you are
+sawing and milling the stock for planking. Accuracy is
+particularly important in the thickness dimension. A
+plank that is even 1⁄32" (.8mm) smaller than its neighbors
+will create a depression along its entire length that you
+will need to fill prior to further laminating. Sawing
+enough planking for an entire hull is a large under-
+taking. We always take the time to set up a proper
+sawing operation by making sure that we have a good
+feed ramp for easily moving the stock into the saw and
+a good exit ramp for the stock to lie on as it is exiting
+from the back of the saw. Whenever possible, we set up
+spring tensioning to hold the stock down on the saw
+table and up against the saw guide so that we don’t
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+267
+Figure 23-1 Four common strip edge profiles: (1) square
+edged (2) bead and cove, (3) tongue and groove and 
+(4) ship lap.
+
+--- PAGE 282 ---
+have to rely entirely on hand pressure to guide the
+stock through the saw blade. For those who can justify
+the cost, a stock feeder attachment for your table saw
+can efficiently produce accurate strip planks. It not only
+holds the plank against the rip fence during the cut but
+also propels the plank through the cut, dramatically
+reducing the physical effort required for the job.
+You probably won’t be able to buy planks long enough
+to cover your entire hull. Usually, you have to cut at
+least one scarf and perhaps as many as four to make up
+a plank to span all of the hull stations. It is much easier
+to scarf strips before you apply them. It can be quite
+difficult to scarf strip planking in place while bending it
+over frames, especially in short, wide boats. Do all
+scarfing carefully and accurately, following the instruc-
+tions in Chapter 12 so that there will be no dog legs,
+kinks at the scarf, or overlaps to increase planking
+thickness at the joints.
+Spiling and Beveling Strip Planks
+The concept of planking a hull is at least several
+thousand years old. The traditional carvel-built hull has
+planks lying edge-to-edge, and the techniques devel-
+oped for carvel planking are well known. Traditionally,
+because boats are fatter in the middle and smaller out at
+the bow and stern, planking has always been tapered at
+its ends to adjust for this change in dimensions.
+Because planks are joined one-by-one around a curved
+surface, it’s also common to bevel their edges so that
+they meet flush where they join. Both the spiling and
+beveling operations are very tedious and time-
+consuming, and both require a good deal of skill.
+With traditional procedures, two workers might be
+lucky to apply five or six planks a day on a 40' (12m)
+hull. To speed up the planking process and make this
+construction method more practical, we have elimi-
+nated spiling and beveling. When these two jobs are
+unnecessary, two well-organized people can apply up to
+25 planks in eight hours and even more if the planks
+incorporate edges that self align. These include bead
+and cove or tongue and groove edges. Planks with these
+features minimize the need for edge nails and dowels
+except for the most stubborn areas. 
+Instead of spiling, we adjust for dimensional decreases
+as planks approach the ends of the hull by allowing
+them to run out at the keel and the sheer as they do
+when we build a mold. Unless the hull is particularly
+fat for its length, this technique presents no difficulties,
+provided that the planking is thin enough to bend
+easily edgewise as it arcs toward the sheer or keel. With
+a thick WEST SYSTEM® epoxy mixture, beveling is usually
+unnecessary for structural reasons. Eliminating it saves
+a great deal of time. When viewed from the interior, the
+planking on most hulls always fits tight and looks the
+same, whether it has been beveled or not.
+Applying Strip Planking
+As might be imagined, locating the first plank on the
+set-up is of paramount importance because the location
+of this master plank determines the direction and
+amount of curve that all succeeding planking will
+follow as it approaches either the keel or sheer.
+Improper location of this first plank might cause the
+planking approaching the sheer to become overly
+curved to the point where it would be difficult to bend
+the planks in place, while the planking on the other
+side of the master plank that is approaching the keel
+might hardly curve at all. The goal is to locate the
+master plank about midpoint along the hull and in an
+arc that will allow the planking installed on either side
+of it to bend about the same amount as it approaches
+the keel or sheer.
+The simplest method of determining the location of the
+master plank is to determine mid-frame locations at
+various points along the hull. Establish these positions
+by measuring along the perimeter of the frames
+between the keel and the sheer, starting in the middle
+of the hull and working out toward the ends.
+Temporarily exclude the first few stations at the bow
+and the transom because the shape of the boat is
+changing abruptly at these points and will not give you
+a true overall reading of what is happening with the
+majority of the hull. When you have located a point on
+the frame at each station that is equidistant from both
+the keel and the sheer, position a batten along these
+marks and temporarily nail it in position. Using your
+eye as the guide, move the batten wherever needed to
+achieve a fair curve that still intersects the mid-frame
+marks as closely as possible. You can extend the batten
+268
+Hull Construction Methods
+
+--- PAGE 283 ---
+arc to achieve a fair curve over the unmarked fore and
+aft frames.
+With this batten installed, you can get a better idea
+about how the planking will lie on the rest of the hull.
+Measure either up or down from the batten at various
+points on all the frames to try to get a sense of what the
+planking will look like as it approaches the sheer and/or
+keel. As you work out the planking direction, try to
+determine which are the most severe curves in the hull
+and establish the best angle for negotiating them. Then
+compare this with the angle of the master veneer (if
+veneer will eventually be applied over the strip
+planking). Another factor that might affect placement of
+the master plank is the amount of compound curve
+toward the sheer compared with the compound curve
+toward the keel. The bottoms of boats are usually
+compounded more than the topsides, and this may
+indicate that the master plank should be curved more
+toward the sheer where the planks might be more easily
+bent edgewise due to the lack of compound curvature.
+When you have lined up the batten and adjusted it to
+suit your desire for positioning the master plank, care-
+fully mark its position on each station so that you can
+install the master plank using these marks as reference.
+Although it is normally done, it is not necessary that
+the master plank be located right at this marked
+midpoint position. You could position the master plank
+at any point above or below the midpoint marks that you
+established with the batten, but it must run parallel to
+and at the same distance from each mark at each station
+point so that as the hull is fully planked, the planks in
+the area of the original marks will run true to them.
+If you decide that the shape of your hull is not well
+suited to this type of planking procedure (for example,
+if the hull is too fat), you can use the double run
+planking system. (See Figure 23-2.) With this method,
+you apply the planking parallel with the sheer line up
+to a point on the hull where it begins to curve exces-
+sively. Then apply the next group of planking parallel
+with the keel, joining it with the planking that has been
+run parallel with the sheer at a central joining plank.
+Joining the two directions of planking as they run out
+into each other at some point in the central hull area is
+difficult without causing a hard spot. This difficulty is
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+269
+Figure 23-2 Two methods for strip planking hulls.
+Figure 23-3 Strip planking a mold.
+Figure 23-4 Strip planking a 42' (12.8m) hull. These strips
+are being laid from a master plank from the bilge up to the
+keel.
+Master plank method
+Locate the master plank
+about midpoint along the 
+midship girth
+Double run method
+Planks are laid out from
+the keel to the bilge area
+where they are trimmed
+off in a fair curve
+
+--- PAGE 284 ---
+not insurmountable, but the double run planking
+system takes a good deal of extra time in comparison to
+the run out method where you have to do little or no
+fitting at all.
+Applying Epoxy
+Assume that you are going to run bottom planking
+parallel to the keel and topsides planking parallel to the
+sheer in a double run planking system and that you
+have accurately marked the set-up to receive the master
+plank. Install this plank, using screws that are about
+twice as long as the thickness of the planking to hold it
+temporarily to the mold frames. We used to use
+inexpensive roundhead sheet metal screws with large
+washers. These made it possible to apply more pressure
+without damage to the wood fiber. Now drywall screws
+would be used with washers instead. Chipboard frames
+require longer screws than wood frames because
+chipboard’s holding power is not as good as that of
+wood. In areas where you need extra holding power,
+screw or staple and bond a piece of wood to the side of
+a chipboard frame and screw the planking into this.
+Step drill bits, which can cut a pilot hole in the tempo-
+rary frame and a shank-sized hole in the plank in one
+operation, save the added step of switching between
+two different drills or changing bits.
+Use alloy screws and epoxy thickened with high-
+density filler to attach planking to all permanent parts
+of the boat. These screws will be left in the hull.
+Countersink them enough so they won’t interfere with
+fairing. You will be using two different types and
+perhaps sizes of screws: one to attach planking to
+temporary frames and the other to attach it to perma-
+nent members. Two drill motors set up with two
+different size bits will save time. If you are using
+drywall screws for temporary fasteners, you can get by
+with a single conventional drill bit because the drywall
+screw’s shank is smaller in diameter than the threads.
+When you have installed the master plank, set up a
+procedure to easily and efficiently apply the rest of the
+planking to the frames. Mark the planks with surmarks
+that line up with a station in the middle of the hull so
+that you can accurately position them without having
+to guess if they are centered.
+If you are using a softwood such as cedar, use a low-
+density filler with epoxy to make a thick syrup. This
+combination will exceed the grain strength of most
+softwoods. If you are working with high-density woods
+with higher grain strength, like mahogany, use a high-
+density filler for a stronger epoxy mixture.
+Support jigs will hold planking upright for convenient
+epoxy application. We make them of 1⁄2" (12mm)
+plywood, with slots in the tops just large enough for
+the plank to sit in. We nail these to saw horses and 
+set up as many as are needed to support the plank.
+About 3' (1m) off the floor seems to be a comfortable
+working height.
+Applying epoxy to the edges of several hundred planks
+is a significant part of the work of strip planking a hull.
+You need a quick, efficient, and clean method for
+mixing and applying the adhesive to plank edges. In
+the long run, we’ve found it best to spread the epoxy
+mixture with an inch-wide stick. We mix epoxy in a
+270
+Hull Construction Methods
+Figure 23-5  An optional fixture for edge gluing multiple
+planks. Adjust the width and depth of the fixture for the plank
+width and number of planks you want to coat at one time.
+Thickened epoxy fills
+the gap between the
+top of the strips and
+the top of the stand
+sides
+Protect the
+stand with
+polyethylene
+sheeting
+
+--- PAGE 285 ---
+tub, such as the WEST SYSTEM 805 Mixing Pot, making
+up only enough at one time to fill one third of the tub’s
+volume. We apply it along the edge of the plank with
+the stick, applying a controlled amount of epoxy to the
+surface. If the epoxy is so thin that it runs easily off the
+stick, and perhaps off the edge of the plank, thicken it
+with more filler. 
+After you have applied the thickened epoxy to one edge
+of a plank, wet out the edge of the strip that has already
+been installed with a thin coat of unthickened epoxy.
+You can do this quickly with a foam roller cut to a good
+working width. Use the surmark you made earlier to
+line up the center of the new plank and the middle
+station. If the hull is very large, it’s difficult for one
+person to install a plank without getting messy. Ideally,
+two or three people can work together, but if you are
+shorthanded, make some adjustable stands to hold the
+edges of the plank at the right height while you fasten
+its middle to the frames. As fastening progresses out
+towards the ends of the hull, move the stands inward
+and then remove them.
+Think of the plank that is being installed as the glue
+plank and the plank that has already been installed as
+the permanent plank. Begin by fastening the glue plank
+tight against the permanent plank about midway along
+the hull. Insert a screw through the glue plank into the
+mold frame. Then skip one or two stations, depending
+on the size and curvature of the hull, and insert another
+screw into a mold frame. Hold the glue plank tight
+against the permanent plank so there is the best
+possible fit between them as you insert the screw. After
+you have fastened it at several mold frames on either
+side of the mid-hull frame, the glue plank will be under
+reasonable control and you can fasten it easily to each
+frame in the set-up. If you have applied sufficient epoxy
+to the new plank, some should squeeze out. Most of
+this will be on the exterior of the hull because of the
+tapered gap between the planks, but some will invari-
+ably end up on the interior. Remove excess adhesive
+from both surfaces before it cures.
+Edge Fastening
+It is common to have some misalignment between
+planks in the areas between the mold frames. To keep
+this misalignment to a minimum, you should allow
+each plank to take a natural curve as you bend it
+around the hull. You can correct plank misalignment
+easily by edge nailing with the use of 1⁄8" (3mm)
+diameter wooden dowels. While you could use nails
+instead of wooden dowels, dowels are preferable for
+several reasons. Because the hull will be laminated over
+anyway, the extra cross-grain strength that nails might
+provide isn’t needed. (Wooden dowels could also
+provide excellent cross-grain strength if they were
+bonded in place.) Of the hundreds of nails that might
+be used in a hull, a small percentage will inadvertently
+break through the sides of a plank. This is a particular
+problem on the interior of the hull because the nails are
+not only unsightly but will impede sanding and are
+difficult to remove. If a wooden dowel happens to run
+out in the planking, it is easily sanded smooth and is
+not particularly unattractive.
+To align the planking between frames, hold the glue
+plank and permanent plank between your thumb and
+forefinger so that they are in exact alignment. Then drill
+a 1⁄8" (3mm) diameter hole through the edge of one
+plank into the next, moving down the plank between
+each station until you have drilled all of the holes while
+holding the planking in perfect alignment. The hole
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+271
+Figure 23-6  Doweling to prevent plank misalignment.
+1⁄8" birch dowels
+Planks laid
+tight on
+inside
+Planks
+Outside faired for
+diagonal planking.
+Epoxy with low-density fillers used
+between planks. This thickened
+mixture exceeds the grain strength
+of cedar and relieves the need to
+bevel and fit strips.
+Staggered pattern fore
+and aft for  birch dowels.
+This “fastening” system is
+employed only in areas of
+severe bend such as the
+bilge. Some well-placed
+staples will suffice in most
+flat areas.
+
+--- PAGE 286 ---
+drilling depth should be 11⁄2 times the planking width.
+Depending on the distance between frames, you may
+need from one to four dowels to hold the planks in
+proper alignment between stations until the adhesive
+cures. Drill the hole for the dowel slightly undersize so
+that the dowel fits snugly and helps draw the planks
+together. If available, a second person can follow down
+the planks as the holes are being drilled and insert and
+tap in place the 1⁄8" dowels, while at the same time
+realigning the planks with his hands to make sure that
+the predrilled holes line up.
+Occasionally the dowels won’t have sufficient holding
+power to hold an errant glue plank snug against the
+permanent plank. Besides causing an unsightly gap, this
+problem will cause the planking to get out of fair. To
+solve this, staple a strip of plywood to the glue plank and
+then hold it in proper position to close the gap. Staple
+the other end of the plywood strip to the adjacent two
+or three planks that you have already positioned.
+After installing three or four planks, take the time to
+remove any excess adhesive that has oozed out of the
+joints from both the exterior and interior surfaces. Use
+particular care on the interior to keep this surface as
+clean as possible, saving work later on. After the
+cleanup operation, check the edge joints to make sure
+that the alignment is good and that the planking is
+going on in nice, fair curves with no humps or bumps
+developing. You will also want to check the edge of the
+last plank that you have installed to make sure that no
+bumps or unusual curves are developing along the edge
+that may cause difficulties when you try to fit the next
+plank. If a bump does develop, it is best to fair it out
+before installing the next plank.
+Difficulty may develop toward the end of the planking
+job if the planks begin bending excessively in the width
+dimension, making it difficult to secure them in place.
+If this problem becomes severe enough, you can rectify
+it easily by installing one or two maximum-tapered
+planks to reduce the amount of curve in the width
+direction. Do this by marking the maximum amount of
+taper available in the width dimension, using a heavy
+lofting batten to mark an even curve which extends
+from the middle of the plank out to a tapered point at
+each end.
+Although the planking will simply run out at most
+areas of the hull and require no fitting, at some point
+along the keel, the planking from one side of the hull
+will begin to butt into the planking from the other side.
+Carefully cut the planking of the side done first to a
+straight edge that runs parallel to the centerline of the
+keel so that an easily defined plane is available against
+which you can fit the planking that runs in from the
+other side of the hull.
+At this point, the strip planking part of the job is
+complete. After fairing, the hull will be ready to receive
+the layer(s) of reinforcing fabrics on the outside and
+inside of the hull (as discussed later in this chapter) or
+ready to receive multiple layers of veneer to complete
+the hull.
+Veneer Laminations
+After you have installed all the planking, begin
+preparing it just as you would a mold for veneer
+lamination. First check to make sure that you have
+removed all temporary screws and properly recessed all
+permanent screws. Next, rough trim all of the planks
+that might run out at the sheer, the stem, or the
+transom so that you have a roughly defined surface on
+which to laminate veneers. Rather than trim the
+planking flush with these surfaces, allow them to
+extend  1"-2" (25-50mm) to provide a little extra area
+in which to extend laminating pressure. Later, after you
+272
+Hull Construction Methods
+Figure 23-7 The keel joint of the 42' (12.8m) hull  shown in
+Figure 23-4. Note the pattern of screw holes where the planks
+are secured to the mold frames.
+
+--- PAGE 287 ---
+have completed laminating, you can trim the planking
+flush with the desired surface.
+Before you sand or fair, carefully check the entire strip
+plank surface for voids and crevices in the planking and
+in the joints between planks. Fill these voids and holes
+in the planking at mold frame intersections where you
+have removed temporary screws with a thick mixture of
+epoxy and low-density filler. Rough fair the hull and
+then begin laminating veneer.
+You can laminate veneer to a strip plank hull exactly as
+described for laminating veneer over a mold or plug in
+Chapter 21. However, with strip planking, you can
+install the first and second layers of veneer with alloy or
+plastic staples which do not have to be removed.
+Leaving the staples in saves time and helps make the
+strip plank method a practical construction technique.
+Begin the first layer of veneer about midpoint on the
+hull, using a thick, low-density adhesive mixture to
+bond it to the strip planking. Recess staples so that they
+will not be in the way of rough fairing in preparation
+for the second lamination. You can use the mechanical
+spiling system with this and succeeding layers and
+greatly speed up the process. The strip plank hull is an
+ideal solid mold for laminating; you will find that you
+can laminate all layers of veneer quickly and efficiently,
+probably in less time than it took to strip plank the
+hull. The quality mold surface also helps the hull surface
+remain very fair, with little work required between
+layers, up through four or five laminations of veneer.
+You can remove the temporary frames from the interior
+of the hull at a point during construction when you
+have applied enough veneer so that the hull is rigidly
+self-supporting. It’s possible to disassemble frames, but
+probably faster to saw them out, being careful not to
+damage the hull. You may have enough bulkheads and
+permanent frames in the set-up to support the hull, but
+it’s more likely that you’ll need to prop up the sheer,
+bow, and transom with blocking to help distribute its
+weight. Do not, of course, cut the legs off permanent
+frames at this stage.
+Final Finishing
+With the temporary frames removed, you can work
+simultaneously on the interior and exterior surfaces. It’s
+usually easiest to sand interior planking smooth while
+the hull is upside down so that dust settles to the floor
+rather than to the bottom of the boat. Install good
+lighting in the interior, provide ventilation with fans,
+and wear a dust mask or respirator. If you have not
+done so already, cover all prefinished items with tape to
+protect them from damage from dripping epoxy and
+during sanding.
+We use a polisher/sander with 80-grit paper on a soft
+foam pad to rough sand and fair interior planking.
+When the surface is generally smooth and fair, we finish
+sand with orbital sanders and 100-grit paper until the
+surface is smooth enough to receive an initial coat of
+WEST SYSTEM epoxy.
+Although it is not absolutely necessary, you may
+prefinish the entire interior while the hull is still upside
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+273
+Figure 23-9 Laminating a second layer of veneer onto a strip
+planked hull.
+Figure 23-8 Laminating the first layer of veneer over faired
+planking. Note the planking bench to the right.
+
+--- PAGE 288 ---
+down. It’s our experience that all sanding and coating
+operations are much easier with the hull in this
+position than when it’s upright. A good portion of the
+interior can be easily installed in an upside-down hull,
+as will be explained in more detail in Chapter 26. Just
+as with mold method hulls, it is more efficient to do a
+lot of exterior final finishing, including all fiberglassing,
+coating, and sanding, before turning the boat over.
+Rolling the Hull
+Build a cradle, as described in Chapter 21, in prepara-
+tion for rolling. Unlike a molded hull, which you must
+lift up and off the mold and then turn over, a strip
+plank hull is simply pushed over, using mattresses and
+tires covered with carpet to absorb the load. Begin
+rolling by lifting one sheer upward, blocking the hull as
+you go. When you have raised the sheer to about a 60°
+angle, attach lines to it, some going in the direction in
+which the hull will be rolled and some leading in the
+opposite direction so that people holding them on both
+sides of the hull can control it. Unless the boat is
+unusually large, a few people can pull it over, while
+others hanging onto the ropes on the opposite side
+snub their lines around a post or heavy machinery to
+slow the rate of fall until the hull sits gently on its
+bottom. Set the cradle under the hull and level it
+according to the waterlines so that you can complete
+the interior and install the deck.
+Strip Composite Construction
+Until the late 1980s, the use of strip composite
+construction had been limited to stripper canoes,
+rowing shells, prams, and dinghies. More recently, it
+has been used to build boats up to 50' (15m).
+Strip composite construction has some very attractive
+features. It is one of the fastest ways to build one-off
+hulls. It produces a strong hull that can weigh less than
+a laminated veneer hull (due to fewer glue lines). The
+only disposables are the plywood or particle board
+panels left over from the temporary mold stations.
+Veneer spiling and fitting are unnecessary, and only
+mold frames are used, so the method is very quick. 
+You can use lumber from your local dealer rather than
+veneers, which can be hard to find. The technique
+works well on compounded hulls and results in 
+very strong and stiff craft with little or no interior
+framework.
+The popularity of this method has fueled the develop-
+ment of manufactured planking products. Speed
+Strip™ Planking System is a tongue and groove style
+planking made to order with the wood species of your
+choice. If you decide to make your own planking,
+cutters are available for machining the edges of
+274
+Hull Construction Methods
+Figure 23-10 The 42' hull with the temporary mold removed.
+The hull is supported by permanent bulkheads installed
+during set-up. Note the clean interior in which work can
+progress while exterior finishing is completed.
+Figure 23-11 Launching the 42' yacht. The natural finish
+highlights the final layer of veneer laid fore and aft.
+
+--- PAGE 289 ---
+planking with a bead and cove feature, which assists in
+planking installation and alignment.
+In the 1980s, we did some tests to evaluate the relative
+effects of various weights and numbers of layers of glass
+cloth, and to explore the relationships between these
+and wood core thickness in terms of stiffness, ultimate
+strength, and weight. More comprehensive tests were
+conducted in 1998. Our results provide preliminary
+suggestions on the best ways to build strength and stiff-
+ness into stripper hulls.
+Glass fabric is used in strip composite construction to
+supply cross-grain strength to wood planking. In more
+traditional methods, closely spaced ribs serve this
+function. While two layers of cloth over 1⁄4" (6mm)
+planking are sufficient to support a canoe, this schedule
+is inadequate for larger hulls. Two approaches to
+increasing strength and stiffness are adding extra layers
+of cloth and increasing planking thickness. Our testing
+indicates that, up to a certain point, adding more fiber-
+glass to a hull justifies itself by increasing strength and
+stiffness disproportionately to the increase in weight.
+Figure 23-13 shows data that compares four thicknesses
+of cedar strip panels reinforced with various layers and
+weights of woven fiberglass fabric. Data on three thick-
+nesses of marine plywood are provided for comparison.
+This chart is intended to rank the various panel and
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+275
+Figure 23-13 Stiffness and strength of panels reinforced with
+various fiberglass fabrics vs. panel weight. Stiffness is shown
+as Inches of deflection and strength is shown as Pounds to
+failure.
+Figure 23-12  Two stripper canoes built by Herschel Payne. Western red cedar and WEST SYSTEM epoxy were used for both boats.
+The 15' (4.5m) model weights 32 lb (12.8kg) and the 18' (5.5m) model weighs 48 lb (21.6kg) .
+Panel thickness
+cedar strip
+Fiberglass
+schedule
+Weight
+ounces/sq. ft.
+Inches of
+deflection
+Pounds to 
+failure
+3/16"
+1 layer 4 oz
+6.5
+.85
+162
+3/16"
+2 layer 4 oz
+8.8
+.82
+309
+3/16"
+1 layer 6 oz
+8.0
+.73
+214
+3/16"
+2 layer 6 oz
+10.6
+.90
+500
+1/4"
+1 layer 4 oz
+9.0
+.45
+150
+1/4"
+2 layer 4 oz
+10.3
+.70
+375
+1/4"
+1 layer 6 oz
+9.8
+.49
+221
+1/4"
+2 layer 6 oz
+12.3
+.58
+450
+5/16"
+1 layer 4 oz
+10.6
+.43
+188
+5/16"
+2 layer 4 oz
+12.6
+.66
+499
+5/16"
+1 layer 6 oz
+11.6
+.48
+300
+5/16"
+2 layer 6 oz
+14.1
+.44
+500
+3/8"
+1 layer 4 oz
+12.7
+.42
+250
+3/8"
+2 layer 4 oz
+14.1
+.66
+675
+3/8"
+1 layer 6 oz
+13.1
+.32
+298
+3/8"
+2 layer 6 oz
+15.4
+.51
+823
+marine plywood
+5/32”
+1 layer 4 oz
+8.5
+1.47
+211
+7/32”
+1 layer 4 oz
+10.9
+1.01
+325
+1/4”
+1 layer 4 oz
+12.8
+.79
+429
+5/32”
+no glass
+6.9
+1.60
+45
+7/32”
+no glass
+9.1
+1.20
+149
+1/4”
+no glass
+10.7
+.63
+225
+
+--- PAGE 290 ---
+glass combinations and may be used only as a guide to
+help estimate strip plank scantlings for small boats. The
+12"  12" (304mm  304mm) cedar strip panels used
+in this test were covered with one or two layers of 4 oz
+(135g/m2) or 6 oz (200g/m2) fiberglass cloth on each
+side. Test panels were subjected to a three-point
+bending load using our MTS machine. Loads were
+applied parallel to the grain on the cedar panels and
+parallel to the face grain on the plywood panels.
+Other testing has demonstrated that the impact resist-
+ance of a composite can be substantially increased by
+balancing panels with layers of fiberglass or aramid
+cloth on both interior and exterior surfaces (see
+Appendix E).
+Strip plank construction has evolved over the years.
+Designers now use thicker strip planking and reinforce
+the wood strips inside and out with unidirectional fiber
+laid perpendicular to the planking direction. (This is
+the approach we took in building the main hull of
+Adrenalin, which was built with 3⁄8" (9mm) thick Western
+red cedar core and unidirectional carbon fiber sheathing
+inside and out.) Biaxial fabrics are typically specified
+where torsional loads are anticipated in the structure.
+Building a Stripper Canoe
+Excellent detailed instructions for building stripper
+canoes with WEST SYSTEM epoxy have been published
+and are included in the Bibliography at the end of the
+276
+Hull Construction Methods
+Figure 23-14  Planking being installed on a mold for the hull
+of the Formula 40 trimaran Adrenalin. The hull was built in left
+and right female molds rather than the typical male hull and
+deck molds.
+Figure 23-15 Fairing the inside of the right half of Adrenalin’s
+hull after the cedar planking is installed.
+Figure 23-16  Applying unidirectional carbon fiber to the
+inside of the right half of Adrenalin’s hull. The two halves
+were joined after the interior was finished and a bulkhead was
+installed.
+
+--- PAGE 291 ---
+book. If you have any problems finding a book on the
+subject, please call us for sources. The following brief
+outline presents one of the many variations on the
+technique.
+Setting up for a stripper canoe is not much different
+from setting up for a strip plank hull. You can use a
+standard four-sided strongback, but a three-sided, 
+U-shaped foundation made of two 2"  4"s (38mm 
+89mm) and one 2"  6" (38mm  140mm) is strong
+enough for a 17' (5m) canoe. Set up mold frames and
+stems to define the hull shape and bolt them to the
+strongback. Fair the set-up and then tape the edges of
+the frames or cover them with plastic strips so that they
+will not be bonded to the hull.
+Many strippers are planked with Western red cedar 
+and sheathed, inside and out, with 4 oz (135g/m2) or
+6oz (200g/m2) fiberglass cloth. One of the most efficient
+ways to prepare stock for planking is to buy nominally
+3⁄4" thick flat grain boards, rip them to 1⁄4"  3⁄4" 
+(6mm  18mm) edge grain strips, and then scarf 
+them to length. 
+Canoe designs vary, but it is fairly safe to say that less
+than 50% of the planks will need to be full length.
+However, additional full-length planks will allow you to
+be selective in choosing planks for contrasting grain and
+color.
+Prior to beginning, you need to decide on a plank
+layout scheme, as shown in Figure 23-2. Most canoes
+are built using the master plank method, but some
+designs are better suited for the double run method.
+Each method has advantages and disadvantages with
+the double run method requiring fewer fitted joints. 
+Edge glue the planks with a thickened low-density
+epoxy mixture and use staples for temporary pressure
+until the epoxy cures. Wire brads or finish nails can be
+used at the stations. The flat bottom section of a canoe
+resembles a football.
+Remove staples and nails when the epoxy has cured.
+Fair the canoe, first with a block plane and then with
+an 11" (280mm) long sanding block. When you are
+satisfied, clean the surface with a vacuum cleaner and
+wipe the hull down sparingly with warm water and a
+sponge. This causes the damaged wood fibers at the
+staples and nails to swell and “heal” the holes to a
+surprising degree. Allow 24 hours drying under good
+dry conditions before applying an initial coating of
+WEST SYSTEM epoxy. We recommend using the 207
+Special Coating Hardener on strip canoes as it is formu-
+lated for maximum long-term clarity. Allow this initial
+coat to cure, lightly sand and clean the surface again,
+and apply 4 oz (135 g/m2) or 6 oz (200 g/m2) woven
+fiberglass cloth.
+Use the dry method to apply the cloth. (See Chapter 13.)
+Fit and cut the cloth and place it over the entire hull
+exterior. Then follow the special instructions for fiber-
+glass application for clear finishing presented in
+Chapter 13. Use a stiff bristled brush to spread the
+epoxy. Use minimal strokes and allow the epoxy to sink
+into the fabric. Draw off excess epoxy with a plastic or
+rubber spreader. The glass at this point should be clear
+but slightly dull.
+If you want a second layer of fiberglass, you can apply it
+one of two ways. You can either let the first fiberglass
+layer cure before continuing or apply the second layer
+while the initial glass/epoxy layer is uncured. If you let
+it cure, prepare the surface with a water wash and light
+sanding. Use the same fiberglass wet-out technique on
+this second layer. If you plan to continue glassing with
+the second layer while the first layer is uncured, it helps
+to have an assistant to help you carefully place the
+fiberglass. It will be difficult to work out wrinkles so
+accurate initial placement is important. Ideally, you
+should apply additional coats of epoxy to fill the weave
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+277
+Figure 23-17 A typical canoe mold with plywood frames.
+Typical canoe mold
+Align and plumb
+frame centerlines
+Stem to become
+part of hull
+Strongback
+Plywood or particle
+board mold frames
+Evenly spaced
+mold stations
+
+--- PAGE 292 ---
+the same day. This may take two to three coats of epoxy
+to accomplish. The fill coats can be applied as soon as
+the previous coat of epoxy has cured to a firm tacky
+state. This level of cure can take from one to four hours
+depending on the temperature in your shop. After the
+epoxy has cured, sand initially with 80-grit paper and
+then with 120-grit paper until the surface is smooth
+and dull. If you’ve sanded into the fiberglass weave,
+apply additional coats of epoxy to seal these areas
+before sanding again.
+At this point, build a cradle. Unbolt the mold frames
+and turn them sideways to free the canoe. Turn the
+boat over and place it in its cradle. Sand the interior
+with a disc sander and soft foam pad as well as with a
+block where necessary. The flexible sanding block
+shown in Figure 23-18 works well. 
+Apply fiberglass on the inside exactly as you did the
+outside, with one overall layer and a second layer in the
+flat bottom section. Ideally the inside of the canoe
+should be glassed as soon as practical so that the
+moisture content of the planking does not have time to
+change. Increasing moisture content will lead to oil-
+canning (loss of hull shape due to swelling wood
+fibers). A 4%-6% change in moisture content on a thin
+planked hull glassed on one side only could be disas-
+trous. 
+Lay out the sheer clamp and trim it to shape. Laminate
+gunwales and breasthooks. Double check the width of
+the hull and install thwarts. These are usually hung
+from screws, which fasten up into the gunwales. Build
+or buy seats to your liking, install them, and finish the
+canoe as you would a strip plank hull.
+Strip Composite Components
+Strip composite construction methods can be used to
+build many boat parts. One of the more interesting
+applications is in building spars up to about 30' (9m)
+long. The same technique may be used to build cabin
+tops and other panels and components where design
+considerations favor low weight and minimal interior
+framing, or where heavy compound curvature
+precludes the use of plywood.
+In the past, solid masts were built by shaping a rectan-
+gular piece of wood into an airfoil and then, if weight
+was a problem, hollowing out the center. We suggest
+that instead of building spars this way, you begin with a
+male form which describes the shape of one half of the
+mast, strip plank it, sheath it with glass, make a second
+half, and then bond the two together. The resulting
+spar is lightweight and can be designed to receive
+specific loads. Because this type of construction has not
+been widely used, we cannot recommend strip dimen-
+sions and fiberglass schedules. Smaller spars will
+probably require both high-density wood strips and
+softwood. It is possible to taper the wall thickness and
+section of a freestanding mast, but as with all other
+aspects of strip composite spars, careful study must be
+made to correctly address anticipated loading. 
+278
+Hull Construction Methods
+Figure 23-18 Custom sanding blocks can be made by
+bonding flexible belting material to a wood or foam core. 
+Vary the core thickness and the saw cut spacing to adjust 
+the flexibility for various curved surfaces.
+Saw cut through
+one belt & core only
+Foam core
+Conveyor belting
+or vinyl skins
+
+--- PAGE 293 ---
+A strip composite mast is built in two halves, which are
+later joined. Set up a mold much as you would for a
+stripper canoe, except that it will only define half the
+spar. We suggest using 1⁄2" (12mm) plywood for the
+formers and placing them about 1' (300mm) apart along
+a strongback as in Figure 23-19. Prepare desired stock
+for strip planking as described earlier in this chapter.
+There are several ways to plank a strip spar. You can lay
+strips over your frames, spot bonding as you go, and
+then, when they are all in place, fill all the gaps with an
+epoxy/high-density filler mixture in one operation. One
+builder reported that he was able to hold the strips in
+position with tape until he was ready to bond them. If
+you are reluctant to try one of these approaches, edge
+glue and staple the planking as you would on a stripper
+canoe.
+When the epoxy between the strips has cured, remove
+the first mast half from the mold and apply fiberglass
+cloth to its inside. Make a second strip half, apply fiber-
+glass cloth inside, and then bond the two together. Fair
+the exterior surface and cover it with fiberglass cloth.
+Chapter 23 – Strip Plank Laminated Veneer and Strip Composite Construction
+279
+Figure 23-19  Building a strip composite spar.
+Figure 23-20  A section of a strip composite spar showing 
+an “I-beam” shear web. Note bead and cove joints between
+planks.
+1⁄4" x 3⁄4" Spruce Strips
+1⁄4" x 3⁄4" Birch Strip
+1⁄2" Plywood Formers
+2" x 4"
+Strongback
+
+--- PAGE 294 ---
+280
+Hull Construction Methods
+
+--- PAGE 295 ---
+A simple and inexpensive method of hull construction is bonding plywood skins to frames, a wood chine,
+and the keel. However, plywood does not bend into compound shapes easily so only sections of cylinders
+or cones can be readily generated. These surfaces are known as developed surfaces and can be made
+with flat sheets of material like plywood or metal. Developed surfaces limit the shape of a hull, giving it a
+somewhat slab-sided look. However, the speed with which you can build a hull with plywood may be
+enough of a trade-off to overcome the aesthetic issues.
+Composite chine construction, also known as stitch-and-glue construction, is now very popular and is
+discussed here and more thoroughly in Chapter 25 Compounded Plywood Construction. A composite
+chine or keel is fabricated with a thickened epoxy fillet and fiberglass cloth—no wood structural members
+are used. Using the stitch-and-glue method, you can build a complete hull quickly, without the need for
+mold stations or a strongback. With this method, it is easy to build a multiple chine boat that has far more
+sophistication than single chine forms (see Skene’s Elements of Yacht Design for more information about
+multiple chine-developed surfaces). Composite chine construction also leaves the interior of the boat with
+very few crannies to collect water and dirt.
+This chapter discusses building, installing, and fairing
+wood chines as well as scarfing plywood panels in
+place as the hull is built.
+Hulls with round sections can be laminated with veneer
+or strips of plywood. Over the years, however, we have
+also used WEST SYSTEM® epoxy with sheet plywood to
+produce hard chine hulls. Many hull shapes are well
+suited to sheet ply construction. Since plywood is
+already laminated, great savings in labor and possibly 
+in materials result when it can be used in sheet form 
+to build a hull.
+The introduction of low-cost plywood panels has been
+one of the most significant developments in wooden
+boat construction. Shortly after World War II, sheet
+plywood began to be widely used in all types and sizes
+of custom-built and mass-produced boats. It was
+immediately accepted because of its high strength and
+stiffness-to-weight ratios, its dimensional stability, its
+multidirectional strength, and its convenient 4'  8'
+(1200mm  2400mm) size from which parts could be
+easily cut. The high pressure and good adhesives used
+in manufacturing plywood produce a high quality
+laminate.
+Without question, the use of plywood has contributed
+to quality boat construction. The material is not,
+however, perfect. Plywood boats have had serious
+maintenance problems and, in many cases, short life
+spans. These deficiencies have been so severe that some
+boats specifically designed for plywood construction—
+the very popular Sunfish™ and Sailfish™ sailboats are
+good examples—are now built with fiberglass, which is
+often heavier. Fiberglass was substituted for plywood
+not because it has superior physical properties, but
+because it is relatively easy to maintain. We solve many
+of these maintenance and longevity problems by using
+WEST SYSTEM epoxy in sheet ply construction.
+Our hard chine construction methods differ from
+standard techniques most significantly in that we use
+epoxy to join all hull pieces and parts, while more
+traditional builders use screws, nails, and mechanical
+fasteners. In the past, resorcinol or urea-type adhesives
+were commonly used with fasteners, but no one
+expected the adhesive alone to provide necessary joint
+strength. Total bonding, in which 100% of each and
+every joint is made with a mixture of epoxy and filler, is
+now not only structurally possible, but often the easiest
+and least expensive way to join plywood panels.
+Our methods also depart from typical plywood hard
+chine construction in their emphasis on coating and
+sealing. We coat all plywood with epoxy both during
+Hard Chine Plywood Construction
+C H A P T E R
+24
+
+--- PAGE 296 ---
+and after construction, encapsulating the wood to stabi-
+lize its moisture content and to protect it from the
+harmful effects of moisture. We can produce very light,
+stiff, strong, and long-lived hulls by using the bonding
+and sealing qualities of WEST SYSTEM epoxy in combina-
+tion with good plywood and lumber.
+Best of all, sheet plywood is probably the easiest and
+fastest material to work with when building a hard chine
+hull. There are a number of reasons for this. For instance,
+the lofting of a hard chine boat is greatly simplified
+because most of its surface area is in a one-dimensional
+plane. When lofting a hull that has compound curva-
+ture, you must define all points on its surface; with a
+hard chine hull, you only need to define the location of
+the chine, keel, and sheer points on the lofting board.
+This simplifies and greatly speeds up the lofting process
+and enables you to develop a body plan in a fraction of
+the time normally required for a typical rounded-hull
+shape. In addition, the time needed to mark, cut, and
+assemble mold frames or permanent frames is greatly
+reduced because the process is much easier.
+Frame Assembly
+In other boatbuilding methods, mold frames are removed
+when the hull is finished. In hard chine construction,
+however, most frames stay permanently in the boat
+because the flat planes of plywood hulls usually require
+the support of substantial framework for adequate stiff-
+ness. Although frames can be made of plywood, the
+straight sections of hard chine hulls often make straight
+stock a better choice structurally and economically.
+Usually, we decide early in the project on a standard
+size of frame material—1"  3" (19mm  63mm)
+stock is typical. Two main factors that determine the
+size of the frame material are the weight and size of the
+boat, and the dimensions of the stringers and chines
+that will be notched into the frames. A notched frame
+must retain adequate load-bearing capacity. For example,
+if you are going to set 11⁄2"  3⁄4" (36mm  18mm)
+stringers on edge into 3"  3⁄4" (75mm  18mm) frames,
+you can only count on 11⁄2" of the frame material to be
+load-bearing until the outer skin is applied. You will
+have to decide whether the 11⁄2" of unnotched frame
+stock is adequate for your particular situation.
+After you have decided on a standard dimension for the
+frame material, prepare enough of the desired stock to
+make all of the frames in the boat. In many cases, you
+can save time by rounding over (or “radiusing”) what
+will be the interior edge and then sanding and
+precoating all of the frame stock before it is sawn and
+assembled into frames. In some cases, however, it may
+be easier to perform these finishing operations after you
+have assembled the frames.
+All the frame joints which will meet either at a chine or
+keel must be at least as strong as the timber stock that
+is being joined. A joint system that we have used with
+great success consists simply of butt fitting the two
+pieces of timber together and then covering each side of
+the frame with a gusset of plywood. Orient the grain of
+the gusset so that each ply crosses the joint at a 45°
+angle, thus giving maximum strength. For accuracy, this
+assembly is best done in a two-step operation. First, cut
+the frame stock to proper size and take care to fit the
+individual pieces of the frame together, using nicely
+fitted butt joints as the only contact between the
+individual pieces.
+To ensure accuracy, temporarily position the pieces on a
+developed full size body plan from the lofting floor or a
+full size frame pattern that has been transferred to
+either paper or Mylar™. Use the full size lines as guides
+to lay out the frames. When you have fitted all of the
+individual joints to your satisfaction, insert wax paper
+or a thin polyethylene sheet under the edges to be
+joined to prevent any bonding with the surface on
+which the fitted frame stock is resting. Coat the butting
+edges of the frame pieces with adhesive and reassemble
+them on the body plan surface. Hold the frame pieces
+in perfect position using small nails (around the
+perimeter) or weights until the adhesive cures.
+282
+Hull Construction Methods
+Figure 24-1 Typical frame assembly showing gussets, filler
+blocking, and the position of structural members.
+Sheer clamps or battens
+Side
+frames
+Blocking for gusset,
+if necessary
+Stringers
+Plywood gussets
+on both sides of
+the frame
+Frame
+joint at
+chine
+Bottom
+frames
+Keel
+Limber holes
+
+--- PAGE 297 ---
+Next, install plywood gussets at each joint on one
+surface only. The size and thickness of the gusset
+material are usually in proportion to the size and thick-
+ness of the timber stock used for the frames. Typically,
+we use 1⁄4" to 3⁄8" (6mm to 9mm) thick plywood gussets
+on 3⁄4" (18mm) thick frame material. At the present time
+there are no scantling rules worked out on this relation-
+ship, but if you are in doubt, make a sample frame joint
+and try to break it. If a break occurs in the joint, make
+the gusset bigger.
+Because we use gussets of a few standard radii, we can
+round and sand their edges and precoat them before
+installation on the frames. It’s not necessary to make
+them as circles, but as much standardization of gusset
+size and shape as possible saves a great deal of time and
+labor. Study the lofting of your frames to determine the
+best gusset shape for your boat.
+Use a high-density adhesive mixture to bond the gussets
+and use either clamps or staples for temporary pressure.
+Clamps are simpler to use, so choose them wherever
+possible. If you are stapling, use either narrow-crown
+alloy staples or wide-crown staples. The former can be
+left in the hull, but the latter should be removed when
+the epoxy has cured. Be sure that any staples left in
+place are clear of areas that will be notched or beveled.
+After applying the gussets to one side at each joint,
+install a spall for additional support in the upper half of
+the frame following instructions in Chapter 17. Use
+temporary diagonal bracing if you are working with a
+particularly large or unwieldy frame. This will help
+maintain accuracy when you turn the assembly over to
+attach gussets to the other side.
+When you have installed gussets on both sides, reposition
+the frame on the body plan and check it for accuracy.
+Mark the centerline, appropriate waterlines, and sheer
+measurements just as you would in the typical frame
+assembly procedure discussed in Chapter 17. It’s
+convenient to lay out, cut, and finish limber holes in
+the frames with epoxy at this point.
+Prefinish the frames as much as possible before
+installing them in the set-up. You may want to do this
+before marking the centerline, waterlines, and sheer for
+the set-up. If you have already prefinished frame and
+gusset stock, touch it up to make sure that all surfaces
+are coated.
+Setting Up
+The process of setting up hard chine frames is identical
+to the standard procedure explained in Chapter 18. In
+practice, hard chine frames are easier to work with than
+regular frames because the chines serve as reference
+points for checking for minor errors in frame location.
+In some cases, the frames between the chine and keel
+will be straight, but in areas where the hull twists or
+flares out abruptly, such as the forward sections of a
+power boat, frames are designed to curve and accept
+the developed shape of the plywood.1
+It’s also considerably easier to fair hard chine frames
+than it is to fair frames for hulls with round bilges. In
+the initial stages of fairing, only the keel, chine, and
+sheer areas are important. Lay a batten halfway between
+the chine and keel or the chine and sheer and make
+necessary corrections on the frames. Move the batten in
+either direction to check the bevel of the frames. Lay
+another batten on them from chine to keel and chine to
+sheer to check for irregular curves.
+When the set-up is complete and the frames are finally
+faired, install the stem, keel, and transom as described
+in Chapter 19. Sheet plywood construction is similar to
+the stringer-frame method in that it uses frames and
+stringers to support a thinner skin, but there are two
+major differences between the techniques. With sheet
+plywood, stringers are not always needed for support
+during building. Very little loading develops on any one
+stringer when plywood is applied over a hull surface, so
+generally there is little cause for concern about deforming
+stringers. Stringer size can therefore be based on the
+structural needs of the hull skin rather than on mold
+requirements.
+Chapter 24 – Hard Chine Plywood Construction
+283
+1In cases like these, the hull is formed as a series of cones and/or cylinders. The
+plywood is still straight along certain elements, but these elements may no longer be
+parallel to the frames. The design of developed skin plywood hulls can be complex.
+For further information, we recommend Modern Boatbuilding by Edwin Monk or
+Skene’s Elements of Yacht Design by Francis S. Kinney.
+
+--- PAGE 298 ---
+The second difference is in the use of chine logs, longi-
+tudinal members which act as stringers for structural
+support at the chine joint and are critical for joining
+panels. In hard chine plywood construction, chine logs
+provide enough bonding area for holding the panels
+together and protect potentially vulnerable areas of the
+hull. Chine logs should produce joints that are poten-
+tially stronger than the plywood.
+As Figure 24-4 indicates, there are many successful
+ways to make chine joints. The sharp edges which
+usually result from these techniques do however
+obstruct hydrodynamic flow, and this is a major disad-
+vantage of hard chine construction. Rounding sharp
+edges minimizes the problem, but requires innovative
+joining techniques which can provide large radii
+without compromising joint strength.
+Some designs, such as the International Fireball dinghy,
+have two chines, each with flatter angles, on either side
+of the hull. These tend to expose a large amount of end
+grain on the overlapping plywood. The usual procedure
+was to avoid exposing end grain on the bottom of the
+boat, so the bottoms were put on last and the end grain
+exposed only on side surfaces. End grain well encapsu-
+lated in WEST SYSTEM epoxy has proven very tough and
+resistant to abrasion. Chines in this type of hull do,
+however, receive more abuse than any other parts of the
+hull, and it may be worth adding glass cloth to more
+vulnerable joint areas to increase abrasion resistance if
+hard usage is expected. Glass tape, available in 3" and
+6" (76mm and 152mm) widths, can be applied to
+chines and keels without a great deal of extra work.
+284
+Hull Construction Methods
+Figure 24-2  Load-bearing bulkheads can be made from two
+pieces of thinner plywood with a framework sandwiched in
+between. The bulkhead arrangement shown above handles the
+main beam loads from a trimaran’s outriggers.
+Figure 24-4 Details of typical chine joints.
+Figure 24-3  In this set-up for a hard chine trimaran hull, the
+builder has installed the chines and is fairing the frames.
+Spruce or fir chine
+Spruce or fir
+chine log
+Fiberglass tape
+over the radius
+Hardwood
+cap
+Plywood planking
+Chine log
+Epoxy
+coated
+end grain
+Plywood sides
+“Funky” 
+trimaran chine
+Spruce or fir chine log
+Heavy laminated
+plywood bottom
+Fiberglass tape
+
+--- PAGE 299 ---
+To make a typical triangular chine log as shown in
+Figure 24-4, begin by rough-shaping the chine stock as
+close as possible to finished dimensions. Scarf the piece
+to the proper length and attach it to the frames in the
+set-up. Notch each frame to allow the chine log to sit in
+position for final fairing. To speed up the notching
+process, make a small marking guide from a piece of
+sawn-off chine stock. As you lay out the notches, be
+careful to adjust for any twist in the chine as it extends
+from the bow to the midsection and back to the
+transom. The angle of each frame at the chine will be
+different, and you will have to shift the angle of the
+chine log to compensate. Divide the angle change at
+each frame so that you won’t increase bonding area on
+one side at the expense of the other. You can get good
+indications of the angle change and notching depth
+from the body plan on the lofting board.
+When you have completed the notching and fitting of
+the chine, bond it to the frames, using clamps for
+temporary pressure until the adhesive cures. Steel wood
+screws that are later removed are a good alternative if
+clamps are impractical. Staples are rarely used because
+they will interfere with the heavy fairing that follows
+after the chine is permanently bonded in position.
+Because the chine in many boats is considered a major
+structural element, it is usually fitted well to the stem
+and transom. This is usually accomplished in the stem
+by notching, but it can also be butted, provided that
+there is sufficient bonding area. Chines are always
+notched into the transom. Use either a triangular notch
+or a full notch, but the chine should not pass through
+the transom, exposing end grain. Bevel the chines using
+the same techniques used to bevel the keel, as explained
+in Chapter 19. At each station where the chine intersects
+the frame, make saw cuts in the chine that represent
+extensions of the frame on either side of the chine.
+Notch the chines down to their true shape at each
+frame station, as illustrated in Figure 24-5.
+With most hulls, it is then relatively easy to achieve a
+rough bevel on the chine using the notched-in bevel at
+each station frame as a guide. Assuming that the chine
+itself is bent around the frames in a fair curve, you can
+use the edge of the chine like a batten to determine
+whether your bevel is continuing fair from frame to
+frame. To assist your eye in determining this fairness
+between frames, you can lay a fairing batten directly on
+the chine and hold it temporarily with clamps to detect
+any high or low spots and mark them for further fairing.
+If there are unusually large spacings between frames, it
+can be very helpful at this point to install any longitu-
+dinal stringers that are planned. Once the stringers are
+installed, you can use them as helpful guides to assist
+with the development of the chine bevel. Two or more
+stringers notched into the flat area of the frames
+between, say, the chine and the keel will act as excellent
+guides to help develop the true surface over which the
+exterior plywood panels will lie. You can use a straight-
+edge to make a fair extension of the stringers down to
+the chine, indicating both the position and exact angle
+of the bevel on the chine at any point between frames.
+You can use the same technique, of course, to achieve
+proper bevels on both keel and sheer clamps.
+Typically, the stringers are positioned across the frames
+parallel to the sheer and keel at the desired intervals so
+that they run out at the chine, intersecting with the
+chine itself. This is not always necessary, and with
+certain types of chine systems, it is better to run the
+stringers parallel with the chines, allowing them to run
+out at the sheer and/or keel. As with rounded hulls, you
+can also position the stringers so that they taper toward
+each other as they enter the bow and transom area.
+When the framework is finished, use a straightedge to
+final fair the flat surfaces between the chine and keel
+and the chine and sheer (and the chine and chine on a
+multiple chine hull). At no point should any of the
+Chapter 24 – Hard Chine Plywood Construction
+285
+Figure 24-5  Notching the chine at the frame.
+Notches sawn along
+projection of mold
+Gusset
+Chine Frame
+
+--- PAGE 300 ---
+athwartship frame edges be even slightly higher than
+any of the longitudinal members. This is especially
+important if you are using thinner plywood for the
+exterior skin because slightly high frames tend to
+produce a slight athwartship distortion, which may be
+noticeable in the finished hull. Edges that are too low
+may also distort the hull shape.
+Use a fairing batten and a piece of plywood measuring
+approximately 1' (300mm) wide and 4' (1200mm) long
+to determine overall fairness in both directions. The
+plywood gives an indication as to how the panel will
+actually lie when it is installed on the frame surface.
+Because you will be fairing flat surfaces, longer hand
+planes, such as jack planes, are very handy for final
+fairing.
+Some boat plans may call for compounding or bending
+of the panels in two directions at the same time. You can
+accomplish this by curving the frames slightly between
+plywood joint positions, thus making the plywood
+bend in both directions. While this compounding does
+add to the stiffness of a plywood panel, difficulty can
+quickly arise if caution is not used on hard chine
+frame-supported plywood structures. Usually, the hard
+chine method of construction is chosen because of its
+ease and simplicity, and when you try to compound or
+bend plywood in two directions on a frame-supported
+surface, unwarranted complications can develop that can
+easily nullify any benefits gained. There are excellent and
+simple methods of compounding plywood which are
+explained in Chapter 25, but this compounding is done
+using a unique concept, where the compounded plywood
+surface does not have to be made to fit a preformed
+framework. (Also see discussion of compounding sheet
+plywood on decks and cabin tops in Chapter 27.)
+Fitting Panels
+You must first decide how large a plywood panel you can
+apply easily at one time. Generally, this depends on the
+size of the boat you are building. With smaller dinghies,
+it is common to apply a complete prescarfed panel over
+one section of the hull in one bonding operation. With
+larger boats, it will be easier to install smaller panels
+and perform the scarf joint assembly right in place on
+the boat hull, as discussed in Chapter 12.
+Other benefits in using shorter panels include ease of
+handling and more efficient use of material because
+shorter panels create less scrap and are easier to mark
+and fit prior to final application. In any case, a 16'
+(4.8m) long panel is about the maximum length that
+you will want to install on any hull at one time. Our
+experience has been that it takes a very organized and
+coordinated effort by a number of people to apply large
+panels and to do a good job both in installation and
+cleanup. The main problem is time. You need time to
+apply adhesive to all of the stringers, frames, chines,
+keel, stem, etc. More time is required to position the
+panel and apply proper clamping pressure with staples.
+Even after the panel is in final position, a little more
+time will be needed to clean up the excess adhesive that
+squeezes out between the ply and the framework before
+it cures.
+When scarfing in place on a hull, it’s usually best to
+locate joints over bulkheads, frames, and other solid
+components. If you are using plywood that is at least 3⁄8"
+(9mm) thick, however, and have ample longitudinal
+stringers for support, it’s possible to scarf anywhere
+without the totally rigid support of a frame or
+bulkhead. With thinner plywood, you can scarf over
+temporary, plastic-wrapped butt blocks if a frame or
+bulkhead isn’t handy.
+There are a number of ways to mark panels for rough
+sawing and accurate scarf alignment. The easiest
+method is to clamp a sheet of plywood over the area it
+will cover and adjust it for minimal waste. Then draw
+pencil lines on the underside of the panel, using the
+chine and keel or sheer and chine as guides. Cut the
+sheet and check again for fit, and mark stringer and
+scarf locations. To speed things up later, tack the panel
+in place for this fitting and leave the nails in the
+plywood to help align it. Surmark the panel to facilitate
+installation. 
+Scarfs should be evenly centered on frames. To pin down
+their locations, first determine the length of the scarf
+bevels. This should be eight times the plywood thick-
+ness, so if you were applying 1⁄4" (6mm) plywood the
+joint would be 2" (50mm) long. To mark a 2" scarf on
+the panel, lay it out so that it centers on a 3⁄4" (18mm)
+thick frame and its edges extend 5⁄8" (15mm) on either
+side. (See Figure 24-6.) When the two panels are
+286
+Hull Construction Methods
+
+--- PAGE 301 ---
+marked, saw the plywood along the scarf edges and
+machine the 8 to 1 bevel.
+If fitting whole panels to your hull is impractical, use
+heavy brown paper to transfer the panel shape quickly
+from the framework to the sheet ply. Lightly staple the
+brown paper over the framework and trace the outline
+of the framework area that the panels are to cover.
+Remove the paper from the framework and cut out the
+marked perimeter. Transfer the outline to the sheet ply.
+Because this method may be less accurate, leave a little
+larger safety margin beyond the marked edge as you are
+sawing out the panel. Position this rough-cut panel on
+the hull and mark accurately for scarf joint location and
+any other marking that might be helpful (perhaps noting
+a gap area that may require more adhesive). Surmark
+the panels so that you can reposition them easily and
+accurately when you are bonding them in place.
+It doesn’t appear to be important whether you install
+the bottom panels or the side panels on a hull first.
+Ease in application and in cleaning up excess epoxy
+should be the determining factors. Normally, we prefer
+to apply the hull bottom (top when the hull is inverted)
+panels first, only because we can step in between the
+frames to get closer to the keel area.
+When the panels are fitted and ready for installation, we
+always precoat and then sand the interior surface of each
+panel prior to installation. This saves on interior finishing
+time. An alternative to coating individual panels after
+they are cut out is to coat entire sheets of plywood prior
+to cutting out the individual panels. Although this
+method involves some waste, it can save time.
+Marking Panels for Stapling
+When bonding the panel to the general framework, you
+need to know where all of the stringers, frames, and
+chine positions are so that you can accurately and
+quickly staple the panel to the framework in exactly the
+right places. To do this, mark the positions of the entire
+framework on the outside of the panel so that you can
+staple along these lines with accuracy. One of the
+advantages of running the stringers parallel with the
+chines or sheer is that you can make up a marking
+gauge to transfer the chine and stringer locations
+quickly to the sheet ply after it is applied in position.
+(See Figure 24-7.)
+Chapter 24 – Hard Chine Plywood Construction
+287
+Figure 24-6  Marking and bonding plywood scarf joints on
+the hull.
+Figure 24-7  A gauge for marking the stringer position on
+decks or side panels.
+This dimension depends on
+scarf length and frame size.
+The scarf should be centered
+over the frame.
+Frame
+Short staples through
+pads along feather edge
+Compass
+Longer staples through pads
+into stringers or frames
+Side or deck panel
+Frame
+Curvature of side or
+decking should keep one
+of the scarf’s feather
+edges tight. However
+the entire joint shou

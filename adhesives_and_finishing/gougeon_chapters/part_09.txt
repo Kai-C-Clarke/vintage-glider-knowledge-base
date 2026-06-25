@@ -1,0 +1,1719 @@
+system demands a little more work but
+ensures that any parts made from the lofting will
+already have the planking thickness subtracted from
+them. Slight inaccuracies creep in as you subtract
+planking thickness. However, if the process takes place
+before the diagonals, buttocks, and waterlines are used
+to check and fair the body plan sections, these inaccu-
+racies will be faired out. The end result is a slightly
+fairer, more accurate shape when the molds and the
+bulkheads are set up.
+In some hulls, however, such as wineglass sections, 
+you might feel more secure if you subtracted planking
+thickness after the hull has been faired to eliminate any
+complication that might arise in fairing the deadwood
+into the hull.
+The procedure for subtracting planking thickness is the
+same whether you do it before or after fairing the body
+plan. If you decide to subtract the planking thickness
+before you fair the body plan, take the steps outlined
+below after you have laid down the body plan but
+before you have picked up any waterlines, buttocks, or
+diagonals to fair it.
+On long, thin hulls, such as multihulls with their thin
+skins, there is no problem in subtracting the actual
+planking thickness directly from the molds and frames.
+However, on boats with thicker planking and/or more
+abrupt curves, some problems can arise if the same
+amount of planking thickness is subtracted from all of
+the station sections. If you take a station somewhere in
+the middle of the boat, it intersects the planking at close
+to right angles. If you measured the planking across the
+angle at which this station intersects it, it would measure
+the same as the actual thickness of planking that is
+used. However, if you measured a station close to the
+bow, where the planking comes across that station at a
+considerable angle, say 20°, you would find that the
+measurement would be considerably more than the
+thickness of the planking. This extra amount would
+have to be subtracted from the station at that point so
+that when the boat is planked, the outside dimension
+will be the same as the final loftings. Although there are
+different ways of subtracting planking thickness, all of
+them require that you find the bevel angle of the station
+and measure the distance through the planking stock at
+that angle. The distance measured across the angle of
+the planking stock is the amount subtracted from the
+station section at that point.
+The first step is to make a master bevel board. This is 
+a tool that you can keep around the shop and use for
+various projects, so it’s worth making a good one. Take
+a square piece of plywood about 1⁄4" (6mm) thick, with
+its sides at least as long as the greatest station spacing
+on the boat you are lofting. We usually make it a little
+bigger so that it will fit most projects and recommend a
+3' (1m) square as a good size. Place a point of the bar
+compass in one corner of the square and draw a 90° arc
+of the largest radius possible. (See Figure 16-12.) Next,
+divide this arc or quadrant into 90 parts, each repre-
+senting one degree. Accurate work is important. Start
+by dividing the arc into three parts of 30°. Then divide
+one 30° arc into six parts of 5°. Then divide one of
+these 5° parts into 1° marks. Make a quick template,
+using the construction you have just done, to divide the
+other two 30° sectors into six parts of 5°. Then divide
+all the marks into 1° marks. Now you need a straight
+
+--- PAGE 197 ---
+Chapter 16 – Lofting
+183
+stick that will reach diagonally across the square. Draw
+in and label the lines every 5°. Because this bevel board
+will be permanent, use a ballpoint pen.
+The side of the square that goes from the center to the
+0° mark will be the baseline. Mark off the station
+spacing from the center along the baseline, and at that
+point construct a perpendicular line. Draw the line 
+in, using light pencil. Next, mill a piece of wood that 
+is longer than the greatest distance between station
+sections on the body plan, making it about 1⁄8" (3mm)
+thick and the exact width of the thickness of planking
+that will go on the boat. Lay this stick on your bevel
+board so that one edge touches the vertical station line
+and the bottom of the stick touches the baseline. Use a
+couple of small tacks to hold it in place. Using a small
+straightedge, transfer all of the angular lines across the
+stick and label them. Be sure to mark the edge of the
+stick that is touching the station line.
+Take the stick to the body plan as shown in Figure 16-
+13. Let’s say you want to deduct the planking thickness
+from station 4 at a point on the topsides. Lay the stick
+so that its base touches station 4 at this point and it is
+projecting at right angles to station 4, and read the
+degree line closest to station line 3. Let’s say that it is
+20°. Now, place the base of the stick on station 4 so
+that it is projecting at right angles and read the degree
+line closest to station 5. Let’s say it is 14°. The bevel at
+that point on station 2 would be the average of these
+two readings, 17°. The planking thickness deducted
+would be the distance measured across the stick at that
+17° angle. (Remember, the stick is the same width as
+the planking.) Figure 16-14 shows two methods of
+subtracting this dimension.
+In the first method, we adjust a compass to the distance
+and swing an arc off at the labeled bevel as along
+stations 1 and 2 in our example. In the second method,
+we rotate the stick as we mark the bevels and carefully
+tick off the distance using the stick itself as shown on
+station 4. The measurement, of course, is made at right
+angles to the section line.
+If two station sections are close to parallel all the way
+from the sheer to the keel, you can subtract the same
+Figure 16-12 A master bevel board.
+Perpendiculars are various station perpendiculars
+Degree stick
+Mark the degrees using the straightedge over the bevel
+board. Be sure to note the proper control edge and station
+spacing.
+Figure 16-13  Determining mold bevels using a degree stick.
+Bevel from station 4 to station 3 is 20°.
+Bevel from station 4 to station 5 is 14°.
+Mean angle for these two is 17°.
+This would be the bevel for the
+station 4 mold at this point.
+These bevels should be taken at 90° to the section.
+
+--- PAGE 198 ---
+thickness from the station everywhere. Otherwise, in
+just about every hull shape, a calculation made for
+planking thickness subtraction about every 6" (150mm)
+is adequate. In the few midships sections, you will find
+the bevel angle so low that there is very little difference
+between true planking thickness and the amount that
+has to be subtracted, so most loftsmen don’t bother to
+calculate extra planking thickness deduction at very low
+bevel angles in the midships sections. You can write the
+bevel angles down on the stations at the same time that
+you do the planking thickness deduction work. After
+you have finished marking the planking thickness
+deduction from the station, place a batten on the tick
+marks and draw in the reduced station shape.
+Subtracting the planking thickness from the stem is
+slightly trickier. At this point, if you are subtracting
+planking thickness before the longitudinals are faired,
+you need to draw a buttock on the body plan 6"
+(150mm) from the centerline and pick up the distances
+for the forward third of this buttock. Then lay it out on
+the profile view. If you are subtracting planking thick-
+ness after having faired all the hull lines, this buttock is
+most easily projected up off the half breadth plan. (See
+Figure 16-15.) Draw a line at right angles from the
+profile stem at a point where the stem intersects a water-
+line, extending the line aft to the point where it intersects
+the profile of the 6" buttock (as in detail A). Draw a line
+perpendicular to this first line at the point where it
+intersects the buttock. Measure out 6" and make a mark
+(as in detail B). At the point where the first line and the
+stem intersect, measure out the half width of the stem
+at right angles and put a mark (see detail C). Connect
+this mark with the upper mark. You should now have a
+reasonably accurate sectional view of the stem. If you
+lay the stick that is equal in width to the thickness of
+the planking beside this line and draw a parallel line,
+you will have the shape of the stem minus the planking
+thickness. (See detail D.)
+Next, fair a profile line for the new inner stem, using
+the points established in the stem section views you
+have just completed. (See detail E.) If you are
+subtracting planking thickness before fairing the hull
+lines, you will now have a view of the inner stem to
+which you can fair the waterlines.
+184
+First Production Steps
+Figure 16-15  Determining bevels and planking thickness
+deduction for the inner stem.
+Figure 16-14  Two methods for subtracting planking 
+thickness for.
+Mark the proper bevels on your
+stations in the body plan. Set a
+compass for the distance along
+the appropriate bevel on your
+degree stick. Swing arcs on the
+corresponding bevel marks in the
+body plan.
+While marking the 
+bevels on the body plan, 
+carefully rotate the degree stick 
+until the appropriate bevel on the
+stick is perpendicular to the point being
+measured. Tick off this dimension on the
+body plan. In this example, the stick is
+rotated for the 17° bevel on station 4.
+6" Buttock shown in
+profile view
+Half width of
+stem face
+Marking stick witness
+marks should be 6"
+(or same as buttock
+spacing)
+Fair the 
+inner stem profile
+Project the 6" buttock up from the
+Half breadth plan
+
+--- PAGE 199 ---
+Chapter 16 – Lofting
+185
+The only other area where there might be some confu-
+sion in subtracting planking thickness is in the last
+station aft, where there is not another station with
+which to average the angle. For planking thickness
+subtraction, the one angle will be close enough. If you
+want to bevel the last station from the lofting, you will
+have to allow for a few degrees because the planking
+will be curving as it comes into that station.
+This completes the basic lofting. You should now have
+the exact shapes of the desired stations from which you
+can cut the mold frames, permanent frames, bulkheads,
+transom, and other manufactured parts.
+
+--- PAGE 200 ---
+186
+First Production Steps
+
+--- PAGE 201 ---
+The material in this chapter and the next are related, and reading the two together will help clarify some of
+the more complicated concepts presented below. With a few minor exceptions, this chapter is unchanged
+from the original edition.
+Boat construction begins when lofting is complete. The
+first steps, building frames for each lofted station and
+setting them up on a foundation, are discussed here
+and in Chapter 18. Since you may wish to approach
+these jobs simultaneously, we recommend that you read
+through both chapters before you start. As you do this,
+note that most wood composite boats, even very large
+ones, are built keel up and sheer down.
+Although we refer to station frames and assume that
+you are placing your frames along the station lines, you
+may in fact use any regularly spaced lines along your
+hull. We use station lines because they are already
+drawn in the lofting and are therefore convenient. In
+cases where a permanent frame is close to a station, you
+may use it instead of a station frame and add an extra
+mid-station mold frame to support planking. If at any
+time in the set-up process you decide to add a mold
+frame, draw it into your lofting as you would a station
+line. An auxiliary grid with only a few lines is a good
+place to do this sort of special work.
+There are two basic types of frames. Mold frames are
+assembled to make a form over which to bend the
+planking or stringers of a mold or hull. Mold frames are
+removed from the finished hull and so are sometimes
+referred to as temporary or dummy frames. Permanent
+frames, on the other hand, are attached to the hull
+skin during the manufacturing process. They are incor-
+porated into the finished hull and are not used to
+construct molds. Bulkheads, ribs, and other compo-
+nents that are installed in the set-up are considered
+permanent frames.
+Some hulls are built over mold frames only and the
+ribs, bulkheads, and other transverse pieces are fitted
+and installed afterwards. Other boats are built over
+permanent frames only. Quite often, however, combina-
+tions of mold and permanent frames are used. Many
+hulls built using WEST SYSTEM® Brand epoxy and
+laminating techniques do not have enough transverse
+structural members to constitute a mold and some
+temporary mold frames have to be used. We always aim
+to build as many transverse elements as practical into
+the mold frame set-up. This requires less labor than
+installing the items after the hull skin has been formed,
+and the results are usually better.
+Planning Permanent Frames
+With careful planning, you can substitute many perma-
+nent parts for temporary mold frames. Among the
+transverse pieces to be permanently installed in a hull
+are such things as bulkheads, sides of lockers, supports
+for berths, ribs for engine bed support, laminated floors
+for through-bolting ballast keels—any pieces that run
+athwartship or at right angles to planking or stringers.
+Make a list of all such items while your project is still in
+the planning stage and judge which ones can reason-
+ably be jigged into the set-up and how. You will
+probably find that few, if any, of the pieces are
+positioned on a station line, so you will have to loft
+most, if not all, as extra stations. However, they may
+have to be lofted anyway, whether you put them into
+the set-up or fit them after you lay the planking.
+Full bulkheads are probably the easiest parts to include
+in a set-up because they outline the entire hull perimeter,
+just like a full mold frame. If the bulkhead happens to
+be reasonably close to a station, you can omit the mold
+frame for that station if you judge that the planking 
+will be properly supported and will form fairly. If the
+bulkhead is more or less dead center between two
+stations, then you will probably have to include the
+mold frames for both stations.
+As you plan permanent frames, give some thought to
+jigging design. All pieces in the set-up—permanent or
+temporary—will be supported by vertical legs. Your job
+Mold Frames and Permanent Frames
+C H A P T E R
+17
+
+--- PAGE 202 ---
+will be to arrange these legs so that they don’t get in the
+way of each other. You can cut out the centers of mold
+frames to allow bracing to pass through them, but you
+cannot hollow out bulkheads. Instead, plan to run
+diagonal braces for bulkheads through companionways
+and other cutouts.
+Another point to consider in the set-up you are
+putting a bulkhead in is whether it protrudes above
+the sheer (such as one that might form the back of 
+a cabin above the deck line). If so, the set-up will
+have to be high enough off the floor or strongback 
+to leave room for this.
+Many other items that can be included in the set-up are
+smaller than a bulkhead and will only span a portion 
+of the hull perimeter. In these cases, you cannot allow
+these pieces to substitute for an entire mold frame,
+though it may be possible to build partial mold frames
+that can provide complete support in conjunction with
+a partial frame member.
+Other considerations that are necessary if you are going
+to install permanent structures in the set-up will be
+discussed later in the chapter. First, however, will come 
+a discussion of mold frame construction.
+Mold Frames
+Our favorite mold frame material is particleboard, 
+also known as chipboard or pressed wood board. It’s
+inexpensive, dimensionally stable, and has no grain. A
+4'  8' (1200m  2400m) sheet of 3⁄4" (18mm)
+chipboard is readily available because it is widely used
+as subflooring in residential construction, and a single
+sheet is usually large enough to make both halves of a
+mold frame.
+Mold frames may also be made of 3⁄4" (18mm) lumber, 
+4" to 10" (100mm to 250mm) wide. If you use stock,
+you will generally have to cut station line shapes out of
+several pieces and then join them together with
+plywood gussets.
+The main job of any mold frame is to hold the shape 
+of the boat. So long as it is strong enough to do this, a
+dummy frame may be open in the center, like a large
+horseshoe, or closed, with material more or less solidly
+arranged across the station. Once structural considera-
+tions are met, the only difference between frame
+designs is that it may be easier to attach legs to solid
+frames than to open ones.
+Transferring the Shape
+Unless a designer specifies otherwise, you will need 
+to cut out mold frames for every station in the lofting.
+The shape of the frame for each particular station is the
+shape represented in the body plan of the lofting. Some
+designers may specify extra mold frames in areas of
+acute planking curve. These are usually referred to as
+half mold frames and are located midpoint between
+stations.
+The body plan shows only a half shape of each station,
+so you will have to cut out each station shape twice and
+then join the two halves together to form the full
+station. However, cut only half of each mold frame by
+the line transfer methods we are about to describe.
+Cut out the other halves using the original halves as
+patterns. The reason for this will be explained later
+under the subject of controlling edges. Whichever
+type of frame you use, remember to subtract planking
+thickness from your lofted station lines before transfer-
+ring them to your mold stock. It may also be necessary
+to subtract the thickness of mold planking. These
+deductions from your lofting may be substantial. To
+build a 1⁄2" (12mm) thick hull on a mold with 3⁄4"
+(18mm) thick ribbands, you will use half mold frames
+that are 11⁄4" (30mm) “thinner” than your station
+lines—so pay close attention to the planking thickness
+deduction procedure outlined in Chapter 16.
+The trickiest part of making mold frames is transferring
+the station line shape from the lofting floor to the mold
+frame material. As far as we know, there are four ways
+of doing this. One method of transfer is to loft the body
+plan on a portable board and then saw the board up
+into templates. Naturally, this won’t work if the station
+lines cross each other or even if they are very close
+together. We can only recommend this method if you
+loft the body plan twice, giving one lofting to cut up
+and leaving one for reference.
+A second method is to use tracing paper through which
+you can see the lines. Spread the paper on the lofting
+floor and trace the station lines either freehand or with
+a batten. Then move the paper to the mold frame
+material and make pick marks through it onto the
+188
+First Production Steps
+
+--- PAGE 203 ---
+frame stock. The easy way to do this is to use a pounce
+or tracing wheel, but you may also use a pin or a nail.
+Connect the pick marks into a line with a batten.
+The third and most popular method of transferring
+lines is the nail method illustrated in Figure 17-1. For
+this, you need thick-shanked nails with small, sharp-
+edged heads. Small box nails work well. Position these
+on their sides on the lofting floor, so that the shanks are
+at right angles to and the edges of the heads rest on the
+station lines. Hold a nail by its point and tap the side of
+its shank with a small hammer until the shank is flat in
+the floor and close to half of the head is buried. Sink
+nail heads in this way at several points along the station
+lines, adding more in critical areas such as sharp curves
+or chines until you have a good outline of protruding
+nail heads. Then, place your frame material over the
+lofting and gently walk on it to press the nail heads into
+the stock. Remove the mold material and use a batten
+to connect the nail head impressions into a line.
+We have developed a fourth method, shown in Figures
+17-2 and 17-3, of marking mold frames. This technique
+requires making special battens and batten holders, 
+and therefore takes a little extra time, but it gives fast,
+accurate results. The holders are screwed or notched
+onto long, thin battens which are anchored in place on
+the lofting. We can push mold frame material under
+this assembly for marking.
+You may need more than one batten, especially if 
+the sharpness of your curves varies considerably from
+station to station. Make each one out of a straight,
+flexible wood such as ash. Batten thickness depends 
+on the degree of curvature of your station lines: each
+batten should flex comfortably along the lines on which
+it will be used.
+Next, cut eight or so pieces of wood to approximately
+11⁄2"  1"  18" (38mm  25mm  450mm). These
+are your batten holders. Drill one or two holes for nails
+at one end of each piece. You can use any long, thin
+nails you have on hand as long as they slip through
+these holes easily with no slop, so be sure that your drill
+is the same size as the shank diameter of your nails. Cut
+a thin wedge out of the bottom of each stick, beginning
+Chapter 17 – Mold Frames and Permanent Frames
+189
+Figure 17-1 The nail method for picking up mold sections from the lofting.
+The mold stock is carefully placed on the
+positioned nail heads and pressure is applied.
+When the mold stock is removed from the
+body plan, the nails (or the imprint) should
+outline the shape of the section on the stock.
+Nail heads are placed along
+the section line and tapped
+into the surface of the floor.
+
+--- PAGE 204 ---
+where the piece will attach to the batten and rising over
+its length to within an inch or so of your nail hole or
+holes. This trimming will allow the batten to drop
+down onto the frame stock.
+Finally, decide how you will attach your holders to your
+battens. If you want to use roundhead wood screws,
+drill holes in the tapered end of each holder and every
+six inches along the length of your battens. Place flat
+washers under the screws as you insert them and
+tighten only enough to eliminate slop. If you choose to
+use notches, cut them in the holders to fit your various
+battens. Each holder can be notched twice, once for a
+thin batten and once for a thicker one.
+When this is done, your device is ready to use. Start by
+attaching batten holders every foot or so along your
+batten. Try to align the inner edge of the batten along
+the station shape and anchor the holders outside the
+line with nails through the drilled holes. Don’t drive the
+nails flush: you want them to give a little, and you will
+have to pull them out to move on to the next station
+anyway. Add more holders as needed until the batten is
+accurately lined up.
+Once you have properly aligned the batten and set the
+nails, you are ready to insert the mold frame material.
+You usually have to roughly trim the mold frame edge
+so that there is no excess material in the way of the
+190
+First Production Steps
+Figure 17-2  Using batten holders to transfer lofted sections to mold frame stock.
+Notches for different size battens
+Batten holder
+Oversize nail holes
+Body Plan
+Offset to allow clearance for mold stock.
+Mold frame stock
+Increase the number of batten holders in
+areas of severe bend.
+
+--- PAGE 205 ---
+nails. When the frame material is in the best position,
+let the batten back down and trace the station shape by
+running a pencil along the inside of the batten. Make
+sure the pencil is sharp so that you can mark the line
+right up to the batten.
+Controlling Edges
+After you have drawn the lines on the frame stock, but
+before you begin cutting, label the piece with its station
+number. Use a felt tip pen and make sure that you
+mark on the side on which you’ve drawn the lines. 
+This is the control side of your frame. The edge of this
+surface is the controlling edge of your frame.
+The reason for establishing a controlling edge is
+straightforward. It is difficult to keep a hand-held saw
+blade perpendicular to the material it is cutting at all
+times. When the blade cants, the top and bottom
+surfaces of the piece have different outlines. It’s there-
+fore best, when sawing, to concentrate on following a
+line on one surface. This way, you can cut one side of
+the material true to form and there’s no confusion about
+which lines to rely on. Marking helps to keep track of
+which side is the control side.
+When it’s time to set up the frames, control sides are
+aligned with station lines drawn on a floor or with
+notch marks on a strongback. To facilitate beveling, the
+thickness of the mold frame material and the width of
+the anchoring blocks below go on the side of the line
+towards the bow or stern, whichever is nearer. At the
+center station, the mold frame material goes on which-
+ever side you have chosen to put the anchoring blocks.
+This changeover point usually occurs at the widest part
+of the boat. With this arrangement, anchoring blocks
+and mold frame material end up on one side of the
+station line, with the legs that connect them on the
+other side. The controlling edge of the mold frame is
+then in a vertical plane above the station line.
+We must mention that some builders do just the
+opposite of the above by placing the anchoring blocks
+and mold frame material on the inside of the station
+line and the legs on the outside. In this way the mold
+frame edges do not have to be beveled to let the
+planking down to the controlling edge. We believe,
+however, that beveling mold frames is better, especially
+if the planking is stiff and, in bending, will put a lot of
+pressure on the frame. If a thin edge is all that there is
+to resist the pressure, a certain amount of local crushing
+is bound to occur, and the crushing in effect will result
+in a distortion of the true edge. Unfortunately, the
+crushing is unlikely to be uniform throughout the set-
+up, and so the planking may not be as fair as it could
+have been if the mold were beveled, which gives the
+planking support over the width of the frame material.
+Mold Frame Halves
+Cut out the mold frames with a hand-held saber saw, a
+band saw or any handsaw that can follow a curved line.
+After you have cut out all the first halves of the frames,
+take them back to the lofting floor and place them on
+their respective stations to check for any discrepancies.
+Make sure that you have a frame for each station and
+that each is properly numbered. You will inevitably
+need to hand trim edges. Block planes, sharp files, and
+coarse sandpaper on a block all work well for this. Use
+the controlling edges of these frame halves as patterns
+to mark the material for cutting the other halves.
+Earlier we stated it was imperative that only half of each
+station mold frame be cut out by transferring the line
+from the lofting floor. The reason for this is that the
+control sides of the second halves have to be mirror
+images of the original sides. Except in the case of the
+tracing paper method, in which paper can just be
+turned over, it is not possible to get both a straight
+Chapter 17 – Mold Frames and Permanent Frames
+191
+Figure 17-3 Transferring deck camber for a bulkhead from
+lofting to plywood stock using a batten and holders.
+
+--- PAGE 206 ---
+image and a mirror image with any of the line transfer
+methods. Therefore it is necessary to use the original
+half-mold as a pattern for the other half in order to get
+the control sides on the same sides when you truss the
+halves together.
+Once the second halves are cut out, mark them for
+control sides and number them. Check them against
+the lofting or the original halves for accuracy and
+numbering.
+Assembling the Mold Frames
+The two halves of a mold frame are held together with
+a plywood gusset in the area of the keel and with a
+spall. A spall usually spans the mold frame at the
+highest waterline of the station. We find that it’s most
+efficient to prepare these pieces in advance and bond
+and mark as many as possible in a single operation on
+the lofting floor.
+You can make the gusset out of 1⁄4" or 3⁄8" (6mm or
+9mm) plywood. Cut it out in the approximate shape 
+of the lower 12" (300mm) of the station. The gussets
+should be of generous size so that they give plenty of
+support. It is best not to place them up to the edge of
+the mold frame, but to keep them an inch away from
+the edges. You will eventually bevel the edges, and
+there is no good reason to include the gussets in the
+beveling operation.
+Spalls are usually made of either 1"  4" or 1"  6"
+(19mm  89mm or 19mm  140mm) boards, well
+seasoned so that they will not shrink or swell at some
+point after installation. Every spall must have one long,
+straight edge, for in addition to functioning as bracing
+members, spalls are applied so that one edge serves as a
+set-up reference line. Although it makes no difference
+in many cases, it’s usually better to place a spall with its
+straight edge facing up in the set-up. This way, you can
+set a level on top of it for reference and better see the
+edge when you measure. Keep the ends of a spall in 1"
+or 1⁄2" (25mm or 12mm) from the edges of the mold
+frame so they do not interfere with the fairing of bevels.
+The greater the distance a spall must span, the greater
+the chances of its becoming unstable. Instability will
+destroy its usefulness as a reference line. If the boat 
+you are building has a great deal of beam, you should
+probably support the spall toward the center with
+trusses running at an angle to the mold frame. An 
+alternative is to position the spall slightly away from 
+the reference waterline and to stretch a string across 
+the waterline marks. You can then use the string for
+reference during setting up.
+To truss the two halves of the mold frame together,
+place the frames control side down on the lofting floor.
+Only one half will fit into the body plan lofting. The
+other half, being a mirror image, goes on the other side
+of the lofting centerline. To locate this half in symmetry,
+you have to measure the offset of the highest waterline
+(the distance from the centerline to the body plan line)
+and transfer it out in the opposite direction.
+Make a tick mark or drive in a small nail and locate the
+mirror half out to this mark. Also butt the two halves at
+the keel.
+Then apply the gusset to the non-control side of the
+mold frames. Bond the gusset in place with thickened
+epoxy, using screws, nails or staples as fasteners.
+Recheck the position of the two halves, and then you
+are ready to apply the spall. Before the spall goes on,
+however, you must draw a line against which to align
+the straight edge of the spall. Use two small squares
+and place their edges sitting vertically on the waterline
+on the lofting floor. Then use the spall itself as a
+straightedge and push it gently against the two squares.
+When it is in position, draw against the spall’s edge,
+across the face of the mold frames. Use this line to
+reposition the spall when you permanently install it
+with adhesive and fasteners.
+192
+First Production Steps
+Figure 17-4 Fitting and assembling frames for a double chine
+trimaran hull on lofted sections.
+
+--- PAGE 207 ---
+The fasteners become extraneous as soon as the epoxy
+cures, but we recommend using them nevertheless to
+speed things up. If you use fasteners, you can put
+together the two halves of a mold frame, move the unit
+out of the way, and immediately go on to the next pair
+of mold halves. Without fasteners, the assembly will be
+fairly fragile until the epoxy sets up. Handle all mold
+frames gently until they have cured.
+Note that if you build mold frames in the way we have
+described, you may have to destroy them to get them
+out of the finished hull. When stringers and sheer
+clamps are notched into mold frames and covered with
+layers of planking or veneer, the frames can be difficult
+to remove. If you are building a one-off boat, you
+Chapter 17 – Mold Frames and Permanent Frames
+193
+Figure 17-5  A typical mold frame with legs and spall installed and reference lines marked.
+Figure 17-6 Bonding gussets to permanent frames.
+Notches for keel, stringers and chines if appropriate
+Plywood gusset
+Waterline marks for reference
+2" X 4"
+Legs – joined edge fastened
+to control face of mold
+Centerline marks on spall and mold at keel
+Straight edge
+Notched for
+sheer clamp
+Sheer witness marks placed above actual sheer
+a set distance to allow for clamp notches
+Spall – joined on one edge
+and positioned on waterline
+
+--- PAGE 208 ---
+probably won’t care about saving your frames, but if
+you plan to use them again or give them to someone,
+put them together with screws and through bolts rather
+than epoxy so that they can be disassembled after the
+hull is planked.
+After bonding the gusset and spall, and before moving
+the mold frame from the lofting, make reference marks.
+The edge of the spall is one reference. Label it with the
+number of the waterline it represents if you plan to use
+different waterlines at different stations. Also mark the
+centerline. To do this, place a straightedge over the
+lofted centerline and use the two small squares, set on
+edge as before, to transfer the line from the lofting to
+the straightedge. Use the straightedge as a guide to
+draw a line across the spall and the gusset.
+Finally, you have to mark the sheer, but you can do this
+on the edge of the mold frame, next to the lofting floor.
+You do not need to raise these marks to the non-control
+side of the material. As soon as you pick the frame up
+off the floor, you can draw the sheer mark around onto
+the control face. In fact, it is necessary to mark the
+sheer lines on the control side, for if they were raised to
+the non-control side, they might be out of position.
+The sheer marks, unlike the waterline and centerline
+references, are not used when setting up. They come
+into play much later, during installation of the sheer
+clamps. For this reason, the sheer marks should be
+quite durable and easily identifiable so that there will
+be no trouble finding them later on.
+General Advice
+If your boat will have longitudinal stringers notched
+into its mold frames and these are marked on your
+lofting, pick up the marks and bring them around to
+control faces as you did with the sheer marks. Stringers
+rarely run on waterlines, so picking them up on the
+non-control side of a mold frame may result in distor-
+tion. On all but long, narrow hulls with little angle
+change, we suggest waiting until after the frames are set
+up to cut notches. If you choose to cut them earlier,
+plan carefully and make them a little small.
+If your design calls for notching out the apex of the
+frames to receive a keel, your gussets should be large
+enough that they will not be weakened by the loss of
+the notch material. Also, you will have less grief if you
+keep nails and screws out of the way of notch sawing
+lines. You can remove all nails or screws once the
+adhesive cures, but inserting them so that they are out
+of the way in the first place minimizes the difficulty.
+Attaching the Legs
+For virtually any boat, 2"  4" (38mm  89mm) 
+legs are big enough and you can use smaller stock for
+smaller boats. Legs don’t have to be made out of the
+best lumber in the world, but every piece should be
+joined straight and seasoned well enough to ensure that
+it will remain reasonably straight. Fasten legs to the
+control side of the mold frame with nails or screws and
+epoxy. You can bond the legs in place whether you plan
+to save the frames or not. If your molds disassemble
+along the centerline, the legs will not get in the way
+when you remove the frames from the planked hull.
+The best procedure is to apply legs as parallel to the
+centerline as possible so that you can use them during
+set-up for plumb references. The control face of a 
+mold frame is rarely flat, so it may not be a particularly
+good place to set a level to see if the frame is plumb.
+However, if the sides of the legs are straight and true
+and parallel to the centerline, you can position the 
+level against them.
+When you have the legs and adjacent frame material in
+vertical alignment, brace them with jigging. Straighten
+up the mold frames when you install your sheer clamp,
+stringers, keel, and other longitudinal members. Once
+these pieces are in place, the controlling edges will be
+close enough for practical purposes.
+Attaching legs is no problem if you are using closed,
+solid mold frames. It is easiest to do this when your
+foundation-centering cable is in place. Erect lines
+parallel to and at equal distances from the mold frame
+centerline, on either side of this centerline. Space these
+so that when the legs are attached, the centerline of the
+mold frame will line up with the centerline of the founda-
+tion and the legs will butt against the anchoring points.
+You will probably not be able to attach legs all the way
+up and down the control surface of an open frame.
+Secure them to what mold frame there is and then also
+to the spall. Since the spall’s surface is not in the same
+plane as the control face, add shims to the spall on the
+same side as the mold material in the area where the
+194
+First Production Steps
+
+--- PAGE 209 ---
+legs will cross it. Scraps of frame stock are, of course,
+the perfect thickness for this. Erect the leg position
+lines, in segments, across the mold frame and the
+shims, and then apply the legs.
+The height of the legs is arbitrary, but it must be
+uniform throughout the stations. Choose a leg length
+that will result in the hull being a convenient height to
+work on. When the set-up is going to be on a floor,
+rather than on a strongback, you need to cut off the legs
+of all the mold frames so that the reference waterline
+marks on the frames (if the same waterline is used as
+reference throughout the stations) end up a uniform
+distance above the reference cable (see Chapter 18). If
+you use differing waterlines for reference on differing
+stations, you will have to make allowances for these
+distances in measuring the legs for cutoff.
+On strongback set-ups, where there is clearance below
+the anchoring blocks, you can allow the legs to run
+past, but you should mark the distances to the top
+surfaces of the anchoring blocks on the legs, provision-
+ally, as a starting point when setting up the frames on
+the strongback.
+Permanent Frames
+Earlier in this chapter we recommended that the thick-
+ness of the mold frame material be placed outside the
+station line so that you can bevel it to the contour of
+the planking. We also pointed out that you have the
+option of placing the mold frame material inside the
+station line, eliminating the need for beveling, if you
+feel the controlling edge is strong enough to withstand
+pressure without distorting.
+With permanent members, there is no option. All edges
+have to be beveled carefully so that planking fits to
+them all across their thickness. The process we use for
+marking bevels with battens and a handsaw is described
+in Chapter 18. This will work well on dummy frames
+and permanent pieces alike, but we do suggest a more
+cautious approach to the bevel on a permanent part.
+In a set-up that includes both mold and permanent
+frames, make the bevels on all of the mold frames first,
+cutting bevels on permanent frames to an angle slightly
+less than you know they’ll need. Even if you began with
+a power plane, it’s a good idea to use a hand plane to
+bring the bevel on a permanent frame to its final angle.
+The use of battens across the set-up to check bevels
+periodically as you are planing helps develop accuracy.
+One reason to be careful as you bevel permanent
+members is that if you cut too deeply, you may make
+more work for yourself. If you over-bevel mold frames,
+you can build them back up with thickened epoxy,
+plywood strips, or whatever. It doesn’t make much
+difference what a temporary frame looks like. The
+appearance of a permanent frame, on the other hand, is
+important, and a good fit between it and the planking is
+necessary for both structural and aesthetic reasons.
+Appearance also counts in installing spalls and legs on
+permanent frames. These are positioned in exactly the
+same way that they are on mold frames, but it may be
+necessary to use fasteners instead of epoxy to hold them
+in place during construction. Attaching legs to perma-
+nent frames requires some extra attention. If the job is
+not done neatly, the permanent members may bear
+permanent, visible scars.
+While WEST SYSTEM epoxy can be relied on to fill gaps
+and span voids, your boat will be lighter, will look
+better, and will be cheaper if you work your wood until
+you have good fits. If you over-bevel, however, and the
+choice is between throwing out your frame and building
+it up with epoxy, you can use thickened epoxy to bridge
+gaps. A good solution to larger mistakes is to bond in
+shims of wood and reshape to the desired bevels.
+To lay out a permanent transverse member, such as a
+bulkhead or floor timber, loft a line to represent the
+surface which is nearer the boat’s widest station. When
+you cut out or laminate this piece, this becomes the
+controlling edge. Locate the position of this line in the
+foundation, as described in Chapter 18, and place
+anchoring blocks accordingly.
+Plans usually specify that bulkheads, locker sides, and
+berth supports be built from a given thickness of sheet
+plywood. It’s unusual to find a major bulkhead, say of
+3⁄4" (18mm) plywood, held in place in the hull just by
+bonding its edge to the planking. In most cases, cheek
+pieces are positioned on one or both sides where the
+plywood meets the planking. The cheek piece is bonded
+to both the bulkhead and the planking to increase joint
+surface area.
+Chapter 17 – Mold Frames and Permanent Frames
+195
+
+--- PAGE 210 ---
+We find that it’s best to laminate the cheek piece, bond
+it to the bulkhead, and then put both pieces in the set-
+up as a unit. If the cheek piece is on the changeover
+side of the bulkhead, make it larger than the controlling
+edge so that there will be enough material after beveling
+for a good joint. If possible, however, bond cheek
+pieces to the non-control side of a member so they 
+will be somewhat easier to bevel.
+Problems with Rough Fairing 
+Permanent Frame Items
+In the first stage of fairing, where you place the battens
+over frames that have not yet been beveled, a difficulty
+arises when permanent frames are included in the set-
+up. When there are mold frames only, all of which are
+of the same thickness of material, the non-controlling
+edges are all in the same relative position to their corre-
+sponding controlling edges, and so the rough fairing
+works rather well. In other words, if the mold material
+is, say, 5⁄8" (15mm) thick, the non-controlling edges will
+all be more or less in line with the controlling edges
+and 5⁄8" from them. The controlling and non-controlling
+edges of permanent frames also will be in line with
+each other, but they may be something other than 5⁄8"
+apart. If this is so, fairing over non-control edges is
+much more difficult.
+The solution to this, in the case of pieces that are
+thicker than the mold frame material, is to do a prelim-
+inary bevel. Assume, for example, that a bulkhead
+together with its cheek piece is 2" (50mm) thick and
+that the mold frames are 5⁄8" thick. The technique is to
+draw a line on the bulkhead-cheek piece 5⁄8" from its
+controlling edge so that the fairing batten can rest on
+the line. All of the material being removed is material
+that would have to come off eventually anyway, so the
+operation will cost little in time. Because the piece will
+now have its 5⁄8" line exposed to contact with the batten,
+you can rough fair the piece in with the rest of the
+frames in the set-up.
+Pieces that are less than the thickness of the mold frame
+materials—and thankfully there will be few, if any, of
+them—have to be shimmed to a thickness equal to that
+of the other frames. Suppose the piece is 3⁄8" (9mm)
+while the mold frames are 5⁄8" (15mm). You will have 
+to find or mill something that is 1⁄4" (6mm) and apply it
+to the piece’s non-controlling edge to build it out to 5⁄8"
+(15mm). A movable piece, applied with two clamps
+that you can shift around as you shift the batten, is
+probably the best.
+Precoating and Prefinishing
+It’s easier to fabricate parts on the shop floor than inside
+a hull. Accordingly, we suggest as much prefabrication
+as possible. If you are working on a bulkhead, for
+example, you might cut and frame companionways
+before installing them in the set-up. Precoating with
+WEST SYSTEM epoxy, as discussed in Chapter 15, is
+usually quicker and the results are generally better than
+coating after a piece is in place and the hull planked. Do
+all the jobs you can before the piece goes into the set-up.
+We have difficulty convincing builders of the merits of
+precoating and prefinishing, and we think that this is
+because prefinishing does not work in other boatbuilding
+196
+First Production Steps
+Figure 17-7 Bonding cheek pieces to a permanent bulkhead.
+Figure 17-8 Building a laminated transom with cheek pieces.
+
+--- PAGE 211 ---
+methods. In conventional construction, where paint
+and varnish are used to coat surfaces and something
+else is used as an adhesive, the various substances may
+be incompatible. When you use wood/epoxy construc-
+tion techniques, however, with WEST SYSTEM epoxy as
+both a coating and an adhesive, the problems of incom-
+patibility never arise. If you precoat a bulkhead or rib
+with epoxy and then use the same epoxy to bond that
+piece in the hull, it will form a homogeneous encapsu-
+lation and joint. It does not matter that the epoxy
+coating on the surface has cured at a different time than
+the bonding adhesive, as long as you do a good surface
+preparation.
+Precoating saves time and it also protects pieces from
+minor nicks and gouges. Cured WEST SYSTEM epoxy 
+is very hard. It will resist a certain amount of errant
+hammering and banging of jigging lumber. The coating
+is not indestructible, however. It can be damaged, so try
+to avoid hitting it.
+If you have put a precoated bulkhead in the set-up and
+adhesive squeezes out and runs down onto it as you
+plank the hull, wipe off the excess epoxy, smooth it out,
+or form it into a fillet before it cures. A beaded run
+down the bulkhead will be unsightly, so wipe it up
+before it sets. If a drip does cure, it isn’t a disaster; you
+will just have a little extra sanding to do later, or you
+can use a sharp cabinet scraper to remove the drip.
+Chapter 17 – Mold Frames and Permanent Frames
+197
+Figure 17-9 Prefinishing permanent frames for a 60' (18m)
+trimaran.
+Figure 17-10 Permanent frames ready for set-up. These
+frames have legs and spalls attached. They have been 
+prefinished and notched for stringers.
+
+--- PAGE 212 ---
+198
+First Production Steps
+
+--- PAGE 213 ---
+The use of an accurate laser level will greatly speed the frame set-up system described below. 
+Setting up, the process of lining up frames on a founda-
+tion so that they outline the lofted shape of the hull, is
+one of the more exciting parts of boatbuilding. If your
+lofting and frame construction are accurate, you will
+finally begin to see the shape of your boat.
+Begin setting up by choosing a foundation sturdy
+enough to hold components in place until they are
+fastened to each other and the hull is lifted away. This
+may be the floor or it may be a strongback. Position
+frames over the foundation, but not touching it. For
+accuracy, you must locate frames exactly parallel to
+each other and perpendicular to the centering cable, a
+centerline which you will erect. When the frames are in
+position, fasten their legs to anchoring blocks, assemble
+permanent bracing between them and the foundation,
+and bevel and fair the set-up to receive the planking.
+The Foundation
+If you are building on a dirt floor, you have little choice
+but to build a strongback. If you have a wood or
+concrete floor, you can use a strongback, but it’s not
+necessary unless the floor is in poor condition. A
+strongback is required if a concrete floor is so cracked
+and heaved that it’s impossible to draw on it, or if a
+wooden floor is of questionable strength. Otherwise,
+the floor itself can serve as a foundation, and all you
+have to do is sweep or vacuum it.
+A strongback usually looks something like a ladder,
+with rungs at every station line. All strongbacks are
+pretty much alike except for the size and spacing of
+their timbers. Your plans may include specifications, or
+you may have to design your own. The following is a
+general outline for construction.
+To make a strongback, you need four timbers of equal
+width and thickness. Two of the pieces—the longitu-
+dinal members—should be slightly longer than the
+overall length of the boat, and the other two—the cross
+members—should be about two thirds of the boat’s beam.
+Stock about 2"  12" (38mm  286mm) is heavy
+enough for most hulls. It helps if all four timbers are
+reasonably straight. Since they will be anchoring points
+for a cable drawn to several hundred pounds of tension,
+the shorter timbers should be fairly stiff. You will also
+need 2"  4" (38mm  89mm) boards for the cross
+pieces at the station lines.
+Build a rectangle by boxing the ends of the two longitu-
+dinal timbers with the shorter ones. The pieces should
+be on their edges. If you are working on a concrete or
+wood floor, screw lag bolts through the cross members
+into the longitudinals. If you are working on a dirt
+floor, you will be using stakes to hold the side pieces,
+so you don’t need any fasteners. The 2"  4" station
+line cross members will be installed later.
+Place the strongback on the floor, seating the bottom
+edges of the timbers so they won’t rock, shift or settle as
+the weight of construction bears on them, and level it.
+Although adjustments can be made later, when jigging
+is attached to the timbers, you will save time by making
+sure that the edges are level and at the same height at
+this stage. Check for irregularities on a wood or concrete
+floor and bond blocks in place as needed to support
+the entire length of the strongback. If you are working
+on dirt, scrape away high spots until the pieces sit
+firmly and then drive sharpened 2"  4" s as far as
+possible into the ground beside the ends of each
+timber. Nail these stakes to the strongback to keep it
+upright and to forestall settling.
+Setting Up
+C H A P T E R
+18
+Figure 18-1 The strongback and mold frames for a small
+canoe. Note that it’s often a good idea to raise a small
+strongback off the floor to a convenient working height.
+
+--- PAGE 214 ---
+The Centering Cable
+Before setting up the frames and jigging, run a cable the
+length of the boat to represent a centerline. This will be
+the reference for aligning frames and measuring station
+lines. If you are building a large boat and can borrow or
+rent a transit, consider using it to make sure that your
+cable is accurately laid.
+A string will work for a centerline, but we prefer to
+use 1⁄16" or 3⁄32" (1.5mm or 2mm) diameter wire rope
+stretched to about 500-pounds (230kg) tension. The
+cable stays taut and will not break or stretch if you trip
+on it. If your foundation is the floor, run the centering
+cable an inch (25mm) or less above it. If you are using
+a strongback, run it above the cross pieces. Anchor the
+centerline on guides outside bow and stern of the boat.
+For longer hulls you may want to add slotted support
+blocks at intervals along the length of the cable. Both
+guides and blocks should be indestructible. Set them 
+so that even the clumsiest feet can’t move them after
+you’ve begun setting up.
+The centerline must be level so frames can be set up
+perpendicular to it. Use a line level, available at a
+hardware store, to check it before finally fastening it.
+Hang the level in the middle of the cable and raise or
+lower one end of the cable until it is level. Turn the
+level 180° to check in the other direction. If it’s level,
+you’re done. 
+When the cable is centered, put down the lines over
+which to erect frames. Mold frames are usually positioned
+on station lines, spaced as they are in the lofting grid. If
+you are including permanent frames such as bulkheads
+in the set-up, draw lines to position them.
+Space the lines over which the frames are to be set up
+exactly as they are on the lofting floor. You can use the
+big lofting square to establish the lines perpendicular to
+the centerline. Line the square up with the centerline at
+each mold frame or permanent frame position and
+mark the floor or timbers on each side. If you are not
+using a strongback, draw the lines directly on the floor.
+If you have a strongback, draw lines on it to represent
+the station lines. These may not be at perfect right angles
+to the timbers if the timbers are not parallel or if they
+are warped, but they must be parallel to each other,
+spaced from each other just as they are in the lofting,
+and perpendicular to the centerline.
+200
+First Production Steps
+Figure 18-2  A strongback arrangement for a dirt floor.
+Centerline cable
+2"  12" sides
+2"  4" stakes
+through bolted
+Station marks
+for mold frames
+Measure out from the centerline
+to square the stations marked
+on side pieces.
+
+--- PAGE 215 ---
+Anchoring Blocks
+When you have marked the lines and checked them 
+for accuracy, make and install anchoring blocks or
+cleats. These can usually be cut from 2"  4" (38mm
+ 89mm) stock, although a larger boat may require
+larger blocks. If you are using a strongback, install the
+2"  4" cross pieces, broad side down, at each station
+line to make cross members which extend beyond
+where the legs will intersect. If you are not using a
+strongback, fasten the anchoring blocks directly to 
+the floor. It isn’t necessary to put down lengths of 2" 
+ 4"—you can use two short pieces at each station,
+placed broad side down at the point where the legs will
+meet the floor. Leave the blocks a little long, so there
+will be a margin for error and adjustment. With either
+type of foundation, place the anchoring blocks flush
+beside the lines marked for the frames. When you
+install the legs, they will butt against the sides of the
+blocks.
+Always place anchoring blocks on the side of the line
+toward the bow or the stern, whichever is nearer, with a
+changeover point at the widest part of the hull. For the
+forward half of the hull, the blocks go forward of the
+line, and for the after half they go aft of the line. Blocks
+on the station line at the changeover point can he placed
+toward either the bow or the stern. If you use pairs of
+blocks, they must both be on the same side of the line.
+Fasten blocks to a strongback with nails and epoxy.
+Fillet their edges with a thick mixture of epoxy and
+high-density filler. Make fillets on two or three sides of
+the block only, leaving open the side where the jigging
+leg will be attached. Since most load is straight down
+through the legs to the floor, little side load comes onto
+these blocks at any time during construction. If your
+foundation is the floor, edge filleting with no further
+bonding will keep the blocks in place. The advantage 
+of fillets is that you can heat them with a heat gun to
+remove them when the project is finished.
+Chapter 18 – Setting Up
+201
+Figure 18-3 A centering cable and anchor blocks.
+2"  4" cleats nailed to the
+floor. These should be positioned
+with attention paid to control
+surfaces on the mold frames.
+2"  4" support block can be
+used on long wire baselines. This
+should be set with a transit to
+minimize distortion of the wire.
+Stations carefully
+squared to centerline.
+Centering Cable
+Station Line
+Station Line
+Centerline projected and
+marked on the floor.
+
+--- PAGE 216 ---
+Setting Up
+The process of setting up frames has four objectives: 1)
+to locate the controlling edges of the frames over the
+corresponding station lines marked on the strongback
+or floor, 2) to make the centerlines of the frames
+plumb, fore and aft and athwartship, 3) to line up the
+centerlines on the frames to the centering cable and 4)
+to locate waterlines on the mold frames at specific
+heights above the cable.
+You either need two spirit levels or one spirit level and
+one plumb bob to do a set-up. The plump bob and
+level method is the more accurate and should be used
+on any boat large enough to have accommodations.
+With small boats, two levels can be used.
+Three-foot (1m) levels are long enough, but you should
+check them for accuracy and compensate for any error.
+To check a level for horizontal accuracy, place it against
+a wall, with the bubble between the reticles, and draw a
+line the length of the instrument along its edge. Then
+turn the level end-for-end and place it back along the
+line. If the bubble is still in the reticles, the level is
+accurate. If not, move the level until the bubble comes
+into position and draw a second line along the edge of
+the level. This line will intersect the first and the error
+is one half the angle of the intersection. In other words,
+if the lines are 1⁄4" apart 3' from the intersection, the
+error is 1⁄8" for 3'. If you continue to use such a level,
+write the amount of error and its direction on the
+instrument itself. Check vertical accuracy in a similar
+manner, but do not turn the instrument end-for-end.
+Instead, just flop it over so that one side is against the
+wall, and then check it again. If a level has several spirit
+tubes, check each one. One or two may be accurate and
+you can mask any inaccurate ones.
+Some levels have adjustable spirit tubes. To make these
+accurate, draw the two lines as above and then adjust
+the bubble into the reticles on a line that bisects the
+angle formed by the original lines.
+Use a straightedge to measure the heights of the mold
+frames during set-up. It can be quite light, but it should
+not be easily bent. In most cases, 11⁄2"  1⁄2" (38mm 
+12mm) stock is adequate. The straightedge must be
+long enough to reach from the highest point in the 
+set-up to the centering cable. A little excess length is
+desirable, but more than an extra 1⁄4" (6mm) or 
+so—however much the cable clears the floor or 
+strongback —gets in the way as you work.
+To set up the heights of the mold frames, you need the
+waterlines on the mold frames and the centering cable
+on the foundation as reference points. Take all of these
+points off the lofting body plan. If you have not drawn
+the cable location on the lofting floor, do so now. Place
+the straightedge along the centerline of the body plan
+and mark it for the cable location and the waterlines.
+Because all of the mold frames may not have the same
+waterline as a reference point, you need to mark the
+straightedge with all the waterlines that come into play.
+To set up the first station, clamp the straightedge 1⁄8"
+(3mm) to the side of and parallel to the centerline of
+the mold frame face. Then adjust the straightedge up
+and down until the appropriate waterline mark on the
+straightedge is aligned with the reference waterline on
+the frame.
+Spring clamps are handy and effective for holding the
+straightedge to the frame. Apply the clamps at the
+vertex of the frame and at the spall. If the straightedge
+is put on the control face, you will have to put a shim
+of scrap mold frame material between the straightedge
+and the spall as a spacer to hold the straightedge
+parallel to the control surface. If the straightedge is put
+on the opposing non-control surface, you will need a
+shim of scrap spall material to fill a space between the
+straightedge and the vertex so that the straightedge is
+parallel with the controlling edge.
+In Chapter 17 we suggested that you install the spalls
+so that their edges are the reference waterline. If this
+has been done, recheck the edges for straightness. An
+alternative to using the edge of the spall is to stretch 
+a string, held by spring clamps, across the waterline
+marks on the frame and to adjust the straightedge 
+mark to the string.
+Putting up the Frames
+In constructing the frames, you have already cut the
+legs to a uniform height or marked this distance. When
+you set up the frames, the cable and its corresponding
+mark on the straightedge will be very close to the same
+height as soon as the mold station is set into position.
+202
+First Production Steps
+
+--- PAGE 217 ---
+Place the station so that the straightedge is next to the
+cable but not touching it. Put clamps over the legs and
+anchoring blocks and tighten them at least enough to
+keep the frame from falling over. Screw type C-clamps
+are more satisfactory than sliding, quick-action clamps
+because they do not fall off when you make adjust-
+ments. Put a temporary diagonal brace in with clamps
+as you plumb the station fore and aft with the spirit
+level. You can loosen the clamps on the legs enough to
+allow the legs to slip on the anchoring blocks while
+adjustments are made.
+To position the stations, you can use either a plumb
+bob or the two-level method. As mentioned earlier, the
+plumb bob ensures greater accuracy. To use the plumb
+bob, attach it at the station vertex on the centerline with
+a spring clamp and enough string so that the point of
+the bob barely clears the centering cable. Place the bob
+on the opposite side of the station from the straightedge
+so they are not in the way of each other.
+Next adjust the position of the station until the
+following conditions simultaneously exist:
+1. The plumb line is over the centerline of the frame,
+with the point of the bob over the centering cable;
+2. The frame is plumb fore and aft and free of twist;
+that is, the frame is exactly perpendicular to the
+centering cable;
+3. The cable mark on the straightedge is level with the
+cable.
+Chapter 18 – Setting Up
+203
+Figure 18-5  Two views of a typical frame set.
+Figure 18-4 Setting up the first frame.
+Notches for keel and stringers
+All reference lines should be marked on
+both sides and edge of mold.
+Plumb line may be
+used to center mold
+instead of straight-
+edge
+Light
+straightedge
+clamped on 
+mold centerline
+and set at refer-
+ence waterline
+for adjusting
+and centering
+Shim
+Waterline marks
+for reference
+leg (joined edge
+fastened to control
+face of mold)
+2" X 4" 
+Brace or jigging
+lumber – bonded
+and fastened
+Mold beveled on
+this side
+Control edge or face
+goes on station line
+Spall
+Cleat on
+station line
+Wedges
+Centering cable
+Floor
+Wedges for height adjustment
+Spall
+Cleat
+Centering cable
+
+--- PAGE 218 ---
+To detect twist, hold the spirit level in a vertical position
+in various locations on the station face. If you have
+applied the legs precisely parallel to the centerline, you
+can use the legs as the arbitrarily chosen points to be
+made plumb. To eliminate twist, you usually need to
+adjust the diagonal or to install a second, and some-
+times even a third, diagonal.
+If the set-up is on a floor, you can use wooden wedges,
+tapped under the legs with a mallet or manually, for
+minute increments of vertical adjustment. If the set-up
+is on a strongback, you can make these adjustments in
+the clamping of the legs to the anchoring blocks. Vertical
+adjustment usually necessitates adjustment of the
+diagonal(s) to bring the station back to plumb and the
+taking up or letting out of line to the plumb bob. Keep
+working until the station position is accurate. One
+adjustment may necessitate others.
+If you are using the two-level method instead of a plumb
+bob, you will need a second spirit level. Clamp this
+horizontally along the spall. The straightness of the spall
+edge is obviously very important. With the two-level
+method, bringing the bubble of the second level into the
+reticles takes the place of bringing the plumb line over
+the station’s centerline. Bringing the straightedge to the
+cable then performs the function of aligning the center-
+line onto the cable. The other level is used as before.
+Orient the level that is clamped to the spall in the same
+direction on all the frames. In other words, if the frames
+are being set up in a north-south direction athwartship,
+mark one end of the level “N” or “S” and always
+position it accordingly. In this way, any error in the
+level will always be in the same direction and the result
+will be that all of the station centerlines, though they
+may not be perfectly vertical, will at least be in the
+same plane, which is all that really matters.
+Before applying any filleting, it is a good idea to go to
+the lofting floor and measure and make notes on the
+distances for each station of the cable to sheer and the
+cable to the top of the mold frame. After a station is in
+position, check the measurements in the set-up before
+applying the filleting. The check is good for revealing
+any gross errors in manufacturing or setting up the
+frame. Such errors would reveal themselves rather soon
+in any case, but it is better to discover them before it
+becomes necessary to chisel away the filleting material
+in order to correct them.
+When you are sure that the station is in perfect align-
+ment, you can fillet the legs to the anchoring blocks
+and the floor. Use a high-density filler/epoxy mixture
+that is roughly the consistency of peanut butter. The
+strength and holding power of this mixture is adequate
+to support the legs throughout hull construction if you
+make generous fillets along all the lines where the legs
+and the block meet. There is no need to put adhesive
+between the surfaces or to otherwise support the legs if
+the fillets are formed on clean, oil-free surfaces.
+Nailing and Screwing Legs
+If you have plenty of clamps, you can just fillet around
+them and leave them in place until the filleting material
+cures. This allows you to proceed immediately to the
+next station. You can patch in the remainder of the fillet
+later, after the clamps are removed.
+If you don’t have enough clamps to go on to the next
+station, you can use nails and/or screws driven through
+the legs to the anchoring blocks to hold the frame in
+position while the filleting cures. Drive the nails and
+204
+First Production Steps
+Figure 18-6 A frame set-up showing the straightedge, a
+string on the reference waterline, and levels.
+
+--- PAGE 219 ---
+screws while the clamps are on. After you remove the
+clamps, recheck the position of the station. Nails and
+screws can allow small amounts of movement. Therefore,
+do not rely on nails and screws as a permanent measure
+to prevent movement. You should always apply fillets, if
+only because they show telltale signs of movement so
+slight that they otherwise might go unnoticed.
+Permanent Bracing
+The temporary diagonals, which are only clamped until
+the filleting material on the legs cures, must be replaced
+by permanent diagonals. Some thought must go into
+location of the permanent diagonals, especially if you
+are placing some bulkheads in the set-up. Bracing will
+have to be kept out of their way.
+If it is necessary to release the temporary diagonals
+before you apply the permanent ones, you will have to
+replumb the station, fore and aft, and recorrect twist.
+Handle both of these operations as before by holding a
+spirit level vertically on the face of the mold frame.
+Since the legs will have been permanently secured by
+this time, you need not worry about any other aspect of
+the station positioning. When everything is aligned,
+fillet the permanent diagonals in place.
+When all of the frames are set up, we usually place a
+batten in various positions across the frames to see how
+the whole thing fairs. Since the frames will not have
+been beveled at this time, this fairing check will be crude,
+but it will nonetheless reveal any sizable mislocations.
+Should a frame appear to be out of place, check its
+position, as well as those of the frames on either side 
+of it, by measurements from the lofting. Be sure you
+know exactly where an error is before changing things.
+Warping or curling of mold frame material will cause an
+appearance of error, especially toward the ends of the
+set-up. If the long batten shows a discrepancy, check 
+for warp or curl in the stations, as well as for station
+position.
+Chapter 18 – Setting Up
+205
+Figure 18-7 A straightedge clamped at centerline of frame.
+Figure 18-8  Setting up frames. Note the wedges on the floor
+under the legs. The frame in the foreground is clamped to its
+anchoring block and the diagonal bracing. A straightedge is
+clamped along the frame’s centerline and just touches the
+centerline cable at floor level.
+
+--- PAGE 220 ---
+Beveling
+Frames are beveled so that planking can bend evenly,
+with smooth curves, over them. Begin this operation by
+rolling flat black paint on the edges of the frames. Most
+of this paint will be planed away; the object is to leave 
+a thin line of black on the controlling edge so that you
+know it has not been disturbed.
+Use a batten that spans at least three stations as a guide
+for beveling. Lay it over three frames and nail down its
+ends. If your mold frames are only 1⁄4" (6mm) thick,
+you can just hack away excess stock from the middle
+frame. If they are thicker, take a handsaw and cut
+marks on the edge of the middle frame on either side of
+the batten parallel to it as it crosses the frame edge at an
+angle. Cut no deeper than the black control edge. Move
+the batten up and down the frame, sawing or hacking
+every foot along its edge. Check for fairness. When you
+have finished one frame, move on to the next.
+When all larger frames are marked, chisel away the
+wood between the kerfs so that you have a series of
+notches. Check again for fairness, and then scribble
+across the bottom of each notch with a pencil. Using
+the pencil marks to guide you, plane the entire edge of
+the frame. We use power planes to rough-cut bevels,
+but advise against them unless you have some experi-
+ence with these machines. Hand planes do just as well,
+though at a somewhat slower rate.
+Fairing
+Once you have rough cut the bevels so that only a thin
+line of black remains on the controlling edges, you are
+ready for final fairing. As in lofting, the eye and artistic
+sensitivity are the main tools. The object is to make the
+long batten touch all the controlling edges under it and
+form a curve free of lumps or flat spots in all positions
+on the length of the set-up.
+To accomplish this, it may be necessary to cut below
+the marked black control edge in some areas, and to
+build up above the edge in others by bonding on strips
+of wood or not beveling to the full depth of the saw
+cuts. Accurate work in lofting, picking up, cutting
+frames, constructing them, and setting them up will
+hold errors that have to be corrected in this manner to
+a minimum. Minute errors in each of these operations
+are practically unavoidable, but for the most part they
+cancel each other out. In some areas, though, the errors
+will all add up to something that has to be corrected.
+In final fairing, the batten tacked across the mold
+frames sometimes looks wrong or irregular because of
+the way in which it is positioned. Do not undertake any
+corrections on the basis of a single batten position.
+Move the batten all about the set-up, and make an
+overall analysis of what has to be done. Carefully mark
+errors on the frames in the exact area where you
+observe them. As you place the batten in various
+positions (this is especially a problem in areas of diffi-
+cult curves), the error in one area may read differently,
+creating some confusion, and you have to make a
+judgment between conflicting dimensions as to which
+one is the real error. Sometimes a compromise between
+measurements results in the best fairness.
+When you are certain what corrections are needed,
+make them by planing below the marked control edge
+or bonding on shims. Work until the set-up is fair,
+without any humps or flat spots.
+206
+First Production Steps
+Figure 18-9 Beveling mold frames.
+Use a batten and saw
+to get rough bevels
+Batten
+Molds
+Chisel out stock
+between kerfs
+Dress lightly with
+plane to obtain 
+clean fair 
+surface
+Chisel to
+marks
+
+--- PAGE 221 ---
+This chapter discusses keel and stem construction, and includes information on keelsons, centerboard and
+daggerboard cases, and laminated sheer clamps. It contains only minor changes from earlier editions. 
+In traditional construction, the keel is the backbone or
+major structural element of a boat. It’s usually large and
+strong, and ribs and frames are attached to it to form
+the skeletal framework over which planking is laid.
+In the composite construction methods we use, however,
+the integrity of the hull structure is less dependent on
+the keel. Loads are distributed so efficiently throughout
+the boat that keels are sometimes almost unnecessary.
+The stem, a second critical element in older designs,
+has lost its importance to a lesser extent. Strong stems
+protect hulls when they strike objects at sea, so we
+continue to use them to minimize damage.
+In addition to describing keel and stem construction,
+this chapter discusses keelsons, centerboard and
+daggerboard cases, and sheer clamps. With the
+methods for laminating hulls detailed in later chapters
+of this book, we plan these components and some
+interior features before planking.
+The Keel/Stem Assembly
+The keel, which serves as a natural joining point for the
+planking on either side of it, is often the key to making
+modern construction methods practical. A keel also
+contributes to overall hull strength by distributing high
+point loading over large areas of skin. This function
+may be more valuable out of the water than in it: when
+a boat is hauled, a strong keel may help to support its
+entire weight at several points.
+The size and shape of both the keel and the stem vary
+widely from boat to boat and depend on structural
+needs and construction techniques. We usually build
+the two parts separately, join them with a scarf joint to
+form a keel/stem assembly, and then install the unit in
+the set-up. A boat with very gentle curve in the stem
+could conceivably have a stem and keel made in one
+lamination, but we have never found this to be practical.
+We make them up separately because keels generally
+have only gentle curves, which can be formed with a
+few layers of wood, and stems often have at least one
+severe curve, which requires many laminations.
+Laminating a single keel/stem unit with many layers to
+accommodate the curve in one area of the stem would
+waste time and material. Most boats have transoms, so
+stems are only required at the bow. A double-ender will
+need stems at both ends of the keel, however, and in
+this situation a three-piece keel/stem complex may be
+necessary.
+If the keel and stem are to be anywhere near as strong
+as the hull skin, special attention must be paid to their
+construction. The keel/stem unit usually joins the two
+halves of the hull skin and while it is unlikely that this
+joint will be as strong as the skin, high grain strength is
+needed to prevent splitting along the boat’s centerline.
+Keels that are less than 1" (25mm) thick can be built of
+solid lumber, but we prefer to laminate both keels and
+stems, following procedures described in Chapter 11,
+because of the structural advantages of the laminate.
+There are several ways to prevent splitting at the keel.
+Carbon or glass fibers may be bonded between layers of
+planking where they meet. We usually add plywood
+strips to our keels. On keels less than 1" thick, we begin
+with solid lumber, and then bond plywood to what will
+be its interior surface in the boat, as in Figure 19-1,
+Section B. In large, thick keels, it’s wiser to distribute
+thin layers of plywood through the lamination than to
+rely on a single strip of heavier ply. Birch plywood is
+particularly effective in this application because it is
+strong in tension and it bonds well with epoxy. Three-
+ply 1⁄8" (3mm) thick plywood is adequate in most cases.
+In traditional designs, stems and keels are usually
+rabbeted, notched to accept planking and allow it to lie
+flush with the outside of the keel or stem. Rabbeting is
+time-consuming, and it requires skill and patience. To
+Keels, Stems, and Sheer Clamps
+C H A P T E R
+19
+
+--- PAGE 222 ---
+gain more bonding area, we have eliminated it. Instead
+of rabbeting, we laminate the keel and stem and then
+shape them to accept the planking, which generally
+covers the entire keel and most of the stem. The
+planking is eventually covered with a laminated
+hardwood cap, illustrated in Figure 19-1. The cap
+becomes an extension of the keel and performs the
+functions of a rabbeted keel. Our technique is fast,
+accurate, and potentially less wasteful of materials, and
+it produces a joint which is structurally superior to a
+rabbeted joint.
+Planning the Keel/Stem Lay-Up
+A good deal of thought must go into planning the
+keel/stem complex. Determine the finished size of the
+lamination so that you can laminate together enough
+stock to form a blank from which to cut, shape, and
+fair the final piece. Keel laminations can become
+complex because they may have different widths and
+thicknesses along their lengths, depending on the hull
+shape and the requirements for bonding surface area.
+Some keels will be very simple, and their entire length
+can be made out of one size of stock. Other keels may
+be considerably wider in the middle than they are at
+the ends, or much thicker at some points than others.
+Stems also may be much wider at the deck intersection
+than they are at the waterline.
+To develop all of these dimensions, you need to go to
+the lofting board and develop the keel shape at each
+station. If the designer does not specify an exact keel
+size, begin by drawing the section view of the keel into
+several stations on the body plan. The basis on which
+we develop keel shape and/or size is surface bonding
+area. Wider keels develop more bonding surface and
+208
+First Production Steps
+Figure 19-1  Three section views through the stem and keel of the 60' (18m) trimaran Rogue Wave. Note the plywood laminated
+into the main keel. The cross-grain in this lamination counteracts the splitting forces of the keel or centerboard.
+Section A 
+(through stem)
+Stem – thin
+laminations of
+mahogany
+Planking
+A
+Plywood
+Cap – thin laminations
+that can be bent
+around stem profile
+easily
+Planking
+Mahogany cap –
+covers end grain
+Mahogany keel
+Plywood gusset
+Plywood frame
+Plywood
+Section C
+keel
+C
+Thin laminations
+of stem
+Cap
+Frames
+B
+Mahogany keel
+Section B
+(through forefoot at scarf)
+
+--- PAGE 223 ---
+therefore are usually more desirable, but they usually
+have to get thicker to get wider. When trying to develop
+sufficient bonding area at various station positions, you
+will find that the flatter areas in the middle of the hull
+permit the use of a thinner keel section, while the finer
+bow area will require a much thicker keel section to
+provide the same bonding area. Stems may have to be
+two or three times thicker than keels because the sharp-
+ness with which the planking joins the hull at the stem
+limits bondable area.
+When you have developed the keel shape at a few
+stations, you can loft and fair the keel at all of the
+stations on the lofting board. It is important to
+remember that you need to subtract the cap thickness
+from the outside lofted profile of the hull in order to
+define the keel and stem profile. The stem is sometimes
+difficult to project properly in the lofting. See Chapter
+16 for a detailed discussion of this procedure. Chapter
+16 also gives instructions for the development of all
+stem dimensions.
+Also lay out the area, usually near the forefoot, where
+the keel and stem meet. A 10- or 12-to-1 scarf bevel is
+needed for adequate strength, so the joint may be quite
+long. Because its two parts may curve slightly, a
+keel/stem scarf joint can be difficult to manufacture.
+There are no hard and fast rules about the direction—
+stem over keel or keel over stem—the scarf should run.
+After lofting the stem and keel, locate the scarf. Then
+draw in the bearding line, which shows the inside
+intersection of the planking and the stem or keel. Make
+a pattern or template of the area where the stem and
+forward end of the keel join. The easiest way to do this
+is to use the nail method of transferring lines described
+in Chapter 17. It’s best to pick up all pertinent profile,
+sheer, scarf, station, and bearding lines at the same
+time. Check all measurements and label all lines clearly.
+Cut out the template and carefully trim it to the profile
+shape on the lofting.
+If you are planning to build your boat using the mold
+method for laminating hulls, the process of installing 
+a permanent stem in your mold may involve a few 
+extra steps. An inner mold stem may be necessary. Loft
+and shape this piece before you begin work on your
+keel/stem unit, following instruc

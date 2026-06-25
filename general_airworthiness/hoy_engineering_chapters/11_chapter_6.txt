@@ -1,0 +1,166 @@
+# Chapter 6
+
+Avionics Systems
+AC 43.13-1B, Chap 12 Sect 1 - 3
+AMP Leaflet 1-7 – Transponders
+Avionics covers the ‘Black Boxes’ we carry in the glider to assist us communicating and
+navigating whilst flying.
+Section 1
+Transceivers
+Transceivers or Radios as they are commonly referred to have now become a sophisticated
+and a ‘must have’ piece of equipment for every glider. Transceivers in the gliding world have
+gone from nothing aboard to Pye Bantams with three or four radio channels dedicated to
+gliding frequencies, 720 Chanel sets and now to 8.33 Mhz Channel Spacing sets, we can talk
+to anyone!
+Whilst internally they are a mystery to most folks, externally they require wires. All modern
+transceivers have two connections, maybe three if in a 2-seat glider. They are a multi-pin plug
+and an aerial BNC Connector. In a 2-seat glider there is probably a third plug to connect to a
+remote control in the rear panel.
+The aerial socket is a standard BNC socket and connects directly to the aerial lead. Modern
+gliders have built in aerials (in the fin) and a coaxial cable to the front cockpit. The coaxial
+cable should not be kinked or bent sharply. Either of those defects could break the insulation
+leading to a short circuit, loss of transmission and reception and even worse possibly wreck
+the transceiver itself. Nor should the coax cable be included in a wiring loom containing
+power cables and microphone cables.
+The multi pin plug carries everything else, normally in a glider we have:
+
+Power +
+
+Power –
+
+PTT +
+
+PTT –
+
+Microphone +
+
+Microphone –
+
+Speaker +
+
+Speaker –
+
+Other functions are available!
+All these functions come as a bundle of wires in a loom from the plug. At least one pair of
+wires usually comes off the panel – the PTT wires. Some gliders have the PTT switch on the
+panel. A goose neck microphone will require a pair of wires, preferably a shielded pair and if
+a 2-seat glider is involved there will be 2 sets of wires, one for each cockpit. A panel mounted
+microphone or speaker will not have wires leaving the panel and makes the job easier to wire
+up. In the case of a 2-seat glider the speaker is best positioned in the rear instrument panel
+coaming so that both pilots can hear it. Rather than having the speaker permanently attached
+
+--- PAGE 68 ---
+63
+with wires to the airframe fit a small jack plug and socket for easy removal. The radio wiring
+loom is best connected directly to a terminal block and associated wires connected to that.
+Use a two or three pin plug/socket arrangement to bring power to the panel and a separate
+plug/socket to deal with the transceiver wiring utilising a system with enough pins to do the
+job. PTT wiring if being connected to the control column should be tywrapped to the control
+column and enter the tube through a rubber grommet to prevent fraying and shorting out
+leading to a permanent transmit situation. Prior to being tied to the control column it is
+necessary to have a loose coil or two to allow full and free movement of the control column
+without straining the wires. One pair of wires from the panel will serve both front and rear
+cockpits in a 2-seater. (Wire in parallel not series).
+If at all possible keep power cables on one side of the cockpit and transceiver wiring on the
+other to avoid interference.
+With the transceiver installed in the prescribed manner should it need to be removed all that
+is necessary to do is to remove the aerial lead and multi pin plug, undo the 4 screws holding it
+to the panel and it is out! Word of warning, only use the screws supplied with the transceiver
+to secure it to the instrument panel, using longer screws can physically damage internal
+components.
+Annual checks on the 8.33 transceivers are only required to ensure it is functioning. All
+modern 8.33 transceivers have Installation Manuals and User Manuals, therein there is
+probably a statement saying:
+This VHF Com Transceiver has been designed and manufactured to allow “on condition
+maintenance”. This means that there are no periodic service requirements necessary to maintain
+continued airworthiness, and no maintenance is required as long as it does properly perform its
+intended function.
+Frequency checks are therefore not required although you may check if you wish. If there is
+something defective and you cannot find the cause and rectify it try borrowing another
+transceiver and see how that performs. If it works then the glider wiring is OK and the
+transceiver defective. If the borrowed set has the same fault then the wiring is at fault. If you
+cannot ascertain the fault – call in an expert!
+Section 2
+Transponders (XPDR)
+AMP Leaflet 1-7 – Transponders
+EASA SIB 2011-15R2
+Transponders require little or no maintenance other than checking the wiring as per a
+transceiver. It is recommended that an annual flight test is performed in conjunction with
+ATC who can confirm reception of your signals and in particular the altitude given.
+A Transponder needs an aerial and a power supply plus a static pressure feed for altitude
+information. Installation of a transponder is not a very difficult task. Most glider
+manufacturers now issue a Tech Note saying how and where a transponder aerial is to be
+fitted. There is a setting up process to go through to insert the glider’s details and some height
+information data. That maybe more arduous than the physical installation!
+
+--- PAGE 69 ---
+64
+Some transponders can be in two parts – the ‘black box’ and a control box to fit to the
+instrument panel thus saving some panel space. The black box can be mounted in a
+convenient place off the panel.
+A power supply should be provided via a suitably rated circuit breaker or fuse. Details will be
+found in the Transponders Manual.
+If there are issues call in an expert.
+Section 3
+Navigation Equipment
+Navigation Aids (GPS) come in many different guises from custom made built in glass
+screens to a small tablet or phone. Most will need a software download and annual updates to
+keep it current. There are now many different navigation programmes available, some
+dedicated to gliding with turning points built in to others that are just, but very good,
+navigation aids. Sky Demon is reckoned to be the best Nav Aid, you can programme a flight
+and it gives you all the necessary NOTAMS and shows controlled airspace. Most glider
+programmes leave you to find the NOTAMS.
+Once again, other than updating software on an annual basis there is not much to do other
+than checking it works and the wiring is serviceable.
+Section 4
+FLARM
+FLARM units need an annual software update to keep them working properly. This action
+can be added to the SDMP schedule if you want to.
+As with the other avionics equipment the wiring needs to be found in a serviceable condition
+and to ensure that it is working properly. Flying a circuit with other gliders around should
+show a contact.
+These days FLARM installations have gone from the simple box with a display panel to
+something that has been well integrated with other instruments and displays that are similar to
+radar screens. The equipment manuals are quite comprehensive and deal with wiring the
+power supply, settings and updating information. Most displays and primary ‘boxes’ are
+linked with specific cables supplied with the unit. All that is required is a power supply and
+the aerial fixed in a suitable location.
+As an addition to glider conspicuity it is now possible to fit forward facing LED strobe type
+lights in the canopy. These lights are linked to the FLARM and flash rapidly towards
+oncoming traffic. It helps to be seen!
+
+--- PAGE 70 ---
+65
+Section 5
+General Avionic Things:
+As a general rule aerials serving different functions should not be close together. Aerials can
+be ¼ Wave aerials or Dipole aerials. ¼ Wave aerials require a ground plane of a particular
+dimension and this normally takes the form of a metallic disc or poor man’s aluminium foil.
+A Dipole Aerial has the power input in the middle of the vertical aerial, an isolated upper part
+comprises a single rod or tube connected to the core of the coax cable and the bottom half,
+also a rod or tube is equal in length to the top part and is connected to earth via the coax
+shielding. The lengths of the two parts must be of a certain length for the aerial to be
+efficient. Efficiency is checked with a Standing Wave Ratio meter (SWR Meter). A simple
+Dipole Aerial can be made by stripping the outer shield from the coax cable over a given
+length and mount the core vertically upwards and the shield downwards. This does need a
+solid surface to support such an aerial – a Fin for example! A number of FLARM aerials are
+Dipoles!
+Aerials, particularly FLARM aerials should not be obscured by metal components in the
+fuselage. FLARM has a low power output and a control rod or rudder pedals can block the
+transmitted signal. Transceivers are not quite so affected as their power output is much
+greater.
+Components attached to jettisonable canopies are NOT a good idea. A wire could prevent
+jettison just when you need to abandon ship in an instance! If you come across something
+attached to the canopy get it moved to the fuselage or make 100% sure that it can be
+jettisoned easily with a simple parting plug or tube. Regrettably the Puchacz canopy holds the
+rear cockpit instrument panel and there are pneumatic tubes and all the electrics to disconnect
+on jettison! Everything would seem to work on the ground and hopefully it will all part
+company when required to do so. If something is hard wired to a canopy (usually by the
+owner) then remove it despite protestations and/or suggest a way in which the device can stay
+attached but can be easily disconnected as the canopy is jettisoned.
+Likewise the top of an instrument panel should not contain all sorts of kit that could catch a
+canopy when it is being jettisoned. This is covered by a BGA Inspection referring to Top
+Mounted Instruments.
+
+--- PAGE 71 ---
+66

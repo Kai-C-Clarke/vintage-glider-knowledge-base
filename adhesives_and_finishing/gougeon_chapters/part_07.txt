@@ -1,0 +1,1655 @@
+proper counter-
+sink angle.
+Large diameter fasteners in shear
+Shear load capacity of fasteners over 1⁄4" (6mm) in
+diameter depends primarily on the frontal surface area
+of the fastener available for load distribution. As a
+fastener gets larger, potential load-carrying capacity
+increases at a much greater rate than surface area.
+Thus, the shear resistance of large fasteners does not
+improve geometrically.
+Tests of 5⁄16" to 1⁄2" diameter, fully-threaded bolts show
+that, using pencil line movement as a criterion, shear
+capacity appears to grow linearly with the bolt diameter.
+While the strength of a 1⁄2" diameter bolt increased
+many times over the 5⁄16" diameter bolt, shear resistance
+increased only 45%, or about the same as the increase
+in frontal surface area.
+In shear loading, fully-threaded bolt shanks are superior
+to unthreaded shanks because of the greater surface
+area they present. The ability of the threads to key in
+the epoxy helps shear-load capacity just as threads also
+help tension capacity. The shanks of some solid, rolled-
+thread bolts narrow and widen in diameter. Beware of
+these—the thicker and thinner shank is a bad combina-
+tion from several standpoints. For shear loads, the
+undersize shank presents a low frontal area, and this
+results in low load potential. Secondly, with this type of
+bolt, there is no guarantee that epoxy or epoxy mixtures
+will take up the gaps between the shank and the hole,
+so premature failure may result.
+Procedures for Bonding Fasteners
+Choose the specific technique you will use to bond any
+fastener after evaluating the loads to which it will be
+subjected. Heavily loaded hardware, hardware that will
+be loaded in shear, and lightly loaded hardware require
+slightly different procedures. Oversize holes are usually
+unnecessary for lightly loaded hardware that can be
+attached with small screws, but up to a limit are advis-
+able in other applications. Fasteners should be washed
+with soap and water or a degreaser, but they need no
+other surface preparation. Always coat fasteners with
+epoxy before inserting them.
+To drill a standard-size hole for a machine screw, use a
+high-speed metal drill with a diameter approximately
+one size under the size of the screw. To drill a pilot hole
+for a 1⁄4" diameter machine screw, for example, choose
+a 7⁄32" diameter bit. The interference fit which results
+gives the screw threads plenty of bite into the wood
+fiber and ensures a good bond between the fastener
+and the wood when both are coated with epoxy. To
+bond a fastener in a standard hole, use a pipe cleaner
+or syringe to wet out the hole with WEST SYSTEM epoxy.
+Wet out the threads of the screw and install it immedi-
+ately. When the epoxy has cured, the fastener will have
+about twice the safe working load in spruce or fir as the
+same screw installed without epoxy.
+There are no firm rules about the diameters of oversize
+holes. We recommend that you aim for a cured epoxy
+annulus of 1⁄8" to 1⁄4" (3mm–6mm) thick, so select a drill
+bit about 1⁄4" larger than actual screw size.
+The immediate problem with installing fasteners in
+oversize holes is keeping them in position until the
+epoxy cures. The best technique is to drill the oversize
+hole approximately two-thirds to three-quarters of the
+length of the screw shank. This allows the bottom of
+the screw to bite into the wood. The fastener can then
+center itself in the middle of the hole and, at the same
+time, achieve enough holding power to hold the piece
+of hardware in place reasonably snug to the surface.
+We usually use wood speed bores to drill oversize
+holes, grinding the tips to the diameter and length best
+suited to the screws we are installing, as shown in
+Figure 14-7. If, for example, we were drilling 3⁄8"
+diameter oversize holes into which we planned to insert
+11⁄2" No. 10 screws, we would buy a 3⁄8" diameter spade
+bit, leave its outer flanges intact, and grind its tip to the
+right diameter and length for a centering “bite” hole
+about 3⁄8" deep. Another way to drill oversize holes is to
+Chapter 14 – Hardware Bonding
+135
+
+--- PAGE 150 ---
+use two bits. Drill about three-quarters of the desired
+length with an oversize bit and then drill out the
+bottom with a bit which is smaller than the screw. In
+either case, keep drill tips sharp. In our testing, we
+noticed that wood fibers that are cut cleanly absorb
+epoxy better than fibers that have been burnished by
+dull drills. Burnished samples also failed more
+frequently than clean-cut ones.
+Since you fill oversize holes with epoxy before inserting
+fasteners, it’s easiest to work on near-horizontal surfaces,
+with gravity in your favor. After drilling a hole, remove
+all wood chips and fill the hole to the top with epoxy.
+Allow the epoxy to soak into the wood for 5 to 10
+minutes. This waiting period is extremely important
+because a significant portion of the epoxy may be
+absorbed by the wood, especially in smaller holes. If
+you insert the fastener too soon, the wood may continue
+to drain epoxy away from the screw. If, after waiting,
+you notice a significant reduction in the epoxy supply,
+add more before inserting the fastener. 
+In most situations, the fastener will take up a good deal
+of the volume of the hole and epoxy will be forced onto
+the surface as you insert the fastener. To minimize this
+problem, remove some epoxy from the hole with a
+syringe just before installing the fastener. You want
+some excess to flow out since this will tell you that the
+hole is amply supplied with epoxy, so don’t withdraw
+too much. A little experience will teach you how much
+you can remove without jeopardizing the wood/fastener
+bond.
+Voids in oversize holes detract from the strength of the
+bonded fasteners and should therefore be avoided.
+Careful monitoring of epoxy absorption after the initial
+5- to 10-minute waiting period will help prevent the
+136
+Core Boatbuilding Techniques
+Figure 14-7 Drilling the pilot hole and oversized hole.
+Figure 14-8 The oversized hole increases exposed substrate
+area and creates an epoxy annulus around the fastener.
+Figure 14-9 Bond threaded rods or studs into the substrate
+as an alternative to bolts or screws for easily removable
+hardware. This is a useful variation for engine, motor, or
+machine installations. You can eliminate the pilot hole by
+adding another nut to the bottom of the threaded rod for
+alignment.
+Any drill will do: however, the spade bit will give you more
+major diameter surface area for a given hole depth because
+of the square cut.
+The smaller diameter pilot hole gives the fastener bite into
+the blocking holding the fastener and fitting until the epoxy
+cures. You can grind the long tip on the spade bit to avoid
+drilling through the blocking.
+Oversized Hole
+Pilot Hole
+3/4
+1/4
+X
+x + 1/4"
+
+--- PAGE 151 ---
+voids which can result when the wood absorbs so
+much epoxy that little is left for bonding the fastener.
+Other typical problems, shown in Figure 14-7, caused
+by air bubbles from the epoxy mixture and air pockets
+in the oversize hole, can be eliminated with efficient
+work habits. Stir the epoxy mixture carefully, getting as
+little air as possible into it, and always begin filling an
+oversize hole at its bottom and work up.
+It’s more difficult to install fasteners in oversize holes on
+vertical surfaces. Here, a two-step application procedure
+works well. First, use a pipe cleaner to wet out the hole
+with unthickened epoxy. Wait a few minutes and then
+use a syringe to fill the hole with a thick mixture of
+epoxy and WEST SYSTEM 404 High-Density Filler. The
+adhesive should be thick enough to stay in the hole
+without running, but not so thick that it cannot be
+administered with the syringe. To load it into the
+syringe, remove the plunger and force the epoxy
+mixture down into the barrel with a paddle. Begin
+injecting the epoxy into the bottom of the hole and
+work up. Try to avoid trapping air in the cavity as
+you proceed.
+In situations where a screw hole—standard or
+oversize—is horizontal or extremely deep and the
+syringe is not long enough to reach to the bottom of
+the hole, slide a thin drinking straw over its tip. Insert
+the straw into the hole and, starting at the bottom
+and working up, inject unthickened epoxy. Let this
+penetrate for a few minutes and then use the same
+tool and technique to inject a mixture of 404 High-
+Density Filler and epoxy.
+Before inserting the fastener into the epoxy-filled hole,
+coat it liberally with the thickened epoxy mixture to
+mechanically fill all its threads. If an uncoated fastener
+is inserted in the hole, its threads may not completely
+fill with adhesive and the quality of the bond may be
+reduced. An advantage of the two-step process is that
+adhesive which oozes from the hole doesn’t run and can
+be removed with a putty knife.
+Procedures for Bonding
+Hardware (Fittings) 
+Hardware bonding has one disadvantage. In most cases,
+it requires more time than normal hardware installation
+methods because of the added steps required. After you
+have gained some experience with hardware bonding,
+however, the extra time required will not be substantial,
+and we assure you that the results will be worthwhile.
+For example, chain plates are usually very heavily
+loaded, and their fasteners are usually loaded in perfect
+shear. Chain plate movement has always been a
+common problem with wooden boats, but it is easily
+solved with hardware bonding. Design criteria for chain
+plates should include maximizing bonding surface area
+of the chain plate strap for maximum load distribution.
+Bonding hardware in place is much easier if you do it
+before the boat receives its final paint job, but then the
+painting job is made more difficult because you must
+protect the installed items and paint around them. The
+Chapter 14 – Hardware Bonding
+137
+Figure 14-10 Use a syringe to fill oversized holes.
+Figure 14-11 Potential problems with bonded fasteners.
+Air pockets in
+thickened mixture.
+Void from epoxy soaking
+into wood.
+Bubbles from the
+mixture.
+
+--- PAGE 152 ---
+only problem with installing hardware on a newly
+painted surface is the possibility of contaminating the
+new finish. The hardware bonding process can be
+messy. While keeping the newly painted surface clean
+is possible, it involves a cost in time. In our own shop,
+we don’t have a set policy, but look at the individual job
+and try to determine what installation procedure will
+save the most time. Often, we will install some hardware
+items before painting (especially difficult pieces, such as
+large winches and track), and then install the rest of the
+hardware items (those which are most difficult to paint
+around) after final painting.
+Preparing Metal Surfaces for Bonding
+WEST SYSTEM epoxy can be used to make good bonds
+with most metals, an ability which makes the hardware
+bonding concept practical. There are problems with
+developing good bonds, however, and preparation of
+metal surfaces is necessary for good adhesion.
+Metal surface preparation for adhesive bonding is a
+relatively new and complex field, and there are several
+schools of thought. For those interested in completely
+researching the subject, we recommend the Handbook
+of Adhesive Bonding by Charles V. Cagle (McGraw Hill,
+Inc., New York, 1982). For the most part, super
+bonding with metals is not necessarily a requirement
+for metal/wood bonding. Invariably, wood grain
+strength itself is the limiting factor. In most cases, there
+is no need to achieve an epoxy-to-metal bond that is
+any stronger than the limiting factor of wood grain
+strength.
+The bonding surfaces of many hardware items may
+already be grooved or rough, and you can use this to
+advantage. The bottom of a typical winch base, for
+example, has deep machine marks as well as a hollow
+central core area. If epoxy is allowed to well up in this
+hollow area, it will form a fillet around the inner lip of
+the base, and this will transfer load. Even if you do not
+make a good bond with the metal itself, the machine
+marks and core will provide excellent shear resistance
+through mechanical keying.
+To increase the keying potential of any fitting, drill a
+series of small, shallow holes into which epoxy can
+flow. Ports, vents, hatches, and other non-critical
+hardware items that will not be subjected to high loads
+probably do not need this special surface preparation.
+However, they should be bedded in a thickened high-
+density epoxy mixture to be sure that there will be no
+gaps between them and the hull surface to which they
+are fastened.
+The following paragraphs describe preparation methods
+that we have used successfully on a variety of metals
+to achieve the wood grain strength criterion easily.
+Structural values which can be expected with various
+types of wood on a pounds-per-square-inch basis are
+listed in the mechanical property tables in Appendix B-1.
+If you bond the hardware item perpendicular to the
+grain structure, you can assume only 60% of this figure.
+Shear strength properties of wood rarely exceed 2,000
+psi, and usually are closer to 1,000 psi. You can make
+bonds with metals that are above 2,000 psi, but you
+need extremely good preparation of the metal surface.
+Aluminum—Aluminum has always been difficult to
+bond, but simplified surface preparation systems have
+made the task somewhat easier. The first step usually
+uses an acid wash solution to etch, clean, and mill the
+surface. The second step, generally an alodine conver-
+sion coating, stabilizes the aluminum and minimizes
+the corrosion that may form upon contact with air
+before you apply the epoxy adhesive. The WEST SYSTEM
+860 Aluminum Etch Kit contains all necessary ingredi-
+ents and complete instructions. If you use another
+surface preparation system, carefully follow the
+manufacturer’s instructions.
+Steel—(Including all 300 series stainless steels)1—The
+preparation of a steel surface involves four steps. The
+first step is to get the metal surface as clean as possible.
+You can accomplish this with a solvent wash, using
+plain white paper towels to remove all grease and oil.
+You should wipe any unusually dirty surfaces several
+times so that no possible contamination is left on the
+surface. The next step is to sand the surface with coarse
+sandpaper (60-grit or 80-grit wet or dry) to remove all
+mill scale and rust and expose fresh, clean metal. Step
+three is to cover the sanded metal surface with a thin
+coating of epoxy. The fourth and final step is to
+immediately sand the metal surface (60-grit paper)
+again, while the epoxy is still in its uncured state. (See
+Figures 14-12, 14-13, and 14-14.) This procedure
+resembles wet sanding with water, but substitutes
+138
+Core Boatbuilding Techniques
+
+--- PAGE 153 ---
+epoxy for the water. The goal is to expose fresh metal,
+allowing it to come in contact immediately with epoxy
+instead of air, which can cause corrosion to begin
+quickly. (Besides contamination, corrosion is considered
+a major cause of poor bonding.) When you have
+completed the fourth step, you are ready to bond the
+hardware into position. Sometimes we allow this initial
+epoxy coating to cure for later bonding. Then all that
+we need to do to prepare the surface for bonding at a
+later time is to clean and lightly sand the cured epoxy
+surface for good adhesion.
+Bronze Alloys—High copper content metals are partic-
+ularly difficult to bond to, which is probably due to
+copper’s fast oxidation rate. Most of the time, we
+prepare a bronze bonding surface in the same manner
+as we do steel. In addition, we try to abrade the surface
+physically as much as is practical to achieve mechanical
+keying between the epoxy and metal surface.
+Preparing and Bonding the Fitting
+Whether you are bonding hardware before or after
+painting, begin by positioning the fitting and carefully
+marking fastener hole centers. You can use any tool that
+makes a hole big enough to be useful as a center for
+drilling—we usually choose an awl for this job. Take
+particular care to center the starter holes in the fastener
+holes. When they are marked, check them. If one
+appears to be a little off, move it as needed for accuracy.
+Next, remove the fitting and drill out the holes with
+an appropriate drill bit. The bit should be sharp and
+evenly-ground because dull bits tend to travel. To
+control the depth of the hole, stick a small piece of tape
+to the bit to mark the length of the fastener, remem-
+bering to subtract the thickness of the hardware. If you
+have a variable speed drill motor, start slowly and speed
+up after you have gone a quarter of the way. Sight your
+drill from the side and front to be certain that you are
+not angling it.
+Hole sizes depend on the loads to which the hardware
+you are installing will be subjected. If you are working
+on a fitting that can be attached with small screws and
+will only be used in light load applications, drill a
+standard pilot hole. If the item will be subjected to
+shear loads, as cleats are, drill a standard pilot hole and
+then switch to a drill bit about 1⁄4" (6mm) larger in
+diameter. Use this to drill out the upper half of the 
+hole. If you are attaching a winch, mooring cleat, chain
+plate for standing rigging, or other similar hardware,
+use coarse machine screws. Drill holes about 1⁄4" bigger
+than the screws, three-quarters of the depth of the hole.
+Then, use a bit 1⁄16" smaller than the screws to drill out
+the bottom of the holes until they are longer than the
+machine screws.
+After all the holes are drilled, remove any wood chips
+from the individual holes and the surrounding area.
+Reposition the hardware to see if all drilled holes line
+up with those on the piece of hardware. (One of the
+advantages of using oversize holes for fastener bonding
+is that the fit is not so critical.) If everything lines up all
+right, leave the hardware temporarily in place with the
+fasteners set in their holes (using just a few turns so
+they don’t fall out) and move on to the next hardware
+item and proceed to mark and drill for it. Preparing a
+number of hardware items simultaneously in this
+manner for bonding is more efficient than completely
+installing each hardware item individually from start to
+Chapter 14 – Hardware Bonding
+139
+1Understanding Crevice Corrosion
+The process of fastener bonding has been criticized because crevice corrosion can possibly cause premature failures in bonded hardware. However, crevice corrosion occurs
+under very unusual conditions and can be prevented.
+300 Series stainless steel is commonly used in marine applications. Nuts, bolts, cable, turnbuckles, etc. are generally made of 302, 303, or 304 stainless steel. 316 stainless
+steel is frequently specified for propeller shafts and other underwater use. 300 Series stainless is more corrosion resistant than other stainless steel series because of its high
+chromium content. The chromium combines with oxygen to provide a major part of its corrosion resistance.
+We think of stainless steel as “bullet proof” when it comes to corrosion, but this is not always the case. There must be sufficient oxygen to interact with the chromium. In
+normal conditions, there is an ample supply, even under water. However, if there is not enough oxygen to combine with the chromium, stainless steel cannot passivate, or
+create a self-protective oxide. 
+Under unusual circumstances, fastener bonding can create an area of low oxygen content. Occasionally, a small crack can develop between the fitting and the epoxy. The
+oxygen content in the hairline crack can be very low, and, if salt water is introduced, a galvanic cell is created and crevice corrosion can occur. The rate of corrosion under a
+low oxygen condition can be as rapid as regular steel.
+Therefore, it is a good idea to use a flexible sealant such as silicon caulk at the point where a fastener emerges from the epoxy annulus. A sealant at this point will prevent
+water from entering any hairline cracks that may occur. Routine inspection and maintenance of all hardware fittings should be performed often, especially when sailing in
+warm, tropical waters.
+
+--- PAGE 154 ---
+finish. The hardware placement, marking, and drilling
+procedures differ from the procedures needed for the
+bonding operation. Just gathering together the proper
+tools (or materials) for either operation requires consid-
+erable time, and you increase efficiency if you minimize
+this unavoidable start-up time.
+If you are bonding hardware to a surface that has
+received its final paint finish, there is one more step
+that you must take before bonding begins. After you
+set the hardware in final position, draw a pencil line
+around its perimeter. Remove the hardware and apply
+tape, usually 2" (50mm) wide, around the perimeter of
+the pencil line, overlapping slightly so that the entire
+mark is covered. Reposition the hardware, using the
+drilled fastener holes as guides, and then carefully cut
+through the overlapping tape with a sharp blade, using
+the hardware perimeter as a guide. In this process, do
+not cut through the epoxy surface. Use only enough
+pressure on the blade to cut through the tape. Remove
+the hardware and peel away the tape in the bonding
+area, leaving a taped outline which perfectly matches
+the hardware perimeter. The final step is to scrape away
+the paint in the bonding area with a sharp edge tool
+down to the cured epoxy surface, being careful not to
+disturb the taped outline border. You can then proceed
+with hardware bonding without getting epoxy on the
+painted surface immediately surrounding the hardware
+item.
+You can prepare the bonding surface area on many
+hardware items well before installation. For example,
+you can surface treat aluminum items many hours
+ahead of actual bonding if you take care that the
+bonding surface does not become contaminated.
+(Don’t touch the bonding surface.) You can clean with
+solvent and sand steel and bronze items ahead of time
+(see Figure 14-12). Then at installation you need only
+coat them with epoxy and re-sand them before bonding
+(see Figures 14-13 and 14-14). You should also clean
+the cured epoxy surface to which you will bond the
+hardware, using a solvent or water. Lightly sand the
+surface, especially if it has not been sanded up to 
+this point.
+Next, apply epoxy to the hole. The techniques for
+doing this vary according to the anticipated loading
+on the fitting and the size of the hole. In all cases,
+however, a clock starts when you begin to work: the
+hardware must be in place before the epoxy in the
+fastener holes sets up. Oversize holes can contain
+epoxy concentrations high enough to speed up the
+exothermic reaction and shorten working time consid-
+erably. In hot weather, even with slow hardener, holes
+over 1⁄2" (12mm) in diameter may start to gel in 20 to
+30 minutes. Plan the installation procedure so that it 
+can be completed as rapidly as possible.
+If you have drilled standard pilot holes or oversize
+holes for small fittings that will be loaded in shear,
+follow the procedures already discussed for bonding
+small fasteners. If you are using coarse machines screws
+in oversize holes for heavy duty hardware such as a
+winch or mooring cleat, wet out the hole with WEST
+SYSTEM epoxy and fill it with a thick mixture of epoxy
+and 404 High-Density Filler as described for perpendi-
+cular surfaces. Then coat and install the fastener.
+When you have filled the fastener holes, coat both the
+hardware and the surface to which it will be bonded. If
+the surfaces mate perfectly, you can use epoxy with no
+additives, but if there are voids or gaps between them,
+mix 404 High-Density Filler with the epoxy to desired
+viscosity. Apply the mixture to both surfaces, using more
+where needed to fill gaps. (Try to visualize the high and
+low areas as the fitting is sitting on the bare surface.)
+With practice, you can apply the right amount of epoxy
+to the hardware, enough that there is reasonable excess
+140
+Core Boatbuilding Techniques
+Figure 14-12 Sand the bonding surface of steel and bronze
+fittings with coarse sandpaper.
+
+--- PAGE 155 ---
+to indicate 100% contact, but not so much that large
+globs squeeze out when you set the item in place.
+After applying epoxy to the surfaces, put the fitting
+back in position and coat and install all the fasteners,
+tightening them until everything is snug (see Figure 14-
+15). Clean away any epoxy which squeezes out as the
+item is bedded down. Use a putty knife or narrow
+plastic spreader to remove most of the excess and paper
+towels or rags to clean up some of the thinner epoxy.
+We use solvent with paper towel on unpainted surfaces
+when this is necessary for a thorough job. Dry cheese-
+cloth works well for removing the last uncured epoxy
+residue. If a lot of epoxy squeezes out, you have applied
+more than was needed, either to the hardware surface or
+to an oversize hole. Try reducing the quantity on the
+next item until a small but healthy amount of epoxy
+squeezes out.
+Casting Hardware in Place
+Sometimes, fittings must be set at specific angles to the
+hull surface to which they are attached. Winches, for
+example, are angled to maintain a proper lead. Lifeline
+bases, turning blocks, and engine mounts often must be
+arranged in a manner that doesn’t permit them to
+sit flat against a surface. Wedge-shaped wood bases
+and shims are usually used to support these items,
+but making them takes a great deal of time and skill,
+especially on surfaces with a lot of camber. With the
+hardware casting process, you can save a lot of time
+and end up with superior results.
+To begin casting, clean the wood/epoxy surface and set
+the fitting in position, resting it on three points. One of
+these points is generally the lower end of the item itself
+and the other two are small, temporary wood props—
+wedges work well—cut to the right height. When you
+have the hardware exactly where you want it, load a
+syringe with about a 50%-50% mixture of 404 High-
+Density and 406 Colloidal Silica Fillers and epoxy.
+Inject the thickened epoxy within the perimeter of 
+Chapter 14 – Hardware Bonding
+141
+Figure 14-13 Apply epoxy to the bonding surface.
+Figure 14-14 Wet sand the epoxy into the bonding surface.
+Figure 14-15 Tighten fasteners or increase clamping
+pressure until a small amount of epoxy squeezes from
+the joint.
+Epoxy squeeze out
+Backing plate on
+thinner substrate
+
+--- PAGE 156 ---
+the fitting to build up several areas of contact between
+the two bonding surfaces, as in Figure 14-17. When
+this epoxy support or bridging has cured, carefully
+mark the position of the hardware and then tap it 
+with a mallet to break it loose. Up to this point, 
+you have drilled no holes, and you haven’t cleaned 
+the hardware surface.
+Remove the two temporary wood positioning points
+and fill the bonding area solid with sufficient amounts
+of a 404/406/epoxy mixture to fill all anticipated voids
+between bonding surfaces. If standard-size holes for
+fasteners are to be used, you can prepare the hardware
+bonding surface for final bonding. If oversize holes are
+to be used, you’ll need to remove the hardware once
+again after the casting epoxy has cured to drill the
+larger holes. At this point, if you have a piece of
+hardware with a lot of surface area, you may want to
+coat the hardware bonding surface with a release agent
+to facilitate removal. If a release agent is used,
+remember that after you remove the hardware, you
+must clean both the epoxy and the metal surface
+carefully to remove the release agent material so that
+proper bonding can take place. Don’t forget to mark
+the centers of the oversize holes to be drilled before
+removing the hardware. This may require chipping
+some excess cured epoxy out of the hardware fastener
+holes.
+142
+Core Boatbuilding Techniques
+Figure 14-16 Bonded hardware on the deck and cabin top of
+IOR 1⁄2-ton racer Hot Flash. Several of the fittings have pads
+that were cast in place.
+Figure 14-17 Steps for casting a pad for a winch.
+1
+2
+3
+4
+Winch stem base
+(disassemble the winch
+to ease installation and
+cleaning)
+Wood spacer
+Pads of 404/406
+mixture
+Cast base
+Fasteners bonded
+to blocking
+Stem
+Carefully clean thickened epoxy
+off base during installation
+Vary length to achieve even
+penetration of blocking
+Pad painted with
+deck or trim
+Winch
+assembled
+
+--- PAGE 157 ---
+When you set the hardware in final position, excess
+epoxy mixture will flow out from the hardware
+perimeter. You will need to clean it away. This may
+require a bit of sculpting, especially if the cast portion
+is large. We usually make up a wood paddle to the
+shape desired so that we can get the best effect when
+making a final pass across the uncured epoxy surface.
+If you don’t get the results that you’d like, don’t worry.
+You can sand, file, or refill the surface to develop the
+final desired shape.
+When the casting has cured, you can drill the holes for
+the fasteners and install the fasteners themselves in the
+appropriate manner. We caution you to remember to
+adjust the fastener lengths for the angle change of the
+hardware so that you get the same amount of fastener
+penetration into the wood fiber.
+Removing Bonded Fasteners
+and Hardware
+The bond between a fastener and WEST SYSTEM epoxy is
+strong, but, with the right procedures, you can break it
+to remove the fastener from the wood. If you know you
+will want to extract a fastener at some point in the
+future, coat it with wax, spray cooking oil, or a mold
+release before installing it. Although the wax will interfere
+with the metal/epoxy bond, it will not compromise the
+mechanical keying around the threads which provides
+the major load-transfer capability.
+Bonded fasteners can often be removed with reasonable
+force. If you have trouble loosening them, heat fasteners
+with a soldering gun or iron until the surrounding
+epoxy softens. Attach a cutting tip to a soldering gun
+and insert it in the slot at the top of smaller screws to
+free them. Larger fasteners with more root diameter
+can frequently be forced without breaking. However,
+heating them to around 250°F (121°C) softens the
+epoxy and makes the job much easier.
+When you heat WEST SYSTEM epoxy to remove a fastener,
+you may destroy some of its physical properties. Drill
+out the hole completely and start afresh when you
+replace the fastener.
+To remove, hardware that has been bonded or cast in
+position, use heat. At temperatures above 250°F
+(121°C), cured epoxy becomes considerably weaker
+than at room temperature. The epoxy softens and its
+bonding capability reduces considerably. Begin by
+removing any fasteners. Then heat the fitting itself with
+a propane torch. A sharp rap with a mallet will usually
+dislodge the hardware at this point. If the fitting doesn’t
+break loose easily, don’t force it. Heat it a second time
+and try again. 
+Drill out all cured epoxy before reattaching the fitting to
+the deck surface.
+Bonding Ballast Keels to Wood Hulls
+Heavy ballast keels, especially fin keels, can produce
+extreme high point loading. The problem is so difficult
+with some designs that even fiberglass boats using
+much higher density glass fiber have had difficulties
+at the keel/hull connection point. By applying our
+hardware bonding techniques to the process of keel
+installation, however, we have found a very successful
+solution to the problem of attaching keels.
+The standard procedure for attaching a keel has been
+to use two rows of bolts installed as close to the outer
+edges of the keel as possible. These run from the keel
+into the hull and usually through laminated floors,
+which distribute load throughout the hull skin. The
+keel bolts are tightened with nuts inside the hull to
+snug the keel up against it. Large washers or plates
+distribute compression loads through the floors.
+When a boat with a standard, unbonded keel installa-
+tion heels, tension loads are transmitted through the
+bolts to the upper outboard edge, and compression
+loads are transmitted directly from the keel to the wood
+Chapter 14 – Hardware Bonding
+143
+Figure 14-18 Soldering tips for heating small fasteners for
+removal from epoxy.
+
+--- PAGE 158 ---
+it touches on the bottom of the boat. Unbonded keel
+bolts cannot distribute compression loads. If the wood
+fiber in the immediate vicinity of the keel does not have
+sufficient crush resistance, the keel edge will begin to
+crush it. If the keel bolts are not continually tightened,
+the keel will loosen, and this will cause movement,
+which further damages the wood fiber.
+When keel bolts are bonded in oversize holes in appro-
+priate amounts and types of wood fiber, these problems
+are eliminated. A bonded bolt is far superior to the
+standard nut and washer in transmitting tension loads
+over a much greater surface area. More importantly,
+bonded keel bolts can withstand compression loads as
+well as tension loads, while up to this point keel bolts
+were never capable of distributing compression loads.
+Bonded bolts induce shear loading into the surrounding
+structure, and it is irrelevant whether this shear load is
+caused by tension or compression forces. The load
+change factor, which causes such great problems in
+normal keel installations, is of little concern when
+bonded bolts are used to distribute load.
+In designing a bonded keel bolt installation, the goal is
+to achieve an arrangement which successfully distrib-
+utes load over enough surface area that no part of the
+attached wood fiber is overloaded. Heavier keels will
+obviously cause more loading than lighter keels, but the
+bolt arrangement pattern may also be a big factor. In a
+thin-sectioned keel, bolts will be set closer together, and
+this will cause higher input loadings to the bolts due to
+their decreased leverage. Other variables affecting load
+distribution are the number and size of the bolts and
+the thickness and density of the wood in which they
+are bonded. (Note: To make fastener bonding more
+effective on keel bolts, the bolts should have contin-
+uous threads from the top of the keel to the inboard
+end.) 
+We usually use higher density woods for laminated
+floors because of their substantially higher structural
+capacity, especially in shear. Laminated floors are low in
+the hull cavity and centrally located, so the extra weight
+of denser wood is of little concern. We tend to choose
+Honduras mahogany because it is available in our area,
+but any of a number of wood species may be used as
+long as they bond well with WEST SYSTEM epoxy. Make
+a few sample laminations to be sure that the wood you
+select for laminated floors is compatible with epoxy. See
+Chapter 19 for more details on keelson construction.
+Installing Bonded Keels
+Work out the details of the keel assembly early in your
+project. Its design will affect the interior structure of
+the hull and the number, size, and locations of
+laminated frames. When you have decided how to
+144
+Core Boatbuilding Techniques
+Figure 14-19 Cross section view of bonded keel bolts.
+Figure 14-20 Cross section view demonstrating design
+considerations in bonded keel bolts. Tension and compression
+forces are transmitted as a shear load by the resin bond
+between the keel bolt and the wooden structural members.
+Bonded keel bolts are immobilized and there is no chance
+for the edge of the ballast keel to crush the soft planking of
+the hull bottom. Bonding also keeps the keel bolt nuts and
+washers from embedding into the keelson.
+Keelson
+Frame/Floor
+Planking
+Keel bolt
+Lead ballast
+Keel
+Blocking
+Oversize hole
+epoxy filled
+Floor
+timber
+Epoxy in shear
+Keelson
+Planking
+Bolt in
+tension
+Bolt in compression
+LOAD
+(Lateral resistance)
+
+--- PAGE 159 ---
+achieve optimum load distribution, begin preparing for
+keel installation. Do this well in advance so that when
+the time comes, the task of joining the keel and the hull
+can be accomplished with the least amount of grief.
+Pour the keel as soon as possible so that you will have
+plenty of time to prepare it for final installation. Clean
+the casting and then rough up its surface with a wire
+brush to remove oxidation. Coat the keel with epoxy
+and, while the epoxy is still wet, scrub it again with
+the wire brush. WEST SYSTEM epoxy bonds well to clean
+lead surfaces. This coating will improve both paint
+adhesion and the interface between the high-density
+lead and lower density epoxy, and it will also reduce
+immediate oxidation. Fair the top of the keel where it
+will meet the hull. If it’s very heavy, you may want to
+build a special fixture for the keel so that you can roll
+it around the shop. (See Figures 14-23 and 14-24.)
+By far the easiest way to install bolts in a keel is to put
+them in a temporary fixture and pour the lead around
+them as the keel is made. When the bolts are in place,
+check them for dimensional accuracy. They must be
+perpendicular to the bonding surface of the keel and
+each must be parallel, both fore and aft and sideways,
+to the others.
+The next step is make a pattern which sits on the top
+of the keel, as in Figure 14-21, to accurately record the
+locations of the individual bolts so that you can transfer
+them to the hull and drill holes to receive the bolts. For
+this, you will need a sheet of plywood at least as long
+and as wide as the top of the keel. Mark the pattern
+with an accurate fore and aft position for the keel so
+that when you line it up on the hull, the centerlines
+of the keel and hull line up. Then set it on top of the
+bolts. Line up the pattern and mark the locations of
+each keel bolt. Rough cut bolt holes, allowing a wide
+margin around each one so that the pattern drops easily
+onto the top of the keel. Push it down until it lies flush.
+When this is done, make small square or round
+plywood pads for every bolt and drill the exact keel
+bolt hole diameter in the center of each piece. Slip a
+pad over each bolt, centering holes around the bolts,
+and staple in place. Then ask several people to help
+you lift the pattern straight up and off the keel. If it
+catches on misaligned bolts, bend them as necessary.
+Correct any misalignment now; interference fits from
+out-of-parallel bolts can cause a great deal of trouble
+when the keel is installed.
+If you haven’t yet installed laminated floor timbers, use
+this keel pattern and the existing keel bolt arrangement
+as guides to do the job more accurately. If the floor
+timbers are already in place, adjust the pattern so that
+the bolts pass through all of them to best advantage.
+Position the plywood pattern carefully on the centerline
+and mark the bolt holes carefully on the floors or
+keelson.
+Determine the diameter of the holes through the floors
+before you start drilling. The hole diameter should be a
+least 1⁄8" (3mm) larger than the keel bolt. An important
+limitation on hole size is the size of each laminated
+floor timber. A larger oversize hole will distribute load
+over more surface area, but if you remove too much
+material, the floor timber may be weakened. Balance
+the surface area needed for load distribution against the
+dimensions of the floor timbers before making a final
+decision on hole size.
+There are both advantages and disadvantages to
+increasing the diameter of an oversize hole. It’s very
+difficult to maintain even 1⁄16" (1mm) tolerances over a
+series of holes. If you increase hole diameter, you don’t
+Chapter 14 – Hardware Bonding
+145
+Figure 14-21 Making a pattern of the keel bolt locations that
+can be transferred to the keel for drilling.
+Centerline of ballast keel
+marked on the pattern
+Scrap plywood
+Oversize holes in
+plywood
+Lead Keel
+Plywood pads with holes drilled to the
+diameter of the keel bolts are dropped
+over the bolts and stapled to the main
+piece of the pattern
+
+--- PAGE 160 ---
+have to worry so much about close tolerances as you
+drill. Increasing the diameter by 1⁄4" (6mm), for an
+annulus radius of 1⁄8" (3mm) makes the job of final
+fitting the hull and keel much easier.
+To drill the marked keel bolt holes, either use a drilling
+jig or ask a few friends to help you do it by eye. In
+either case, you need a drill which has a big motor and
+in which you can chuck a large bit. The drill bit should
+have a long shank: in some situations 20" to 30" (500-
+750 mm) is an ideal length range. If you can’t purchase
+drill bits that are long enough, have a machine shop
+weld a shank onto a standard bit.
+The main goal of the drilling operation is to make all
+of the keel bolt holes exactly parallel, matching the bolt
+arrangement on the keel. Although it takes some time
+to fabricate, a drilling jig produces maximum accuracy.
+There are several ways to make jigs. One successful
+and simple method is to drill a hole in a large block
+of wood, using a drill press to make sure that it is
+absolutely square and perpendicular to the bottom of
+the block. Another method, shown in Figure 14-22, is
+to start with two pieces of stock, saw a line down the
+center of each, bond the pieces together, and use the
+kerfs as a guide for drilling. You can also rout half-holes
+in two pieces of wood and glue them together.
+When you have made the jig, set it in the hull. Keep
+the bottom of the block in a perfectly flat plane to
+guide the drill bit as you move from hole to hole. To
+establish a common flat surface for all of the holes,
+clamp a thick sheet of plywood over the laminated
+floor on which you are working and check it with a
+level. Cut oversize holes in the plywood in the area of
+the drilling so that you can locate the marks you’ve
+made on the keelson or laminated floor. With the drill
+bit itself as a guide, drill starter holes at least 1⁄2" (12mm)
+deep at all locations in order to line the jig up correctly.
+It’s a good idea to use a clamp or cleat to hold the jig in
+place as you drill.
+Although a jig is preferable, you can achieve reasonable
+accuracy using a simple sight method to drill the holes.
+This method relies on the coordinated efforts of three
+individuals: one to do the actual drilling and two “direc-
+tors” to sight the position of the drill bit with the use of
+levels. This method requires that the drill bit shaft be as
+long as possible, permitting maximum visual accuracy
+in lining up the drill. The two directors must be able
+to view the drill, one from the front and one from 90°
+to the side, using levels on end to sight and direct the
+proper positioning of the drill. The driller stands where
+he can see the two directors, who point out to him
+the direction that the drill motor should be moved to
+maintain a true vertical plane while drilling. The first
+2" to 3" (50 to 75mm) of drilling are the most crucial
+because from there on it will be very difficult to change
+the direction of the drill. In order for this method to
+work, the hull must still be on its lines and the keel
+bolts must be oriented perpendicular to the waterline
+dimension as they sit in the ballast keel.
+The lining up of the keel bolt pattern, marking of holes,
+and the drilling operation can all take place either on
+the inside of a hull or on the outside (prior to turning
+the hull upright). If you mark and drill from the outside,
+the only added difficulty is that you must mark the
+exact centerline of the hull and the fore and aft positions
+of the various laminated floor members. You should not
+remove the hull from its construction set-up before you
+transfer these dimensions with the use of a long level,
+both in the athwartship and longitudinal directions.
+146
+Core Boatbuilding Techniques
+Figure 14-22 A jig for drilling keel bolt holes.
+2 pieces of 3" x 6" stock squared and
+carved with saw kerf down the center
+of each piece
+Saw kerf used
+as guide for
+worm on drill
+Pieces
+bonded
+together
+Hole for keel bolt drill completed
+and jig set up for drilling
+
+--- PAGE 161 ---
+When you have drilled all of the holes, position the
+keel bolt pattern on both the inside and outside of the
+hull over the drilled holes to check them for accuracy.
+The holes will usually line up very accurately from the
+side that you started drilling from, but the opposite
+side of the hull may show some inaccuracy caused by
+improper lineup or wandering of the drill bit. Carefully
+mark these errors and then use a round wood rasp to
+move the dimension of the hole toward the direction
+needed to straighten it out with the pattern. Usually,
+this situation causes no harm, only a slightly enlarged
+hole which has the positive effect of increasing surface
+area. The only disadvantage is the possible weakening
+of the laminated floor itself. However, this should be a
+minor problem in most situations. Make a final, careful
+check with the keel bolt pattern to assure yourself that
+the drilled holes in the hull will indeed receive the bolts
+protruding from the ballast keel with no interference
+from the wood itself. Then you can begin final prepara-
+tions for a ballast keel/hull union.
+Usually, this is the last major job on a boat, and you can
+do it just before launching. Up to the time you install
+the keel, you will probably want the hull close to the
+floor for easy access. To install the keel, however, you
+will have to jack the hull up high enough to have room
+to roll the keel and its bolts into position. When the
+keel is in rough position, move it as necessary until you
+can lower the hull onto it.
+When you have lined up the keel bolts with the bolt
+holes, you can set the hull down over the top of the
+bolts, leaving a gap of about 2" or 3" (50 or 75mm)
+between hull and keel. At this point, you can take final
+measurements to note any possible discrepancies
+between the mating surfaces of the keel and hull.
+Check the keel bolts visually to make sure that there
+are no hang-ups that could prevent the hull from seating
+flush with the keel’s mating surface.
+Coat areas of the mating surface on the bottom of the
+hull from the foremost keel bolt forward and from the
+aftermost keel bolt aft with a parting agent to prevent
+epoxy from bonding in these areas. The reason for this
+is that the ballast keel is a rigid, non-flexing mass, while
+the wood hull structure is not. Invariably, over a period
+of time, movement will take place between parts of the
+keel and hull. It will occur just beyond the outermost
+keel bolts, both fore and aft, creating small, hairline
+cracks. If you bond the keel with epoxy to the hull,
+these cracks will occur within the wood structure itself,
+providing points of moisture entry into the wood fiber.
+The parting agent causes the cracks to occur between
+Chapter 14 – Hardware Bonding
+147
+Figure 14-23 A keel set up in a specially-built handling fixture
+so it can be final faired and moved around.
+Figure 14-24 Rolling a 10,000-pound keel into position on a
+handling fixture. The keel can be shifted slightly from side to
+side and fore and aft.
+
+--- PAGE 162 ---
+epoxy-protected surfaces, allowing water to seep
+harmlessly between them.
+The lead surface itself should already be fairly clean,
+but a light sanding with some sandpaper will expose
+fresh metal for good bonding with the epoxy. The
+mating surfaces are now ready for a final fitting. The
+only thing left to do is to establish some reference
+measuring points to ensure that the keel itself is indeed
+in perfect position with the hull before any epoxy
+cures. Proper preparation should help ensure the keel
+will settle in an accurate fore-and-aft position when the
+hull is set flush upon it, but sometimes a keel, rather
+than sitting perfectly true with a hull athwartship, will
+favor one side or the other. If you have accurate water-
+lines inscribed on the hull, you can take measurements
+from these points a set distance aft on either side down
+to the very bottom of the keel and adjust the hull so
+that this dimension is the same on either side.
+The final setting of the keel requires the coordinated
+efforts of several people. Make up enough epoxy
+mixture at one time to cover the entire bonding surface
+of the keel, using equal proportions of 406 Colloidal
+Silica and 404 High-Density Filler. You need enough
+thickened epoxy to be sure that no gaps will remain
+anywhere between the hull and the keel, a quantity
+sometimes so large that two or three people mix
+separate pots simultaneously. The mixture should be
+so thick that it will not run.
+Liberally spread it over the entire mating surface.
+Lightly coat the bottom of the hull. Remember,
+however, that you begin to work with a time handicap
+the moment you apply the adhesive. The hull must be
+set down on the keel and trued up before the epoxy
+cures. In most situations, this means that you have
+from 20 minutes to 1 hour for the operation. If you
+are well prepared, this should present no problems.
+When the hull is in final position, excess epoxy will
+squeeze out of the keel/hull joint. If the mixture is as
+thick as it should be, it will not run down the sides of
+the keel. Remove the excess and use it to make a fillet
+between the keel and the hull if desired. Use solvent
+and paper towels to clean up any leftover adhesive on
+either the keel or the hull.
+When the epoxy between the hull and the keel has
+cured, begin the second stage of bonding the keel.
+Use a syringe to fill each keel bolt hole to the top
+with unthickened epoxy. Feed each hole continually
+because large amounts will soak into the significant
+wood surface area in the hole. As you do this, it
+sometimes helps to run a piece of wire up and down
+around the keel bolts to help remove air bubbles and
+trapped air. When this epoxy cures, install washers and
+nuts to complete the keel.
+Removable Bonded Keels
+The biggest problem with bonded keels is removing
+them. Bonded keel bolts can be extracted, but with
+difficulty. If for some reason you decide to remove a
+bonded keel, try using a cutter made from steel tubing,
+which passes outside of the keel bolts.
+If you plan to remove a keel on a regular basis for
+shipping or trailering, use the following alternate keel
+assembly technique. Instead of attaching bolts to wood
+fiber, thread or groove the exterior surfaces of sections
+of stainless steel pipe. Fasten the keel bolts through
+these sleeves, as shown in Figure 14-26. The bonded
+pipe transmits keel load through a large surface area.
+With a little modification, this basic idea can be used
+to attach other removable through-hull fittings.
+148
+Core Boatbuilding Techniques
+Figure 14-25 A custom keel bolt cutter can be made from
+steel tubing and a standard hole saw.
+Threaded Rod
+Steel Conduit
+Cut Off Hole Saw
+Grind threads
+to form a
+smooth shank
+Weld and grind
+smooth
+
+--- PAGE 163 ---
+Choose stainless pipe or tubing of sufficient inner
+diameter to allow a keel bolt to pass through it. For
+each bolt hole, cut a sleeve long enough to touch the
+keel and protrude through the floors inside the boat.
+A lead keel is soft, so position nuts on the keel bolts
+before casting it, just flush or slightly above the lead.
+These will separate the keel and the hull. Slide the
+pieces of threaded pipe over the keel bolts and firmly
+fasten them with nuts. You may have to fabricate
+temporary nuts that will pass through the holes in the
+boat and hold the pipe firmly to the keel. Seal the
+joint where the pipe meets the keel with thickened
+epoxy. Then install the keel as described for bonded
+keels. Lower the keel and saw off the excess pipe.
+Install the keel using a good gasket material around
+the keel bolt/pipe.
+Bonding Through-Hull Fittings in Tubes
+Rudder and propeller shafts, cockpit drains, and other
+fittings often pass through the hull in tubes to protect
+end-grain wood. These tubes must be watertight, and
+they must bond well, but they are not always easy to
+obtain. We solve the problem by building piping for
+the through-hull fittings with WEST SYSTEM epoxy and
+fiberglass. There are several ways to do this.
+One very popular method is to find plastic tube or
+metal rod of the right diameter and use it as a mold.
+Make sure that the mold is clean and that it has no
+nicks or scratches and coat it with paste auto wax or
+another mold release.
+Next, wet two layers of 4 oz (135 g/m2) woven fiber-
+glass cloth with epoxy and wrap them around the
+mold. Let the epoxy cure. Then, using a sharp knife,
+slice through the fiberglass along the length of the tube.
+Break the glass free of the mold, but for the moment
+leave it in place. The cut is necessary because the mold
+may not be perfectly round; without it, it might be very
+difficult to remove the finished tube. Wet out more
+glass cloth and wrap it around the tube until you reach
+the desired thickness. Some epoxy may seep into the
+cut, but this will not create any problems. Remove the
+fiberglass tubing from the mold when the epoxy has
+cured.
+With a slightly modified technique, aluminum tubing
+may also be used as a mold. Coat the aluminum with
+heat-resistant mold release—Teflon™ spray is a good
+choice—and wrap fiberglass cloth and epoxy around it
+as before. Then heat the tube to about 120°F (49°C)
+with a hair dryer or heat gun. Keep it warm until the
+epoxy cures.
+As the aluminum heats, both it and the wet-out fiberglass
+will expand. When it cools, it will shrink to original
+size, but the fiberglass/epoxy tube will remain slightly
+larger. This makes it possible to remove the new tube.
+If you have trouble sliding the glass from the mold,
+try pulling it off with pliers.
+A variation on this second method can be used to
+make good-fitting, low-speed bearings. Mix WEST
+SYSTEM epoxy with 406 Colloidal Silica or 423 Graphite
+Powder and apply it to a Teflon-coated aluminum tube.
+Heat the tube until the thickened epoxy is fairly hard.
+Wet out fiberglass cloth with epoxy, wrap it around the
+tube and the adhesive mixture, and allow it to cure.
+Allow the part to cool and pull it off with pliers.
+Chapter 14 – Hardware Bonding
+149
+Figure 14-26 Cross section of a removable bonded keel.
+Keelson
+Nut and washer set up on
+head of keel bolt against
+stainless steel pipe
+Floor timber
+Keel
+Stainless steel
+pipe threaded on
+outside and set
+in epoxy filled hole
+Keel bolt
+Nut set up on keel
+bolt against stainless
+steel pipe. Epoxy
+thickened with
+404/406 (silica) in
+gap at top of keel
+Lead ballast keel
+Planking
+
+--- PAGE 164 ---
+150
+Core Boatbuilding Techniques
+
+--- PAGE 165 ---
+Broadly, the coating and finishing techniques offered in this chapter have stood the test of time. Yet
+wood/epoxy technology has evolved, and we’ve learned a great deal since the book was last revised.
+Generally, our recommendations now are a bit more conservative than in earlier editions.
+We now more strongly recommend applying multiple thin uniform coats of epoxy on a given day to
+minimize trapped air bubbles, to have better control of coating thickness, and, in the end, to have more
+epoxy on the surface because fewer sanding steps have been required.  We are less inclined to flocoat
+flat panels with a single heavy coat of epoxy or recommend applying a single coat per day and sanding
+before applying another coat.
+We also now give more attention to preparing cured epoxy surfaces before recoating. We always recom-
+mend washing with water and sanding cured epoxy coatings before recoating, whereas in previous
+editions, we suggested that no surface preparation was necessary unless blush was observed on an
+epoxy surface.
+Because of concern over surface contaminants, we do not recommend using rags for applying solvents 
+prior to applying epoxy. If solvents are applied at all, they should be applied with plain white paper towel.
+Paints and varnishes in many cases have changed since earlier editions due to environmental concerns
+over solvents. Waterborne coatings have gained popularity but still typically are not as durable as the
+premium two-part polyurethane paints and clear coatings. If you are planning to use waterborne coatings,
+be sure to do some testing to verify satisfactory results.
+In Chapter 3, we explained the theory behind sealing
+wood with WEST SYSTEM® epoxy. Here we provide
+detailed practical instructions on applying epoxy
+coatings and on finishing coated wood surfaces. We
+like to keep boatbuilding simple, so in our shop we
+continually try to make these necessary jobs as quick
+and efficient as possible. We continue to modify and
+improve our techniques and tools as we find better
+ways to do things.
+One of the best things about WEST SYSTEM epoxy is that
+it’s easy to finish. A properly coated wood surface has a
+hard, durable, stable, and moisture-resistant base for
+painting and clear coating. Special finish preparations
+are rarely necessary because most finish systems readily
+adhere to epoxy-coated wood. Since the moisture
+content of the wood beneath the final epoxy coating is
+under control, paint and varnish tend to last longer.
+In most roller and brush coating procedures, use the
+standard application sequence which is detailed in this
+chapter. Apply an initial coating of epoxy as evenly as
+possible and let it cure. Lightly sand high spots, “fuzz”
+and bumps until they are smooth, fill staple holes, and
+apply a second coating. Proceed in this manner until
+you have applied as many coatings of WEST SYSTEM
+epoxy as you think necessary and prepare your surface
+for final finishing. For protection against moisture and
+moisture vapor, you should have at least two net coats
+of epoxy remaining after sanding and finishing.
+An alternate technique for coating with epoxy is
+somewhat quicker than the standard roller-brush
+Coating and Finishing
+C H A P T E R
+15
+Figure 15-1 Coating the exterior of an IOR 1⁄2-ton racer. This
+boat has a natural finish. All fairing, finish sanding, and coating
+were done prior to removing the hull from the mold.
+
+--- PAGE 166 ---
+method but can be used only on flat or almost-flat
+surface. Flocoating is particularly handy in areas where
+you want to build up a thin coating of epoxy quickly.
+General Coating Guidelines
+Boat pieces and parts may be coated with WEST SYSTEM
+epoxy at various times during construction. There are
+no firm rules, so plan out what seems to be a conven-
+ient schedule early in your project. Sometimes, especially
+with exteriors, it’s a good idea to wait until the hull is
+completely assembled and then to coat the entire struc-
+ture at once. Usually, however, you can save a great deal
+of time by coating individual interior components
+before installing them. Precoating, as we call it, at the
+workbench is much easier than coating and sanding in
+difficult and awkward positions in a boat.
+Consider labor savings when you think over the timing
+of your coating. Finish work can be a surprisingly large
+part of the total labor in a boat, as professional builders
+are painfully aware, and any increase in efficiency is
+worthwhile. When work is easier, it goes more quickly.
+Gravity is against you when you coat and sand the
+ceiling of a cabin roof after it is in position, and the
+job can be strenuous. Epoxy will drip from overhead
+surfaces and may create difficult cleanup problems. If
+the same plywood surface is coated and sanded before
+installation, you will save time and irritation, and you
+will probably do better work.
+Complete final fairing and shaping of all wood pieces
+before applying an initial epoxy coating. Shaping and
+fairing are very difficult after epoxy has been applied
+because cured, epoxy-coated surfaces are many times
+harder than bare wood.
+Inspect the final shaped and faired wood surface to
+check its moisture content. Ideally, the moisture content
+should be between 8% and 12%. If its moisture level is
+in the range of your wood’s saturation point, epoxy may
+not penetrate enough to maintain grain strength.
+Moisture content below 12% has little effect on epoxy
+absorption, so unless its cells have been damaged in
+overzealous kiln operations, wood that is too dry is
+preferable to wood that is too damp. See Chapter 3 on
+wood and moisture for more information.
+If in doubt about the moisture content of a thin plank,
+sand it with 80-grit paper. If you can’t produce a dusty
+cutting, the wood is too wet. This trick does not work
+with thick boards, which tend to dry out on the surface
+while remaining green inside. Apply epoxy to wet or
+damp wood only under emergency conditions when
+there is no alternative.
+Your wood should be clean and free of contamination
+because oil, dirt, dust, and solvent residue will prevent
+proper bonding. Remove oil and grease with a
+degreaser/solvent—we’ve found that alcohol is very
+effective—and sand your wood to eliminate the possi-
+bility of solvent interference with epoxy adhesion.
+Apply solvent with plain white paper towel instead of
+rags to minimize the risk of surface contamination.
+Fabric softeners and man-made fibers found in rags can
+dissolve and contaminate the surface. 
+The temperatures of your shop, wood, and epoxy are
+important to the quality of a coating job. We find that a
+range between 60° and 70°F (16° and 21°C) is best.
+Both epoxy and wood should be at room temperature
+or warmer before coating. At colder temperatures, the
+viscosity of epoxy increases, and it becomes difficult to
+apply. Warm epoxy, on the other hand, even when
+applied to cold wood, will remain thin long enough to
+easily penetrate. Warming the substrate and allowing it
+to cool a little before coating also enhances epoxy
+absorption. Warming both the epoxy and the wood is a
+little more work, but worthwhile in cold conditions. You
+may also, with slightly less satisfactory results, apply
+cold epoxy to a cold surface and then heat both simul-
+taneously with a hair dryer, heat gun, or light bulb.
+Try to maintain constant temperatures as your epoxy
+cures. If freshly-coated wood warms up—as, for
+example, when cold wood is brought into a warm shop
+or when coated plywood is taken from a cool shop into
+hot sunlight—expanding air in the wood will form
+bubbles on the coated surface. In the same way, if a
+coated surface is taken from a warm shop to cure in
+cold conditions, it may become cloudy or contami-
+nated, especially by condensation.
+Use unthickened WEST SYSTEM epoxy for both bonding
+and coating. We suggest 205 Fast Hardener for general
+152
+Core Boatbuilding Techniques
+
+--- PAGE 167 ---
+coating operations at 70°F (21°C) or less and 206 Slow
+Hardener in hotter weather. 209 Extra Slow Hardener is
+available for general coating and bonding applications
+in temperatures above 80°F (27°C). We recommend 
+207 Special Coating Hardener for clear finish projects. 
+It resists blush formation and is formulated for
+maintaining clarity. Under normal conditions, you can
+sand epoxy coatings in 24 to 48 hours after application,
+depending on ambient temperature and hardener.  
+Use epoxy without fillers or additives for most coating
+jobs. When you need a mixture that will not run easily,
+add small amounts of 406 Colloidal Silica. Don’t thin
+WEST SYSTEM epoxy with solvents because doing this
+may compromise the moisture resistance and physical
+properties of the epoxy.
+The most practical way to apply a WEST SYSTEM epoxy
+coating usually is to roll it on with a high-density
+urethane foam roller. After a good deal of experimenting,
+we have settled on WEST SYSTEM 800 Roller Covers,
+which have 1⁄8" thick foam on a stiff backing. Covers
+with porous, low-density foam or with foam thickness
+greater than 3⁄16" will add an undesirable amount of air
+to epoxy during application and reduce control of
+coating thickness. We therefore advise against using
+them. Roller covers are inexpensive and almost impos-
+sible to clean, so we always discard them after use.
+We have weighed our roller covers before and after
+using them and have found that they sometimes absorb
+over 2 oz (60g) of epoxy. Two ounces can be a significant
+waste factor in small jobs, so organize your work and
+try to coat a number of components at one time with
+one roller cover. Foam will deteriorate as epoxy begins
+to cure because increasing epoxy viscosity causes
+increased drag. To extend the life of your roller cover,
+mix small batches of epoxy and roll your cover dry
+before adding additional epoxy to your roller pan. Mix
+about 4 oz (110g) of epoxy at a time and add more
+small batches to it in the roller pan as needed.
+There are many areas in a boat that can’t be reached
+with a standard 7" (180mm) wide roller. One of our
+solutions to this problem is to saw roller covers into
+shorter widths and mount them on an adjustable 801
+Roller Frame. In other tight situations, we use small,
+cheap, bristle brushes for coating. For firmer action
+and greater control, we usually cut the bristles on our
+brushes short.
+WEST SYSTEM epoxy is a dense material which requires
+a good deal of roller pressure. This pressure, combined
+with vigorous rolling action, leads to an even surface
+coating over a large area, but it also often produces a
+surface stipple of air bubbles. Remove this stipple
+before the epoxy cures so that the surface is smooth;
+sanding and finishing will be easier. Factory-made foam
+brushes can be used to eliminate stipple, but they are
+expensive and a little too flexible to be ideal.
+We make our own, cheaper, brush-like foam tools from
+WEST SYSTEM 800 Roller Covers. Cut a roller cover in
+half crossways, and then slice each half longitudinally
+into three pieces. These cuts will serve as brushing
+edges, so they must be straight and clean. Make a
+handle by sawing a slot in a stick and insert a segment
+of roller into it, as shown in Figure 15-2.
+We sometimes use bristle brushes to smooth out and
+touch up epoxy coatings, although, as a rule, they are
+not particularly effective for applying epoxy and they
+cost a lot more than rollers. It’s hard to brush an even
+and consistent coating over a large area and, once the job
+is done, harder still to clean the brush. WEST SYSTEM
+epoxy can be cleaned from bristles, but because epoxy
+continues to cure even after drastic reduction with
+thinners, this procedure is much more time-consuming
+than standard paint cleaning. If you use brushes, store
+them in a covered coffee can full of solvent.
+Chapter 15 – Coating and Finishing
+153
+Figure 15-2 Cutting a roller cover into segments to make
+foam brushes.
+Wood handle
+Saw slot
+Roller segment
+
+--- PAGE 168 ---
+It may be possible to spray WEST SYSTEM epoxy, but 
+we strongly recommend against it. Leaving aside the
+practical difficulties—our epoxy is a high-density mat-
+erial which is very difficult to atomize and reducing it
+with thinners will lower its physical properties—the
+possible health hazards are enormous. If a sensitized 
+or potentially sensitized individual were to come into
+contact with atomized epoxy, the health effects could 
+be very serious. (See Chapter 10 Safety.)
+Initial Coating with Epoxy
+When you apply a first coat of WEST SYSTEM epoxy to
+bare wood, it will penetrate the wood’s surface and
+adhere to its cells, replacing air in voids and fissures.
+The amount and depth of this penetration are affected
+by several variables: the density of the wood, its grain
+alignment, and its moisture content. The purpose of an
+initial coating is to encapsulate the wood. Very deep
+penetration is actually undesirable.
+Wood density is the most important of the factors that
+determine epoxy penetration. Cedar will absorb more
+epoxy than mahogany. Grain alignment affects penetra-
+tion because end grain absorbs much more epoxy than
+flat grain. Grain runs exactly parallel to length in few
+boards, and most have some run out, so it is very
+common for epoxy to penetrate unevenly in a single
+board. End grain is also a major avenue for moisture
+absorption, so relatively deep epoxy penetration here 
+is needed.
+Individual wood cells are very resistant to all types of
+liquids, including water, and are not easily penetrated
+by any liquid unless they are submerged for long periods
+of time. When you apply an initial coating of WEST
+SYSTEM epoxy, it will penetrate the voids and fissures
+between the cells and will travel only into cells that
+have broken walls. This is what you want to happen. 
+If the epoxy were to thoroughly saturate the wood, 
+its weight and brittleness would increase faster than 
+any benefits.
+In most woods, in fact, epoxy absorption is desirable
+only to the point at which wood grain strength is
+reached. Whenever an epoxy-bonded joint breaks, 
+the fracture should be in the wood rather than in the
+bonding line. This is obviously important for bonded
+joints, but it is just as important for coatings. If a coating
+adheres so tenaciously that you only have to worry
+about the integrity of the wood itself, you eliminate a
+great deal of concern. It has long been considered almost
+impossible to find a coating that adheres to a wood
+surface in a difficult marine environment over a long
+period of time. Polyester resins and most types of paint
+have produced at best mediocre results.
+A large percentage of the volume of a piece of wood is
+air. If it cannot escape during coating to allow epoxy to
+take its place, this air can be a major deterrent to good
+penetration. When you apply the first coat of epoxy to
+bare wood, you often see many small air bubbles on the
+surface. These appear when the epoxy and the air
+exchange places.
+In most cases, this transfer occurs easily. Sometimes,
+however, difficulties can develop. Air passage can be
+restricted when cold, thick epoxy is applied in a heavier-
+than-usual coating. In this situation, there appears to be
+a standoff, with the air unable to pass from the voids
+and the thicker epoxy unable to move in until the air
+escapes. The obvious solution to this is to work in a
+heated area, but if that is impossible, refer back to the
+previously discussed guidelines.
+During the initial coating process, recoat areas that look
+dry as the epoxy penetrates, rolling on fresh epoxy as
+necessary. End grain will soak up a great deal of epoxy.
+Don’t apply too much in the first coating as an exces-
+sive film can impede good air transfer. Instead, roll a
+second coat over the first after a few minutes. Casually
+inspect your surface for 15 minutes after applying an
+adequate initial coat. Re-roll areas where excessive
+penetration occurs.
+Because wood grain expands as it absorbs epoxy, cured
+initial coatings are often fuzzy and rough. Sand your
+surface until it is smooth and dull before applying a
+second coating of epoxy or a layer of fiberglass. Major
+voids, staple holes, nicks, and dings can be filled after a
+second or third coat, but we usually take care of them
+after the initial coating so that the filled areas will be
+covered with epoxy. After puttying these spots and
+allowing them to cure, fair them smooth with
+sandpaper on a block. Then you are ready to apply a
+second overall coating.
+154
+Core Boatbuilding Techniques
+
+--- PAGE 169 ---
+Second and Subsequent Epoxy Coatings 
+Use a foam roller to apply the second coat of WEST
+SYSTEM epoxy. The important goal now is a smooth
+coated surface, and for this you need long, vigorous
+strokes. Roll the epoxy in several directions to maintain
+as even a film as possible. If you inadvertently apply too
+much epoxy to an area, it may run. Cold epoxy is diffi-
+cult to apply in a uniform film, so use only warm epoxy
+on second coatings. Use a brush to remove any air
+bubbles or stipple, following the guidelines mentioned
+earlier in this chapter.
+Apply at least one penetration coat and one secondary
+coat to every surface inside your boat. It is possible to
+remove one or more coats of epoxy during sanding, so
+areas which require a lot of abrading will require a
+minimum of three coats of epoxy. You can apply more
+coatings and they will provide greater resistance to the
+elements, but generally you reach a point of diminishing
+returns in both practical and economic effectiveness
+with more than three net coats of WEST SYSTEM epoxy.
+However, we do recommend applying up to six coats of
+epoxy on surfaces that will be below the waterline on
+boats that stay in the water for months or more at a time.
+The smoother the surface coating, the less sanding you
+will need for a really smooth finish for final painting. In
+many cases, you can leave the second or third coating
+as is in interiors and other areas which have no need of
+a decorative coat of paint or varnish. Make provisions
+for final finishing your exterior early, however.
+Samples coated at our shop show a coverage rate of 
+40 square feet per pound (8.2m2/kg) of applied mixed
+epoxy. Since 2 oz (60g) of epoxy can be wasted in a roller
+cover and some film may remain in a roller tray or
+mixture pot, actual coverage may be reduced by up
+to 25%. A fair average application rate for estimating
+material costs and weights for initial and secondary
+coatings WEST SYSTEM epoxy is 35 square feet per
+pound (7.2m2/kg) of mixed epoxy.
+WEST SYSTEM Pigments and Other Additives
+Pigments and other specialized additives may be added
+to the epoxy used in secondary and final coatings. Since
+they may affect penetration, we advise against using
+these materials in initial coatings. See Chapter 4 for
+detailed information on these products.
+WEST SYSTEM white and gray pigments cannot, of course,
+be used on naturally finished hulls. However, if you plan
+to paint your boat, they can be quite helpful. During
+coating applications, pigments aid in maintaining visual
+control of film thickness, and during sanding they can
+prevent the removal of too much substrate. Pigmented
+epoxy can also serve as a colored painting base, so
+fewer coats of final finish are needed to cover a hull.
+Both pigments and WEST SYSTEM 420 Aluminum
+Powder provide protection from sunlight. Epoxy breaks
+down under prolonged exposure to ultraviolet light; if
+you do not plan to coat your hull with a finish system
+immediately, add either pigment or powder to your last
+Chapter 15 – Coating and Finishing
+155
+Figure 15-3  Building up epoxy coating on the deck of the
+proa Slingshot. Note that the topsides and bottom have been
+coated with gray pigmented epoxy.
+Figure 15-4  Bottom of the proa Slingshot has been coated
+with gray 420 Aluminum Powder pigmented epoxy and
+sanded in preparation for painting.
+
+--- PAGE 170 ---
+coat of epoxy. This is a temporary measure which does
+not replace a final paint finish. Aluminum powder is
+more difficult to sand than pigment, so we suggest
+using it only on areas that are already fair and smooth.
+WEST SYSTEM 423 Graphite Powder is used in specific
+areas in specialized coating applications. Graphite
+powder/epoxy coatings are occasionally applied to
+rudders, centerboards, and drysailed racers. They provide
+low friction coatings with increased scuff resistance and
+also provide UV protection.
+Flocoat Procedures
+As mentioned in the preface to this chapter, we are now
+less inclined to flocoat panels than we were when the
+book was first written. However, flocoating is one of the
+most efficient ways to coat wood. If you use a flocoat,
+you can achieve a very smooth surface with thickness
+equivalent to at least three individual coatings in a
+single operation. The disadvantage is that the technique
+relies on epoxy’s tendency to level itself, so it only
+works well on reasonably flat surfaces. Flocoating is
+not effective on vertical surfaces or on inclines that are
+so steep that the epoxy runs to a lower area.
+We’ve gradually modified our flocoat technique and
+now use several different procedures depending on
+the desired weight of the part we’re working on.
+To apply a flocoat, begin by spreading epoxy over your
+plywood with a regular plastic squeegee. The coating
+should be very light. Use only enough epoxy to wet out
+the wood and allow for some initial penetration. You do
+not want to build up a film.
+About an hour after you have spread the first coat, pour
+a large quantity of epoxy directly from your mixing pot
+over your plywood surface. Use a serrated or notched
+plastic spreader to distribute this epoxy as evenly as pos-
+sible. The serrations on your tool will form little ridges
+which will help control the thickness of your coating.
+Next, immediately begin rolling your surface. Use light
+pressure with your roller and stroke slowly in two
+directions with a couple of passes each way. Check
+again for an even surface and finish up by brushing
+your flocoat smooth. Within 10 to 15 minutes, your
+epoxy should self-level to a glass-like finish.
+We usually sand the entire panel to desired finished
+smoothness when the flocoat has cured. Then we cut
+out whatever parts we need. In many cases, this
+sanding is in preparation for final varnishing or
+painting, which takes place only after the entire boat
+is assembled.
+Flocoating can work to save labor in some other, non-
+flat areas, and it can also be used occasionally to level
+off uneven surfaces. We have used the technique to coat
+centerboards, rudders, deck areas, floorboards, and
+cabin tops, but in many of these applications, we used
+less epoxy than we might have had the surfaces been
+perfectly flat. You can add low-density filler to epoxy
+used for flocoating to make a mixture that runs less
+than epoxy alone. Apply a flocoat of this fortified epoxy
+to level off a panel.
+We usually use a total of about 2 pounds (1kg) of
+mixed WEST SYSTEM epoxy for flocoating one side of 
+a single 4'  8' (1200mm  2400mm) sheet of
+plywood. This amounts to approximately 1 ounce of
+epoxy per square foot of surface area and includes the
+epoxy used to initially penetrate the wood. Quantities
+of mixed epoxy needed to apply the first coating will
+vary somewhat even within a given species of wood, so
+account for this variable factor by mixing a little less or
+a little more epoxy as needed. For your first effort, try
+mixing 6 to 8 oz (170g to 225g) of epoxy for the initial
+coating.
+Cleaning and Sanding Coated Surfaces
+WEST SYSTEM epoxy will bond to cured WEST SYSTEM
+epoxy-coated surfaces if the surface is properly prepared.
+Sometimes a wax-like substance appears on cured
+epoxy surfaces. This is an amine blush, a by-product
+of the resin/hardener reaction. Blush is water-soluble
+and it is good practice to wash it off with clean water
+before sanding and before applying any further
+coatings. The water wipe may not be practical on
+wood surfaces coated with a single application of epoxy
+or near bare wood because the wood is not completely
+sealed. In this case, just sand the epoxy thoroughly
+before recoating with epoxy.
+You can also wet sand with waterproof sandpaper or
+use a 3M ScotchBrite™ pad and water to remove blush
+and abrade cured epoxy. Sand any remaining shiny
+places dull before applying additional coatings. Left in
+156
+Core Boatbuilding Techniques
+
+--- PAGE 171 ---
+place, amine blush may clog sandpaper, and it may also
+jeopardize adhesion. This residue may attract moisture,
+which can also prevent proper adhesion of subsequent
+coats of epoxy. Amine blush is most evident when a
+coating cures in cooling temperatures, so maintaining
+constant environmental controls as epoxy cures aids in
+preventing its development.
+In other situations, surfaces may be contaminated by
+substances that are not water-soluble or by water itself.
+To remove non-soluble materials, use an appropriate
+cleaning solvent with white paper towel. In high hum-
+idity, moisture may collect on a surface. This will act as a
+contaminant and interfere with bonding between coatings.
+Condensation may cause clouding in an epoxy coating.
+When moisture is a problem, use 205 Fast Hardener
+since this cures more quickly and has less “green” time
+in which to collect moisture or use 207 Special Coating
+Hardener, which is less affected by moisture. Try also
+to maintain more constant temperatures. If for some
+reason you are working outdoors in the rain, cover
+freshly coated areas with a tent of plastic sheeting.
+To eliminate any potential contamination problems
+between coatings, it’s easiest to recoat while the
+previous coat of epoxy is still “green.” This can be
+anywhere from 1 to 3 hours after the earlier application,
+depending on temperature and hardener. When the
+epoxy begins to cure and becomes tacky, you can
+immediately roll on another coat without having to
+worry about running. Several coats of epoxy are possible
+in a single day with only short intervals between them,
+with no sagging. We have found that if you roll on the
+epoxy and tip it with a brush or segment of foam roller
+cover, air bubbles and roller stipple are eliminated.
+Then the self-leveling ability of successive coatings is
+sometimes as good as, if not better than, a single coating.
+When you have applied the proper amount of epoxy,
+your next step is to smooth the surface for painting or
+varnishing. In many cases, especially in the interior,
+you will have sa

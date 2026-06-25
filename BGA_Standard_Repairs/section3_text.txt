@@ -1,0 +1,1784 @@
+# BGA Standard Repairs Section 3
+# (OCR extracted)
+
+
+--- PAGE 1 ---
+SECTION 3
+
+REPAIR OF WOODEN COMPONENTS
+Chapter 3.1 Timbers and Plywoods commonly used
+
+Chapter 3.2
+Chapter 3.3
+Chapter 3.4
+Chapter 3.5
+
+Glues and Gluing
+Plywood Repairs
+Solid Member Repairs
+Box Member Repairs
+
+
+--- PAGE 3 ---
+Sectlon 3—Page |
+
+Chapter 3.1
+TIMBERS AND PLYWOODS COMMONLY USED
+
+It is essential that a repair should be made with material that is identical as regards
+strength and weight with the original structure and, therefore, it is necessary that an
+Inspector be able to recognise the various timbers used in glider construction with no
+possibility of error. All materials used will of course be of aircraft Specification and
+will have Release Notes issued with them so that there is no question as to their suit-
+ability for use in aircraft. If the Inspector has a set of drawings for the machine he will
+have the materials quoted on the drawing. However it frequently happens that the
+drawings are not immediately available and the Inspector will then have to decide for
+himself what materials have been used. Fortunately this is not very difficult.
+
+Timber
+Spruce
+The main load carrying members of gliders are almost all made of spruce to Specification
+V 37. This is a light-coloured softwood of great strength/weight ratio. When broken,
+good spruce breaks with a fibrous fracture and all along the broken surfaces will be
+found tiny whiskers of grain that have pulled up. Bad, dry spruce breaks ‘short’ or snaps
+like a carrot and the whiskers are absent.
+
+While spruce is more or less universal in this country, be on your guard against
+
+finding other substitute timbers in foreign gliders, particularly the older machines. Firs
+and pines of various types have been used, but if in doubt check with the manufacturer.
+
+Ash
+
+A white hardwood with characteristic flecks in the grain. Its great merit is that it has
+good resistance to bending and is therefore used for skids and occasionally for the keel
+of gliders.
+
+Beech . : ;
+A hardwood used for re-inforcing blocks in certain places. Some years ago it was used
+for making ply when Birch was in short supply, but this seems to have disappeared now.
+Tn colour it is a white-ish wood, darker than Ash and contains short flecks in the grain.
+
+Birch
+
+A hardwood used mainly in the manufacture of plywood but used on its own in certain
+applications. It faintly resembles Beech but is of a darker colour altogether. It is used
+for reinforcing blocks, tailskid spring-carrying members and in many aircraft where the
+fittings of the wings are attached to the spars. ;
+
+Mahogany
+
+Rather a generic term this, as there is a whole family of timbers which go by this name.
+It is a dark timber which comes from various places in the world (Honduras, Africa
+and other places). It varies in hardness but it has one great merit and that is its great
+resistance to shock, hence its use in places like wheelboxes and, in the Power Flying
+Sphere, for propellors,
+
+In any workshop a lot of wood will be required for such things as jigs and, of
+course, this can be of any origin. However, the most important point to ensure is that
+this scrap timber can never be muddled up with the aircraft timber. A Bonded Store is
+an excellent idea if you can run to it. Basically it means a store where nothing but
+aircraft materials is stored and from which nothing is ever issued except with its Release
+Note. It does mean a more or less full time storeman and this is probably beyond most
+gliding clubs or repair organisations.
+
+
+--- PAGE 4 ---
+Section 3—Page 2
+
+Plywoods .
+Plywoods can be divided into two basic types: High strength to Specification 6.V.3,
+and Low strength to Specification V35.
+
+High strength ply to Specification 6.V.3 is almost always made of BircH lamina-
+tions, though in years gone by, beech was used occasionally. It is always glued with
+waterproof synthetic glues. It is used in places where strength is of vital importance
+such as spar webs, leading edges. Consequently, when repairing members containing
+this material, only ply of the correct Specification may be used. It is obtainable in many
+thicknesses from less than 1 mm. up to almost any thickness, but ply thicker than ,, in.
+is not much used on gliders these days (1966). .
+
+Grain direction is very important and any. replacements or insertions must follow
+the grain direction of the original structure if the strength of the repair is to be main-
+tained. It is often applied to leading edges and to spar webs so that the grain lies in a
+diagonal direction to cope with the heavy shear stresses.
+
+Low strength ply to Specification V35 is used in many applications where stiffness
+rather than strength is required. It is made usually of GaBoon which is a soft, very
+light wood of the Mahogany family, darkish brown in colour, Waterproof synthetic
+glues are used for gluing the laminations. It is found in leading edges, fuselage skins
+and similar applications where accuracy of form is required. It must never be used
+to replace ply of the High strength 6.V.3 variéty.
+
+I] ply repairs must be made to the correct Specification, of identical thickness to
+the original structure, and following the exact grain direction of the original.
+
+All ply tends to suffer from a phenomenon known as ‘case hardening’, The exact
+causes of this we need not go into, but the result is that in the manufacturing process,
+the ply surfaces may acquire a hard skin which interferes with the proper adhesion of
+glue. In consequence, before gluing ply, it must be thoroughly sanded to remove this
+hard skin. Failure to observe this precaution may result in very poor adhesion. One
+hardly need stress the disastrous possibilities.
+
+There is a further application of ply that has been seen in certain gliders and will
+possibly become more popular. This is the ply sandwich, where two thin layers of ply
+are used, and the space between them is filled with a foamed plastic which is attached to
+the ply. It is perhaps a little early to try to lay down hard and fast methods of repairing
+these sandwiches, but as a general principle it can be said that if both layers of ply are
+repaired and new foam filling is inserted, properly attached to the ply surfaces, the repair
+will be satisfactory. The ply sandwich does enable the designer to produce exceedingly
+light but stiff shapes with the minimum of internal stiffening structure, and so is very
+valuable when forming leading edges to wings and suchlike parts of a glider.
+
+Defects of Timber and Ply
+
+While timber and ply can be assumed to be of Specification standard when new and
+purchased with Release Note, there are several factors which reduce the strength and
+quality if allowed to do so. These can broadly be divided into two categories, natural
+and mechanical...
+
+The natural enemies of timber are moisture, either too much or too little, and insect
+attack. The moisture content of the timber is carefully regulated when the timber is
+inspected for approval and if the protective coating is properly maintained this should
+not alter very much. Possibly we should qualify the last statement by saying that, in the
+United Kingdom, the moisture content should not change very much. In tropical
+climates there is strong evidence that drying out of timber does fend to occur. In the
+United Kingdom however, if timber is allowed to become water soaked or even oil
+soaked there is always the danger of rot starting up. This is usually quite obvious. It
+starts with bacterial attack, discolouration of the timber and the deterioration can be
+quite easily detected by probing the timber.
+
+Drying out of the timber is liable to occur if the machine is operated in very hot
+climates. In theory, the drier the timber, the stronger it becomes, but unfortunate y the
+drier it becomes, the more brittle it becomes also. All one can say in this context is to
+
+
+--- PAGE 5 ---
+Section 3—Pagr 3
+
+keep the protective coating intact and protect the machine from unnecessary cooking
+in the sun or in the trailer, Should drying out be suspected it is probably wise to take
+a sample of the timber and have the moisture content checked and then consult the
+manufacturer.
+
+Insect attack is not very common in this country but it is, of course, possible to get
+woodworm in a glider. The dopes that are used seem to discourage this activity, but if
+it should ever be found, then the entire machine is suspect, until every part has been
+checked and passed as free from damage. Overseas this may well be quite a problem
+but this is perhaps better left to those who have expert knowledge of the methods of
+dealing with this sort of thing in the various territories.
+
+Mechanical damage to the timber is due either to mishangling on the ground, or
+to overstressing the timber. When timber fails in tension the failure is obvious, because
+the timber is broken quite clearly, and the damage can be seen. When, however, it fails
+in compression the damage is often much more difficult to spot. Frequently all that is
+visible is a ‘compression shake’. FigureA. illustrates a typical compression shake. What
+
+COMPRESSION
+SHAKE
+
+Figure A
+has actually happened is that the fibres of the timber, instead of lying parallel to each
+
+other, have collapsed at one point and have f ‘olded over on to themselves, or dclescoped
+The timber is useless and must be replaced by new timber. All that may be visible of this
+damage is a small hair line crack or fold in the paintwork. Some compression shakes
+are easy to see but some can be very tricky to detect. If you have any doubt whether a
+line is a compression shake or not, simply apply a small amount of bending to the
+member in question. If there is a com ression shake in it the member will bend at that
+spot almost as if there were a hinge there. '
+
+There seems to be some evidence now that timber which has been repeatedly
+stressed to near its ultimate strength develops what is referred to as a ‘Brash’ condition.
+In this state the timber loses a lot of its resistance to shock and when broken it breaks
+‘short’. Some authorities regard this state as being the early state of the formation of
+compression shakes. - . ; -
+
+Apart from failure in tension and compression, timber may become bruised. If
+this happens, except in the case of the very smallest bruise, the damage must be cut out
+and new timber scarfed in to replace it. There is one other form of damage that cannot
+be left out. This is damage by lightnin strike, A number of machines have been struck
+by lightning in the air but none so far has, been damaged so as to require abandonment
+in the air. However, examination of some of the cases shows that lightning strikes can
+destroy timber in a most remarkable way. What appears to happen is that the charge of
+electricity follows metallic paths in some cases but, where it passes from a metallic path
+to a surface track, it often generates intense heat locally. This local heating is sufficient
+to vaporise the moisture in the timber, with the result that the timber is literally blown
+apart. This is not always. obvious on a casual inspection, but as soon as the timber is
+prodded it is clear that the nature of the wood has gone and that all that is left is a
+spongy mass of wood fibres. This form of damage has only recently made its appearance
+
+
+--- PAGE 6 ---
+Section 3—Page 4
+
+in gliders, but should a machine have been taken anywhere near an electric storm, the
+most minute examination must be made for any signs of a strike. Should this be found
+then all the timber must be checked for this sort of damage. Also all the cables will
+have to be removed’ for inspection.
+
+Chapter 3.2
+GLUES AND GLUING
+
+All gluing on gliders at the present time (1966) is done by synthetic resin glues. The day
+of Casein glue and animal glues is past and the synthetic resin glues have shown them-
+selves to be infinitely superior in every way.
+
+Three types of glue are commonly used. The first is ARALDITE which can be used
+for many purposes. In repair work its main application is for Pluing timber or ply
+to glass fibre components.’ The glue is in two parts, the resin and the hardener. Both
+are liquids and are mixed together, in the correct proportions as given by the manufac-
+turer, and then applied to both surfaces. The surfaces are then cramped in contact and
+the glue is allowed to set. It sets by chemical reaction and the time taken depends on
+the ambient temperature. Setting times are given by the manufacturer.
+
+The second type of glue is AERODUX. This is also in two parts. The two liquids
+are mixed together in the correct proportions and then applied to the two surfaces,
+which are then cramped together in the same way. It is used for gluing timber (o timber,
+or ply, and forms an excellent bond. It is an admirable glue for construction work,
+but it does suffer from disadvantages for repair work, in that the setting time is rather
+long. To be exact, it sets fairly rapidly, but it does not develop its full strength for some
+days, and this can be awkward in repair work. Again the manufacturer supplies full
+instructions for the use of this glue.
+
+The third and most usually used glue for all timber and ply work is AEROLITE.
+This is also in two parts but the application of the glue is somewhat different. The glue
+
+roper is a treacly resin known as Aerolite 300 and the hardener is an acid. The hardener
+1s made in three strengths: rapid, medium and slow. Each contains a stain to identify it,
+the rapid being stained amber, the medium green and the slow,* purple. The method of
+application is. to apply the resin to one of the surfaces and the hardener to the other
+surface. The two surfaces are then brought into contact and cramped together to set.
+The hardener and the resin must never be brought into contact except in the manner
+just described as sefting commences as soon as the two meet. The time taken for the
+joint to set depends on the temperature and can be made quite short: of the order of
+one hour, by ihe. use of heat on the joint. Which hardener to use depends on the tem-
+perature and the speed of setting desired, and the manufacturer supplies tables of setting
+times for various hardeners and temperatures, *
+
+Aerolite 300 has a shelf life of three months from the date of manufacture. After
+this time slow setting of the resin takes place and the glue must not be used on aircraft,
+though it may be quite satisfactory for odd jobs. Clubs and repairers may find that it is
+more convenient to buy the resin in powder form in which case it is known as Aerolite
+306. The powder is mixed with water to form the resin, again following the manu-
+facturer’s instructions, when the resin becomes Aerolite 300 and is treated in exactly
+the same way. In the powder form Aerolite 306 has a shelf life of two years provided.
+that it is kept dry and airtight. When Aerolite 306 is used, sufficient time must be allowed
+after mixing with water to clear the mixture of air bubbles and this may take one or two
+days. Therefore it is a good plan to mix up the resin for a job several days in advance
+If kept airtight the mixed resin will remain in good condition for several weeks. If a
+
+. skin should form on the resin this must be removed as it will not re-dissolve.
+
+At the risk of being repetitive, let it be emphasised again that no glues may be
+
+used on any aircraft work unless those glues have been made for aircraft and a Release
+
+*Recently the makers have been using a dark blue stain in place of the purple stain.
+
+
+--- PAGE 7 ---
+joint has been made, that the hardener has done its job. The joint will look al
+
+Section J—Page 5
+
+Note has been issued with the glue, This is vitally important as every batch of aircraft
+glue is tested to ensure that it is up to Specification. If you use glue without a Release
+
+- Note you are asking for trouble.
+
+The hardener of Aerolite is an acid and it is absolutely necessary that the hardener
+is wet or damp when the two surfaces meet. If the hardener is allowed to dry then the
+chemical reaction with the resin will not take place and the glue will not set. Anything
+that interferes with the acidity of the hardener will have a similar effect. This brings us
+to one very important point, Casein glue which is found on quite a number of older
+gliders is very alkaline and, if a joint has to be re-glued on a glider of this type, then
+special precautions must be taken. First clean off all the old casein glue and then paint
+hardener on both surfaces and allow it to dry. Repeat the painting with hardener and
+allow it to dry again. You will now have kill the alkalinity and can go ahead using the
+glue in the ordinary way: resin on one surface and hardener on the other,
+
+This point cannot overemphasised since there is no way of ensuring, once the
+
+right and
+the stain will prove that the hardener has been used but, if the casein were not properly
+killed, the joint will be worthless.
+
+Another vitally important point must not be overlooked. A recent development
+in the construction of gliders is the use of metal-to-timber bonded components, notably
+the booms of spars. These are made up by bonding to the metal a thin lamination of
+timber, usually by the’ Redux process. The metal with its lamination of timber can then
+be glued to the rest of the timber structure in the ordinary way. Now Redux and the
+acid hardener of Aerolite do not agree and if they are allowed to come into contact,
+there is a real danger of the Redux bonding being destroyed. Therefore it is absolutely
+vital that if any repairs have to be doné anywhere near a metal-to-timber Redux bond,
+Aerolite glue is not used. The only permissible adhesives are Aerodux or Araldite.
+Experiments are going on.at present to determine if Araldite can be satisfactorily used
+for the metal-to-timber bond but for the preseat it is safer to assume that all these bonds
+are of Redux and to avoid the use of Aerolite anywhere near them.
+
+Gluing
+
+All this part of Chapter 2 refers to the use of Aerolite glue whether in the form of
+Aerolite 300 (the ready mixed resin) or Aerolite 306, the powder form of the resin
+mixed by the user. At the present time this is the usual glue used for repairs on timber to
+timber joints.
+
+Glue must always be used in shear. Glue has not much strength when used in
+tension, but used in shear it is simple to obtain a joint that is far stronger than the
+timber. Figure B. should make this clear.
+
+= GLUE
+(2) WRONG : (b) RIGHT
+
+: Figure B
+
+The essential points to observe when gluing are the following:
+
+1. The surfaces must be clean and this means that there must be no fingering of
+the timber after the final sanding of the surfaces, as even traces of perspiration
+
+_from the fingers can spoil the adhesion of the glue.
+
+2. The surfaces must fit accurately. It is difficult to express this in a quantitative
+manner by saying that a feeler gauge of such and such a thickness should not
+go through the joint since timber is a springy material, but the joints must fit
+over the whole area to be glued. If there is any doubt then the surfaces must be
+scraped, sanded or otherwise adjusted until they do fit.
+
+3. The adhesive or resin must be spread on one surface covering it completely,
+and the hardener must be spread over the other surface and the two must be
+cramped together while both surfaces are still wet.
+
+
+--- PAGE 8 ---
+Section 3—Fage 6
+
+4, The joint must be kept cramped and not allowed to shift until the setting time
+has expired. If these points are observed Acrolite glue can be relied upon to
+produce a joint that is far stronger than the timber.
+
+The setting time varies enormously depending upon the hardener used and the
+ambient temperature. At the bottom end of the scale do not attempt to glue at tempera-
+tures below 50°Fahr., though this can be done if measures are taken to heat the glue
+area, At the other end it is possible to cure a glue joint in something of the order of an
+hour at 90°Fahr. . ;
+
+For all joints, unless the workshop temperature is 65°Fahr. or above, it is advisable
+to use heat to cure the glue. This is not so complicated as it might at first appear. For
+a small ply patch the humble hot water bottle can be very useful, while an old electric
+blanket suitably covered with any scrap cloths or blankets can heat quite a large area.
+Radiant electric fires or infra-red heater bulbs of the type used by poultry and pig
+farmers can often be arranged to heat a setting joint, or, at a pinch, par: heaters
+with deflectors to send the heated air over the work will do the job well. As a rough
+guide, if the work feels warm to the touch the heat is sufficient, In all these methods do
+not forget the elementary fire precautions as the average workshop presents a fairly
+serious fire risk at the best of times.
+
+When using Aerolite the joints should be cramped up until the surfaces are held in
+contact over the whole area to be glued. Excessive pressure should be avoided and’
+nothing is gained by cramping up tighter than this. In the old days, using Casein and
+animal glues, the idea used to be to cramp up as tightly as possible, short of damaging
+the timber fibres, but tests have shown that this is definitely injurious to the strength of
+a glued joint made with Aerolite.
+
+The resin can be spread most conveniently by means of a short stick of wood.
+The hardener, being a thin liquid, requires some sort of absorbent spreader. This is
+most easily made by wrapping a piece of felt or cloth round the end of a stick and tying
+it with string. Do not use tacks or nails to fasten it on as the acid will attack these.
+Alternatively a polythene bottle with a felt wick makes a good hardener spreader.
+
+Some people may find that these synthetic resin adhesives cause skin troubles if
+allowed to remain in contact with the hands for any length of time. Water will wash the
+glues away quite easily provided that they have not been allowed to set on the hands,
+but if you do find you have trouble in this way, rubber gloves can be worn for the
+gluing operations.
+
+Keep the resin and the hardener separate at all times. They must never be allowed
+to meet except in the manner described for making a joint. Should any of the hardener
+
+- come into contact with the resin accidentally, then the resin must be thrown away as it
+
+is now contaminated.
+
+Keep the two constituents of the glue in a cool dry place and if using the Aerolite
+300 form of the resin always throw away any glue which is overdate. This overdated
+glue may, of course, be used on odd jobs if required, but it must never be used on
+aircraft work,
+
+Whenever possible quote the batch number of the glue or the Release Note number
+in the log book of the aircraft. This is in your own interest, since it enables the glue to
+be traced back to the tester should there ever be any question as to its integrity. .
+
+Joints must be held in contact while the glue sets and there are two main ways of
+doing this. Firstly by cramps and secondly by facks and tack strips. When using cramps
+do use pressure pads of odd pieces of timber to spread the cramp Joad, otherwise you
+
+_ may well damage the fibres of the timber with the serrated feet of the cramps.
+
+When closing joints by means of tacks and tack strips, use a thickness of ply for
+the strip, something like the thickness of the ply on the repair. This will spread the load
+evenly between the tacks, Use the thinnest tacks that will do the job. Japanned gimp
+pins 4 in. or $ in. long and of 20 or 22 gauge seem to cover most g ider jobs. When the
+giue has set, remove the tacks and strips. The removal of the strips is made a good deal
+easier if strips of cellophane, or polythene, or even paper are used between the ply and
+
+the strip, to prevent the excess glue from sticking the strip to the ply.
+
+
+--- PAGE 9 ---
+Section Page 7
+
+REPAIR PATCH
+
+6.1 CHAMFER
+BRADS CLENCHED OVER
+REPAIR PATCH = ==
+
+SECTION THROUGH FINISHED EA , ORIGINAL PLY
+
+MADAPOLLAM
+DOPED ON
+
+Mlustration 3.3.1, Internal Ply Patch over Crack
+
+
+--- PAGE 10 ---
+Section 3—~Foge &
+
+Although you will always remove the tacks and strips where possible, there are a
+few jobs where it is necessary to tack up and leave the tacks in place. In these cases the
+tacks must be brass tacks. Apart from these special cases, japanned steel gimp pins
+work as well as any and they do not bend over so easily under the persuasion of the
+tack hammer.
+
+When removing tack strips after the glue has set take care not to damage the
+surface of the newly glued joint. If you lift the tack strip off most of the tacks will be
+drawn with it, but a few may be left behind. These must be pulled straight out and not
+twisted out with pliers, or the ply surface will be dented by the edges of the pliers and
+the tack holes will be stretched. Both these defects mar the appearance of the joint and. -
+make the job of restoring a good finish much more difficult. Be particularly careful when
+dealing with gaboon ply as it is very soft.
+
+Chapter 3.3
+PLYWOOD REPAIRS
+
+General Considerations
+
+At the outset, let it be understood that in any wooden structure, if all the damaged
+_limber is cut away and new timber scarfed in, using 12 : 1 minimum scarfing angles (or.
+15: ] in the case of solid members) and all dimensions are as in the original structure,
+and assuming good workmanship and satisfactory gluing, the final result will be as
+strong as the original.
+
+While it is almost impossible to compile a repair scheme to cover every possible
+form of damage that the repairer will ever have to cope with, a number of typical
+repair schemes are set out below and if the above paragraph is borne in mind, it will be
+found possible to work out a repair scheme for almost any sort of damage, though in
+many cases it will be necessary to use part of one scheme and part of another.
+
+The schemes are numbered for easy reference, the first number referring to the
+Section, the second number to the Chapter and the third number indicates the Scheme
+in question. :
+
+Ply can be glued to ply in two ways, either by a Lap Joint or by a Scarf Joint,
+
+Examples of the use of Lap Joint
+Scheme 3.3.1, This is a plain ply patch to repair a crack in a ply panel. Use this method
+where: - ‘
+
+1. The crack is not Jonger than 6 ins. (Longer than this it will be easier to replace
+the panel).
+
+2. You can obtain an overlap of at least 2 ins. all round.
+
+3. The ply is 4 in. or less in thickness.
+
+4, The damage is accessible from both sides.
+
+See illustration 3.3.1 and go ahead as follows:
+Clean up fabric on the outside if necessary. .
+2. Drill { in. diameter holes at the ends of the cracks to prevent spreading.
+3, Cuta patch (a) From the same grade and thickness of ply.
+(b) With the grain in the same direction as the panel.
+(c) Having the required overlap.
+(d) Corner radii of } in.
+“(e) With all outer edges chamfered to 5: 1.
+
+4, Clean the surface of the damaged panel, sanding well, and thoroughly sand the
+patch.
+
+5. Glue the patch centrally over the damage on the inside face of the damaged
+panel, bradding or stapling through if necessary on to pieces of scrap timber,
+to epsure that the patch is held down all over its surface. Alternatively fold the
+
+rads over,
+
+
+--- PAGE 11 ---
+TYPICAL DAMAGE
+
+CORNER RAD i MIN,
+
+SECTION THROUGH
+REPAIR
+
+FINISHED REPAIR
+
+Hhustration 3.3.2, Raised Patch Repair
+
+FABRIC
+
+PLY INSERTION PIECE
+
+UNDER SIDE
+CHAMFERED.
+54
+
+SECTION THROUGH
+
+2"
+r FINISHED REPAIR
+= : £
+
+yo MIN,
+
+INSERTION OF GROMMET
+PASS THE SHORTER WIDTH
+OF GROMMET DIAGONALLY
+THROUGH THE HOLE
+
+Section Pays 9
+
+--- PAGE 12 ---
+Section J—Page 10
+
+6. Clean off excess glue
+
+7. When ithe joint has set, remove the tacks, brads or staples and sand the repair
+smooth.
+
+8. Apply a fabric patch (Madapollam DTD 343) over the outside of the repair, if
+this ig an external surface, and make good the dope work. P
+
+Scheme 3.3.2. Raised Patch for internal ply panels. Use this method where:
+
+1, The ply is } in. thick or less,
+
+2. The repair is not exposed to the airflow.
+
+3. The damage is not greater than 6 in. square.
+
+4, Both sides are accessible.
+
+See illustration 3.3.2 and go ahead as follows: °
+1. Cut away damaged ply leaving corner radii of } in. minimum.
+2, Cutapatch:(a) From the same grade and thickness of ply as the original.
+) With the same grain direction as the damaged panel.
+c) Having an overlap of 2 ins. all round.
+(d) With corner radil of 3 in. minimum and having outer edges
+
+; chamfered to 5:1.
+
+3. Clean all the surface to be glued. ; .
+
+4, Glue the patch in place closing the joint with brads, tacks or staples if necessary
+driving these through in to pieces of scrap timber to ensure that the patch is
+held down securely over its whole surface. Alternatively fold the brads over
+across the grain.
+
+5, Clean off excess glue.
+
+6. When the joint has set remove tacks, brads or staples and any tack strips, odd
+pieces of scrap timber and sand the repair smooth,
+
+Scheme 3.3.3. Flush Butted Insertion repair. Use this method where:
+The ply is } in. or fess in thickness.
+Not Jarger than 5 ins. across the grain or 74 ins. along the grain.
+Exposed to the airflow. .
+Accessible from both sides. (Note: this repair can be done even if only one side
+is accessible, In this case, though, special means will have to be taken to cramp
+up ve Brommet and the ply insertion patch may have to be held in place by
+straps.
+See iHlustration 3.3.3 and go ahead as follows:
+1. Cut away fabric and clean up the hole to a rectangular shape with corner radii
+} in. minimum. (Note: diagonal of hole must. be greater than shortest side of
+grommet, if the repair is accessible from one side only.)
+2, Cut a plywood grommet: ;
+(a) From the same grade and thickness ply as the panel.
+@ To give overlaps of 1} in. minimum and corner radii of } in.
+c) Outer edges chamfered to 5:1. .
+Cut ; plywood insertion piece to fit the hole accurately, grain and thickness as
+panel. ;
+Clean up the inside of the panel and the grommet and glue the grommet on the
+inside of the panel. Allow the glue to set.
+Glue the insertion piece into the hole.
+Clean up the job when the glue bas set, apply stopper if necessary, rub: down
+smooth and dope on a fabric patch (Madapollam DTD 343) on the outside of
+the job.
+
+! NOTES ON THE USE OF SCHEME 3.3.3: This is a very useful repair scheme for many jobs,
+f However, think before you use it. It is often as easy to replace a ply panel complete to
+: the next frame and this is a lighter job. For small jobs, the grommet can be solid and
+' not cut out, but this makes gluing in a little more difficult, as you cannot put cramps
+| through it to hold it in place while the glue is setting.
+
+aYyr
+
+ay PF Y&
+
+
+--- PAGE 13 ---
+Sectos 3—Pape 11
+
+PRUCE REINFORCING MEMBER’
+
+§.1 CHAMFER
+ON EDGES
+AB, GD,
+
+Mlustration 3.3.4. Flush Butted Insertion Repair
+across Member
+
+OLD SCARF RUNNING
+THE OTHER WAY,
+
+REPAIR PATCH
+
+?
+
+OR 4T
+* WHICHEVER
+iS GREATER
+
+REINFORCING BACKER
+
+“REPAIR PATCH
+
+Wi2xT
+
+Mustration 3.3.5, Detuils of Scarfing Ply
+
+
+--- PAGE 14 ---
+Section 3—Page 12
+
+The shape of the hole can also be almost anything you like, provided you can get the
+. required overlap and that you can get the grommet through the hole. A straightsided
+hole with semi-circular ends is easy to shape, as the ends can be cut with a sharpened
+pair of dividers. Properly done this flush insertion repair is quite invisible after cleaning
+up, stopping and doping.
+
+Scheme 3.3.4. -Flush Butted Insertion Repair across Member
+
+1. This is the same job as Scheme 3.3.3, except that it is adapted for use where the
+
+damage is over a member.
+
+2. The member must be less than I in. wide and, if damaged, must be repaired ”
+by scarfing in a spruce insert at 15 ; 1 splice angle before the ply repair is started.
+The grommet is made in two pieces so that it fits on each side of the member,
+
+4, Spruce reinforcing members are glued to each side of the member so that they
+
+support the edges of the half grommets. These members are } in. thick, extend
+beyond the ends of the half grommets and have their ends chamfered off at 5 : 1,
+
+For general instructions see Scheme 3.3.3 and read in conjunction with illustration
+3.3.4, Do not use this Scheme for damage over 6 ins. square or the weight penalty will
+be considerable. In these cases it is better to replace the panel with new ply. Do not use
+. this scheme on ply over 4 in. thick. :
+
+»
+
+Scarfing Repairs in Ply
+See illustration 3.3.5
+The basic rules for scarfing ply are as follows: ;
+
+The panel and the insert to go in must be scarfed accurately to an angle of 12:1
+(Sketch A). The scarf must be supported over at least three quarters of its width but
+preferably over the whole width. This is necessary to allow the brads, tacks or staples
+to hold the scarf closed while the glue sets (Sketch C). Failure to ensure this will result
+in poor gluing. Reinforcing backers must be glued in if necessary to provide this support.
+It is, of course, possible in some cases to fit temporary backers.to scarfs which can be
+removed after the glue has set and this is quite acceptable practice. It means that the
+joint must be accessible from both sides and care must be taken to ensure that the
+temporary backers are absolutely rigid otherwise they will not do their job (Sketches B,
+Cand D).
+
+When cutting away ply for the replacement of a panel, do not cut right back to the
+frames or ribs without thought. First cut away énough ply to enable you to measure the
+width of the frames, ribs, etc., and then you will know if you need to fit reinforcing
+roembers to give you the support over the three-quarters width of the scarf. If you need
+to fit these members it is much easier to fit them on the side of the frame or rib that you
+ean see, rather than to have to fit them round at the back.
+
+The support for the scarf must run right up to the edge of the inner feather edge,
+otherwise it is almost impossible to cut a good scarf, and it is equally difficult to ensure
+proper closing of the joint. (Skefch B). Make plenty of trial fits of the patch and do not
+glue it in until you are satisfied with the fit.
+
+To glue the ply in, it must be held in position and the best way to do this is to use
+tack strips. These are strips of scrap ply of about the same thickness as the panel to be
+glued and the width of the scarf or thereabouts, If using tacks it is best to tap the tacks
+into the strips, so that all that is needed is to put the strip in place and drive the tacks
+home. Alternatively if you are using a stapler you can put the ply strip in place and staple
+it down. The tacks or staples must run into timber behind the ply. It is no use whatever
+trying to hold scarfs together by driving tacks or staples into thin air. Try to get the scarf
+closed with as little hammering as you can. Too much hammering tends to pump the:
+glue out of the joint and let air in, both of which should be avoided. .
+
+Note the shuffling time allowed by the hardener and the temperature. This gives
+yau a clue as to the best hardener for the job. Large jobs need slower hardeners generally,
+as you will take longer to tack them up. In extreme cases think whether it would not be
+
+
+--- PAGE 15 ---
+Section 3—Page 13.
+
+naa SECTION THROUGH FINISHED REPAIR
+
+3/4W]| REINFORCING MEMBER
+TO SUPPORT GROMMET
+
+BACKER TO BRING
+WIDTH UP TO 3/4 W.
+(CAN BE FITTED
+
+EITHER SIDE) .
+
+.
+
+‘
+
+H
+
+é
+
+t
+
+INSERTION ‘
+PATCH Ww
+
+{PLY GROMMET
+
+SPRUCE REINFORCING MEMBER
+Hlustration 3.3.6. Spliced and Butted Repair to
+Ply Panel
+
+DETAIL OF BRACKET
+
+$x CORNER BLOCK
+GLUED IN
+
+Ilustration 3.3.7. Renewing a Portion of a Large
+Panel
+
+
+--- PAGE 16 ---
+Section 3—Page 14
+
+better to recruit help in tacking up. Two or three people can tack ina large panel ina very
+short time and this may be necessary in the heat of Summer.
+
+Frequently you will have to scarf at a point where there already is a scarf joint. If
+the direction of the new scarf is the same as the old then there is no problem. Cut down
+the old glue line, clean off the glue to raw wood and fit the patch. If the old scarf runs
+in the other direction simply ignore it and go ahead as if the old scarf were not there,
+The resultant joint will be amply strong (Sketch E).
+
+When scarfing the patch to be fitted, secure it to the bench with cramps or tacks,
+with the edge to be scarfed exactly flush with the edge of a piece of planed wood,
+
+referably hardwood. This will enable you to cut the scarf without damaging the
+eather edge (Sketch A).
+These points are shown in the various sketches of illustration 3.3.5.
+
+Scheme 3.3.6. Spliced and Butted Repair to Ply Panel.
+This is a variety of Scheme 3.3.3 and Scheme 3.3.4, and is useful where the damage is
+close to a member. The same general considerations apply.
+
+Remember that the thickness of the member must be at least three quarters Ww’,
+where ‘W? is the width of the scarf. If necessary the member must be built up to this
+thickness by means of spruce re-inforcing members. These re-inforcing members, if used,
+must have their ends chamfered off at an angle of at least 5: 1.
+
+See illustration 3.3.6 and go ahead as follows:
+1, Clean out the damage and measure the thickness of the ply.
+
+2, Measure the thickness of the member and if this is less than three quarters the
+width of the scarf, then make and fit a reinforcing block to bring the thickness
+up to this, (This is easier to fit on the side that you can see, so do not cut right
+back to the member without thought).
+
+3. Scarf the ply at edge ‘D’ to 12:1.
+
+4, Make the grommet as in Scheme 3.3.4 and glue it in, fitting spruce reinforcing
+members fo support the edges, Make the plywood insertion piece as in Scheme
+3.3.4, scarf the edge and glue it into place.
+
+5. When set, remove tack strips, stopper up the repair as necessary and dope on
+a Madapollam patch as in Scheme 3.3.4. ~
+
+Note: Any damage to the member must be repaired by insertions of spruce it
+13: 1 splicing angle before the ply repair is begun.
+
+Scheme 3.3.7. Renewing a Portion of a Large Panel.
+Use this method for extensive damage which:
+(a) does not involve the whole panel. .
+(b) Requires a portion of a panel to be removed to obtain access to damage
+; ehind it.
+See illustration 3.3.7 (and 3.3.5) and go ahead as follows:
+1, Cut away the damage, and examine the thickness of the members surrounding
+’ the hole, to determine if any reinforcing members are needed to bring the
+thicknesses up to 2°W" (the width of the scarf),
+
+2. If any re-inforcing members are needed, glue them. into place before cutting
+back the edges of the hole.
+
+3. Make and glue in the support member of the edge ‘D’ of a width of "BW", the
+width of the scarf, minimum and T in. deep (or 4°T’ whichever is the greater, ‘T’
+being the thickness of the ply), Fit support brackets or corner blocks to the ends
+of this member.
+
+4, Scarf all the edges to 12: 1 angle.
+
+5. From ply of the same thickness and grade as the original panel, cut a patch
+to fit the hole and scarf all the edges to 12: 1.
+
+
+--- PAGE 17 ---
+DETAIL OF 4 PLY
+SUPPORT BRACKET
+
+IMustration 3.3.8. Ply Leading Edge Repair
+
+Section J—Page 15
+
+
+--- PAGE 18 ---
+Sectloa 3—Page 16
+
+6. When satisfied with the fit of the patch, glue it in.
+7. When set remove all tacks, tack strip and dope a fabric patch (Madapollam
+DTD 343) over the repair.
+
+Scheme 3.3.8, Ply Leading Edge Repair.
+Use this method where the damage does not warrant replacing the ply round the lead-
+ing edge from the top to the bottom boom of the spar.
+Do not try to make the scarf joints in the sharply curved portion marked ‘Y’ in
+the sketch. All scarf joints should be in the portions ‘X’ or ‘Z’.
+See illustration 3.3.8 and go ahead as follows: . .
+1. Cut away fabric and damaged plywood to ribs such as ‘B’ and ‘D” spanwise
+and to lines such as ‘A’ and ‘C’.
+2. Clean up the edges ‘B’ and ‘D’ and pack the ribs out to 3W, if the ribs are not
+already this thickness. . ;
+3. Cut reinforcing members }W wide and § in. thick of spruce and make the
+support brackets or corner blocks. Glue these in to support the free edges of
+the ply at ‘A’ and ‘C’.
+Scarf edges ‘A’, ‘B’, ‘C’, ‘D’ to an angle of 12: 1,
+Cut an insertion panel from the same grade and thickness of ply as the original
+structure and with the same grain direction. This is particularly important.
+Many gliders have diagonal grain ply on the leading edges.-Scarf all the edges
+to an angle of 12: I and fit the panel accurately.
+6. Glue and brad or staple the panel into position.
+7. When set remove all tacks, brads or staples, clean the repair up, and dope a
+fabric patch Madapollam DTD 343 over the repair, with an overlap of 2 in.
+all round and edges frayed for #4 in.
+
+Notes ON SCHEME 3.3.8: If thé curvature of the panel is great, it may be necessary
+to preform the panel. This is best done by steaming the panel or soaking in hot water
+and then strapping in place and allowing to cool. Do this before scarfing the edges ‘A’
+and ‘C’ of the insert or you will ruin them. When dry and formed roughly to shape,
+scarf the edges ‘A’ and ‘C’, Make sure that the panel is quite dry before gluing in.
+
+If the wing has a leading edge member, you can scarf on to it only if the curvature
+is gentle enough to allow it. This must be judged taking the thickness of the ply into
+account and also whether you are working on a straight grain or diagonal ply.
+
+You may cross severa! ribs in this repair if necessary. The only !imitation is the
+size of the sheet of ply from which you cut your repair panel.
+
+If the damage is fairly extensive, consider whether it would not be easier to scarf
+right back to the spar boom on one or both edges. This avoids the operation of fitting
+the reinforcing members on edges ‘A’ and ‘C’ but uses up more ply. Note that if a Jarge
+piece of leading edge ply is removed, care must be taken to ensure that no twisting of
+the spar is permitted while the wing is open. It may be necessary to put the wing into
+a jig to prevent this, and a clinometer should be used frequently to make sure that no
+
+twist is being built in, as the’ leading edge ply is replaced.
+
+we
+
+Scheme 3.3.9, Renewing a Large Panel.’
+A large panel can be replaced by using Scheme 3.3.7, with the exception that the
+damage is cut away to existing members that are undamaged or which have been re-
+
+: paired. In this case there is no need to fit a reinforcing member to an unsupported edge,
+
+ut care must be taken to ensure that there is }‘W’ thickness at each of the edges. If the
+members are not of this thickness, then backers will have to be fitted to bring the thick-
+ness up to this. No illustration is provided for this scheme as it uses the techniques of
+illustration 3.3.7.
+
+Notes: Think well how long it is going to take you to tack or staple up the panel.
+If the temperature is high, it may be necessary to recruit help to get it tacked up within
+the permitted shuffling time. Do remember foo, to make sure that the panel is glued to
+
+
+--- PAGE 19 ---
+retentions nds be
+
+Sectlon 3—Page 17
+
+any members that cross the hole. The position of these must be marked on the panel
+and tack strip must be prepared for all these glue lines. As a help, when fitting a large
+panel, to getting the scarfs accurate, drive in a few tacks half-home, say one at each
+corner, and then clip off their heads. The panel can then be lifted off the tacks for
+adjustment and then refitted carefully, by slipping it back over these tacks into exactly
+the same position. Two or three trials and you can get the fit right. These ‘positioner’
+tacks also guarantee that the panel goes into exactly the right position when you glue
+it in. They can be drawn easily enough when you come up to them with the tack strip.
+
+Chapter 3.4
+
+SOLID MEMBER REPAIRS
+
+General Notes .
+In gliders built of wood, the main load carrying members are usually made of spruce
+or one of the spruce substitutes, and if there should be any doubt in the repairer’s mind
+as to which timber has been used, he should refer to the manufacturer. In many cases
+it will be found that apparently solid members are, in fact, laminated out of several
+thicknesses of spruce. This has two advantages: one, in the case of large sections, the
+final result is less likely to contain any local weaknesses and two, it is easy to obtain
+sharply curved shapes by building up with laminations, and to keep the grain direction
+running along the member. ; -
+
+Now when repairing solid members, laminated or not, bear in mind the angle of
+15:1. This is not only the angle at which you must scarf the joints, but it is also the
+
+. maximum angle at which the grain direction may lie to the length of the member. Any
+
+repair must satisfy both these requirements.
+
+It is often not easy to determine the direction of the grain in a piece of spruce. Do
+not be misled by the ‘flower’, or pattern of the sections of the annual rings as they appear
+on the surface of a piece of cut spruce. This can be very misleading. If there is any
+doubt in your mind, put a spot of ink on the wood surface and watch for the lines that
+show up as the ink runs along the grain.
+
+Laminated members can usually be treated as solid and repaired by solid inserts if
+necessary, but you must always check to see that the 15 ; 1 rule is not being broken,
+By this is meant that, when you come to splice in an insert of spruce, into the curved
+surface of a frame in a fuselage, you will find that there is a limit to the length of insert
+that you can putin. A short insert will give you your 15 + { scarfs and the grain direction
+can be arranged to run more or less parallel to the scarf line. Try to fit a longer insertion
+in, and you soon find that it is impossible to keep within the 15 : 1 limit on both scarfs,
+and the centre line of the member. The grain direction is bound to run shorter than
+15: 1 somewhere. In this sort of case the easy way out is to Jaminate a piece of spruce
+to make a short length of member of the right curvature and the right section. The rest
+is simple. Cut your 15 : I scarfs and glue the insert in. Since the insert itself is laminated
+the grain direction will run along it everywhere, so there is no question of finding a
+place where the grain inclination is fess than 15:1, To make the laminated piece is
+not as difficult as it might seem. It is not necessary to get exactly the right curvature
+or section when laminating up. If you will allow yourself a little extra when Jaminating
+the thing up, when you come to clean the job wp after gluing, you can true the thing
+down to size. Often when making a piece for a frame insertion, you can strap the bunch
+
+Mlustration 3.4.1, Lap Joint Repair to Rib Boom
+
+
+--- PAGE 20 ---
+Sectlon 3—Page 18
+
+of laths, that you are using to laminate the new insertion, direct to the old frame and
+thus take the shape for the new piece from the old, Care must be taken, of course, to
+ensure that plenty of greaseproof paper is used in this case, so that the new piece does
+not adhere to the structure while it Is setting.
+
+In general, all repairs to solid members are made by the use of scarf joints. Very
+occasionally there are some trivial repairs which can be dealt with by lap joints. Illustra-
+tion 3.4.1 shows a case of this. ;
+
+The patch piece is made of the same section as the rib boom, the parallel portion
+being at least ten times the thickness of the boom, and the ends of the patch piece must
+be chamfered down at an angle of 5:1. This is a satisfactory sort of repair for this
+' job, but its disadvantages are obvious. The job is heavier than before, and the boom
+stiffness has been greatly increased at this spot. Not very important points, perhaps,
+in a rib boom, but we must not allow this sort of thing in the more important structural
+members of the glider. :
+
+When closing and gluing the scarfs in solid spruce members, the same tules apply
+as in the case of ply scarfs. The joint must be held in contact all over the joint and not
+allowed to move until the glue has set. For this purpose you will need to use some sort
+of cramp, and most workshops have a large selection of various sizes of ‘G’ cramp.
+When using these ‘G’ cramps never put them straight on to the timber. If you do you
+_ will almost certainly crush some of the fibres, and this is the equivalent of putting in a
+compression shake. Always put a piece of scrap timber between the cramp and the job.
+This way you spread the load and do not damage the timber of the repair. You will
+need a lot of these ‘G’ cramps as they are most useful, and many jobs cannot be done
+without them. Do not try to tack up solid splices. Tacks are just not up to this sort of
+work, and if you try anything heavier, you stand a good chance of damaging the timber,
+Tacks can be useful for another purpose though. Frequéntly the job of positioning the
+bits is difficult while gluing up, and a tack or two can be helpful here. Preferably use
+them as described above when discussing ply repairs, i.e. drive them lightly in and then
+clip off their heads. The insertion pieces can then be lifted off, and replaced, as often
+as you like, while fitting up and adjusting the scarfs, and you do ensure that they go back
+into exactly the same position every time. When you are satisfied that the fit is correct,
+you can cramp up the glued joint and draw out ihe positioner tacks as you come fo them.
+
+In the past it has been the practice to reinforce over the uncovered feather edge of
+a splice, by gluing on a spruce member of } T thickness (where T is the thickness of the
+member) to carry the load over the feather edge. There was also the idea that the feather
+edge might start to lift and allow a crack to run in. Modern experience has shown that
+this practice does more harm than good. Present day adhesives have such a vast gluing
+power that these reinforcers are quite unnecessary. More, they do actual damage, since
+they form local stiffenings at the places where the splices are made and this simply asks
+for compression shakes to start up at the ends of the splices. Several cases of this happen.
+ing have occurred recently, yet in no case has a properly made 15 : 1 splice shown any
+sign of opening. Indeed, it would be surprising if one did, since all tests show that
+Acrolite glue has a strength far in excess of that of timber.
+
+The workmanship in making these splices must be good. This does not mean that
+a repair man has got fo have some fantastic skill to make a good scarf. Anybody can do
+it provided that he is prepared to take trouble over it. The scarfs must really fit and they
+must be scraped, chiselled and sanded until they do fit. The only real difference between
+the skilled and the unskilled repair man is that the skilled man is so used to the job
+that he can produce a splice with three or four strokes of'a plane which takes the un-
+skilled man a whole morning to produce. :
+
+In the case of ply scarfs we saw that we may cross an old scarf with a new one.
+This is no? permissible in scarfs in solid spruce members. In solid members we can
+place the scarfs anywhere we like so there is never any trouble in avoiding previous
+scarfs: while ply scarfs have to be made at frames or other places where there is sufficient
+support. Scarfs in solid members must never overlap other scarfs and this is where a
+little study of the log book of the glider may save you a lot of trouble. If you are going
+
+
+--- PAGE 21 ---
+Sectlon 3—Page /9
+
+to scarf something which is ply covered, have a look in the log book first. Somebody
+may have already scarfed the piece you are going to repair and, if you can find out where
+the’scarf is, you can avoid a lot of work. If you wade in without thought, you may well
+find that this old scarf comes right in the middle of your repair, and you have then to
+do a lot more cutting back to get your scarfs clear of the old one. When you have done
+the job, think of the next man, and write up the particulars in the log book, specifying
+where you have put the scarfs, In the case of spar booms, it is a very good idea to glue
+on to the web a tiny diamond shaped piece of ply, about § in. long, over the centre
+line of the splice as a further reminder. This of course applies to box spars where the
+splice cannot be seen until the box is opened up. . ; .
+Finally, at the risk of being repetitive, let it be said again that nothing, except
+approved materials, glue, timber and ply may be incorporated into the structure of a
+olider, and the proof of the use of approved materials must be supplied, in the form of
+the Release Note numbers in the log book when the repair is written up and signed by
+the Inspector. :
+
+DAMAGE
+
+Mlustration 3.4.2, Repair of Minor
+Damage to Solid Members
+
+INSERT FITTED, GLUED IN AND
+PARED DOWN TO ORIGINAL
+
+Scheme 3.4.2. Repair of Minor Damage to Solid Members.
+Use this method where:
+
+1, The member is not ply covered. .
+
+2. The bruising or damage is not more than } of the minimum depth of the member.
+
+3. There is no sign of compression shake.
+
+4. The 15: 1 rule can be complied with, °
+
+See illustration 3.4.2 and go ahead as follows:
+
+1. Pare down the damaged area to a flat surface.
+
+2. Taper out the step in-the member to 15: 1.
+
+3, From a piece of spruce prepare the insert with splices running out at 15: 1
+at the ends and fit this accurately to the prepared surface of the member. Do
+not, at this stage, cut the insert down to size.
+
+4, Glue and cramp the insert into place.
+
+5. When the glue has set, remove the cramps and carefully shape the insert down
+to the original dimensions of the member.
+
+6. Restore any protective treatment to the same standard as the original member.
+
+Notes ON SCHEME 3.4.2: In certain circumstances this repair can be used on ply
+covered members. The ply must be removed, to enable the member to be repaired, and
+
+
+--- PAGE 22 ---
+Section +--Pape 20
+
+after this is finished, new ply must be scarfed in at an angle of 12 : 1 to restore the ply
+panel to its original state. The important thing is to see that spruce does not replace
+
+ly or vice versa, The ply will have to have backers fitted to all the scarfs, unless it can
+be cut back to members which supply the necessary 3 width of scarf support. The latter
+course frequently saves time and weight though it does mean a larger piece of inserted ply.
+
+Scheme 3.4.3. Insertion Repair to Solid Members, Longerons, etc.
+
+Use this method where the damage is greater than can be dealt with by Scheme 3.4.2.
+
+Remember that frames must not be cut away to accommodate repairs, Frequently you
+
+will have to make the splices in two separate bays to get the necessary 15 : 1 splices.
+
+See illustration 3.4.3 and go ahead as follows:
+
+1. Cut away ply as required to pain access to the damaged member.
+2. Cut out the damaged part of the longeron, making’ sure that all the damaged
+timber is removed.
+
+Scarf the ends down at 15: 1 angle. ;
+
+From a piece of spruce of the same section and grade as the original longeron,
+
+make an insertion piece with ends scarfed off at 15 : 1 angle and tool this to
+
+fit accurately.
+
+5, Glue the insertion piece into place, using cramps and pieces of scrap timber as
+load spreaders, Note particularly that cramps must not be applied directly to
+the joint, or the feet of the cramps will crush the timber fibres. .
+
+6. When the glue has set, remove cramps and scrap timber, clean the joint up and
+replace the ply, if any, using a suitable scheme from Chapter 3.3.
+
+7. When any ply repairs have set, clean up the repair and make good any fabric
+work with a patch of Madapollam DTD 343.
+
+paPed
+
+Mlustration 3.4.3. Insertion to Solid Members, Longerons, etc.
+
+Notes on SCHEME 3.4.3: Sometimes it is convenient to glue in the insert before
+finishing it to size. This applies where the insert does not run through a frame. If it does
+run through a frame then, of course, it must be finished to size and accurately fitted to
+the notch in the frame before gluing wp. It will need to be cramped or otherwise held
+into the frame while the glue is setting. Thin pins, preferably brass, may be used for
+this but in general avoid pinning if cramping can be used.
+
+Do not fit reinforcing blocks. They cause more trouble than they save. Rely on
+accurately fitting splices and make sure that the joint is correct for cross section all over
+the repair. A small caliper gauge of the vernier type is useful for this.
+
+To avoid the possibility of the scrap timber sticking to, the repair, it is sometimes
+helpful to wrap the scrap pieces in greaseproof paper or newspaper. Any adhering bits
+of paper can easily be sanded off.
+
+
+--- PAGE 23 ---
+Sectla }—Page 21
+
+DAMAGED AREA
+ee
+
+INSERTION PIECE
+GLUED IN
+
+INSERTION PIECE PARED
+DOWN TO SHAPE
+
+Ifustration 3.4.4. Repair of Minor Damage
+to Laminated Member
+
+LAMINATED
+INSERT
+GLUED IN
+
+15T
+
+INSERT SHAPED
+DOWN TO SIZE
+
+Jlustration 3.4.5. Insertion Repair to
+Laminated Member
+
+
+--- PAGE 24 ---
+Section +—Page 22
+
+Scheme 3.4.4. Repair of Minor Damage to Laminated Member,
+
+Use this method where cutting away the damage to the member in a straight line crosses
+the glue lines of the laminations, ad the grain of the timber at less than 15 : 1.
+
+See illustration 3.4.4 and go ahead as follows:
+
+Remove any ply necessary to get at the damage,
+
+With a straight edge, pencil the line which will remove all the damage.
+Examine the angle at which this line crosses the laminations and if less than
+15:1 plane down to a straight line to give a perfectly flat surface.
+
+From a piece of spruce of the same grade as the original prepare an insertion ©
+piece and tool the surfaces to fit. Do not at this stage shape the insertion piece
+to exact size. ;
+
+Glue in the insertion piece, cramping as necessary and using scrap timber load
+spreaders. .
+
+When the glue has set, remove cramps and carefully pare down the insertion
+piece to the exact size of the original member.
+
+Replace any ply removed using a suitable scheme from Chapter 3.3.
+
+Clean up the ply repair and patch with Madapollam DTD 343.
+
+ff wNOr
+
+Note ON SCHEME 3.4.4: This scheme can only be used on the outside of frames,
+i.e. the convex edge.
+
+Scheme 3.4.5. Insertion Repair to Laminated Member.
+Use this method where the damage is such that scheme 3.4.4. cannot be used, either
+because the member is broken or the 15 : | rule cannot be met. ve
+See illustration 3.4.5 and go ahead as follows: .
+1, Remove ply as necessary to get at the damage. ve
+2. Cut out the damage to the laminated member and scarf,the ends to an angle of
+15:1. This scarf may be made in either plane but it,is*easier generally to scarf
+in the direction of the flat surfaces of the member.”
+
+3. Make vp a laminated insertion piece. Sometimes a jig must be constructed to
+glue up the laminations, but frequently the.tiisert can be glued up, using a piece
+of the adjacent structure of the glider‘to get the shape required. Make the
+insertion piece somewhat oversize to start with, unless it has to pass through
+or fit any other parts of the structure. Scarf the ends at 15 : 1 and tool the scarfs
+until they fit. . ;
+
+Glue in the insertion piece, using cramps and scrap timber load spreaders.
+When the glue has sei, remove cramps and pare the insertion piece carefully
+to size.
+
+Replace any ply removed, using a suitable scheme from Chapter 3.3,
+
+Clean up the repair and patch with Madapollam DTD 343.
+
+e
+
+Na wes
+
+Notes oN SCHEME 3.4.5: Often you will find that one side of a laminated frame
+member is glued to a ply web. If this web is undamaged then you can go ahead as above,
+but you will have to fit the edge of the laminated insertion piece to the web, as well as
+fit the scarfs together before gluing up. This should not present much difficulty. If the
+web is damaged, it is usually easier to repair the frame first, and then repair the ply
+web afterwards, using any suitable scheme from Chapter 3.3. If the frame should have a
+ply web on both sides, then one side will have to be cut back sufficiently to let you get
+at the job. Obviously if one web is damaged then you will cut that one away, so that
+you do not have to repair both webs. Unless the curvature is very small, it is better to
+scarf the parallel sides of the member, Otherwise you will find that the scarf angle runs
+steeper than 15°: 1 at one end. Reference to illustration 3.4.4 should make this clear.
+At the middle of the insertion piece the scarf angle is zero, but it increases steadily
+towards the ends of the scarf and, of course, the maximum angle permitted is 15 : 1
+at the ends.
+
+
+--- PAGE 25 ---
+Section 3—Page 23
+
+INSERTION PIECE
+SCARFED IN
+
+Mlustration 3.4.6, Rib Boom Repatr
+
+PREPARED INSERTION
+
+——
+<i
+mee
+
+* FINISHED REPAIR
+
+Mlustration 3.4.7, Insertion Repatr to
+Trailing Edge Member
+
+
+--- PAGE 26 ---
+Secthon 3—Page 24
+
+Rib and Trailing Edge Repairs
+
+The ribs in the wings of most wooden gliders are simple lattice work girders, made of
+small section spruce members joined by ply gussets. Should any of the diagonal members
+of a rib be damaged, the repair is obvious and requires no illustration. Simply remove
+the gussets as necessary, cut a new spruce member of the correct section and length,
+glue it in and glue on a new gusset of ply. When doing any rib repairs it is important
+that the correct shape of the rib is preserved and to ensure this, it is often a good plan
+to place a straight edge across the damaged rib and several good ones. This at once
+shows up any fault in the shape of the damaged rib and the fault can be corrected
+before gluing in the new members and gussets.
+
+In the general notes at the beginning of this Chapter we did touch on the repair
+of ribs, when discussing the occasional use of lap joints in solid member repairs, and
+illustration 3.4.1 shows a lap joint used to repair a rib boom. The disadvantages of this
+sort of repair were pointed out in the text. The craftsman will prefer to make a proper
+job of this kind of damage and the following scheme gives an example of how to do it.
+
+Scheme 3.4.6, Rib Boom Repair.
+
+Examine the damaged boom to make sure how far the damage extends. Frequently a
+compression shake in the middle of a boom member is accompanied by similar shakes
+at the next gusset. ;
+
+See illustration 3.4.6 and go ahead as follows:
+
+1, Remove sufficient fabric to let you get at the damage.
+
+2, Cut out the damaged section of boom, removing ply gussets as necessary. Note
+that if there is a gusset on each side of the boom, you can often get away with
+only removing a gusset on one side, and this has the advantage that the rib
+retains its shape because the diagonals are still glued.
+
+3. Scarf the ends of the boom to 15: 1 angle.
+
+4, From a piece of spruce of the same section and grade as the original, prepare
+an insertion piece and scarf the ends of this to 15 : 1 angle. Tool the scarfs to fit.
+
+5. Glue in the insertion piece, and glue on any new gussets, and check the rib
+for shape with a straight edge across the neighbouring ribs. Pull the rib into
+shape if necessary before the shuffling time allowance of the glue expires.
+Cramp up.
+
+6. When the glue has set, remove cramps, clean up the joint and make good the
+fabric and dope work, patching the hole with the same grade of fabric as used
+on the rest of the wing and doping up to the same doping scheme. ;
+
+Notes ON SCHEME 3.4.6: This is frequently fiddling work, as the section of timber
+used for ribs is often quite small. However, to hold these scarfs while the glue is setting,
+you will find that the office type of Bulldog clip can be very useful. Also the spring type
+of clothes peg can be used for these jobs and this has the merit that it can be bought
+anywhere at about 6d. per dozen. Care has to be taken when scarfing these tiny sections
+as the ends are very easily broken. A really sharp chisel will, in skilled hands, produce
+the scarfs very quickly with one or two strokes. ;
+
+Scheme 3.4.7, Insertion Repair to Trailing Edge Member
+On some aircraft the trailing edge member is a simple shaped piece of spruce, and in
+this case the insertion repair presents no problems and is identical to Scheme 3.4.3.
+More usually, however, the trailing edge member consists of a spruce member into
+which is glued a strip of ply. The ply is set into a saw cut in the spruce, and gives great
+stiffness in the direction of the pull of the fabric. To make a satisfactory repair, both
+the ply wood and the spruce must be repaired and the two must be properly ged
+together. Any length of trailing edge may be scarfed in, but if there is much damage,
+consider well whether it is not quicker to renew the whole trailing edge member.
+See illustration 3.4.7 and go ahead as follows:
+
+1, Cut out the damaged portion of the trailing edge, removing it from any ribs
+
+carefully to avoid damaging the ribs.
+
+
+--- PAGE 27 ---
+Section J—Page 25
+
+Scarf off the ends of the member at 15: 1.
+
+Make up a section of the trailing edge member by sawcutting a piece of spruce
+and gluing in a strip of ply. Leave the spruce a little oversize for the time being.
+When this glue is set, scarf off the ends, spruce and ply, to 15 : | angle.
+Glue and cramp the insertion into position, gluing it into any intermediate ribs.
+When the glue has set, remove the cramps and pare the spruce down to size.
+Make good any fabric and dope work.
+
+Notes on SCHEME 3.4.7: An alternative to this plan is to make the spruce section
+in two halves. One half can be spliced in, and then the ply can be repaired, by cutting
+back the other half of the spruce to allow a 12 : 1 ply scarf. When this has set, the second
+half of the spruce can be scarfed off, and an insertion piece prepared and glued in. This
+method takes longer than the one described, as it involves three separate gluing opera-
+tions. . ;
+
+A good craftsman will prepare some few feet of trailing edge member for the
+various machines in his charge so that, as soon as one machine suffers damage, he has
+a piece ready to be cut and scarfed in. The ply scarfs, of course, are unbacked in this case,
+but this does not matter, because the scarfs can be cramped up with blocks each side,
+and a perfect glue joint can be guaranteed. After setting has taken place, the cramps
+and blocks can be removed. Most people will find that it is a great help to cramp a
+block behind the free edge of the ply while cutting the scarf, otherwise it is only too easy
+to break the edge of the ply.
+
+Many aircraft do tend to bend their trailing edges over the years, due to the tension
+of the fabric. In these cases, it is a good plan to renew the trailing edge member when
+re-covering the wing with new fabric, If this is not done, the trailing edge will bend even
+more when the new fabric is doped up and you will.end up with a sort of scalloped effect.
+
+Chapter 3.5
+BOX MEMBER REPAIRS
+
+NAME WY
+
+General Considerations
+
+_ Many spars of gliders, and a few other members, are made by gluing together spruce
+
+booms and ply webs to form a box member. These are some of the most important
+components of a glider, so the most scrupulous attention to accuracy and quality of
+workmanship is needed. The work involved in repairing these items really falls into two
+categories, the Spruce repairs and the Ply repairs, All the spruce repairs must be made
+with scarfs of 15 : 1 minimum angle, but the ply repairs may be made with 12 : 1 scarfs.
+In some aircraft the webs of the spar (the plywood facings) do not run right up to the
+top and bottom edges of the booms, but are cut back some ¥ in. This is done to ensure
+that if there should ever be any shrinkage of the timber of the boom, the leading edge
+ply will not be forced off the boom. This is not very much used these days, but if you
+come across this form of construction, it is vital that you follow the original plan in
+any repairs and do allow this small clearance.
+
+See illustration 3.5.1.
+
+LEADING EDGE SKIN PLY
+
+
+--- PAGE 28 ---
+Seetlon 3-—Page 26
+
+Patch repairs should be avoided wherever possible. This is because, in the case of
+glider spars, no alterations fo the stiffness of a section of spar must be made. Attempts
+to make a spar stronger than it ought to be, only result in the load being transmitted
+(owing to the greater stiffness) on to the nearby portions of the spar and these, in conse-
+quence, bear a larger load than they are designed to bear. The net result is a spar which,
+as a whole, is weaker than it ought to be. Sudden changes in section also breed com-
+pression shakes, The section of timber in this sort of repair is somewhat larger than the
+usual glider repair job, and cramping becomes a little more important. Joints must fit
+before they are glued up, but sufficient pressure must be exerted to close the glue line
+properly. Cramps must never be applied direct to the timber. To do so is to crush
+the fibres of the timber for a certainty. Scrap timber load spreaders must always be used
+between the cramps and the job.
+
+Repairs to spars of gliders nearly always mean that there is some risk of the shape
+of the wing altering, unless means are taken to prevent this happening. As soon as a
+
+iece of leading edge ply is removed, the wing is no longer stiff in torsion and will twist
+if allowed to do so. Therefore, before you wade in on this sort of job, make sure that the
+wing is properly held in some sort of fixture or jig that will preserve its shape while you
+work on it. In spite of this precaution, the good craftsman will make fairly frequent use
+of the Clinometer as the work progresses to satisfy himself that he is not ‘building in’ an
+error of some sort. .
+
+It cannot be over-emphasised that in spar work, dimensional accuracy is vital.
+When fitting in insertion pieces to spar booms, they can with advantage be left a little
+oversize, so that when the glue has set they can be pared down to exactly the correct
+size. Attempts to get them to size before gluing. in, often result in the job finishing up
+undersize, and that, of course, means that the work must be cut out and done again,
+
+All the internal spaces of the spars must be ventilated to atmosphere. This is a very
+important point for two reasons, first so that fresh air circulates through these spaces,
+keeping the moisture content of the wood constant, and preventing the growth of
+moulds, and second, and much the most important, so that there is no chance of a
+differential pressure building up in the spar. If a sailplane is flown to 20,000 feet the air
+pressure is approximately half that at ground level, so if there should be a sealed com-
+partment in a spar, the pressure inside it is the equivalent of 7-5 Jb, per square inch,
+It does not take much imagination to see that, if the area of the sealed compartment is
+large, it is quite possible for the spar to burst its web off the booms. In consequence,
+it is necessary to make quite sure that all. the compartments are properly ventilated,
+and that no ventilation holes are ‘lost’ in repairs. These holes must be re-drilled if they
+occur in new ply, in the same place and of the same diameter. The drilled edges of the
+holes must be treated with bituminous paint to prevent moisture content loss or gain,
+
+The grain direction in all spars is of primary importance. Frequently you will find
+that the webs are applied to the booms with the grain running at 45 degrees to the
+length of the spar. Should any repairs be made to these webs, the grain direction must
+be accurately followed in the repair, otherwise the web will be below strength. Similarly,
+when splicing in insertion pieces into the booms, you must ensure that the insertion
+piece has a grain direction that is within the 15 : 1 limit, but it is preferable to select a
+piece of timber with grain as nearly parallel to the length as possible. _
+
+You will find in the case of most box members that there are a number of stiffeners
+or ‘soldiers’ fitted between the booms and webs. In the planning of a repair, it is vital
+that none of these soldiers is omitted. Normally, you will plan the job so that you can
+do the ply scarfs on one of these soldiers, suitably thickened up, if necessary, to provide
+2 the width of the scarf, but sometimes you will have to fit an extra soldier to support
+your ply scarf. This is quite acceptable: an extra soldier does nobody any ham, but
+you must never omit a soldier. To do so is to leave a section of the web insufficiently
+supported, and this means that the ply of the web will buckle at a lower load than it
+should.
+
+In general, the more you can use cramps in place of tacks on box members, the
+better. This is not to suggest that driving tacks into spar booms seriously weakens them,
+
+
+--- PAGE 29 ---
+Section 3—Paye 27
+
+but nobody could suggest that it improves timber to perforate it. The booms get quite
+a lot of tacking, since not only the webs, but also the ribs, have to be glued to the spar,
+so that when repairs have to be done, the less you need to perforate the timber the
+better. Do not take this as an excuse for not closing a scarf joint properly. All it means
+is, if you can use cramps instead of tacks, do so.
+
+n all box member spars and, to some extent, in other box members, you will find
+that the booms taper. In-certain places you may find that the booms completely fill up
+the space inside the spar. The spar has become solid in fact, at this spot. A typical ex-
+ample of this is at the strut joint of the spar of a strutted glider. Now, where the spar
+changes from solid to hollow, there is a very gentle transition. The solid portion divides
+in the form ofa ‘bird’s mouth’ block and the two booms taper off from here. Now clearly
+it is easiest to make your ply scarf on a solid portion of the spar, if you can do so, as
+the scarf is fully supported all the way, so if you can find out the position of the solid
+portions of the spar, you may be able to save yourself trouble, This really boils down to
+saying that a drawing of the spar can often save you hours of work on a repair.
+
+Scheme 3.5.2. Patch Repair to Spar Web.
+Use this method for minor damage, where the booms of the spar are undamaged, where
+the damaged or abraded area of the web does not exceed 1 in. in the spanwise direction,
+and the web is perfectly flat. Failure to satisfy the latter point will result in difficulty in
+getting the patch to glue down properly.
+See illustration 3.5.2. and go ahead as follows:
+1. Remove fabric and ply to obtain access to the damage.
+2, Cat the patch: (a) To the dimensions shown.
+) Of the same grade and thickness of material as the original.
+(c) Of the same grain direction as the damaged web.
+(d) With the vertical ends chamfered to 5:1,
+3, Glue and cramp or tack the patch centrally over the damaged area.
+4. Make good any ply or fabric removed in operation 1.
+
+5.1 CHAMEER PLY PATCH.
+
+Hiustration 3.5.2. Patch
+Repair to Spar Web
+
+NOTES ON SCHEME 3.5.2: This is about the only lap joint that we can permit on spars.
+The main difficulty is in getting the patch to glue down properly on those portions of
+the web where there is no support behind the ply. If the web is at all bowed, do not try
+this scheme, but replace a portion of the web as in Scheme 3.5.3. Any tacks should be
+drawn after the glue has set, but, if this is impossible for any reason, then the tack
+must be of brass and not of steel, Note that if this repair should cross a rib, Scheme
+3. 53 will save you time, otherwise you will have to mess about altering the length of the
+rib.to suit.
+
+
+--- PAGE 30 ---
+Section 1—Page 28
+
+Scheme 3.5.3. Insertion Repair to Spar Web
+
+Use this method for damage where the booms are undamaged. Any length may be
+replaced and both webs may be repaired. It is good practice, however, to stagger the
+web splices by one ‘soldier pitch’ so that the splices do not come opposite each other.
+See illustration 3.5.3 and go ahead as follows: ;
+
+1. Remove ply and fabric as necessary to get at the repair.
+
+2, Cut away the damaged web to the full depth of the spar.
+
+3, Check the width of the soldiers and if they are inadequate to support a.12 : 1
+Splice, cut reinforcing members and glue these into position against the soldiers,
+to give the necessary }'W’ backing, where ‘W’ is the width of the scarf.
+
+4, If necessary, you may make up extra soldiers to avoid cutting back the web
+unnecessarily far. If you have to do this, the extra soldiers must be of thickness
+2°W’, but otherwise they must be exact copies of the existing soldiers.
+
+5. Scarf the cut ends of the web to 15: 1.
+
+6. Cut the ply insertion panel from ply of the same grade and thickness as the
+original and scarf the ends to 15 : 1. Ensure that the grain direction is the same
+as the original, but do not trim down to the exact depth of the spar at this stage.
+
+7. When satisfied with the fit, glue and cramp or tack the insertion piece into place.
+
+8. When the glue has set, remove all tacks, cramps and pare the insertion piece
+down to exactly the depth of the spar. .
+
+9. Make good any ply, fabric removed in operation 1,
+
+NEW EXTRA SOLDIER SCARF SUPPORTED
+SOLDIER = IF REQUIRED RIGHT UP TO EDGE
+
+~Hlustration 3.5.3,
+Insertion Repair to
+Spar Web
+
+* af WIDTH OF SCARF’
+BUILD UP IF NECESSARY \. PLY INSERTION PIECE
+
+Nores ON SCHEME 3.5.3: If you have to take both webs off a spar, watch out for
+twisting of the spar. This applies, in fact, as soon as you remove one web, but the effect
+is increased with two webs off and is, of course, worse, the more web you take off. If
+you cross several bays of the spar, it is vital that the web is properly glued to all the
+soldiers. Mark the positions of these on the outside of the ply so that you can ensure
+proper gluing. Often you will have to take out ribs to get at the spar. Think before you
+cut the ribs, as frequently there is one place where the subsequent repairing of them is a
+minimum,
+
+Do not forget to check for any ventilation or drain holes in the web, Any that have
+got ‘lost’ in the repair must be replaced in the same place and of the same diameter
+as the original. Paint the cut edges of the holes with bituminous paint,
+
+Scheme 3.5.4, Insertion Repair to Spar Boom.
+Use this method where the boom is damaged more than can be dealt with by Scheme 3.4.2.
+See illustration 3.5.4 and go ahead as follows:
+1. Remove sufficient of the ply webs to enable the damage to be cut away, and the
+ends of the boom to be scarfed off at 15 31.
+
+
+--- PAGE 31 ---
+Section 3—Page 29
+
+2. Prepare an insertion piece of Spruce of the same grade and scarf the ends off
+at 15 : 1. Do not worry too much about getting the insertion piece down to the
+exact size at this stage. — .
+
+3, When you are satisfied with the fit, glue and cramp the insertion piece into place.
+
+4. When the glue has set, remove cramps and carefully pare the insertion piece
+down to the exact size.
+
+5, Replace the portions of the ply web removed, using Scheme 3.5.3.
+
+6. Re-cut any ventilation holes lost in the repair.
+
+Hlustration 3.4.5, Insertion Repair to Spar Boom
+
+Nores ON SCHEME 3.5.4: You may scarf the booms in either direction, that is, with
+the scarfs running vertically or horizontally. Which way you adopt depends on the
+circumstances of the repair. By arranging the glue line to be in the vertical plane, you
+can often repair a boom and only have to take off one of the webs. Remember that in
+this repair you are certain to get distortion of the wing, unless you take precautions to
+prevent it, This means a jig, or some sort of fixing arrangement, for the wing while
+you carry out the repair. As an added insurance, make frequent use of the clinometer,
+while the job is in the various stages of repair. The centre line of the boom splice should
+be marked. One way is to stencil a line and the words ‘C/L Boom Splice’ on the centre
+line. Another method is to glue on a small diamond-shaped piece of ply, about 3 in. by
+in. on the outside of the web, exactly on the centre line of the boom splice. The object
+of this is to make things easier for the next man who has to repair the boom. If he can
+see where the splices have been done, then he can plan his repair, so that it avoids the
+splices already in the boom. ;
+
+Frequently, when you are splicing a broken wing, some of the soldiers will have
+got lost. You must make sure that all the soldiers are fitted in the right places, as these
+are part of the structure of the spar. When you have to splice both boc ms, it is con-
+sidered good practice to make the two splices so that they do not overlap.
+
+Big Repair Jobs
+The sort of thing that the repair man is frequently faced with is a wing completely
+broken in two pieces, and perhaps a badly damaged fuselage as well, The first thing he
+will need to work out is what drawings he is going to need. Has he sufficient of the
+structure intact to enable him to rebuild the rest, and to be sure that the original dimen-
+sions of the job will be maintained ? If not, then he must obtain such drawings’ as he is
+going to need. Having studied the preceding schemes in this Chapter, it will be apparent
+that the biggest job can be brokea down into small units, and each unit can have a
+separate scheme applied to it. It is felt that, while it is impossible to produce a scheme
+to cover every conceivable type of damage, the foregoing schemes do provide a fairly
+wide field from which to choose. Using them intelligently, and using part of one and
+part of another, where necessary, it is not difficult to work out a scheme to fit any
+particular type of damage. The really important thing is to observe the principles that
+have been demonstrated in these schemes. These principles can be briefly summarised
+as being to replace all damaged material with new, using material of the same specifica-
+tion, and ensuring that all splices are of not less than 15 : 1 in spruce, and not less than
+12:1 in ply. All glue joints must be properly made, and the structure must be so sup-
+orted during the repair operations, that the original dimensions, angles, etc., are
+aithfully reproduced in the repaired job. A little thought beforehand, on exactly the
+
+
+--- PAGE 32 ---
+Section + Fage JO
+
+order in which to repair the damage, will often save a lot of time, by avoiding buildin
+material which gets in the way of Jater repairs. Think out carefully the order which will
+make the job easy.
+
+Another small point, which causes trouble very often, is that it is quite difficult to
+cut a smooth scarf in a laminated member, if the scarf is cut in the direction so that the
+glue lines run across the scarf, rather than along it. The glue is so much harder than the
+timber that wood-cutting tools tend to leave the glue lines rather proud, and you get a
+wavy surface instead of a flat one. You can avoid this by finishing the scarf with a file
+or similar tool which is unaffected by the difference in the hardness, or, of course, you
+can cut the scarf so that the glue lines run along the scarf, that is, cut the scarf the other
+way.
+y The big jobs also make you think about the timing of the gluing. When you have
+a large piece of web to glue on to a spar, you must take into account the ambient
+temperature when deciding which hardener you are going to use with the glue. Too
+rapid a hardener when the day is hot, and you will find that you run out of time before
+
+ou have got the joint closed. On the other hand you must ensure that the temperature
+is high enough for gluing. In general, it is probably best to settle for the slowest hardener
+that you can use unless there is some pressing need for speed, sucli as a competition
+glider which is needed for flying next day. In extreme cases of large panels that have to
+be glued in, you may ‘bave no alternative but to get an assistant, or even two, and arm
+them with tack hammers, so that at the word “go” you can all set to, and tack up
+simultaneously, ;
+
+While not really a repair scheme, it may be instructive to go through an imaginary
+repair of a broken fuselage. Let us say that the fuselage is broken in two pieces behind
+the wings, and that there is a fair amount of damage to the frames up at the front of
+the fuselage. The first thing to do is to make a thorough éxamination of the damage,
+list it all, and decide whether you are going to repair the damaged frames or whether
+you are going to put in new frames from the manufacturers. Next you will have to get
+sufficient timber to make up some sort of a jig to hold the pieces of the fuselage in their
+correct positions relative to each other while the repair proceeds. Set up the main frame
+in its correct rigging position and make sure that it is laterally level. Set up the rear
+fuselage at its correct rigging angle and again make sure that it is laterally level and that
+the fin is truly vertical. Splice the longerons using a suitable scheme from Chapter 3.4,
+Assuming that the fuselage is a plywood component, you can now splice in new ply,
+thickening up any frames, where necessary, to give you the required backing for the
+scarfs. Frequent use of levels and clinometers will ensure that you do not built in any
+twists or other errors. Now the front of the fuselage can be dealt with. Remove all
+damaged ply, and take off enough, to let you get any new frames that you are fitting,
+into place. When you have replaced all the damaged frames, or repaired those that
+you are not replacing, you can glue on new ply to complete the skinning again. All
+scarfs will, of course, have to have proper backing up to } of the width of the scarf.
+While you are making your examination of the damage, you will have listed any damaged
+filtings that must be replaced, and make a note of the stage in the operations when the
+replacement of fittings will be easiest. Clearly you will want to do this when the particular
+section of the fuselage is at its most open stage. Remember to use plenty of jointing
+compound when bolting on new fittings, and pay attention to the locking of bolts, etc,
+particularly the ones that are going to be inaccessible when the repair is finished.
+
+Instruments, of course, must be sent for checking, as any that have been in an acci-
+gent are unserviceable, until an Instrument Laboratory has given them a clean bill of
+health. ;
+
+Taking a similar sort of repair on a wing; let us assume that the wing is a cantilever
+job and that it is broken in two pieces, somewhere about the root of the aileron. The
+leading edge will be damaged for quite some way each side of the actual break. First,
+make an examination of the extent of the damage, and decide what ribs you are going
+to repair, and what ones you are going to buy from the manufacturer. In some: cases,
+of course, you will have to make the ribs, but this is fiddling work and very time con-
+
+
+--- PAGE 33 ---
+Sectlos 3—Page Jf
+
+suming, so, if you can get them ready-made, it is a good bet. You will almost certainly
+need a drawing of the wing, to get the angles of incidence correct at the various stations
+along the wing, and to get all the other dimensions of the wing correct. Now make up a
+jig to hold the wing pieces in their correct relative positions. In most cases, it is easiest
+to set the wing vertical with the spar level and with the leading edge up. In many cases,
+you will find that one of the faces of the spar is taken as the Datum line of the wing,
+from which all the measurements are made. If this is so, set this line level. Now splice
+the spar booms, and then splice the webs. You can now cut away all the damaged leading
+edge ply, clean up the spar, and glue on the new, or repaired, leading edge ribs. These
+must now be accurately lined up. Some of them may have to be built up slightly, and if
+this is so, glue on spruce strips as required. The use of a long straight edge will show
+whether the ribs are truly lined up, and one of the easiest ways of getting them true is
+to glue a piece of glass paper on to a long straight piece of wood, long enough to span
+several ribs, and to rub this chordwise over the ribs until it is cutting every rib. You can
+then glue on the leading edge ply, thickening up such ribs as necessary to give the } of
+the width of the scarf backing. Make quite sure that the twist of the spar, if any, is dead
+correct before you glue on the leading edge ply as, once this is on, the spar will be
+absolutely rigid and no further adjustments can be made. Now the damage aft of the
+spar can be attended to. This will mostly be rebuilding ribs, or fitting new ones, and
+truing and splicing in new pieces of trailing edge. If the construction is such that there
+is a rear spar, this will have to be spliced, but this does not present any particular
+problem. When all the structure of the wing has been repaired and any damaged fittings
+have been replaced with new, the damaged area of the wing will have to be recovered,
+and this is fully described in Section 2, Chapters 2.2 and 2.3.
+
+From the foregoing, it will be seen that even very big repair jobs can be broken
+down into a number of small ones, and if the Schemes that have been outlined in the
+earlier Chapters of this Section are studied, it will be found that almost any sort of repair
+can be undertaken, Do not be disheartened by the appearance of a crashed glider.
+Frequently it is the most fearful looking wreck that proves to be the simplest to repair.
+For instance, a fuselage broken in two, looks to the uninitiated to be almost a write-off,
+and yet it is actually quite a simple job to splice the two pieces together again. Conversely,
+a fuselage that has had a heavy landing may look all right and yet you may find that
+nearly every frame has been crushed, and this can take an enormous amount of work to
+repair.
+

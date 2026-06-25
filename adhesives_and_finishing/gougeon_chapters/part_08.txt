@@ -1,0 +1,1643 @@
+nded most of the parts before installing
+them in your hull. It is usually most efficient to sand
+exterior surfaces on the completed hull after all coatings
+have been applied.
+General sanding of a cured epoxy surface can be a lot
+of hard work, especially if you are working towards a
+high-gloss final finish. There are, fortunately, some
+laborsaving shortcuts. We use a foam disc grinding pad
+on a light-duty power circular polisher to rough and
+smooth-sand 90% of the hull’s exterior surface areas.
+Usually, we use 80 to 100-grit sandpaper with the
+sanding pad to first rough sand coated surfaces, and
+then use 120 to 180-grit for power finish sanding.
+Many boatbuilders find this surface adequate. A further
+wet sanding by hand with 220 to 320-grit paper will
+produce an extremely smooth surface for a high-gloss
+finish for either varnish or paint.
+A good way to verify that the surface is contaminant
+free before painting or varnishing is to wet it down with
+clean water (no soap). If it is contaminant free, the water
+will sheet off and be perfectly smooth. If it is contami-
+nated, fisheyes will appear or areas will bead up rather
+than laying out in a smooth sheen. If contamination is
+present, wet sand or scrub the area with an abrasive
+pad and water until the surface is contaminant free.
+Primers
+We find that we rarely need primer paints when we
+coat hulls with WEST SYSTEM epoxy. Primers can’t, of
+course, be used on naturally finished hulls, but even on
+painted surfaces, they don’t seem to result in any partic-
+ular saving in finishing time.
+Primers are not usually needed to help bond a paint
+film to cured WEST SYSTEM epoxy. Most finish coatings
+readily adhere to a clean and well-sanded epoxy-coated
+surface, although interfacing primers are required with
+some specialized bottom paints. If the instructions on
+your paint or varnish recommend a specially primed
+surface, sand your epoxy coating until it is no longer
+Chapter 15 – Coating and Finishing
+157
+Figure 15-5  Finish sanding gray pigmented epoxy on the
+deck of Slingshot. Orbital finish sanders are very effective for
+such finish sanding.
+
+--- PAGE 172 ---
+glossy or shiny and follow the directions given for fiber-
+glass preparation. Test the product in an inconspicuous
+area to be sure that it will bond to epoxy. If any product
+fails to dry within the period specified on its packaging,
+try a different brand or use a primer.
+Primers are sometimes used to make sanding quicker.
+The theory is that they are easier to sand than epoxy;
+while this may be true in some situations, you must
+weigh the benefit against the time needed to apply the
+paint and to achieve an even surface. Since primers are
+difficult to apply evenly with a roller or brush—because
+of the safety issues involved, we can automatically rule
+out spraying primer paints—application time may well
+exceed any extra epoxy sanding time. Primers definitely
+do not flow as well as WEST SYSTEM epoxy, so you need
+a good deal of sanding just to get the primer as smooth
+as the original rough-sanded epoxy surface.
+A colored base coat will facilitate final fairing by serving
+as a guide to prevent oversanding and will also, to some
+extent, reduce the number of coats of paint needed to
+cover an unpainted surface. When we plan to paint a
+hull, we therefore often add WEST SYSTEM pigment to
+our final coat of epoxy and use this instead of primer
+as a tracer coat.
+Surface Glazing
+While primers don’t significantly reduce finishing time,
+glazing or surface compounds often do. These commer-
+cially available products are much thinner than standard
+puttying fillers, so you can apply them quickly in a thin
+film over large areas. We recommend using a wide
+putty knife or squeegee to apply surfacer. This technique
+results in a relatively smooth surface which is not diffi-
+cult to sand to a fine finish. Since small particles of dirt
+can interfere with your finish, be sure your surface is
+clean before applying these products.
+Surfacing compounds have an advantage over primer
+paints in that they are high solids materials and can be
+used to mechanically force-fill small voids and depres-
+sions. Imperfections in an overall cured epoxy surface
+can be filled quickly and efficiently, assuming that they
+are reasonably small or shallow. Often, the choice is
+between sanding away small air holes and valleys or
+filling them. The extra sanding takes time and may
+involve the removal of more protective epoxy coating
+than desirable, so surfacing compounds present an
+attractive alternative.
+All major paint companies market these compounds
+with instructions for their use. Be sure to select compat-
+ible surfacer and finishing systems since some finishes
+use very active solvents which can lift surfacing materials.
+Also check your instructions to be sure that you use
+the recommended thinner when your compound is too
+thick to apply in a controlled thin film.
+Be particularly aware of the consistency of your glazing
+compound as you apply it. If it is too thick, it will be
+difficult to apply in a controlled film, and if it is too
+thin, you will lose filling power. It’s better to err on the
+thin side because you can always apply a second coat,
+and this is much quicker than sanding away excess.
+You may have to add thinner at regular intervals to
+make up for its continual evaporation as you work.
+Paints
+Over the years, we have tried many different paints
+manufactured by many different suppliers, but we
+haven’t tried them all. Historically, some paints and
+varnishes have not cured well over WEST SYSTEM epoxy.
+207 Special Coating Hardener is an exception in that
+158
+Core Boatbuilding Techniques
+Figure 15-6 Rolling on two-part linear polyurethane paint.
+
+--- PAGE 173 ---
+most paints and varnishes cure without a problem.
+When using the other hardeners, paint behavior can be
+unpredictable. We can’t test all of the many brands on
+the market, so we urge you to experiment with your
+planned finishing system before you make a major
+investment in it.
+Linear polyurethane (LP) paints are without question
+vastly superior to any others we have used. We recom-
+mend LP systems highly. They have excellent resistance
+to sunlight, salt spray, and other weathering agents.
+Because they are as hard and resistant to abrasion as
+polyester gelcoat, they are used almost exclusively for
+recoating fiberglass hulls. Linear polyurethanes bond
+extremely well to properly prepared WEST SYSTEM epoxy-
+coated surfaces and typically cure without a problem. 
+LP paints may be sprayed, rolled, and brushed. Hand
+application is slower than spray painting, but requires
+less preparation, so there is not a great time difference
+between the two methods. In some situations, brushing
+may be quicker. In all cases, it is far safer.
+Hazardous solvent fumes escape from any type of paint
+as it is applied, and care must be taken to provide
+adequate ventilation during painting operations. Linear
+polyurethanes present additional health hazards because
+they contain 1% to 2% isocyanate, a highly toxic
+material. When LP paints are sprayed, isocyanate is
+atomized and may be inhaled. Most LP manufacturers
+recommend that spray painters wear forced air respira-
+tors while working, but we recommend that you simply
+do not spray LP paints; roller and brush application of
+linear polyurethanes substantially reduces the problem.
+Clear Coatings and Natural Finishes
+Clear coatings, including varnishes, are attractive,
+durable, and fairly easy to apply. Their major drawback
+is that they break down under exposure to sunlight and
+therefore require more maintenance than pigmented
+coatings. We share the desire of wooden boatbuilders to
+show off the beauty of the material, but because a major
+goal of our philosophy is to keep things practical, we
+prefer to use clear coatings in interior and other areas
+where the effects of ultraviolet rays are minimal. See
+Chapter 26 for a discussion of varnishing interiors.
+Two things happen when a clear-coated surface is
+subjected to too much sunlight. The first and most
+obvious is that the varnish itself gradually degrades. At
+the same time, in a less well understood process, slight
+chemical and physical changes take place in the surface
+wood cells through the varnish. These changes may
+contribute to coating failure by promoting the physical
+separation of an already-weakened coating from the
+ultraviolet-altered wood.
+With the limitations of present technology, all clear
+coatings on wood may be expected to break down in
+the presence of sunlight. The time this takes depends
+on the formulation of the specific coating, the number
+of hours it is exposed to sunlight, the location of the
+varnished item on the boat, and the surface under the
+clear coating.
+Some clear coatings have longer life spans than others.
+Those which last the longest contain expensive ultravi-
+olet shields. Sold by most marine paint manufacturers,
+these are usually called spar varnishes; one of the easiest
+ways to recognize them is their high cost. Most spar
+varnishes have a phenolic resin base mixed with tung
+and linseed oil, a combination which is less hard and
+durable than LP paint but which historically has the
+best track record among clear coatings for withstanding
+sunlight. There are now a number of clear linear
+polyurethane paint systems formulated with UV filters,
+which provide even better UV resistance when used
+over epoxy.
+Varnish will last longer on hull topsides than on decks.
+Decks receive direct exposure to sunlight, but hull sides
+take only glancing blows and are usually partially
+shaded. The early morning and late afternoon sun that
+shines directly on topsides is not nearly so destructive
+as midday light because its rays are well filtered by
+atmospheric interference. For these reasons, two coats
+of spar varnish over WEST SYSTEM epoxy on a deck
+might last only a summer in our Michigan climate but
+twice as long on the hull sides.
+You can cut down on labor and extend the life of your
+varnish considerably by adding a new coat every year.
+At the beginning of every season, lightly sand your
+clear-coated areas and apply a single coat of varnish.
+Using WEST SYSTEM epoxy as a base for varnish appears
+to lengthen the life of a clear coating. We feel that the
+reason for this is the very tenacious bond that is made
+between the epoxy and the wood fiber. It seems to be
+Chapter 15 – Coating and Finishing
+159
+
+--- PAGE 174 ---
+more difficult for wood to separate from a well-bonded
+epoxy coating as it alters under UV rays than from a
+standard varnish. 207 Special Coating Hardener has been
+developed specifically for this application. It includes UV
+filters and works synergistically with the varnish applied
+over it to protect the wood/epoxy interface.
+Any natural finish which is exposed to sunlight will
+require more maintenance than a colored coating. 
+All decisions on bright finishing should be made with
+full realization that more upkeep will be necessary in
+the future. Repair of dings and gouges is much more
+difficult on a naturally finished hull and may require
+routing out a whole outer layer of veneer. On the other
+hand, one advantage of a clear-coated hull is that should
+you decide that a natural finish is not practical for your
+situation, you can paint it. It’s much more difficult to
+change from paint to a clear coating than to change
+from clear coating to paint.
+There are many excellent clear coatings on the market.
+Different brands may react differently to heat, cold, and
+humidity, so experience with a given brand is perhaps
+the largest single factor in a successful job. Test all
+coating materials on a small sample of your surface
+before applying them. Buy a small quantity of your
+proposed finish, apply it following manufacturer’s
+instructions, and if it doesn’t dry within an appropriate
+period, try a different brand.
+Cost
+In general, the costs of paint, varnish, and related
+materials are a very small portion of the total cost of
+a boat’s paint job. Surface preparation and coating
+application require an enormous amount of time, so an
+expensive but long-lasting paint is usually a better value
+than a short-lived, inexpensive coating. When you
+make decisions on paint, consider the quality and
+reputation of a product as well as its price. A coating
+that costs twice as much and lasts twice as long as its
+competitor is probably a better buy because it will save
+you considerable labor.
+We suggest that you gather all available information
+about the paint or varnish you intend to use. Most
+manufacturers publish complete technical bulletins on
+their specific coatings and coatings systems as well as
+application and mixing instructions. Experience with
+one brand will help you to predict its behavior in
+different situations, but, in all cases, we recommend
+testing paints and varnishes before applying them to
+large areas.
+160
+Core Boatbuilding Techniques
+Figure 15-7 Bright finish on Golden Dazy.
+Figure 15-8 Bright finish on IOR 1⁄2-ton yacht Hot Flash.
+
+--- PAGE 175 ---
+Applying Paint and Varnish
+We are always reluctant to spray paint or varnish
+because of the health hazards involved in the applica-
+tion method and have usually relied on the roller-brush
+method of painting and varnishing. With some experi-
+ence and the benefit of a good material, this technique
+can rival a quality sprayed finish, but you must develop
+your skills. We hope that the following comments will
+help. See Chapter 26 for details on applying varnish
+and paints to interiors.
+Before you begin coating, prepare your final sanded
+surface. It must be free of all dust, dirt, sanding residue,
+and contaminants. We suggest using a four-step surface
+preparation procedure:
+1. Wipe down the hull using a large sponge, continu-
+ally rinsing it out in a large bucket of water. Try to
+keep it as clean as possible as you remove the
+majority of the loose material from the hull surface.
+2. Wipe the wet hull dry with soft, clean rags or paper
+towels.
+3. Wipe the hull down again, following the paint
+manufacturer’s recommendations for final surface
+preparation.
+4. If recommended by the paint manufacturer, use a
+tack rag to remove any remaining dust or dirt from
+the hull surface. (Use a tack rag again just prior to
+applying paint to the surface.)
+Dust control can sometimes be a difficult problem in a
+wooden boatshop. Usually, you should discontinue all
+wood sawing or machining operations well in advance
+of the actual painting operation. It is a good idea to wet
+down the entire boatshop floor with a light spray of
+water. This will not only help keep dust down on the
+floor, but will also attract dust from the air.
+Use the same foam sponge rollers to apply the paint
+film that you used to apply WEST SYSTEM epoxy and for
+the same reason: control. This type of roller does an
+excellent job of applying a controlled film thickness
+over a large area in a minimum amount of time.
+The primary uses of a brush are to smooth out the
+stipple finish which the roller leaves and to paint those
+areas that are difficult for the roller to reach. Even appli-
+cation of paint to a surface is difficult with a brush
+because of the problem of controlling the film thickness.
+The painting job is best split up between two people,
+and this is without question the fastest method. Arm
+one person with a roller and roller pan and the other
+with a 3" or 4" (75mm or 100mm) wide brush and a
+small container of paint. The “roller” begins application
+of the paint, using long, steady strokes to cover a
+specific area before the roller is again filled in the paint
+tray. It is important to learn early the approximate
+surface area you can cover with a roller full of paint as
+you apply it to the hull surface. Once you have devel-
+oped a feel for “area,” you will be able to plan the
+rolling application better. Then you won’t get in trouble
+with too much paint collected in a given area and no
+place to move it to. A common error is to discover that
+you are a little light on paint film in one area, but in
+correcting the situation you make it much worse by
+applying much more paint than the area can handle
+without running. The solution is to learn how to get
+just a little paint out of the roller pan with the roller,
+just as you might control the amount of paint on a
+paint brush by scraping it against the sides of a paint
+can. It’s harder to do with the roller, but can be done.
+Immediately after the paint is rolled on, the “brush
+person” follows with a slightly wet-out brush, stroking
+the surface vertically or horizontally with only enough
+pressure to smooth the coating. Finer brushes will
+produce the smoothest surfaces with the best chance for
+flow out, and we suggest that you use only high-quality
+brushes. The “brusher” should follow the “roller” as
+closely as possible without getting in his way, so that
+the time span from initial roller application to final
+brushing is as short as possible. This gives the paint
+film the best chance to flow out before the solvent
+content of the paint film begins to evaporate. For best
+results, always finish your brush stroke in the previously
+applied “wet” paint area.
+Paints are usually composed of 40% to 60% solvents,
+most of which will evaporate before the paint film
+cures. These solvents play a key role in the successful
+development of the surface finish. Immediately after
+you apply paint to a surface, the solvents it contains
+will begin to evaporate, and a cure or drying out of the
+paint film begins. The rate at which the solvents evapo-
+rate is crucial to the roller-brush application process. If
+the solvents evaporate too fast, the paint film will not
+have a chance to flow out smoothly. Brush or roller
+marks will remain visible. If too much solvent is used,
+Chapter 15 – Coating and Finishing
+161
+
+--- PAGE 176 ---
+the paint will have less viscosity, resulting in a thinner
+paint film which may not have the coverage or the
+desired gloss. The object, of course, is to use just
+enough thinner to promote good flowing of the paint
+and no more. Hot, dry conditions will require that 
+you use more thinner due to faster evaporation.
+Manufacturers also offer fast or slow thinners to help
+with the evaporation problem.
+As the painting progresses, the “brusher” will have the
+best feel as to how the paint is working. If it is dragging
+under the brush, add more solvent for proper flowing.
+Usually, you can add this right into the roller pan and
+immediately stir it in with the paint. On hot dry days,
+evaporation will cause a rapid loss of solvent out of the
+roller pan, causing a paint to become too stiff for proper
+flowing. You can solve this problem with small applica-
+tions of solvent to the roller pan at frequent intervals to
+match the amount of solvent lost by evaporation.
+Again, the “brusher” will be the first to feel that the
+paint is getting too stiff.
+Usually, two coats of paint are required with the roller-
+brush method for sufficient color coverage. You can use
+the application of the first coat to gain experience in
+application methods. If you get some runs, dull spots,
+or actual misses, you can correct them before you apply
+a second coat. Runs are usually the most difficult
+problem, but it is common to sand a little between
+coats anyway, so they aren’t regarded as a major disaster
+on the first coat. However, with the second coat, you’re
+pretty well stuck with them. If you do develop runs on
+the second coat, hopefully you will discover them
+before the paint film begins to stiffen. The only chance
+to deal with a run and make it better is to stroke the
+immediate area of the run lightly with a small brush
+that is as dry of paint as possible. The object is not to
+add any more paint in the area of the run, but, in fact,
+to remove some with the brush.
+To achieve the optimum final finish, a light sanding
+between coats with fine paper is desirable because this
+removes any dust or imperfections which might exist in
+the first coat surface and provides the best possible
+surface for the final coat.
+162
+Core Boatbuilding Techniques
+
+--- PAGE 177 ---
+First Production Steps
+Chapter 16
+Lofting
+Chapter 17
+Mold Frames and Permanent Frames
+Chapter 18
+Setting Up
+Chapter 19
+Keels, Stems, and Sheer Clamps
+
+--- PAGE 179 ---
+Lofting as a discipline has taken a back seat to computer-generated plans and computer-controlled
+machined templates and parts. Computers have taken over and are doing the time-consuming work of
+describing and reconciling the three dimensional object (the boat) in two dimensions. A number of
+computer lofting applications are available, and we can assume that price, accessibility, and features will
+continue to improve.
+But lofting and the knowledge of how to do it correctly have not diminished as useful skills to learn. The
+fundamentals of descriptive geometry have broad-ranging application and infinite utility. If you know how
+to loft, the computer cannot lie to you—you will be able to check its work. If you have never lofted, we
+continue to urge new builders to loft a small boat (or even a large boat to scale) to understand the princi-
+ples and the process. The computer may break down, or the plans or the program may not have all the
+detail you want for a specific project. Take the time to learn the skill of lofting, and it will serve you better
+than any alternatives. For clarity, we use only English measures in examples of proportion and offsets.
+Before you can actually build a boat, you must loft 
+its lines to full size. This means taking the small scale
+plans of the design and projecting them to actual boat
+size. Most boat hulls are complexes of curved surfaces.
+Lofting guarantees that these curves flow smoothly into
+one another with fair, even lines. Because lofting deter-
+mines the exact shape of the mold stations, success in
+lofting means that the stringers and planking can be
+easily applied to the molds and the resultant hull 
+will be fair and look and perform as the designer
+envisioned. On the other hand, a poor job of lofting
+will result in parts not fitting and a shape that is hard 
+to plank. Sometimes, poor lofting can lead to dissatis-
+faction and abandonment of the project.
+This process of drawing the lines that describe the shape
+of the boat full size is necessary to correct the errors that
+creep into the small-scale lines drawing that the designer
+uses to develop the shape of the hull. For example, if 
+a boat were designed using a scale of 1" equals 1 foot,
+for a 30' boat you would have a 30" lines drawing. You
+would need to expand this 30" drawing 12 times in all
+directions, and in doing so, you would also have all the
+errors that were drawn into the lines drawing multi-
+plied by 12. This would result in inaccuracies that would
+detract from the even, smooth curves of the hull.
+Properly done, lofting corrects these inaccuracies.
+Making the corrections on the lofting floor rather than
+after construction has begun saves a great deal of labor
+and is necessary to produce a fair hull.
+If you have never lofted a boat before, accurate lofting
+will be time-consuming. In many ways, it allows you to
+mentally build the boat before sawing any timber.
+Thought and head scratching expended at this stage
+will surely save frustration and errors after the actual
+construction has begun.
+Lofting is a process that is hard to visualize or under-
+stand until you actually do it. To explain it abstractly is
+difficult. Furthermore, each loftsman has his own tricks
+for making the job easier, quicker, and more accurate.
+We recommend that you look over this entire chapter
+before you begin. If you are daunted by the idea of
+starting out full-size, loft a simple boat on a large piece
+of paper. This will help you get a feel for what you’re
+doing.
+The following is a general discussion of the procedures
+involved. More detailed explanations can be found in
+Boatbuilding by Howard I. Chapelle, Lofting by Allan
+H. Vaitses, and Boatbuilding Manual, 4th Ed. by
+Robert M. Steward. If you have access to a computer
+and want to use it in the lofting process, consult
+Steward’s book.
+Lofting
+C H A P T E R
+16
+
+--- PAGE 180 ---
+Hull Lines Drawings
+The lines drawings will show three different views of
+the boat. Figure 16-2 shows a simple set of lines. The
+profile is the shape of the boat from a side view. The
+half breadth plan is the top view from the deck. The
+body plan is the end view of the boat from either bow
+or stern.
+Figure 16-1 The lines show three different views of the boat.
+The amateur builder will find the building project much easier
+if he takes the time to study the plans and attempts to see the
+boat in the lines.
+There are four types of lines in the drawings: the station
+lines, buttock lines, waterlines, and diagonal lines.
+Together they form a three-dimensional grid. Each line
+represents an imaginary plane passing through the hull. 
+Station lines: The imaginary planes of the station lines
+run vertically and athwartship. The shapes of the
+stations are shown stacked atop each other in the body
+plan view, half on one side of the centerline, half on the
+other. Station lines are almost always numbered.
+Buttock lines: The imaginary planes of the buttocks
+pass through the boat vertically, fore and aft. The planes
+are spaced, generally at regular distances, off the center-
+plane that divides the hull in half. The centerplane is
+seen as the profile.
+Waterlines: For these lines, the planes pass through
+the hull horizontally, at certain distances from the
+baseline.
+Diagonal lines: The imaginary planes of the diagonals
+always run fore and aft, but are neither vertical nor
+horizontal. The intersection of a diagonal with the
+profile plane forms a line that is parallel to and some
+specified distance above the baseline. The height and
+the angle are chosen by the designer to facilitate fairing
+of the hull and usually intersect the body plan station
+lines at angles as close to 90° as possible.
+For any set of lines, in at least two views, the station
+lines, buttocks, waterlines, and diagonals are repre-
+sented as straight lines, and this forms the grid. On the
+third view, these lines are shown as curved or sectional
+views which represent the intersection of the plane with
+the surface of the hull.
+The profile view will include the sheer line, keel, and
+stem. The buttocks appear on the profile view as
+section views of the boat in the same plane at specific
+distances away from the centerline. In the half breadth
+plan appear the deck line and all the waterline sections.
+The diagonal sections also appear on this view. The
+body plan is made up of section views of the areas of
+the hull that the station lines intersect. The section from
+the bow to the widest point amidships will show up on
+one side of the centerline, and from the stern to the
+widest point amidships will be the other side.
+Because most boat hulls are symmetrical, you only need
+to loft one half of the boat. However, some multihull
+designs have asymmetrical hulls, and, in these cases,
+obviously, you would have to lay out both sides of the
+hull.
+The Table of Offsets
+The table of offsets provides the dimensions needed to
+loft the hull lines. It is arrived at by the designer by
+measuring the hull lines drawings with a scale rule.
+Above the table of offsets will be noted the units of
+measurement employed, for example, “offsets in feet,
+inches and eighths.” A plus or minus will indicate a
+measurement slightly over or under that indicated, for
+instance, 1⁄16". Thus, 1-8-5 in the table in Figure 16-3
+would be 1' 8 5⁄8". The offsets for the profile view will be
+shown in heights above baseline or, in some cases,
+below baseline. Included in these offsets will be the
+profile view of the boat, which would be the keel, 
+stem, and sheer line, and the profile view of the 
+166
+First Production Steps
+Both the designer’s hull
+lines plan and the builder’s
+lofting are orthographic
+projections of the boat
+hull.
+
+--- PAGE 181 ---
+Chapter 16 – Lofting
+167
+Figure 16-2 A simple set of lines showing the three views: profile, body plan and half breadth. The diagonals are drawn in at the bottom using the half breadth centerline.
+Isometric drawings around the edge show hull lines as they intersect a regular prism. (These drawings are for illustration only.)
+Water line
+Diagonal
+Buttock line
+Station line
+
+--- PAGE 182 ---
+168
+First Production Steps
+buttocks sections. A second set of offsets will be the half
+breadth view measured from centerline, which will give
+you the deck line and half breadth section views of the
+waterlines. Another set of offsets will give you the
+diagonal sections from the centerline. The diagonal
+sections are viewed at right angles to the diagonal lines
+on the body plan.
+Materials for Lofting
+The lofting floor: The first thing needed is a place to
+loft the boat. Ideally, this space should be about 6' (2m)
+longer than the overall length of the boat, and about 4'
+or 5' (1.5m) wider than the widest or tallest point of the
+boat, whichever is greater. For a multihull, these dimen-
+sions usually apply to the biggest hull. Some multihulls,
+however, have cabins and wing structures that must be
+lofted, and these need half of the total beam plus some
+working clearance. With the multihulls we have built
+here, we have been able to loft the hulls separately and
+then fade in the connecting structures where convenient
+on the lofting board. This enabled us to use a much
+smaller lofting board, which could be narrower than
+half of the true overall beam of the craft.
+For us, it has been easiest to loft on a wood floor. If you
+have a plywood floor in good condition, you can loft
+directly on it. If you want to save the lofting, or if the
+floor is in slightly rough condition, lay down a cheap
+grade of plywood of sufficient size to do the entire
+lofting. Coat this plywood with two coats of white
+semi-gloss paint and lightly sand it with 120-grit
+sandpaper. You can draw on the surface with lead
+pencils as well as ballpoint pens, and the white color
+makes everything easy to see.
+Steel tapes: It is ideal to have a steel tape which will
+measure the full length of the boat and a shorter steel
+tape, say 12' (2m) long, that can lock in position. The
+shorter tape is handier for doing smaller layout projects.
+Straightedge: You can purchase one or make it
+yourself. It should be at least a few inches longer than
+the distance from the baseline to the uppermost part of
+the boat to be lofted. If you are constructing a straight-
+edge, clear pine is a good material. To check the
+straightedge for accuracy, joint one edge straight and
+check it by placing it down on the floor and drawing a
+line along the straightedge. Then turn the straightedge
+over and slide it up to the line. If there is no error, the
+straightedge will just touch the line in both positions. 
+It is very important that this tool be as accurate as
+possible.
+Square: For a smaller boat, you can use a steel
+carpenter’s or framing square. On larger projects, you
+will have to construct a square to fit the job. Clear pine
+works well. We usually make the square out of 1"  4"
+(19mm  89mm) wood, with the longer arm the same
+length as the straightedge and the shorter arm about
+half that length. Check the two usable edges of the
+square in the same way you did the straightedge to
+make sure that they are perfectly straight. Put in a
+diagonal brace to maintain a perfect 90° angle. It is a
+good idea to glue the square together, making sure that
+any gussets or fasteners used will allow you to lay the
+square flat on the lofting board on either of its sides.
+This will make the square more versatile.
+Figure 16-3 Applying offset dimensions.
+
+--- PAGE 183 ---
+Chapter 16 – Lofting
+169
+Although your square should be perfect, don’t count 
+on it for precise 90° angles in lofting. Wherever a true
+perpendicular is required, take the time to construct it
+using a bar compass.
+Bar compass: You can make one yourself with slotted
+pieces of wood, bolts, washers, and wing nuts, or you
+can buy one at a drafting supply house. It is used to
+construct perpendicular lines.
+Bevel square or adjustable sliding T-bevel: This is
+used to transfer angles from the lofting board to various
+parts of the boat.
+Weights, or hammer and nails: These hold the
+battens in position as they are used to fair the curves of
+the boat. Drafting weights are available at some drafting
+supply stores and are, of course, the handiest to use;
+however, a few dozen flatirons or padded bricks will
+do, or you can use a hammer and a pound or two of
+No. 6 nails.
+Battens: These are thin pieces of wood or plastic which
+are bent around nails or weights so that you can draw
+curves. They are among the more important lofting
+tools. You can purchase sets of plastic battens of
+varying flexibility from drafting supply houses, or you
+can manufacture wooden battens yourself. The plastic
+battens are usually used to lay down the body plan
+where the curves are tighter, whereas wooden battens
+are usually used to fair waterlines, diagonals, buttocks,
+and profile lines.
+Spruce or clear white pine of the straightest grain you
+can find seem to be the best materials out of which to
+make battens. Most hardwoods are not too satisfactory
+because they tend to take and hold shape when left
+curved. An exception to this is that you can use a thin
+ash batten to lay out the station sections of the body
+plan or sharp curves in the stem and buttocks.
+We usually lay in several 1"  4" (19mm  89mm)
+boards of clear pine for battens and rip them up to
+varying sizes depending on what we need. As the
+lofting progresses, different batten sizes may be desired,
+so a little extra material to make specialized battens
+comes in handy. Make one main batten that is 5' or 6'
+(2m) longer than the length of the boat. It should be
+about 3⁄4" (18mm) square for a small boat, and about 1"
+(25mm) square for a larger boat. We use a 20-to-1 scarf
+in making up battens because the longer the scarf, the
+less likely it is that the scarf will cause a hard spot or
+kink in the batten. The main job of the batten is to
+allow you to sight the expanded lines of the boat and
+find areas of error. A crooked or kinky batten will make
+this job difficult.
+The process of fairing will be much easier if you paint
+your battens flat black. The black is in sharp contrast 
+to the white lofting floor and eliminates color variations
+in the grain of the wood. Using non-glossy paint will
+minimize harsh glare spots, as will the use of indirect
+lighting over the lofting floor.
+Pens and pencils: You will need several ballpoint pens
+with different ink colors, several hard lead pencils, a
+pencil sharpener, and a felt tip pen. Be sure to use
+waterproof pens and markers; there are few things
+more irritating than finding that your wet feet have
+blurred your carefully drawn lines.
+Kneepads or a movable foam cushion: The lofting
+process will be far more comfortable if you have
+something to kneel on.
+Stock for measuring sticks and pick-up sticks: Have
+on hand some scrap lumber or a few pieces of 1"  4"
+stock which can be ripped into strips. You will need to
+make up approximately 15 sticks, half of them as long
+as your boat is high from the baseline and half of them
+about as wide as its biggest half breadth dimension.
+Ideally, the sticks should be slightly wedge-shaped in
+section so that one edge makes a point.
+Stock for blocks: Have enough 1"  2" (19mm 
+38mm) material on hand to make 6" (150mm) long
+blocks. You will need one block for each station line 
+in your lofting.
+Cable and string: Lengths of cable and string will be
+used to lay out your lofting grid and must be at least as
+long as your lofting floor. The cable will have to stand
+up to about 500 pounds of tension and should be
+about 1⁄16" (2mm) in diameter.
+Laying Out the Grid
+The first step in lofting is to lay out the grid for the
+three views. The grid is the general name denoting all
+of the straight lines that represent the locations of the 
+
+--- PAGE 184 ---
+170
+First Production Steps
+buttocks, waterlines, diagonals, centerlines, and station
+lines. You can easily recognize the grid from the lines
+drawing by the fact that all the grid lines are straight,
+running either parallel with or at right angles to the
+baseline. The only exceptions are the diagonals which,
+in the body plan, are lines coming off from the center-
+line at various angles. In small-scale drawings, most
+designers draw separate grids for the profile, half
+breadth and body plans to help eliminate confusion.
+When the boat is lofted to full size, all these views are
+generally superimposed to save space, as in Figure 16-4.
+A common line then serves as the baseline of the profile
+view and the centerline for the half breadth and diagonal
+views. Sometimes a separate grid is laid down on a
+portable board for the body plan so that it can be
+moved to different areas of the shop in order to build
+molds from it. Usually, however, the body plan is super-
+imposed on the other views, and the mid-station line of
+the profile view serves as the body plan centerline.
+The grid is not difficult to lay out, but it is important
+that you do it with precision. If an error goes undetected,
+it may not show up until many hours later, at which
+time there will be little to do but get out the semi-gloss
+paint and start over. The grid lines will be permanent,
+and, after careful checking, they are drawn in ink.
+The baseline: Because you use the baseline to lay out
+all the dimensions for the grid, you must lay out this
+key line very accurately. Our method is first to stretch a
+locating cable alongside where we want the baseline.
+We locate the baseline close to one edge of the lofting
+board, being sure that there is enough room to loft the
+boat above it.
+Figure 16-4 A lofting grid laid out for superimposed hull lines. Also pictured, various tools for lofting.
+1" X 4" with
+plywood
+gussets
+Lofting weights or ducks–3 to 5 lb
+Large Squares
+Use different colored pens for each set of
+lines to reduce confusion.
+Use trammels or bar
+compass to lay out
+perpendiculars for
+station lines.
+Bolts with wingnuts
+Pin or nail
+Pencil
+Adjustable bar compass
+Pick up sticks
+Flat    or    Triangular
+Awl
+Solid
+Plywood
+
+--- PAGE 185 ---
+Chapter 16 – Lofting
+171
+To place the locating cable, we anchor it flush to the
+floor at one end with a heavy nail or screw and run it
+over cleats to a lever at the other end of the floor. This
+lever—a flat board—pivots horizontally on a screw that
+passes through it and into the floor, and we anchor the
+cable on the underside of the lever between the pivot
+and free end. Using the free end as a handle, we then
+pull the lever until the cable is in about 500 pounds
+tension and nail the free end securely to the floor to
+maintain tension. (See Figure 16-5.)
+We transfer the location of the cable to the lofting 
+floor using the small tool in Figure 16-6. This tool is
+designed so that the thin (1⁄32") tongue slips under the
+wire without disturbing it and the raised portion butts
+into the wire. We put a pencil tick at the end of the
+tongue on the lofting, repeating this every few feet.
+Station lines: The next step is to draw in the station
+lines. In laying these out, you will want the first and
+last stations about equal distance from the ends of the
+lofting floor so that you have some working room at
+each end of your lofting. Using a full length steel tape,
+mark and label in light pencil all the station points on
+the baseline.
+We distrust the first inch of a steel tape. To be sure of
+accurate measurements, we slide the tape to its 1" mark
+and tick the surface at the 5" mark. Retract the tape so
+that its 4" mark lines up with the tick on the board.
+Everything is again at zero. Some people slide the tape
+to the 1" mark and add the inch to all dimensions, but
+we have managed to saw things an inch too short too
+many times using this system.
+Because an accurate lofting depends on the accuracy
+with which you lay out the foundation or grid, always
+double check grid dimensions before going on to the
+next step. It is important to note at this time that you
+must lay down all of the grid dimensions, i.e., station
+spacing, waterline spacing, buttock spacing, etc.,
+exactly as the designer specifies. They might be hard 
+to scale from the lines drawing, but the designer gener-
+ally specifies the distances between all of these lines
+somewhere on the plans.
+Next, erect the station lines perpendicular to the points
+you have marked on the baseline. We use the following
+procedure. Construct a perpendicular line at the forward
+station, using a bar compass. Work to as high a degree
+of accuracy as possible. (See Figure 16-4.) Using the
+straightedge, draw the line in ink and extend it a few
+inches above the highest point of the boat to be lofted.
+Using the square and a pencil, lightly draw the station
+line at the opposite end of the lofting. Extend it a few
+inches above the boat’s highest point. Measure from the
+baseline up these two station lines to the height of the
+boat plus a few inches so that you have a point of equal
+distance from the baseline on each station line, now, of
+course, parallel to the baseline. Starting at the station
+line which was geometrically constructed and drawn in
+ink, run a steel tape parallel to the string and mark the
+locations of the upper points of the station lines.
+Figure 16-5 An arrangement for tightening the baseline
+cable.
+Figure 16-6 A jig or gauge for transferring the baseline to
+the lofting board.
+Cleats nailed to the floor
+trued and leveled with
+transit if possible.
+Secure pivot point
+Pivot this arm
+to tension cable
+Jig for marking baseline
+off the cable
+Do not slide the jig along
+the wire – just set it lightly
+against the wire every foot
+or so.
+Jig
+
+--- PAGE 186 ---
+172
+First Production Steps
+After checking the station line dimensions, use your
+straightedge and draw in all the station lines in ink. Be
+sure to check the station line that you drew in with the
+square using light pencil, as the square might be slightly
+inaccurate. Using the felt tip pen to make a fat, easy-to-
+see line, label the tops and bottoms of the station lines
+with the station number. It is good to keep this labeling
+below the baseline and above where the lines of the
+boat will intersect the station lines.
+To make it easier to lay out the rest of the grid, nail
+a l"  2" block about 6" long (19mm  38mm 
+150mm) at each station line. Position the blocks on the
+lofting floor so that they are below and just touching
+the baseline and are approximately centered on each
+station line. Don’t nail the blocks down too firmly;
+several may have to be temporarily removed when you
+fair your battens. You will now be able to use
+measuring sticks that will follow the station lines and
+firmly butt against the blocks, saving you from having
+to crawl down to the end of the station line each time
+to make sure that the measuring stick is exactly on the
+baseline.
+Waterlines: The next job is to lay out all of the water-
+lines in the profile view. These will run parallel to the
+baseline, and the distance between them will have been
+specified by the designer. In order to save time and
+eliminate potential errors, we use a measuring stick to
+mark the locations of the waterlines, rather than relying
+on a steel measuring tape at each station. Marking a
+measurement of, for example, waterline 2 at 3'-43⁄16"
+once on a measuring stick is much less trouble than
+having to look this measurement up on the plans and
+lay it out each time with a steel tape. The measuring
+stick is nothing more than a stick that has the locations
+of all the waterlines from the baseline up. Lay the steel
+tape along the measuring stick and accurately mark and
+label the heights of all the waterlines above the baseline.
+Then lay the stick along the station line and butt it
+against the block nailed to the baseline. Make a light
+pencil mark on the station line at the location of each
+waterline. Repeat this procedure at every station line.
+Then, using the straightedge, connect all the parallel
+dots and draw in all the waterlines using ink. You can
+use the same ink color that you are using for the
+baseline and the station lines. Label each waterline on
+the ends.
+Buttock lines: The next job is to lay out the buttocks.
+In drawing the buttocks, you will be using the baseline
+as a centerline and drawing the buttocks as straight
+lines as they are represented in the half breadth view.
+Make a measuring stick for locating the buttocks,
+following the same procedure that you used to lay
+down the waterlines. Use a different ink color in order
+to distinguish the buttocks from the waterlines. Label
+each buttock. If a buttock and waterline coincide, label
+the lines as both.
+The body plan: The last job in completing the grid 
+is to lay out the grid for the body plan. As mentioned
+before, some loftsmen use a separate portable board on
+which to draw the body plan, but we draw the body
+plan right on the lofting floor, using a station line near
+the center of the boat as the centerline of the body plan.
+The following directions are for drawing the body plan
+on the lofting floor.
+Determine which station line you are using for the
+centerline of the body plan. On one side of the center-
+line, you will be laying out the body plan from the stern
+to the widest part of the boat, and, on the other side,
+from the bow to the widest point. The waterlines you
+have already drawn will be passing through the body
+plan at their proper places and will need no further
+work. However, you will have to draw in the buttock
+lines. Because the body plan represents a view from the
+ends of the boat, the buttocks will be vertical lines
+parallel to the centerline and at the same distance out
+from the centerplane as they have been drawn in the
+half breadth plan. Take the buttock measuring stick you
+have already made and place it at right angles to the
+centerline of the body plan. The upper and lower
+waterlines are convenient places to position it for
+marking. Draw in the buttocks on both sides of the
+centerline and parallel to it. Ink in the buttocks using
+the same ink color that you used for the buttocks in the
+half breadth plan.
+The next job is to lay out the diagonals in the body
+plan. If the boat has diagonals, these lines will be repre-
+sented in the lines drawings of the body plan as straight
+lines extending out from the centerline at various
+angles. The designer feels these angles will be advanta-
+geous in fairing the shape of the hull. A study of the
+body plan usually shows the diagonals starting at the
+
+--- PAGE 187 ---
+Chapter 16 – Lofting
+173
+intersections of the waterlines and the centerline, and
+somewhere out in the body plan crossing an intersec-
+tion of lines, possibly that of a waterline and buttock. If
+this is not the case, you will have to use whatever other
+information the designer supplies to develop the diago-
+nals. This may be an angle measured in degrees. Once
+you have located these diagonal lines on your body
+plan and have double checked them, ink them in. Use
+a different ink color from that used for the other lines
+and be sure the color you pick will be easily distin-
+guished from the color you are using for the waterlines.
+Later on, waterlines and diagonals will be coming close
+together at low angles in the half breadth view of the
+lofting, and you need to take care not to get them
+confused. The grid is now completed.
+The Sheer Line
+Although some expert loftsmen lay down several lines
+at one time, we find it less confusing to lay down and
+fair one line at a time, making sure it is correct before
+going on to another.
+The first curved lines we put down in lofting a hull are
+the lines which outline the profile of a boat. Usually we
+begin with the sheer line. Go to the table of offsets for
+the profile view, given in distances from the baseline.
+Then, at each station line, carefully measure the dimen-
+sions from the baseline given in the offsets. Lay a fairing
+batten on these points.
+To fair a line: Select or mill a batten that will bend into
+a curve between the points to be faired. The object is to
+get the right flex—not so stiff that the batten breaks or
+moves the weights, nor so flimsy that the batten waves
+and makes it difficult to lay down a fair curve. First, lay
+the batten so that its edge is on the marks where the
+sheer line meets the foremost and aftermost stations,
+allowing equal overhang at each end. Hold it there
+using either lofting weights or small nails. If you use
+nails, put them beside the batten so the batten can slide
+lineally when you make any corrections (i.e., never nail
+the batten to the lofting). Go to the mid-station and
+push the batten until its outside edge is on the mark
+and secure it in position. Continue moving the batten
+at the station marks, making the batten touch every
+point if possible.
+If there seem to be any errors at this point, i.e., the
+batten is 1⁄2" (12mm) or more off a mark, we first 
+check to see if we have made any errors in taking the
+measurements from the offsets. If not, we then check
+the lines drawing with a scale rule to see if the offsets
+are correct. If it appears the designer has made a major
+error in transferring the measurement from the lines
+drawing to the offsets, we measure the lines drawing as
+carefully as possible and transfer the new measurement
+to the profile view. We also correct this in the table of
+offsets.
+Once we have checked for major errors, we move 
+the battens off the measurement points the minimum
+amounts to attain a fair curve. There is no scientific
+formula for the fairness: the curve should be pleasing 
+to the eye, and it should have no humps or flat spots.
+The best way to check a curve is to get your eye down
+level with the batten and sight along it looking for
+deviations.
+Take your time sighting the batten to correct any errors
+in the curve. Move the batten the least amount possible
+to establish a fair curve and sight along the batten again.
+Once you are satisfied, draw the sheer line in ink. The
+color used in drawing the buttock lines in the grid would
+be good for the sheer line and other profile lines.
+Other Profile Lines
+The other lines which outline the profile of the boat are
+the keel line and the lines for the stem. Lay these out 
+in the same manner as you did the sheer line, taking
+the measurements from the table of offsets and using a
+batten to fair the lines. Ink the lines when they are fair.
+In boats that have planking that ends in deadwood,
+there will be a rabbet line. This usually shows the
+shapes of the inner keel and stem and should be laid
+out too. We don’t have a rabbet for the planking in 
+our method of construction because we laminate the
+deadwood and outer stem on the hull after planking.
+The Deck Line
+The next line we lay out is a half breadth, or top view,
+of the deck line. The offsets for this line appear in the
+table of offsets shown in half breadth from the center-
+line. Transfer the measurements and fair this line as you
+
+--- PAGE 188 ---
+174
+First Production Steps
+did the sheer line. Double check any major errors and
+then move the batten just enough so that it forms a fair,
+even curve. Draw in the deck line in ink. The lines that
+you have drawn so far are final, and it won’t be neces-
+sary to change them during the lofting process.
+Body Plan Sections
+With the drawing of the grid, profile lines, and deck
+line, the primary lines of the lofting are complete. The
+next step is to lay out the body plan, which is the section
+view of the stations. The profile lines and the deck line,
+drawn in ink, will give you the height of the keel profile
+above the baseline and the height and width of the sheer
+at any given station. The first job is to transfer these
+dimensions—as faired, not as given in the table of
+offsets—from the profile and half breadth views to 
+the body plan using pick-up sticks.
+Pick-up sticks do just that: they pick up a dimension
+from one area of the lofting and transfer it to another
+area or view. They are much easier to use and provide
+less chance for error than a steel measuring tape.
+Pick any station to start with in transferring the profile
+and sheer points to the body plan. Lay the pick-up stick
+along the station line so that it is touching the block at
+the baseline and the fine edge of the pick-up stick just
+touches the station line. In using the pick-up sticks,
+always label what station line, waterline, or other infor-
+mation you are transferring. In this case, you would
+write the station number and baseline on the end of the
+sticks touching the baseline. Then you would mark and
+label the keel profile height, the sheer height, and the
+deck width. Then take the pick-up stick to the body
+plan grid and lay it along the centerline, touching the
+baseline block in the profile view. Mark the height of
+the keel profile and sheer on the centerline. Lay out the
+stations on the body plan on the same side of the
+centerline as the designer has drawn them in the plans.
+To locate the half breadth deck point, draw a line out at
+right angles to the centerline at the height of the sheer.
+Most loftsmen use the adjacent station to lay out the
+sheer height and connect the two points with the
+straightedge, drawing in a light pencil line. Then,
+measure out from center on this line for the sheer point.
+This is slightly more accurate than using a square off
+the centerline. Once these points are located for a
+particular station, label them according to the station
+they belong to. Lay out the rest of the stations in the
+same manner. These points are permanent and won’t
+change until planking thickness is subtracted.
+The next job, and it is a fairly big one, is to use the
+table of offsets, plus the points that you have already
+located, to lay out the body plan consisting of a half
+section view of each station. Some loftsmen lay out all
+the offsets for the body plan, measuring directly on the
+body plan grid with a steel tape. Other loftsmen prefer
+to lay out all of the dimensions on measuring sticks and
+then transfer the information to the body plan with
+these. Neither method offers a big advantage, although
+it may be easier to work in one spot with a table of
+offsets to mark the sticks than to climb around on the
+lofting board dragging the measuring tape and the
+offsets with you as you go. Whatever system you use,
+label everything carefully.
+If you use measuring sticks, you can put the informa-
+tion for an entire station section on one measuring
+stick as long as this will not result in too much confu-
+sion. To do this, start at one end of the stick and use
+this end as a centerline from which to lay out the
+waterlines. Then use the other end of the stick as the
+baseline to lay out the buttocks, using a different ink
+color from that used for the waterlines. To mark the
+diagonals, choose the end of the stick that is less
+Figure 16-7 Lofting weights and a flexible plastic batten
+being used to fair after sections on an IOR racer.
+
+--- PAGE 189 ---
+Chapter 16 – Lofting
+175
+crowded for the centerline and use a different ink
+color. Then take the marked stick over to the body
+plan grid and transfer all of the information to the
+appropriate waterlines, diagonals, and buttocks.
+Remember that the deck and profile have already been
+faired and won’t appear on the measuring stick.
+When you have laid out all the points, bend a thin
+batten around them, trying to make it touch them all.
+Hold it in place with small nails—on either side of the
+batten, not hammered through it—or weights. If you
+find gross errors, go through the checking process
+explained earlier. Adjust the batten, moving it as little
+as possible from the points, until you have a fair, even
+curve, and then draw in the line in pencil.
+Lay out the rest of the station sections in this manner.
+We suggest laying down the points for only one station
+section and rough fairing that station section before you
+go on to another. Some station section lines will cross
+each other and if points exist for several sections, this
+can get somewhat confusing.
+It will help a little bit when it comes to final fairing 
+if you use some consistency while rough fairing the
+section lines of the body plan. For example, if you
+move station 3 out slightly on the load waterline and
+station 2 needs correction in that area, make the correc-
+tion on station 2 by moving it out slightly at the load
+waterline rather than moving it in on waterline 1. By
+the time the body plan is laid down, although the boat
+is by no means fair yet, it is quite easy to envision the
+shape. Unless a major error is found, the section of the
+aftermost station in the body plan usually remains. On
+the forward half of the body plan, there is sometimes 
+a line close to the centerline, but not necessarily parallel
+to it, which represents the thickness of the boat at 
+the point where the planking ends, but before any
+rounding of the stem has taken place. You need to draw
+this line in also. It will later be used to determine the
+distance from center of the waterlines at the point
+where they run out past the stem. Some designers draw 
+a light line in the profile view called a fairing line,
+which will appear to be some distance ahead of the
+stem, for the sole purpose of determining where the
+waterlines and diagonals, if slightly extended, would
+intersect with the centerline. (See Figure 16-8.)
+At this point, on some hulls, we subtract planking
+thickness. This procedure is discussed later in the
+chapter.
+Fairing the Longitudinal Lines
+The next job, and it is a long one but the essence of the
+lofting process, is to check the fairness of the body plan
+sections using the waterlines, buttocks, and diagonals
+as tools. This process will require continual
+readjustment and fairing of all the lines until the
+measurements and intersections correspond in all
+views. The offsets will no longer be used except to
+check gross errors. Instead, the dimensions will be
+picked up from the lines already laid down in the
+lofting.
+We usually start the fairing process at the load water-
+line. Select a pick-up stick that is longer than the
+widest point at the load waterline of the boat. Place it
+with its sharp edge touching the load waterline and one
+well-squared end touching the centerline of the body
+plan. Label the pick-up stick “load waterline” and label
+the end that is touching the centerline “centerline.”
+Being careful not to move the stick, transfer the widths
+of the load waterline at each station to the stick. You
+will, of course, need to lay the stick on both sides of the
+body plan in order to pick up the dimensions of the
+load waterline at every station in the boat. Then take
+the stick to the half breadth view and use it to lay out
+the waterline widths on their respective stations.
+In the profile view, the load waterline will intersect the
+Figure 16-8 A profile fairing line at the intersection of
+projected longitudinal hull lines.
+Baseline/Centerline
+Fairing line 
+based on 
+projections 
+of deck and 
+waterlines
+Severely radiused stem provides no
+accurate control points for fairing
+waterlines and diagonals
+
+--- PAGE 190 ---
+176
+First Production Steps
+stem or fairing line, and this intersection needs to be
+transferred to the half breadth view. Place your square
+perpendicular to the baseline on the point where the
+load waterline intersects the stem. Project this point
+down to the half breadth centerline. This will give you
+the end point for the waterline in the half breadth view.
+Go back to the body plan and measure the width of the
+stem at this point and transfer it back to the half
+breadth plan.
+Then you are ready to fair the load waterline in the 
+half breadth plan, following the procedures discussed
+earlier. Move the batten the minimal amount off the
+points until the curve looks fair and then draw in the
+line using light pencil. Then remove the batten and
+make a quick survey to see at which stations you had to
+move it from the marks in order to fair it. Use a clean
+pick-up stick to transfer these corrected load waterline
+widths to the appropriate station sections in the body
+plan. You now need to redraw the station sections in
+the body plan to conform to the new waterline widths.
+For this job, use the thin batten. Change the station
+shape the minimal amount to obtain a fair curve that
+touches the corrected load waterline widths. Be sure
+that all station sections that need correction are
+corrected before going any further.
+Usually we pick up another waterline about halfway
+between the load waterline and the sheer. Use the 
+procedure described above for this waterline and again
+make all corrections to the stations. It may be that these
+connections to the station sections are significant enough
+to affect the already fair area of the load waterline. This
+type of discrepancy can appear throughout the lofting
+process. There are no hard and fast rules as to which
+lines should be adjusted if you find such an inconsis-
+tency. Check your measurements and study the
+relationship between your lines in the three views. As
+mentioned before, visually compare the station sections
+for similarity.
+A good choice for the next line to fair would be a
+buttock that is halfway between the centerline and the
+widest point of the load waterline. If you look at the
+half breadth view, you will see where the buttock inter-
+sects the deck line up forward and either the deck line
+or the transom aft. Using the square, transfer the inter-
+section point of the buttock and the deck line to the
+sheer on the profile plan. This is the forward fixed point
+of the buttock. If the buttock runs out before it gets to
+the last station aft, use the same process in the stern to
+transfer the buttock point to the sheer. If the body plan
+shows that the buttock intersects the last station, it is
+just a matter of picking up the distance from the baseline
+to where the buttock intersects the last station section
+and transferring that to the last station in profile.
+Place a clean pick-up stick along the buttock line in the
+body plan so that one end touches the baseline and the
+sharp edge is touching the buttock line. As with the
+waterline, label what buttock line the stick represents
+and label the end of the stick that touches the baseline
+as “base.” Mark all the heights of the station sections,
+labeling which mark represents which station, and
+transfer all of these distances to their respective stations
+in the profile view. Now place a batten on the profile
+view touching the buttock mark at each station and
+sight it for fairness.
+On most buttocks, bending one batten around the
+shape of the buttocks may be a problem. On most
+hulls, buttocks tend to run with just slight curve in the
+midsection of the hull and swoop up sharply towards
+the bow and the stern where the buttock runs out on
+the sheer. We usually fair the middle of the buttock 
+line first, using the same batten that we used to fair the
+sheer, and draw a light pencil line along it slightly past
+the point where the buttock starts to swoop up sharply.
+Then we remove this batten and use a smaller batten to
+fair the buttock where it curves more sharply, carefully
+fairing it into the straighter portion of the buttock. You
+will find, especially in long, skinny hulls, that as the
+buttock swoops up sharply, that area of the buttock
+loses most of its effectiveness in fairing the hull due to
+the low angle at which it intersects the sections in the
+body plan.
+Use the same process for fairing the buttock that you
+used on the waterline. If, when the buttock is faired, it
+is off points that you have picked up from the body
+plan, you must then change the body plan to coincide
+with the new location of the buttock line at that station.
+Again, make all of the changes on the body plan before
+going any further. If there is any major change that 
+will highly distort the body plan in order to make it
+
+--- PAGE 191 ---
+Chapter 16 – Lofting
+177
+conform to the buttock, then the buttock will have to
+be changed again. What you are looking for is that all
+of the lines that you put on the half breadth and the
+profile view are fair and, when the distances from the
+center or baseline to these lines are transferred to the
+body plan at each section, the body plan is also fair.
+The next line we would pick to fair would be a
+diagonal that intersects the hull somewhere between
+the load waterline and the keel. This diagonal section
+view will also use the half breadth baseline as its center-
+line. At this point, some loftsmen like to draw a line
+parallel to the baseline and intersecting the station lines,
+but on the opposite edge of the lofting floor, using this
+line as a centerline for the diagonals to keep them
+separate from the waterlines. Because diagonal sections
+are sometimes very similar in shape to the waterline
+sections, using a common centerline might become
+confusing. However, we usually use the baseline as the
+centerline for the diagonals because later on it will be
+quicker to pick up information necessary for manufac-
+turing various parts of the boat.
+Laying out a section view of the diagonal is similar to
+laying out a waterline. The diagonal will intersect the
+item and transom at certain heights above the baseline.
+For the stem, this might be on a waterline, making
+things very easy. Just follow that waterline to the point
+where it intersects the stem in profile. If it is not on a
+waterline, as in Figure 16-9, take the measurement
+height y from the baseline to the intersection of the
+diagonal and the centerline in the body plan (point r).
+Take this distance y to the profile view and mark off the
+intersection with the stem (point r). Then use the
+square to drop a line vertically down to the baseline to
+locate the point at which the diagonal starts (r).
+For fairing the transom intersection, you need to use
+the point where the diagonal intersects the outside edge
+of the transom (point s). In our example, this would be
+at height x above the baseline. Transfer this distance x
+to the profile view and determine where it intersects
+with the transom (point s). Project this point down to
+the half breadth view (s1). Pick up distance z from the
+body plan, measured along the diagonal from centerline
+to transom line. Mark distance z perpendicular to s1 in
+the half breadth plan to get the point s representing the
+intersection of the transom’s edge and the diagonal B.
+You will fair the diagonal to this point.
+Now lay the pick-up stick with its sharp edge just
+touching the diagonal on the body plan and one end
+touching the intersection of the diagonal to the center-
+line. Label the stick according to which diagonal it is
+and which end touches the centerline. Then, mark the
+distance from center of each of the stations on the stick
+and label. Do this, of course, on both sides of the body
+plan so that all stations are included on the pick up
+stick. Then transfer these distances to their respective
+stations in the half breadth plan, labeling them in light
+pencil as you transfer them.
+Follow the standard fairing procedure of placing a
+batten on the marks and checking for fairness, moving
+the batten the minimal amount possible so that it forms
+an even, smooth curve. Draw the line in light pencil
+and make corrections to the body plan at the stations
+where the batten had to be moved from the marks to
+lie fair. If several sections of the body plan have to be
+grossly changed in order to conform to the diagonal
+section, the diagonal may have to be readjusted in that
+area in order to fair the hull.
+It is now just a matter of going through this fairing
+process with the rest of the diagonals, buttocks, and
+waterlines that shape the hull. Since everything is still
+being drawn in light pencil, take care in labeling all the
+lines to keep track of what’s what. As mentioned before,
+there will undoubtedly be some necessary changes that
+will affect some of the lines that have already been
+faired. An example would be in fairing a diagonal that
+is close to a buttock that is already faired. In order to
+get the diagonal to lie fair, you may have to change a
+couple of station sections, which, in order to keep the
+station sections fair, might necessitate altering one of
+the buttocks lying close to the diagonals. This sounds
+like work, and it is. Any adjustment may necessitate re-
+fairing of other lines, but at this point the changes will
+be quite small to make everything fair. Care in lofting
+will pay off in ease of planking.
+In some respects, lofting reminds us of sanding a hull
+and getting ready to paint it, in that a decision has to be
+made as to when to stop. Most people are quite happy
+if they achieve plus-or-minus 1⁄16" (1mm) accuracy in the
+lofting. In special boats built to a rule, we usually carry it
+out finer than this, trying to be as accurate as possible so
+the boat will fall within the designed specifications of the
+class in which it is racing.
+
+--- PAGE 192 ---
+178
+First Production Steps
+Once you have completed the fairing process, ink all of
+the waterlines, buttocks, and diagonals. Use the same
+ink color that you used to represent these lines in the
+grid and label all of the lines so that they are easily
+identified. Also ink the body plan, although the stations
+that will be used to make mold frames or bulkheads, etc.
+will go through a planking thickness deduction process.
+Lofting Hull Components
+When the basic fairing of the hull lines is finished, the
+lines on the lofting board very accurately describe the
+shape of the hull at any given point. In addition to
+giving the shapes for the permanent frames, bulkheads,
+and temporary molds, the lofting can be used to
+develop special patterns for the stem and keel, jigs for
+laminating, hardware, etc. There are a number of refer-
+ences to such uses of the lofting throughout this book.
+If this is your first boatbuilding project, we recommend
+that you read the entire book and note the references
+that apply to your boat. This will ensure that you make
+maximum use of the lofting. Using the lofting as a tool,
+you can now develop the shape of parts so that you can
+manufacture them to fit accurately in their respective
+areas of the hull.
+For instance, if a bulkhead falls between stations 3 and
+4, erect a perpendicular line from the baseline at the
+location of the bulkhead. Place a clean pick-up stick
+along this line with one end touching the baseline and
+the sharp edge of the stick just touching the bulkhead
+line. Using one ink color, pick up the keel profile height
+of each buttock and the height of the sheer above the
+baseline. Using another ink color, pick up the distances
+from the centerline to the deckline and to all of the
+waterlines. You should, of course, be labeling all of the
+marks as you are making them. Using another ink
+color, pick up the distances of the diagonals from the
+centerline. Then take this pick-up stick to the body
+plan and transfer all the information as you have done
+previously to develop the station sections. Using a thin
+batten, draw in this new section, which will represent
+the shape of the hull at the location of the bulkhead
+before planking thickness is subtracted.
+Figure 16-9  Laying off diagonals.
+Oblique view for illustration only
+Locating ends of the diagonals
+Pick up these dimensions from the centerline out along the diagonal to
+the station intersections. Transfer them to the appropriate stations
+in the half breadth plan to be faired.
+These heights from
+the body plan give the
+intersection of the
+diagonal plane B with
+the profile.
+
+--- PAGE 193 ---
+Chapter 16 – Lofting
+179
+To summarize, it is just a matter of drawing a perpen-
+dicular to locate the part which you want to develop
+and then picking up distances from the centerline or
+baseline to the waterlines, diagonals, and buttocks
+which will best help develop the shape of the part.
+Developing an Angled 
+Flat Transom or Bulkhead
+If the boat has a flat transom or bulkhead that is at an
+angle from the vertical, you have to take a few extra
+steps to develop the shape of such a part. Figure 16-10
+shows the revolution and development of a flat raked
+transom, but it could represent an angled bulkhead for
+chainplates or stay tangs.
+The first step is to locate the intersection of the water-
+lines, sheer, and keel with the transom in the profile
+view. Using a big square, project the lines at right angles
+to the transom profile at the points (a,b,c). It is a good
+idea to check the spacing for accuracy at the outboard
+end of these projections, which you can do quickly and
+easily with a pick-up stick.
+Using the transom profile (or a line parallel to it, as in
+Figure 16-10) as a centerline, draw in lines to represent
+buttocks as they appear in the body plan grid (Buttock
+spacing R). You will now have a grid that resembles the
+body plan, with the waterline spacing expanded.
+Now pick up the distances from the centerline out to
+the intersection of the waterlines (and sheer) and the
+transom line (A, B, C). These measurements can be
+made on either the half breadth (as shown) or body
+plan views. Set off the measurements on the correspon-
+ding waterlines in the transom grid (A, B, C).
+Next locate the intersections of the buttock lines and
+transom in the profile view. Project perpendiculars from
+these points on the transom profile out to where they
+intersect their corresponding buttocks in the expanded
+transom view. Take care to project these points
+accurately.
+You will now have a set of points (a, b, c, d, e, f,
+g) that describe the true size of the transom. Pick up
+the flexible batten that you used for the other station
+sections and, using weights or small nails, make it touch
+all the points marked on the temporary grid. The profile
+point at the keel will be where the special station line
+intersects the profile line. Slight inaccuracies may have
+crept in during the development of the section, in which
+Figure 16-10 Developing a raked flat transom.
+Half breadth dimensions
+of waterlines at transom
+Grid spacing of
+buttocks lines
+
+--- PAGE 194 ---
+180
+First Production Steps
+case you may have to move the batten slightly in order
+to make the section fair. If there is a major error, go
+back and check through the development process. When
+everything is right, this transom or angled bulkhead will
+look similar to the vertical stations on either side,
+although it will be expanded or more drawn out.
+Curved Transom Development
+It is quite common with bigger boats to have a transom
+that is both curved and raked, either forward or aft, at
+an appreciable angle. To develop transoms of this shape
+is a little complicated, but the following instructions
+and Figure 16-11 provide a fairly standard method.
+The basic principles involved in the development of the
+curved raked transom are most easily understood if you
+consider the transom as being part of a cylinder. As with
+the cylinder, it is curved in one direction (athwartship)
+and straight in the other (fore and aft or vertical).
+Looking at the lines plan, you will see that the buttock
+planes intersect the transom as straight lines, these
+being elements of the cylinder. You will use these
+buttocks as you expand or roll out the transom from its
+curved shape to a flat one.
+The first thing to do is to project an auxiliary view of
+the after sections of the boat and deck line at a line of
+sight parallel to the centerline of the transom in profile.
+(See Figure 16-11.) Begin by extending the centerline of
+the transom in profile up clear of the other views. As
+close to the other drawing as possible, draw in an auxil-
+iary grid centerline at right angles to this extended line.
+Tangent to this intersection, swing an arc of the radius
+noted on the designer’s plans for the transom. This is
+the curve to which the transom will be laminated when
+it is built. Measuring out from the auxiliary centerline,
+draw in the buttocks parallel to this centerline, spaced
+as they are in the half breadth plan (a, b, c, d). Then
+project the points where the auxiliary buttocks intersect
+the design arc of the transom down from this auxiliary
+view to the corresponding buttocks in the profile view.
+It is also necessary to determine the true intersection 
+of the sheer and the transom in this auxiliary view. To
+do this, first project the intersections of the aft two (or
+three) station lines with the profile sheer up into the
+view. These projections will intersect the auxiliary
+centerline at 90°. Pick up from the half breadth plan 
+the distance from the centerline to the deck line or the
+aft sections. Transfer these dimensions to the auxiliary
+view, from the centerline out along the station projec-
+tions. Fair a batten through these marks. This sheer 
+line will intersect the arc of the transom.
+Next, prepare the grid for the expanded transom. You
+can use the transom centerline in the profile view as 
+the centerline for the grid or draw a centerline parallel
+to it but a little away to keep things clear. Lay a batten
+around the arc in the auxiliary view and pick up the
+buttock spacing (a, b, c, d) and the point where 
+the arc intersects the deck line. Then transfer these
+distances, laying the batten straight and at right angles
+to the expanded transom centerline. Draw in the
+buttocks parallel to the centerline and also lightly draw
+the line (parallel to the buttocks) that represents the
+intersection of the deck line and the transom (e). This
+gives one half the true width of the transom if it were
+laid flat. Go back and identify the points in the profile
+view where the projections of the buttocks from the
+auxiliary view intersect the buttocks. Project these
+points (m, n, o, p) out to the expanded transom grid,
+where their intersections with their respective buttocks
+will outline the shape of the transom.
+If more points are needed for accuracy in developing
+the shape of the outside edge of the transom, add more
+buttocks to the body plan in between the standard
+buttocks. Using a pick-up stick, transfer the heights for
+the last three stations to the profile view. Then follow
+the process used with the primary buttocks to get the
+additional points.
+It will be necessary to know the amount of deck crown,
+so this, too, should be projected. Some designers give
+the amount of deck crown as a percentage of beam at
+any point, while others give a centerline that runs above
+the sheer line to show the amount of deck crown. We
+generally allow slightly more material on the transom
+than is necessary for the deck camber by lightly drawing
+a line parallel to the sheer, but above it, at least as high
+as the deck camber will be at the stern. Draw this line
+far enough to intersect the projected profile centerline
+of the raked transom. From this point of intersection,
+draw another line to the intersection of the deck line 
+in the outer corner of the transom. Give this line more
+
+--- PAGE 195 ---
+Chapter 16 – Lofting
+181
+Figure 16-11 Developing a curved raked transom.
+Expanded Transom
+Auxiliary View
+Profile
+Half breadth
+
+--- PAGE 196 ---
+182
+First Production Steps
+curve than would appear on the standard profile plan to
+allow for plenty of fairing material on the transom.
+Looking at the previous work, note that the buttock
+lines projected down from the auxiliary view intersect
+the top of the transom in the profile view. Project these
+intersections out to the respective buttocks on the grid
+for the expanded transom. Connect the dots with a
+flexible batten. This will allow more than enough
+material for fairing. Later on in construction we make a
+template of the exact deck crown at the point where the
+transom meets the deck line. This, along with the other
+deck beams installed in the boat, allows us to use a
+batten to accurately fair the edge where the deck meets
+the transom.
+Further reading on transom development, as well as on
+other lofting specialties, can be found in the sources
+listed at the beginning of this chapter.
+Subtracting Planking Thickness
+Boats are lofted to the outer thickness of their planking.
+Before you can build any interior frames or molds, you
+need to subtract this planking thickness from the body
+plan and special bulkhead layouts. We usually do this
+as we lay down the body plan and before we fair in 
+its lines. This 

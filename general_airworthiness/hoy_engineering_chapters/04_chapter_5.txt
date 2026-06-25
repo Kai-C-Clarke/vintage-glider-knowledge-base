@@ -1,0 +1,15 @@
+# Chapter 5
+
+Electrical Systems
+(FAA-H-8083-30B, Chapter 12 (Also for Part66 Module 1L.3))
+(AMP 1-11)
+Sections:
+1
+General Description and Components
+57
+2
+Inspection of Electrical Systems
+59
+3
+Battery Charging and Testing
+60

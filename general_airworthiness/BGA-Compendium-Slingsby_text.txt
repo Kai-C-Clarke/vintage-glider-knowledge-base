@@ -1,0 +1,1318 @@
+
+--- PAGE 1 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+1 
+CONTACT 
+Slingsby Aviation Ltd, Kirbymoorside, York. YO6 6EZ. 01751 432474 
+ 
+T 1 Grasshopper 
+Air Cadet Operational Notes and Maintenance Manuals are available from the BGA 
+ 
+Tutor (Cadet Mk 2) & T.31 (Cadet Mk 3, Tandem Tutor) 
+Tutor Data Sheet  
+Kirby Cadet_Mk3 & T31B (Tandem Tutor) Data Sheet 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Special Inspection 
+Special Inspection 
+TI 03 
+ 
+ 
+Care & Maintenace 
+Care & maintenance of Sailplanes manufactured prior to 1947 
+TI 04 
+ 
+M 
+Main spar failure 
+Inspection and modification of front wing spar 
+TI 23 Mod 80 
+ 
+ 
+Rudder cable stops 
+Adjust to avoid fin loads 
+ 
+08/89 
+ 
+T21A & B Sedbergh 
+T21B Data Sheet 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+TX Mk 1_Air_Publication 
+Sedberg tx mk 1_air_publication_4309a vol 2 
+Air_Publication_4309A Vol 2 
+ 
+ 
+T21B_BGA_MOD-2004-05 
+T21B replacement tyre & inner tube. 
+T21B_BGA_MOD-2004-05 
+ 
+ 
+T21B_BGA_MOD 2004-12a 
+Replacement tail plane strut mounting (Steel). 
+T21B_BGA_MOD 2004-12a 
+ 
+ 
+T21B_BGA_MOD 2004-12b 
+Replacement tail plane strut mounting (Steel). 
+T21B_BGA_MOD 2004-12b 
+ 
+ 
+T21B_BGA Mod 2005_03 
+T21B Installation of C of G release hook 
+T21B_BGA Mod 2005_03 
+ 
+ 
+C of G Hook Mod Photographs 
+C of G Hook Mod Photographs 
+Hook Mod Photographs 
+ 
+ 
+Tow hook 
+Side plates cracked 
+ 
+10/93 & 08/80 
+ 
+Control stick  
+Interconnect – failure threads cracked  
+ 
+12/93,10/91 & 06/83 
+ 
+Drag spar 
+Attachment at pylon front cracked at bolt-hole 
+ 
+10/83 
+ 
+Elevator 
+Disconnection in flight clevis pin too long - safety pin fouls on tailplane 
+ 
+06/84 
+ 
+Elevator 
+Drive rod failure at ball-end fitting in cockpit - inspect annually 
+ 
+08/85 
+ 
+Elevator 
+End fitting to drive tube rivet failure- inspect annually 
+ 
+02/96 & 08/95 
+ 
+Main frames 
+1 & 4 cracked inspect annually 
+ 
+10/85 & 06/86 
+ 
+Control cables 
+Damaged by lightening 
+ 
+04/87 
+ 
+Rudder cable stops 
+Adjust to avoid fin loads 
+ 
+08/89 
+ 
+Wing root fittings 
+Cracks in welds 
+ 
+06/93 
+O 
+Weak Link 
+For mod BGA 2005/03 C of G release, BLUE link is approved 
+ 
+5/2006 
+
+--- PAGE 2 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+2 
+T41 Skylark 2 
+Skylark 2 & 2B Data Sheet  
+ 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+    Tailplane attachments 
+Rigging and Inspection instructions 
+TI 01 
+ 
+ 
+Trimmer control/T&S batteries 
+Trimmer inspection & adjustment/modified battery attachment 
+TI 02 
+ 
+ 
+Aileron mass balance weights 
+Inspection instructions 
+TI 05 
+ 
+ 
+Elevator control connection 
+Tightening down of wing nut 
+TI 07 
+ 
+ 
+Damage to elevator cables 
+Inspection & recommended action 
+TI 09 
+ 
+M 
+Shoulder harness 
+Canvas seats 
+TI 12 Mod 96 (CAA) 
+ 
+M 
+Shoulder harness 
+Non canvas seats 
+TI 14 Mod 97 (CAA) 
+ 
+M 
+Canopy catch 
+Improved type (lift off) 
+TI 13 Mod 98 (CAA) 
+ 
+M 
+Canopy catch 
+Improved type (hinged) 
+TI 11 Mod 99 (CAA) 
+ 
+ 
+Rudder stops 
+Adjust to avoid fin load 
+ 
+06/87 
+ 
+Fin spar inspection at the base 
+Annual & after heavy landings etc 
+TI 107/T50 
+08/87 
+ 
+Rudder cables 
+Fouling on the fin 
+ 
+04/88 
+ 
+ 
+T42 Eagle 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Security of canopy catch 
+Correct operation of locking catch 
+TI 10 
+ 
+ 
+Canopy retention strap 
+Fouls rear stick 
+TI 18 Mod 1 
+ 
+M 
+Wing spars 
+Strengthening 
+TI 19 Mod 5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 3 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+3 
+T43 Skylark 3 & T.50 Skylark 4 
+Skylark 3 Data Sheet 
+ 
+Skylark 3B & D Data Sheet  
+Skylark 4 Data Sheet 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Elevator control connection 
+Tightening down of wing nut 
+TI 01 
+ 
+ 
+Trimmer control 
+Battery attachment 
+Inspection & adjustment of trimmer control system 
+Modified attachment for turn & slip batteries 
+TI 02 
+ 
+ 
+Care & maintenance 
+Care & maintenanceof sailplanes over 10 years old 
+TI 04 
+ 
+ 
+Airelon mass balance weights 
+Special instruction of airelon mass balance weights 
+TI 05 
+ 
+ 
+Elevator control connection 
+Tightening down of wing nut 
+TI 07 
+ 
+ 
+Airelon cable bolts 
+Wear on 2 B A bolts attaching airelon cables to wing joint 
+TI 08 
+ 
+ 
+Security of IP-113 canopy catch 
+Correct operation of handle 
+TI 10 
+ 
+M 
+Wing root strengthening 
+ 
+Mod 7 
+ 
+ 
+Wing fittings 
+Severe corrosion inspect & treat as necessary 
+ 
+10/96 & 12/81 
+M 
+Harness attachments 
+ 
+Mod 96 & Mod 97 
+ 
+ 
+Canopy catch worn 
+Excess backlash external lever does not function 
+Mod 99 
+06/83 
+ 
+Fin spar inspection at the base 
+Annual & after heavy landings etc 
+TN 107/T50 
+08/87 
+ 
+Rudder stops 
+Adjust to avoid fin loads 
+ 
+06/87 
+ 
+Aileron misrigging 
+Fit wing tips with ailerons neutral 
+ 
+10/92 
+ 
+Aileron pip-pin connector 
+Failed - aileron disconnected 
+ 
+06/93 
+ 
+Elevator misconnected 
+Driver lower lug not in slot - loosens in flight 
+Skylark 3 
+04/97 
+ 
+Rudder horn 
+Severe corrosion 
+ 
+02/99 
+ 
+ 
+T45 Swallow 
+Swallow Data Sheet 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Elevator control connection 
+Tightening down of wing nut 
+TI 07 
+ 
+ 
+Port rudder pedal fouling 
+Inspect to avert possibility of port rudder fouling 
+TI 15 
+ 
+ 
+Lack of full rudder deflection 
+Rectification of fault 
+TI 33 
+ 
+M 
+Canopy catches 
+Insecure 
+Mod 10 
+ 
+ 
+Fin spar 
+Damaged by rudder cables after wearing through the fairlead 
+ 
+04/88 
+ 
+Rudder stops insecure 
+Resulting in rudder over-travel 
+ 
+ 
+ 
+Cockpit torque tube 
+Cracks 
+ 
+12/90 
+ 
+ 
+ 
+
+--- PAGE 4 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+4 
+T49 A & B Capstan 
+T49B Capstan Data Sheet 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+T49B Capstan Mod 2 
+Improved wing to fuselage fairing  
+TI 21-Mod 2 
+ 
+ 
+T49 Capstan 
+Improved access to dive brake adjustment in wing -  
+TI 26 
+ 
+ 
+T49B Capstam Mod 5 
+Reinforcing of the canopy front lamination 
+TI 27 
+ 
+ 
+Cracks in bracing at frame 3 
+ 
+ 
+08/74 
+ 
+Air brake rod 
+Threaded end fractured adjacent to the brake 
+ 
+03/75 
+ 
+Tow release 
+Cable frayed at pulley guard 
+ 
+08/84 
+ 
+Rudder lower hinge 
+Corroded 
+ 
+12/82 
+ 
+Rudder stops 
+Adjust to avoid fin loads 
+ 
+08/87 
+ 
+Rudder-post 
+Cracked at weld 
+ 
+10/93 
+ 
+Airbrakes jammed 
+Protruding bolt on brake paddle 
+ 
+06/97 
+ 
+Fuselage skin 
+Damaged by skid rubber air brake mechanism damaged 
+ 
+08/98 
+ 
+Rudder cables 
+Damage airbrake rod cables wrapped around rod behind cockpit 
+ 
+08/98 
+M 
+Rudder torque tube 
+ Inspection and modification 
+BGA 029/05/2002 iss.1 
+06/02 
+ 
+ 
+T51 Dart 15, 15R, 15WR, 17, 17R, 17WR 
+Dart 15 & 17 Data Sheet 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Replacement Label 
+Replacement of retractable undercarriage label 
+TI 28 Mod 63 & 64 
+ 
+M 
+Undercarriage strengthening 
+Strenghtening of manual retractable undercarriage 
+TI 29 Mod 66 
+ 
+ 
+Tailplane mass balance weight 
+Increase in tailplane mass balance weight 
+TI 30 Mod 67 
+ 
+ 
+Alternative to Mod 67 
+Alternative to Mod 67 
+TI 32 Mod 67A 
+ 
+ 
+Undercarriage body down lock 
+Replacement of retractable undercarriage (manual) body down lock 
+TI 35 Mod 69 
+ 
+ 
+Drag spar safety pins too long 
+Become unlocked 
+ 
+08/79 
+ 
+Aileron flutter 
+Caused by excessive backlash (5 mm total play) 
+ 
+10/76 & 10/83 
+ 
+Longerons 
+Cracked at frame 6 in-flight break up inspect annually & after any 
+“event” 
+ 
+04/85 
+ 
+Centre section frames & diagonals 
+Cracked 
+ 
+08/85 
+ 
+Longerons inspection 
+After heavy landings etc & annually 
+ 
+08/87 
+ 
+Spar 
+Corrosion at wing root 
+ 
+04/93 & 12/91 
+M 
+Dural spar boom 
+Corrosion at bond mandatory inspection every 5 years 
+TI 109 iss 3 
+ 
+Revised inspection at issue 3 
+ 
+12/97 & 08/00 
+ 
+Elevator flutter 
+Excess play between elevators 
+ 
+10/98 
+
+--- PAGE 5 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+5 
+T53/YS-53 Sovereign 
+Slingsby T53 & YS53 Data Sheet 
+ 
+Slingsby T53B - Specific airworthiness specification - CAA SAS.A.088 Issue 2 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Airbrakes locked out 
+Mechanism jammed at fuselage frame 6 
+ 
+08/80 
+M 
+Elevator lever mounting bracket 
+ 
+Replace (at rear control box) 
+ 
+TI 36, Mod 11 
+05/81 
+ 
+Lifting Handle 
+Introduction of stronger lifting handle 
+TI 38 Mod 10 
+ 
+ 
+Modification to fuselage 
+Modification to fuselage between frames 4 & 5 
+TI 39 Mod 14 
+ 
+M 
+Tailplane incidence change 
+ 
+TI 40, Mod 15 
+05/81 
+M 
+Wing centre section 
+Inspection and strengthening 
+AD 002-05-81, TI 66 & TI 68 
+05/81 
+M 
+Wing attachment 
+Bracket (frame 6) inspection and replacement 
+AD 003-05-81, AD 004-05-81, 
+TI 69 & TI 70 
+05/81 
+ 
+Wing attachment 
+Bracket (frame 6) inspection of replacement parts 
+TI 90 
+02/80 & 05/81 
+ 
+Centre sections cracks 
+At frames 4 & 6 
+TI 100 
+08/85 
+ 
+Frames 4 to 6 
+Corrosion and loose rivets 
+ 
+08/86 
+M 
+Wing 
+Inspection of centre section 
+AD 001-10-82, TI 100/T53 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 6 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+6 
+T59 A, C, D & H Kestrel 17, 19, 20 & 22 (Kestrel ”2”) (See Glasflugel section for Glasflugel 401 aircraft) 
+T59 TCDS            Slingsby Glass Fibre Repair Manual 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Pre-rigging inspection – root end 
+Pre-rigging inspection of root end of main spar T59C 
+TI 41 
+ 
+M 
+Canopy 
+Modify canopy catch spigot mounting 
+TI 43, Mod 4 
+1973 
+M 
+Landing Gear 
+Reposition bolts on u/c operating shaft 
+TI 44 Mod 5 
+ 
+ 
+Seal flaps and ailerons 
+ 
+TI 49, Mod 11 
+1973 
+ 
+C of G Limit 
+C of G limit from 14.76" to 15.83" 
+TI 52, Mods 9 & 13 
+1973 
+M 
+Aileron 
+Mass balance limits changed to avoid wing flutter 
+TI 54 
+1973 
+ 
+Rudder pedal gearing 
+Reduction of rudder pedal gearing 
+TI 56 Mod 17 
+ 
+M 
+Controls 
+Introduction of take off flap position on landing flap control 
+TI 57 Mod 15 
+ 
+ 
+Fuselage rigging bars 
+Fitting of hardened steel pins to fuselage rigging bars 
+TI 59 Mod 16 
+ 
+ 
+Emergency pitot installation 
+Emergency pitot installation 
+TI 60 Mod 14 
+ 
+ 
+Wings 
+Inspection 
+TI 62 
+ 
+ 
+Elevator 
+Actuator fitting inspection 
+TI 63 
+ 
+ 
+Landing flap rods 
+Check for end bending 
+TI 64 
+ 
+M 
+Elevator actuator replacement 
+By part number 59A-30-25 
+TI 65, T65 iss 2 Mod 18 
+1974 
+ 
+Rudder actuator 
+Improved bearings fitted 
+TI 67 iss 2, Mod 26 
+ 
+ 
+Ruddrer chord 
+Extension of rudder chord by 76mm 
+TI 71 Mod 25 
+ 
+ 
+Dive Brakes 
+Operating limitations 
+TI 72 
+ 
+M 
+Air Brake 
+Control system improvement 
+TI 75, T75 iss 2. T75 iss 3 Mod 28 
+04/75 & 06/75 
+ 
+Root rib 
+ 
+‘Uniballs’ - loctite them in 
+TI 76, Mod 31 
+1975 
+ 
+Rudder cables 
+Inspection 
+TI 77 
+ 
+M 
+Rudder cable failures (fatal) 
+Fit stop to prevent rudder pedals going fully forward. 
+TI 78, Mod 33 
+10/75 
+M 
+Fit servo tab to elevator 
+Series I becomes series II, aft 
+ 
+ 
+ 
+Airbrake 
+Tensions airbrake caps as necessaryto prevent flap flutter 
+ 
+10/75 
+ 
+Controls 
+Repeated failures if pedal geometry is wrong 
+ 
+04/76 
+ 
+Controls 
+Frequently inspect cables in the nose 
+ 
+04/77 
+M 
+New mass balancing limits 
+Addendum 7 to pilot’s notes 
+ 
+01/76 
+ 
+Flap/aileron connections 
+Reversed at bell cranks - check after assembly 
+ 
+07/76 
+ 
+Critical areas 
+Inspection for loose bolts 
+TI 89 
+ 
+M 
+Rudder drive annual crack check 
+Mandatory ‘Magnaflux’ check 
+AD 002 01-82, TI 101/T59 
+08/86 & 12/81 
+ 
+Undercarriage operating arm 
+Weld failure R H side of wheel box 
+ 
+09/82 
+ 
+Flap drive shaft mount loose 
+Damaged while rigging - caused flap flutter 
+ 
+10/83 
+ 
+Flap and aileron ‘buzz’ 
+Max total freeplays 1/8 “ & 1/16“ 
+ 
+06/88 & 10/85 
+
+--- PAGE 7 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+7 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Elevator push rod inspection 
+For internal corrosion 
+TI 106 
+02/87 
+ 
+LE delamination 
+Water ballast leak drill extra drain holes & inspect annually 
+ 
+08/88 & 06/87 
+ 
+Aileron skew-drives 
+Assemble with loctite to minimise backlash 
+ 
+06/88 
+ 
+Aileron LE foul 
+With detached/loose gelcoat- 
+ 
+06/90 
+ 
+Tailplane front mounting lock 
+ 
+Must be wire locked 
+ 
+BGA 
+ 
+Winch hook angle changed 
+Improved launch (optional) 
+ 
+04/99 
+ 
+Water ingress at wing root rib 
+Caused 12” x 6” of disbonding 
+ 
+12/99 
+I 
+Landing gear 
+Operating rod weld failure at attachment to operating shaft (poor 
+weld) 
+ 
+4-2006 
+ 
+ 
+T61 Series 
+(Airworthiness Directives and Mandatory Modifications listed in CAA MAMIS) 
+BGA  .ZIP file with all manuals, drawings and other information.  
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Elevator 
+Change of control rigging pin T61A 
+AD0170 PRE 80, TI 42, Mod 3 
+ 
+M 
+Engine mount studs 
+replacement of 10mm studs 
+AD0171 PRE 80, TI 45, Mod 10 
+ 
+M 
+Canopy 
+Addition of fasteners 
+AD0172 PRE 80, TI 50, Mod 15 
+ 
+M 
+Elevator ctr hinge 
+Inspection & replacement 
+AD0173 PRE 80, TI 53, Mod 16 
+ 
+M 
+Elevator tab 
+Inspection 
+AD0174 PRE 80, TI 55 
+ 
+M 
+Aileron 
+Inspection of operating lever 
+AD 011-10-80, TI 79, Mod 17 
+ 
+M 
+Rudder pedals 
+Reduction of stops 
+AD 012-10-80, TI 80, Mod 18 
+ 
+M 
+Wing root fitting 
+Pin inspection 
+AD 009-11-80, TI 94 
+ 
+M 
+Fuel shut off valve Truma V8M 
+8 year (seals) life limitation 
+AD 82-50/2, SB 653-41 
+02/90 
+M 
+Tailplane 
+Forward bracket inspection 
+AD 003-01-82, TI 102/T61 
+04/90 
+M 
+Wings 
+Inspection of wing centre pin 
+AD 003-06-82 
+04/95 
+M 
+Truma V8 fuel valves 
+Truma V8 fuel valves made after 1/6/96 - exchange valve for new 
+AD 97-140, SB 653-67 
+08/97 
+M 
+Fuel shut off valve NK 490 
+fitted in place of Truma V8M 
+SB 653-70 
+02/98 
+M 
+Wings 
+Inspection of wing centre joint additional limitations 
+AD 001-07-82, TI 103/T61 
+07/82 
+M 
+Structural Audit (F) 
+Inspection of airframe (to be completed by April 2004) 
+TI 111/T61 
+02/03 
+M 
+Fatigue life limits 
+This AD has been raised to mandate revised fatigue lives. 
+G-2018-0001 (issued 12/02/18) 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 8 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+8 
+T61 In Service Reports (Advisory) 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+I 
+SF-25/T-61 elevator tab cables 
+Wire lock at tab 
+ 
+06/73 
+I 
+T-61 spar delamination at wing root  
+ 
+11/74 
+I 
+Longerons corroded at fin post 
+Adjacent to microballoon filler 
+ 
+01/75 
+I 
+T-61 aileron hinges cracked 
+Cracked at pin supporting plate weld 
+TI 73 
+06/75 
+I 
+T-61 elevator push rod fitting 
+Cracks around holes at fork end in fus centre 
+TI 74 
+06/75 
+I 
+Wheel assembly bolt failures 
+Fit larger (8mm) bolts 
+ 
+11/77 
+I 
+T-61 tailplane spar delamination 
+Inspect annually 
+TI 81 
+03/79 
+I 
+SF-25/T-61 compass errors 
+Magnetised canopy frame 
+ 
+12/79 
+I 
+Spar deterioration 
+Water in spoiler boxes 
+ 
+06/95 & 12/80 
+I 
+SF-25/T-61 wing main pin holes 
+Worn & splayed oval 
+ 
+12/80 
+I 
+T-61 ignition switch “live” 
+Test 
+ 
+12/85 
+I 
+Crank case cracks 
+Numerous cases - inspect regularly 
+TI 102 
+02/87 
+I 
+SF-25/T-61 tailplane 
+Front attachment cracked 
+ 
+04/90 
+I 
+SF-25 fuel flow restriction 
+Filter incorrectly installed 
+ 
+06/90 
+I 
+Top harness attachments 
+Secure to transverse tube 
+ 
+02/93 
+I 
+Tubing on fuel gauges 
+Hardens and leaks 
+ 
+06/95 
+I 
+T-61 magneto to crankshaft coupling Failure of type without reinforcing ring 
+ 
+06/96 
+I 
+Rear fuselage structure corrosion 
+Near fin attachments 
+ 
+02/99 
+I 
+Aileron drive bearing failure 
+ 
+Central hanger upper bearing between sticks 
+ 
+04/99 
+I 
+Tailplane front mount cracked 
+through 
+ 
+Inspect for cracks and poor welds 
+ 
+08/99 
+I 
+Throttle cable disconnected 
+Check security at carburettor connection 
+ 
+10/99 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 9 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+9 
+T65 A & D Vega & T.65C Sport Vega 
+Vega T65 15 Data Sheet 
+ 
+Vega T65A Data Sheet 
+ 
+Vega T65A 17 Data Sheet  
+Vega T65C (Sport) Data Sheet 
+ 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Airbrakes inadvertently opening  
+Airspeed restriction - lifted when Mod 12 has been carried out 
+TI 82 
+08/79 
+ 
+Loose pieces of resin in the wings 
+jam ailerons 
+Loose pieces of resin to be shaken out 
+TI 83 
+06/84, 08/83 & 08/79 M 
+ 
+Aileron actuator 
+Fouls outboard hand hole 
+TI 84 
+08/79 
+M 
+Flap/airbrake 
+Modification if Mod 12 not c/out 
+TI 85, Mod 12 
+ 
+ 
+Water tanks 
+Do not pressure fill at more than 2½ PSI 
+TI 86 
+08/79 
+M 
+Wing spigots 
+Replace 
+TI 87 issue 2,3 
+10/79 
+M 
+Wing strengthening 
+ 
+TI 88, Mod 27 
+10/79 
+ 
+Critical areas 
+Inspection for loose bolts 
+TI 89 
+ 
+M 
+Elevator actuator pin retention   Replace circlip with split-pin 
+TI 91 
+04/80 
+M 
+Aileron vibration 
+Mass balance increased (all models) 
+AD 002-05-81, AD 004-01-82, 
+TI 92, TI 95 
+12/80 
+M 
+Elevator centre hinge-mounting    Rib loose in TP - reinforce 
+TI 104 iss 1, TI 104 iss 2 
+11/82 
+ 
+Canopy jettison inoperative 
+Check system annually 
+TI 105 
+11/82 
+ 
+Flap drive failure 
+At universal joint at pilots quadrant Pre Mod 16 aircraft only  
+TI 108 
+08/90 & 08/87 
+ 
+Tailplane attachment 
+Cracks inspection within 6 months and after ground loops etc  
+TI 110/T65 
+06/99 
+M 
+Elevator Drive 
+BGA inspection of elevator drive U channel 
+BGA 006/08/2000 iss1 
+08/00 
+M 
+Flying controls 
+Elevator disconnection and tailplane attachment 
+BGA 013/13/2001 iss1 
+TI 104/T65 iss2 
+04/01 
+ 
+Vega In Service Reports, Advisory 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Seat pan fouls elevator control 
+Cut clearance as necessary 
+ 
+10/80 
+ 
+Canopy lock 
+Screws loose in frame 
+ 
+12/80 
+ 
+Stern post detached from fin skin 
+Inspect & repair as necessary 
+ 
+03/82 
+ 
+Tailplane mounting spigot 
+Tongue cracked at bolt holes 
+ 
+02/83 
+ 
+Rudder travel restricted 
+At extremes of pedal adjustment limit pedal adjustment 
+ 
+06/84 
+ 
+Rudder cables 
+Damaged by a screw at tail wheel retraction hinge, inspect 
+ 
+06/84 
+ 
+Elevator drive at base of fin 
+Delaminated 
+ 
+08/85 
+ 
+Ailerons 
+Jammed by wheel retraction with one U/C mechanism bolt reversed  
+10/85 
+ 
+Elevator hinge 
+Axis & drive misaligned align to avoid excess backlash & flutter 
+ 
+02/88 & 10/86 
+ 
+Undercarriage mechanism wear   Excess free play causes collapse 
+ 
+04/87 
+ 
+Rudder 
+Water drains blocked 
+ 
+06/87 
+ 
+Tailplane 
+Attachments cracks in GRP inspect frequently 
+ 
+02/88 
+
+--- PAGE 10 ---
+Slingsby (UK) 
+BGA Compendium – 07/18 
+ 
+10 
+Status 
+Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Aileron 
+Hinges and drive box corroded 
+ 
+08/88 
+ 
+Tailplane upper skin 
+Unbonded from root rib 
+ 
+02/89 
+ 
+Tow release & brake cables 
+Corroded & failed 
+ 
+06/89 
+ 
+Aileron actuator cover plate 
+Jammed ailerons - always tape into place 
+ 
+06/89 
+ 
+Undercarriage lever failure 
+At rod end bearing in cockpit 
+ 
+06/91 
+ 
+Undercarriage lever failure 
+ 
+At weld on u/c 
+ 
+12/93 
+ 
+Flap drive yokes dis-bonded 
+ 
+Noticed because of excess play in flaps 
+ 
+10/97 
+ 
+Canopy 
+Locking lever must face upwards to prevent accidental canopy 
+opening 
+ 
+08/98 
+ 
+Canopy 
+Latching lever bent, fouling seat and difficult to operate 
+ 
+04/05 
+ 
+Landing gear 
+Frame damaged by incorrectly fitted bolt on operating arm. 
+ 
+3-2006 
+ 
+ 

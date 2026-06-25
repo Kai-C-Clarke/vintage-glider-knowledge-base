@@ -1,0 +1,36 @@
+# Chapter 2
+
+Levelling and Weighing of Gliders
+(AMP 1-9,A,B & C)
+Sections:
+1
+Explanations and Tooling
+18
+2
+Preparation
+19
+3
+Positioning the Glider
+19
+4
+Obtaining the Weight
+20
+5
+Obtaining the Measurements
+20
+6
+Number Crunching
+21
+7
+The Maths
+21
+Appendix 1: Weighing a Single Seat or side by Side 2-Seat Glider
+24
+Appendix 2: Weighing a Tandem 2-Seat Glider
+26
+Appendix 3: Astir CS FMS and BGA Data Sheet
+28
+Appendix 4: Astir Weighing Report
+30
+Appendix 5: Examples of Limitations Placards
+31

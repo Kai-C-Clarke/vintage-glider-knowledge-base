@@ -1,0 +1,2018 @@
+# 7. TYPES OF CONSTRUCTION AND 
+INSPECTION FOR DAMAGE
+
+BELOW we can deal with the matter of 
+inspecting a glider for damage we must 
+first have some idea of how the machines are 
+built and what each part of the structure is 
+meant to do. Gliders can be roughly sub- 
+divided into three main types: two-spar, 
+strutted single-spar and cantilever. 
+Tnis 
+classification applies to the wings. 
+Fuse- 
+lages and tail units we will deal with later.
+The classic example of two-spar con- 
+struction is the Slingsby Tutor. Each wing 
+has two spars running spanwise and each 
+spar has its own strut. All the lift force is 
+taken by these spars in bending and the 
+loads are transmitted to the fuselage by 
+means of the struts. To brace the wings 
+in the fore-and-aft direction (drag bracing) 
+there is a system of diagonal members 
+inside the wing, connecting the two spars. 
+There are also crossed wires bracing the two 
+struts. 
+Thus braced, the wing clearly 
+cannot twist, for if it did it would have to 
+move forward or backward, and this it 
+cannot do because of the diagonal bracing 
+and the strut wires.
+The fuselage of this aircraft is a plain box 
+of ply with four longerons of spruce and a 
+number of frames to stiffen the sides and to 
+preserve the correct shape. The top of the 
+box is not covered with ply, but has a light 
+triangular fairing covered with fabric to 
+give the whole a good streamline form. 
+This triangular top is only a fairing, but it 
+must be realised that all the rest of the 
+fuselage, ply sides and bottom and longe- 
+rons, frames etc., is the main load-carrying 
+structure, and no damage to this can be 
+tolerated if the aircraft is to be considered 
+dirworhy.
+The tailplane is a simple triangle with a 
+leading-edge member or spar on each side 
+and a main spar running from tip to tip. 
+The main spar's chief job is to carry the 
+elevator. The tailplane is attached to the 
+fuselage by two bolts, one at the joint of the 
+leading-edge members, and one at the mid- 
+point of the main spar. These bolts are 
+anchored to frames in the fuselage. 
+The 
+main spar is also stabilised sideways by two 
+small struts to the fuselage frame.
+Struts and wires are expensive in drag. 
+To secure greater efficiency the struts must
+go, or at least two of them. This br'ngs us 
+to the next type of construction.
+The single-spar strutted type is typified by 
+the T-21, Kites I and II, Gull I, Grunau 
+Baby, etc. In this form the wing is built with 
+one massive spar which is placed at about a 
+third of the chord from the leading edge. 
+This is about the average position of the 
+Centre of Pressure for most normal con- 
+ditions of flight. This great spar takes all the 
+lift forces in bending and transfers the load 
+to the fuselage through one single strut on 
+each side of the aircraft. 
+This spar and 
+strut, however, have almost no stiffness in 
+twist, so something else has got to be added 
+to stop the wing from twisting.
+Now the stiffest thing, weight for weight, 
+in twisting is a tube; so the leading edge of 
+the wing is made a wooden tube by forming 
+it out of ply glued to the spar. It is a "D"- 
+shaped tube, it is true, and not a circular 
+shape which we usually assume a tube to 
+be; but it is a tube for all that, and it is 
+enormously stiff in twisting. To deal with 
+the bracing in drag we usually find that at 
+the root of each wing there is a big diagonal, 
+sometimes called the drag spar, which 
+connects up to the fuselage via the rear 
+fuselage pin and runs diagonally forward to 
+join the main spar a few feet out from the 
+root. Usually the triangle formed by the 
+root rib, main spar and drag spar is com- 
+pletely covered over with ply. Outboard of 
+this junction of main spar and drag spar, the 
+drag forces are dealt with by the leading- 
+edge ply tube. 
+This tube is stiffened all 
+along its length by many nose ribs which 
+also ensure the correct aerofoil shape. It 
+will now be obvious that this tube is a vital 
+part of the structure, and it is of the first 
+importance that there should be no damage 
+here. 
+Should any damage be found, the 
+tube cannot do its job properly and the 
+aircraft is not airworthy until the damage 
+has been made good.
+Fuselages in this type vary a good deal 
+irom a wooden girder as in the T-21B, 
+through various shapes of ply box fu .elages 
+to the round or oval section monocoques. 
+These last are pure ply tubes, stiffened 
+where necessary by frames, and by longe- 
+rons or stringers running lengthwise.
+-21-
+
+--- PAGE 29 ---
+From here it is a simple step to the third 
+type of sailplane construction which is 
+The Cantilever Wing
+In this type, instead of hinging the wing 
+on to the fuselage and then holding it there 
+by means of a strut, we simply beef up the 
+spar at the root end and connect the spars 
+of each wing together rigidly so that the 
+main spar can be considered continuous 
+from tip to tip. The fittings in the joint of 
+the two wings do take enormous bending 
+loads, so they have to be very big and 
+strong. In consequence, this type of con- 
+struction is somewhat heavier than the other 
+two types, but this is far outweighed by the 
+gain in aerodynamic efficiency which results 
+from the deletion of the struts. The leading- 
+edge ply tube is there, and it does exactly 
+the same job as before, dealing with the 
+twist and drag forces. Also we find our old 
+friend the drag spar in the root, and the ply 
+triangle boxing-in the root, mainspar and 
+drag spar. 
+Fuselages in these types are 
+usually pure monocoques, for reasons of 
+aerodynamic efficiency. 
+Tailplanes are 
+often mounted as cantilevers, though a few 
+types still use tailplane struts.
+The three-piece wing, which has come 
+into favour lately, merits a word. It is a 
+cantilever just as before, but it has two 
+joints outboard instead of one joint in the 
+middle. 
+The construction of the wing, 
+however, is basically the same: one spar, 
+leading-edge ply tube, etc. 
+It is a little 
+deceptive at first sight, since these sailplanes 
+often use a laminar-flow wing section, and 
+this necessitates the use of ply covering to 
+guarantee the surface finish required. This 
+ply masks a lot of the structure which 
+would otherwise be fairly easy to detect.
+One peculiar type must be mentioned, 
+and that is the Slingsby Prefect. This is a 
+half-and-half type of construction. There 
+are two spars in each wing, but they are so 
+strongly braced together by stout diagonal 
+members that they can almost be con- 
+sidered to be one spar. They are so stiff in 
+twist, like this, that only one strut is needed, 
+and, although the wing has a leading-edge 
+ply box or tube, this does not by any means 
+take all the twisting loads.
+Having acquired some knowledge of what 
+holds the things together, we can now go on 
+to discuss the subject of inspection for 
+damage.
+Now, the usual cause for this inspection
+is when the machine has been subjected to 
+some unusual strain, such as a heavy 
+landing, or when it has been involved in a 
+crash. The first thing to do is to find out, 
+if you can, just exactly what happened. If 
+you can do this, you can then work out what 
+parts of the structure have taken the worst 
+pasting. For instance, a machine may have 
+received a heavy landing by touching 
+lightly on the wheel, rising to four or five 
+feet and then pitching on to its nose. In this 
+case you might well find that the drag 
+bracing was damaged and some of the front 
+frames in the fuselage crushed. 
+On the 
+other hand, a heavy landing may well mean 
+stalling on to the ground from four feet and 
+hitting tail-skid first. In this case you are 
+much more likely to find crushed main 
+bulkheads in the fuselage, torn-out aileron 
+horns, and compression shakes in the top 
+longerons. 
+In case the expression "com- 
+pression shake" is strange to you, it may 
+be as well to say now that we shall go into 
+this more thoroughly later on. 
+The next 
+thing to remember is that you must trace 
+the path of the impact through the structure 
+and follow along each member looking for 
+damage. Never forget that, although the 
+impact came on one end of a member, you 
+may well find the damage at the other end. 
+A longeron, for instance, may get a bash at 
+the tail end from a tail-first landing, but the 
+damage may be right up near the wing 
+where you may find a compression shake.
+Now, what sort of damage do you look 
+for? Well, timber, when it fails in tension 
+or in shear, simply breaks or splinters. The 
+damage is obvious. However, when it fails 
+in compression you may simply find a 
+compression shake. 
+These compression 
+shakes are often very difficult to detect. 
+Often the only visible sign is a hair-line 
+crack in the paint or varnish, running 
+across the grain of the wood. If in doubt, 
+you can always find out whether a 
+suspicious-looking mark is a compression 
+shake or not by a little judicious bending or 
+twisting of the member. 
+If it is a com- 
+pression shake, the crack will open. How 
+does a compression shake occur? 
+To 
+answer this we must first look at the 
+structure of timber itself. 
+An ordinary 
+piece of timber consists of a bundle of 
+fibres running lengthwise, bound together 
+by resinous substances (Fig. 14a). 
+When 
+the timber is compressed beyond its elastic 
+limit (Fig. 14b), the fibres simply fold over 
+for a short length and double back on them- 
+22 
+
+--- PAGE 30 ---
+selves. Needless to say, the timber is now 
+useless and must be replaced.
+Other signs of damage you may find are: 
+pulled fittings, stretched holes in fittings,
+Fig. 14a
+and the fittings themselves moved on their 
+timbers. This last is usually easy to see, as 
+the paint line will show where the fitting 
+was before it shifted. If you find a bracing 
+wire slack, it is almost a certainty because 
+its attachments or the surrounding structure 
+have shifted. 
+Slack control cables also 
+nearly always mean that a fitting some-
+where in the circuit has been pulled out of 
+shape or wrenched adrift from its mounting. 
+Go through the circuit from end to end 
+until you find the damage. As a general 
+rule, it is much quicker and better to replace 
+fittings with new ones rather than to try to 
+repair or reclaim damaged ones.
+Compression
+Shake\:«
+Fig. 14b
+GLIDING BOOKS AND EQUIPMENT
+Gliding Handbook by A. D. PIGGOTT 
+25/-
+The Soaring Pilot by A. AND L. WELCH 
+18/6
+World Sailplanes by OSTIV 
+17/6
+Further Outlook by LUDLAM AND SCORER 
+15/-
+Playground in the Sky by A. F. GOTCH 
+12/6
+Cloud Study by R. s. SCORER 
+* 
+12/6
+Come Gliding with Me by A. WELCH 
+9/6
+Cloud Reading for Pilots by A. WELCH 
+7/6
+On Being a Bird by PHILIP WILLS 
+5/-
+Elementary Gliding by P. BLANCHARD 
+5/-
+F.A.L. Regulations for Records 
+2/6
+Personal Logbooks 
+2/- and 4/-
+B.G.A. Operational Regulations 
+l/-
+Aircraft Logbooks 
+7/6
+and
+Scarves 
+23/-
+Chokers 
+15/-
+Gliding Ties 
+12/6
+(All navy blue with silver stripes and gliders)
+Car/bicycle badges 
+12/6
+Blazer badges 
+5/6
+from
+The British Gliding Association, 19 Park Lane, London, W.I 
+Telephone: HYDe Park 3341
+____
+
+--- PAGE 31 ---
+8. THE C. OF A. OVERHAUL AND 
+WEIGHING OF GLIDERS
+The Certificate of Airworthiness of a 
+glider lasts for twelve months, and may 
+be renewed for a similar period on applica- 
+tion to the British Gliding Association, 
+together with the renewal fee, and a 
+certificate, on the proper form, signed by a 
+B.G.A. Approved Inspector, that the 
+machine is airworthy. This latter involves a 
+complete inspection of the machine, and it 
+is the purpose of this chapter to give an 
+outline of what this involves. Apart from 
+the inspection of the machine as it stands, 
+there are some items which must be re- 
+moved, or stripped, for inspection.
+There is some misconception about 
+Approved Inspectors in some quarters. The 
+Inspector is a man who is qualified to pass, 
+or condemn, a part of a glider, or to pass, 
+or condemn, any work carried out on it. 
+The work itself may be carried out by any- 
+body, but it must subsequently be inspected 
+and certified as O.K. by an Approved 
+Inspector. 
+This means that a Private 
+Owner is perfectly at liberty to do his own 
+C. of A. overhaul on his own glider, 
+provided that he gets his work inspected 
+and approved by an Approved Inspector. 
+Many Private Owners do just this, and the 
+usual way of going about it is as follows: 
+When the C. of A. is soon to expire, an 
+Approved Inspector is contacted and asked 
+to do the inspection. 
+The machine is 
+prepared by removing all inspection panels, 
+etc. 
+The Inspector makes a thorough 
+examination of the whole machine and its 
+log book, and writes down all the repairs, 
+snags, etc., which he deems necessary. The 
+Owner can then carry out the work, and 
+when he has finished it he contacts the 
+Inspector again. The latter then inspects all 
+the work done and satisfies himself that it 
+has been properly done. He then ensures 
+that the logbook has been correctly made 
+up, listing all the repairs carried out. If he 
+is quite satisfied he signs the log book 
+entries, and recommends the renewal of the 
+C. of A.
+Let us assume that you have a glider 
+whose C. of A. you want to renew. Before 
+you do anything else, make sure that the 
+log book is up to date, and that all repairs 
+have been signed up by an Approved 
+Inspector, or you may find that these 
+repairs will have to be opened up and the
+work re-done. Have the machine ready for 
+the Inspector, with all inspection panels off 
+and the seats out, and try to arrange lights 
+so that the whole machine can be easily 
+examined. Assuming that the glider is in 
+reasonable condition, the list below is a 
+rough outline of the work you can expect to 
+have to do: 
+Ail fittings will be checked for corrosion, 
+and any found must be cleaned off and the 
+fittings repainted.
+All main pins, hinge pins, control pins, 
+etc. will be checked for wear and replaced 
+where necessary.
+All control cables must be drawn, in- 
+spected and re-protected. 
+Any damaged 
+ones will have to be replaced.
+All fittings will be examined for security. 
+The whole structure of the machine will be 
+examined for soundness, and any suspicious 
+joints or bad timber made good.
+The fabric covering will be checked for 
+condition and will have to be renewed 
+where necessary.
+All protective coatings w'll have to be 
+made good.
+The instruments will have to be checked, 
+and the A.S.L. calibration verified. 
+All 
+perished rubber piping will have to be 
+replaced.
+The release hook will probably have to 
+be overhauled.
+The wheel, tyre, skids and skid rubbers 
+will have to be checked and replacements 
+fitted where necessary.
+The Inspector may also require the glider 
+to be re-weighed.
+The weighing of a glider is not a difficult 
+matter, provided the equipment is at hand. 
+You will need two big spring balances, or 
+steelyards, a measuring tape, some rope 
+slings, and a good strong overhead beam 
+from which to suspend the glider. Before 
+we start, however, it might be a good idea to 
+get quite clear what we are after, with all 
+this weighing racket.
+The glider is weighed for two reasons, 
+First, we want to find out the empty weight 
+of the glider so that we can determine, 
+knowing the maximum permitted all-up- 
+weight, what payload the glider can carry. 
+Second, and this is rather more important, 
+we want to find out where the Centre of 
+Gravity of the empty glider is. 
+This is 
+ 24 
+
+--- PAGE 32 ---
+vitally important because, in the C. of A. 
+document, you will find the maximum 
+forward and aft positions of the Centre of 
+Gravity (C.G. for short) for the loaded 
+glider are laid down in the C. of A. docu- 
+ment. It is necessary to know the position 
+of the Empty C.G. before the position of 
+the Loaded C.G. can be worked out for 
+various loads. 
+You will find that the 
+Empty C.G position is stated in the C. of 
+A. document, but this will be affected if any 
+large repairs have been done, or the machine 
+has been refabriced; and in these cases 
+the machine must be re-weighed and the 
+new Empty Weight and Empty C.G. 
+position determined By the way, you must 
+not alter the C. of A. document yourself. 
+You must supply the B.C.A. with the 
+information and they will do the alteration. 
+So far, so good. 
+Now to the actual 
+weighing. 
+Hang up your two spring 
+balances to the overhead beam, move the 
+glider into position under them, and by 
+means of the rope slings, hang the glider on 
+the balances. Adjust the length of the ropes 
+until the glider is in flying attitude. As a 
+rough guide to this, get the lower surface of 
+the wing as near the horizontal as you can. 
+In the C. of A. document you will find the 
+C.G. is always referred to as so many 
+inches forward or aft of a Datum Point and 
+this Datum Point is defined. The most usual 
+Datum Point is the leading edge of the wing 
+at the root. We will assume that this is the 
+Datum Point for the glider we are consider- 
+ing. 
+Read the weights indicated on the 
+spring balances, subtracting, of course, the
+weights of the rope slings, etc. Also measure 
+the distances of the slings from the Datum 
+Point.
+Referring to Fig. 15, let A Ibs. be the 
+reading of the nose balance and B Ibs. be 
+that of the tail balance. Also let a and b 
+inches be the distances, respectively, of the 
+two slings from the Datum Point.
+The Empty weight, W is clearly A + B 
+Ibs. Now the position of the Empty C.G. 
+is x inches aft of the Datum Point, and x 
+is the dimension we want to find. Since the 
+glider is in equilibrium, all the clockwise 
+and anti-clockwise moments exactly balance. 
+It does not matter what point we choose to 
+take moments about; the result will be the 
+same. 
+However, the calculation is easier 
+about some points than others. Let us use 
+the sling A for a start. Taking clockwise 
+moments on the left, and anticlockwise 
+moments on the right of the equation, we 
+get:  
+W(x + a) = B(a + b) 
+B(a + b)
+Therefore x + a — ———— 
+W
+This gives us x + a, and, since we know the 
+dimension a, we can find x by subtraction. 
+This is not quite the whole story, though. 
+We know now the maximum load the glider 
+may carry. 
+It is Ail-Up Weight minus 
+Empty Weight. We ought to check the C.G. 
+position when a pilot of this weight is in the 
+cockpit. 
+With most ordinary types of 
+glider, increasing the pilot weight moves the 
+C.G. forward, because the pilot sits well
+W -A+B
+Fig. 15
+-25-
+
+--- PAGE 33 ---
+forward of the empty C.G. If, with the 
+maximum pilot weight in the cockpit, the 
+C.G. is between the limits, then all is well. 
+If it is not within limits, then we must 
+determine what pilot weight brings the 
+C.G. up to its forward limit. Any pilot 
+heavier than this must carry ballast on the 
+tail, to keep the C.G. within the limits.
+To check C.G. position at Maximum 
+Pilot weight we proceed as follows: 
+w+p
+we do so, we will check the minimum pilot 
+weight. This may be an odd thing to do, 
+but the reason will become obvious later.
+Checking for Minimum Pilot Weight is a 
+little different from the last two checks. In 
+this case we know all the dimensions and are 
+trying to find out a weight. Assume we have 
+got a pilot, of unknown weight, in the 
+cockpit but that the C.G. position is on the 
+aft limit.
+Draw a diagram like Figure 16. 
+This time take moments about the C.G.: 
+W(x — y) = P(y+p) 
+W(x — y) 
+Therefore P =      -
+In this figure:
+P = Max. Pilot Weight (AUW W) 
+W = Empty Weight of Glider 
+x = Empty C.G. Distance from Datum
+Point (which we have just found) 
+p = Pilot's C.G. Distance from Datum 
+Point (which is given in the C. of A.) 
+v = the loaded C.G. position which we 
+want to rind.
+We know all these quantities except y. 
+If we imagine the glider hanging by a rope 
+attached to its loaded C.G., it will exactly 
+balance, and this rope can be represented 
+by the arrow P + W. The tension in the 
+rope is clearly P -f W which equals the 
+All-Up Weight (A.U.W.)
+Tate moments about the Datum Point: 
+Wx = (P 4- W)y + Pp
+Wx   pp
+Therefore y =      . 
+P + W
+This gives us y. If this comes between 
+limits, then all is well. If it does not, then 
+we shall have to investigate further. Before
+-26
+y + p
+From this we can find what Pilot Weight 
+P gives us the maximum aft C.G. position.
+It should be clear now why we have con- 
+sidered the Minimum Pilot Weight case 
+before discussing the Maximum Pilot 
+Weight case where the C.G. comes out in 
+front of the permitted forward limit. All we 
+have to do in this latter case is to repeat the 
+above check, using the forward limit for y 
+instead of the aft limit. This will give the 
+Maximum Pilot Weight that can be carried 
+unless ballast is fixed to the tail of the glider.
+All the details of Empty Weight, 
+Maximum All-Up Weight, Maximum and 
+Minimum Pilot Weight must be displayed 
+on a placard in the cockpit. The best plan 
+is to position this information beside the 
+Flight Limitations Card, in the cockpit. By 
+this means the pilot has all the information 
+which he must know about the glider, 
+presented to him in one place instead of 
+having to search around the cockpit for the 
+facts on which his life may well depend.
+Parachutes
+second-hand Nylon canopy, new 
+glider back-type pack and harness.
+£31. 12. 6d.
+(incl. new bag)
+from
+British Gliding Association, 
+19 Park Lane, London, W.I
+
+--- PAGE 34 ---
+APPENDIX I. B.G.A. FORMS
+ONE of the curses of civilisation is the 
+multiplication of forms and paper-work 
+that seems to surround every activity. 
+Gliding is no exception, but the forms, etc. 
+are not so very numerous, and when 
+properly understood, they can actually save 
+you time.
+The first form is the Certificate of 
+Airworthiness of the Glider, which we can 
+call Exhibit A. This is the Birth Certificate 
+of your glider and on the front page are all 
+the details of when, where, and by whom 
+the glider was built. Also on page 1 of the 
+Certificate, usually called the C. of A. is 
+the name of the Owner of the machine. 
+Turning the page we find a series of 
+dimensions of the aircraft and a list of the 
+maximum and minimum weights that the 
+machine may carry. Items 19 to 21 a are 
+concerned with the Centre of Gravity 
+Position and these details are of vital 
+importance. If the machine undergoes any 
+large repairs it will have to be reweighed and 
+the position of the empty C.G. as listed in 
+Item 21 will almost certainly be found to 
+have moved slightly. This will mean that 
+the Max. and Min. weights, Items 20 and 
+20a will have to be revised. You may not 
+alter these figures yourself, but you must 
+send the results of your weighing to the 
+B.G.A. and they will make the necessary 
+amendments. The B.G.A. will usually want 
+the results of the weighing signed up by an 
+Approved Inspector, and his calculations 
+of the new Max. and Min. weights.
+You may feel that we have spent rather a 
+long time talking about this business of 
+C.G. but it is important. It is literally of 
+vital importance. 
+The consequences of 
+flying a glider with the C.G. outside the 
+limits may well result in death.
+Proceeding farther, we find a list of the 
+speeds that the machine may not exceed in 
+various states of flight, and some informa- 
+tion on what the machine may or may not 
+do in the way of aerobatics and cloud 
+flying. These items have to be displayed in 
+the cockpit of the gliders as also do the 
+items about the C.G., but more of this 
+later.
+The last page of the C. of A. is mainly 
+taken up by a table which gives the validity 
+of the C. of A. and when it next expires. 
+There are also some admonitions to the
+effect that you must not alter anything in 
+the Certificate yourself, that you must not 
+exceed the stated limitations of the glider, 
+and that you must notify the B.G.A. if you 
+take the glider out of the U.K. at any time.
+The B.G.A. have a duplicate of your 
+C. of A. at the London Headquarters, but 
+take care of your Certificate because it is an 
+important document.
+Now, no reputable Club in this country- 
+will allow you to fly your glider at their site 
+unless the C. of A. is valid and has not 
+expired. It may be a nuisance to have to 
+produce the C. of A. document every time 
+you wish to establish its validity, so, when 
+the C. of A. is renewed, the B.G.A. will 
+send you a small card, which we may call 
+Exhibit B, which must be fixed in the 
+cockpit and states the expiry date of the 
+C. of A. Do not think, therefore, that when 
+the Manager or C.F.I, of a strange Club 
+asks to see your cockpit card, that he is 
+merely being officious. He is safeguarding, 
+not only the reputation of his Club, but 
+your continued well-being also.
+You may well want to fly directly the 
+C. of A. overhaul has been completed, 
+and to enable you to do this, the B.G.A. 
+have provided a temporary card, coloured 
+orange, which the Inspector may fill in and 
+fix in the cockpit, to tide you over until the 
+C. of A. is received back from the B.G.A. 
+This card is shown as Exhibit C. It is also 
+known as Form Insp/3.
+Now, as stated above, the information on 
+speeds, weights, etc., has to be displayed in 
+the cockpit of the glider, and to save you 
+trouble, and also to provide this informa- 
+tion in more or less standardised form the 
+B.G.A. has devised standard placards for 
+this purpose.
+The first one, Exhibit D, contains the 
+Flight Limitations section from the C. of A. 
+and is applicable to all gliders. When we 
+come to weight limitations there is a further 
+complication in that there are tandem two- 
+seaters to consider. 
+So, for all single 
+seaters, and two-seaters where the pilots 
+sit side by side, we use the card shown as 
+Exhibit E. In these types all the disposable 
+load in the way of pilots is put into the 
+glider at one particular point, so all we are 
+concerned with is whether or not this total 
+weight is within the limits allowed. From
+—27—
+
+--- PAGE 35 ---
+the point of view of tandem two-seaters, 
+however, we have two separate points 
+where this load can be applied; the front 
+cockpit and the rear. Clearly, the Centre of 
+Gravity is affected, not only by how much 
+weight we put into the glider, but also by 
+where we put it in. To avoid complicated 
+graphs, etc., the B.G.A. has devised the 
+second Loading Limitations card, Exhibit 
+F. This assumes that the glider can only be 
+flown solo from the front cockpit, which is 
+true of all gliders of normal configuration. 
+On the left-hand side of the card is a table 
+of various weights of Rear cockpit load, 
+and against each value is the Max. and 
+Min. load that the Front cockpit can carry. 
+If these figures are not exceeded then the 
+C.G. of the glider will be within the correct 
+limits.
+The above are all the forms that you are 
+likely to meet in the course of everyday 
+flying. 
+There are some others, however, 
+and the first of these is the INSP/2 form, 
+Exhibit G. 
+This is the form that the 
+Inspector uses when he has overhauled 
+your glider and is recommending it for 
+renewal of its C. of A. to the B.G.A. The 
+front page is taken up by, at the top, a few 
+details of the aircraft itself, and, lower down 
+a list of various parts of the glider and what 
+has been done to them to bring the glider 
+up to scratch. On the reverse side of the 
+form are some things that the Inspector has 
+to certify that he has done. 
+These are 
+mostly self-explanatory, but one of them 
+does require a little elaboration. You will 
+notice that the Inspector has to certify that 
+the glider was last weighed on such and such 
+a date and that, since then, no repairs or 
+modifications have been carried out which 
+appreciably affect this. If any such repairs 
+or modifications have been carried out, 
+then the glider has got to be re-weighed, 
+and in this case the Inspector has to fill in 
+the results of the new weighing at para. g(2). 
+The B.G.A. will not renew the C. of A. 
+unless they are satisfied on this point.
+You may, one day want to get Approval
+from the B.G.A. so that you can exercise 
+the powers of an Approved Inspector, and 
+overhaul your own, or other people's 
+gliders, and recommend them for renewal 
+of C. of A.
+In this case you will have to make 
+application to the B.G.A., and you do this 
+on the form INSP/1, Exhibit H. This is a 
+fairly simple form with a long list of 
+questions to be answered. They are mainly 
+concerned with your previous experience 
+on aircraft. Two items do perhaps need a 
+little explanation, and these are the Section 
+E of the British Civil Aviation Require- 
+ments, and A.P.2662A. The Air Registra- 
+tion Board have drawn up a list of Require- 
+ments to be met by all British aircraft. 
+These Requirements are split up into 
+Sections on Aeroplanes, Engines, Radio, 
+Licensing, Safety Harness, etc. Section E 
+is the one which deals with gliders and you 
+should get hold of a copy. It deals, not 
+only with the requirements in the way of 
+the strength of the machines, but also in the 
+matter of handling in the air, and various 
+other aspects affecting the safety of the 
+machine. It can be obtained from H.M.S.O. 
+The A.P. 2662A we have discussed earlier 
+on in this book, but you will find it an 
+invaluable help. It is Restricted, so you 
+cannot just walk into a shop and buy it. 
+The B.G.A. will get you a copy, however, 
+if you apply to them. In it you will find no 
+end of useful information, and various 
+worked out schemes for repairs. Almost 
+every repair you are ever likely to have to 
+tackle can be found in this book if you are 
+prepared to use your intelligence by 
+selecting a piece of this Scheme and a piece 
+of that Scheme to fit the particular job you 
+are repairing.
+Well, there you are. Not such a for- 
+midable list really is it? Remember, a lot of 
+thought has gone into the preparing of these 
+forms to cut out all the unnecessary paper 
+work, and if you use them with intelligence 
+you will find that they do save you time and 
+trouble.
+-28-
+
+--- PAGE 36 ---
+Exhihit A.
+BRITISH GLIDING ASSOCIATION GLIDER
+CERTIFICATE OF AIRWORTHINESS No..
+1. Type of Glider.................................... 2. No. of Seats........
+3. Year of Construction........................... 4. Constructor's No.
+5. Constructor .............
+6. Address of Constructor
+7. Place of Construction.
+8. 
+Owner/s ...................
+9. Address of Owner/s.
+10. Changes of Ownership ...........
+(See Notes 1 & 2 back page)
+-29-
+
+--- PAGE 37 ---
+Exhibit A.
+11. Classification......................................................................................
+(Non-Aerobatic/Semi-aerobatic/Aerobatic/Cloud-Flying/Non-Cloud Flying)
+12. 
+Maximum Span.................................... ft.........................ins.
+13. 
+Maximum Length .............................. ft.........................ins.
+14. TotalHeight ....................................... ft.........................ins.
+15. Weight Empty .......................................................................................Ib.
+15A Permanent Ballast .................................................................................Ib.
+16. 
+Max. Permissible Load........................................................................... Ib.
+16A Min. Permissible Load........................................................................... Ib.
+17. 
+Max. Total Weight Authorised..................................................................Ib.
+18. The Datum point is defined as........................................................................
+19. The Centre of Gravity at all flying weights to be within the limits, 
+and......................................-aft of the datum point.
+20. When flown by pilots weighing less than......................................................Ib.
+(including 201b. parachute if worn) ballast must be carried securely attached to the 
+seat/nose to maintain the horizontal position of the centre of gravity within the 
+prescribed limits.
+20A When flown by pilots weighing more than...................................................lb.
+(including 20 Ib. parachute if worn) ballast must be securely attached to the glider in 
+an approved manner to maintain the horizontal position of the centre of gravity within 
+the prescribed limits, but the maximum total flying weight must not exceed
+.Ib.
+21. In the weight empty condition of Item 15, the horizontal position of the centre of
+gravity is.......
+aft of datum.
+-30—
+
+--- PAGE 38 ---
+Exhibit A.
+21 A The horizontal position/s of the centre/s of gravity of the pilot/s may be taken as : 
+Front Pilot/s...........................aft/forward of datum
+Rear Pilot..............................aft/forward of datum
+THE FOLLOWING DETAILS MUST BE CLEARLY PLACARDED IN THE 
+PILOT'S COCKPIT AND BE VISIBLE TO THE PILOT IN THE FLYING POSITION
+The following indicated air speeds must not be exceeded : (Units : knots, m.p.h., 
+k.p.h.)
+22. Aero-tow .................................... 25. Air Brakes Open........................
+23. Winch-tow ................................. 26. Air Brakes Closed.....................
+24. Auto-tow .................................... 27. In rough air..............................
+28. The above indicated speeds are related to the following airspeed indicator
+installation: Pitot.......................... Static.
+29. The breaking load of the weak link in the towing cable must not exceed 
+..................................................................Ibs.
+["is not permitted to undertake cloud flying
+30A The glider •< is permitted to undertake cloud flying when fitted with an altimeter and 
+l_a turn and bank indicator.
+30s Acrobatic manoeuvres are not permitted/The following acrobatic manoeuvres are 
+permitted ................................................................................................
+31 A Any major repairs or modifications to this glider which are not certified by a B.G.A. 
+Approved Inspector or by a member of B.G.A. Approved Repair Organisation will 
+invalidate this Certificate.
+31s The following items are to be placarded on the glider: 15, 16, 16A, 17.
+The following items are to be placarded in the cockpit so that the pilot can easily 
+see them in the flying position: 22, 23, 24, 25, 26, 27, 28, 29.
+
+--- PAGE 39 ---
+Exhibit A.
+31c The British Gliding Association must be notified if this glider is at any time taken 
+outside the United Kingdom.
+31 D This certificate is only valid subject to the operational limitations stated hereon not 
+being exceeded.
+This Certificate is valid for the periods shown hereunder.
+for THE BRITISH GLIDING ASSOCIATION.
+Date of Issue-••• ...................................... 
+....................................... Secretary.
+Certificate valid 
+From 
+To
+Date
+Signature
+Notes : 1. NO ENTRIES OR ENDORSEMENTS MAY BE MADE ON THIS DOCUMENT, EXCEPT
+BY THE BRITISH GLIDING ASSOCIATION. 
+2. 
+THIS CERTIFICATE MUST BE RETURNED TO THE BRITISH GLIDING ASSOCIATION
+WHEN : 
+(a) A renewal is required, (b) The glider is written off or 
+(c) on change of Ownership.
+THE BRITISH GLIDING ASSOCIATION
+Londonderry House,
+19, Park Lane, 
+London, W.I.
+-32 
+
+--- PAGE 40 ---
+Exhibit B.
+Exhibit E.
+BRITISH GLIDING ASSOCIATION 
+CERTIFICATE OF AIRWORTHINESS
+No............................
+Valid to..........................................
+Exhibit C.
+INSP/3
+BRITISH GLIDING ASSOCIATION
+Glider No.: B.G.A........................................
+I have completed the C of A inspection on this 
+aircraft and the application for Certificate of 
+Airworthiness is being made.
+Signed.....................................
+Insp. No...................... 
+Date.
+Exhibit D.
+FLIGHT LIMITATIONS
+GLIDER No. B.G.A.............
+CATEGORY: Non-Aerobatic/semi-Aerobatic/ 
+Acrobatic
+THE FOLLOWING INDICATED AIRSPEEDS 
+(knots/mph/kph) MUST NOT BE EXCEEDED:
+WINCH LAUNCH..........
+AUTO TOW LAUNCH. 
+AERO TOW LAUNCH....
+AIR BRAKES OPEN..........
+AIR BRAKES CLOSED....
+IN ROUGH AIR.
+CLOUD FLYING is/is not permitted provided 
+Altimeter and Turn & Slip Indicator are fitted. 
+The following manoeuvres are permitted :- 
+LOOP, STALL TURN, TIGHT TURN (3Jg.)( 
+SPIN.
+Breaking load of weak link in towing cable not 
+to exceed...........................Ib.
+The above speeds are related to the following 
+pitot static installation :.................................
+LOADING LIMITATIONS
+GLIDER No. B.G.A.............
+Empty Weight 
+Max All-Up Weight
+Ib 
+Ib.
+The C.G. is within the permitted limits if the loading 
+is as follows :—
+MAX. COCKPIT LOAD 
+... 
+............... Ib.
+MIN. COCKPIT LOAD 
+... 
+............... Ib.
+Ballast must be carried forward/aft if cockpit load is 
+less/more than...............lb., but the Max. All-Up
+Weight must not be exceeded
+Exhibit F.
+LOADING LIMITATIONS
+GLIDER No. BG.A ...............
+Empty Weight 
+... 
+... 
+...............Ib.
+Max. All-Up Weight 
+... 
+...............Ib.
+SOLO FLYING FROM FRONT COCKPIT 
+ONLY
+The C.G. is within the permitted limits if the loading 
+is as follows :
+Rear Cockpit Load 
+Front Cockpit
+ Max. Load 
+Min 
+Load 
+Ib. 
+Ib. 
+Ib.
+0 
+............... ...............
+100 
+............... ...............
+120 
+............... ...............
+140 
+............... ...............
+160 
+............... ...............
+180 
+............... 
+...............
+200 
+............... ...............
+220 
+............... ...............
+240 
+............... ...............
+—33—
+
+--- PAGE 41 ---
+Exhibit G.
+THE BRITISH GLIDING ASSOCIATION
+B.G.A. Form No. INSP/2.
+INSPECTOR'S REPORT FOR RENEWAL OF CERTIFICATES OF AIRWORTHINESS
+Type of Glider....................................... B.G.A. No...........................................
+Constructor........................... ...........................................................................
+Constructor's No. ................................. Date Built ..........................................
+Date of expiry of previous C. of A. ........................................................................
+Owner's Name and Address.................................................................................
+Item 
+Condition before Overhaul and Action Taken 
+1. 
+Timber 
+.. 
+.. 
+.. .....................................................................
+2. Glued Joints
+3. Plywood
+4. Paintwork
+5. 
+Fabric
+6. Metal Fittings and Pins
+7. 
+Control Components and Pins
+8. 
+Control Cables
+9. Lift Struts
+10. 
+Quick Releases 
+.. 
+.. .....................................................................
+11. Skids .. 
+.. 
+.. 
+.. .....................................................................
+12. Wheel,Tyre .. 
+.. 
+.. .....................................................................
+13. Pilot's Harness 
+.. 
+.. .....................................................................
+14. 
+Crash Pad 
+.. 
+.. 
+.. .....................................................................
+15. 
+Instruments 
+.. 
+.. 
+.. .....................................................................
+16. Transparency of Cockpit Covers.....................................................................
+[P.T.O. 
+-34-
+
+--- PAGE 42 ---
+Exhibit G. 
+What repairs or modifications have been carried out since the issue of the last C. of A.?
+REMARKS :— 
+............................................................................................
+In addition to the above I certify that :—
+(a) The Flying Controls have been checked for ease of movement, rigidity, wear and 
+correct angular movements in the agreed senses.
+(b) 
+The B.G.A. Number is painted on the Fuselage near the Tailplane.
+(c) 
+The Aircraft has been properly cleaned out after repair.
+(d) Placards giving classification, permitted manoeuvres and operating speeds are clearly 
+displayed in the Cockpit.
+(e) 
+Details of empty and maximum all up weight are placarded in the Cockpit or painted
+on the Fuselage. 
+(/) I have examined the Log Book ; it is up to date and contains a record of all repairs and
+modifications which have been carried out and these have been signed for by an
+approved person.
+I have signed the Log Book. The Log Book shows : 
+....................................hours 
+"1
+>  
+Total Flying since new. 
+....................................launches J
+(g) According to the Log Book and previous C. of A.
+the Glider was weighed on ...........................
+(date) which included the equipment given in 
+Column 1. (please fill in No. of Items)
+Empty Weight was.....................lb.
+Empty C. of G. was..................ins. aft/fore of
+datum.
+Cross out Either (1) Since then no repairs or 
+modifications have been 
+carried out which appreci- 
+ably affect this.
+Or 
+(2) The Glider, after the recent 
+repairs or modifications, 
+has been re-weighed on 
+................ ..(date) which
+included 
+the 
+equipment 
+given in Column 2. (Please 
+fill in No. of Items).
+Empty Weight was.............................. lb.
+A.S.I.
+Col. 
+1 Col. 2
+(h) 
+(0
+Date.
+Empty C. of G. was..............................ins.
+aft/fore of datum.
+In my opinion this Glider is airworthy and I recommend that its C. of A. be renewed.
+I enclose previous MCA/BGA (cross out where inapplicable) C. of A. and a renewal
+Fee of £1 Is. Od./£2 2s. Od.
+I have signed the Inspector's Card, Insp./3, and placed it in the Cockpit
+Signed-.... ..................................... 
+B.G.A. Insp. No.........................
+Address..........................................................................................
+—35-
+
+--- PAGE 43 ---
+Exhibit H.
+BRITISH GLIDING ASSOCIATION
+B.G.A. FORM No. INSP/1
+This form to be completed by all applicants 
+for B.G.A. Inspection Approval.
+Name and address
+of applicant 
+..................................................................
+Are you over 21 years of age? 
+.........
+Are you a member of a Gliding Club? 
+If so, which? .................................
+Are you at present authorised by your Committee or Chief 
+Instructor to carry out any inspections?
+If so, give details and references ....................................
+What is your present occupation? ..
+Do you at present hold any A.R.B. 
+or other licence? ....................
+What licence or approval have you 
+previously held? 
+...................
+Give details of service in Forces if 
+relevant to this application
+Have you ever worked at an Aircraft Factory or Repair Organisation? 
+If so, with whom and for how long? 
+..........................................
+Have you any knowledge of wire or rope splicing? 
+................................................
+Are you familiar with the British Civil Aviation requirements,
+Section E? 
+.................................
+or A.P. 2662 A? ...........................
+Give a short summary of repair work you have already carried out yourself and mention 
+types of aircraft the repairs were carried out on ...................................................
+The following references are attached 
+1. 
+.........................................................
+2. 
+.........................................................
+Date :.............................. 
+Signed :......................................................
+Please return the form to :
+British Gliding Association, 
+The fee for approval is £2 2. 0.
+19 Park Lane,London, W.I. 
+Annual renewal 
+... £1 
+1. 
+0.
+—36—
+
+--- PAGE 44 ---
+APPENDIX II. 
+A LIST OF USEFUL ADDRESSES 
+OF SUPPLIERS
+A.G.S. 
+Parts, etc.
+Aircraft Materials Ltd., Midland Road, London, N.W.I.
+Air Publications.
+A.D.2662A. "Standard Repairs to Airframes" from the B.G.A.
+E.G.A. 
+19 Park Lane, London, W.I.
+B.C.A.R. Section E.
+Air Registration Board, Chancery House, Chancery^Lane, W.C.2.
+Bolts, Nuts, Screws, etc.
+Guest Keen & Nettlefolds Ltd., Birmingham, 18.
+Dopes, Paints.
+Titanine Ltd., Colindale, London, N.W.9. 
+Cellon Ltd., Kingston on Thames, Surrey. 
+Docker Bros., Ladywood, Birmingham, 16.
+Fabrics for Glider Covering.
+A. H. Vane & Co., Empire House, St. Martin le Grand, London, 
+E.C.I.
+Glider Manufacturers.
+Elliots of Newbury Ltd., Newbury, Berks. 
+Slingsby Sailplanes Ltd., Kirbymoorside, Yorks.
+Glues.
+Messrs. Aero Research, Ltd., Duxford, Cambridge.
+Plywood Glider Manufacturers.
+Quick Releases.
+Ottley Motors Ltd., Crescent Works, Crescent Road, Wood Green, 
+London, N.22.
+Ropes, Nylon, for Aerotowing.
+British Ropes Ltd., Leith, Edinburgh, 6.
+Tapes, Masking, Sealing, etc.
+Johnson & Johnson Ltd., Slough, Bucks.
+Timber for Repairs.
+Glider Manufacturers.
+-37-
+
+--- PAGE 45 ---
+are
+you 
+going
+UP in
+the
+world?
+Top people, particularly in the 
+gliding world, know that they move 
+in a rarefied atmosphere and to survive at all they 
+have to take oxygen with them. These people know how 
+to reach the heights in gliding; they also know that the 
+best way to take oxygen is in the British Oxygen Aro A. 12 
+or A.14 diluter demand set. Giving maximum economy and 
+duration, completely automatic operation and greater safety 
+at high altitudes, they are just what one needs to explore 
+that wandering wave or achieve that absolute altitude.
+As fitted to OLYMPIA 419 (1958 World Championships)
+SKYLARK 3 
+T.42 EAGLE
+(W. S. Ivans 
+42220 ft.) 
+(H. C. N. Goodhart 37000 ft.)
+I 23
+British Oxygen Aro Equipment
+THE PINNACLES   HARLOW • ESSEX • HARLOW 26891
+-38-
+
+--- PAGE 46 ---
+INDEX
+Aerodux, 9
+Aerolite, 9
+Aerotow, locking of hooks, 13
+Aileron horn, 22
+A.S.I., 24
+Approved Certificate, 6
+Approved Inspector, 24
+Approved Materials, 6
+B
+Ball races, 17
+Bearings, 17 
+Biscuits, 12 
+Blooming of dope, 18 
+Bobbin, 15 
+Bolts, 4, 5, 17 
+Booms, 7 
+Brass tacks, 12 
+Bushes, 17
+Cables, 2, 15, 24
+Cable splicing, 15
+Canopy, 20
+Cantilever, 21, 22
+Casein glue, 2, 8
+Centre of Gravity, 7, 24, 26
+Centre of Pressure, 21
+Certificate of Airworthiness, 23, 27, 29
+Chamfers, 10, 12
+Clamps, 10
+Classification of Gliders, 30
+Cockpit, 24, 27
+Compression shake, 22, 23
+Controls, 15
+Cotton fabrics, 18
+Corrosion, 1, 2, 5
+Cracks, 10, 22
+Damage, 22 
+Datum point, 25 
+Diagonal ply, 11 
+Diagonals, 21 
+Dopes, 6, 18 
+Drag bracing, 21 
+Drawings, 7
+Elevator, 2
+Eyesplice, 15
+D
+E
+Fabric work, 19
+Fabrics, 2, 18 
+Fairleads, 15 
+Fatigue, 13, 15 
+Feather edge, 10 
+Finishes, 19, 20 
+Fittings, 2, 13, 24 
+Flush insertion repair, 12 
+Forms, 27 
+Frames, 21 
+Fungus, 2, 8 
+Fuselage, 21
+Glues, 8
+Grain, 11 
+Grease, 1 
+Gussets, 7
+H
+Hardeners, 9
+Heating, 9 
+Heavy landings, 21 
+Hinges, 1, 17 
+Hooks, release, 1, 13
+I
+Inspection for damage, 21
+Instruments, 2 
+Internal protection, 8
+Lapped joint, 10, 11
+Leading edge, 21, 22 
+Limitations, 27, 32 
+Links, 3, 14 
+Locking, 3, 4 
+Locking wire, 3 
+Locknuts, 5 
+Longerons, 21 
+Looseness, fittings, 23 
+Lubrication, 1
+M
+Madapolam, 18
+Max. and Min. Loads, 25, 27 
+Metal parts, 13 
+Mixing of glues, 8, 9
+Nip, 17
+Nuts, 4, 5 
+-39 
+N
+
+--- PAGE 47 ---
+LIGHTWEIGHT OXYGEN 
+EQUIPMENT 
+.
+NORMALAIR lightweight oxygen equipment 
+was fitted in the sailplane flown by the runner-up in 
+the Open Class at the 
+1958 World Gliding 
+Championships Commander N. Goodhart of Great 
+Britain. This pilot also achieved the greatest distance 
+flown along a set line, with a flight of 209 kilometres.
+The equipment used is part of a range of items 
+being produced by NORMALAIR for use in light 
+aircraft, small transport aircraft and sailplanes. 
+Both portable sets and fixed installations are in 
+production, 
+component 
+design 
+allowing 
+wide 
+variation of layout to suit individual requirements.
+A feature common to all the equipment in this 
+range is very low weight. 
+For example, a fixed 
+installation of 750 litres capacity weighs as little as 
+12J Ibs. complete. Provision is made in all cases for 
+the selection of different flow rates, the actual rates 
+being variable by adjustment during manufacture. 
+An illustrated catalogue of this equipment 
+is 
+available on request.
+YEOVIL
+Normalair (Canada) Ltd 
+Toronto
+ENGLAND
+Normalair (Australia) Pty. Ltd 
+Mel bourne
+-40-
+
+--- PAGE 48 ---
+o
+Oiling, 1
+Oils, 1
+Ottfur, 13
+Over centre mechanism, 14
+Oversize pins, 13
+Paint, 2, 6
+Patches, 10, 19
+Perspex, 20
+Pickling of dope, 18
+Pins, safety, 5
+Pins, split, 4, 5
+Pins, wing, 5
+Placards, cockpit, 26, 27, 30, 31
+Plywood, 2, 11
+Pressure, clamping, 8, 9
+Publications, 27
+Pulleys, 1, 17
+R
+Reaming, 13
+Reclamation of fittings, 13 
+Release Note, 6 
+Reinforcing strip, 11 
+Renewal of C. of A., 23 
+Repairs, 6, 9, 10, 11, 13 
+Requirements, 29 
+Ribs, 10, 18 
+Rigidity. 6 
+Rust, 1
+Thimble, 15 
+Thinners anti chill, 18 
+Threads in bearing, 5 
+Threads in shear, 5 
+Timber, 2, 9 
+Turnbuckles, 3 
+Types of glider, 21 
+Tyres, 24
+U
+Ultra violet light, 2, 18
+W
+Washers, 4, 5 
+Wear, 14, 24 
+Weighing, 25 
+Weights, 24, 25 
+Welding, 13 
+Wheels, 24
+Whipping of splices, 16 
+Wire, drag, 21 
+Wire, locking, 3
+Year of construction, 29
+Safety, turnbuckles, 3
+Sanding, 8
+Scarfs, ply, 11
+Scarfs, timber, 10
+Shear, 8
+Skids, 13
+Spar, 7, 21
+Splices, 6, 10
+Splicing cable, 15
+Spruce, 10
+Steel, mild, 13
+Steel, high tensile, 13
+Strength of glue, 9
+Struts, 21
+Swaged end splice, 3, 15
+Tack strip, 12
+Tacks, 12 
+Tailplane, 21 
+Testing of materials, 6 
+Tension, glue in, 8 
+Tension of cables, 2
+—41-
+
+--- PAGE 49 ---
+THE B.G.A. AIRWORTHINESS SCHEME
+by C. O. Vernon
+in flight, and in this connection
+flight includes launching and landing, 
+depends on three factors only the air- 
+worthiness of the glider, the method of 
+operation of the glider, and the pilotage. 
+That the latter must be sufficiently skilful 
+and accurate is obvious enough; the 
+operational factor is looked after by the 
+B.G.A. Operational Regulations. In this 
+chapter we are concerned with the air- 
+worthiness of the glider.
+The procedure adopted by the B.G.A., 
+as by all other airworthiness bodies, is to 
+require that certain standards of design 
+(including structural strength, stiffness and 
+flying qualities) and construction are met; 
+when satisfactory evidence of the achieve- 
+ment of these standards is received, a 
+Certificate of Airworthiness, or a renewal 
+thereof, is issued in respect of each and 
+every glider. 
+Much more evidence is 
+required in the case of a new prototype 
+than for a series aircraft or for a renewal.
+A Certificate of Airworthiness, or C. of A., 
+can be obtained either from the B.G.A., or 
+from the Ministry of Transport and Civil 
+Aviation (M.T.C.A.) in conjunction with 
+the Air Registration Board (ARE).
+This applies whether the glider is designed 
+and built by a firm or privately, save that 
+B.G.A.'s C. of A. cannot be issued for 
+gliders of more than 1,250 Ibs. all up weight. 
+The B.G.A. C. of A. document is described 
+in Appendix I and illustrated in Exhibit A. 
+A C. of A. automatically becomes invalid 
+if its period of validity (usually one year) 
+expires, if the glider is damaged such that 
+in the opinion of an Approved Inspector it is 
+no longer airworthy, or if unauthorised 
+modifications (other than minor ones) are 
+made.
+At the present time, it is not a legal 
+requirement that gliders must have C's. of 
+A. unless they are to be used for public 
+transport or aerial work. It is, however, 
+necessary that third-party insurance, by an 
+authorised insurer and for an amount of 
+liability of not less than £3,000, is in force. 
+It is also a B.G.A. Operational Regulation 
+that a glider may be flown at the site of a 
+B.G.A. member club only if it has a valid 
+C. of A. (either M.T.C.A. or B.G.A.) or 
+equivalent Service document.
+Certificate of Airworthiness Renewal
+The procedure for a C. of A. renewal is 
+described in detail from the practical point 
+of view in Chapter 8, and is hence con- 
+sidered only briefly here; it is broadly as 
+follows.
+The glider is examined by an Approved 
+Inspector who decides the extent of the 
+overhaul necessary to ensure that it will 
+remain airworthy for another twelve 
+months, subject to adequate maintenance 
+being provided and to any damage being 
+made good.
+When the overhaul is completed satis- 
+factorily, the inspector sends the necessary 
+documents to the B.G.A., who then re- 
+validate the C. of A. for a period of one 
+year from the date of the inspection.
+Certificate of Airworthiness for 
+New Type Glider
+As indicated above, the procedure for 
+obtaining a C. of A. for a new prototype 
+is much more extensive, and involves certain 
+checks of the design and construction of 
+the glider, which must be to the current 
+issue of B.C.A.R. Section E, except as 
+otherwise notified or agreed by the B.G.A. 
+The procedure differs in some respects 
+according to whether the glider is designed 
+and constructed privately or by an approved 
+manufacturer. An approved manufacturer 
+is one having design and inspection 
+organisations approved by the B.G.A., for 
+the purpose of which approval, the B.G.A. 
+adopts as requirements, the relevant A.R.B. 
+requirements, only. 
+B.C.A.R. Chapters 
+A 7-1 and A 7-5. A manufacturer approved 
+by the B.G.A. is generally approved by the 
+A.R.B. also.
+To make the actual procedure easier to 
+follow, some of the terms used are first 
+defined.
+First, the Type Record. 
+This is a 
+document prepared by the designer as a 
+summary of the design, comprising:
+(a) The Certificate of Design, i.e. a 
+certificate 
+in 
+the 
+form 
+shown 
+(SEE OVER) and signed by the 
+designer.
+(b) A three-view G.A. (General Arrange- 
+ment) drawing. 
+42 
+
+--- PAGE 50 ---
+CERTIFICATION OF DESIGN 
+Pro-forma for Certification of Design
+Aircraft Type .......................... Category..............................
+Constructors' Serial No................. E.G.A. Serial No.......................
+I certify that, with the exceptions stated below, the above aircraft is of a design which 
+complies with B.C.A.R. Section E. dated..........................................
+and the additional requirements which have been notified in writing by the B.G.A. as 
+applying to this aircraft and which are listed or referred to below.
+Exceptions ............................ Additional Requirements................
+Date
+(Signed) . 
+(Firm) ... 
+(Address)
+(c) A list of component G.A. drawings 
+and issue numbers.
+(d) A summary of design assumptions, 
+i.e. a statement of the leading 
+dimensions and principal aerody- 
+namics and weight data upon which 
+the design calculations are based. 
+As a minimum it must include wing 
+and tail unit geometry, all up weight 
+and C.G. positions, moments of 
+inertia, weight breakdown assumed 
+in 
+strength 
+calculations, 
+design 
+speeds (stall, dive, etc.), lift and drag 
+estimates, pitching movement of 
+wing and fuselage, downwash at tail- 
+plane, and spanwise lift, distribution 
+of wing.
+(e) A strength and stiffness summary, 
+i.e. a statement of design loads, 
+critical cases, reserve factors achieved 
+and stiffnesses achieved, for all 
+primary structure components, in- 
+cluding references to design criteria 
+and assumptions on which the 
+calculations are based.
+(f) The weighed weight and C.G. 
+position and the loading data 
+(maximum and minimum cockpit 
+loads) determined therefrom.
+(g) References to strength, stiffness, and 
+other pre-flight test reports, or the
+reports themselves, or the test results, 
+as appropriate. The tests required 
+are stated in the Design Requirements, 
+i.e. in B.C.A.R. Section E. 
+(h) References to Flight Test Reports or 
+the reports themselves. Again, the 
+tests required are given in B.C.A.R. 
+Section E.
+Secondly, the Design Survey. This is an 
+examination of the design by the B.G.A. to 
+check as far as possible that the Design 
+Requirements are complied with, particu- 
+larly those requirements which are expressed 
+in qualitative terms, e.g. those in the Design 
+and Construction chapters of B.C.A.R. 
+Section E. The Survey is carried out by a 
+Design Surveyor appointed by the B.G.A. 
+when each occasion arises, and who is 
+usually a member of the Technical Com- 
+mittee. The designer may wish to consult 
+the Surveyor in the interpretation of the 
+requirements concerned.
+Thirdly, the Engineering Assessment. 
+This is an appraisal of the glider by the 
+B.G.A. at a suitable stage of construction 
+at or near completion (but before covering). 
+The appraisal embraces all engineering 
+aspects of the glider not covered by the 
+Design Survey, and is intended to ensure as 
+far as possible that the glider will be able to 
+be operated satisfactorily and maintained
+—43-
+
+--- PAGE 51 ---
+in an airworthy condition without undue 
+difficulty by the operators, be they clubs or 
+private owners, for whom it is intended. 
+The assessment is made by an Engineering 
+Assessor who, again, is appointed by the 
+B.G.A. as each occasion arises.
+ThetDesign Survey and Engineering Assess- 
+ment are, theoretically, distinct; in practice 
+they may overlap to some extent.
+The C. of A. procedure itself can now be 
+described. The general procedure is defined 
+first, and this is followed by the particular 
+procedures for approved manufacturers and 
+private constructors respectively, which, as 
+noted above, differ somewhat.
+In general terms, then, the steps to be 
+taken are as follows.
+1. The design of the glider is summarised 
+in the Type Record.
+2. The Design Survey is carried out; this 
+may be in several stages.
+3. The Engineering Assessment is carried 
+out.
+4. The completed glider is inspected by 
+an Approved Inspector.
+5. The completed glider is weighed and 
+its Centre of Gravity determined.
+6. Pre-flight tests are carried out.
+7. Subject to (1), (4), (5) and (6) being 
+satisfactory, the glider is test flown 
+under the authority of a Permit to Fly 
+issued by the B.G.A.
+8. The Type Record, including the results 
+of the weighing and the pre-flight tests, 
+and the Flight Test Reports if not also 
+included are submitted to the B.G.A., 
+accompanied by an application form 
+and the prescribed fee. 
+They are 
+studied together with the Design Survey 
+and Engineering Assessment, and when 
+they are all approved the type C. of A. 
+is issued.
+In the case of approved manufacturers, 
+the glider may be flown under the authority 
+of their approval alone, after a satisfactory 
+inspection by the firm's inspection depart- 
+ment and satisfactory completion of pre- 
+flight tests and weighing, i.e., before the 
+Design Survey and Engineering Assessment 
+are made. In fact the glider may, in the 
+absence of unorthodox features, be designed, 
+constructed, and test flown without any 
+reference whatever being made to the 
+B.G.A. It is, however, to be recommended 
+that the Survey and Assessment are made, at 
+least partially, at a suitable stage before 
+testing is begun, as this might avoid or
+reduce subsequent delay in the granting of a 
+C. of A. pending the rectification of some 
+unacceptable feature. 
+The Type Record 
+need not be formally completed before the 
+glider is flown, though the data from which 
+it is compiled will normally be available, 
+except of course for flight test reports.
+In the case of private constructors, on the 
+other hand, the Design Survey, Engineering 
+Assessment and an inspection by a B.G.A. 
+Approved Inspector must be made, and a 
+partial Type Record compiled, before the 
+glider is flown. When satisfied with these, 
+the B.G.A. issues a Permit to Fly, whereupon 
+flight tests may be carried out either by a 
+B.G.A. Flight Test Group or by an indi- 
+vidual approved for each specific case. In 
+more detail, the procedure for obtaining the 
+Permit to Fly is as follows: 
+(i) The design surveyor makes his survey 
+and accepts the partial Type Record, 
+which must contain the results of the 
+weighing and of the pre-flight tests, 
+and reports to the B.G.A. 
+(ii) The Engineering Assessor makes his 
+assessment 
+and reports 
+to 
+the 
+B.G.A., either directly or, if appro- 
+priate, through the Design Surveyor.
+(iii) Subject to the partial Type Record, 
+Design, Survey and Engineering Ass- 
+essment being satisfactory, the B.G.A. 
+issues the Permit to Fly, which 
+specified 
+the 
+Test 
+Group 
+or 
+individual pilot as necessary.
+(iv) The Approved Inspector who has 
+supervised the construction of the 
+glider, gives the final approval after 
+clearing the glider for flight.
+From this point onwards, the procedure 
+is similar for both approved manufacturers 
+and private constructors. When the flight 
+tests are concluded, the Type Record is 
+completed and submitted, together with the 
+Flight Test Reports (if not included therein) 
+to the B.G.A. The latter then considers all 
+the relevant reports and information, and, if 
+satisfied, decides upon the various limita- 
+tions and issues the C. of A. accordingly. 
+In the event of any features being found to 
+be unacceptable, the C. of A. will be 
+conditional upon these being rectified, and 
+if those features concern handling the 
+C. of A. will normally be withheld until 
+further flight tests are done.
+The above procedures'and the records or 
+44-
+
+--- PAGE 52 ---
+reports which must be furnished before 
+flight testing may begin and before the
+C. of A. can be issued, are summarised in 
+the table (below).
+Summary of procedure for type C. of A.
+Type Record 
+Design Survey 
+Engineering Assessment 
+. . 
+Inspection (by B.G. A.) 
+Weighing 
+Pre-flight Tests 
+Test Flights 
+Test Flight Reports
+Approved Manufacturers
+Flight Test
+No *
+No 
+Yes** 
+Yes**
+C. of A.
+Yes
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes
+Private Constructors
+Permit to 
+| 
+C. of A. 
+to Fly 
+|
+Yes*** 
+j 
+Yes 
+Yes 
+i 
+  
+Yes 
+  
+Yes 
+  
+Yes 
+  
+Yes 
+  
+  
+i 
+Yes 
+  
+i 
+Yes
+* 
+Desirable but not essential.
+•' * 
+Reports need not be submitted at this stage.
+= ** partial only at this stage.
+Modifications
+For the purpose of this book, modifica- 
+tions may be considered to be of two 
+kinds:
+1. Those essential for safety, initiated by 
+the manufacturer or by the B.G.A.
+2. Those initiated by the owner or 
+operator to improve performance or 
+convenience or handling, and which 
+may also affect safety.
+As regards the first kind, all that need be 
+said here is that instructions for their 
+embodiment including in each case a state- 
+ment of the urgency thereof are issued by 
+the manufacturer or by the B.G.A. It is in 
+the second kind that we are more interested.
+The B.G.A. is concerned with this second 
+kind, where safety is involved, but not 
+otherwise. 
+Any 
+modification 
+which 
+affects safety automatically invalidates the 
+C. of A. unless authorised by the B.G.A. In 
+this connection, safety means all factors 
+embraced within the heading of air- 
+worthiness, including structural strength 
+and stiffness, cockpit design, and flying 
+characteristics. In other words, a modifica- 
+tion which changes any of these requires 
+B.G.A. approval, and it is therefore 
+essential to consider, before any modifica-
+tion is made, whether one or more of these 
+qualities may be affected. If they are, the 
+approval for such modifications must be 
+sought. 
+Examples of such modifications are:
+(i) Those which alter the external shape, 
+such as changes to windscreens or 
+rudder horn balances, or the fitting of 
+dorsal fins or airbrakes where more 
+existed before.
+(ii) Bungee trimmers or any kind of mass 
+attached to control surfaces or 
+control circuits.
+(iii) Any installation involving cutting or 
+piercing of primary or secondary 
+structure, such as fitting a landing 
+wheel where none existed before. 
+Fitting of airbrakes may come into 
+this category also.
+(iv) Any installation involving increases 
+in the loads to which the glider is 
+subjected, such as the fitting of a 
+belly-hook where none existed before.
+Approval for modifications is given by 
+the B.G.A. in conjunction with the manu- 
+facturers of the glider where appropriate, 
+after it is satisfied that the modification is 
+airworthy. To enable the B.G.A. to decide 
+this, the application, which should be in 
+writing, should be accompanied by a 
+ 45 
+
+--- PAGE 53 ---
+description of the proposed modification, 
+suitable drawings or sketches, and strength 
+figures, or references to a manufacturer's 
+approved drawings. As in the case of type 
+C's. of A., the B.G.A. may require amend- 
+ments or flight tests before granting 
+approval.
+In considering all this, a sense of pro- 
+portion should of course be maintained. 
+Purely minor modifications such as re- 
+arrangement of instrument panel layout 
+(provided that clearances are not adversely 
+affected) or small local external protuber- 
+ances or fairings do not need special 
+approval. 
+Difficulty may, however, arise 
+in deciding what is minor or what is small; 
+in cases of doubt the B.G.A. should be 
+consulted.
+Log Books
+The log-book is the gliders' biography, 
+and its proper keeping is an essential part 
+of the Airworthiness Scheme. It should 
+contain a record of the aircraft's operations 
+and of the repairs, maintenance and 
+modifications.
+As regards operations, no great detail is 
+necessary. An entry at suitable periods, e.g. 
+monthly, of the number of launches and 
+hours flown is all that is strictly necessary. 
+It may be helpful also to note such things as 
+heavy landings even though no immediate 
+damage is evident; they may have "started" 
+something that may get worse in subsequent 
+bumps. If this does occur, it is essential that
+it is found at the next C. of A. inspection, 
+and the presence of such entries in the log 
+book will lead the inspector to examine all 
+the more thoroughly.
+Repairs and maintenance form the most 
+important entries, whether concerned with 
+the C. of A. renewal or otherwise. It is 
+essential to state just what has been done, 
+and where it has been done, the entry 
+should be sufficiently detailed to make this 
+quite clear. For example, in the case of a 
+rib boom repair, the site number, whether 
+top or bottom boom, and whether in front 
+of or behind the spar(s) should be stated. 
+If a spar is repaired, the members affected 
+(top boom, rear web, etc.) and the spanwise 
+location should be given.
+Minor repairs should also be mentioned; 
+while in the case of several re-glued gussets, 
+for example, the exact location of every one 
+is not vital, at least the number and 
+approximate position should be given. 
+Quite simple maintenance items such as re- 
+greasing of hinge pins or re-adjustment of 
+control circuits should be recorded when 
+the flying characteristics are likely to be 
+affected.
+In the case of modifications, a brief 
+descriptive statement, together with a 
+reference to a modification and/or drawing 
+number, is all that is required in the case of a 
+manufacturer's or B.G.A. modification, a 
+suitable drawing is sufficient, but not 
+necessarily full detail, should be attached 
+to the log book.
+B.G.A. Airworthiness Fees
+C's of A. for Manufacturers prototype gliders 
+C's of A. for Privately designed and constructed gliders. . 
+C's of A. for Manufacturers production gliders 
+C's of A. for other gliders
+C's of A. for Foreign gliders
+Renewals 
+B.G.A. Members
+Fee for Inspector's Approval
+£5 
+5s. 
+Od. 
+By arrangement 
+£2 2s. 
+Od. 
+£2 2s. Od.
+By arrangement 
+£1 
+Is. Od.
+£2 2s. 
+Od.
+£2 2s. 
+Od. 
+£1 
+Is. 
+Od.
+Printed in Great Britain by Young Myers & Co. Ltd. and F. A. Clements (Chatham) Ltd. of Harrow and 
+Chatham, for the British Gliding Association.

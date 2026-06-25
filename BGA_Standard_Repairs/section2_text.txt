@@ -1,0 +1,379 @@
+# BGA Standard Repairs Section 2
+# (OCR extracted)
+
+
+--- PAGE 1 ---
+SECTION 2
+
+DOPE AND FABRIC WORK
+
+Chapter 2.1 Dopes and Doping
+Chapter 2.2 Fabric Repairs
+Chapter 2.3 Recovering Components
+
+
+--- PAGE 2 ---
+Section 2—Page |
+
+Chapter 2.1
+DOPES AND DOPING
+
+The purpose of dope is to render the fabric portions of a glider watertight, airtight, and
+to tauten the fabric so that the shape of the surfaces is kept correct.
+
+Without going into the chemistry of dope it is enough to say various makes of dope
+do not always agree, when one make is applied on top of another, For this reason it is
+a sound plan always to use the same make of dope for repairs as was used in the original
+construction. The dope used is quoted in the front pages of the glider’s log book.
+
+There are three basic types of dope that the glider repair shop will have to use.
+These are:
+
+J. Clear dopes or adhesives;
+
+_ 2, Pigmented filler type.dopes;
+
+3. Finish colour dopes.
+
+In addition all three types of dope can usually be bought in varying degrees of tautening
+intensity. a
+
+The use of these types of dope is roughly as follows: The clear dopes or adhesives
+are mainly used to stick the fabric to the wooden structure. A typical use of this material
+is when re-covering a component. The wooden structure would be given two coats of
+the clear dope, and when dry the fabric would be stretched over the component and
+pinned in place. The clear dope would then be brushed in wherever the fabric touched
+the wood, and thoroughly rubbed in by means of a pad of fabric. Two coats applied
+thus would securely attach the fabric to the structure. The term ‘clear dope’ has been
+used on the above description but this is intended to include the cellulose adhesives that
+some manufacturers use for this initial stick-down.
+
+The filler dopes are now brushed into the fabric. The object is to tighten the fabric
+and to ‘body it up" until a smooth surface is obtained in which the original fibres of the
+fabric have disappeared. A number of coats will be needed, perhaps four or more, but the
+finish will be improved if a light rub down with fine abrasive paper is given between the
+coats. Alternatively a rub over with a pad soaked in thinners will smooth out thesurface.
+When bodied up, one coat of an aluminium dope should be applied as this forms an
+excellent barrier to the various forms of light, ultra violet and otherwise, which tend to
+destroy the life of the fabric.
+
+Finally the finish colour may be applied. This is usually in the form of an undercoat
+and a top coat, the latter simply being a gloss coat with a litle pigment in it.
+
+The first coats, the stick-down of clear dope, and the first few coats of the filler
+dopes must be brushed in. The later coats may be sprayed, and the best finish is always
+obtained if the final coats of finish dope are sprayed.
+
+Manufacturers of dope normally supply schemes for ‘using their dopes and the ~~~
+
+above is only a rough outline of the sort of scheme to expect. Some recommend the use
+of clear dope as a filler, and this is a good plan from some angles. It is lighter in weight
+than red or grey pigmented dopes, but it is not perhaps quite so good in stopping the
+ultra violet hight. .
+
+The aim of all repair work should be to restore the glider to the original state as far
+as is possible. ‘To this end try to copy as closely as you can the original doping scheme.
+
+General Notes on Doping .
+Never forget that all dopes are highly inflammable. Treat them as though they were
+petrol, and indeed, the vapours from dopes are as explosive in the right conditions as |
+petrol vapours. Also avoid as far as possible inhaling the vapours. Wear a mask of an
+approved type when spraying or using dope, otherwise the result may well be a most
+unpleasant headache. Drinking milk after a doping is a good antidote to the effects of
+the vapours.
+
+A good surface finish is important on gliders, more so than on most aeroplanes.
+It is particularly important around the Jeading edge area of wings.
+
+The above remarks assume that the finish is of Cellulose, or Synthetic Cellulose base.
+
+
+--- PAGE 3 ---
+Sectloa 2~Page 2
+
+There are other finishes, such as Polyurethane, and these require special treatment.
+Doubtless the future will bring yet others, but in these cases the manufacturers should:
+be consulted. .
+
+Difficulty is often found in sticking fabric patches to these special finishes, but as
+a general rule, it can be taken that the finish, if not of cellulose, will have to be scraped
+or rubbed down until the surface of the dope is exposed. If this is not done the doped
+patch will probably not stick. ;
+
+Chapter 2.2
+FABRIC REPAIRS
+
+Fabrics used on gliders are usually one of two specifications. The first, DTD 343,
+commonly known as ‘Madapollam’, is used for unsupported surfaces, and also for
+covering plywood. The other commonly used material is DTD 575, which is slightly
+heavier than the DTD 343 and is of a closer weave. Both these materials are cotton
+abrics.
+
+Sometimes lighter fabrics still are used for covering plywood, as in this application
+the fabric is merely a vehicle for the dope and its strength is of no consequence at all.
+
+The covering of components is dealt with in the next Chapter: in this one we are
+concerned with repairs to the fabric of gliders. ...
+
+First, in the case of any repair, determine what the material of the fabric is. Then
+try as far as possible to repair the damage to the fabric with the same material,
+
+Do not try to repair straight or ‘L’ shaped tears in fabric. In these cases rip the
+damage out to a rectangular shape and patch with new fabric. .
+
+In many cases it will be easier to cut back to the surrounding structure and replace
+the panel of fabric. Where the panel is small this is always the best plan, When cutting
+away fabric, care must be taken to ensure that the underlying structure is not damaged
+by the knife. Particularly is this care necessary when cutting away fabric that is doped
+down on to ply. Gaboon ply is very soft and very easily cut by a trimming knife or
+chisel, and if you do cut it, you will have-to replace the ply as well as the fabric.
+
+Owing to the low wing loadings on gliders, no sewing of patches is necessary. This,
+of course, makes fabric work on- gliders far simpler than on powered aeroplanes,
+
+- Virtually the only repair-to fabric on gliders is the simple patch. On small patches,
+say up to 3 ins, square, allow an overlap of 1 in. all round: for Jarger patches than this,
+allow an overlap of 2 ins.
+
+See illustration 2.2.1 and go ahead as follows: Having opened out the damage to
+
+FRAY ALL EDGES FOR 1/16”
+
+SMALL PATCH
+
+Scheme 2.2.1. Fabrie Patches
+
+
+--- PAGE 4 ---
+Section 2—~Page 3
+
+a rectangular shape, make sure that there is no damage to the structure of the com-
+ponent and that there is no foreign body left in the interior. Prepare a patch of the same
+material as the original fabric. Now soften with clear dope the surrounding edges of
+the hole and attach one edge of the patch, arranging the overlap correctly, and brushing
+through with clear dope on to the softened surface beneath, and rubbing the dope
+through with a pad of fabric, until the fabric is quite smoothed out and no air bubbles
+remain. With patches of any considerable size, it is an advantage to allow one edge to
+dry before tackling the next. .
+
+By this means it is possible to pull the fabric tight when doping down the next edge.
+Proceed around the patch until all the edges are stuck down, Some people prefer to
+stick one edge and then the opposite one, while others like to attack an adjacent edge.
+Whichever method is employed does not matter much, but generally it is easiest to
+leave until last any edge that has some support underneath it, such as a rib boom or -
+the leading edge ply ofa wing. The reason for this is that it is easier to draw a patch
+tight on the last edge if there is support below to press on. ;
+
+When softening the edges with clear dope, make sure ‘that the surfaces are not
+contaminated with polishes, etc. as these will prevent the proper adhesion of the patch.
+If polishes are present then these must be removed before attempting to soften the dope.
+
+The patch is now attached all the way round. Do nof dope the centre of the patch
+until you have brushed in two coats of clear dope to stick the edges and these two coats
+have dried. Now dope up the centre of the patch, following as closely as possible the
+original doping scheme. The aim is to reproduce the original finish as nearly as you can.
+
+Most books on fabric repair work recommend that the edges of patches should be
+pinked. If you like using pinked patches and have a pair of pinking shears, go ahead
+and use them. However, just as good results, if not better, can be obtained by carefully
+fraying the edges of any fabric patch for about % in. When doping down, brush out
+these frayed edges and when the coats of dope are dry, rub down between coats with
+fine wet and dry paper to eliminate the fabric edge. If this is done carefully it is quite
+simple to make the patch disappear entirely in the finishing coats. It is, however, much
+more difficult to make a pinked edge patch disappear. o
+
+Ensure that fabric to be used for any sort of aircraft use is kept dry, and free from
+any sort of contamination. Damp fabric will not tauten up properly when doped and
+you will waste not only the fabric but the dope as well, since the whole lot will have to
+come off and you will have to start again. If you are working in the Summer months
+you can often’ air the fabric by draping it over trestles in the sun for an hour or so
+before doping it on. ;
+
+If any of your patches go across wooden members, then you must ensure that the
+patch is properly stuck to the member in question. To do this clean down the wood
+
+and brash on two coats of élear dope or the adhesive if you prefer to- use this. Allow — ~ - -—— —
+these to dry before attaching the patch. When fixing the patch, brush through the dope
+or adhesive for two coats, rubbing through as well with a fabric pad. This will guarantee
+proper penetration of the dope and good adhesion of the fabric.
+
+Do remember it is important that fabric should stick to the structure of the aircraft.
+It is only by careful attention to this that we are able to dispense with stringing the
+fabric to the ribs, etc. On certain older aircraft, Grunau Babies for instance, you will
+find that there is a certain amount of stringing of the underside of the wing fabric to
+the lower rib booms. Where you find this you must copy the scheme again in your repair,
+using the same type of thread for the stringing and the same stitch pitch. The reason .
+for this use of stringing is that these machines had very cambered under-surfaces and
+the stringing is an insurance against the fabric separating from the lower rib booms.
+
+General Notes on Fabric Repairs
+
+Always allow a generous overlap rather than the other way round. Do make sure that
+the edges are properly stuck down with two coats of clear dope or adhesive and that
+these are dry before you start doping up the middle of the patch. Do rub through well
+when sticking the edges of the patch to eliminate all air bubbles and wrinkles. When
+
+
+--- PAGE 5 ---
+Sectlon 2-—Page 4
+
+doping up the whole patch, do give a good rubbing down with wet and dry paper
+between coats to get a good finish, and if you will work on the frayed edges with the
+abrasive paper, you can get the final result to be invisible as a repair.
+
+Chapter 2.3
+RE-COVERING COMPONENTS
+
+Although this Chapter is entitled ‘Re-covering Components’, it includes the covering
+of new components. .
+
+Fabric covering falls into two categories: first the fabric covering of plywood parts
+of an airframe to protect it from the weather and to give a good finish, and second the
+fabric-ing of wings and other parts where the fabric carries air loads and is unsupported
+‘over Jargé areas.
+
+Fabric Covering of Plywood
+The fabric used in this case is usually DTD 343 (Madapollam), but may be an even
+lighter fabric. Since the fabric carries no loads but is being used merely as a protective
+coating and as a vehicle for the dope, any suitable fabric may be used, but it will be
+found to be a false economy to use anything with too open a weave as this will mean
+that a great deal of dope-will have to be used to get anything like a good finish. The
+component must be cleaned down smooth and then given two coats of clear dope, or
+if you prefer using it, one of the special adhesives made for this job. The purpose of
+these coats is to ensure that there is plenty of dope under the fabric to stick it to the
+ly when the fabric is applied. Now stretch the fabric tightly over the component and
+hold it in place. The easy way to do this is to use drawing pins or if you have one, a
+one-handed tacker. Before you start doping it on, run a hand all over the surface to
+make sure that there are no lumps of dirt under the fabric as these will spoil the finish
+later on. Surfaces that have curvature in two planes will probably have to be done in
+more than one piece, but it is surprising how much the fabric will stretch round double
+curvature if carefully pulled into shape.
+When you are satisfied with the smoothness of the fabric, start brushing clear dope,
+thinned as necessary, into the fabric and make sure that it does go right through. It is
+a help in this direction if you follow up the brush with a pad of scrap fabric rubbing
+the dope well into the weave and making certain that there are no air bubbles or dry
+spots in it. Give two coats of the clear dope and allow to dry between each coat. Then
+go ahead with the filler or red dope to fill the weave and get a good surface for the
+finish colour. The-finish is enormously improved if you rub down the surface between
+—-- + -—- pats with-a-fine-wet-and-dry_paper or-fine-glasspaper. Before the finish.dope.goes. on, it--_—___.
+is a very good plan to give the fabric one coat of aluminium dope. Not only does this
+help to protect the fabric from attack ‘by ultra violet light, but it does also act as a
+barrier to stop colours of the undercoats creeping through to spoil the finish cofours
+Red dope seems to creep through on to the lighter finishes in a surprising way. . -
+Half the battle in this sort of work is the proper rubbing through of the dope with
+the pad and the job is made much simpler if two people can work together at it, one
+doing the doping and one rubbing through. If you have to make joins, you have a choice
+of making very careful butt joints and then covering the joint with a strip pinked or
+frayed, or making an overlap of about in. Careful rubbing down with abrasive paper
+during the building-up with dope process will make both these joints almost invisible
+in the finish.
+
+Fabric Covering of Unsupported Surfaces
+
+In this case the job is a little different from the foregoing. The fabric must here be
+considered part of the structure of the aircraft and therefore only approved stuff may
+be used. DTD 343, Madapollam, is used on many machines and is very satisfactory.
+A slightly heavier and closer weave material is sometimes used, to Specification DTD
+
+
+--- PAGE 6 ---
+Secthon 2—Page 5
+
+575, and this is somewhat stronger than the Madapollam and seems to last longer
+between re-covers. Which you use is a matter of choice: If the machine is a little tight
+on all up weight then the DTD 343 would be the one to use as the resulting empty
+weight will be less. If there is ample payload in the glider in question and it may have
+to be used in rough conditions of weather or storage then the DTD 575 is clearly the
+choice. Make sure that you do get a Release Note with your fabric and quote the number
+in the log book of the glider.
+
+Clean down the component and give it two coats of clear dope over all the surfaces
+where the fabric is to stick. Now stretch the fabric tightly over the component and pin
+it in place with drawing pins or by the use of a one-handed tacker. Where the fabric is
+attached to a ply leading edge or spar, arrange it so that you have at least I in. Jap on
+the spar. ; . ote,
+
+Taking for example the job of covering the top surface of a wing, say a T.21B, it is
+easiest to dope along the spar edge first and allow this to dry. Follow the dope brush
+immediately with a rubbing pad to ensure proper penetration of the dope. Once this
+edge has stuck, the fabric can be re-tensioned if necessary and then the trailing edge
+can be doped down, rubbing through as before. Lap the fabric round the trailing edge
+member and trim off. Now continue the doping down, this time along the top boom
+of each rib and round the tip lamination and along-the root box. Allow all this to dry
+and then give a second coat of dope over all the places where the first coat went. Allow
+this to dry thoroughly.
+
+You have now got the fabric nicely attached to the structure and you can start to
+tauten it and fill it in. Depending on the scheme that you prefer, this can be done with
+clear dope (tautening) or red dope (tautening). Most dopes can be obtained in High,
+Medium or Low tautening forms, and for glider use the Medium seems to be about the
+right strength. The Low tautening is useful for sticking fabric to plywood or for the
+initial stick down coats to ribs, ete., but.the Medium seems to work just as well. The
+low tautening dopes are not so. good for building up the finish and filling the weave,
+unless you are working ina very hot climate. The High tautening dopes should be used
+with care, as they do tend to poll the light structures that we use on gliders out of shape
+if used rashly, but they can be very useful for patching, particularly in Winter.
+
+The fabric will take some three or four coats of tautening dope before the weave is
+buried and you have a smooth surface. As before yu can improve the surface enor-
+mously by careful rubbing down with abrasive paper between each coat, Before the
+finish colour coats go on, give one coat of aluminium dope to seal the fabric against
+
+—— —+the attack of ultra violet light and to stop the colours-of the undercoats creeping” up
+
+into the finish colours. :
+
+In the above example we considered the covering of the top surface of a wing. The
+under surface is a little more complicated as we frequently have a bit of undercamber to
+deal with and this makes the job of sticking the fabric tothe ribs a little more tricky,
+as it naturally tries to pull away from the ribs as the fabric tautens. The secret here is
+to stick the fabric down all the way round the outside first with two coats of dope and
+let it dry. Then and only then load the unsupported areas of fabric with any suitable
+weights so that the fabric is held down on to the rib booms and then dope and rub
+through in the ordinary way. When two coats have been applied and rubbed through,
+the fabric will be found to have stuck firmly to the ribs. Then you can remove the
+weights. Suitable weights can be made from pieces of ply loaded with ‘G’ cramps or
+any workshop tools of a convenient weight. It is worth leaving the job for some hours
+or even overnight for the stickdown to harden off. Once this has hardened off you can
+
+- go ahead and dope up the unsupported surfaces with red or filler dope, but for the first
+
+coat it is wise to avoid doping the portions that have already been doped.
+
+The stickdown coats and the first coat must be brushed in. The later coats may be
+sprayed if desired, but it is better to keep the spray gun for the finish coats,
+
+
+--- PAGE 7 ---
+Sectlon 2—Page 6
+
+General Notes on Covering .
+
+The fabric must be dry and if there is any doubt about this it is a good plan to air the
+fabric for an hour or so in the sun. If you try to use damp fabric you may waste the
+fabric and the dope and have to take the whole lot off and start again. If there is any
+stringing of the fabric on the underside repeat this when you re-cover. You may find
+on some older machines that there is a doped strip on the lower booms of each rib to
+prevent chafing when stringing the booms and this should be renewed.
+
+Do not be discouraged if the job looks awful after the first coat. Fabric goes on
+tautening for some days after the dope has apparently dried off and it is amazing how
+puckers will pull out given a little time.
+
+The manufacturers of dopes will be found to be very helpful in case of any troubles
+and it is wise to follow their approved doping schemes. As regards the choice of dopes,
+using clear dope throughout for the filling and tautening does give a lighter result.
+However, unless weight is of paramount importance, red dope does seem to protect
+the fabric better and makes a longer lasting job. It also fills the weave rather more
+quickly and gives a smoother finish. Filler dopes do the same job of course.
+
+If a really high finish is required this can be obtained only by hard work, rubbing
+
+down each coat thoroughly and finally polishing with one of the special polishes made
+
+for the job, such as Hendon Polish. Dopes from different manufacturers may have
+different chemical properties so, to avoid trouble, stick to the same make of dope for
+the whole machine. You will find the type of dope used quoted in the Jog book, in the
+pages at the front of the book, and when you re-cover fill this page with the details of
+what you have used on the job. This will save somebody a lot of trouble later on.
+

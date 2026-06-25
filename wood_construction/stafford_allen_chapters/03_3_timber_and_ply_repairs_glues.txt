@@ -1,0 +1,560 @@
+# 3. TIMBER AND PLY REPAIRS, GLUES
+
+ALL the wooden parts of a glider are held 
+together by some sort of glue, so we 
+might well begin this chapter with a dis- 
+sertation on glues and their properties. 
+First, let us realise that a properly made 
+glued joint is actually stronger than the 
+wood that it is holding together. This is true 
+of all Approved glues and, of course, you 
+must use no other. This means that if you 
+make a test joint, and then tear it apart after 
+the glue has set, the joint will not break in 
+the glue line but will tear away the wood 
+fibres from one side of the joint.
+Now, to get this strength from a glue 
+joint the glue has got to be used properly. 
+Glue must always be used in shear, and 
+never in tension. Fig. 3 should make this 
+clear.
+Glue
+Glut,
+fb).RIGHT
+Fig. 3
+In Fig. 3(a) the glue line is in tension, i.e. 
+is tending to be torn apart, and a joint made 
+like this is hopelessly weak. In Fig. 3(b) the 
+jointed pieces of wood are not so much 
+being torn apart, but more trying to slide 
+one over the other. The glue line is in shear 
+and its strength is enormous. Also please 
+note that in the latter method we can make 
+the area of the glue surface as big as we like 
+by making the slope shallower and therefore 
+longer.
+Glue must always get right down at the 
+wood, so the joints must really fit properly 
+before gluing up. Equally important, the 
+wood surfaces must be clean, and this does 
+not simply mean scraping off any paint. It 
+means that, after sanding the surfaces, you 
+must not touch them even with clean hands. 
+The perspiration from even clean fingers will 
+be left on the joint and the oiliness will 
+interfere with the proper penetration of the 
+glue. Lastly, the joint must be so held or 
+clamped so that no movement is possible 
+until the glue has set.
+Aircraft glues, in the U.K. at any rate, are 
+of two main types: Casein Glues and 
+Synthetic Resin Glues.
+Casein Glue is a white powder and is 
+made from milk by a chemical process. 8
+Mixing instructions are always included 
+with the powder and should always be 
+followed exactly, since the different makes 
+of glue have slightly different mixing tech- 
+niques. A typical mixing method is: mix 
+the powder and cold water to a thick creamy 
+consistency, allow to stand for 20 mins. and 
+the glue is ready for use. Three hours (or 
+sometimes four, depending on the make of 
+glue) after mixing, the batch must be thrown 
+away and a new batch mixed. Casein glue 
+does not simply dry out like a gum, but it 
+sets by chemical reaction. It is an excellent 
+glue improperly used. It is not "gap filling", 
+and in consequence the workmanship and 
+cleanliness of surfaces must be of the highest 
+order. In use, it is spread evenly over both 
+surfaces of the joint, which are then 
+clamped together with as much pressure as 
+possible, short of damaging the timber 
+fibres. 
+Setting time varies with different 
+makes and the ambient temperature, but is 
+of the order of 24 hours.
+Casein glue is waterproof, but it has one 
+serious disadvantage. If it gets wet, it is 
+liable, being an organic substance, to fungus 
+attack; and once this starts, the glue joint is 
+rapidly destroyed. To guard against this, 
+casein glued aircraft are usually sprayed 
+internally with a light coat of shellac.
+Casein glue is not much used these days, 
+but there are quite a number of older gliders 
+still flying which are casein-glued through- 
+out. In case of repair, it is better to use the 
+same type of glue as was used in the original 
+structure, so these machines should be 
+repaired with casein glue.
+The most widely used Synthetic Resin 
+Glue, in the U.K. at any rate, is Aerolite. 
+This is really a plastic which has been 
+arrested in its hardening and so remains 
+liquid. 
+The hardening process can be 
+started by bringing the glue into contact 
+with a catalyst or Hardener. 
+In conse- 
+quence, this is what is called a Double 
+Application Glue. 
+In use, the glue, a 
+whitish treacly liquid known as Aerolite 
+300, is spread evenly on one piece of wood, 
+and the Hardener, a liquid usually stained 
+with a dye to assist identification, is spread 
+over the other piece, the surfaces having 
+been carefully prepared. When all is ready, 
+the two pieces of wood are brought together 
+and clamped in position while the hardener- 
+treated surface is still damp. This last point
+
+--- PAGE 16 ---
+is most important. The clamping pressure 
+need not be anything like so great with this 
+glue; in fact, the best joint is ensured when 
+the pressure is only just sufficient to 
+guarantee that the surfaces are in proper 
+contact all over the joint. This glue is said 
+to be gap-filling, but this must not be made 
+an excuse for inferior workmanship.
+Setting begins immediately the glue 
+touches the hardener, so the two must never 
+come into con tact except as above described. 
+Setting times vary enormously with tem- 
+perature, and, if suitable heat can be 
+applied, may be reduced to an hour or so. 
+Times also vary depending on which speed 
+of hardener is used. This is made in three 
+speeds, 
+"Rapid" 
+(coloured 
+amber), 
+"Medium" (coloured green), and "Slow" 
+(coloured violet). 
+The last two will be 
+found the most useful for glider repairs, and 
+it is a good rule to use the slower hardener 
+if you have a choice, since this allows more 
+time for tacking or clamping up. 
+The 
+available times for this are quoted on the 
+manufacturer's instructions sheet. 
+These 
+hardeners can be obtained undyed, or 
+colourless, but their use is not recom- 
+mended. The purpose of the dye is to prove, 
+conclusively, that the hardener has been 
+used. The makers of this glue, Messrs. Aero 
+Research, Ltd., of Duxford, Cambridge- 
+shire, supply, with every batch, full in- 
+structions for use, and temperature/setting 
+time tables for the various speeds of 
+hardeners. When using this glue, some form 
+of artificial heating must be used if the 
+temperature is below 40°F. This can usually 
+be quite easily arranged, a favourite method 
+being to fix ordinary electric light bulbs 
+with some form of reflector around the 
+joint. It is quite surprising what a lot of 
+heat can be applied in this way. Hot water 
+bottles will also be found useful on 
+occasions.
+Being a plastic, the glued joint is un- 
+affected by moisture, fungus attack, or 
+anything else. However, in its liquid form, 
+Aerolite 300 does tend to harden very slowly 
+and for this reason the store life of the glue 
+is three months from date of manufacture. 
+After this period the glue must be thrown 
+away, or, at any rate, not used for aircraft 
+work, though it may be quite good enough 
+for trailer repair and 
+suchlike. The 
+hardeners have an indefinite store life.
+The makers also produce the same glue 
+in powder form. This is known as Aerolite 
+306, and when mixed with water, in the
+—9
+correct proportions, forms Aerolite 300. 
+The advantage of this is that, in powder, the 
+glue has a store life of two years, so that 
+batches of glue can be mixed up as required. 
+This is a very convenient way of using 
+Aerolite, but make sure that the mixing is 
+done in the correct proportions and that all 
+air bubbles are removed from the glue 
+before use. This may take one or two days. 
+Keep in an airtight jar, or a skin will form 
+on the surface. This skin will not re-dissolve 
+and must be removed.
+Finally, do keep the glue and hardener 
+apart at all times. If one drop of hardener 
+accidentally spills into the glue pot, that 
+glue is infected and must be thrown away.
+Aero Research, Ltd., also make another 
+glue known as Aerodux. This is not often 
+come across, but it is an excellent glue. 
+It is a Synthetic Resin, but has one snag 
+from our point of view. It is very slow 
+setting in fact, its full strength is not 
+developed until about seven days after the 
+joint is made. This does not matter much 
+from the constructional point of view, but it 
+is a serious drawback when considering 
+repairs. This glue is a red treacly liquid and 
+the hardener is a white powder. 
+When 
+required for use, the correct amount of the 
+hardener powder is stirred into the glue. 
+The glue is then ready for use and remains 
+usable for a few hours depending on the 
+temperature. This glue is applied to both 
+surfaces to be joined, and the joint is 
+clamped up in the usual way. This glue has 
+much to recommend it when building a 
+large component or repairing a spar, since 
+the time element is much less critical. 
+Initial setting is fairly quick a matter of a 
+few hours, but final hardening to produce 
+full strength as stated above is rather a 
+lengthy business. This glue is used fairly 
+widely in the manufacture of rotor blades 
+for 
+helicopters, 
+and 
+other 
+high-duty 
+applications.
+Timber Repairs
+It will help you enormously if you can 
+obtain a copy of A.P. 2662A entitled 
+"Standard Repairs to Airframes". Although 
+it bears on its cover the statement "Promul- 
+gated for the information of all concerned", 
+someone has decreed that this is a "Re- 
+stricted" publication and cannot be bought 
+by the public. 
+It may be difficult for 
+ordinary intelligence to see quite how the 
+Queen's enemies might benefit by the
+
+--- PAGE 17 ---
+possession of this book; but, as we all 
+know by now, "the man in Whitehall knows 
+best . 
+However, the British Gliding 
+Association will probably be able to obtain 
+a copy for you, provided you can satisfy 
+them that you are not a lunatic, or an 
+anarchist.
+There are, in this book, many worked-out 
+schemes for the repair of almost every type 
+of damage, and if you follow the scheme 
+appropriate to the job you are repairing, 
+you can hardly go wrong.
+However, if you cannot obtain a copy of 
+A.P. 2662A, we had better consider timber 
+repairs from first principles. 
+Timber is 
+joined to timber by glue and nothing else. 
+Any odd tacks, or screws, you may find are 
+virtually unstressed, and were fitted to 
+ensure that the gluing up of the original 
+joint was satisfactory. This, of course, does 
+not apply where you find a metal component 
+screwed to a wooded one, e.g., a skid shoe 
+on a main skid. Therefore, when we have to 
+make good any damage to a wooden struc- 
+ture, we must do it by means of wood and 
+glue alone.
+Most gliders are built of spruce for the 
+main load-carrying members, with birch or 
+gaboon plywood for skinning and bracing 
+bulkheads, or forming spar webs, etc. Let 
+us consider repairs to spruce members first. 
+Basically there are two main types of 
+glued joint; the lapped joint and the 
+scarfed joint. The lapped joint is normally 
+only used for trivial repairs or repairs to 
+comparatively lightly loaded members.
+,Oack
+Fig. 4
+Fig. 4 shows a patch repair using a lapped 
+joint to repair the top boom of a wing rib. 
+In this case the patch piece must be of the 
+same dimensions as the original boom, the 
+ends must be chamfered down to a slope of 
+at least 5 to 1 and the parallel portion of the 
+patch piece must be at least ten times the 
+thickness of the original boom. The patch 
+piece is simply glued into position and 
+cramped or clipped until the glue has set. 
+For this purpose, bulldog clips, or spring- 
+type clothes pegs, will be found very useful.
+This is a very simple and quick repair but 
+its disadvantages are obvious. 
+We have 
+made the job heavier, and we have increased 
+the stiffness of the boom. 
+These disad- 
+vantages are not very important in a small 
+repair of this nature, and the boom is a 
+comparatively lightly stressed member, so 
+we can call this a satisfactory repair. Note 
+that the ends of the patch piece must be 
+chamfered to avoid the sudden change of 
+stiffness there would otherwise be.
+Except on trivial repairs and lightly 
+stressed members, this system is not good 
+enough, and we must look for a better way.
+This better way is the scarfed joint, and is 
+illustrated in Fig. 5.
+Ftath«r-edge-
+-10-
+Fig. 5
+To make the scarfed joint the two ends of 
+the pieces of wood are planed, shaved, and 
+filed down until they fit as shown in the 
+figure, and then glued. The length of the 
+scarf must be at least 12 times the thickness 
+of the wood, but should be 15 times if it is 
+possible to make it so. Never forget that a 
+long splice is much easier to make than a 
+short one, and the glued area is corres- 
+pondingly greater so that a better joint 
+results. A 12 to 1 scarf, or splice is satis- 
+factory, but the individual scarfs must fit 
+absolutely perfectly. It is a very good rule 
+to make all scarfed joints in solid members 
+to slope at 15 to 1 for this reason, and only 
+use the 12 to 1 slope if it is absolutely im- 
+possible to use the full length of 15 to 1.
+One further point needs a little considera- 
+tion. This is the feather edge, or point of 
+each scarfed piece. It is clearly vulnerable 
+either during the gluing, or later in service. 
+If the member is subjected to any bending 
+in the plane of the glue surface, then any 
+tendency for the feather edges to lift will 
+cause a crack to try to creep in and force the 
+scarfed surfaces apart. To prevent this, it is 
+a good plan to glue, over the feather edge 
+points, a reinforcing strip. 
+Now, A.P. 
+2662A shows reinforcing strips made from 
+spruce. In general on gliders our repairs 
+will be made on much thinner sections than 
+is usual on Service aircraft, and ply rein- 
+forcing strips are quite satisfactory. The 
+strip should be at least 6 T long on the
+
+--- PAGE 18 ---
+parallel portion (T being the thickness of 
+the repaired member) and the ends must be 
+chamfered down to a slope of at least 5 to 1 
+as shown in Fig. 6.
+Ply skin.. No reinforcing strip requd.
+5 tol Chamfer
+Fig. 6
+If one side of the scarf is glued against a 
+ply skin, as shown on the upper side of the 
+scarf in Fig. 6, then of course no reinforcing 
+strip is needed, since the skin performs this 
+job. The grain of the strip must run, on the 
+outer veneers, parallel to the grain in the 
+scarfed member. As regards thickness of 
+strip, -jk in. ply will serve for members 
+f in. square to about f in. square, and 
+proportionately, though above J in. square 
+sections it is probably better and easier to 
+use spruce reinforcing strips of a thickness 
+of i T where T is the thickness of the 
+member.
+Do not let the fitting of a reinforcing strip 
+be an excuse for inferior workmanship. Its 
+purpose is solely to prevent the possibility 
+of the points of the scarf from working 
+open. The strength of the joint must be in 
+the scarfed joint itself.
+Plywood Repairs
+Here again we have two basic types of 
+glued joint, the lapped joint and the 
+scarfed joint. The lapped joint is mainly 
+used in patching minor damage. Patches of 
+ply should be of the same thickness and 
+grain direction as the original ply and should 
+be glued onto the back, or inside, of the 
+panel. All edges should be chamfered down 
+at a slope of 5 to 1. Patching is useful for 
+repairing odd cracks, holes, etc., in lightly 
+stressed panels of ply, provided these are 
+small and of minor importance. Do not 
+use this method for important ply panels 
+such as leading-edge ply, etc. For this type 
+of repair, as, in fact, for the majority of 
+ply repairs, scarf joints must be used.
+You know, by now, that you must only 
+use Approved plywood, but here is a word 
+of warning. 
+You will come across two 
+different types of plywood in glider con- 
+struction. The first, or ordinary plywood, 
+consists of three veneers of wood, the outer
+two veneers being laid so that the grain 
+runs parallel with the length of the sheet, 
+while the centre veneer is laid so that its 
+grain runs at right angles to the two outer 
+veneers i.e., runs across the sheet. This 
+is the most common type of plywood. The 
+second type, sometimes called Shear Ply, 
+Diagonal Ply, or 45° Ply, is a high-duty ply- 
+wood used in positions of great stress such 
+as spar webs and, sometimes, leading-edge 
+ply. In this ply the outer veneers are each 
+laid at 45° to the long edge of the sheet. 
+This ply has enormous strength in shear, 
+and must never be replaced by ordinary ply.
+Grain is very important in ply panels, 
+and all replacements, insertions and patches 
+must be arranged so that the grains run as 
+in the original structure.
+Making scarfed joints in plywood is 
+basically the same procedure as in solid 
+timber, with a few exceptions. The length 
+of the scarf must be nine times the ply 
+thickness no more and no less. If you try 
+to make the scarf longer, you will almost 
+certainly lose strength through the feather 
+edges breaking. A shorter scarf is not up to 
+strength. No reinforcing strips are required, 
+but, of course, any fabric used as a protective 
+covering must be made good. 
+The scarf 
+must be very accurately made, the surfaces 
+must be really flat and must fit perfectly 
+before gluing up. This is made easier by the 
+laminated form of plywood, since a good 
+scarf shows three straight stripes, of equal 
+width, where the three veneers have been 
+shaved down. Mark off your scarfs with a 
+pencil line before you start and shave down 
+with a file rather than a plane. The latter is 
+rather too greedy and tends to break up the 
+feather edge. The new "carrot grater" type 
+files with replaceable blades will be found 
+very useful for scarfing ply.
+All ply scarfs must be backed; i.e., there 
+must be a rib or frame behind the scarf, or 
+it is impossible to close the scarf for gluing. 
+Moreover, the backing must be at least 
+three-quarters of the width of the scarf, and, 
+if necessary, the rib, or frame, must have a 
+strip of timber glued alongside it to make it 
+up to this thickness. If there is no rib or 
+frame to use, then you must fit a backing 
+piece, glued into place. Never try to scarf 
+onto thin air, i.e., without backing; it is a 
+waste of time.
+If you consider that a backing piece is 
+materially increasing the stiffness of the 
+structure at the repair, it may be advisable 
+to remove it again after the repair is finished.
+—11-
+
+--- PAGE 19 ---
+The usual method of closing up a scarf 
+joint in ply is by means of a tacking strip. 
+This is a strip of plywood about an 
+inch wide which is tacked down over the 
+scarf. The operation is made much easier 
+if prepared strips, with the tack already 
+stuck in them, are made up beforehand. 
+When the joints have set, these strips are 
+removed and the tacks drawn out again. 
+As a general principle, all tacks should be 
+removed after a repair. If you find, as you 
+may, that on a particular job some tacks 
+cannot be removed owing to inaccessibility, 
+then these tacks must be of brass. Otherwise 
+steel tacks may be used, but these must be
+Tacks bent over,
+Support 
+right up/ 
+to edge
+Packing 
+strip
+Tacking strip 
+and tacks
+n_-
+-Frame
+This width to be at 
+least 3M of scarf length
+Fig. 7
+removed or corrosion will set in and damage 
+the timber. Fig. 7 shows a typical ply scarf 
+repair.
+There is another type of repair which falls 
+rather between the two types described 
+above. This is the Flush Insertion type of 
+ply repair. It is useful where damage is too 
+big for a small patch but not sufficient to 
+justify scarfing in a new panel. It is made by 
+cutting out the damage to an oval shape or 
+rectangle with radiused corners and gluing 
+in a "biscuit" of ply inside the panel. Do 
+not make the hole circular unless you can 
+get at both sides of the panel, otherwise you 
+will not be able to get the biscuit through 
+the hole. When the biscuit has been glued 
+in, a patch can be cut to fit the hole exactly 
+and glued into place. All outer edges of the 
+biscuit should be chamfered to a 5 to 1 
+slope, and all laps should be at least 1 inch. 
+Fig. 8 shows a sketch of this type of repair. 
+It is not used much on gliders since the 
+panels in general are fairly small, and usually 
+it is easier to scarf in a new piece onto the 
+nearest frames or ribs.
+When replacing a damaged panel of ply 
+with a new one, if you have to make a scarf
+INSERTED PLY PATCH
+Biscuit
+Ply Panel
+Fig. 8
+joint at a place where there was originally a 
+scarf joint, do not worry about the direction 
+of the original scarf. If the new joint is in 
+the same direction as the old one, then things 
+are easy. Simply shave down to the old 
+scarf joint, clean off all old glue until you 
+have a good timber surface, and glue in 
+your prepared scarfed panel in the ordinary 
+way. However, if the old scarf ran in the 
+opposite direction, then ignore it. Scarf in 
+the new panel as usual. The joint will be 
+amply strong. Fig. 9 shows a cross section 
+of a new scarf running in the opposite 
+direction to an old one.
+New Scarf
+Line of 
+Old Scarf
+Fig. 9
+This procedure of a new scarf crossing an 
+old one should be avoided in solid spruce 
+members. 
+The question does not really 
+arise since normally we can put our splices 
+in these members more or less anywhere we 
+like, whereas in ply panels we have to make 
+them where there is sufficient backing, i.e., 
+on frames or ribs.
+Whenever gluing ply, it is important that 
+the surfaces are properly sanded before 
+gluing, since the process of manufacture 
+tends to close up the pores. 
+12-
+
+--- PAGE 20 ---

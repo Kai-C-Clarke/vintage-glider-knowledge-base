@@ -1,0 +1,81 @@
+
+--- PAGE 1 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Foreword and Instructions 
+BGA Compendium – 11/10 
+ 
+1 
+ 
+FOREWORD 
+The layout of the compendium is now listed under aircraft manufacturers name and is in a format to allow more room for detail and reference information. Where two 
+manufacturers make one type, a cross reference is made. 
+ 
+From 2002 each entry will have a status as follows: 
+M 
+Mandatory for aircraft with a BGA or EASA C of A  
+R 
+Recommended by the BGA or manufacturer 
+O 
+Optional (usually modifications) 
+I 
+For information (usually guidance for inspectors or general information)  
+"In Service Reports (Advisory)" are for guidance to inspectors and owners spreading knowledge gained by BGA inspectors over many years of sailplane maintenance. These 
+entries are not required inspections but for information and guidance only. 
+ 
+ 
+INSTRUCTIONS FOR USE 
+To research a particular aircraft, look under the following: 
+1. Aircraft manufacturer section 
+2. Engine and propeller section (if applicable) 
+3. Equipment section 
+4. General Information – All types 
+5. Tug and Motor glider issues (if applicable) 
+6. Review all TNS issued after the compendium issue date. 
+ 
+ 
+GENERAL INFORMATION 
+Compiled From: Airworthiness Directives (ADs), Service Bulletins (SBs), Tech Notes (TNs), Technical Instructions (TIs), Defect Reports, CAA Mandatory Modification and Inspection 
+Summary, CAA Airworthiness Directives Vol. 1 & 2, CAA Foreign ADs Vol. III. CAA CAP 747 and EASA web site . Also experiences by BGA inspectors and operators.  Service Bulletins 
+and Tech notes that are not supported by an AD and where they are easily obtained from the manufacturers will gradually be omitted from the compendium. 
+ 
+Service Bulletins and Technical Notes: these should be reviewed at each C of A/Annual Check and assessed for compliance. Most of the larger manufacturers have a web site 
+where service information can be downloaded. 
+Amendments: will be identified with a line in the left margin 
+
+--- PAGE 2 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Foreword and Instructions 
+BGA Compendium – 11/10 
+ 
+2 
+ 
+Tug’s:  The BGA compendium does NOT cover Glider Tug aircraft. Reference should be made to the applicable Airworthiness publications and manufacturers information. 
+ 
+Updated:  by BGA Technical News Sheets (TNS) - bi-monthly. From 2002 the TNS number will be aligned with the compendium. I.e. 01/02/02 will become 02/02, 03/04/02 will 
+become 04/02, 05/06/02 will become 06/02 and on. Indicating month and year of publication from 2006 TNS are numbers sequentially followed by the year. 
+ 
+Compliance:  Unless stated otherwise, the AD’s listed in this compendium are mandatory for CAA & BGA registered gliders and Motor Gliders. 
+Notes: 
+1. AD’s are issued by EASA or National Airworthiness Authorities, generally to make manufacturers’ SB’s, TI's or Mods mandatory and to state time limits as to when they must 
+be carried out. 
+2. Items marked ”M” have been reviewed by the BGA and must be carried out as specified and entered in the log book Mods or Pink Pages section. 
+3. All other entries listed in this compendium are for guidance to aid inspections, and it is recommended that they are carried out annually, i.e. at C of A, except when stated 
+otherwise. From 2002 all entries will have a status indicator to assist inspectors to interpret the requirements. 
+ 
+Club Technical Officers:  are asked to make all relevant airworthiness information available to club members and private owners.  
+ 
+Club Committees: are reminded of their corporate responsibility to maintain high standards of airworthiness. 
+ 
+BGA Inspectors:  are required to keep a record of their work, such as copies of 267 forms or a diary. 
+ 
+CAA Airworthiness Notices:   detail repair and operational procedures for light aircraft, of which much is also applicable to gliders, is available from: - TSO Shop, PO Box 29, 
+Norwich, NR3 1GN. Fax 0870 600 5522, Phone 0870 240 3701   Also available from CAA Airworthiness Notices 
+ 
+EASA Publications: including CS-22 Glider design code, Part 21, Part M can be downloaded from the EASA web site  
+ 
+Further Information:  The LBA publish AD’s on the Internet also many manufacturers have their own web sites (see contacts) where Tech Notes can be downloaded. There are 
+many more Tech Notes than listed in the Compendium; these are mainly for optional modifications. For details either contact the agent or manufacturer direct. 
+ 
+Errors:  Please notify the BGA, in writing by letter or e-mail if any errors are found in this publication.Email: BGA CTO 

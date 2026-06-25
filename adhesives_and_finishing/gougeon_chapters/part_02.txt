@@ -1,0 +1,1660 @@
+of its
+natural weaknesses. Epoxy in combination with wood accentuates the positive properties and reduces the
+weaknesses.
+This book, as originally written, set out an emerging technology that shared many of the traditional uses and
+choices of wood in boatbuilding. In some areas, we departed from these traditions—we suggest more use of
+softwoods or less rot-resistant species, and we suggest construction techniques optimized for gluing rather
+than fastening.
+Much has changed in the world of wood over the twenty-five years since this book was originally published.
+The population of the world has increased from 4.3 to 6.3 billion. That increased population has stressed the
+traditional sources of supply and made environmental consciousness, once an individual choice, now influen-
+tial in broad areas of public policy around the world. Deforestation, reforestation, national forest products
+policies, tree plantations, forest monocultures, and biodiversity are important issues that influence the choice,
+availability, and price of many wood species. 
+At the same time, the general populace has become much less knowledgeable about wood. Boat manufac-
+turers advertise their products as “wood-free,” ignorant of how to use the material properties of wood to
+their advantage. 
+This chapter provides a primer on how to consider the fundamental properties of wood as an engineering
+material, irrespective of species. Wood/epoxy composite construction allows for broad substitution of wood
+species based on balancing density, strength, and price. You can use less durable woods (if their other
+mechanical properties are important to you) by addressing the durability issue in a different fashion. Consider
+how broadly balsa is used in modern boatbuilding—unthinkable forty or fifty years ago. Encapsulated in a
+properly fabricated plastic composite, balsa has advantageous properties. 
+If you find it difficult to obtain certain kinds of wood, be bold and substitute. But do your homework and make
+test samples to prove to yourself the viability of these alternative species and how you may introduce them
+into your project. Some quite extraordinary boats have been built out of non-traditional boatbuilding species. 
+Wood as a Structural Material
+C H A P T E R
+3
+
+--- PAGE 26 ---
+Wood has many advantages as a boatbuilding material.
+It’s probably easier, less expensive, and more satisfying
+to build a boat from wood than from any other material.
+Wood is relatively easy to cut and shape and almost
+everyone has some experience with it. It’s satisfying to
+work with because it’s beautiful. Wood is readily avail-
+able and it costs less than steel, aluminum, or fiberglass.
+Although lumber prices have increased, wood is still
+comparatively inexpensive in terms of both its own
+cost and the cost of tools to work it. Most importantly,
+however, wood has physical characteristics that make it
+ideal for boatbuilding. Its strength, stiffness, light weight,
+and resistance to fatigue give wood advantages over
+other materials.
+While wood has many advantages as a structural ma-
+terial, it also has some well-known disadvantages, most
+of which are caused by the passage of water in and out
+of its cells. Wood can rot. It shrinks and swells with
+changes in moisture and temperature, and it loses some
+of its strength and stiffness when its moisture content
+is high. In the past, difficulties arose in constructing
+boats with wood because of changes in the condition
+of the wood caused by variations in moisture content.
+As its moisture level increases, the wood changes in
+dimension and loses some of its strength and stiffness.
+The design of boats built of wood had to make allow-
+ances for this instability.
+To a very great extent, the use of WEST SYSTEM Brand
+epoxy overcomes the problems previously associated
+with wood construction. All joints in boats built with
+the methods described in this book are bonded with,
+and all surfaces encapsulated in, epoxy. In this way,
+every piece of wood, inside and out, is covered with a
+barrier coating of WEST SYSTEM epoxy through which no
+significant amount of water or air can pass. As a result,
+the moisture content of the wood is stabilized.
+This stabilization means that the wood will shrink and
+swell very little. The moisture level at which the stabi-
+lization occurs and at which the wood remains ensures
+a continuation of design strength and stiffness. Encap-
+sulation in WEST SYSTEM epoxy also prevents dry rot,
+not only by stabilizing moisture content, but also by
+restricting oxygen supply to the wood surface.
+Since World War II, there has been tremendous
+research and development in the field of epoxy and
+other thermosetting plastics. Wood research had focused
+on technologies and products suited to the construction
+industry. We are among the few to work specifically to
+develop a wood/epoxy composite material and the only
+group to test it exhaustively, especially in high-cycle
+fatigue. Our efforts clearly show that a wood/WEST
+SYSTEM epoxy composite is one of the best structural
+materials currently available for building boats when
+strength and stiffness-to-weight are primary considera-
+tions. Because of the superiority of the composite in
+fatigue, wood/epoxy hulls are less liable to failure over
+time and after hard use than hulls built of other ma-
+terials. We will explain why this is so in this chapter
+and discuss WEST SYSTEM epoxy in greater detail
+in Chapter 4. See Appendix B for additional data on
+wood’s mechanical properties.
+Engineering for Wooden Boats
+Boats present unique engineering problems. They
+require an outer skin, which may or may not be load-
+bearing, but which must withstand and deflect tons
+of water. Boats must also survive the kind of high
+point loads that occur during launching and hauling
+out, or if objects are struck at sea. Even small vessels
+have tremendous amounts of vulnerable hull and deck
+surface which must be properly supported to retain
+their streamlined shapes. Large sailing rigs may cause
+torsion and bending in hulls that have inadequate shear
+bracing. Finally, boats must survive these loads continu-
+ously over many years. The overall task in addressing
+these problems is the successful integration of proper
+design, construction methods, and material choices.
+Boats demand a material that is strong and lightweight.
+It must also be stiff, as demonstrated by the ability to
+resist deformation under load. Within certain limits, the
+lighter and stiffer a boat is, the better its potential for
+performance and durability. The less a hull weighs, the
+faster it will move under a given amount of power. The
+stiffer a boat, the better it holds its true shape and resists
+“softening” or weakening through flex and fatigue. Boat-
+building materials must retain their strength and stiffness
+over time and after use, and the boat’s structural compo-
+nents and construction method must be designed to fully
+exploit the materials’ capabilities.
+These principles may be best understood by thinking of
+a boat hull as a box beam enclosed by hull planking,
+12
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+
+--- PAGE 27 ---
+deck planking, and keel. This total outer skin, plus the
+stringers and other longitudinal members, provides
+support fore and aft. Frames and bulkheads, at right
+angles to these, form a strengthening lattice athwart-
+ships and provide torsional rigidity. If this lattice is
+loose and weak and its skin flexible from poor design,
+bad construction, or inappropriate choice of materials,
+the entire beam may lose its shape. In boats, problems
+of inadequate support most commonly show up as
+hogging, sagging, leaking, and slow performance.
+Adequate structural strength is required of any material
+used in boats. Usually, enough material is used to
+provide an adequate safety margin against material
+fatigue and unforeseen loads; beyond this basic require-
+ment, ultimate strength is less critical. Stiffness,
+however, continues to be important, and maximum
+stiffness is very desirable. All materials must deflect—
+either stretch or compress—under load, but usually
+any deformation in a boat’s hull shape is undesirable.
+While both strength and stiffness can generally be
+increased by using more material in the form of a
+thicker hull skin, this will increase hull weight. A basic
+problem with boats is that skin weight alone becomes
+the major factor in overall boat weight.
+In the quest for more speed, reducing weight is of major
+importance. Materials have been pushed to their limits
+for many years. Recently, strong competition and the
+desires of clients have caused many designers and
+builders to go further and to sometimes test margins
+of safety. The results of this—boats that never finish
+races because of materials failure—point to the impor-
+tance of fatigue resistance in any boatbuilding material.
+When a material loses most of its strength after a single
+high loading, it may quickly fail, no matter how strong
+it was originally.
+Fatigue is an accumulation of damage caused by
+repeated loading of a structure. When boats, wind
+turbine blades, and masts are subjected to a continuing
+series of loads, the fatigue behavior of the material of
+which they are made is more important than its
+ultimate one-time strength. If a boatbuilding material
+loses most of its strength after a few thousand hours of
+service, it may fail. Failure in fatigue is probably one of
+the leading causes of breakdowns in racing boats.
+Materials differ widely in their resistance to fatigue.
+Some are very strong for a limited number of loads but
+lose a high percentage of this strength as the loads are
+repeated. Others, particularly wood, begin with slightly
+lower one-time load strengths but retain most of their
+capabilities even after millions of cycles of tension and
+compression. One-time, load-to-failure figures may not,
+therefore, be very representative of how a material
+behaves under long-term cyclic fatigue stress.
+Figure 3-1 illustrates the cyclic tension fatigue behavior
+of some popular boatbuilding materials. The left side
+of this chart displays the load capability of each material
+expressed as a percentage, with 100% representing
+the ultimate one-time strength of each. All of these
+materials lose strength as a given load is repeated at
+steadily increasing numbers of cycles. The plotted
+fatigue curves show the relative percentages of strength
+which remain after any given range of loads and cycles
+to failure.
+Millions of cycles of stress are difficult to imagine, but
+they can be translated into operating hours. Boats at sea
+have been carefully instrumented where cyclic load
+increases associated with waves were measured once
+every 3 seconds. At this rate, after about 833 hours,
+the equivalent of about four years of seasonal weekend
+sailing, a hull would experience about a million cycles.
+The material used in a wooden boat would at this time
+still have about 60% of its ultimate strength, while
+aluminum would retain 40% and fiberglass composite
+20% of their respective ultimate capabilities. Given the
+anticipated life of a hull and the fact that human lives
+depend on its strength over time, these figures deserve
+serious consideration.
+Chapter 3 – Wood as a Structural Material
+13
+Figure 3-1 Tensile fatigue comparison. Fatigue strength of
+various structural materials as a percentage of static strength.
+
+--- PAGE 28 ---
+Some boat designers set their priorities and trade off
+between stiffness, one-time strength, weight, and resist-
+ance to fatigue. We use wood, so we don’t have to
+compromise. It is the material of choice when the
+primary goal is to gain maximum stiffness and excellent
+strength and at least weight, and wood will retain these
+qualities for many years of hard sailing. 
+Wood Strength 
+In The New Science of Strong Materials, J. E. Gordon
+suggests that a simple way to understand the strength
+of wood is to think of a bundle of drinking straws which
+have been glued together. These represent tubular cellu-
+lose fibers bonded with lignin and clearly illustrate what
+happens to a piece of wood under load. 
+When equal tension and compression loads are applied
+to opposing faces of this bundle, effects differ. The
+bundle is anisotropic: longitudinal strength, with the
+grain of the straws, is much greater than horizontal or
+cross-grain strength. When too much compression is
+applied to any face, the straws buckle and then crush.
+The bundle is generally stronger in tension than in
+compression, but in spite of all this pushing and
+pulling, the straws are very hard to actually break. 
+Strength is a measurement of the amount of force
+needed to break something. In wood, strength values
+vary significantly according to the orientation and type
+of load. Mechanical properties are about 20 times higher
+in the direction of grain than across it, either parallel
+to or at right angles to the growth rings. Tensile strength
+of most wood is quite high and compressive strength
+somewhat lower. When it is overloaded, wood will
+buckle and crush, with cells deforming up to 20%
+before initial failure. It will then gradually yield before
+finally breaking.
+The strength of any particular piece of wood is greatly
+dependent on its quality, moisture content, and density.
+Grain irregularities, knots, and other defects may cause
+local weakness. Variation in moisture content may
+increase or reduce the ultimate strength of an entire
+board. Figure 3-10 illustrates how changes in levels of
+moisture affect wood’s ultimate mechanical properties,
+especially in compression. Wood density varies from
+species to species. See Appendix B for a listing of
+the ultimate static mechanical properties of selected
+boatbuilding woods.
+Wood has unusually good resistance to fatigue.
+Although its one-time load capability may not be as
+high as that of other materials, a significantly high
+percentage of it is available for long-term fatigue life.
+This is not surprising when we consider that nature
+spent millions of years evolving trees in a competitive
+environment. But while this capability was empirically
+proven for years—anyone who watches a tall old tree
+survive repeated winds knows that wood is strong over
+time—little specific design data was available to
+support engineering efforts for repetitively loaded
+wooden structures.
+Laminated veneer testing
+In 1978, with the sponsorship of NASA, we began
+a program to determine the fatigue characteristics
+of wood in laminate form. Earlier fatigue testing,
+performed in 1943, showed that Sitka spruce exhibits
+excellent fatigue behavior, but failed to provide enough
+specific information for us to develop design allowables
+14
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+Figure 3-2 This Douglas fir laminate augmented with carbon
+fiber failed in compression at about 20,000 psi.
+
+--- PAGE 29 ---
+for our wind turbine blades. Our tests, which are
+described more fully in Appendix C, centered on ultra-
+sonically-graded Douglas fir veneers laminated with
+WEST SYSTEM epoxy, with and without synthetic fiber
+augmentation. The discussion of our results which
+follows is limited to wood/epoxy composites; details
+about other laminates made with wood and glass
+aramid and graphite fiber reinforcement are provided
+in Appendix C. No similar comprehensive data exist
+for solid timber, but values are usually lower.
+Figure 3-3 shows the resulting fatigue curves in tension,
+compression, and reverse axial tension to compression.
+Wood is considerably stronger in tension than in
+compression at low load cycles. At ten million cycles,
+however, their capabilities are very similar and the
+two fatigue curves move closer together.
+We have designed blades for wind turbines up to 400'
+(121m) in diameter and built blades that are 651⁄2'
+(20m) long. Veneers are only 8'(2400mm) long and 
+must be joined in some fashion in order to build larger
+rotors. For this reason, all of our test samples have
+included either staggered butt or scarf joints—built-in
+manufacturing defects. In one group of tests, we used a
+12-to-1 slope scarf joint between mating veneers and
+in a second series we induced the much more serious
+flaw of three butted joints. While the difference
+between the scarfed and butted specimens, logarithmi-
+cally plotted in Figures 3-4 and 3-5, was significant, it
+was much less than we anticipated. In any other
+material, this type of induced defect would likely cause
+a much more significant reduction in fatigue capability.
+These were tests for longitudinal mechanical properties,
+measuring fatigue when loads were applied parallel to 
+the grain of the wood. Just as important are secondary
+properties or cross-grain material capability. Trees have
+very simple load paths, with most loads longitudinal 
+to wood grain direction, but boats and other complex
+structures do not. In these, loads will vary from fiber
+direction, so some understanding of a material’s ability
+to carry loads radially and tangentially is needed for safe
+design.
+All unidirectional composites exhibit substantially less
+strength across their fibers than parallel to them. Wood
+laminates are generally about five times stronger in
+tension parallel to the fiber direction than tangentially
+to the fiber direction. Dense high-strength fiber bundles
+such as glass or carbon have a much worse problem in
+this regard: their cross-fiber strength may only be a very
+small fraction of longitudinal capability. It is our view
+that a majority of composite material failures in the
+marine field are in these secondary properties, and it is
+also in these areas where limited or no fatigue data exist.
+Chapter 3 – Wood as a Structural Material
+15
+Figure 3-3 Laminate fatigue properties. Maximum strength
+adjusted to 12% wood moisture content vs. total cycles for
+BG-1 Douglas fir/epoxy laminate with 12:1 slope scarf joints
+with 3" stagger, 31.8 in3 test volume, parallel to grain load
+direction, at room temperature.
+Figure 3-4 Compression fatigue. Maximum stress vs. total
+cycles for Douglas fir/epoxy laminate with 12:1 slope scarf
+and butt joints with 3" stagger, 31.8 in3 test volume, parallel
+to grain direction, room temperature and 12% wood moisture
+content.
+
+--- PAGE 30 ---
+Size effect in laminated veneer
+During the second half of the 1980s, The U.S. Depart-
+ment of Energy funded an extensive GBI test program
+to investigate various properties of epoxy/Douglas fir
+veneer laminate. The research included static and fatigue
+measurements of two secondary properties: (1) radial
+cross-grain tensile strength and (2) rolling shear strength.
+Radial refers to the through-the-thickness dimension,
+perpendicular to the plane of lamination. Radial tensile
+stress tends to pull the veneer layers apart. Rolling
+shear refers to the application of opposing forces,
+parallel to the plane of lamination but perpendicular
+to the wood fibers. The opposing forces are slightly
+offset to generate shear, such that wood fibers in
+adjacent slip planes have a tendency to twist and roll
+over each other.
+Both secondary property studies featured two popula-
+tions of test specimens made from the same parent
+laminate, one with small-volume specimens and one
+with large-volume specimens, in order to gauge size
+effect. Size effect refers to the often-overlooked phe-
+nomenon that causes physically small test specimens to
+demonstrate unrealistically high strength with respect
+to that of actual, real world structures made from the
+same material.
+The test sections of the 28 small radial cross-grain ten-
+sion specimens were 1.5" in the grain direction, 0.5"
+wide and 2.0" (20 veneer layers) thick. The test sections
+of the 35 large radial cross-grain tension specimens
+were 6.0" in the grain direction, 4.0" wide, and 12.0"
+(120 veneer layers) thick. The large/small specimen
+volume ratio was therefore 192:1. The average cross-
+grain tensile strength of the small-volume specimens
+was 393 psi. The average static strength of the large-
+volume specimens was only 280 psi, a knockdown of
+about 29%. The laminate moisture content of both
+specimen populations was the same, ranging from 5 to
+6%. In fatigue, the size effect turned out to be much
+more pronounced. The S-N (Stress-Number of cycles to
+failure) curves showed that for R = 0.1, the small speci-
+mens could reach 10 million cycles with a peak stress
+of 275 psi. (R is the ratio of the minimum stress
+divided by the maximum stress. A ratio of 0.1 means
+the maximum stress is 10 times the minimum.) For 
+the large-volume specimens, the S-N slope was much
+steeper. A typical large-volume specimen could reach 10
+million cycles only if the peak stress was 134 psi or less.
+This was convincing evidence that size effect should
+determine the design allowables for large, fatigue-driven
+wood structures.
+As for rolling shear, the specimen stressed volume ratio
+was 160 in3 vs. 2.5 in3, or 64:1. There were 29 small-
+volume specimens and 14 large-volume specimens,
+all made from the same parent material. The laminate
+moisture content was just over 6%. The rolling shear
+16
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+Figure 3-6 Tangential fatigue, wood/epoxy laminate.
+Figure 3-5 Tension fatigue. Maximum stress vs. total cycles
+for Douglas fir/epoxy laminate with 12:1 slope scarf and butt
+joints with 3" stagger, 31.8 in3 test volume, parallel to grain
+direction, room temperature and 12% wood moisture content.
+
+--- PAGE 31 ---
+static strength of the small-volume specimens averaged
+276 psi. The rolling shear strength of the large-volume
+specimens averaged 268 psi. In this case, the size effect
+appeared to be insignificant. The knockdown for the
+larger volume amounted to only about 3%. However,
+the size effect was bigger in fatigue. The small-volume
+specimens intercepted the one million R = 0.1 cycle line
+at 185.5 psi. The large-volume specimens intercepted
+the one million-cycle line at only 152.2 psi. An investiga-
+tive technique that relied only on static testing would
+have missed this important truth. With the so-called
+secondary properties, size effect becomes increasingly
+severe as cycle counts rise.
+Wood Stiffness
+Stiffness may be quantified by measuring deflection
+under a given load. It describes how floppy, flexible,
+rigid, or stiff a material or structure is. Since repeated
+deflection can cause cumulative damage, resistance to
+deflection is often important to the integrity of rigid
+structures. In boats, adequate hull stiffness prevents the
+excessive working which may result from repeated high-
+point loadings. Wood has excellent stiffness potential
+and, as indicated in Figure 3-7, it is relatively light in
+weight.
+To illustrate wood stiffness, we conducted a simple
+bending test and compared it to other materials used
+in boat construction. For this experiment, we made
+up samples of the following:
+l. Unidirectional glass fiber with polyester resin
+(50% fiber volume).
+2. Aluminum (5054-H34 commercial grade).
+3. Kevlar™ aramid fiber with epoxy (50% fiber).
+4. Graphite fiber with epoxy (50% fiber).
+5. White ash.
+6. Sitka spruce.
+7. Western red cedar.
+Each sample was 24" long  1⁄2" wide. Thickness was
+determined by the density of each material so that all
+samples weighed exactly 25 grams. In theory, the
+samples represent small sections of a hull skin taken
+from boats of the equal size and weight manufactured
+with each of these materials.
+To test our samples, we clamped them to a bench and
+used them as cantilever beams, with weights hung from
+their free ends. Figure 3-8 lists the amount of deflection
+measured under uniform weight in all samples, and it
+also lists the price per pound of each material. Wood
+and graphite fiber/epoxy composite clearly resisted
+deflection better than the others. When cost is factored
+in, wood is the winner of the stiffness test. Graphite fiber
+composite is almost twenty times (1985) as expensive
+as Sitka spruce. 
+The beam test compares equal weights of materials, but
+not equal volumes. A section of 1⁄8" aluminum would
+resist deflection far better than a piece of wood with
+the same dimensions, but it would also weigh about
+seven times as much. Two hulls, one made of 1⁄8"
+aluminum and the other of 7⁄8" wood, would weigh
+about the same, but the wooden hull would be
+significantly stiffer.
+Chapter 3 – Wood as a Structural Material
+17
+Figure 3-7 Relative weights of flat panels built with various
+structural materials. Wood/epoxy composite built with ultra-
+sonically graded Douglas fir and WEST SYSTEM epoxy.
+
+--- PAGE 32 ---
+When weight is a major consideration, as it is in boat
+hulls, there are advantages to choosing low rather than
+high-density materials to generate stiffness. On a weight
+per square foot basis, a thicker, lighter material has a
+natural advantage over a thinner, heavier one. In a beam,
+longitudinal stresses are better carried as far as possible
+from the neutral axis, provided that the loads do not
+exceed material strength. A wooden beam may be thicker
+than a steel one for the same weight and may also offer
+some thermal and acoustic insulation. It is only in areas
+where space is limited and strength requirements are
+high that strong, high-density materials become prefer-
+able. Masts, booms, and centerboards may require more
+strength in smaller dimensions than unreinforced wood
+can offer.
+Our test does not reflect the fact that both the strength
+and stiffness of glass-reinforced composites may be
+manipulated with the use of core materials. The
+technique of bonding skins of fiberglass over wood
+is enormously successful for small boats, most notably
+stripper canoes, as we will discuss more fully in
+Chapter 23.
+Trees into Lumber
+To understand wood as a structural material, it’s neces-
+sary to know a little about its growth. While certain
+of its properties, most notably resistance to repeated
+buffeting of wind and water, stem from its functions
+in supporting and feeding the tree, some of wood’s
+problems also result from its original role in life.
+As a tree grows, cellulose molecules are organized into
+strands, and these become parts of the cell walls of
+wood fiber. Cellulose, lignin, and hemicellulose give
+wood its physical properties. New wood is laid around
+a core of older wood and pith and reflects the growing
+seasons in which it was made. Early wood cells, pro-
+duced in the spring, may have thinner walls and larger
+cavities than latewood cells. The transition between the
+two is visually apparent in annual growth rings, which
+vary in size by tree species and by the general condi-
+tions in which the tree grew. In areas like the tropics,
+where trees grow year round, distinct rings do not
+appear. By contrast, trees that grow in northern climates,
+where seasonal changes are extreme, have distinct rings
+of early and late woods.
+Two kinds of wood develop in the tree trunk. Sapwood
+or xylem, recently formed, stores food and transports
+sap. When a tree has grown so large that its innermost
+sapwood is no longer close to the cambium, its cells
+undergo chemical and physical change to become heart-
+wood. Material deposited in heartwood cells may make
+it darker than sapwood in color and usually increase its
+durability.
+The terms hardwood and softwood describe neither
+strength nor toughness. Softwood trees bear cones and,
+18
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+Deflection in inches
+with 200
+with 500
+Pounds
+gram
+gram
+Specific
+per cubic 
+Cost per
+Materials2
+weight
+weight
+gravity
+foot
+pound3
+Glass fiber/polyester (50% fiber volume)
+10
+Failed
+1.52
+104
+$ 2.58
+Aluminum (5054-H34 sheet)
+91⁄2
+Failed
+2.7
+170
+$ 2.50
+Kevlar™/epoxy (50% fiber volume)
+61⁄4
+111⁄2
+1.18
+81
+$ 10.45
+Graphite fiber/epoxy (50% fiber volume)
+111⁄16
+4
+1.54
+105
+$ 24.40
+White ash (select)
+111⁄16
+4
+.64
+42
+$
+.77
+Sitka spruce (select)
+13⁄16
+113⁄16
+.38
+26
+$ 1.48
+Western red cedar (select)
+11⁄16
+15⁄8
+.31
+21
+$ 1.63
+1Test conducted by Gougeon Brothers. August 1976.
+2All samples weigh 25 grams and measure 24-inches  1/2-inch.
+3Prices as of September 1985.
+Figure 3-8 Stiffness comparison of cantilever beams made of seven different engineering materials.
+
+--- PAGE 33 ---
+often, needle-like leaves. Hardwoods may be evergreen
+or deciduous; it is their broad leaves that distinguish
+them from softwoods. Both types of trees have fibers
+or tracheids, long, pointed cells which serve as their
+basic support. In hardwoods, sap flows through a
+system of vessels. Softwoods rely on thin walled tra-
+cheids laid down early in the year for controlling sap
+and on thicker-walled, later tracheids for support. Sap
+is carried horizontally from pith to bark in hardwoods
+and softwoods by cellular structures called rays.
+The majority of fibers in any standing tree are aligned
+vertically. When the log is cut up into boards, the length
+of the board is always parallel—or nearly so—to the
+fibers, or with the grain of the wood. Straightness of
+grain varies from species to species, but grain is usually
+straighter in heartwood and in sapwood than in pith,
+where the fibers are burled. Rays are twined through
+the fibers perpendicularly and are aligned more or less
+along the radius. Looking at the end of a log, the wood
+rays may appear like spokes of a wheel.
+Some species—Sitka spruce is probably the most
+extreme example—have abundant wood rays and
+therefore do not split easily along the grain. They
+are said to have a great deal of grain strength. Other
+species, such as redwood and Western red cedar,
+have few rays and therefore split easily.
+The rate at which a tree grows varies according to its
+species and within the species, depending on soil
+conditions and the weather at the spot where it is
+growing. We have seen Sitka spruce with as few as
+eight growth rings per radial inch, indicating that the
+tree from which it came grew in diameter at the rate of
+1⁄4" (6mm) per year. We have also seen wood with as
+many as 30 growth rings per inch, indicating that the
+tree from which it came had increased its diameter at the
+rate of only 1⁄15" (1.7mm) per season. Slow-growing
+trees, which have a higher number of growth rings per
+inch, have a higher percentage of late wood than faster-
+growing trees. For this reason, lumber from slow-growing
+trees is usually heavier and stronger.
+Harvested wood is processed in many ways for paper,
+chemicals, and lumber. Boatbuilders are concerned with
+the techniques used to manufacture planks and plywood
+veneers. In each of these, two distinctly different methods
+are used, and in each case, one is preferable for wood
+used in boat construction.
+Boards may be cut from the log in two ways. In plain or
+slab sawn lumber, all cuts are parallel and annual rings
+are at angles of 0° to 45° with the wide side of a board.
+Quarter or radial sawn boards, on the other hand, are
+cut with growth rings at angles of 45° to 90° to their
+wide sides, and so are approximately parallel to the
+tree’s rays. Although these distinctions may be a bit
+confused by the terminology of the marketplace—plain
+sawn softwoods may be called flat or slash grained and
+quarter sawn softwoods may be advertised as edge or
+vertical grained—they are significant.
+Plywood is made of layers or plies of thin veneer glued
+together so that the grain of each layer is at right angles
+to the grain of the plies on either side of it. The veneers
+themselves may be either peeled or sliced from the log.
+In the rotary-cutting or peeling operation, knives “un-
+wind” a continuous length of wood until perhaps six
+inches of the original log remain. Sliced veneers, less
+common, are made by first sawing the log into quarters
+or eighths, and then slicing it into thin strips with a
+straight knife.
+Wood and Moisture
+Freshly-cut wood, however sawn, has two major prob-
+lems. Heartwood, sapwood, early wood, and latewood,
+all of which may have slightly different densities and
+properties, may appear in the same plank. High moisture
+content, distributed unevenly between heartwood and
+sapwood, compounds what might not otherwise be a
+significant difficulty and creates its own set of troubles
+for the boatbuilder. Wood derives its strength from
+cellulose, lignin, and hemicellulose, and some of its
+greatest weaknesses from its other major component,
+water.
+The moisture content of trees and wood is expressed as
+a percentage of the weight of the wood after it has been
+dried in an oven. In a living tree, where water and water
+vapor occupy cell cavities and are held in cell walls,
+moisture content can range from 30% to 200%. In soft-
+woods especially, heartwood and sapwood of the same
+tree usually contain different levels of water. In Western
+red cedar, an extreme example, sapwood holds almost
+Chapter 3 – Wood as a Structural Material
+19
+
+--- PAGE 34 ---
+five times as much water as heartwood. While sapwood
+is generally “wetter” than heartwood, in some trees, such
+as birch, oak, and tupelo, the opposite is the case.
+When a tree is cut, its wood is green. Moisture remains in
+cell cavities and walls. As water and sap are dispelled, the
+wood reaches its fiber saturation point: cell walls are
+still saturated but cell cavities have dried out. At this
+time, moisture content is between 25% and 30% of dry
+weight. Wood is dimensionally stable above its satura-
+tion point but not below it.
+Wood continues to lose water until it reaches equilib-
+rium moisture content at which it neither gains nor loses
+water. Cell walls dry out, stiffen, and shrink until their
+moisture content is in balance with the temperature and
+relative humidity of their environment. Wood continu-
+ously seeks this equilibrium as long as it is exposed to
+fluctuations in the atmosphere. Every day, as tempera-
+tures and humidity change, unprotected wood absorbs
+and releases water vapor to maintain equilibrium
+moisture content. Constant contraction and expansion
+cycles over time lead to fiber deterioration.
+Heartwood and sapwood begin with different moisture
+contents and therefore reach fiber saturation and equili-
+brium points at different times. As lumber shrinks during
+cure, its cells tend to pull at each other and become taut.
+This has the desired effect of stiffening the board, but if
+heartwood dries up and stiffens long before sapwood in
+the same plank does, the inconsistent drying rates may
+set up excessive internal stressing which results in warp-
+ing, checking, cracks, and grain rise. Wood shrinks less
+radially than it does tangentially, and this may lead to
+further distortion. For all practical purposes, shrinking
+occurs only across the width and thickness of a board:
+a green board which is 10'  81⁄2"  1" will still be 10'
+long when cured, but it will be only about 8" wide
+and 15⁄16" thick. There is generally less difference in
+tangential and radial rates in the tropical species
+without growth rings than in species with well-defined
+growth rings, where the difference is substantial.
+One obvious solution to the problems caused by
+moisture is to cut boards so that they contain either
+heartwood or sapwood, but not both. Quarter sawn
+boards, which have sapwood only at their edges and
+are cut radially rather than tangentially, will shrink,
+swell, and cup far less than slab sawn lumber. Quarter
+sawn boards are more dimensionally stable and they
+also tend to be a little stronger and easier to shape and
+mill. In slab sawn lumber, hard latewood and soft early
+wood appear in wide bands on major surfaces and
+cause difficulty in sanding, planing, and finishing.
+Rotary-peeled veneers are cut with no regard whatso-
+ever to patterns of heartwood, sapwood, and growth
+rings and therefore have considerable potential for
+internal stressing. Sliced veneers, by contrast, are cut
+perpendicular to growth rings and are more stable.
+Another, sometimes more practical, way to reduce
+internal stressing in wood is to cut it up into thin
+boards for drying. The reduction in volume while the
+wood is still above fiber saturation relieves the lines
+through which excessive tension could develop during
+cure. We usually re-saw stock over 1" (25mm) thick,
+and we laminate keels and sheer clamps which require
+thicker stock. This is usually much easier than trying
+to find a single piece of wood good enough for the job,
+and even if we were able to find such a piece, a lamina-
+tion would probably serve better.
+Moisture and Physical Properties
+If wood is taken at its fiber saturation point and allowed
+to dry to 5% moisture content, its crushing strength and
+20
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+Figure 3-9 Shrinkage and distortion for wood of various cross
+sections as affected by the direction of annual rings. Tangential
+shrinkage is about twice as great as radial. (From Wood as an
+Engineering Material, U.S. Department of Agriculture Handbook,
+No. 72, p. 3-10.)
+
+--- PAGE 35 ---
+bending strength may easily be doubled and, in some
+woods, tripled. The reason for this is the actual strength-
+ening and stiffening of cell walls as they dry out. Not all
+strength properties are changed in such a dramatic way.
+Figure 3-10 gives a tentative average for several species
+of wood of the change of various physical properties
+per 1% decrease in moisture content. By multiplying
+the values in the table, you can see that reducing the
+moisture content of wood results in substantial increase
+in its physical properties.
+These data are averages for several species of wood and
+therefore are not suitable for engineering work. We pres-
+ent them only to illustrate the fact that up to a point,
+dry wood makes a stronger boat. The percentage in-
+creases in strength are the average for the entire range,
+from 25% to 0%. The first test, for instance, shows that
+in fiber stress at proportional limit in static bending, the
+increase in value is 5% for every percentage point mois-
+ture content is reduced below 25%. One hundred
+percent is the reference value for 25% moisture content;
+225% becomes the value at 0%. It is incorrect, however,
+to conclude that the value is a straight line function of
+moisture content and that it would be 105% at 24%,
+110% at 23%, and so on. It’s most likely that in most
+species of wood the percentage increase in the value is
+higher as the moisture content is first lowered from 25%,
+then lower as it approaches 0%.
+While the effects of moisture on maximum load-to-failure
+static properties are substantial, for most marine applica-
+tions, the designer should not be overly concerned. Most
+marine structures are subjected to stress levels well below
+maximum static one-time load-to-failure conditions, and
+the effect of moisture on lower load levels in long-term
+fatigue is a more pertinent issue. Recent scattered and
+preliminary Gougeon-developed fatigue data indicate
+that the detrimental effects of higher moisture content
+may diminish or even disappear at 10 million cycles
+and beyond. These early indications require further
+substantiation before the extent of the phenomenon
+will be accurately known.
+Wood/Epoxy Composites
+Wood is strong, lightweight, stiff, and resistant to fatigue.
+Some of its shortcomings as a material for engineering
+result from inherent defects such as knots and grain
+irregularity, but most are related to moisture. By using
+wood as a reinforcing fiber, which may be bonded into
+many shapes and forms with epoxy, we are able to make
+the most of its structural advantages and overcome its
+limitations.
+The primary goal of incorporating wood in a composite
+with epoxy is to provide its fibers with maximum prac-
+tical protection against moisture. When it is able to
+resist violent seasonal fluctuations in moisture and its
+moisture level is stabilized at lower levels, wood
+maintains good physical properties and dimensional
+stability.
+Wood/epoxy composites may also, when properly
+engineered, provide a means of homogenizing the
+defects and variations of lumber and of increasing its
+strength in compression. Chances of failure of structural
+boat members may be greatly reduced by using beams
+laminated from a number of pieces of thinner wood
+instead of a single board, particularly when grain align-
+ment within a laminate is manipulated to best receive
+predicted loads.
+We seal all wood surfaces, those which come into
+contact with water as well as those which come into
+Chapter 3 – Wood as a Structural Material
+21
+Static Bending
+Increase
+Fiber stress at proportional limit
+5%
+Modulus of rupture, or crossbreaking strength
+4%
+Work to proportional limit
+8%
+Work to maximum load or shock-resisting ability
+1⁄2%
+Impact Bending
+Fiber stress at proportional limit
+3%
+Work to proportional limit
+4%
+Compression Parallel to Grain
+Fiber stress at proportional limit
+51⁄2%
+Hardness, end grain
+4%
+Hardness, side grain
+21⁄2%
+Shearing strength parallel to grain
+3%
+Tension perpendicular to grain
+11⁄2%
+References: “Strength and Related Properties of Woods,” Forest Products Laboratory,
+Forest Service, U.S. Department of Agriculture Technical Bulletin No. 479.
+Wood Handbook: Wood as an Engineering Material, Forest Products Laboratory,
+U.S. Department of Agriculture Handbook, No. 72.
+Figure 3-10 Physical properties. Average increase is value
+affected by lowering the moisture content 1% from fiber
+saturation point, approximately 24% in most woods.
+
+--- PAGE 36 ---
+contact with air, with WEST SYSTEM epoxy and use
+it as a bonding adhesive in all joints and laminates.
+When applied in correct quantities, the epoxy forms
+a thin continuous film, which serves as a moisture
+barrier on exterior surfaces, in joints, and between
+layers of veneer.
+While this barrier is not perfect, it is far more realistic
+than wrapping a boat in plastic. Moisture passage into
+wood is limited to such an extent that any change in
+moisture content within the wood itself is minimal. If
+dry wood encapsulated in our epoxy is put in a high
+humidity chamber and left for months, the wood’s
+moisture content will eventually rise. The rate of
+moisture change in wood/epoxy composites is so slow
+under normal circumstances, however, that wood
+remains at virtually constant levels in exact equilibrium
+with average annual humidity. In most areas, this
+equilibrium is between 8% and 12% moisture content.
+A minimum of two unsanded coats of WEST SYSTEM
+epoxy on all surfaces will form an adequate moisture
+barrier. More coatings are desirable, especially if the
+boat will be subjected to extremes between dry and
+moist environments. Coating effectiveness reaches a
+point of diminishing returns at five or six coats, where
+improved moisture resistance does not balance the
+weight of the extra epoxy. Any more than six coats of
+epoxy may contribute to abrasion resistance but will
+add little to the moisture barrier.
+Large amounts of epoxy are used in coating and bonding
+boats. Although ratios vary, depending primarily on
+hull size, it’s not uncommon to find that 25% of the
+weight of the basic hull structure is epoxy. About 20%
+is more typical. Wood performance dominates, but
+because so much of a boat is epoxy, the physical proper-
+ties of the epoxy have a large effect on the physical
+properties of the composite. For this reason, it’s impor-
+tant that the epoxy portion of the composite contribute
+more than weight.
+A large range of physical properties can be developed
+within present epoxy technology. Very flexible resins,
+with good resistance to a single impact, can be formu-
+lated, but they otherwise might contribute little to a
+hull’s overall structure in their ability to pay for their
+own weight in added stiffness and strength. Flexible
+resins also have high strain rates, which can limit long-
+term fatigue performance at higher load levels.
+WEST SYSTEM epoxy is specifically formulated to
+develop maximum physical properties while retaining
+just enough toughness and flexibility to live with the
+slight deformations which inevitably occur in any boat.
+The most significant driving force in developing our
+WEST SYSTEM epoxy formulation has been long-term
+fatigue resistance. Wood is one of the most fatigue
+resistant materials on earth. Any bonding adhesive used
+to make joints or laminates must be of equally high
+capability or the wood’s long-term performance will
+be compromised. We have conducted a great deal
+of fatigue testing on WEST SYSTEM epoxy and have
+achieved performance at 10 million cycles, which is
+approximately 40% of ultimate in torsional shear. (See
+Appendix C.)
+Determining Moisture Content
+When using wood in composite with WEST SYSTEM
+epoxy, it’s important to use only wood which has a
+moisture content of 12% or less; 8% to 12% moisture
+content is ideal. Boats can be built with wood with
+moisture levels up to 18%, but in long-term equilib-
+rium, they may lose some moisture, which could affect
+structural integrity because of internal stressing from
+shrinkage.
+As we explained earlier, the moisture content of wood
+varies according to the relative humidity and tempera-
+ture of the atmosphere which surrounds it. For every
+combination of temperature and humidity, there is a
+moisture level that wood will seek, absorbing and
+dispelling moisture until it reaches this equilibrium.
+We keep our shop at 65°F (18°C), with relative
+humidity averaging around 50%. In these conditions,
+the moisture level equilibrium is 8%, and most of the
+wood we work with has a moisture content near that
+percentage.
+Atmospheric conditions vary according to geography
+and type of shelter. In most situations, the prevailing
+conditions will be such that the equilibrium percentage
+is below 12%. Figure 3-11 shows the equilibrium
+22
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+
+--- PAGE 37 ---
+percentages of the moisture content of wood as a
+function of relative humidity. The graph is good for
+that temperature only. Relative humidity throughout
+the United States is such that the 8% to 12% moisture
+range is attainable.
+The speed with which a piece of wood reaches equilib-
+rium depends on the span between existing moisture
+content and the percentage at equilibrium, and on the
+ratio between exposed surface area and volume. Wood
+tends to reach equilibrium faster when the difference
+between equilibrium percentage as deduced from atmos-
+pheric data and moisture content is greater. Extremely
+wet wood expels moisture rapidly in an oven, and very
+dry wood absorbs moisture quickly in a steam bath.
+Thin veneer, which has a very large surface area and
+relatively little volume, dries to brittleness or steams
+until it is very pliable within hours. Whole logs, which
+have huge volumes and little surface area, can take
+years to reach equilibrium.
+If you have any doubts about the moisture content
+of lumber, test it. Tests are necessary on newly
+acquired lumber or lumber that has been stored under
+questionable conditions. We use an electronic tester,
+and battery operated, hand-held moisture meters are
+now relatively inexpensive. Some local building
+inspectors and lumberyards have moisture meters
+and will test specimens brought to them. On thicker
+stock, moisture meter readings may not represent the
+true moisture content inside the stock. You can deter-
+mine the actual moisture content by tests performed
+in your kitchen.
+To do this, weigh wood samples on a gram or postage
+scale before and after placing them in a 225°F (107°C)
+oven. It’s impossible to predict how quickly a sample
+will lose all of its moisture because this depends on
+variables such as sample size and original moisture
+content. Continue baking and checking every half-
+hour until no further weight reduction takes place
+and moisture level is therefore reduced to 0%.
+Apply the following formula to your results:
+100 (W1 – W2) = P
+W2
+W1 is the weight before drying, W2 is the weight after
+drying and P is the percentage moisture content of the
+specimen before drying.
+Dry Rot (and Other Vermin)
+While some of the effects of moisture in wood may
+be eliminated by careful selection of quarter sawn
+and sliced boards or veneer and by careful control of
+moisture levels, others cannot. When its moisture level
+is at or near fiber saturation point, seasoned wood
+becomes susceptible to fungus damage, often called
+dry rot or brown rot. This causes millions of dollars
+of damage each year to wooden structures of all kinds;
+more wooden ships may have been lost to it than to
+all of the storms and naval battles of history.
+Neither very dry nor totally submerged wood is likely
+to decay. In fact, wood sealed for 3,000 years in Egyptian
+tombs at a constant temperature and humidity level has
+lost none of its physical properties. But wood used in
+boats is usually damp and therefore, if oxygen is present
+and temperatures warm, subject to the types of fungi that
+cause rot by feeding on the cellulose in cured lumber.
+When this happens, the wood becomes browner, and it
+may crack, shrink, and collapse. Attempts to eradicate
+the fungi have usually revolved around poisoning their
+food supply. Most of the commercial wood preservatives
+that use this approach have only limited success on
+boats because marine moisture levels are so high that
+the poisons are quickly diluted.
+Chapter 3 – Wood as a Structural Material
+23
+Figure 3-11 Equilibrium moisture content as a function of
+relative humidity.
+
+--- PAGE 38 ---
+24
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+We suggest a different solution to dry rot. In order
+to survive long enough to cause decay, brown rot
+fungi need food and oxygen. In warm weather, the
+fungi make rapid progress, but in temperatures above
+90°F (32°C) and below 50°F (10°C), they are much
+slower. Despite its name, dry rot will not occur in dry
+wood or in wood moistened only by humid air. Neither
+is it a problem when wood is so saturated with water
+that air cannot penetrate to fungi in its interior.
+It’s impossible to keep wood boats dry. When cured
+wood is encapsulated in WEST SYSTEM epoxy, however,
+its moisture level cannot reach fiber saturation point and
+it therefore is no longer susceptible to fungi. Coatings
+of epoxy provide additional insurance against rot
+by restricting oxygen supply.
+Encapsulation in WEST SYSTEM epoxy also seems
+to provide wood with some protection against two
+other common predators. Testing has shown that
+exterior coatings of WEST SYSTEM epoxy will restrict
+termite damage. Although no scientific investigations
+have conclusively proven the phenomenon, ship-
+worms and other wood-boring mollusks seem
+unwilling to pass through lines of WEST SYSTEM
+epoxy. They may typically attack the bottom of a
+laminated rudder or centerboard and go no farther
+than the first glue line.
+
+--- PAGE 39 ---
+This chapter describes the WEST SYSTEM products that are used in the procedures described throughout
+the book. It is substantially updated from previous editions and refers to the current (2005) product line.
+The WEST SYSTEM product line has steadily evolved over the years. New products have been added to
+provide greater versatility. Others have been removed or superseded by improved versions. For example,
+we may now refer to 207 Hardener or 209 Hardener for some situations, whereas earlier editions refer to
+205 or 206 Hardener, the only hardeners available at that time. Gougeon Brothers is continually researching,
+testing, and improving our epoxy formulations. We are also evaluating and developing new or improved
+supplemental products. Therefore, we recommend that you refer to the WEST SYSTEM User Manual & Product Guide
+before starting any project. You can request a free copy from West System Inc. or your local WEST SYSTEM
+dealer, or visit westsystem.com. 
+In the 1960s, when we began building boats profes-
+sionally, we had a few ideas about what we wanted
+from our materials. We needed practical, low-cost, and
+versatile methods. We knew how to work with wood,
+but as boat owners, we also knew about the problems
+of maintaining wooden boats. We wanted to build fast,
+lightweight boats that were tough and strong enough
+to survive the high loads of hard racing. We had limited
+time and money, so our materials and methods couldn’t
+be fussy or expensive.
+After some experimenting, we found what we were
+looking for. Post-World War II technological advances
+had led to the development of epoxide resins. We began
+using epoxy and wood together, building composite
+structures with methods that had been used to construct
+wooden airplanes. Realizing that a boat’s ability to stand
+up to a single impact was not as important as its long-
+term resistance to the daily assaults of wind and water,
+we modified epoxy formulations until we found the
+best balance between flexibility and high strength. In a
+few years, we had worked out a safe and effective way
+to build boats. Our materials were inexpensive, and our
+methods balanced the benefits of using wood against its
+shortcomings. We polished our techniques to reduce
+labor and, at the same time, to establish safe handling
+procedures for the new epoxy system.
+Because we worked with the epoxy every day, we
+became concerned very early about the potential short
+and long-term health hazards of the new materials. We
+were very cautious in choosing ingredients for our
+product. Just as we aimed for a balance between flexi-
+bility and high strength, we looked for and found a
+formulation that was effective and low in toxicity.
+We began to market WEST SYSTEM epoxy and associ-
+ated products in 1972. Since then, we’ve continued to
+improve our methods and materials and we’ve learned
+a great deal more about them. WEST SYSTEM epoxy
+seemed strong. We learned, after intensive test programs,
+that its physical properties, and particularly its ability
+to withstand repeated loads, are extremely high. Our
+hunch that our boatbuilding techniques could be
+applied to volume production of high-quality airfoils
+was confirmed. During the wind energy boom of the
+1980s, Gougeon Brothers, Inc. was a leading manufac-
+turer of laminated wind turbine blades, proving that our
+wood/epoxy composite was and still is a competitive,
+modern material.
+Product diversification has been our way to make sure
+that we can continue to build and sail boats. If our lab
+generates data for wind turbine blades, we look at
+boatbuilding applications. If we make modifications in
+formulations or techniques, we test to see where they can
+be used in boats. WEST SYSTEM epoxy has been inten-
+sively studied, particularly for cyclic fatigue resistance, in
+several laboratories, and it has been proven in the field,
+so to speak, on ocean-racing boats. Our most recently
+designed boats reflect years of engineering and produc-
+tion with epoxy, wood, and other composite materials.
+WEST SYSTEM
+® Products
+C H A P T E R
+4
+
+--- PAGE 40 ---
+Our line of products grew as the use of WEST SYSTEM
+materials increased. We still blend resin and hardeners
+with additives to make a strong, moisture and fatigue-
+resistant epoxy. Ongoing research has led to the develop-
+ment of improved high-density filler and a low-density,
+easily sanded fairing filler. The epoxy formulation has
+also been fine-tuned so that it is easier to work with in
+difficult conditions. We now distribute epoxy, fillers,
+additives, fibers, and associated tools worldwide.
+Characteristics of WEST SYSTEM Epoxy
+WEST SYSTEM resin and hardeners are the base compo-
+nents of a two-part epoxy developed specifically for use
+in wooden boatbuilding. Our epoxy and additives are
+formulated to provide maximum physical properties
+and, at the same time, to be as easy to use as possible.
+WEST SYSTEM products are designed to be versatile so
+that boatbuilders can mix epoxy and fillers on site
+in the specific formulations needed for various jobs.
+The builder can select from a range of hardeners and
+additives that allow the mixture’s handling characteristics
+and the physical properties of the cured epoxy to be
+tailored to suit working conditions and specific coating
+or bonding applications.
+WEST SYSTEM epoxy cures to a hard, solid plastic with
+superior mechanical properties. When small amounts
+of filler are added to mixed resin and hardener, WEST
+SYSTEM epoxy becomes a very strong, gap-filling
+adhesive. Joints bonded with it are often stronger than
+the wood fibers that surround them. Other combina-
+tions of WEST SYSTEM epoxy and fillers produce
+mixtures that can be used in fairing and filleting. WEST
+SYSTEM epoxy is an excellent medium for transferring
+loads from wood fiber to metals. It will serve as an
+efficient interface for distributing high-point loading
+over greater surface area than would otherwise be
+possible. WEST SYSTEM products will bond fiberglass,
+aramid (Kevlar™), graphite, and other synthetic fibers
+in structural and reinforcing applications. 
+The success of any epoxy/wood composite depends in
+part on the epoxy’s ability to shield the wood beneath it
+from moisture. While WEST SYSTEM epoxy does not
+form an absolute moisture barrier, as little as two coat-
+ings of it will impede the passage of moisture vapor to
+such an extent that the moisture content of the encap-
+sulated wood is relatively stable. When its constant
+fluctuations of moisture content are under control,
+wood has predictable mechanical properties and
+dimensional stability. When moisture content is low
+and oxygen restricted, dry rot fungi cannot survive.
+A WEST SYSTEM epoxy moisture barrier creates a
+stable base for paint and varnish. Wood surfaces
+protected with coatings of WEST SYSTEM epoxy cannot
+become saturated with water. Paint therefore adheres
+better, with less cracking and lifting, than it does to
+untreated wood. Boats built with wood and epoxy
+require less maintenance than traditionally
+built wooden boats, and they will not blister as
+polyester boats do.
+Boats built with epoxy and wood are relatively inexpen-
+sive. Wood itself is among the cheapest of boatbuilding
+materials, but high labor and maintenance costs have
+made the price of traditional wooden boats non-compet-
+itive. Wood/epoxy construction methods require less
+labor and equipment than earlier planking systems.
+Epoxy will bond at room temperatures with little clamp-
+ing pressure, so few specialized tools and molds are
+needed. As a result, overhead can be drastically reduced,
+and parts manufacture is flexible.
+Our body of knowledge about wood/epoxy composites
+grows with each day of testing. Current product data is
+published in our technical manuals, in our newsletter,
+and on our website. Our technical staff is always avail-
+able to answer questions and to help solve application
+problems.
+Fatigue Behavior of WEST SYSTEM Epoxy
+For many years we have used WEST SYSTEM epoxy
+as a medium to transfer loads from low-density wood
+to high-density metals. Our techniques for bonding
+large and small fasteners, hardware, and keels are fully
+explained in Chapter 14, “Hardware Bonding.” In most
+cases, all load is transferred through epoxy which has
+been thickened with fillers. This idea has been very
+successful and is now widely used in the marine
+industry.
+In the process of developing wind turbine blades, we
+quickly found that the epoxy interface between metal
+load take-off studs and wood fiber was the critical
+element in blade performance. Blade failure usually
+initiates failure of the entire wind machine. To predict
+26
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+
+--- PAGE 41 ---
+blade performance life, we needed to learn more about
+the long-term fatigue behavior of WEST SYSTEM epoxy.
+Very little fatigue testing had been performed on epoxy
+alone, and the long-term fatigue capability of the epoxy
+in many composite applications was a question mark. 
+A number of different methods have been used to
+test WEST SYSTEM epoxy in fatigue depending upon
+specific needs for material design data to support wind
+turbine blade efforts, and, in recent years, composite
+design for marine architects and other boatbuilders.
+While it is difficult to make general conclusions from
+specific test data, it is apparent that WEST SYSTEM
+epoxy exhibits good fatigue life and can maintain a
+reasonable percentage of its one-time-to-failure load
+capability after undergoing 10 million fatigue cycles.
+(See Appendix C for further details.)
+WEST SYSTEM® Resin and Hardeners
+The following product descriptions are subject to change.
+Research and product development at Gougeon Brothers
+is ongoing. As regulations, market demands, and tech-
+nology change, WEST SYSTEM products will change.
+We will improve formulas, add new products, and drop
+products as necessary. We recommend that you refer
+to the current WEST SYSTEM User Manual & Product
+Guide for up-to-date and more detailed product descrip-
+tions and handling information.
+105 Epoxy Resin is the base material of the WEST
+SYSTEM family of products, on which all of WEST
+SYSTEM compounds are built. The resin is a clear, pale
+yellow, low-viscosity liquid epoxy resin. It is mixed with
+WEST SYSTEM hardeners and cures at room temperature
+to form a high-strength solid with excellent moisture
+resistance. Hardeners are selected for their cure speed
+and temperature range.
+WEST SYSTEM epoxy is designed specifically to wet out
+and bond with wood fiber, fiberglass, reinforcing
+fabrics, and a variety of metals. It is an excellent adhesive
+that will bridge gaps and fill voids when modified with
+WEST SYSTEM fillers and can be sanded and shaped
+when cured. With roller applications, it has excellent
+thin-film characteristics to flow out and self-level without
+“fisheyeing.” WEST SYSTEM epoxy cures clear, so you
+can achieve a natural finish when coating with varnish.
+It is formulated without volatile solvents and does not
+shrink after curing. It has a relatively high flash point and
+no strong solvent odor, making it safer to work with than
+polyester or vinylester resins. 
+205 Fast Hardener is a medium-viscosity epoxy curing
+agent. It is used in a majority of situations, at lower
+temperatures—as low as 40°F (4°C)—and to produce a
+rapid cure that develops its physical properties quickly
+at room temperature. When mixed with the 105 Resin
+in a five-parts resin to one-part hardener ratio, the cured
+resin/hardener mixture yields a rigid, high-strength,
+moisture-resistant solid with excellent bonding and
+coating properties. Pot life at 72°F (22°C) is 9 to 12
+minutes.
+206 Slow Hardener is a low-viscosity epoxy curing
+agent for use when extended working and cure time is
+needed or to provide adequate working time at higher
+temperatures. When combined with 105 Resin in a
+five-parts resin to one-part hardener ratio, the cured
+resin/hardener mixture yields a rigid, high-strength,
+moisture-resistant solid with excellent bonding and
+coating properties. Pot life at 72°F (22°C) is 20 to 25
+minutes.
+207 Special Coating Hardener was developed for
+coating and fiberglass cloth application where an excep-
+tionally clear, moisture-resistant, natural wood finish is
+Chapter 4 – WEST SYSTEM® Products
+27
+Figure 4-1 WEST SYSTEM resin and hardeners with mini pumps.
+
+--- PAGE 42 ---
+desired. WEST SYSTEM 105/207 mixtures resist clouding
+in humid conditions and exhibit extremely low blush
+formation. 105/207 offers excellent fiberglass wet-out
+characteristics and has strong physical properties, so
+it can be used as a structural adhesive for gluing and
+laminating. It has excellent compatibility with paints
+and varnishes. 105/207 cures to a light amber color,
+similar to traditional spar varnishes. The mix ratio is
+three-parts resin to one-part hardener. Pot life at 72°F
+(22°C) is 22 to 27 minutes, about the same as 206
+Slow Hardener.
+209 Extra Slow Hardener is formulated for use
+with WEST SYSTEM 105 Resin for general coating and
+bonding applications in extremely warm and/or humid
+conditions or when extended working time is desired
+at room temperature. It provides approximately twice
+the working time of 206 Slow Hardener. It forms a
+clear, amber-colored solid with good physical properties
+and moisture resistance for bonding and coating appli-
+cations. The mix ratio is three-parts resin to one-part
+hardener. Pot life at 72°F (22°C) is 40 to 50 minutes
+or 15 to 20 minutes at 95°F (35°C). 
+WEST SYSTEM Fillers and Additives
+Fillers are used to thicken the basic resin/hardener
+mixture for specific applications. Each filler possesses
+a unique set of physical characteristics, but they can be
+generally categorized as either Adhesive (high-density,
+high-strength) or Fairing (low-density). Adhesive filler
+mixtures cure to a strong, hard-to-sand plastic useful
+in structural applications like bonding, filleting, and
+hardware bonding. Fairing filler mixtures cure to light-
+weight, easily sanded material that is generally used for
+cosmetic or surface applications like shaping, filling, or
+fairing.
+403 Microfibers is a fine fiber blend adhesive filler used
+to thicken epoxy to create a multipurpose adhesive that
+is especially useful for bonding wood. Epoxy thickened
+with 403 has good gap-filling qualities while retaining
+excellent wetting/penetrating capability. The mixture
+cures to an off-white color.
+404 High-Density is an adhesive filler developed for
+maximum physical properties in hardware bonding
+where high-cyclic loads are anticipated. It can also be
+used for filleting and gap filling where maximum
+strength is necessary. The mixture cures to an off-
+white color.
+405 Filleting Blend is a strong, wood-toned adhesive
+filler, good for use in glue joints and fillets on naturally
+finished wood. It mixes easily with epoxy and has good
+gap-filling properties. It cures to a dark brown color and
+can be used to modify the color of other WEST SYSTEM
+filler mixtures.
+406 Colloidal Silica is an adhesive filler used to
+control the viscosity of the epoxy and prevent epoxy
+runoff in vertical and overhead joints. 406 is a very
+strong filler that creates a smooth mixture, ideal for
+general bonding and filleting. It is also our most versa-
+tile filler. Often used in combination with other fillers,
+it can be used to improve the strength, abrasion resist-
+ance, and consistency of fairing compounds, resulting in
+a tougher, smoother surface. The mixture cures to an
+off-white color.
+407 Low-Density is a blended microballoon-based
+fairing filler used to make fairing putties that are easy
+to sand or carve. Mixtures are reasonably strong on a
+strength-to-weight basis and cure to a dark red/brown
+color.
+28
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+Figure 4-2 WEST SYSTEM application tools include mixing
+pots, mixing sticks, roller frames, roller covers, roller pans,
+glue brushes, spreaders, fillable caulking tubes, and syringes.
+
+--- PAGE 43 ---
+410 Microlight™is the ideal low-density fairing filler
+for creating a light, easily-worked fairing compound
+especially suited for fairing large areas. Microlight™
+mixes with greater ease than 407 Low-Density Filler
+or microballoons and is approximately 30% easier to
+sand. It feathers to a fine edge and is more economical
+for large fairing jobs. It is not recommended under
+dark paint or other surfaces that could be subject to
+high temperatures. The mixture cures to a light tan
+color.
+Additives are blended with mixed epoxy to alter the
+physical properties of epoxy when used as a coating.
+Additives can be used to alter the color, abrasion resist-
+ance, or moisture resistance of cured epoxy.
+420 Aluminum Powder provides limited protection
+from ultraviolet light in areas that will not be protected
+with other coatings. It can be used as a base for subse-
+quent painting. 420 will increase the hardness and
+abrasion resistance of the coated surface and improve
+its moisture resistance. Mixtures cure to a metallic gray
+color.
+423 Graphite Powder is a fine black powder that can
+be mixed with WEST SYSTEM epoxy to produce a low-
+friction exterior coating with increased scuff resistance
+and durability. Epoxy/graphite is commonly used as a
+bearing surface and as a coating on rudders and center-
+boards or the bottoms of racing craft that are dry sailed.
+It does not provide antifouling qualities. Graphite
+powder can also be added to epoxy thickened with 404
+High-Density Filler for use in teak deck construction to
+simulate the look of traditional seams and to protect
+the epoxy from sunlight. Mixtures cure to a black color. 
+501 White Pigment and 503 Gray Pigment are
+epoxy-based liquid colorants used to tint the epoxy
+mixture to provide an even color base for the final finish
+system. The colored surfaces also tend to highlight
+flaws and imperfections. Cured, pigmented epoxy
+surfaces are not a final finish surface but require an
+additional paint or UV filter coating for ultraviolet
+protection.
+For colors other than white or gray, powdered pigments
+(tempera paint, colored tile grout, aniline dyes) and
+universal tinting pigment can be added to the epoxy
+mixture. Acrylic paste pigments (available from marine
+chandleries) may also be used to tint the mixture as long
+as they are specified for use with polyester or epoxy
+resin. 423 Graphite Powder will color the epoxy black
+or impart darker shades to colors.
+Generally, coloring agents can be added to the mixed
+epoxy up to 5% by volume with minimal effect on the
+cured epoxy’s strength. Always make test samples to
+check for desired color and opaqueness and for proper
+cure. None of these coloring additives provide UV resist-
+ance to the cured epoxy, so limit their use to areas not
+exposed to sunlight unless additional UV protection is
+applied.
+860 Aluminum Etch is not an additive but a two-
+step surface treatment for aluminum that significantly
+improves WEST SYSTEM epoxy’s adhesion to aluminum
+for bonding and coating.
+WEST SYSTEM Reinforcing Materials
+Unidirectional Carbon Tapes are used for selective
+reinforcement to improve tensile strength and stiffness in
+one direction while adding minimum thickness and
+weight. Fiber bundles are held in place by a polyester
+fill thread for easy handling and wet out. 
+Unidirectional Glass Tapes are also used to add
+strength in one direction, but with less stiffness than
+carbon fiber. They are also easy to handle and wet out. 
+Biaxial Tapes are a non-woven E glass fabric. Two layers
+at a ±45° fiber orientation are held together by a light
+stitching. Flat, non-crimped fibers yield reduced print-
+through and higher stiffness than woven fabrics. Biaxial
+Tapes are ideal for repairs, tabbing, and reinforcing. 
+Glass Tapes are versatile 9 oz (305g/m2) woven fabric,
+ideal for reinforcing chines, hull/deck corners, and
+similar structural applications. When bonded with
+WEST SYSTEM epoxy, they provide additional tensile
+strength to resist hairline crack development and
+abrasion. They have bound edges for ease of use and are
+available in a variety of convenient widths.
+Biaxial Fabrics are non-woven E glass fabrics, with
+two layers, ±45° fiber orientation. They are used for
+composites, repairs, and reinforcing and will achieve a
+high fiber-to-resin ratio with hand wet-out. They are
+also available with a lightweight, chopped-strand mat
+backing.
+Chapter 4 – WEST SYSTEM® Products
+29
+
+--- PAGE 44 ---
+Glass Fabrics are easy-to-handle woven fabrics,
+ideal for building composite laminates and reinforcing
+structures. They are often used to provide an abrasion-
+resistant covering for wooden structures. When wet
+out, 4 oz (135g/m2) and 6 oz (200g/m2) fabrics
+become transparent, allowing a clear, natural wood
+finish, perfect for stripper canoes. 
+WEST SYSTEM Metering Pumps
+If too much or too little hardener is mixed with 105
+Resin, the mixture will not cure properly or reach full
+strength. Resin and hardener can be metered by carefully
+weighing proportions or measuring the proper volumes
+of each component, but calibrated metering pumps
+provide the easiest, most accurate dispensing method.
+Weight or volume measuring is used for very large or
+very small batches of epoxy or if metering pumps are
+not available.
+Mini Pumps are designed for convenient and accurate
+metering of all sizes of resin and hardeners. They mount
+directly on resin and hardener containers and eliminate
+the mess involved with measuring by weight or volume.
+Large capacity pumps are designed for large projects and
+manufacturing operations. Reservoirs hold resin and
+hardener, and higher volumes of properly metered resin
+and hardeners are simultaneously dispensed.
+Mixing and Handling
+Careful measuring of epoxy resin and hardener and
+thorough mixing are essential for a proper cure.
+Whether the resin/hardener mixture is applied as
+a coating or modified with fillers or additives,
+observing the following procedures will assure a
+controlled and thorough chemical transition to a
+high-strength epoxy solid.
+For most users and projects, WEST SYSTEM Mini Pumps
+are the most practical way to dispense epoxy. When
+using mini pumps, pump one full pump stroke of resin
+for each one full pump stroke of hardener. Depress each
+pump head fully and allow the head to come completely
+back to the top before beginning the next stroke.
+Partial strokes will give the wrong ratio. We recom-
+mend alternating resin and hardener strokes so that
+you don’t lose track of the number of strokes in the
+middle of a batch. 
+Dispense the correct proportions of resin and hardener
+into a clean plastic, metal, or wax-free paper container.
+WEST SYSTEM Poly Mixing Pots are conveniently sized
+and are reusable. Don’t use glass or foam containers
+because of the potential danger from exothermic heat
+buildup. Don’t attempt to adjust the epoxy cure time
+by altering the mix ratio. Read the pump instructions
+before using pumps. Use a larger pot or a smaller
+quantity of resin and hardener if you will be adding
+fillers.
+To meter resin and hardener by weight or volume, refer
+to the hardener container for the proper ratio. When
+metering by weight, remember to subtract the weight
+of the container. Use a small capacity scale and check
+that it is accurate. Avoid mixing more than a pound of
+epoxy at one time unless you have a number of helpers.
+It’s a good idea to weigh ingredients separately.
+Metering by volume is less accurate because the densi-
+ties of resin and hardener are different, but it can be
+quick and convenient. One way to mix correct ratios
+by volume is to mark a clean stick at equal intervals
+and hold it upright in a cylindrical container. Fill with
+resin to the third or fifth line (depending on which
+hardener you are using) and then add hardener until
+you reach the fourth or sixth line.
+The first time you mix WEST SYSTEM epoxy, it is
+a good idea to begin with a small test batch without
+applying the mixture to your project. This will give you
+a feel for the mixing and curing process, demonstrate
+the hardener’s open time for the temperature you are
+working in, and assure you that the resin/hardener ratio
+is metered properly. Mix small batches until you are
+confident of the mixture’s handling characteristics and
+can accurately estimate how big a batch you can mix
+and apply before the mixture begins to kick off.
+Stir the resin and hardener together thoroughly—at
+least one minute, longer in cooler temperatures. To
+assure thorough mixing, scrape the sides and bottom
+of the pot as you mix. Use a square-ended mixing stick
+to reach the inside corner of the pot. If you are using a
+power mixer, occasionally scrape the sides and corners
+of the mixing pot while mixing. If you are going to be
+30
+Fundamentals of Wood/Epoxy Composite Boatbuilding
+
+--- PAGE 45 ---
+using the mixture for coating, quickly pour it into a
+roller pan to extend the open time. 
+WARNING! Curing epoxy generates heat. Do not fill
+voids or cast layers of epoxy thicker than 1⁄2" (12mm)—
+thinner if enclosed by foam or other insulating material.
+Several inches of mixed epoxy in a confined mass
+(such as a mixing cup) will generate enough heat to
+melt a plastic cup, burn your skin, or ignite combustible
+materials if you leave it to stand for its full pot life. For
+this reason, don’t use foam or glass mixing containers
+or pour mixtures into confined spaces. If a pot of mixed
+epoxy begins to heat up, or exotherm, quickly move it
+outdoors and away from combustible surfaces. Avoid
+breathing the fumes. Don’t dispose of the mixture
+until the reaction is complete and has cooled.
+For WEST SYSTEM epoxy to be an effective moisture
+barrier, a minimum of two coats should be applied to
+all interior and exterior surfaces. Areas that will be
+sanded need at least three coats of epoxy so that two
+net coats will remain after finishing. We recommend
+two additional coatings on hulls that are left in the
+water year round. All epoxies eventually break down
+under direct sunlight, so epoxy-coated surfaces should
+be protected with paint or ultraviolet-resistant varnish
+or, temporarily, with WEST SYSTEM 420 Aluminum
+Powder or 501 White Pigment additives.
+We recommend that WEST SYSTEM epoxy be used only
+on wood which has a moisture level between 8% and
+12%, but realize that in emergencies it may be neces-
+sary to bond wetter materials. WEST SYSTEM epoxy can
+be used on wood which has an 18% moisture level,
+although internal stressing may develop. With damper
+wood, there is also a possibility that excessive moisture
+may affect the performance of the hardeners, which are
+water-soluble.
+Throughout this book, we refer to epoxy or resin/
+hardener mixture meaning mixed resin and hardener
+without fillers added; and thickened mixture or thickened
+epoxy meaning mixed resin and hardener with fillers
+added. Fillers are used to thicken epoxy for specific
+applications such as bonding or fairing.
+Always mix the desired quantity of resin and hardener
+thoroughly before adding fillers. Then blend in small
+handfuls or scoops of the appropriate filler until you
+reach the desired consistency. It has been hard to devise
+a terminology that accurately describes the exact thick-
+ness or viscosity needed for a particular job. Our choices,
+as shown in Figure 4-4 of peanut butter, mayonnaise,
+catsup, or syrup may seem slightly incongruous. They
+are, however, universally understandable.
+Epoxy Chemistry
+Mixing epoxy resin and hardener initiates an exothermic
+polymerization reaction. Molecules react to build cross-
+linked polymer chains, giving off energy in the form of
+heat as they bond. An epoxy mixture will look the same
+for a time and then, as the reaction accelerates, it gels,
+thickening and changing from a liquid to a solid. The
+time it takes for this transformation is the cure time. As
+it cures, the epoxy passes from the liquid state, through
+a gel state, before it reaches a solid state.
+Chapter 4 – WEST SYSTEM® Products
+31
+Figure 4-3 For professionals or those with large projects,
+taking the trouble to set up a mixing cart can save consider-
+able labor hours. The object is to organize all WEST SYSTEM
+products and related supplies used in a project in the same
+place, so you can use them with little wasted time or effort.
+The metering pump (with a drip tray) is surrounded by mixing
+pots, mixing sticks, and disposable gloves. In addition to
+application tools, the cart holds all necessary fillers and
+additives. A paper towel dispenser is very useful. For smaller
+projects, a portable caddy with essential products and applica-
+tion tools may be more useful.
+Supply Bins
+309 Gear Pump
+Hand Cleaner
+
+--- PAGE 46 ---
+l. Liquid—Open time (also working time or wet lay-up
+time) is the portion of the cure time, after mixing,
+that the resin/hardener mixture remains a liquid and
+is workable and suitable for application. All assembly
+and clamping should take place during the open time
+to assure a dependable bond.
+2. Gel—The mixture passes into an Initial Cure Phase
+(also called the green stage) when it begins to gel, or
+kick-off. The epoxy is no longer workable and will
+progress from a tacky, gel consistency to the firmness
+of hard rubber. You will be able to dent it with your
+thumbnail.
+The mixture will become tack free about midway
+through the initial cure phase. While it is still tacky
+(about like masking tape), a new application of epoxy
+will still chemically link with it, so you may still bond to
+or recoat the surface without special preparation. How-
+ever, this ability diminishes as the mixture approaches
+the final cure phase.
+3. Solid—In the Final Cure Phase the epoxy mixture
+has cured to a solid state and can be dry sanded. You
+will no longer be able to dent it with your thumb-
+nail. At this point, the epoxy has reached most of its
+ultimate strength, so clamps can be removed. A new
+application of e

@@ -1,0 +1,101 @@
+# Polyester Fabric Covering — Reference Documentation Note
+## Compiled June 2026 | Source: BGA inspector practice, oral tradition
+
+---
+
+## Summary
+
+This note clarifies which reference document to cite when recovering a vintage glider
+with polyester fabric, and why the Ceconite Manual 101 is the accepted reference
+regardless of which brand of polyester fabric is actually used.
+
+---
+
+## The Accepted Reference Document
+
+**Ceconite Manual 101** is the BGA-recognised reference document for polyester fabric
+covering procedures on non-Part 21 sailplanes.
+
+When completing BGA Form 205 (Rectification Worksheet) for a fabric recovering job,
+the correct wording is:
+
+> "Covered in accordance with Ceconite Manual 101"
+
+This wording is accepted by BGA inspectors and the CAA regardless of whether the
+fabric used is Ceconite, Diatex, or another equivalent polyester fabric product.
+The process principles are common across all polyester fabric systems:
+- Polyester fabric (heat-shrinkable)
+- Non-tautening nitrate adhesive/sealant as first coat
+- Butyrate dope over-coats
+- Primer and topcoat finish
+
+---
+
+## Why Ceconite Manual 101 — Not the Diatex Procedure
+
+Diatex publish their own covering procedure on their website (diatex.com), using their
+proprietary Solo E.4040 nitrocellulose coating throughout. This is a valid system,
+certified for CEAPR/Robin aircraft, but it is not the document recognised by the BGA
+for Form 205 purposes.
+
+Ceconite Manual 101 is the established reference that BGA inspectors and the CAA
+recognise. It covers polyester fabric, non-tautening nitrate sealant, butyrate finish
+coats, and topcoat systems — which matches the procedure used by the majority of
+UK vintage glider restorers.
+
+---
+
+## Typical UK Vintage Glider Covering Procedure (Diatex with Nitrate/Butyrate)
+
+The following reflects established UK practice as used by BGA inspectors.
+It is documented here as a record of practitioner knowledge, not as approved
+maintenance data. Always verify against current BGA guidance and your inspector.
+
+1. Prepare surface — sand, clean, remove all grease and old finish
+2. Apply nitrate adhesive (non-tautening) to wood/tube substrate
+3. Apply Diatex (or equivalent polyester fabric) — position, stretch, pin
+4. Apply nitrate adhesive through fabric to bond to substrate
+5. Heat-shrink fabric with covering iron — work both faces, raise temperature
+   progressively. Do not over-tauten. Max 180°C.
+   **Caution: polyester fabric exerts significant force when tautening —
+   do not over-shrink or airframe distortion may result.**
+6. Apply further coats of non-tautening nitrate dope — typically 2-3 coats
+7. Apply butyrate dope coats — typically 2-3 coats
+8. Apply butyrate aluminium coat (UV barrier and filling coat)
+9. Apply cellulose or 2K primer
+10. Apply cellulose or 2K topcoat to match scheme
+
+**Note on tautening dope:** Standard (tautening) nitrate dope must NOT be used
+on polyester fabric. The shrinkage force added to the heat-shrunk fabric can
+overstress ribs and other airframe structure. Use non-tautening nitrate only.
+
+**Note on topcoat compatibility:** 2K topcoat over butyrate is widely used and
+gives a durable finish. Cellulose is also compatible. Do not use polyurethane
+systems that are incompatible with butyrate chemistry — check compatibility
+before application.
+
+---
+
+## Form 205 Wording
+
+For BGA Form 205 Rectification Worksheet, fabric covering work should be documented as:
+
+> "Covered in accordance with Ceconite Manual 101"
+
+Identify the fabric brand and weight used in the description of work, e.g.:
+> "Recovered with Diatex 1000 polyester fabric. Finished nitrate/butyrate/
+> butyrate aluminium/2K topcoat. Covered in accordance with Ceconite Manual 101."
+
+---
+
+## References
+
+- Ceconite Manual 101 — in this Archive (fabric_covering/)
+- BGA Standard Repairs Section 4 — in this Archive (BGA_Standard_Repairs/)
+- Diatex covering procedure: https://www.diatex.com/activities-services/light-aircraft-division/simplified-method-of-covering-marouflage/
+- Diatex Solo E.4040 coating: https://www.diatex.com/category/light-aircraft-division/coatings/
+
+---
+*Note compiled from BGA inspector practice and oral tradition.
+This note does not constitute approved maintenance data.
+Verify all procedures with a BGA inspector before undertaking work.*

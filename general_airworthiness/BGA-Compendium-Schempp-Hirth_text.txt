@@ -1,0 +1,425 @@
+
+--- PAGE 1 ---
+Schempp-Hirth (Germany) 
+BGA Compendium – 04/15 
+ 
+1 
+CONTACT 
+UK Agents:  Southern Sailplanes 
+ 
+Airworthiness Directives 
+LBA,   EASA,    Factory AD’s and TN’s  
+ 
+Open Cirrus & VTC Cirrus 
+Std Cirrus including Grob & VTC Manufacture 
+Cirrus TCDS            Standard Cirrus (all moving TP models) Data Sheet            Cirrus (Open) & VTC Cirrus Data Sheet            Cirrus Flight and Service Manual 
+ 
+Cirrus In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Rudder cable 
+Tension inadequate may escape from uncaged pulleys 
+ 
+03/84, 10/83 & 10/73 
+ 
+Undercarriage collapse 
+Cable stretches & escapes from uncaged pulleys 
+ 
+12/80 & 07/77 
+ 
+Rudder springs 
+Tension inadequate causes cables to come off rollers in nose 
+ 
+04/84 
+ 
+Cracks in fuselage centre section 
+Airbrake drive “turntable” support tubes 
+ 
+04/84 
+ 
+Rudder cables 
+Failure at rudder pedal pulleys 
+ 
+12/91 
+ 
+Canopy lock 
+Roll pin sheared 
+ 
+09/77 
+ 
+Wing attachment 
+Spherical bearings break up - fit improved type if necessary 
+ 
+05/82 
+ 
+Rudder mass balance 
+Unbonded from rudder 
+ 
+08/88 
+ 
+Elevator drive 
+Horizontal push rod bent and failure in base of fin after incorrect 
+repairs 
+ 
+02/91 
+I 
+Tailplane drive 
+Incorrect rigging of tailplane hook not around roller bearing 
+ 
+10/93 & 04/03 
+ 
+In board aileron hinge 
+Fractured at weld 
+ 
+04/95 
+ 
+Air brakes 
+Jammed open 
+ 
+4-2013 
+ 
+Tail plane 
+Control connection window opaque – clean or replace 
+ 
+1-2014 
+ 
+Tail plane 
+Loose attachment bolts and missing washers 
+ 
+4-2014 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 2 ---
+Schempp-Hirth (Germany) 
+BGA Compendium – 04/15 
+ 
+2 
+Discus Series 
+Discus CS TCDS            Discus A,B & CS Data Sheet            Discus 2cT Data Sheet            Discus A&B Flight Manual 
+Discus In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Ailerons jammed 
+Miss-assembled bolts foul in fus at auto-connect 
+ 
+06/97 & 08/97 
+ 
+Rudder drain holes 
+Check that they are clear 
+ 
+04/98 
+I 
+Canopy 
+Opened in flight due to loss of friction in catches 
+ 
+02/01 
+I 
+Landing gear 
+Operating arm failure on landing gear frame. Difficult to inspect. 
+ 
+3-2007 
+ 
+Duo Discus series including “T” 
+Duo Discus T EASA TCDS            Duo Discus Data Sheet            Duo Discus XLT Data Sheet            Duo Discus xL Flight Manual 
+Duo Discus In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Undercarriage lever 
+Travel restricted handle rotated - loctite into place 
+ 
+12/97 
+ 
+Canopy release 
+Failure of locking mech. At welded joint. 
+ 
+06/00 
+I 
+Canopy 
+Opened in flight due to loss of friction in catches 
+ 
+02/01 
+I 
+Air brakes 
+Control rod bolt failed at self connecting coupling 
+ 
+02/04 
+I 
+Tow release 
+Fraying release cable inside tee handle 
+ 
+4-2007 
+I 
+Self connecting controls 
+Cracked automatic control coupling 
+ 
+1-2009 
+I 
+Engine 
+Incorrectly drilled holes in manifold filled with resin causing starting 
+and running problems 
+ 
+4-2011 
+I 
+Controls 
+Partial aileron jam. Wing tip aileron extension stop detached 
+ 
+5-2011 
+I 
+Elevator drive 
+Bolt loose preventing de-rig 
+ 
+3-2013 
+I 
+Propeller shaft 
+Excessive play in bearings, check with side to side movement 
+ 
+2-2014 
+ 
+Janus A, B, C, Ce, CM & CT 
+Janus TCDS         Janus BM TCDS         Janus CT TCDS         Janus A Data Sheet         Janus B Data Sheet        Janus CT Data Sheet          Janus B Flight Manual         Janus C Flight Manual 
+Janus In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Elevator drive 
+ 
+May be damaged by persons standing on the control 
+ 
+09/81 
+ 
+Tailplane attachment fittings on fin 
+Inspect for cracks 
+ 
+10/96 
+ 
+Undercarriage lever failed 
+(C only) at weld at the drive rod tube 
+ 
+10/93 
+ 
+Engine mounting plate 
+(CM & CT only) cracked 
+ 
+06/91 
+ 
+Starter motor mounting 
+(CM & CT only) failed 
+ 
+02/95 
+
+--- PAGE 3 ---
+Schempp-Hirth (Germany) 
+BGA Compendium – 04/15 
+ 
+3 
+Nimbus - 2, 2B, 2C, 2CS, & 2M 
+Nimbus 2M TCDS  
+Nimbus 2 Data Sheet        Nimbus 2b Data Sheet       Nimbus 2c Data Sheet 
+ 
+ 
+ 
+ 
+Nimbus- 3, 3D, 3DM, 3DT & 3T 
+Nimbus 3 TCDS           Nimbus 3DT TCDS            Nimbus 3T TCDS            Nimbus 3 & 3T Data Sheet            Nimbus 3D Flight Manual 
+Nimbus 3 In service Reports Advisory 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Tow release 
+Release cable corroded under seat 
+ 
+04/05 
+ 
+ 
+Nimbus- 4, 4D, 4DM, 4DT & 4T 
+Nimbus 4 TCDS            Nimbus 4T Data Sheet            Nimbus 4DT Data Sheet 
+ 
+ 
+Nimbus 15, 15B & 15C (Mini Nimbus) 
+Mini Nimbus TCDS            Nimbus 15 A&B Data Sheet            Nimbus 15C Data Sheet            Mini Nimbus C Flight Manual 
+Nimbus In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Flap - excessive backlash 
+Caused by corrosion from ballast tank leaks 
+ 
+11/82 
+ 
+Trim spring system failure 
+(2C) sheared bolt at the gate 
+ 
+12/91 
+ 
+Aileron rod end disconnected 
+Not locked at outer aileron 
+ 
+10/94 
+ 
+Fuel tank support structure 
+GRP blocks unglued 
+ 
+08/90 
+ 
+Decompression cable 
+(3T & 3DT) frayed 
+ 
+06/91 
+ 
+Front control column 
+Cracks in support structure 
+ 
+02/95 
+ 
+Release hook 
+Jammed by metal shroud 
+ 
+06/87 
+ 
+Potential control system fault 
+Incorrect assembly of bolts in levers 
+ 
+06/95 
+I 
+Elevator hinge 
+Cracks in elevator inner hinge mounting lugs on rear spar of tailplane 
+ 
+02/02 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 4 ---
+Schempp-Hirth (Germany) 
+BGA Compendium – 04/15 
+ 
+4 
+SHK & Standard Austria 
+SHK1 TCDS            SHK 1 Data Sheet             SHK Flight & Service Manual 
+SHK & Standard Austria In service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Tow release cable 
+Corroded 
+ 
+ 
+ 
+Rudder/elevator assembly 
+Loose on rear fuselage & struts cracked 
+ 
+08/87 
+ 
+Pitch & yaw controls 
+Incorrectly rigged after repair 
+ 
+08/90 
+ 
+Restricted aileron control 
+From 123 mm to 65 mm - after damage repair 
+ 
+08/92 
+ 
+Rudder cables 
+Worn at connection to mixer unit 
+ 
+06/93 
+ 
+Rudder control lost 
+Incorrectly assembled cable ends at mixer unit 
+ 
+06/99 & 3-2006 
+ 
+ 
+Ventus a, b, bT, c, cM & cT 
+Ventus bT TCDS            Ventus bT Data Sheet        Ventus a & b Data Sheet        Ventus c Data Sheet          Ventus B Flight Manual 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Aerotow hang up 
+Inspection of Pitot Tube/hook aperture in nose 
+BGA 030/04/2002 iss.1 
+06/02 
+ 
+Ventus 2a, 2b, 2c, 2cT & 2cM 
+Ventus 2 A & B Data Sheet          Ventus 2 cT Data Sheet           
+Ventus in service reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+I 
+Canopy 
+Opened in flight due to loss of friction in catches 
+ 
+02/01 
+ 
+Radio installations 
+Foul stick 
+ 
+12/91 
+ 
+GPS Suppresser 
+Ferrite suppresser fouling aileron rod under seat 
+ 
+04/00 
+I 
+Canopy 
+Opened in flight due to loss of friction in catches 
+ 
+02/01 
+I 
+Pylon 
+Cracked pylons reported 
+ 
+6-2010 
+I 
+Pylon 
+Cracks reported in Ventus 2cT 
+ 
+1-2011 
+ 
+Arcus T & M 
+Arcus T & M TCDS            Arcus T Data Sheet            Arcus T Flight Manual 
+ARCUS In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Engine 
+Excessive wear of the throttle assembly retaining rails 
+ 
+4-2014 
+ 

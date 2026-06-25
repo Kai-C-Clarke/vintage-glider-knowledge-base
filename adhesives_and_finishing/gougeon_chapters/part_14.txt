@@ -1,0 +1,1725 @@
+r of the panel. This becomes the reference line for
+all future measurements, and you can draw other longi-
+tudinal reference lines parallel to it if necessary. (See
+Figure 25-35.) Make measurements of the keel line and
+sheer line using 1' to 2' (300mm to 600mm) intervals,
+depending on the size and amount of curvature
+involved. Closer measurement intervals, although they
+involve more work, produce more accuracy. In areas of
+rapid change such as might occur in the bow or
+transom, you may want to reduce measuring intervals
+down to as little as 4" (100mm) to achieve enough
+accuracy. Transfer these measurements to a full size
+plywood sheet that also uses a drawn centerline as a
+main point of reference for all dimensions, with lines
+drawn at right angles to the centerline at each predeter-
+mined measurement point. Lay down the centerline
+using a tight cable, just as is done in lofting, for the best
+accuracy.
+Chapter 25 – Compounded Plywood Construction
+313
+Figure 25-33  Marking waterlines and station lines on fold-up
+models.
+Figure 25-34 A model of the outriggers shown in Figure 25-27. This model has been marked with waterlines and section lines.
+Section line
+Waterline
+Block
+Marking on
+waterline
+Flat surface
+Model secured plumb
+and level on blocking
+
+--- PAGE 328 ---
+Carefully lift the measurements of the model panel
+from the graph paper, using a divider with fine points.
+Use great care and a sharp eye to interpret parts of
+inches from the scale ruler. List the measurements in a
+simple table under station positions for transfer to the
+full-size plywood panel.
+After you have transferred all measurements, use a
+lofting batten to connect all the measurement points.
+Because of the 1-to-12 scale-up, errors of plus or minus
+1⁄8" are standard, with 1⁄4" to 3⁄8" errors not uncommon.
+Using standard lofting techniques, try to pick the happy
+median between the measurement dots. Continue to
+adjust the lofting batten until it represents a fair curve
+with minimal variation from the measurement points.
+A 90° angle is a 90° angle, no matter the length of its
+sides, so directly transfer the angles at which the panels
+are joined on the model to full size. The keel is, however,
+a different matter. It is the most difficult part of the
+model to scale up, and accuracy here relies primarily
+on the craftsmanship of the builder. The difference
+between a 2" (50mm) wide keel and a 4" (100mm) wide
+keel is very small on a model, but quite significant on a
+finished hull.
+The only other dimension to scale up is the deck
+perimeter so that you can build a full-size deck jig. This
+scale-up is not as critical as on the panel itself, and the
+main concern is with overall fair curves in the lofting
+batten rather than total accuracy on the deck width
+where 1⁄4" (6mm) difference over, for example, 20"
+(500mm) would mean little difference in hull perform-
+ance.
+Using Fiberglass Cloth on Compounded
+Plywood Models
+In the past few years, we have begun significantly
+increasing the stiffness of some compounded hulls by
+applying a layer of 4 oz or 6 oz (135g/m2 or 200g/m2)
+fiberglass cloth to the outside of panels before folding
+them. When 5-plywood is sheathed in glass cloth, the
+fiberglass basically turns it into the equivalent of a 6-ply
+panel.
+Because these increases can be dramatic, this variation
+on compounding occasionally causes problems. We
+recommend that before attempting the procedure on an
+entire hull, you experiment with a model and then, if
+that bends successfully, that you test a 2'-long (600mm)
+section of the plywood and glass schedule which you
+plan to use, bending it to the hardest curves in the hull.
+In areas of tight curves, folding is sometimes easier if
+you moisten the inside of the plywood with warm
+water.
+314
+Hull Construction Methods
+Figure 25-35   Hull and deck panels for Victor T, offsets given in feet, inches and eighths of an inch.
+
+--- PAGE 329 ---
+Later Production Steps
+Chapter 26
+Interior Construction
+Chapter 27
+Deck Construction
+
+--- PAGE 331 ---
+This chapter discusses approaches and techniques for interior construction. Like the previous edition, it
+also includes information on building tanks. While many successful tanks have been built using these
+techniques, the regulatory environment has evolved over the last 30 years and has placed safety restric-
+tions on various aspects of tank building, specifically potable water and gasoline tanks. Additionally,
+gasoline formulations have changed and some can soften epoxy coatings over time. Because of this, our
+recommendations on tanks have changed from earlier editions.
+Boat interiors can range from the very simple to the
+highly complex. Typically, large boats tend to have more
+complete interiors than small boats, and cruising boats
+have more highly developed interiors than racing boats.
+It has been said that a boat with a perfect interior has
+yet to be invented. The age-old problem of trying to
+put a lot of accommodations into a limited amount of
+space is a difficult design problem. We feel that boat
+designers really earn their money when it comes to
+interior planning and layout.
+We are not interior design specialists, but we do have
+definite thoughts on interior construction. Our
+approach may be closer to the one used in aircraft
+design than to traditional boat design in that we think
+that the interior should be an integral part of the struc-
+ture. Our approach may also offer designers more
+flexibility in the use of space and materials. We’ve had
+clear objectives as we have worked on interiors. Of
+these, keeping weight to a minimum, using the interior
+to improve the vessel structure, increasing interior
+utility, and improving interior appearance have been the
+most important.
+Unfortunately, the joinery for most boat interiors will
+require a significant portion of the labor hours needed
+to build the boat. Professional builders are well aware
+of this problem, and many a builder has learned the
+hard way by underbidding this part of the boat. More
+than any other aspect of the boat, interiors require
+planning and strategy for the most efficient use of
+materials and labor hours. Over the years, we have
+developed a few simple techniques which have helped
+to reduce the labor hours needed for interior work and,
+at the same time, have made interiors more enjoyable
+to work on. We present our suggestions here, but we
+must also emphasize that every boat interior will
+present its own unique construction problems. Careful
+thought, common sense, and an open mind are all
+needed to choose the best construction strategy.
+Objectives for Interior Construction
+Keeping interior weight to a minimum
+On racing boats, the weight of interior amenities has
+always been looked at with a critical eye. The added
+weight of any interior, even on a heavy cruising boat,
+should be carefully considered. Interiors are usually
+non-structural or secondary structural items. They need
+not be built with the safety margins required for the hull
+and deck structure. Construction with our methods can
+make interiors lighter. If you can save 200 or 500
+pounds on a cruising boat’s interior, you can lessen the
+vessel burden and increase its capacity to carry fuel,
+water, or stores.
+Using the interior to improve the vessel structure
+With proper planning, it’s possible to install many
+interior items so that they help to reinforce and support
+the hull skin. When bunks, shelves, cabinets, and tables
+are correctly bonded to a hull, they can contribute to its
+strength and also add stiffness to the structure by holding
+the hull skin in position in their immediate areas. This
+is especially effective if the vessel is designed from the
+start so that interior items are laid out to provide the
+most support. The interior is no longer just dead weight
+for the hull to carry around. Instead, it contributes to
+the overall integrity of the vessel. By becoming struc-
+tural, interior items at least partially pay for themselves
+on a weight-to-strength basis.
+Interior Construction
+C H A P T E R
+26
+
+--- PAGE 332 ---
+318
+Later Production Steps
+Increasing the utility of the interior
+Unitized interior construction can minimize the upkeep
+and maintenance of the interior and allow it to be kept
+clean easily. Proper assembly and use of materials
+maximize usable space. If, for example, you use fillets
+instead of large cleats to attach interior items to a hull,
+you can eliminate some room-consuming framework.
+When all surfaces are smooth and glossy, cleanup is
+easier. All of these increase the usefulness of the interior.
+Improving interior appearance
+When you use wood for boatbuilding, you can exploit
+the variety of wood grains and colors for simple but
+very attractive appointments. With wood, unlike other
+materials, no part of the boat must be concealed under
+headliners, ceilings, or other facades, although these are
+sometimes desirable for covering frames, ribs, and
+stringers. Effective use of various woods and combina-
+tions of woods can produce beautiful results with
+surprisingly little additional effort. We like naturally-
+finished wood grain, but we do paint interior surfaces
+when necessary for better contrast, to lighten a dark
+interior, or to aid in cleanup.
+Installing Interiors in Set-Ups
+As we discussed in earlier chapters, portions of the
+interior, including bulkheads, frames, and other structural
+members, can be installed in set-ups for stringer-frame
+and strip plank construction. Other interior items, such
+as bunks, shelving, and counters, can also be built into
+set-ups, and these too can become structural. Major
+labor savings result from installing them at this stage
+rather than when the boat is completed. During set-up,
+you can work in an unencumbered position from the
+floor with reasonably free access to all parts of the hull,
+so fitting is often much easier.
+One of the goals of this chapter is to identify the
+options and complications that affect the choice of
+methods used for interior construction. The amount of
+interior that can be installed during set-up depends on
+the complexity of the set-up itself. If you have many
+dummy frames and supports, you may have so many
+obstacles that it’s difficult to judge if you will save time
+by installing the interior at this point or later. You will
+obviously need a great deal of planning and ingenuity
+from the beginning if you are going to install interior
+items in the set-up. We suggest that you begin planning
+during lofting, if not earlier.
+To build interior items into a set-up, position them with
+excess wood extending to or beyond the true hull
+profile. Later, fair the excess in with the rest of the hull,
+using a batten and hand planes as you would to fair
+frames, stringers, and bulkheads. (See Chapter 18.)
+Installing Interiors in Upside-Down Hulls
+Work can begin on the interior and progress to a very
+advanced stage while the hull is still upside down. We
+Figure 26-1 Six bunks, a galley, and shelves bonded to the
+interior of this hull skin contributed to a noticeably stiffer
+structure.
+Figure 26-2 Interior of the boat shown in Figure 26-1. Note
+the teak sole with white pigment/epoxy seams.
+
+--- PAGE 333 ---
+Chapter 26 – Interior Construction
+319
+admit that there are some problems with installing
+interiors in inverted hulls—such as learning to measure
+upside down—but there are also many benefits.
+First, work can continue on the exterior of the hull as
+you build the interior. This is particularly efficient if you
+have a large crew and are trying to finish the boat as
+quickly as possible. When you work on the floor, you
+have much more room than in an upright hull, so you
+can use more people and machinery. Some upright
+boats have only enough space for one or two people.
+With these, working from the floor can allow two or
+three people to move around and also make room for
+machinery. Another benefit is that you can set up small
+benches and machinery such as a band saw, disc
+sander, and jointer inside the hull, and this saves labor.
+When the hull is inverted, you can save time by
+avoiding a lot of climbing. The average builder goes in
+and out of his hull several dozen times in the course of
+a day. With the hull upside down, you will only have to
+duck under the sheer. You can also raise it 2' (600mm)
+or more to make crawling in and out easier.
+Another advantage of building the interior while the
+hull is upside down is that work in progress is always
+much cleaner. Shavings and sawdust drop to the shop
+floor rather than into the bilge, so constant cleaning
+isn’t required. If you are building a boat with minimal
+shelter, an inverted hull can protect joinery, machinery,
+and stock from the elements.
+There are, however, some disadvantages to working in
+an upside-down boat. Since good lighting is essential to
+quality joinery, you will have to set up a lighting system
+inside the hull, and this may be inferior to general shop
+lighting. Overhead work tends to be tiresome and hard
+on the arms. Finally, you may need platforms or
+scaffolding to reach some portions of the interior.
+Installing Interiors in Upright Hulls
+As we have discussed, a major problem with the hull in
+the upright position is getting in and out of it. You
+should do anything you can to minimize this time-
+consuming problem. We always try to keep the hull as
+close to the floor as possible, installing all appendages,
+such as keels and rudder, late in the construction
+process. The difference of just 1' (300mm) in height
+means that workers have 1' less to climb up and 1' less
+to climb down each time they either enter or exit the
+hull. With hundreds of trips, this saves many extra
+hours.
+Other steps can be taken to facilitate access to the hull.
+With some boats, it’s possible to leave the transom open
+so that workers will have easier access. Sometimes you
+can erect scaffolding to create a substantial amount of
+floor area at sheer height, and on this you can set up
+handy tools and a bench. In our shop, we have a
+second-story loft 8' (2.4m) above the floor. We adjust
+the sheer height of hulls even with the loft and work
+Figure 26-3  An IOR 1⁄2 ton racer. Bulkhead and partitions in
+the set-up are mixed with temporary particleboard molds.
+Figure 26-4 Interior construction in an upside-down hull of
+an IOR 1⁄2 ton racer. Lighting and tools are set up in the hull.
+Note the band saw in the background at the far right.
+
+--- PAGE 334 ---
+320
+Later Production Steps
+out of it. If a hull is large enough, you can set up a
+workshop in the boat and do a lot of machining right at
+the job site rather than outside of it.
+Proper planning of your work limits the number of
+trips you have to make in and out of the hull. By
+carefully organizing the job immediately ahead, you can
+gather the exact tools and the materials you will need.
+It’s aggravating to have to crawl up and out of the hull
+because you forgot your pencil or don’t have quite
+enough clamps to complete a bonding operation.
+Careful planning will help you avoid this. Pre-manufac-
+ture materials to the greatest extent possible before you
+carry them up inside the hull.
+General Approach—Joinery
+We rely on joints bonded with WEST SYSTEM® epoxy for
+interior construction because they are often stronger
+and easier to make than fastened joints. All interior
+bonded joints must have adequate area for maximum
+strength, so we engineer them with this in mind.
+Although we often use clamps and weights to hold
+parts in place as epoxy cures, we also use staple guns
+with fine wire brads or narrow-crown staples. We inset
+Figure 26-5 Interior of the IOR 1⁄2 ton after righting, before
+completion of interior details and installation of hardware and
+the engine.
+Figure 26-6 The transom is left open for easy access to the
+interior. Structural bunks are also airtight buoyancy tanks for
+this lightweight laminated sloop.
+Figure 26-7 Rogue Wave’s galley, pilot berth, navigation 
+area, and daggerboard case. All interior joinery was installed
+before the deck was built. Circular pads on the bulkhead 
+are reinforcing gussets. Note the lift-out access ports in the
+cabin sole. The unfinished teak cockpit sole is visible at the
+lower left.
+Figure 26-8  Rogue Wave’s galley area after the deck was
+installed. Sandwich construction of the deck in this area
+required a headliner skin. This smooth plywood panel was
+painted white to lighten the naturally finished interior.
+
+--- PAGE 335 ---
+Chapter 26 – Interior Construction
+321
+these fasteners slightly and leave them in place; the
+small holes they make are hard to detect after filling.
+We often use fillet joints in interiors, especially where
+curved surfaces meet. Fillets (described in detail in
+Chapter 11) save a great deal of time and are strong for
+their weight. Rounded fillets are also easy to keep clean. 
+Plywood and wood parts can be bonded quickly to the
+curved inner hull surface by positioning them and
+applying a fillet of proper thickness on either side at the
+intersection of the mating materials. The alternative to
+filleting is to laboriously attach shaped wooden cleats to
+the curved surface and to bond the parts to these cleats.
+Figure 26-9 Design details for interior joinery. The basic designs are universal to boatbuilding, but modifications can be made
+to lighten the structures without sacrificing strength because they are bonded. We usually use fillets and triangular cleats instead
+of square stock for interior construction and get the same bonding area for less weight. It’s easy to form corner pieces for
+settees, bulkheads, and other molded items over common objects such as pipes and barrels.
+Settee front
+Cushion rail
+Plywood step with
+protective hardwood
+edge support
+Plywood
+cleats
+1⁄8" saw kerfs filled with
+thickened epoxy
+Paper honeycomb
+1⁄16" Birch plywood
+1⁄2" Plywood
+Frame
+Trim
+Plywood
+Drop-in icebox top
+Foam
+Cushion
+Bunkfront
+Rail
+Triangular cleat
+Bulkhead
+support
+Settee or cockpit trim
+Cleat
+Bulkhead or
+cabinet corner
+Cap
+Settee or bulkhead with laminated corner
+
+--- PAGE 336 ---
+322
+Later Production Steps
+Materials
+We often use plywood for interior construction because
+of its light weight and excellent strength and stiffness. It
+takes much less time to cut parts from large plywood
+panels than it does to piece them together from many
+small pieces of sawn stock. Most of our interiors have
+been built with 1⁄4" (6mm) to 1⁄2" (12mm) thick ply.
+Except for bulkheads in larger boats, there is no reason
+to use thicker panels; in many cases, 1⁄4" plywood will
+work if it has adequate supporting framework. We have
+also used much thinner plywood for making sandwich
+panels with a honeycomb core.
+Nowhere is the use of prefinished plywood more
+important than in building interiors. The labor hour
+savings alone are well worthwhile, and a much higher
+quality finish is usually the added bonus. We have
+found it beneficial to precoat whole sheets of plywood,
+usually on both sides, rather than to prefinish
+individual parts. (See Chapter 15.) You can coat large
+panels more efficiently and save lots of time in sanding.
+Smaller parts usually have to be hand sanded so as not
+to sand through the coating around the edges, but you
+can machine sand large panels very quickly. The disad-
+vantage of prefinishing whole panels is some waste of
+the prefinished panel. However, this must be weighed
+against the labor savings. In some situations, it may be
+best to cut out the parts first before prefinishing. In all
+cases, however, you should attempt to prefinish the
+parts prior to installation rather than coat and sand the
+finished interior joinery after it has been installed.
+When you are sawing parts out of plywood panels,
+sawing can chip out the upper face of the plywood
+edges, causing some unsightly scars which will show
+up in a natural finish. Using a band saw minimizes the
+chipping problem because it cuts downward and at a
+higher rate of speed. The more commonly used saber
+saw presents a problem. You can tape over the cutting
+line with clear cellophane tape or scribe a line with a
+sharp knife to minimize wood chipping. Using a sharp,
+hollow-ground saber saw blade with no set is also
+helpful. Generally, a precoated panel will not chip as
+badly as an uncoated panel.
+Measuring
+Before moving a completed hull from the set-up, we
+always mark a true waterline on its exterior and also, if
+possible, at various places on the interior. (When using
+the mold method, you might have to use a marked
+sheer line as the reference line.) With a clearly marked
+exterior waterline, you can turn the hull over and then
+reposition it easily on its lines so that the interior layout
+can begin.
+Before you install any interior items, you must set the
+hull on its lines in both the fore and aft and
+athwartship dimensions so that proper measurements
+can be made. This is true whether the hull is in the
+upright or inverted position. With the hull plumb on
+its lines, you can use the level as the major tool to
+position interior layout dimensions accurately. With the
+waterline position known on the inside of the hull, you
+can measure all further interior dimensions either up or
+down from this reference line. The only other dimen-
+sion to determine is the fore and aft reference from the
+station lines.
+Making Templates
+Fitting interior parts is one of the more difficult jobs of
+boatbuilding. Besides the normal curves that must be
+fitted to, a typical interior has numerous obstructions
+such as bulkheads, keel, frames, and sheer clamps
+which a part must be fitted around. The normal
+complexity of this problem requires the use of
+templates to define the final dimensions for a part most
+efficiently. Trying to fit the part itself usually causes too
+much waste of material.
+If your boat was developed with computer-assisted
+design (CAD) software, you may be able to have the
+program produce templates for any given points along
+the inside of the hull. Better still, a CNC router can be
+used to cut the plywood to shape for you. The time
+saved can be profound, so the method is worth investi-
+gating. If you do not have these pattern-making devices
+available, the information below will serve you well.
+Any thin material that can be easily shaped is adequate
+for template material. We regularly use scrap pieces of
+plywood or veneer, which we temporarily fasten
+together with staples to quickly fashion a rough
+template that is as close to the desired final dimensions
+
+--- PAGE 337 ---
+Chapter 26 – Interior Construction
+323
+as possible. Initial mistakes in fitting are easily rectified
+by making additions to the template or dismantling and
+reassembling the template for another try.
+Marking the template can be done with a compass or a
+spiling block, as described in Figures 26-10, 26-11, and
+26-17. Sometimes two separate markings may be
+required to develop a close fit. After the first marking
+and sawing, the template will fit close enough so that
+the final marking and subsequent sawing will be much
+more accurate. A hand-held block plane is the main
+hand tool used to machine the template to a final—and
+hopefully perfect—fit, but a spokeshave, offset chisel,
+and file all end up being used at some point.
+In some instances, a template may fit perfectly, with
+only a few gaps. Correct these by stapling on another
+piece of template stock to take up the gaps or measure
+and mark the gaps on the pattern so that the differences
+can be transferred to the actual part. When the template
+is finished, position it on the stock for marking. Then
+transfer the template measurements carefully, marking
+them with accurate lines.
+It’s easier to fit less complex parts right to the hull.
+Direct fitting can be particularly effective if you use the
+lofting as a guide for rough shaping parts before finally
+fitting them. Some builders rely heavily on lofting and
+cut interior parts so accurately that they need very little
+final finishing.
+It’s also possible to make many interior items outside
+the boat, where work is much more efficient, and to
+install them when they are finished. This can save 
+a lot of time, but with more complicated parts, the
+measuring problem can escalate and time savings are
+reduced. As a general rule, it’s best to build interior
+items that are easily fit to straight or gently curved
+surfaces or those which stand free, such as tables,
+outside the hull and then install them.
+Figure 26-10 A template built up with scrap lumber and
+plywood gussets.
+Step 2 – Transferring marks to plywood
+Figure 26-11 Two methods for transferring the hull shape
+to a template and then to plywood.
+Step 1 – Marking the template
+Template formed out of scrap
+plywood being used to spile
+shape for bulkhead
+Spiling
+block
+Gussets
+Spiling or witness marks
+Spiling block
+Riser
+Compass radius
+noted on template
+Use a compass
+to swing 
+arcs
+Planking
+Sheer clamp
+Place the template on the plywood
+stock from which the finished bulkhead
+will be made. Reposition the spiling
+block in its marks and scribe the
+outside edge of the block (repre-
+senting the inner surface of the
+planking) on the bulkhead stock.
+Plywood
+stock
+Take the pre-set compass and 
+swing arcs from those marked on 
+the template. The intersections 
+of the arcs locate the 
+inside surface of the planking.
+
+--- PAGE 338 ---
+324
+Later Production Steps
+Bulkheads and Partitions
+Bulkheads are considered structural parts of the hull,
+but in some boats, where they serve as partitions to
+separate accommodations, they are also functional parts
+of the interior. Because they usually contribute struc-
+turally, bulkheads are often of very sound construction.
+They are typically bonded to the hull in such a way as
+to be able to transfer considerable load to the skin.
+To become interior partitions, bulkheads need little
+more than trim around exposed edges, as would appear
+in the walk-through. Installing trim on these edges
+improves their appearance and makes them safer than
+sharp plywood. Generally, all cutouts in bulkheads have
+rounded corners because sharp corners become points
+of stress concentration. All cutouts in a bulkhead
+theoretically have some weakening effect, so we often
+rely on the trim to strengthen and stiffen the weakened
+cutout area. Whenever we build what we consider
+structural trim, we laminate curves and corners instead
+of sawing them out of solid stock. We always scarf
+joints in structural trim, although butt joints are more
+standard with most trim.
+To insure privacy, the designer may specify a door in
+the bulkhead. With a small adjustment in the design of
+the trim, you can incorporate an adequate door frame
+system into the bulkhead opening. This only leaves the
+difficulty of building a door to fit this opening and
+frame system. The main problem with doors is that it is
+difficult to get light ones that will stay perfectly flat. A
+1⁄2" (12mm) plywood door, if it is perfectly flat to begin
+with, will probably not stay that way forever. Like doors
+that are constructed for houses, the most successful
+doors for boats are laminated of two thinner sheets of
+plywood with a core material in between. These doors
+are light, strong, and very stable, with an excellent
+chance of maintaining their original dimensions. (See
+Chapter 11 for details on cored laminating procedure.)
+Partition walls, such as those that might be used to
+enclose a head, are generally non-structural. They need
+only be strong enough to survive the rigors of hard
+Figure 26-12  A major structural bulkhead for Golden Dazy is
+constructed with a framework sandwiched between two 1⁄2"
+(12mm) thick panels of utile plywood.
+Figure 26-13  A bulkhead showing laminated hardwood trim
+on the walk-through.
+Figure 26-14 An opening in a structural bulkhead on Rogue
+Wave. The daggerboard trunk to the right is bonded to this
+bulkhead.
+
+--- PAGE 339 ---
+Chapter 26 – Interior Construction
+325
+sailing; in most situations, 3⁄8" (9mm) plywood is
+adequate. We have successfully used 1⁄4" (6mm) ply,
+sometimes including minor framing to improve overall
+panel stiffness. For large partitions, you may choose to
+use the core construction techniques outlined in
+Chapter 11. Core construction saves weight and results
+in stiff partitions with better sound-deadening quality
+than possible with a single panel.
+Cabin Sole (Floor)
+The first part of the interior to be installed is the cabin
+sole, or floor, which will be walked on. Plywood from
+3⁄8" to 1⁄2" (9mm to 12mm) thick is generally used as the
+floor base, with proper support framing underneath. To
+achieve maximum headroom, most designers will strive
+to get the floor as low as possible in the bilge. This
+sometimes causes frustrating construction problems due
+to lack of room. We have found that bonding a portion
+Figure 26-17  Spiling the shape of a cockpit sole.
+Figure 26-18 Installing cabin sole framework in Rogue Wave.
+The structure supports the hull skin as well as the cabin sole.
+Figure 26-16 A galley in a 30' (9.1m) trimaran with a
+bulkhead forward and a hanging locker at lower right.
+Figure 26-15 A section though a door showing the honey-
+comb core and skins with two methods of bonding trim to 
+the panel.
+Jamb or stop
+Jamb
+After the plywood-honeycomb
+panel has been laid up and cured, it
+should be machined and trued. At
+this point there are two methods
+for bonding on the trim.
+Trowel the thickened mixture
+into the panel’s edge, filling
+the open cavities of the paper
+honeycomb along this edge. To
+this clamp the oversize trim.
+When everything has cured,
+plane or rout the trim to suit.
+After the panel has been cut
+to shape, run it on edge over
+the table saw. Set the saw
+blade to cut out the core
+around the edge without
+damaging the plywood. Fit
+and bond the hardwood trim
+into this rabbet.
+Rabbetted trim
+Epoxy adhesive
+mixture (low
+density filler)
+Plywood
+Paper 
+honeycomb
+Use of a template to determine
+shape of cockpit sole
+Sheer clamp
+Planking
+Bulkhead
+Spiling block
+Brace to
+prevent
+racking
+Notched to
+fit around
+bulkhead
+Deck beams
+
+--- PAGE 340 ---
+326
+Later Production Steps
+of the floor permanently to the hull has helped locate
+the floor as low as possible within the hull cavity. The
+permanent floor also has great potential to contribute
+structurally to the overall strength and stiffness of the
+hull itself.
+Obviously, portions of the floor must be removable to
+afford complete access to the bilge. This accessibility is
+important both for cleaning and for repairing any
+damage that might occur. As a minimum guideline, you
+should be able to reach every part of the bilge with
+your hand when extending your arm through all avail-
+able openings in the floor. With narrow, deep hulls,
+only a small percentage of the floor needs be remov-
+able. (See Figure 26-20.) Wide, flat hulls, however, may
+require that a substantial portion of the floor be remov-
+able to permit suitable access to the bilge.
+We feel that floors should be complete and integral
+enough to keep general debris out of the bilge. Not
+only is refuse difficult to clean out of the bilge, but it
+can do a marvelous job of clogging bilge pumps. This is
+at best an aggravation, and at worst it is potentially
+dangerous. The lift-out portions of the floor should fit
+well with proper hold-down systems to keep them
+snugly in place—this will facilitate keeping the floor
+area clean. You should leave a minimum gap of 1⁄16"
+(1mm) between all edges; for unusually large panels,
+you should probably increase the gap.
+The bilge is the area of the boat most prone to
+dampness so give special attention to carefully coating
+all bilge surfaces to insure maximum protection. We
+further recommend that the bilge area always be clear
+finished—never painted—so that you can easily detect
+any moisture damage which might occur by noticing if
+the wood turns dark. A successfully designed and
+constructed boat should have dry bilges. The only way
+for moisture or water to get down below should be
+through open hatches or skylights, with wet sails, or
+from people coming down from above. Like any other
+part of the interior, bilges should be ventilated, utilizing
+openings in areas that will allow air passage but not dirt
+and debris into the bilge.
+Icebox Construction
+We have constructed many successful iceboxes using 1⁄4"
+(6mm) plywood with light density closed cell urethane
+foam as the insulation medium. Usually, we design the
+inside of the icebox so that we will have the maximum
+amount of icebox room for a given amount of interior
+space, allowing for a minimum of 2" (50mm) of insula-
+tion all around the exterior of the inner icebox. Two
+inches of foam are adequate for most situations, but we
+would advise against using any less. On occasion, we
+have used up to 4" (100mm) of urethane foam insula-
+tion to get maximum cooling performance.
+Figure 26-19  Sections through the countertop and cockpit
+sole showing core construction.
+Figure 26-20 The forepeak cabin sole with lift-out sections.
+Teak fiddle rail
+Cap
+Resin-impregnated 
+honeycomp paper
+Plywood panels
+Teak veneer
+Adhesive flow of the epoxy mixture forms
+fillets up the walls of the paper honeycomb
+
+--- PAGE 341 ---
+Chapter 26 – Interior Construction
+327
+Begin by building the inner box. Since a major goal is
+to build a box that has a rounded, smooth interior with
+no difficult-to-clean sharp corners, we like to use large
+low-density fillets on the inside corners to join side and
+bottom panels. It’s most efficient to locate the opening
+on the top of the box and try to make it as small as
+practical for easy access. When the interior box is
+finished, but before assembling its top, apply a
+minimum of four coats of WEST SYSTEM epoxy to its
+interior surfaces. We often add a layer of 6 oz (200g/m2)
+fiberglass cloth to the interior for abrasion resistance.
+Add white pigment to the final epoxy coatings to facili-
+tate future cleaning: the white makes it easy to tell
+when you’ve got the icebox clean. Sand thoroughly by
+the third coat so that the final coat will be smooth.
+When you have coated the box interior and the under-
+side of the icebox top, attach the top.
+Fit a neck around the perimeter of the top opening. This
+should be at least as high above the box ceiling as the
+thickness of the insulation you plan to use. To be sure
+that you will have adequate bonding area, make the
+neck from 1⁄2" (12mm) or thicker stock or plywood. Give
+the exterior of the inner box a coating of epoxy and
+allow it to become tacky before bonding precut pieces
+of foam in place. Then use a thick mixture of epoxy and
+low-density filler to carefully bond the insulation to all
+exterior surfaces of the inner box, leaving only the top
+opening uncovered. An adhesive mixture that is suffi-
+ciently thick will act as contact cement, holding the foam
+in place without clamps. If difficulties arise, use tape or
+string to hold the foam in place.
+When the interior box is finished, position it on a pre-
+constructed base that will hold it at its proper height.
+Bond the foam on the bottom of the inner box to this
+base, using the same thick adhesive. Install front and
+side panels around the foam perimeter. Although the
+panels don’t have to touch the foam, it’s ideal if it works
+out that they do.
+If the icebox is located against the hull, leave a gap
+between the foam and the planking and don’t try to fit
+it snug. Doing it this way requires less fitting and is
+therefore easier; having the foam tight against the hull
+serves little structural purpose. Make the lid for the
+icebox the same thickness of insulating foam as the base
+and bond plywood as thick as that used on the inner
+and outer boxes to its inner and outer surfaces. When
+the lid fits, install a lip around the perimeter of the box
+and add a handle to complete the job.
+Tanks
+The tank building methods described in this section
+have been used with WEST SYSTEM epoxy since the early
+1970s to successfully construct tanks for potable water,
+sewage, gray water, ballast, diesel fuel, and a limited
+number of gasoline tanks. Since then, the regulatory
+environment and insurance considerations have evolved
+and placed safety restrictions on various aspects of tank
+building, specifically potable water and gasoline. Some
+gasoline formulations available today soften epoxy. For
+these reasons, we do not recommend building potable
+water or gasoline tanks with WEST SYSTEM epoxy. WEST
+SYSTEM epoxy continues to hold up well against diesel
+fuel, sewage, and gray water.
+Tank Regulations
+U. S. Coast Guard (USCG) regulations, Food and Drug
+Administration (FDA) regulations, American Boat &
+Yacht Council (ABYC) standards, and insurance restric-
+tions should be carefully considered by anyone,
+professional and homebuilder alike, planning to build a
+composite tank. Tank construction material and
+construction processes have been investigated
+thoroughly over the years, and the lowest grief option is
+choosing a certified tank from a manufacturer. Certified
+Figure 26-21 Cutaway of inner icebox construction.
+Filleting on all plywood
+joints to ease cleaning
+Plywood box
+Foam
+
+--- PAGE 342 ---
+328
+Later Production Steps
+fuel tanks have already been tested in accordance with
+strict fire and flame regulations, and have proven
+themselves in the field. Certified potable water tanks
+are made to minimize or eliminate extractives.
+While professional builders are bound by tough USCG
+regulations and ABYC standards regarding tanks,
+backyard boatbuilders have the option to follow or
+disregard them. However, if the builder decides to sell
+the boat, the federal regulations become applicable
+because he or she has built the boat for the purposes of
+sale. A good reference for individuals building boats for
+their own use and not for sale is Safety Standards for
+Backyard Boat Builders, COMDTPUB P16761 3B, avail-
+able from USCG Headquarters or its web site. See the
+sidebar for additional information.
+Before using WEST SYSTEM products in tank construc-
+tion, we advise that customers review the relevant
+federal, state, and local safety regulations, standards,
+and recommended marine practices, as well as contact
+their insurance carriers for restrictions. As mentioned
+previously, wood/epoxy diesel fuel tanks built with
+WEST SYSTEM epoxy continue to perform well but may
+be an uneconomical choice compared to an off-the-
+shelf certified tank if insurance premiums increase or if
+state licensing/federal documentation problems are
+encountered. 
+The ABYC publishes a written standard, Standard H-33-
+Diesel Fuel Systems. We suggest you obtain a copy to
+ensure all safety precautions and recommended
+practices are followed. The USCG doesn’t publish any
+regulations for recreational boat diesel fuel systems.
+The tank building techniques to follow allow the most
+efficient use of available space and typically produce a
+tank that weighs less than similar capacity factory-built
+tanks. The techniques are provided with the assump-
+tion that you will do your homework and research the
+various issues and concerns mentioned above. We
+recommend that you limit their use to gray water,
+sewage holding tank, and diesel fuel tank applications
+unless you are able to locate certified coatings designed
+to isolate and seal the inside of the tank from potable
+water or gasoline. The contacts and references listed
+should help you research your options.
+American Boat & Yacht Council 
+3069 Solomons Island Road 
+Edgewater, MD 21037-1416 
+phone: 410-956-1050 
+fax: 410-956-2737 
+info@abycinc.org 
+www.abycinc.org 
+Food and Drug Administration
+5600 Fishers Lane 
+Rockville, MD 20857-0001 
+www.access.gpo.gov/nara/cfr/waisidx_00/21cfr175_00.html 
+Government Printing Office
+Code of Federal Regulations
+Superintendent of Documents 
+Attn: New Orders 
+PO Box 371954 
+Pittsburgh, PA 15250-7954 
+Customer Service: 202-512-1803 
+Internet access 
+Fuel Tanks
+www.access.gpo.gov/nara/cfr/waisidx_00/33cfr183_00.html 
+Marine Sanitation Devices:
+www.access.gpo.gov/nara/cfr/waisidx_00/33cfr159_00.html 
+Fuel tanks for USCG Inspected Vessels (d GT)
+www.access.gpo.gov/nara/cfr/waisidx_00/46cfr182_00.html
+West System Inc. 
+PO Box 665 
+Bay City, MI 48707-0908 
+phone: 866-937-8797
+fax: 989-684-1287 
+www.westsystem.com  
+NSF International 
+PO Box 130140 
+789 N. Dixboro Road 
+Ann Arbor, MI 48113-0140 
+phone: 734-769-8010 
+toll free (USA): 800-NSF-MARK 
+fax: 734-769-0109
+www.nsf.org 
+U.S. Coast Guard 
+Commandant (G-OPB-3),
+US Coast Guard, 
+2100 Second Street, SW
+Washington, DC 20593-0001 
+phone: 202-267-0984 
+USCG Infoline: 800-368-5647 
+www.USCGBoating.org 
+Recreational Boating Safety 
+Safety Standards for Backyard Boat Builders, COMDTPUB P16761 3B
+www.uscg.mil/d8/mso/louisville/WebStuff/comdtpubp16761_3b.pdf 
+Figure 26-22 Sources of information on marine tank 
+regulations (February 2005).
+
+--- PAGE 343 ---
+Chapter 26 – Interior Construction
+329
+Decisions on tank size and location should be made
+early in the design process, especially if pre-built certi-
+fied tanks are to be used. It is important to determine
+tank size and location so that the hull will eventually
+float on its intended lines. The tanks should be placed
+where they will have the least impact on living space.
+They should also be able to be removed at some point if
+necessary. Selecting tanks early in the design process
+allows you to build support around the tank rather than
+trim away structure in an effort to fit a tank into an
+existing space. If stringers or frames require cutting to
+make room for a tank, take care to reinforce these
+modified structural members to effectively carry load.
+This can be done with sister frames, doublers, or fiber-
+glass reinforcement.
+Off-the-shelf certified tanks need to be properly
+supported and secured so they do not move or upend
+while in use. Improper installation can cause premature
+tank failure. The best way to support a tank depends on
+the material the tank is made of. Issues surrounding
+installation of off-the-shelf tanks can be complex
+because a method that works well for one tank type
+may cause a potential problem for another. Because of
+this, we recommend that you contact the tank manufac-
+turer for their recommended installation technique.  
+Some tanks require mounting on support pads. Others
+require a flat surface for full contact. Expandable foam
+is recommended by some tank manufacturers to
+support tanks while others frown on the practice.
+There are a variety of issues involved in securing tanks.
+They include the following:
+• Polyethylene and polypropylene tanks are flexible and
+can swell while filled. Allowances must be made for
+this.  
+• Aluminum tanks are rigid and yet typically are not
+strong enough to address stresses introduced in them
+if rigidly installed in a hull that flexes. 
+• Aluminum tanks are known for corroding between
+their support pads and the bottom of the tank. This
+deficiency can be addressed by protecting the bottom
+of aluminum tanks and a couple of inches up the side
+with several coats of WEST SYSTEM epoxy. This isolates
+the aluminum from water that eventually finds its way
+between the support pads and the bottom of the tank,
+effectively extending the life of the tank. (For informa-
+tion on preparing aluminum for bonding with epoxy,
+see Chapter 14.)
+When creating storage locations for tanks, it is good
+practice to build a containment area around the tank to
+isolate leaks should they occur. These areas should be
+sealed with at least three coats of epoxy so the liquid
+does not migrate into the wood or to other parts of 
+the hull.
+Support platforms for tanks can be created with
+plywood and installed with epoxy fillets. Saddles can be
+created with fiberglass cloth and epoxy, using the
+bottom of the tank as a mold. These eventually get
+glued into position in the boat to support the tank in an
+exact location. Rubber pads are often used between the
+bottom of a tank and its support structure to minimize
+potential chaffing. Hold down straps and fittings, avail-
+able from the tank manufacturer, can be used to secure
+the tank to the platform/saddle. The hold down scheme
+used to secure tanks should be robust. We recommend
+using glued-in fasteners and hardware bonding
+techniques described in Chapter 14. Hardware bonding
+will maximize the holding power of the screws involved
+and seal out possible moisture intrusion that could
+significantly weaken the holding power of the fastener.
+Tank Construction
+Holding tanks made with plywood and WEST SYSTEM
+epoxy have been extremely successful, mainly because
+they are inexpensive and easy to build. You can build
+tanks to the exact size and shape you need and elimi-
+nate the time and expense of preparing drawings for a
+metal tank fabricator. While there are arguments in
+favor of building tanks permanently into the hull, we
+always make them as separate, usually removable, units
+so that if the hull is damaged, we can remove the tank
+to repair it.
+The procedure for constructing the interior of a tank is
+similar to that used for the interior of an icebox, except
+that you can use cleats on the exterior corners to
+assemble the plywood panels if desired. Venting is
+needed to prevent buildup of gas pressure. Baffless
+should be installed to reduce the surge effect that can
+otherwise occur and to support the structure. If you use
+them, the number and size of baffles are proportionate
+
+--- PAGE 344 ---
+330
+Later Production Steps
+to the size of the tank. A typical 40-gallon (150 liter)
+tank might have two or three baffles about three-fifths
+the size of the interior section area.
+Build the tank in two halves: the main box (with or
+without baffles) and the top. To maximize space, you
+can mold curved side panels that conform to the
+contour of the hull out of sheets of plywood or veneer,
+and then assemble them with standard sheet ply to
+complete the tank. Depending on the size, shape, and
+amount of support provided, 1⁄4" (6mm) plywood is
+probably strong enough for most tanks up to 40
+gallons. Thickness of plywood for tanks is mainly deter-
+mined by weight-per-square foot of unsupported area.
+Supports for a 1⁄4" tank should be no more than 12"
+(300mm) apart, assuming loading of 30 pounds per
+square foot.
+Holding tanks do need occasional cleaning, so we
+always include a removable port in the middle to
+provide access to all parts of the tank. Apply a layer of
+6 oz (200g/m2) fiberglass cloth to the interior and apply
+5 to 6 coats of epoxy to provide an excellent moisture
+barrier. Try to make the interior surface as smooth as
+possible to facilitate cleaning.
+Windows and Ports
+Windows provide light and, in many cases, much of
+the ventilation needed in the interior. Ports or windows
+which open yet can be made watertight are very diffi-
+cult to make yourself. The price of the manufactured
+ones is reasonable, so it is best to purchase these items.
+Traditionally, ports have been made of bronze or
+aluminum, but in recent years a number of excellent
+plastic windows have been introduced on the market.
+Some of these plastic ports have unique design features,
+and we have installed them on the most expensive boats.
+You can easily manufacture and install at low cost non-
+opening windows which only let in light. You can use
+standard Plexiglas™, but we highly recommend the use
+of Lexan™ because it is harder, has better scratch
+resistance, and is much stronger than Plexiglas. Choose
+a type and thickness of window comparable in strength
+to the cabin side or hull area that it is replacing.
+To install windows as shown at the top of Figure 26-25,
+drill and countersink holes and screw or bolt the Lexan
+or Plexiglas to the cabin wall. You can install the
+window on either the exterior or the interior surface.
+We generally prefer the interior because the windows
+look better, but interior installation is potentially
+weaker and the cabin wall must be thick enough to
+Figure 26-24 A diesel fuel tank on Rogue Wave. The cockpit
+sole forms the top.
+Figure 26-23  A 40-gallon (150 liter) tank for Rogue Wave,
+constructed using fillets and fiberglass tape on all inside
+joints. The top of this tank forms a part of the cabin sole and
+the tank is removable. Baffles are scalloped on the upper edge
+so each compartment will vent. Notches at the bottom of the
+scallops are for 3⁄8" (9mm) thick longitudinal plywood frames
+to support the top.
+
+--- PAGE 345 ---
+Chapter 26 – Interior Construction
+331
+provide holding power for fasteners. If it isn’t thick
+enough, the area around the edge of the window will
+have to be built up with more wood in the immediate
+area of the fasteners.
+Plastic glass comes with stick-on protective paper. Leave
+this paper in place to protect the plastic until the
+window is installed. Mark the window on the plastic—
+you want the window to overlap the cabin side by
+about 1" (25mm) —and cut it with a band saw or saber
+saw, file edges smooth, and radius the exterior corners.
+Drill fastener holes and fit the window in place. Just
+before you install it, peel off the paper from part of the
+plastic that overlaps the cabin. Rough up this area of
+the window with sandpaper and bed the window in
+position with silicone sealant, carefully removing any
+excess. Insert self-tapping screws or machine screws if
+through bolting is desired. Adjust the number of
+fasteners used to the anticipated severity of loadings. If
+you are going offshore, the joint between the window
+and the cabin wall should be as strong as the cabin
+wall. You can remove the paper on the window if you
+need light below, but it’s sometimes better to peel it off
+after you have painted the interior.
+Another way to install windows, also shown in Figure
+26-25, is to bed them in silicone sealant as described
+above, but to finish them off in plywood frames which
+are bonded to the cabin sides. This is a little more diffi-
+cult, but framed-in windows are more attractive than
+screwed-in windows, and this method is particularly
+effective for installing windows on thin cabin walls.
+Frames may be attached inside or outside, but we
+prefer to use them to enhance interior beauty. Wherever
+Figure 26-26 Low-cost lift-out window.
+Figure 26-25 Non-opening windows.
+Lexan™ window bedded in silicon sealant
+and screwed directly to cabin side.
+Lexan window set in
+plywood frame glued
+to cabin side.
+Lexan
+Cabin side
+Frame
+Fashion the hardwood handle to a
+smaller radius than the cabin side so
+that the top of the finished window
+presses out against the cabin side as
+the window slides down into the frame.
+Window opening
+Cabin side
+Hardwood handle
+Lexan™ or Plexiglas™ window
+Limber holes
+Plywood cabin side
+Frame
+Section AA
+Section AA
+
+--- PAGE 346 ---
+332
+Later Production Steps
+they are, the frames should have enough bonding area
+to ensure a strong window joint. Another type of
+window is a “poor man’s” lift-out window. This will
+keep out rainwater, but may not keep out water if the
+window is hit with a solid sea. This type of window is
+particularly successful on lightweight boats which,
+because of their lightness, are not normally subjected to
+being boarded by large waves. Outline the cutout in the
+cabin wall on three sides with a trapezoidal framework,
+which goes across the bottom and up two sides of the
+window, staying an 1" to 2" (25mm to 50mm) away
+from any part of the opening. Deeply groove this frame-
+work so that any water entering will run down the
+groove to drains which are drilled through the cabin
+wall to the very base corners of the framework. Then
+cut out a glass window of the same trapezoidal shape as
+the framework, fit it into place, and install a lifting
+handle on the uppermost part. To lift out the window,
+move it up approximately an inch or two and set it
+aside. You can then replace the window with a framed
+screen the same size to keep out bugs.
+Electrical and Plumbing Systems
+To do the best job on your boat’s electrical system, it is
+wise to plan a wiring diagram before installing the
+interior. This is especially important if you plan on
+extensive use of modern electrical items. Plan the
+location of all lights, instruments, radio, pumps, refrig-
+eration, and engine. With these items located in the
+interior plan, lay out the best wiring routes. Then, as
+you construct the interior, make provisions for the
+wiring, such as pre-drilling holes in interior parts before
+they are assembled.
+Most electrical wiring can be nicely concealed from
+view but still be accessible for maintenance. You can
+hide wiring behind deck beams, in back of shelf fronts,
+and under bunks. Situate the master control panel in a
+central location which both minimizes the amount of
+wire needed and provides the best routes for hiding the
+wiring. Sometimes, it just isn’t possible to hide all of the
+wiring, and you have to take other measures to cover it
+for a pleasing appearance. In these cases, make up U-
+sectioned coving from pieces of wood and install it over
+the wires with screws so that you can remove the
+coving easily. You can use more exotic contrasting
+woods to make the coving, adding beauty to the
+interior with little extra weight.
+In a wood boat, you can easily attach wiring to any part
+of the interior using various types of commercial staples
+or available wire mounts. Wood is also a natural
+insulator, and the wiring does not have to be shielded
+from the possibility of shorting out, as it does in steel
+and aluminum boats.
+There are many pitfalls in a marine electrical system,
+and we suggest that you familiarize yourself with at
+least one good book on the subject, especially if your
+electrical system is to be extensive. One excellent text is
+Boatowner’s Mechanical and Electrical Manual by Nigel
+Calder.
+In most boats, plumbing systems are rather basic and
+easy to install. We advise that you lay out your systems
+well beforehand to minimize the amount of piping
+needed. For example, install the water tank close to the
+sink and the holding tank next to the toilet. All
+through-hull fittings are potential dangers to your boat,
+and we recommend that you buy only the best fittings
+(with shutoff valves) and install them properly. Design
+your interior items around your plumbing require-
+ments. This is especially important with the engine if it
+is to be walled off or covered with an engine box. Allow
+room for the water intake, water exhaust, muffler
+system, fuel tanks, and feeder lines.
+Interior Final Finishing
+We have always been enthusiastic about natural wood
+finishes. Some people criticize wood interiors for being
+too dark and maintain that the only way they can be
+brightened is with the use of light-colored paint. For
+the most part, we feel that this objection can be
+overcome by using light-colored woods. Spruce,
+Okoume, and pine all finish light and are also beautiful
+in grain. Our general observation is that light woods
+occur in nature more commonly than do the darker
+woods. The widespread use of stains is also responsible
+for wood’s reputation as being dark.
+This is not to say that we are against using solid colors
+on interiors. The tasteful use of color in the right places
+can accentuate natural wood grain finish and, at the
+same time, help to brighten an interior. Finishing
+
+--- PAGE 347 ---
+Chapter 26 – Interior Construction
+333
+countertops and tables with a light-colored plastic
+laminate (easily bonded to wood with WEST SYSTEM
+epoxy) results in a durable, easily maintained working
+surface. Solid surface laminates like Wilsonart™ and
+Corian™ can also be glued to plywood with WEST
+SYSTEM epoxy.  Just be sure to abrade the bond side with
+80-grit sandpaper prior to gluing in place. 
+Painting the under-deck ceiling and bulkheads with
+light colors provides good light reflection. Choosing
+light-colored materials for cushions and curtains also
+brightens an interior.
+Generally, it is thought that a varnished natural surface
+requires a lot of extra time, but many professional
+builders believe that the naturally finished interior is
+more attractive for the same amount of work than the
+painted interior. A solid color, especially with high-gloss
+paint, will magnify imperfections in the surface. The
+same small imperfections in a varnished surface are
+camouflaged by the natural wood grain.
+As we have already discussed, with our method of
+construction, nowhere is prefinishing more important
+than on interior items. It’s the same old story: coating
+and sanding of intricate parts is much more efficiently
+done outside the boat at a comfortable bench rather
+than inside in cramped conditions. Not only are fewer
+labor hours needed, but a much better finishing job is
+possible.
+To install the individual interior parts, carefully
+machine, assemble, and hold them in position until all
+epoxy cures. Be careful to remove any excess epoxy
+from joints during assembly, while it is still liquid or
+semi-solid, to prevent a lot of difficult sanding and
+grinding later on. Fillets are normally installed during
+assembly. Try to make yours as neat and clean as
+possible, removing all excess material and smoothing
+fillets with a final pass of a filleting stick. If you haven’t
+had a lot of experience with fillets, practice on some
+corner joints to improve your craftsmanship. To modify
+fillet color to match the interior of the hull, experiment
+with combinations of low-density filler and 405
+Filleting Blend. You can further adjust fillet color by
+adding pigment or tempera paint to the epoxy.
+When the fillets are fully cured, sand them to remove
+shine and recoat with epoxy. At the same time, fill any
+staple holes or other depressions. A 406/epoxy mixture
+makes the best filler for small holes in a natural finish
+and can be toned for color by adding small amounts of
+sanding dust from the wood species you are attempting
+to match. The only caution is that this material is
+extremely hard and difficult to sand when cured, so
+carefully clean away all excess.
+When you have completed the interior and installed the
+trim, inspect all surfaces in preparation for varnishing
+or painting. Sand the coated fillets as well as any areas
+which you have filled or coated, such as staple holes,
+dings, or scratches. There may be areas in the interior
+where you would find it difficult to use precoated parts
+because of their unusual shapes. You will need to coat
+and sand these items when completed, using the
+standard coating sequence. The degree of fineness you
+choose in your interior sanding is a matter of taste.
+Professionally, for a varnish base, we go down to 220-grit
+paper when hand sanding (either wet or dry). With
+machine sanding, we use 150-grit paper (and sometimes
+even 120-grit paper). For solid colors to look good,
+especially high-gloss urethane, finer sanding may be
+needed.
+Figure 26-27 Prefinished interior on an IOR 1⁄2 ton racer.
+
+--- PAGE 348 ---
+334
+Later Production Steps
+When the interior preparation is completed, you will
+have the major job of cleaning up in preparation for the
+final finish coating. Begin this task by vacuuming all
+excess dust, dirt, and debris out of the interior. We use
+a small portable shop vacuum with standard attach-
+ments. Next, wipe down the entire interior, using soft,
+absorbent rags with a large pail of clean, warm water,
+rinsing the rag as you go. Make several trips around the
+interior surfaces, changing the water several times
+during the process. When the entire surface is as clean
+as possible, let it dry and then wipe it with solvent and
+plain white paper towels to remove any latent dust or
+contaminants which might remain on the surface. The
+final step is to wipe all surfaces with a tack rag.
+Painting and Varnishing Interiors
+The interiors of boats are much more difficult to
+varnish or paint than are the exteriors. The reason is
+very simple. There are many protruding items such as
+bulkheads, beams, and frames that you must paint
+around as well as furniture that may need coating in
+difficult areas and on several surfaces. Complicating the
+process are items which should not be painted, such as
+windows, prefinished countertops, and various
+hardware items. If you are an experienced and accurate
+painter, you can avoid these items. If not, we recom-
+mend that you cover and tape off these surfaces so that
+you do not inadvertently slop paint on them. (Note:
+From here on, we use the words “painting” and
+“varnishing” interchangeably.)
+Generally, we break up the painting job into two or
+more stages because the average interior requires more
+hours to paint than one or even two persons can expect
+to do at one time. For a 30' (9m) boat, it is not unrea-
+sonable to plan for 20 hours of interior painting—too
+much for even two people in one work session. Usually
+there are natural break points within the interior where
+you can start and finish a job without causing any
+unsightly overlaps. You can successfully paint the floor
+area, certain items of interior furniture, and the ceiling
+apart from the rest of the interior. Mentally surveying
+the job beforehand and trying to identify the amount of
+work you can do at one time is important. If you get
+tired from painting too long, the quality of your work
+will go down and all of the many hours of surface
+preparation will not pay off as they should. At all times
+during the painting, you will want to make yourself as
+comfortable as possible. This means proper ventilation,
+a reasonably cool temperature, and good lighting.
+We assume that you have designed a good lighting
+system to perform other interior work, but be aware
+that final painting requires “super” lighting to prevent
+missing areas and also to gauge the amount of coating
+you are applying in a given area. Too little coating
+material will cause dry spots that will not have as much
+gloss as the rest of the coating. Too much coating will
+develop runs. You need to check your coating applica-
+tion continually, and this demands enough light. One
+answer is the use of a portable lamp in conjunction
+with the general lighting system. You can carry the lamp
+with you to shine on the work immediately at hand.
+We use high-gloss varnishes and paints for interiors
+mainly because they reflect light and make it easier to
+light these areas. As we mentioned earlier, glossy finish
+paints show more defects than semi-gloss or dull
+paints. Dull paints have their own disadvantages: they
+are usually porous and difficult to clean, and they
+always seem to be unsightly. Glossy paints, by contrast,
+are easy to clean and, if protected from sunlight, will
+keep their gloss for many years and rarely need
+repainting. Because naturally finished interiors are
+generally protected from the sun, a high-quality spar
+varnish with an ultraviolet filter is unnecessary. Instead,
+Figure 26-28  A clean, well finished interior built with WEST
+SYSTEM epoxy.
+
+--- PAGE 349 ---
+Chapter 26 – Interior Construction
+335
+choose a varnish that is easy to apply and which dries
+to a high gloss.
+As we discussed in Chapter 15, experience with a
+specific product is perhaps the largest single factor in a
+successful paint job. If you have used one system many
+times, you will be able to predict its reactions to temp-
+erature and humidity. Always test a new product in an
+inconspicuous spot to be sure that it is compatible with
+the cured WEST SYSTEM epoxy surface. To gain experi-
+ence with any paint or varnish, begin by coating the
+forepeak, under bunks, and other inconspicuous areas.
+Sponge rollers deposit the right amount of coating faster
+and better than brushes, so use them for painting and
+varnishing whenever you can. Cut roller covers in half
+to reach nooks, crannies, and broken surface areas more
+easily. As you roll on a coat, go over the surface with a
+high-quality brush to smooth it and remove any air
+bubbles. It’s important to do this as soon as possible
+after rolling the paint on so that it will flow naturally
+and produce the smoothest surface. Use a brush to
+paint areas you cannot reach with the roller.
+Painting with a brush is a skill which must be learned.
+The object, of course, is to get the proper amount of
+coating onto the surface and smooth it out so that it
+will self-level and produce an even, fine-textured
+coating over all surfaces. This is most easily done on a
+flat surface. The inside and outside corners of stringers,
+frames, and other obstacles present coating problems
+which you must overcome. Corners become natural
+collection points for excess paint and are a major source
+of paint runs.
+A good brush is of primary importance. We advise
+investing in a good badger hair or fine bristle brush.
+There has been some success with foam brushes, and in
+some cases they appear superior in controlling coating
+thickness. However, they also seem to have a short life
+span, doing a good job at first but getting progressively
+worse as the foam begins to break down.
+It often seems impossible to control dust as you varnish,
+but you can take steps to minimize the problem. First,
+do everything you can to remove all dust and dirt from
+the interior before you begin varnishing. Do not let
+anyone else perform any operations that might create
+dust in the shop as you work. We go so far as to spray
+water on the floor around the boat. If the exterior of the
+boat is still dirty, cleaning the interior isn’t going to help
+much—if you sit down on the dusty exterior, the back
+of your pants will be contaminated and you’ll carry dust
+down into the interior. This will also happen with shoes
+and anything else that becomes contaminated before
+going into the interior.
+Just before coating an area, give it a final wipe with the
+tack rag. Keep the rag in your shirt pocket at all times.
+As you paint, you may discover contaminated spots.
+Stop and remove them before varnishing because
+contamination will both spoil the paint or varnish in its
+immediate area and affect the brush and coating
+material. Enough dust and dirt will give your finish a
+“non-skid” effect.
+Time is important when you apply varnish. After rolling
+it on, you may have a very short period in which to
+play with a coating before it loses its solvents and starts
+to dry. Drying times vary, as do application conditions.
+In hot weather some paints will only give you a few
+minutes for corrections; others will provide 15 to 20
+minutes of grace for touch-ups. Since it will give you
+more time in which to fill in places you’ve missed and
+to fix runs, we advise varnishing in cooler temperatures
+and the use of slower-drying coatings.
+In all cases, we recommend following the coating
+manufacturer’s instructions. If you are in doubt as to
+whether a given coating will work over an epoxy base,
+test the coating on an epoxy-coated piece of scrap
+lumber or in an inconspicuous area of the boat.
+
+--- PAGE 350 ---
+336
+Later Production Steps
+
+--- PAGE 351 ---
+When Gougeon Brothers on Boat Construction was first published in 1979, the information concerning
+deck framing and construction reflected the basics of traditional deck construction but also introduced
+revolutionary procedures for light weight, high-strength deck structures. These new procedures for
+constructing deck framework and using plywood instead of planking as a decking material have proved to
+be highly successful both in meeting the structural demands of high-performance racing sailboats and in
+long-term use.
+We have changed some recommendations for applying teak veneer decks in this edition. Using plywood
+for the major deck thickness to save weight and cost and then adding a teak veneer has produced excel-
+lent results. However, in earlier editions, we recommended using 1⁄8"-thick (3mm) teak set in epoxy and
+stapled in place until the epoxy cured hard. The staples were left in place until the final sanding, which
+ground away the crown of the staple but left the legs buried in the teak.  With repeated wetting and drying
+cycles, the staple legs worked up and extended above the deck. To eliminate this problem, we began
+using temporary screws in the seams instead of staples. This has worked well and is the procedure
+described here. Once the screws are removed, the deck has no fasteners to work loose or to cause leaks. 
+We also now feel that thicker teak veneers can be used—up to 1⁄4" (6mm)—to provide a longer service life.
+This edition also recommends using 404 High-Density Filler to thicken the epoxy used to fill the seams
+when applying teak veneer. This filler does not trap many air bubbles, resulting in a seam that has very few
+pinholes or air bubbles exposed after sanding.
+The earliest seagoing boats were built without decks,
+and as late as the thirteenth century, the Vikings were
+plying the seas in their open longboats with crew and
+cargo exposed to the elements. During this period,
+however, the deck started to become a common
+addition to oceangoing vessels and for very good
+reasons. The use of the deck improves the vessel in
+three areas:
+1. Decks keep water out of the hull, making it more
+seaworthy and protecting its contents and crew from
+the ravages of the weather. A canvas cover might
+serve to keep out rainwater, but it would never be
+adequate if the boat were boarded by huge seas. In
+certain types of boats, the deck must be as strong as
+the hull in order to withstand the surge of thousands
+of gallons of water pouring on to it at one time.
+2. Decks provide a working platform for carrying out
+operations of the vessel. Deck design and layout can
+be crucial to crew safety and efficiency when handling
+the vessel, especially under adverse conditions.
+3. Decks improve the structural integrity of the boat. 
+A hull with no deck is usually very wobbly because
+there is nothing to support the upper sheer areas.
+The same hull with a deck installed becomes an
+amazingly rigid structure with great resistance to
+twisting or torsional loads.
+The deck can also serve other structural functions.
+Modern masthead rigs rely on a taut forestay to allow a
+good set on their large foresails. To maintain a taut
+forestay, a great deal of pre-tensioning must be done on
+either the backstay or forestay. This generates forces
+that tend to bend the boat in an arc, causing the ends
+to raise up toward the mast. A properly engineered and
+constructed deck system can resist the high compres-
+sion loads and thus prevent most of this hull
+deformation.
+The deck must also be capable of withstanding high
+point loading wherever it occurs. Winches, cleats, and
+other deck hardware can generate enormous strains
+which the deck must be capable of bearing.
+Deck Construction
+C H A P T E R
+27
+
+--- PAGE 352 ---
+Preparing the Hull for Deck Installation
+Before work begins on the deck, make sure that all
+items that you can practically install in the interior are
+completed. This includes the engine, tanks, plumbing,
+some electrical fittings, and any interior furniture items.
+Once you have installed the deck, interior work will be
+more difficult because of the restricted access and lack
+of good lighting.
+Take measures to protect these installed interior items
+from general physical abuse that might occur during
+deck construction. Cover areas that could suffer from
+dripping adhesive by taping polyethylene film in place.
+Cover areas that could be walked or stepped on with
+cardboard cut to size. Tape it down to hold it in position.
+The first stage of preparing the hull for the deck is to
+plane the sheer close to its final desired dimension. We
+assume that you have marked your sheer line carefully,
+but, in many cases, the sheer measurements may be
+replaced by the sheer clamp itself, the actual measure-
+ments having been obliterated in the process. If the
+sheer line you developed in the lofting and later in the
+set-up was fair, you probably will have little trouble
+final fairing the sheer to a high degree of exactness
+using the installed sheer clamp itself as the only guide.
+Because the sheer line is such a prominent dimension,
+defining the hull and deck intersection, it is more
+noticeable than any other dimension of the boat. If it is
+wavy or humpy, it can easily destroy the looks of an
+otherwise beautiful boat. Make every effort to get this
+critical part of the boat as fair as possible.
+Fairing the Sheer
+As you are planing the sheer line, you will want to
+begin developing the proper bevel on the sheer clamp
+for intersecting the deck. You can determine the angle
+at which the deck meets with the sheer clamp at each
+station from the lofting, but it is not really critical to
+achieve the exact bevel at this stage. Get the bevel
+reasonably close, leaving it a little on the high side.
+Later, when the deck profile is better defined with some
+of the deck framework installed, you can easily final fair
+and bevel the sheer clamp angle. It is important at this
+early stage, however, that you accurately determine the
+final sheer line because it is the main reference point for
+measuring. All future deck measurements used for
+installing the deck framing, cockpits, and cabins are
+taken from the sheer line.
+From the side view, sheers are usually relatively straight
+lines. Even a heavily curved sheer is not likely to curve
+more than a foot over the entire length of the boat. For
+this reason, a hand plane with an exceptionally long
+bed or sole makes the job of fairing the sheer line a lot
+easier. The long bed of the plane quickly detects humps
+and hollows over a reasonably long range. There is,
+however, a limit to what any plane can do. You must
+still determine the overall longitudinal fairness of the
+sheer by eye. Sheer line fairness is easiest to sight on
+narrow hulls where there is minimum top view curve in
+the sheer profile. Wide hulls present the biggest problem
+because there is no way to sight down the sheer and see
+all of it in the same sighting. The only way to view all
+of the sheer is to step back until you can see the whole
+hull from the side, but from this angle a slight variation
+is difficult to detect. Usually, the side view, together
+with careful observations of portions of the sheer from
+both directions (looking at the same section of the
+sheer from the bow view and then the transom view),
+will begin to give you indications of overall fairness.
+Visually compare a section of sheer on one side with
+that same section on the other side. If one side doesn’t
+look quite as good as the other, try to find out why.
+You can use other guides to help with your inspection
+of the sheer line. Position a fairly thick batten along the
+top of the sheer to see whether it lies fair with the sheer
+line. If the batten detects a hollow in the same area that
+your eye does, your visual opinion is reinforced, and
+you’ll feel a lot better about planing the high spots on
+either side. Sometimes we cover the planed surface
+with blue carpenter’s chalk to aid the sighting process.
+This marking helps the eye to define the actual sheer
+point, allowing you to measure it more accurately.
+Planing down the sheers of most boats will probably be
+the largest single planing job in the whole project. A
+large boat may have a sheer clamp that is 2" (50mm)
+thick bonded to a hull of perhaps 1" (25mm), for a
+total thickness of 3" (75mm). Planing 3" of stock
+around the entire outer perimeter of a hull can be a
+laborious undertaking. We have saved many hours of
+labor by using a power plane to rough plane the sheer
+down to the point where you need hand planes only
+for final fairing. This power plane has a long bed,
+338
+Later Production Steps
+
+--- PAGE 353 ---
+which allows you to develop and maintain overall
+fairness as you are approaching the final sheer line
+measurement markings.
+Once you have established the sheer line, you can
+further define the deck by shaping all of the bulkhead
+tops to the exact profile. You may have preshaped the
+bulkhead deck profiles from the lofting before you
+installed them in the set-up. In this case, they only need
+to be final faired with the sheer and other bulkheads.
+With some boats, especially those with plywood web
+frames, it is practical to make the deck beams a unitized
+part of the frame before installing the frame in the set-
+up. Then, after you turn the hull upright, you need
+only to final fair the precut deck beams before installing
+further framework such as longitudinal stringers. (See
+Figure 27-1 and 27-2.)
+Developing Deck Camber
+All decks are curved, or have camber, so that rain or
+boarding seas will easily run off. Usually, this camber is
+given in the plans as so many inches of height for the
+widest deck beam. Using only these two dimensions,
+we usually make up a deck tram to lay out the deck
+curvature mechanically for the largest deck beam and
+then each succeeding smaller beam. Figure 27-3 shows
+this process in detail.
+Chapter 27 – Deck Construction
+339
+Figure 27-1  Web frames and deck beams in a set-up.
+Figure 27-2  The same deck beams with stringers in place,
+ready for decking.
+Figure 27-3  Laying out deck camber with a tram. Lay out the
+length of the largest deck beam (points A and B) on the lofting
+board or other suitable surface, such as a sheet of plywood.
+Draw a baseline between the two points for reference.
+Measured up from center of this baseline, mark the maximum
+deck height (point C). Typically this is 3" to 6" (75mm to
+150mm) on a 10' (3m) wide boat. Drive a nail into the board
+at Points A and B. Make two straight-edged battens, each at
+least 12" (300mm) longer than the widest deck beam. Lay the
+battens on the layout with their ends meeting at Point C and
+their middles resting against the nails at Points A and B. Join
+the two battens at the center with a plywood gusset, leaving a
+small gap at the apex for use as a pencil guide. Holding a
+pencil in the gap, slide the tram from side to side against the
+nails drawing an arc the full width of the beam. As the beam
+widths (nail spacing) get smaller, the tram will always draw
+arcs in exact proportion to each other.
+Point C represents the lofted
+or projected deck centerline
+The battens should be long
+enough that each batten
+will reach from A to B
+Hold both battens tight
+against the nails at A and B
+Pencil
+
+--- PAGE 354 ---
+When you have to lay out only a few deck cambers,
+such as the bulkheads, you can lay out the camber
+geometrically. This procedure is explained in Figure 27-4.
+On narrow hulls, typical of multihull craft, you can
+shape all deck beams from a master pattern; all deck
+beams, no matter what their width, will simply be
+pieces of this one master arc. It is usual to use the
+geometric method to lay out the master pattern for the
+deck camber desired at the widest deck beam. Mark the
+master pattern with a centerline dividing the maximum
+deck width into two parts. Then match up this center
+with the intended centerline of any smaller beams,
+which you can then lay out.
+Some deck designs might have unusual shapes that will
+require full lofting to develop. This lofting usually does
+not have to be as extensive as that done on a hull
+because the curves will not be as complex. Also, the
+dimensional accuracy will not be so critical. (This is not
+to imply that it will not end up being as fair as the
+hull.) Good examples of some modern designs that
+need lofting are those that incorporate a “blister” in the
+middle of the deck that acts as a cabin-type device to
+give headroom down below.
+Deck Framework
+The deck surface represents a substantial portion of the
+entire surface area of a hull. Because the deck is always
+the highest part of the hull, its weight is of major
+concern in trying to keep the center of gravity of the
+overall structure as low as possible to improve the
+seaworthiness and speed potential of the vessel. Usually,
+trimming weight in the deck pays better dividends than
+trying to trim it in the hull itself. You should do every-
+thing that you can to make an adequately strong deck
+at the least amount of weight within the proper safety
+margin.
+Decks are relatively flat surfaces, especially when
+compared to the compound curved surfaces of a hull.
+With flat surfaces, the extensive use of a supporting
+framework is one of the best methods of giving strength
+and stiffness. For custom and even semi-custom boats,
+the framework-supported deck is one of the most
+efficient and quickest methods of installing a deck
+system. This supportive framework can take many
+forms, depending on the type of boat and other
+variables such as the cabin and cockpit layout. We use
+two basic framework concepts and modify each of these
+to fit the individual situation. The first method is rather
+traditional, using large athwartship deck beams to
+pr

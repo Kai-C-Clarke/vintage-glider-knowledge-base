@@ -1,0 +1,188 @@
+# 4. METAL REPAIRS
+
+'J'HE metal parts of most gliders are, in 
+general, much better replaced, if worn or 
+damaged, rather than repaired. There are 
+a few exceptions to this rule but not many. 
+For instance, skid shoes wear out fairly 
+rapidly if gliders are operated on hard 
+surfaces, and it is quite a simple matter to 
+cut off the worn part of a mild steel main 
+skid shoe and weld on a new piece of sheet 
+steel. Tailskid shoes also can be repaired 
+in this way, though in this case a thin plate 
+of cast iron welded on to the sole of the 
+tailskid shoe, and then quenched to leave it 
+glass hard, seems to stand up to hard work 
+better than anything. However, apart from 
+trivial things like these, no welding must be 
+done on any aircraft structure except by an 
+A.R.B. approved welder. This is an absolute 
+hard-and-fast rule, and you break it literally 
+at your peril.
+If metal parts of a glider become distorted 
+or worn, replace them. The only real excuse 
+for repairing or reconditioning them is 
+when the parts are difficult to obtain, as may 
+be the case when the glider is a "one off" job.
+One instance of this is when the wing/ 
+fuselage pins become worn. 
+The easiest 
+method of dealing with this is to replace the 
+wing and fuselage fittings and to fit new 
+pins. If you cannot get them you must think 
+again. You may be able to ream the holes 
+oversize and fit oversize pins, but you must 
+not do this until you have received the 
+manufacturer's approval. The new pins will 
+have to be made, not only of Approved 
+steel, but of the actual specification called 
+for on the drawings. The snag with this 
+system is that the components are then 
+non-standard, and, while this does not 
+matter on a "one off" glider, it's a darned 
+nuisance on a popular type of machine, 
+since its parts will not fit any other machine 
+of the same type and vice versa.
+Metal fittings must be inspected frequently 
+for any signs of corrosion or damage. It is 
+often not realised that even a light scratch 
+can be the starting point of a fatigue crack; 
+so keep fittings clean and painted, and do 
+not scribe things on them. In this connection 
+the writer has seen a Sky sailplane whose 
+owner, misguidedly, had scored a line across 
+the top spar joint fittings to assist him in 
+rigging. Why he could not have painted a 
+line on these fittings was not explained. The
+latter plan would have been quite useful, 
+but the scored line across this heavily stress- 
+ed fitting is simply asking for fatigue trouble. 
+Fatigue in metal is a most deadly thing. 
+Fortunately in our gliders we find very little 
+High Tensile Steel used. Nearly all fittings, 
+bolts, etc., are made of Mild Steel (although 
+it is an aircraft specification mild steel), and 
+its behaviour under repeated loading, such 
+as would produce fatigue failure, is perfectly 
+predictable, unlike some light alloys. This 
+means that there is no danger whatever 
+from fatigue so long as the fittings are in 
+good condition. If, however, the fittings are 
+allowed to become corroded or scratched, 
+there will be concentrations of stress at the 
+weakened points, and this will cause cracks 
+to grow from them. For the same reason, if 
+a fitting is overstrained it must be replaced. 
+Release hooks, in this country at any 
+rate, are almost all of the Ottfur type. This 
+type is a safety hook, in that it will throw 
+out the cable ring if the cable pull exceeds 
+a certain angle, as will happen if a pilot 
+forgets to pull the release at the top of a 
+winch launch. It is most strongly recom- 
+mended that no other type of quick-release 
+hook be used, and also that only approved 
+winch rings be used on launching cables. 
+The practice of making up rings locally 
+from any old mild steel bar is a very 
+dangerous one; the rings may distort under 
+load, and it is possible for a distorted ring 
+to jam in the release. An approved winch 
+ring cannot possibly jam, and it is not an 
+expensive item. Nose hooks, intended for 
+aero-towing, on some gliders, are locked by 
+a pin or bolt. This prevents the release hook 
+from "back releasing" and is intended to 
+safe-guard against an accidental release 
+occurring when the tow cable surges and 
+develops an undue amount of slack. This 
+might be awkward if you were over the 
+middle of the Channel at the time! These 
+nose hooks must not be used for winch 
+or auto-tow launching unless the locking 
+pin, or bolt, is first removed.
+These Ottfur release hooks are made in 
+several forms, differing mainly in the 
+position, and direction of pull, of the 
+opening lever. Apart from replacing broken 
+springs, etc., it is a waste of time and effort 
+trying to repair or recondition them. Messrs. 
+Ottley Motors Ltd., the manufacturers, run 
+13-
+
+--- PAGE 21 ---
+a service for rebuilding these hooks, and the 
+charge is so small and the service so quick 
+that it is far and away the simplest and 
+cheapest way of overhauling them. Your 
+hook comes back to you as new, repainted 
+and proof tested, and with a Release note 
+certifying it O.K.
+These release hooks work on what is 
+known as the "Over Centre Mechanism" or 
+"Toggle Joint". 
+This is much better 
+understood with the aid of a diagram. Fig. 
+10 shows the basic works of a release hook. 
+The "back-releasing" action is not shown 
+since that is obvious immediately on 
+examination of an actual hook.
+In the figure the release is shown locked 
+(upper drawing) and open (below). In the 
+upper sketch it will be obvious that no 
+pull, however heavy, on the jaw of the hook 
+can open it, since the pivots of the links are 
+slightly over the straight-line position AB 
+(hence the name "Over Centre Mechanism"). 
+The links are merely forced against the stop. 
+At the same time quite a small force P, 
+applied at the opening lever, is enough to 
+lift the links off the stop, and once they pass 
+the straight-line position the release will fly 
+open into the position shown in the lower 
+drawing. A little thought will show that 
+the position in which the links come to rest 
+in the locked position is rather critical. A 
+small alteration here has a very large effect 
+on the pull necessary to operate the release 
+when under load. Wear in the pivots affects 
+the locked position and should be guarded 
+against by proper cleaning and lubrication 
+of the innards of the release. 
+A worn 
+release usually requires more pull to open 
+it under load.
+To check a release for wear, put a finger 
+on the jaw of the hook and try to waggle it 
+to and fro in the opening and closing direc- 
+tion. This will give you a good idea of the 
+amount of slack in the link pivots. Then 
+waggle it from side to side. This shows up
+Stop
+CABLE
+OPEN
+Fig. 10
+any wear in the hook pivot. If in doubt, 
+compare the amount of slack with that in a 
+new or reconditioned release. See that the 
+mainspring round the hook pivot inside the 
+frame, and the back-releasing spring on the 
+outside of the frame, are unbroken and have 
+not become weakened. The mainsprings 
+particularly are liable to weakening after 
+long service, or they may break off one 
+"leg". This can usually be detected by the 
+flappy feel of the mechanism when it is 
+operated without a winch cable in the jaw 
+of the hook. 
+The cure is, of course, to 
+replace the mainspring. The other pivots 
+and bolts should be examined for wear and 
+security, but you are unlikely to run into 
+much trouble here if the hook pivot is O.K. 
+The hook pivot, and the link pivots, are 
+the spots where wear always shows up first.
+-14-
+
+--- PAGE 22 ---

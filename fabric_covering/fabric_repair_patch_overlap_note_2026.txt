@@ -1,0 +1,71 @@
+# Fabric Repair Patch Overlap — Supplementary Note
+## Compiled June 2026 | Sources: Ceconite Manual 101; BGA inspector practice (Jack)
+
+---
+
+## Ceconite Manual 101 — Appendix E Minimum Requirements
+
+The Ceconite Manual 101 (June 2008 revision) states the following minimum overlaps
+for repair patches:
+
+- **Hole 8 inches or less:** minimum 1 inch overlap of patch over old fabric on all sides.
+  Finishing tapes not required unless patch is on top of a wing.
+
+- **Hole 8 inches or more:** minimum 2 inch overlap of patch over old fabric on all sides.
+  Minimum 2 inch finishing tape centred over all seams required.
+
+Cement: New Super Seam only (required under the Ceconite STC).
+
+Iron temperatures:
+- 225°F — heat-smooth cemented areas
+- 250°F — heat-shrink patch over hole
+- Do NOT exceed 250°F over cemented areas (risk of bond release)
+
+---
+
+## BGA Inspector Practice — Overlap for Unsupported Fabric
+
+The Ceconite manual minimums apply to supported structure (fabric over ribs, over tubing).
+For **unsupported fabric** — that is, fabric spanning between ribs with no structure
+beneath the repair area — BGA inspector practice calls for greater overlap:
+
+- **Supported structure** (fabric over rib, longeron, tube): 2 inch overlap minimum
+- **Unsupported structure** (inter-rib span, open bay): 3 inch overlap minimum
+
+This exceeds the Ceconite manual minimum and reflects the reduced backing available
+to hold the cement bond in an unsupported panel. It is sound conservative practice
+and should be applied on vintage glider fabric repairs.
+
+**Source:** Oral tradition, BGA inspector community.
+
+---
+
+## Practical Repair Sequence — Inter-Rib Panel (Unsupported)
+
+1. Trim ragged edges from damage — cut back to sound fabric
+2. Clean all coatings from repair area down to bare fabric using butyrate thinner
+   **WARNING: Never use paint stripper on Ceconite — releases seams and leaves paraffin**
+3. Cut patch with pinking shears — square or rectangular
+   Allow minimum 3 inch overlap onto sound fabric on all sides (unsupported span)
+4. Pre-coat substrate with New Super Seam cement; allow to tack
+5. Cement patch into place; work through with fingertips
+6. Heat-smooth with 225°F iron
+7. Heat-shrink with 250°F iron — this re-tightens the fabric in the repair area
+8. Apply Rand-O-Proof (or non-tautening nitrate dope equivalent)
+9. Apply finishing tape minimum 2 inch width centred over all seams
+10. Rebuild dope system: nitrate → butyrate → butyrate aluminium → topcoat
+11. Topcoat — cellulose or 2K as per airframe scheme
+    Spray rib-to-rib for best colour match (Ceconite Appendix E recommendation)
+
+---
+
+## Form 205 Wording
+
+> "Fabric repair to [component] in accordance with Ceconite Manual 101 Appendix E.
+> Patch overlap 3 inches (unsupported structure). New Super Seam cement.
+> Finished nitrate/butyrate/butyrate aluminium/[topcoat system]."
+
+---
+*Ceconite minimums from Manual 101, June 2008 revision, Appendix E pp.89-90.*
+*3 inch unsupported overlap from BGA inspector practice.*
+*This note does not constitute approved maintenance data.*

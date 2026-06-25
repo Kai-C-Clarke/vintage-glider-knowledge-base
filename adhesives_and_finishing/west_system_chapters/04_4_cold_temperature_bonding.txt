@@ -1,0 +1,165 @@
+# 4.	 COLD TEMPERATURE BONDING
+
+Epoxy can be used under cold weather conditions, but special application techniques 
+should be employed to achieve acceptable long-term epoxy performance.  These 
+precautions are not elaborate or difficult and do not apply to WEST SYSTEM 
+epoxy alone - any epoxy used at low temperatures may have its capabilities and 
+performance affected which could promote significant problems if the epoxy is used 
+in critical marine structural situations.  In fact, due to differences in formulation, not 
+all epoxies possess the necessary characteristics to perform well when used under 
+cold weather conditions.  The precautions are not elaborate or difficult.
+4.1 Chemical characteristics
+When an epoxy resin and hardener are mixed together, a chemical reaction is 
+started which produces heat - an “exothermic reaction”.  The ambient temperature 
+in which an epoxy chemical reaction takes place affects the rate or speed of this 
+reaction.  Warmer temperatures accelerate, while cooler temperatures retard the 
+reaction time.
+If the reaction is too slow, even though the epoxy may harden, it may not cure 
+completely and possibly never achieve its designed physical properties.  This 
+is where danger lies, for improperly cured epoxy may possess enough strength 
+to hold a structure together, yet may fail after repeated loadings during normal 
+operation.
+4.2 Working properties
+Temperature has a profound effect on the working properties of uncured epoxy.  
+Ambient temperature changes will dramatically change the viscosity (thickness) of 
+the epoxy.  When cold, the viscosity of water varies little with temperature changes 
+until it freezes but temperature can have an effect that is 10 times greater on epoxy 
+molecules than on water molecules over a temperature change of 15°C.  Because 
+of this, the colder it is, the thicker the epoxy becomes, significantly reducing its flow 
+properties.  This change has three important consequences for working with epoxy 
+under cold conditions.  
+a.)	
+It is more difficult to mix the resin and hardener thoroughly.  The resin flows 
+through the dispensing pumps and out of containers with much greater difficulty 
+and both resin and hardener are prone to clinging to the surfaces of the pumps, 
+containers and mixing tools.  Remember, because of the low temperature, the 
+chemical reaction is much slower and compounding a less efficient exothermic 
+reaction with the potential for incomplete and/or inaccurate mixing, is a recipe for a 
+permanently deficient bond.
+b.)	
+The mixed epoxy is much harder to apply because the viscosity is similar to 
+cold honey and is extremely difficult to coat and wet out surfaces.  
+c.)	
+Air bubbles may be introduced when mixing and remain in suspension 
+due to the increased surface tension of the cold epoxy.  This can be especially 
+troublesome in clear-finish applications and osmosis repair work.
+
+--- PAGE 34 ---
+User Manual 32
+WEST SYSTEM User Manual
+4.3 Cold weather techniques
+Having explained that cold weather epoxy usage is both difficult and potentially 
+dangerous, with a little advance planning and taking certain simple precautions, 
+the problems detailed above can be addressed and their consequences avoided.  
+The following six basic cold weather rules have been used for over 25 years and 
+we have yet to experience a cold weather curing problem with WEST SYSTEM 
+epoxy.
+1. Use WEST SYSTEM 205 Fast Hardener.
+WEST SYSTEM 205 Hardener has been designed with a chemically-activated 
+polyamine system which exhibits a good cure at temperatures as low as 5°C.  It 
+exhibits a fast cure characteristic and offers less uncured exposure time thereby 
+reducing the chances of incomplete cure due to cold temperatures.
+2. Dispense resin and hardener in the proper mixing 
+ratio.
+All epoxies are formulated to a specific mix ratio of resin to hardener.  It is important 
+to mix epoxy in the precise ratio recommended by the manufacturer.  Increasing 
+the amount of hardener will not accelerate cure but it will seriously compromise 
+the ultimate strength of the cured epoxy.  NOTE:  WEST SYSTEM Mini Pumps are 
+designed and calibrated to dispense the correct ratio with one pump stroke of resin 
+for every one pump stroke of hardener.
+3. Warm resin and hardener before using.
+As discussed above, the warmer the resin and hardener, the lower the viscosity.  
+Thinner (lower viscosity) resin and hardener will flow through dispensing pumps 
+better, cling less to containers and mixing equipment and exhibit superior handling 
+and wet-out characteristics.
+The two epoxy components can be warmed using heat lamps or kept in a warm area 
+until they are needed.  Another simple method of warming the resin and hardener 
+is to construct a small hot box out of rigid sheets of foil-backed insulation.  Place 
+a regular light bulb or an electric heating pad inside to maintain a temperature no 
+greater than 30°C.
+4. Stir the resin and hardener thoroughly.
+Use extra care when mixing the resin and hardener and mix for a longer period 
+of time than normal.  Scrape the sides and bottom of the mixing container using 
+a mixing stick to reach the edges.  Using a smaller diameter mixing pot will also 
+improve the chemical activity because the limited surface area will contain the heat 
+produced by the reaction.
+5. Warm working surfaces.
+Applying warmed epoxy to a cold structure will quickly retard the molecular bonding 
+activity of the epoxy.  Ensure the structure and the surrounding area is brought up 
+to temperature.  A hull, for example, which is colder than the surrounding air may 
+
+--- PAGE 35 ---
+User Manual 33
+WEST SYSTEM User Manual
+exhibit condensation and this moisture could contaminate the epoxy when it is 
+applied.  Warm the structure as much as possible.  This can be done by constructing 
+tents around small areas and heating with portable heaters or warming the area 
+with hot air guns or heat lamps.  Small components or materials e.g. glass cloth, 
+can be warmed before use in a hot box as described in Paragraph 3 above.
+6. Prepare surfaces carefully between applications.
+When coating under cold conditions, a thin film of epoxy does not generate much 
+heat.  The rate or speed of cure is therefore extended and some reaction with 
+moisture in the atmosphere may occur, resulting in the formation of an amine blush 
+on the cured surface.  Immediately prior to applying subsequent coatings, wash the 
+surface with clean water, allow it to dry thoroughly and sand.
+4.4 Cold weather storage
+WEST SYSTEM materials should be stored above 10°C with the container caps 
+screwed down tightly.  Storing epoxy resin in extreme cold may cause crystallization 
+but the formation of crystals does not compromise the resin and the situation can 
+be remedied.  Heat water in a pot large enough to hold the epoxy resin container.  
+Remove the lid of the resin container to avoid pressure build-up and place the 
+container in the hot water.  Be careful to ensure no water enters the resin container.  
+Stir the epoxy with a clean stick until the liquid regains clarity and all crystals have 
+melted.  Remove from the water, replace the lid tightly and invert the container to 
+melt any crystals which may be clinging to the top of the container.  If the resin 
+pump has crystallized, pumping warm resin through should dissolve the crystals.
+To keep WEST SYSTEM epoxy at a constant temperature construct a HOT BOX, 
+as shown below.
+30cm
+60cm
+30cm
+Box constructed using 
+6mm plywood and WEST 
+SYSTEM 
+epoxy/filler 
+mixed to peanut butter 
+consistency to create 
+fillet joints.
+Wooden blocks for feet to 
+keep WEST SYSTEM epoxy 
+off a cold floor and to make 
+lifting easier.
+40W 
+light 
+bulb 
+to 
+maintain 
+a 
+temperature 
+of 
+around 15 - 20°C.
+Magnetic catches 
+to 
+keep 
+the 
+door secure and 
+maintain heat.
+Dimensions:
+Note:
+This 
+box 
+is 
+designed to warm 
+a WEST SYSTEM 
+epoxy 
+‘B’ 
+Pack. 
+The 
+dimensions 
+should be altered 
+accordingly for use 
+with ‘C’ Pack sizes.
+
+--- PAGE 36 ---
+User Manual 34
+WEST SYSTEM User Manual

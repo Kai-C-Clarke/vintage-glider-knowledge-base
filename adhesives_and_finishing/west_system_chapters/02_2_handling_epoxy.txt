@@ -1,0 +1,346 @@
+# 2.	 HANDLING EPOXY
+
+This section explains the fundamentals of epoxy safety, curing and the steps for 
+proper dispensing, mixing and adding fillers to ensure that every batch cures to a 
+high strength solid.
+2.1 Epoxy Safety
+Epoxies are safe when handled properly but it is essential to understand the 
+hazards and take precautions to avoid them. 
+Hazards
+The primary hazard associated with epoxy involves skin contact.  WEST SYSTEM 
+Resin may cause moderate skin irritation;  WEST SYSTEM Hardeners may cause 
+severe skin irritation.  Resins and hardeners are also sensitisers and may cause an 
+allergic reaction but, from our experience, most people are not sensitive to WEST 
+SYSTEM Resin and Hardeners.  These hazards decrease as resin/hardener mixes 
+reach full cure but it is important to appreciate that the hazards also apply to the 
+sanding dust from partially cured epoxy.  Please refer to the Material Safety Data 
+Sheets (MSDS) for specific product warnings and safety information.
+Precautions
+1.	
+Avoid contact with resin, hardeners, mixed epoxy and sanding dust.  Wear 
+protective gloves and clothing when handling WEST SYSTEM materials.  WEST 
+SYSTEM 831 Barrier Cream provides additional protection for sensitive skin and 
+allergies.  DO NOT use solvents to remove epoxy from the skin.  Immediately after 
+skin contact with resin, hardeners, sanding dust from epoxy and/or solvents, use 
+WEST SYSTEM 820 Resin Removing Cream for the initial clean-up, followed by a 
+wash with soap and warm water.
+If a skin rash develops while working with epoxy, stop using the product until 
+the rash completely disappears.  If problems persist when work is resumed, 
+discontinue use and consult a doctor.
+2.	
+Protect your eyes from contact with resin, hardeners, mixed epoxy, and 
+sanding dust by wearing appropriate eye protection.  If contact occurs, immediately 
+flush the eyes with water for 15 minutes.  If discomfort persists, seek medical 
+attention.
+3.	
+Avoid breathing concentrated vapours and sanding dust.  WEST SYSTEM 
+epoxy vapours can build up in unvented spaces and ample ventilation must be 
+provided when working with epoxy in confined areas such as boat interiors.  When 
+adequate ventilation is not possible, wear an approved respirator.
+
+--- PAGE 6 ---
+User Manual 4
+WEST SYSTEM User Manual
+4.	
+Avoid ingestion.  Wash thoroughly after handling epoxy, especially before 
+eating.  If epoxy is swallowed, drink large quantities of water - DO NOT induce 
+vomiting.  Call a doctor immediately.  Refer to First Aid procedures on the Material 
+Safety Data Sheet.
+5.	
+KEEP RESINS, HARDENERS, FILLERS AND SOLVENTS OUT OF THE 
+REACH OF CHILDREN.
+For additional safety information or data, write to: EPOXY SAFETY, Wessex Resins 
+& Adhesives Ltd., Cupernham House, Cupernham Lane, Romsey, Hampshire 
+SO51 7LF
+2.2 Clean Up
+Contain spills with sand, clay or other inert absorbent materials and use a scraper 
+to collect as much material as possible.  Follow up with absorbent towels.
+DO NOT use either sawdust or other fine cellulose materials to absorb hardeners 
+and/or dispose of hardener in waste containing sawdust or other fine cellulose 
+materials—spontaneous combustion may occur.
+Clean resin, or mixed epoxy residue or uncured epoxy with WEST SYSTEM 850 
+Cleaning Solvent.  Clean hardener residue with warm soapy water. 
+Dispose of resin, hardener and empty containers safely in accord with local 
+disposal regulations.
+DO NOT dispose of resin or hardener in a liquid state.  Waste resin and hardener 
+should be mixed and cured (in small quantities) to a non-hazardous inert solid.
+CAUTION!  Large volumes of curing epoxy can become hot enough to 
+ignite surrounding combustible materials and produce hazardous fumes. 
+Place containers of mixed epoxy in a safe and ventilated area away from 
+workers and combustible materials.  Dispose of the solid mass when the cure is 
+complete and the mass has cooled.  Comply with the local disposal regulations 
+2.3 Epoxy Chemistry
+Understanding cure time
+• Cure time is shorter when the 	
+	
+epoxy is warmer.
+• Cure time is longer when the 	
+	
+epoxy is cooler.
+Figure 1  As it cures, 
+mixed epoxy passes 
+from a liquid state, 
+through a gel state, to 
+a solid state.
+
+--- PAGE 7 ---
+User Manual 5
+WEST SYSTEM User Manual
+Open time and cure time determine the build and repair operations.  Open time 
+dictates the time available for mixing, application, smoothing, shaping, assembly 
+and clamping.  Cure time dictates the time before removing clamps, abrading or 
+proceeding to the next step in the project.  Three factors determine the open time 
+and cure time of an epoxy mix – hardener cure speed, epoxy temperature and 
+volume of mix.
+a) Hardener speed
+Each hardener has an ideal temperature cure range.  At any given temperature 
+each resin/hardener combination will go through the same cure stages but at 
+different rates.  Select the hardener that gives adequate working time for the job in 
+hand at the temperature and conditions under which the work is to be completed.  
+The Product Guide describes hardener pot lives and cure times.
+Pot life is a term used to compare the cure speeds of different hardeners.  It is the 
+period of time a specific mass of mixed resin and hardener remains a liquid at a 
+particular temperature e.g. a 100g mass of an epoxy mix in a standard container at 
+25°C is a routine quality control test procedure.
+Because pot life is a measure of the speed of cure of a specific mass (volume) of 
+epoxy rather than a thin film, the pot life of a resin/hardener mix is much shorter 
+than its open time.
+b) Epoxy temperature
+The warmer the temperature the faster an epoxy mix will cure (Figure 1).  The 
+temperature at which epoxy cures is determined by the ambient temperature plus 
+the exothermic heat generated by the reaction.
+Ambient temperature is the temperature of the air and/or the material in contact 
+with the epoxy.  Epoxy cures faster when the ambient temperature is warmer.
+c) The volume of mixed epoxy
+Mixing resin and hardener together creates an exothermic (heat producing) 
+reaction.  Always mix small batches of epoxy because the greater the quantity, the 
+more heat generated, the shorter the pot life and cure time.  In a larger volume, 
+more heat is retained, causing a faster reaction and yet more heat e.g. a plastic 
+mixing cup containing, say, a 200g mix. can generate enough heat to melt the cup.  
+However, if the same quantity is spread into a thin layer, the exothermic heat is not 
+produced as quickly and the cure time of the epoxy is determined by the ambient 
+temperature.
+Controlling cure time
+In warm conditions use a slower hardener to increase the open time.  Mix 
+smaller batches that can be used quickly or pour the epoxy mix into a container 
+with greater surface area e.g. a roller pan, thereby spreading out the epoxy into 
+a thin film and extending the open time.  After thorough mixing, the sooner the 
+epoxy is transferred or applied, the more open time is available for coating, lay-up 
+or assembly.
+In cool conditions use a faster hardener and employ a hot air gun, a heat lamp 
+
+--- PAGE 8 ---
+User Manual 6
+WEST SYSTEM User Manual
+or other dry heat source to warm the resin and hardener before mixing and/or after 
+the epoxy is applied.  At room temperature, additional heat is useful when a quicker 
+cure is desired.  NOTE!  Unvented kerosene or propane heaters can inhibit the 
+cure of epoxy and contaminate epoxy surfaces with unburned hydrocarbons.
+CAUTION!  Warming a resin/hardener mix will lower its viscosity, allowing 
+the epoxy to run or sag more easily on vertical surfaces.  In addition, 
+heating epoxy applied to a porous substrate (soft wood or low density 
+core material) may cause the substrate to “out-gas” and form bubbles in the epoxy 
+coating.  To avoid out-gassing, wait until the epoxy coating has gelled before 
+warming it.  Never heat mixed epoxy in a liquid state over 50°C.
+Regardless of the steps taken to control the cure time, thorough planning of the 
+application and assembly will allow maximum use of the open time and cure time 
+of the epoxy mix.
+Cure stages of epoxy
+Mixing epoxy resin and hardener begins a chemical reaction that transforms the 
+combined liquid components into a solid.  As it cures, the epoxy passes from the 
+liquid state , through a gel stage before it reaches a solid state. (Figure 1)
+1.	
+Liquid – Open time
+Open time (also working time) is the period, after mixing, that the resin/hardener 
+mix remains a liquid and is workable and suitable for application.  All assembly 
+and clamping should take place during this period to ensure a dependable bond 
+is achieved.
+2.	
+Gel – Initial cure phase
+The mix passes into an initial cure phase (also known as the “Green Stage”) when 
+it begins to gel.  The epoxy is no longer workable and will progress from a tacky gel 
+consistency to the firmness of hard rubber.  An indent can be made with the  thumb 
+nail and it is too soft to dry sand.
+While the epoxy is tacky, a new application of epoxy will chemically link with it, so 
+the surface may be bonded or recoated without sanding.  This ability diminishes 
+as the mix approaches the final cure phase.
+3.	
+Solid – Final cure phase
+The epoxy mix has cured to a solid state and can be dry sanded and shaped.  It 
+is no longer possible to indent the surface with the thumb nail.  At this stage, the 
+epoxy has reached 90% of its ultimate strength, so clamps can be removed.  The 
+mix will continue to cure over the next few days at room temperature.
+A new application of epoxy will no longer chemically link to it, so the surface must be 
+thoroughly washed and sanded before recoating to achieve a good mechanical, 
+secondary bond.  See Surface Preparation – page 10.
+
+--- PAGE 9 ---
+User Manual 7
+WEST SYSTEM User Manual
+Post curing
+You can improve epoxy’s thermal performance and reduce the potential for fabric 
+“print-through” by applying modest heat to the epoxy after it has cured to a solid 
+state. Contact Wessex Resins for more information about post curing epoxy.
+2.4 Dispensing and Mixing
+Careful measuring of resin and hardener and thorough mixing of the two 
+components are essential for a proper cure.  Whether the resin/hardener mix is 
+applied as a coating or modified with fillers or additives, observing the following 
+procedures will ensure a controlled and thorough chemical transition to a high 
+strength epoxy solid.
+Dispensing
+Dispense the correct proportions of resin and hardener into a clean plastic, metal or 
+wax-free paper container (Figure 2).  Do not use glass or foam containers because 
+of the potential hazard from exothermic heat build-up.  DO NOT attempt to adjust 
+the cure time by altering the mix ratio.  An accurate ratio is essential for a proper 
+cure and full development of physical properties. 
+Figure 2 Dispense the correct 
+proportions of resin and hardener.
+Dispensing with Mini pumps
+Most problems related to the curing of epoxy can be traced to the wrong ratio of 
+resin and hardener.  To simplify metering, use calibrated WEST SYSTEM Mini 
+Pumps to dispense the correct working ratio of resin and hardener.  (For one 
+full pump stroke of resin use one full pump stroke of hardener.)  Depress each 
+pump head fully and allow the head to return completely before beginning the next 
+stroke.  Partial strokes will give an incorrect ratio.  Read the pump instructions 
+before using the pumps and verify the correct ratio before using the first mix on a 
+project.  Recheck the ratio whenever curing problems are experienced.  One full 
+depression of each pump will give approximately 24g of mixed epoxy.
+1 stroke
+Resin
+1 stroke
+Hardener
++
+With Mini Pumps - 
+One full pump stroke 
+of 
+resin 
+for 
+one 
+full pump stroke of 
+hardener will give the 
+correct ratio.
+
+--- PAGE 10 ---
+User Manual 8
+WEST SYSTEM User Manual
+Dispensing without Mini Pumps—Weight/volume measure
+To measure 105 Resin and 205 or 206 Hardener by weight, combine five parts 
+resin with one part hardener.  Small quanities can be mixed by volume at the same 
+ratio.  To measure 105 Resin and 207 or 209 Hardener by volume, combine three 
+parts resin with one part hardener (by weight, 3.5 parts resin : 1 part hardener).
+First time users
+If using WEST SYSTEM epoxy for the first time, begin with a small test batch to 
+get the feel for the mixing and curing process before applying a mix to the job in 
+hand.  This will demonstrate the open time for the resin/hardener mix at the present 
+ambient temperature and give assurance that the mix ratio is correctly metered.  
+Mix small batches until confident of the handling characteristics of the epoxy.
+Mixing
+Thoroughly blend the two ingredients for 2 minutes - longer in cooler temperatures 
+(Figure 3).  Scrape the sides and bottom of the pot when mixing.  If using the mix 
+for coating, after mixing, quickly pour into a roller pan to extend the open time.  
+scrape corners
+Figure 3 Stir resin and hardener 
+thoroughly together for 2 minutes, 
+longer in cooler temperatures.
+WARNING!  Curing epoxy generates heat.  Do not fill or cast layers of 
+epoxy thicker than 10 to 12mm – thinner if enclosed by foam or other 
+insulating material.  If left to stand for the full pot life in a plastic mixing 
+cup, the mixed epoxy will generate enough heat to melt the plastic.  If a pot of mixed 
+epoxy begins to exotherm (heat up), quickly move it outdoors.  Avoid breathing 
+the fumes.  Do not dispose of the mixture until the reaction is complete and the 
+material has cooled.
+2.5 Adding Fillers and Additives
+Fillers
+Throughout this booklet, reference to epoxy or resin/hardener mixes is defined 
+as mixed resin and hardener without fillers added; thickened mixes or thickened 
+epoxy will mean mixed resin and hardener with fillers added.  Fillers are used to 
+thicken epoxy for specific applications such as bonding or fairing.
+After selecting an appropriate filler for the job in hand (selection guide - page 34), 
+use it to thicken the epoxy to the desired consistency.  The viscosity or thickness of 
+a mix required for a specific job is controlled by the amount of filler added.  There 
+is no strict formula or measuring involved - visually judge the consistency which is 
+best suited for the task in hand.  Figure 5 gives a general guide to the differences 
+
+--- PAGE 11 ---
+User Manual 9
+WEST SYSTEM User Manual
+between unthickened epoxy and the three other consistencies referred to in this 
+manual.
+Always add fillers in a two-step process:
+1.	
+Mix the desired quantity of resin and hardener thoroughly before adding 
+fillers.  Begin with a small batch - allow room for the filler.
+2.	
+Blend in small quantities of the appropriate filler until the desired consistency 
+is reached (Figure 4).  Ensure the filler is thoroughly blended before the mix is 
+applied.
+Figure 4 Stir in small quantities of filler 
+until the desired consistency is reached.
+For maximum strength, add only enough filler to completely bridge gaps between 
+surfaces without sagging or running out of the joint or gap.  A small amount should 
+squeeze out of joints when clamped.  When making fairing compounds, add as 
+much 407 or 410 as can be blended in smoothly - for easy sanding, the thicker the 
+viscosity, the better.  Spread the mix into a thinner layer, either around the inside of 
+the mixing cup or onto a flat non-porous surface or palette, to extend the working 
+life. 
+CONSISTENCY
+Unthickened
+Slightly 
+thickened
+Moderately 
+thickened
+Maximum 
+thickness
+“SYRUP”
+“KETCHUP”
+“MAYONNAISE”
+“PEANUT 
+BUTTER”
+GENERAL 
+APPEARANCE
+CHARACTERISTICS
+Drips off vertical 
+surfaces.
+Sags down 
+vertical surfaces.
+Clings to vertical 
+surfaces. Peaks 
+fall over.
+Clings to 
+vertical 
+surfaces. Peaks 
+stand up.
+USES
+Coating, “wetting-
+out” before 
+bonding, applying 
+fibreglass, 
+graphite and 
+other fabrics.
+Laminating/
+bonding flat 
+panels with large 
+surface areas, 
+injecting with 
+syringe.
+General 
+bonding, filleting, 
+hardware 
+bonding.
+Gap filling, 
+filleting, fairing, 
+bonding uneven 
+surfaces.
+Figure 5 Epoxy can be thickened to the ideal consistency needed for a particular job.  The 
+procedures in this manual refer to four common consistencies: syrup, ketchup, mayonnaise 
+and peanut butter.
+
+--- PAGE 12 ---
+User Manual 10
+WEST SYSTEM User Manual
+Additives
+Although additives are blended with mixed epoxy in a similar two-step process, 
+they are not designed to thicken the epoxy.  Additives give the epoxy additional 
+physical properties when used as a coating and pigments provide a colour base 
+for future overcoating with quality marine paint.  Refer to the descriptions of the 
+additives on page 48.

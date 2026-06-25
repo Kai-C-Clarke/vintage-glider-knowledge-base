@@ -1,0 +1,278 @@
+ates direction of impact load.
+Panel 1
+Panel 2
+Panel 3
+Panel 4
+7.85 E-Glass Cloth (0/90°)
+Kevlar 49-095 Cloth
+Kevlar 49-095 Cloth
+D = 12"
+W = 151⁄16"
+Wt = 46 oz
+Wt/Sq Ft = 36.6 oz
+D = 12"
+W = 151⁄4"
+Wt = 50 oz
+Wt/Sq Ft = 39.3 oz
+D = 12"
+W = 153⁄16"
+Wt = 42 oz
+Wt/Sq Ft = 33.2 oz
+D = 12"
+W = 161⁄2"
+Wt = 56 oz
+Wt/Sq Ft = 40.7 oz
+“A-A”
+Load
+7.85 E-Glass Cloth (0/90°)
+Kevlar 49-095 Cloth
+DB 120 E-Glass Cloth
+“A-A”
+Load
+7.85 E-Glass Cloth (0/90°)
+17oz KDB Kevlar Cloth
+“A-A”
+Load
+7.85 E-Glass Cloth (45/45°)
+“A-A”
+Load
+A P P E N D I X
+E
+Impact Testing on Reinforced Laminates
+
+--- PAGE 409 ---
+The Gougeon Brothers On Boat Construction
+395
+We tested the impact resistance of four samples. (See
+Figure E-1.) The four panels, each about 12"  15"  3⁄4"
+thick, were laminated with four layers of 3⁄16" cedar and
+WEST SYSTEM® epoxy. All samples had exterior sheathing
+of E glass cloth to simulate wooden hulls with exterior
+sheathing. In two panels, synthetic cloth was bonded
+between the innermost and the second layers of wood.
+Because of the practical problems with fairing Kevlar,
+exterior layers of this cloth were covered with fiberglass
+cloth in two specimens. Panel weight varied according
+to composition.
+The samples were supported in the test machine
+around four edges (see Figure E-2) and a 70 pound, 
+11⁄2" diameter, hemispherical-nosed steel projectile was
+dropped on each from 5", 71⁄2" and 121⁄2", resulting in
+energy levels of 350, 525 and 875 inch-pounds respec-
+tively. All panels had shallow, 1" diameter dents on their
+top faces and minimal interior damage after the first
+drop.
+As the projectile was dropped from greater heights,
+considerable differences in damage to the inner faces
+were evident. Samples that had reinforcing fibers
+between the inner layers of wood cracked much less
+than panels which had cloth only on their top surfaces.
+After the final drop, Panel 1, which had interior and
+exterior layers of aramid and an exterior layer of fiber-
+glass cloth, had minor cracks on its interior surface.
+These were within a circular area about 21⁄2" in diameter
+and would probably result in negligible loss 
+of strength. Panel 2, which had E glass cloth on its
+exterior and inner layers and Kevlar sheathing, exhib-
+ited moderate cracks in an area about 5" in diameter.
+These might cause moderate loss of strength. Panels 3
+and 4, which had no interior layers of synthetic fibers,
+showed extensive cracking on their inner faces. This
+could lead to substantial loss of strength.
+The results of these tests can only be used to rank the
+various wood composites tested in order of their resist-
+ance to impact damage. They cannot be used to predict
+whether the materials will be satisfactory when used in
+a hull. It is, however, possible to draw some broad
+conclusion from them.
+While adding fabric reinforcement to the outside of a
+hull can increase its strength, it may sometimes be
+desirable to laminate a layer of cloth close to the
+interior of the structure. Panels that had synthetic fibers
+located near the panel backside were substantially
+better in resisting impact loads than panels that had
+only exterior sheathing. Additional layers of fabric will
+increase the weight and cost of a boat, but in certain
+situations, these extras are justified by the safety margin
+the cloth provides. If Kevlar is bonded to an interior
+layer of a laminate, where it will be in tension, it can be
+used very efficiently. Fairing problems are largely elimi-
+nated when aramid is used, say, between the first two
+layers of a wood hull, but the fiber can continue to offer
+increased resistance to impact. The hull might then be
+sheathed with an exterior layer of fiberglass cloth for
+additional resistance to impact.
+Figure E-2 Impact test panel support detail.
+24"
+height
+width
+11⁄2" Typical
+all around
+Panel Frame
+Projectile
+Top View
+Section View
+
+--- PAGE 410 ---
+To meet the needs of an international audience, we
+have provided metric conversions for most of the
+English measures used in this book. The standard
+conversions we have used (sometimes rounded) are
+given below, Useful formulas are also provided.
+Lumber
+The English terminology for dimensional lumber is
+traditionally given as “nominal size”, not the actual
+dimension. The nominal size is the dimension of the
+rough-sawn, green lumber. When dried and surfaced,
+the lumber dimensions become smaller (the actual
+dimension). Metric dimensions are actual dimensions,
+not nominal.
+English nominal
+English actual
+Metric 
+dimension
+dimension
+dimension
+1"  2"
+3⁄4"  11⁄2"
+19 mm 38 mm
+1"  3"
+3⁄4"  21⁄2"
+19 mm 63 mm
+1"  4"
+3⁄4"  31⁄2"
+19 mm 89 mm
+1"  6"
+3⁄4"  51⁄2"
+19 mm 140 mm
+2"  4"
+11⁄2"  31⁄2"
+38 mm 89 mm
+2"  6"
+11⁄2"  51⁄2"
+38 mm 140 mm
+2"  12"
+11⁄2"  111⁄4"
+38 mm 286 mm
+Plywood
+Sheet size   4'  8'   1200 mm  2400 mm 
+Plywood thickness
+English
+Metric
+1⁄16"
+1 mm
+1⁄8"
+3 mm
+5⁄32"
+4 mm
+3⁄16"
+5 mm
+1⁄4"
+6 mm
+7⁄16"
+7 mm
+3⁄8"
+9 mm
+1⁄2"
+12 mm
+5⁄8"
+15 mm
+3⁄4"
+18 mm
+Fiberglass
+1 oz/yd2 = 33.94 g/m2
+Examples:
+4 oz/yd2 = 135 g/m2
+6 oz/yd2 = 200 g/m2
+9 oz/yd2 = 305 g/m2
+10 oz/yd2 = 340 g/m2
+12 oz/yd2 = 400 g/m2
+Mass
+1 pound (advp) =
+.45 kg
+1 ounce (advp) = 28.35 g
+Temperature
+Fahrenheit to Celsius: (TF -32)  0.5555
+Example: Room temperature: 72°F = 22°C
+Pressure
+1 pound per square inch (1 psi) = 6.9 kpa (kilopascals)
+1 pound per square foot (1 psf) = 0.05 kpa
+Example: Atmospheric pressure: 30 psi = 207 kpa
+Coverage
+1 ft2/lb = .205 m2/kg
+Example: Epoxy coverage in interlaminate glue joint: 
+13ft2/lb = 2.7m2/kg
+A P P E N D I X
+F
+English to Metric Conversions
+
+--- PAGE 411 ---
+American Boat and Yacht Council, Inc. Standards and
+Technical Information Reports for Small Craft, Edgewater,
+MD: American Boat and Yacht Council, Inc.
+Cagle, Charles V. Handbook of Adhesive Bonding. New
+York: McGraw-Hill, 1982.
+Calder, Nigel. Boatowner's Mechanical and Electrical Manual.
+New York: International Marine/McGraw-Hill, 2005.
+Chapelle, Howard I. Boatbuilding: A Complete Handbook
+of Wooden Boat Construction. New York: W.W. Norton
+& Co., 1941, 1994.
+Cook, Peter. Boatbuilding Methods. New York: Charles
+Scribner and Sons, 1979.
+Creagh-Osborne, Richard. Dinghy Building. Clinton
+Corners, NY: John de Graff, Inc., 1977.
+Duffett, John. Boatowner's Guide to Modern
+Maintenance. New York: W.W. Norton & Co., 1985.
+Forest Products Society. Wood Handbook: Wood as an
+Engineering Material. Madison, WI: Forest Products 
+Society, 1999.
+Gerr, Dave. The Elements of Boat Strength. New York:
+International Marine/McGraw-Hill, 2000.
+Gilpatrick, Gil. Building a Strip Built Canoe. Freeport
+ME: DeLorme Publishing, 2002.
+Gougeon Brothers, Inc. Technical Bulletins. Nos. 1-3.
+Bay City, MI: Gougeon Brothers, Inc., April 1985.
+Greene, Eric. Marine Composites, 2nd Edition.
+Annapolis, MD: Eric Greene Associates, 1999.
+Guzzwell, John. Modern Wooden Yacht Construction.
+Camden, ME: International Marine, 1979.
+Hazen, David. The Stripper's Guide to Canoe-Building.
+Larkspur, CA: Tamal Vista, 1982.
+International Sailing Association. ISAF Offshore Special
+Regulations, 2004-2005. Southampton, England:
+International Sailing Association.
+Kinney, Francis S. Skene's Elements of Yacht Design.
+New York: Dodd, Mead & Co., 1983.
+Michelon, Leno C. Composite Aircraft Manufacture
+and Inspection. New York: Harper & Brothers, 1944.
+Miller, Conrad. Your Boat's Electrical System. New
+York: Morrow/Avon, 1988.
+Monk, Edwin. Modern Boat Building. New York:
+Charles Scribner and Sons, 1973.
+Moores, Ted. Canoecraft. Richmond Hill, ON: Firefly
+Books, 2000.
+Munitions Board Aircraft Committee. Design of Wood
+Aircraft Structures ANC-18, 1951. Springfield, VA:
+National Technical Information Service/U.S.
+Department of Commerce Reprint AD-490-100.
+Wood Structural Design Data. Vol.1. Washington, DC:
+National Lumber Manufacturers Association, 1941.
+Pretzer, Roger. Marine Metals Manual: A Handbook
+for Boatmen, Builders and Dealers. Camden, ME:
+International Marine, 1976.
+Spurr, Daniel. Spurr’s Boatbook: Upgrading The
+Cruising Sailboat. 2nd Edition. New York: McGraw
+Hill/International Marine, 1993.
+Steward, Robert M. Boatbuilding Manual. 4th Edition.
+New York: McGraw Hill/International Marine, 1993.
+Tools and Their Uses. New York: Dover Publishing
+(U.S. Navy Bureau of Naval Personnel), 1973.
+Vaitses, Allan H. Lofting. Brooklin ME: WoodenBoat
+Publications, 1999.
+Selected Bibliography
+While the following list has been somewhat updated, it includes titles that are now out-of-print. However, most titles
+can be easily located through used book dealers or the internet. 
+
+--- PAGE 412 ---
+398
+Appendices

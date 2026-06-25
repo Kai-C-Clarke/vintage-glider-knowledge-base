@@ -1,0 +1,1069 @@
+# Chapter 7
+
+Cabin Equipment
+Cabin Equipment covers just about everything else in and around the cockpit from seat
+harness to instruments and oxygen systems to undercarriages.
+Section 1
+Pilot Restraint Harnesses
+AMP Leaflet 1-5
+Pilot Restrain Harnesses or seat harnesses are designed to keep the pilot firmly in his/her seat
+at all times and in all attitudes. All are fitted with a quick release system that allows the
+harness to open quickly and easily. The release mechanism is usually a twist to unlock
+function or a lift latch system as found in your favourite airliner. Some older harnesses have a
+metal tongue that fits through a loop holding all 4 straps together and has to be pulled
+sideways to separate the straps. Some other locking methods are seen such as in Autoflug
+Harnesses. Note that Lift Latch systems require the lifting flap to be lifted at least 90 degrees
+before the lug is released from the locking latch. Older American systems can unlock at 30
+degrees.
+Webbing has a life of 12 years but in the UK using the SDMP we can extend the life year by
+year providing a good inspection finds the webbing and hardware serviceable. Hardware is
+mentioned because if it starts to corrode it can wear into the webbing. The AMP Leaflet gives
+clear detail what damage to look for that will cause a harness to become unserviceable. One
+defect that most folks don’t appreciate is UV damage. The AMP Leaflet gives examples of
+strength degradation over a period due to UV damage. UV – daylight and worse when the sun
+shines – degrades the webbing fibres reducing the strength available when required in an
+accident. As the AMP outlines, crash worthiness of gliders is being improved all the time and
+harnesses are not always keeping up with the demands. A good indicator of UV Damage is a
+fading of the webbing colour, the more faded the colour the weaker the webbing. So if on
+inspection you find, particularly on shoulder straps, a faded colour on the top of the strap
+compared with the colour on the underside it is time to replace the harness or the webbing.
+Some black straps can be seen to be grey on top and black beneath, almost rotten webbing.
+Section 2
+Oxygen Systems
+AC 43.13-1B Para 9-47
+Old AMP Leaflet 4-11
+Oxygen systems preserve life above 10,000 feet and without it judgement becomes impaired
+and that can of course lead to serious consequences. Oxygen systems need to be taken care
+of.
+Oxygen, as we all know, supports combustion. Pure oxygen not only supports vigorous
+combustion but can also start spontaneous combustion or even an explosion. Whatever else
+you do with oxygen please treat it and systems that carry it with respect.
+
+--- PAGE 72 ---
+67
+With oxygen systems there are probably more ‘Don’ts’ than there are ‘Do’s’. Even breathing
+pure oxygen can be bad for your health! OK, a few deep breaths might cure a morning
+hangover but excessive use is not good for the system.
+High pressure oxygen in contact with grease or other carbon based residues can cause an
+explosion so do not use grease unless it has been designed for use with oxygen, do not wash
+components in detergent and let it dry, rinse the detergent off well with clean water. Do not
+smoke – the cigarette will burn not smoulder. Clothes you were wearing whilst in an oxygen
+rich environment will be a fire risk as the fabric will ignite and burn very readily.
+Gaseous oxygen systems have the oxygen stored under high pressure in cylinders and the
+cylinders are required to be tested every 5 years. The cylinder itself is tested in a hydrostatic
+fashion, in other words filled with water and pressurised in a water tank. Should the cylinder
+fail it will split rather than explode as water is almost incompressible. The threads securing
+the valve in the neck of the cylinder are also checked.
+Bulk oxygen is stored at a higher pressure than your cylinder, when charging from bulk
+storage two important things have to be observed: charge the cylinder slowly – it will get
+excessively hot if charged too quickly, and then do not over pressurise the cylinder – they will
+distort and will explode. Other things come to mind too, ensure the charging valve and the
+hose connection are clean before connecting to the bottle. Only use Aviation grade oxygen, it
+is all O2 but commercial O2 can have a higher moisture content than Aviation grade.
+Moisture freezes when it gets cold at zero degrees and you are needing oxygen where the
+temperature can drop to minus 50 degrees. Your regulator can freeze up and leave you with
+no oxygen to breath.
+Read and digest the contents of the referenced leaflets.
+Section 3
+Canopies, Care and Maintenance
+AC 43.13-1B, Section 3
+CS-Stan, Standard Repair CS-SR803a
+Canopies keep out the draft and should give you good vision. However, canopies are too
+often mistreated and occasionally when looking towards the sun you cannot see out because
+of micro scratches in the Perspex where people have tried to rub off a bit of dirt or
+condensation with a dry or coarse cloth – and scratched it.
+Fine scratches in canopies can be removed by polishing with proprietary brands of
+specialised polish. The reference suggests chalk and turpentine mix, never tried that but
+French Chalk is a fine powder. The important thing is to use a soft clean cloth for any
+polishing operation. Deeper scratches can be removed using Micromesh Cloth Abrasives but
+the result, although free of scratches, may well have some optical distortion due to the
+thickness change in the canopy.
+Cleaning canopies should involve lots of water and wiping with a soft clean cloth – not a big
+sponge from the bottom of a bucket that has just been used to clean mud off the fuselage!
+DV Windows get punished by folks reaching through to unlock canopies whilst wearing thick
+sleeved jackets in winter, what could possibly go wrong! Then someone lifts the canopy open
+
+--- PAGE 73 ---
+68
+by lifting the top edge of the opening. Please try and educate the culprits. Canopies, Window
+Rails, DV Windows and especially the DV Window Fresh Air Scoops are incredibly
+expensive (Scoops are around £450 each!)!
+CS Stan Leaflet SR308a gives limits to cracks in a canopy both in numbers and lengths of
+cracks. Stop drilling cracks is a fine art, the crack end needs to be drilled and that is not
+always easy to find. Cracks tend to pass through the Perspex at an angle and thus may be a
+little longer than it looks. There is debate as to whether one should obey the conventional
+thought of a 1/8” hole or go smaller. A rigging accident put a half inch long crack right in the
+front of an IS29D canopy years ago during an Inter Services Comp. An 1/8th drill was called
+for but a long-in-the-tooth crew man (a Flight Sergeant) said NO, use a 1/64” drill. The case
+was argued that it would be a stress raiser, he argued his case and a 1/64th drill was sourced
+from a local hardware shop, the crack end drilled and regarded as serviceable. The glider was
+sold 12 years later, no change in the crack and then the new owner met a hill destroying the
+glider and the crack had still not grown!
+Drills for use in Perspex are another matter for thought. Normal ground drill bits are not
+considered suitable as they bite into the material being drilled; LAS sell much more pointed
+drills for the job whilst the AC43 reference recommends a much blunter drill bit. I guess you
+pays your money and feel happy!
+However, a really important thing to note when working with Perspex, drilling or cutting, is
+to take it easy and use high speed tooling. Hacksaw blades will suddenly jam and twist and
+crack the Perspex. Use a high speed 2” diamond tipped wheel (or similar) for cutting and
+drum sanders or diamond burrs for shaping and finishing apertures. Perspex is really quite
+flexible and only cracks when given a shock like a hacksaw blade twisting whilst you are
+trying to cut the stuff or a drill jamming because it is not the correct type and is trying to cut
+its way through rather than shallow scraping. If you are attaching something such as a
+compass to an SF25C canopy bubble don’t use a countersunk screw, use something flat and
+perhaps a rubber washer adjacent to the Perspex. The same goes for attaching a canopy
+bubble to a frame with screws and adhesive. First attach the bubble using flat head screws,
+once the adhesive has cured, remove the retaining screws, (which of course you greased prior
+to putting in the adhesive), countersink the holes and then put in the countersunk screws and
+do not tighten them, just nip up. The countersink shape produces side loads and that can
+cause cracks from the hole. The same applies when replacing DV Window rails, screw in the
+screw until it stops, no tightening required!
+Section 4
+Pitot and Static Systems and Flight Instruments
+AC-43.13-1B, Chap 12 Sect 4
+Section 4.1
+Description of Pitot and Static Systems
+Ignoring electrical instruments, glider instrument pneumatic systems generally comprise:
+
+Pitot Head and associated tubing
+
+Static Ports and associated tubing
+
+Total Energy Brunswick Tube and associated tubing
+
+Capacity Flasks and associated tubing
+
+--- PAGE 74 ---
+69
+Pitot heads come in various forms from Pot Pitots, modified Pot Pitots within a nose
+combined with a tow release unit to a fin mounted tube or a sophisticated three in one
+‘Brunswick’ tube collecting pitot, static and total energy pressures.
+Static ports are found on fuselage sides near the nose and often also along the rear fuselage or
+in the sophisticated fin mounted probe.
+Pitot Pressure is the ram air pressure developed by virtue of the forward movement of the
+glider. Pressure increases with speed.
+Static Pressure is the pressure of still air surrounding the glider. Pressure decreases with
+altitude.
+Total Energy Pressure is equal and opposite to Pitot Pressure. This is achieved by sensing the
+pressure on the aft side of a tube, the Brunswick Tube. At constant speed the front of the tube
+is subjected to ram air and this is Pitot Pressure. Ahead of the tube the air is at static pressure
+and aft of the tube the air is still at static pressure. All is in equilibrium and for that to happen
+the pressure on the aft face of the Brunswick Tube must be equal and opposite to that
+pressure on the front face. The actual pressures are of course all relative to Static Pressure and
+speed through the air.
+Capacity Flasks are there to operate ‘windy’ variometers. In operation the air within the flask
+is forced to expand with increase of height (lower static pressure) and to expand or indeed
+contract in volume the air escapes or returns via the variometer.
+Instruments then work on 3 different air pressures:
+
+Air Speed Indicators on Pitot Pressure and Static Pressure
+
+Altimeters on Static Pressure
+
+Variometers on Static or Total Energy pressure and Capacity Flasks
+Section 4.2
+Operation of Mechanical Instruments
+The Air Speed Indicator works on the relationship between pitot and static pressure. The
+instrument body is sealed and is fed static pressure whilst the pitot pressure is fed to a fine
+bellows unit. As pitot pressure increases the bellows unit inflates and being secured on one
+side expands towards the other and in the process moves a series of gears and levers against a
+spring. The spring is not linear in force because the pressure rises as a square of the speed.
+A Photo of the Internal Parts of a Winter ASI and a Schematic of the Mechanism
+
+--- PAGE 75 ---
+70
+The Altimeter works in a similar way in that it too has a bellows unit. In this case an aneroid
+capsule – one containing a vacuum. The capsule itself is also a spring in that it wants to
+expand but air pressure keeps it closed. As the altimeter is raised aloft, static pressure drops
+and the capsule is allowed to expand. The capsule is then driving a chain of gears and the face
+of the imperial instrument shows the pilot the height in feet.
+A View of the Internal Parts of a Winter Altimeter
+The Variometer is a flow meter and measures the air flow out of or into the capacity flask and
+presents the result to the pilot on the face of the instrument in knots or metres per second up
+or down. Early Cosim Variometers had a red and green ball one in each of two tubes. The
+green was indicating up and the red was down. The tubes had a small groove cut in the rear
+part and this was tapered allowing an escape of air, the further up the tube the greater the rate
+of climb and the larger the tapered slot. Modern Winter type variometers are of the Vane
+Type. A Vane attached to the needle is in a chamber that gets slightly larger the higher the rate
+of climb or sink. The majority of variometers require a capacity flask of 0.45 litres. The more
+sensitive variometers require a 0.9 litre flask. Some instruments are linear on the face and
+some non-linear so that the space between 0 and 2 Knots is greater than the space between 8
+and 10 knots. This allows a more accurate reading of weak lift rates. The larger the capacity
+the more sensitive the instrument – greater air flow for given rate of climb.
+An Internal View of a Winter Variometer
+Oriﬁce 
+to Sta c
+
+--- PAGE 76 ---
+71
+The sketch below from the K21 Maintenance Manual shows the basic system in a K21 but
+omits the Altimeter in the Static System. Note too that there is a colour code for the different
+tubes.
+
+Pitot is Green
+
+Static is Clear
+
+Total Energy is Red
+
+Capacity Bottle Tubes are Blue
+Connection of the pneumatic instrument tubes to the instrument panels is often through a
+multi-way pneumatic plug/socket. This make instrument panel removal a lot easier than
+disconnecting numerous pipes from the instruments.
+The K21 drawing above shows the two variometers connected to the Total Energy System.
+Total Energy gives you a reading of what the aircraft is doing in relation to the rate of climb
+regardless of changes of speed. We all know that if you fly fast and pull the stick back the
+glider climbs, we know that and do not need an instrument to tell us. We would rather know
+our rate of climb without ‘stick lift’. An instrument connected to Static will show a rate of
+climb when the stick is pulled back and the glider climbs, the air speed also decays. Now
+connect the instrument to a Total Energy source and when the glider climbs with stick lift the
+‘static’ pressure (now equal and opposite to Pitot Pressure) is balanced between a reduction in
+true static pressure with height gain and an increase in total energy pressure as airspeed is
+reduced. Thus the need for air to depart the flask is reduced and so the rate of climb reading
+in theory should show the rate of climb induced by the thermal. If you watch a vario on Total
+Energy at the point of launch you will see it show a rate of climb yet you are accelerating
+horizontally not climbing. The Total Energy pressure is reducing due to being equal and
+opposite to Pitot Pressure (which is rising) and so air is forced out of the flask but it soon
+sorts itself out.
+
+--- PAGE 77 ---
+72
+Electronic Variometers and other instruments are now quite sophisticated devices and like
+lots of instruments getting smaller and more expensive! Probably the smallest vario with
+audio is the Tasman Variometer – a small cube behind the panel. It, like others, just requires a
+Total Energy source connection. Multi-function instruments may also need Pitot and Static
+connections made. Some gliders still fly with no static connection being made to the
+instruments but rely on ‘Cockpit Static’. This is OK but cockpit static pressure changes if you
+open or close DV windows or side-slip thus making the instruments less accurate.
+Section 4.3
+ASI and Altimeter Checks and Water Manometer Design
+Every Annual Servicing the Air Speed Indicator and Altimeter need to be checked for
+accuracy. In the BGA we check the ASI against a water manometer. These are usually hand-
+made pieces of equipment and assuming the calibration scale is marked accurately and filled
+with water the device should be pretty accurate. Because we do not calibrate our manometers
+we are only allowed to refer to the annual check as ‘An Operational Check’ not a Calibration.
+Reading Manometer – ASI should be within ±2 Knots. A table of results should be drawn up
+so that results can be recorded and discrepancies calculated. The ASI needs to be checked
+with both rising and falling airspeeds up to the Vne of the glider plus 10 or 20 Knots. A
+sketch of a simple Manometer and calibration figures are shown below:
+
+--- PAGE 78 ---
+73
+Calibration Figures for a Water Manometer
+Measured in Inches and mm for Knots and PSI
+Height of Water
+Column
+Knots
+Inches
+mm
+PSI
+0
+0
+0
+0
+10
+0.018
+0.457
+0.003
+20
+0.258
+6.561
+0.010
+30
+0.585
+14.849
+0.021
+40
+1.047
+26.591
+0.038
+50
+1.632
+41.440
+0.059
+60
+2.352
+59.743
+0.085
+70
+3.159
+80.239
+0.115
+80
+4.174
+106.020
+0.151
+90
+5.302
+134.681
+0.192
+100
+6.540
+166.108
+0.236
+110
+7.927
+201.333
+0.286
+120
+9.449
+240.010
+0.341
+130
+11.108
+282.141
+0.401
+140
+12.903
+327.726
+0.466
+150
+14.833
+376.763
+0.536
+160
+16.900
+429.255
+0.611
+170
+19.116
+485.544
+0.691
+180
+21.482
+545.633
+0.776
+190
+23.983
+609.176
+0.866
+200
+26.635
+676.516
+0.962
+Important Note: When making up a scale for a U-
+Tube Manometer the scale has to divided in two
+because the height is between the two water levels
+and not the height from where the zero level was.
+All that is required to make a manometer is a base, vertical board, acrylic or glass tube,
+silicon tube, Tee Pieces, a filter, 20 cc syringe, a needle valve, an adjustable knots scale plate
+and hardware to hold everything in place.
+An example of an ASI Operational Check is here:
+
+--- PAGE 79 ---
+74
+Altimeters are also required to be checked for accuracy on an annual basis. There are several
+ways of checking the accuracy of the millibar scale:
+
+Check Altimeter against three or four other instruments – crude but reasonably
+effective, not ideal
+
+Check against a Master Altimeter that is calibrated on a regular basis
+
+Check against a Vernier type mercury barometer
+
+Check against a reading given by your local ATC with an adjustment for height
+difference of locations and if the weather pressure pattern permits
+These checks of the ASI and Altimeter can be carried out insitu. I suggest that these checks
+are one of the first things to be carried out during an Annual Inspection so that instruments, if
+defective, can be sent for repair and maybe back before the inspection is complete.
+Section 4.4
+Testing the Systems
+The pitot system should be checked for leaks and this is best done by connecting the
+Manometer to the pitot head applying pressure say to 100 knots and ensure that the pressure
+is held. If there is a leak the system has to be broken down into sections and each part tested.
+A very minor leak can be tolerated as Pitot Pressure is always being created but larger leaks
+will cause the ASI to show a low reading and that cannot be tolerated as the glider may
+exceed VNE.
+The static system is more difficult to test as there are usually several static ports. These have
+to be blanked off and a pipe from one disconnected so that air may be drawn out of the
+system with a large syringe using the altimeter as the pressure gauge. Again the reduced
+pressure should be maintained. In practice this may not be a viable check as the static system
+reaches right through to the variometer capacity flask(s) giving a big volume of air to be
+evacuated. Capacity flasks can of course be disconnected or the silicon pipe blanked or just
+clamped off.
+A common cause of a leak in the pitot or static systems is mouse chewed pipes. Sometimes
+this damage is out of reach of a human and may require major surgery to replace the damaged
+pipe. Last Autumn the pitot system on a Venture was checked on the first day of its Annual
+Servicing. The first flight following the Annual Inspection was carried out with no ASI
+reading. The silicon pipe attached to the wing mounted pitot head had been chewed (during
+the Annual) and required a hole cut in the lower wing skin to replace a few inches of pipe and
+replacement of the RAF Roundel. The mouse had climbed the tail wheel, entered the fuselage
+via the rudder cable aperture, walked to the centre section climbed up to an aperture in the
+left hand wing and gone for a long walk outboard!
+Any flight instrument found defective must be sent away for repair. There is apparently
+someone in Scotland who can do the job or alternatively Winter will service almost anything
+even if it is not of their manufacture. If an ASI is found to be 5 Knots out (as shown in the
+above check) at an airspeed well above the glider’s Vne then that would not necessitate an
+immediate repair.
+It is useful if you can source a spare ASI and Altimeter for loan whilst instrument repairs are
+carried out. That saves a lot of down-time on a glider.
+
+--- PAGE 80 ---
+75
+Note also that ASIs are to have coloured markings as per the Flight Manual; in the case of the
+K21 the Accelerometer is also required to have markings applied to the face of the
+instrument.
+Section 5
+Approved Equipment
+AMP 1-XX Parts and Materials
+The AMP Leaflet gives guidance on parts and materials that are Approved or Non-Certified
+and how to record such components used to service our gliders.
+Equipment installed in gliders must be Approved Equipment. Approved Equipment such as a
+Transceiver or Transponder must be of an approved type by EASA or the CAA. The manual
+for these specific items will have the approval number within and the item will have been
+delivered with a Form 1.
+Glider manufacturers give a list of Minimum Equipment covering instruments, seat
+harnesses, tow release units and so on and occasionally a list of approved equipment.
+Additional equipment can be added if it has been approved by a regularity body under
+possibly a manufacturer’s specific Tech Note (for a transponder and aerial for example), a
+more general Tech Note for installing additional equipment or using the authority of CS-Stan
+(latest edition).
+Standard parts may be used but need the Owner’s authority to fit them. Items such as wheel
+bearings, nuts and bolts and so on can be purchased from commercial sources but must be of
+OEM quality – not cheap imitations. Some suppliers of standard parts will also issue a C of C
+if requested.
+With nuts and bolts take care. If you are replacing a standard commercial metric nut or bolt
+with an 8.8 or higher strength rating that is acceptable. However, aircraft specification metric
+nuts and bolts fall under the LN series of hardware. Do not replace LN hardware with
+commercial parts, get a new LN part. There will have been a design reason for that part.
+Section 6
+Compasses and Swinging
+AC 43.13-1B, Section 3 Para 12-37
+Compasses are probably the most ignored instrument in the glider. For years compasses have
+been seen as unreliable because they rarely indicate a correct heading. This is primarily due
+to the complete lack of compass swinging knowledge or facilities.
+However, swinging a compass is not all that difficult. You require an accurate ‘Landing
+Compass’ (an accurate and calibrated compass) to assess the heading of the glider and a non-
+ferrous key or screwdriver to adjust the compass. Some compasses have a triangular headed
+adjuster whilst others just a plain screwdriver slot.
+The AC 43 reference tells how to carry out a compass swing and assumes that a Compass
+Rose is marked out on the ground!
+
+--- PAGE 81 ---
+76
+A compass should be mounted a reasonable distance from ferrous metal structure and
+electronic instruments, speakers and electric motors as in Turn and Slip indicators. If panel
+mounted try and avoid places where control movements may have an effect. ASW20s have a
+flap lever on the left side of the cockpit, if the compass is on the left putting the flap lever
+into full negative will move the compass by about 30 degrees! The compass fore/aft axis
+must be parallel to the gliders centreline to enable an accurate reading to be taken.
+Section 7
+Tow Release Units
+Tow Release Units are available from two companies, Tost and Ottfur. The vast majority of
+gliders are fitted with Tost units whilst some have modern Ottfur units that are compatible
+with the mounting used by the Tost Units. Early British gliders were fitted with Ottfur
+Release Units which were mounted on a bulkhead rather than between shear webs or in a
+box.
+Tost Release units are either Aerotow units or Centre of Gravity units, the finer points of
+design are occasionally updated. There are some special units for particular gliders but have
+the same functionality. The life of the Tost Release Units is 4 years or 2000 launches. The 4
+years can be dispensed with by a Deviation in the glider’s SDMP leaving the 2000 launches
+which cannot be extended. The release units are deemed to be non-repairable at user level
+meaning that they have to be returned to Tost for overhaul. Tost will overhaul your unit or
+provide an exchange unit. Some glider repair organisations keep a small stock of releases for
+immediate dispatch without the need to contact Tost. (Anglia Sailplanes does).
+Ottfur units, Aerotow or CG units, do not have a specified life but a recommended overhaul
+at 5000 launches. They can be stripped, serviced and reassembled at user level and the lever
+spring is changed at that time. Spare parts are available from Roger Andrews who is
+responsible for Ottfur Release Units. The modern Ottfur Release Units are often found in
+K13 and K21 gliders.
+Tost and Ottfur Release Units are both much the same internally and operate in the same way.
+To prevent the hook from being pulled open by the tow cable the mechanism has an over-
+centre lock and the strength of this is controlled by the adjusting screw and lock nut seen on
+the upper forward part of the unit. If the over-centre lock is not made or is far too weak then
+the tow cable will open the hook; if the over-centre lock is too strong then the pilot will find
+the load on the release knob excessively high. The adjustment is NOT a user task! It is all set
+up in a bench rig.
+The picture below shows the internal mechanism of an Ottfur Aerotow Release Unit, apart
+from the lever the Tost unit is virtually identical. This picture shows the unit in the Open
+position. The over-centre lock is made in the Closed position – that is with the Operating
+Lever rotated anti-clockwise until the Link Pin 1 is above the straight line made by the Lever
+Pivot and Link Pin 2. The Hook at that point will have rotated clockwise to the Closed
+position. The Adjusting Screw rests on the link adjacent to the top of the Link Pin 1.
+Operating the release unit pulls the lever upwards and breaks the over-centre lock by forcing
+Link Pin 1 downwards between the Lever Pivot and Link Pin 2 whilst these two pivot points
+are being pressed together by the towing load on the hook. (The Lever Spring has been
+omitted but holds the Operating Lever in the Closed position – rotated anti-clockwise).
+
+--- PAGE 82 ---
+77
+Ottfur Aerotow Release Unit
+The CG Release Units are identical in operation but the hook is located inside the Back
+Release Bell unit. The Bell is held forward by a strong spring and is moved aft as the winch
+cable angle moves further down and aft allowing the rings slide off the tail of the Hook and
+‘Back Release’.
+The launch life of either type or brand is calculated on glider launches and not on the number
+of times a particular unit has been used to launch the glider. If a club is a winch only club and
+never launches a glider using the aerotow unit the aerotow unit is still life-ex at 2000
+Launches – it has been operated for 2000 launches. A record must be kept for each release
+unit by serial number to record date and launches when fitted and the date/launches when it
+must be replaced or in the case of Ottfur Units – serviced.
+The use of Tost Release Rings in Ottfur Release Units is quite acceptable whereas Ottfur
+rings are not to be used in Tost Units or modern Ottfur units.
+Release system cables are generally 3/32” Cable and will have a turnbuckle in the system for
+adjustment, this is more commonly found in the CG release cable to allow adjustment
+ensuring both release units open simultaneously. Adjustment then is pull the release handle
+and check both units are fully open (can you move the operating lever further in the direction
+of travel?). If one unit is fully open and the other is not then the cable to the CG Unit has to
+be adjusted. If the CG unit is not fully open the cable needs shortening; if the aerotow unit is
+not fully open then the cable to the CG unit needs lengthening.
+When the release cable system is at rest there must be 10mm slack between the release knob
+and the point where the cable disappears into a conduit or fairlead. This slack in the system
+ensures that a release unit is not held partially open which could lead to a launch failure
+through premature cable release.
+Please take the inspection and servicing of release units at an annual inspection seriously
+rather than have an ‘It’s OK’ attitude. It is most galling to be called to check a release unit on
+
+--- PAGE 83 ---
+78
+a glider that is only a week or two out of an annual servicing to find that both legs of the lever
+spring are broken and the covered box that houses the other release unit is still stuffed with
+dry grass. One leg of the spring must have been broken at the annual inspection and the other
+unit was certainly not looked at! Just because a release unit has not reached 2000 launches
+does not mean it is going to be serviceable. The most common defect is a broken lever spring,
+they have two legs, check that they are both intact!
+Release units are relatively easy to remove and refit. If a unit is dirty it can be cleaned either
+with a blast of compressed air or be removed, blown through and then put in an ultrasonic
+bath for better cleaning. Make sure it is properly dry and lubricated prior to refitting it.
+Removal of a unit is achieved by disconnecting the operating cable and then removing the
+two or three bolts holding it in place. With CG Release Units it is possible to alter the
+relationship between mounting structure and the unit, check which bolt holes are used in the
+installation before removal and make a note. (The three holes at the lower front of the unit are
+on a common radius to the lower rear mounting hole). Check the retaining bolts for
+serviceability and replace if defective, commonly rust or occasionally ‘waisting’ where the
+unit may have moved marking the shank of the bolt; both defects are a cause for rejection.
+Replacement is in reverse. Ensure that the plain shank of each retaining bolt passes
+completely through the shear webs or box structure so that the threads are not in shear. Use
+new stiff nuts if necessary. Once all is connected ensure that the system operates correctly.
+Note that the K21 crossed cable arrangement just ahead of the front control column looks
+wrong – it isn’t, do not uncross the cable, it will not work.
+Release operating cables are not generally lifed items, just inspected annually. However, the
+K21 Life Extension Programme does put a life on the release cables. That is the only place
+where the cable life is mentioned.
+Section 8
+Water Ballast Systems
+There are different designs of water ballast systems, some have integral tanks, others bag
+tanks and some gliders have fin tanks as well.
+Water ballast is carried to make the glider heavier. This has one advantage and a
+disadvantage. By a fluke of aerodynamics a glider can fly faster down the same glide slope
+(angle) when heavy as opposed to being lighter. The disadvantage is that it needs a stronger
+thermal to lift its increased weight. That is why when weak lift is forecast no-one carries
+water. It is all a balancing act between thermal strengths and glider weight.
+There is not a lot to service on a water ballast system. The tanks need checking periodically,
+this can be done by filling the tank and have a tube raised higher than the wing. The water
+level in the tube should not get lower over time. If it does then there is a leak.
+Bag tanks can be removed fairly easily. Usually a panel has to be removed from the root rib
+to enlarge the opening through which the bag will be extracted. There will be a cord that goes
+around a pulley at the end of the bag’s installed position – do not lose that as it pulls the bag
+back into the wing. Extend the length of it if necessary.
+
+--- PAGE 84 ---
+79
+The water dump system needs to be inspected and in good working order. Wing dump valves
+must open together to prevent asymmetric loading risking an uncontrollable roll action
+towards the heavy wing. Likewise the fin dump valve must also be fully serviceable. Fin
+dump valves are usually housed in a metal frame which of course tends to corrode. The best
+answer here is to remove the dump valve and then the housing frame, often the lower rudder
+hinge as well. Clean the frame of surface rust by bead blasting and then have the component
+zinc plated. If the corrosion is too bad then a new housing frame will need to be purchased
+from the manufacturer.
+Seal kits are available from the manufacturer to service a suspect dump valve. Plate valves
+inside a dump valve may not seal if fully tightened onto a stem. A little play is sometimes a
+good thing!
+Check that the operating cables are serviceable, not frayed or corroded particularly adjacent
+to the fin dump valve. Ensure that the cable retaining ends are secure, most are held by a
+screwed fitting. Is the screw tight?
+On the Astir there is an AD to check security of the fuselage connection to the wing water
+ballast system on an annual basis. If not secure it is to be repaired. (The fittings are bonded to
+the inside of the skin).
+Section 9
+Undercarriage Systems
+Fixed undercarriages are not usually a major issue as they have very little movement.
+However, they still need inspecting and lubricating. The K21 wheel needs to be removed and
+the bearings serviced as mentioned in an earlier session. The undercarriage structure is
+mounted on two bolts that provide a pivot action allowing the undercarriage to be cushioned
+on landing by the rubber donuts mounted on each side in the centre section. There are grease
+nipples on the bolts to lubricate the joint. It may pay occasionally to remove the bolts for
+inspection and lubrication of both bearing surfaces. Much the same applies to other fixed but
+sprung undercarriages. Wheels should always be removed annually to check the wheel
+bearings, brake linings and also inspection of the axle bolt – they get bent and are difficult to
+remove in that fashion, turns a tyre change mid-season into a nightmare. Not everyone reports
+the fact that they have had a heavy landing!
+Retractable undercarriages are another kettle of fish. By their nature they retract, usually
+when the pilot pulls or pushes the correct lever. However, sod’s law says, and does, retract
+undercarriages in an undemanded fashion just as the glider puts weight on it. Alternatively
+there are those folks who do not retract the undercarriage after launch, fly around a task and
+then retract the undercarriage before landing! Not a lot an inspector can do about that except
+ensure the cockpit placards are correctly fitted.
+Retractable undercarriages are held in the down position by an over-centre lock. The over-
+centre lock is invariably in the rear strut of the undercarriage as that is the bit that folds on
+retraction. The over-centre is caused by two fixed points at the end of a folding strut and the
+mid-point pivot is offset to one side of the straight line joining the other two points with a
+hard stop to prevent the over-centre going too far over. Some over-centre locks are adjustable
+at the lock by an adjustable bolt, others rely on an adjustment remote from the joint.
+
+--- PAGE 85 ---
+80
+The undercarriage lever is not designed to support the weight of the glider, that is the
+responsibility of the undercarriage and the afore mentioned over-centre lock. If the over-
+centre lock is not properly made when the undercarriage is down the slackness in the system
+can allow the lock to fail and the undercarriage to retract when subjected to the landing load.
+Apart from then damaging the undercarriage doors there is damage to the underside of the
+fuselage and also to the undercarriage operating system because that has been overloaded. A
+simple check, weight off the undercarriage is to see if you can insert a piece of paper into the
+stop at the knuckle joint – both sides of the undercarriage, it should also resist upward
+pressure. If you can it needs adjusting.
+Astir Undercarriage Knuckle Joint – Should Resist Upward Pressure
+The Over-Centre lock sketched above relies on the Torque Bar holding the abutting faces of
+the two links together. The Torque Bar is held in position by the cockpit undercarriage lever
+in its detent. The lever should be a positive push into the detent to ensure that there is some
+pressure applied to the Torque Bar and the over-centre linkage. The load on the axle is
+transmitted in a straight line to the Torque Bar but via the two links. The load is forcing the
+two links downwards but they cannot move because of the abutting faces and the off-set pin.
+With weight off the wheel the knuckle should resist upwards pressure. If the knuckle can be
+moved then the system needs adjusting to ensure that the whole joint is held ‘down’.
+Slackness in the system can lead to the links being flicked upwards on landing and if the
+weight then comes onto the wheel whilst the links are out of position then the load will cause
+the left hand (rear) link to be forced anticlockwise and put all the load into the retraction
+system which is not designed to take it. Something breaks!
+Servicing the undercarriage requires a certain amount of dismantling of the undercarriage
+itself. Most joints in the undercarriage are pin or bolts through plain bushes and no real
+means of lubricating them. The only thing to do – having removed the wheel - is to remove
+the pins or bolts and then the bushes. Clean and grease them. Ensure the retaining hardware is
+refitted the same way round as it was when you removed it, if you don’t then something
+might jam on retraction. Note that the bushes are slightly longer that the holes they sit in to
+allow freedom of rotation.
+
+--- PAGE 86 ---
+81
+A number of retracting undercarriages are spring assisted, either by a conventional coil spring
+or a gas spring strut. Check that these are serviceable and that the gas strut actually has the
+correct pressure in it. one or two gliders have a damper strut in the system. It is a bit difficult
+to ascertain the pressure in a gas strut or to even know how strong it should feel. If in real
+doubt remove the strut and test it. The force the strut is supposed to contain is on the label (if
+that is still there or readable). The strength of the gas strut may be given in the manual, if not
+then the glider agent in the UK or the manufacturer should be able to tell you. Using a
+weighing scale you can press down on the gas strut and see what the scale reads – you will
+have to convert the reading to Newtons from pounds or Kilogrammes. Refit the gas strut or
+get a new one. Mount it the correct way round.
+Finally carry out a retraction test and ensure that the operating lever in the cockpit goes into
+the up and down detents in a satisfactory manner. It should have a positive lock-in feel. The
+Up and Down detents are normally fixed items and as the lever is constantly being pushed in
+and out of them they wear. The worn part needs replacing occasionally. The easiest way to do
+that is to make up a Paxolin or hard nylon plate and secure it under the existing position of
+the detent and reprofile it. Most gliders have rigid detents in the seat mounting structure but
+Pik gliders have a detent system on a piece of GRP that is screwed to the cockpit side
+structure. Constant use lets the retaining M5 screws gradually chew into the GRP plate
+allowing it to move aft (Down is in the forward detent) and if this goes unnoticed the end
+result is that the over-centre lock is not made and the undercarriage collapses next time it is
+loaded ripping the GRP plate out of its mounting.
+Section 10
+Wheel Brake Systems
+Wheel brakes are either drum brakes, Disc brakes or steel plates pulled onto the tyre – or non-
+brakes.
+Drum Brakes are found in most Tost Wheels, most drums are internal but some are in
+external drums. The operation of the wheel brake is quite simple, a cam is turned and opens
+one end of the brake shoes. The cam is turned by pulling on an external lever that operates a
+shaft through the Brake Housing/Anchor Plate and the integral cam on the other end of the
+shaft.
+The cam, which is a race track shape, moves both brake shoes simultaneously against the
+brake drum lining. The brake shoes pivot on a fitting opposite the cam shaft and are held in
+place and retract under the influence of two springs. So that the lever can be pulled the
+Anchor Plate is held in position by a locking bolt or stud (part of the brake shoe pivot
+mounting) to the undercarriage structure. On some wheel installations this locking stud is a
+pain to get into the correct place! Persevere! This locking stud must be a good fit in the hole
+to ensure the Anchor Plate is really secure. If it is not secure then on applying the brake the
+whole thing can judder quite badly. If this happens a repair is required. Either the stud or hole
+is worn. If the stud is worn then a new one can be obtained from Tost or if the hole is worn
+then that needs attention. The stud is an internally threaded bush and if you have the tooling
+one can be made up oversize to fit the enlarged hole. The enlarged hole is probably oval and
+needs reaming out to make it round. The desired repair will take into account the damage and
+the material used in the undercarriage construction, steel, aluminium alloy or GRP. If you
+need to repair a hole in a GRP section it is recommended to take a leaf out of the Slingsby
+
+--- PAGE 87 ---
+82
+Vega Manual and use a mixture of resin and Marble Flour. Ream the hole to be repaired a
+little oversize, thoroughly degrease it, fill or line with the resin mixture and refit everything
+with the stud being well greased to prevent adhesion to the resin.
+The operating shaft can wear the hole in which it sits – the shaft is steel and the hole is in
+aluminium. Should the hole get excessively worn then there are two choices: repair it – or
+buy a new anchor plate. A repair is relatively simple if you have the equipment (a lathe
+helps). Drill and ream out the hole about 4mm oversize and make a brass bush to be an
+interference fit in the hole. The internal diameter of the bush should be slightly smaller than
+the shaft diameter. Once the bush is in position and trimmed back to the surface of the brake
+back plate the hole is reamed out to fit the shaft. The bush MUST be a good interference fit in
+the aluminium plate so that it does not turn.
+The operating shaft benefits from being removed, cleaned and regreased occasionally. Quite
+often when removed the shaft is found dry and with some minor rust issues. The cam also
+needs a very small amount of grease on its face so that it can slide easily on the face of the
+brake shoe. Be aware that Tost brake shoes are not symmetrical when viewed fore and aft.
+There is a blue line on the side of the shoe that faces inboard.
+A Tost 5” Drum Brake
+The majority of drum brakes are just cable operated from a lever in the cockpit, a bicycle type
+brake grip on the control column, a cable from the airbrake lever or system or as in the
+Puchacz a ball to pull. The LS gliders use the rudder pedals – push both pedals hard to apply
+the brake. However, there are now a number of modifications available to operate drum
+brakes via a hydraulic system. Opinions differ on the cost effectiveness of this action,
+personally I do not think it is worth the effort. If brakes are adjusted properly I think a good
+force on the operating cable by squeezing a bicycle type lever on the control column, pulling
+hard on the airbrake or just pulling a ball will stop you just about as quickly – especially if
+you do need to stop in a great hurry. (A drop of Adrenalin works wonders on brake
+effectiveness)!
+Fine adjustment is by a threaded sleeve on the end of a Bowden cable, often one adjuster at
+each end if it is a control column mounted grip, a turnbuckle on airbrake operated systems
+and on the Puchacz! Coarse adjustment can be made on the brake operating lever as that is
+held to the cam shaft on a conical spline, lift the lever off the spline and reposition it. This
+spline connection needs to be secure before connecting to the operating cable as there is no
+way to turn the operating shaft without the lever being attached. The brake should be adjusted
+so that the shoes are almost rubbing on the drum and then very little movement of the brake
+lever, airbrake or rudder pedals will immediately apply the brake. Further movement of the
+brake lever will increase the force put on the brake shoes and hence the braking force. In the
+case of control column mounted levers it is preferable that the lever cannot quite reach the
+
+--- PAGE 88 ---
+83
+control column when squeezed hard. It is not always possible to satisfy both criteria and a
+compromise adjustment has to be found.
+Disc brakes are hydraulically operated by their design. The brake disc, on application of the
+brake, is squeezed between two brake linings operated by the brake calliper. Hydraulic
+pressure is supplied by the Master Cylinder of which there are many variants.
+The Master Cylinder is operated by cable or rod from the Air Brake Lever or a control
+column grip. A mechanical advantage is achieved by having the input to a lever whose linear
+movement is greater than the Master Cylinder’s piston.
+The common types of hydraulic disc brakes are Cleveland and Tost. The K21 for example has
+a Cleveland Disc Brake and Master Cylinder; The Ventus has its own small Master Cylinder
+and a Cleveland disc brake, the Grob 103 Series have a larger version of the Cleveland Disc
+Brake to suit its larger wheel. The PW6 has a Tost Master Cylinder and Cleveland Disc
+Brake. There are many combinations and modifications to upgrade to hydraulic disc brake
+systems. The drawings below show the construction of the Cleveland components used in the
+K21:
+
+--- PAGE 89 ---
+84
+Drawings Courtesy of Cleveland Wheels and Brakes
+An application of the brake extends the piston in the brake calliper and that piston does not
+retract significantly when the brakes are released. Repetitive brake applications causes the
+calliper piston to move out to cater for brake lining wear and thus the volume of hydraulic oil
+in the system is increased. That volume has to be filled from the reservoir. Replenishment of
+the hydraulic oil in the brake system and cylinder is via the Piston and Valve.
+
+--- PAGE 90 ---
+85
+Hydraulic oil from the reservoir is available at the Inlet Port and then into the annular space
+around the Gland End and through to the Washer Seal. Upon the application of the brake the
+Piston Rod moves in (left) squeezing the Washer Seal between the Piston Rod and the Piston
+thus sealing off the brake pressure system from the reservoir. Continued movement of the
+Piston Rod forces more hydraulic oil into the Brake Calliper and increases the pressure and
+applies the brake. When the brake is released and the Piston Rod withdrawn the Piston lags
+behind opening the gap around the Washer Seal. Hydraulic oil is allowed to pass between the
+Piston Rod, the Washer Seal and the Piston ensuring that the system is full of hydraulic oil
+and ready for the next application of the brake.
+When bleeding the brake system from the calliper, air and hydraulic oil are allowed to pass
+between the Piston and Piston Rod (Piston is not a tight fit on the Piston Rod) and then past
+the Washer Seal. From there passage to the reservoir is unhindered. To remove as much air as
+possible from the system it is desirable to have the master cylinder vertical.
+The brake linings, certainly in the Cleveland Callipers, are rivetted to the back plates, a
+special tool is needed to set the rivets properly. The linings have a wear limit as do the brake
+discs; these limits are found in manuals, the Tost manual has the Cleveland limits listed. An
+element of judgement is required when looking at the wear, if it is a private glider not doing a
+lot of flying then the components may well last till the next annual. However, a well-used
+training glider will need new brake linings if the current ones are getting close to the limit.
+Don’t skimp on a bit of expenditure, if the linings wear out during the year the consequences
+will be expensive. The linings are probably never looked at on a DI and the next thing is
+either hydraulic oil leaking onto the disc and possibly the tyre (tyres do not like hydraulic oil)
+or there will be metal-to-metal contact between the disc and the brake lining rivets and/or
+support plates damaging expensive items.
+Disc brakes are inherently ‘self-adjusting’ in that they are squeezed onto the disc but there are
+no springs to release the brake – just the release of hydraulic pressure. The brake linings on
+their mountings retract just enough not to rub hard on the disc and as the linings wear so the
+calliper keeps moving them towards the disc. Don’t let the linings wear down to the thickness
+of a sheet of paper as the calliper piston can pop too far out with its O-Ring seal and ooze
+hydraulic oil over the disc and wheel/tyre assembly.
+Hydraulic oil such as the automotive Dot 4 is hygroscopic and absorbs water, this in turn can
+lead to corrosion of the metal components in the system. The BGA recommends draining and
+replacing the brake fluid on a regular basis, about every 2 - 3 years, add it as a reminder to the
+log book or Form 280.
+A Tost 5” Drum Braked Wheel and Disc Braked Wheel
+
+--- PAGE 91 ---
+86
+Disc brake callipers have a habit of getting very dirty and somewhat seized up. This degrades
+the brake performance as the brake linings are not being squeezed hard enough onto the disc,
+the linings can be caused to rub on the disc and make it hot and corrosion can set in between
+the calliper piston and the cylinder. Then the O-ring seal wears rapidly on the corroded
+surfaces and the whole thing leaks hydraulic oil. If there are issues around the calliper remove
+and strip it down. Sometimes easier said than done.
+The bottom side of the calliper has a bleed valve installed and the top side – connection to the
+hydraulic system – an American AN Hydraulic fitting. Both items are fitted into tapered
+threads. The AN fitting will probably unscrew quite readily but the bleed valve! The part that
+is screwed into the calliper is like a hollow sleeve and rarely gets moved and may well shear
+off when being removed. If it is not a problem leave it alone. The centre part is the bleeding
+bit, that should be relatively free to move as it needs to be unscrewed to bleed the system.
+Use a good ring spanner or socket to undo the bleed nipple in the first instance rather than an
+open ended spanner to avoid rounding off the hexagon.
+When installing new brake linings the calliper piston has to be pushed back into the cylinder
+as it has moved out to take up the wear in the old linings. Use a large ‘G’ Cramp for that job,
+top of the cramp on the piston, (helps keep it square with the cylinder). Should the piston not
+move in with relative ease then that is a sign that there is probably dirt or corrosion present,
+neither is good. The piston needs to come out. There are two ways of doing that, there is a
+third in sheer desperation! First, you can use the brake system to pump the piston out, ensure
+that the calliper is over a suitable container or small drip tray to catch the piston and fluid. If
+that does not work – possibly because you have established that the piston refuses to return
+into the cylinder – then completely remove the calliper from the glider, again have a
+container ready to catch the hydraulic fluid as it flows out of the reservoir.
+The next step in removing the piston is to blow it out with compressed air or pressure from a
+hydraulic rig. Compressed air is usually more readily available than excessive hydraulic
+pressure but is more likely to send the piston flying. Wrap the calliper in a cloth to prevent
+the piston from disappearing from view when it comes out. Make sure the bleed valve is
+closed and apply air pressure to the AN fitting or that aperture, use a trigger airgun or connect
+a hose to the unit. Hopefully the piston will pop out. If it does not, go down the hydraulic
+route if possible or, in desperation, mount the whole calliper in a lathe and cut the piston out.
+New pistons are available but one can easily be made in a lathe. If the cylinder is lightly
+corroded then a good rub round with fine wet/dry paper will do the trick. If the corrosion is
+severe with pitting then there are two options, buy a new unit – very expensive – or mount
+the calliper body in a lathe and skim out as little metal as possible to clear the corrosion pits,
+then make a new piston to fit. A piston 1mm larger diameter will be OK using the same size
+O-Ring seal. Always refit a piston with a new seal and lubricate with an appropriate seal
+lubricant.
+Refilling the hydraulic system or just bleeding the air out of it is best done from the bleed
+valve at the bottom of the calliper when installed. Bleeding from the bottom ensures that air
+is forced up the system rather than trying to force it down when the air would rather be on top
+of the oil not underneath it. If the Master Cylinder is mounted horizontally it will not be
+properly bled so if possible remove its mounting bolts and keep it sloping upwards towards
+the inlet port during the bleeding process. The Master Cylinder piston should be fully
+retracted for oil and air to flow through it back to the reservoir.
+
+--- PAGE 92 ---
+87
+There are proprietary makes of equipment you can buy to bleed the brake system but a large
+syringe and a piece of nylon tube works just as well and is much cheaper. First check that the
+bleed valve is free and can be undone and tightened easily. Remove the core and apply a little
+grease to help. Attach a piece of nylon tube – not silicon – to the syringe and suck up
+hydraulic oil from the supply bottle. Remove air from the syringe and tube and ensure that
+the tube is full of oil to the end and push it onto the bleed nipple, unscrew the nipple a turn or
+two and push the oil in from the syringe. Have cloth or paper towel beneath to catch the
+inevitable spill. Shut the bleed nipple when the syringe is almost empty of oil. Now repeat the
+exercise again ensuring that when the nylon tube is attached to the nipple there is no air being
+introduced. Repeat this operation until there is some oil in the reservoir. Once you are happy
+that all the air has been expelled from the system then shut off the bleed nipple and fill the
+reservoir directly to the correct level, no need to continue filling from the bottom. Clean up
+all the wet cloths and ensure the brakes, undercarriage and tyre in particular do not have any
+hydraulic oil on them and wash your hands thoroughly. Check the brake for correct operation.
+The calliper may well need operating through several cycles of brake application before the
+brake linings contact the brake disc so do not be alarmed if it does not work on the first
+application of brake.
+Steel Plate Brakes are found on some of the older Schleicher gliders – Ka6 for example.
+These are literally a curved steel plate that sits over the top of the wheel/tyre assembly,
+hinged at the back end and cable operated from the front end. When the brake is applied it is
+pulled down onto the tyre. Crude type of brake and works when dry – when wet it is not so
+good. The problems are that it wears the tyre out and also wears itself out and the steel plate
+can get holes in it. The holes have sharp edges and if not sorted out can cut into the tyre
+wrecking that. Some installations have a brake lining material attached to the steel plate.
+Section 11
+Wheels and Tyres
+AC 43.13-1B, Chap 9, Landing Gear; Para 9-14, Tyres
+CAIP Part 2, Lft AL/3-18 and 19 Tyres, Wheels and Brakes
+CAAIP Chap 32, landing Gear including Tyres, Wheels and Brakes
+Michelin Tyre Courses Levels 1 and 2
+Goodyear Aviation Tyre Care-2020
+Wheels and tyres used on gliders and motor gliders are usually of aviation quality, however,
+some tail wheel tyres and occasionally nose wheel tyres and their tubes are ‘commercial’
+items.
+These days most gliders are fitted with Tost wheels, some with Cleveland Wheels (and
+brakes) and the Polish gliders go their own way with – to us – odd ball sizes of wheels, tyres
+and tubes. Old British gliders were fitted with WW2 Fighter Aircraft tail wheels as their main
+wheels. War surplus Spitfire or Hurricane tail wheels usually. Good quality wheels but now
+the tyres are either very expensive if you can find one or just completely obsolete and not
+made any more. One such wheel and tyre assembly has somehow found its way to be the
+nose wheel of the Norfolk GCs K13! (Soon to be replaced with a Tost wheel and tyre).
+Wheels and tyres are important as they form the interface between the ground and the glider,
+often ignored until on a DI the bottom is found to be flat. They do deserve a little TLC.
+Common defects found on tyres and wheels are:
+
+--- PAGE 93 ---
+88
+
+Uneven wear across the tread
+
+Cuts in the tread
+
+Crazing on the tyre wall
+
+Occasional genuine puncture
+
+Burst tyre and tube
+
+Leaking valve
+
+Torn valve stem from tube
+
+Bent or cracked wheel rims due to a heavy landing
+Uneven wear across the tread is caused by towing the glider backwards by the tail dolly and
+supporting a wing with the wing dolly. The glider is often wing low on the dolly side, the wing
+dolly causes some drag and the glider is being towed very slightly sideways thus scuffing the
+tyre and removing rubber on one shoulder. Turning the tyre on the wheel occasionally can even
+out the wear but better still do not tow gliders in that fashion on hard surfaces. So bad ground
+handling leads to excessive tyre wear and unnecessary expense.
+Cuts in the tread are caused by sharp stones on the runway or taxiway. Not a lot one can do
+about that other than sweep the areas clean. Tyres with deep cuts should be replaced earlier
+rather than later.
+Crazing on the sidewall is old age. As most gliders operate from grass areas the tread does not
+get worn out and thus tyres do not get replaced. However, age plays its part and the rubber
+decays causing crazing. Crazed tyres should be replaced before the sidewall gives way
+completely – probably on a landing run - and may damage the wheel rim and possibly the
+undercarriage or doors through flailing rubber bits.
+Occasionally a tyre and tube will suffer a puncture, unavoidable issue unless the whole
+airfield area is swept clean. Sometimes with the cheaper inner tubes the tube crazes and then
+leaks out the air. One brand (cheap(er)) lasts about a year – 15 months before leaking. Buy
+the more expensive versions but at least they well outlast the cheap ones.
+Burst Tyres and Tubes are generally the responsibility of the pilot! Again there is no defence
+against the ground arriving too hard and fast to the wheels. It happens more frequently with
+tail wheels, less often with nose wheels and rarely with main wheels. A burst tyre/tube
+indicates a heavy landing and so not only has the wheel and tyre assembly got to be inspected
+but the whole glider subjected to a heavy landing check. Tost Wheels have ‘fins’ supporting
+the rim of the wheel and these are designed to give way on heavy impact thus absorbing some
+of the force involved. Minor distortion can probably be tolerated but if any part is cracked the
+wheel should be replaced.
+Leaking valve. Sometimes a little bit of dirt gets into the valve seat and there is a resultant
+leak. If a tyre is found under inflated and there is no valve cap put a little spit over the valve
+and see if it bubbles. If it does that is the problem. Depress the valve fully and with luck the
+dirt might be dislodged and blown out. Inflate the tyre and try again. If there is still a leak
+deflate the tyre by pressing the valve – do not remove it to deflate the tyre, the valve under
+pressure may fly out and hit you in the eye. Remove the valve from the deflated tyre and fit a
+new one. The Schreader valves are NOT regarded as 100% leak proof and that is why valve
+caps are fitted; decent metal ones to aircraft tubes.
+
+--- PAGE 94 ---
+89
+Valve Stems can be torn from the tube if the tube is dragged round the wheel by the tyre
+moving in relation to the wheel. A rare occurrence on gliders. To see if a tyre has migrated
+from its fitted position there are Creep Marks painted on the tyre and wheel – sometimes
+painted on. Perhaps we should be more diligent in applying creep marks but we rarely do.
+The references are good on what to do and look for when inspecting wheels and tyres.
+Particularly good are the Michelin Course Notes Levels 1 and 2. You can read and learn the
+contents and then take the short test found on the last pages of the pamphlet with DIY
+marking.
+Wheels and tyres should be treated with respect as they are quite capable of causing injury if
+treated incorrectly. The reference material says that inflation should be carried out in a cage,
+the wheel in the cage and you outside it. This precaution is there to contain wheel debris
+should the two halves or rim of the wheel decide to part company whilst inflation is
+underway. Although our tyre pressures are not very high there is a considerable force
+involved. Area in square inches x pressure in pounds per square inch! Don’t lean over a tyre
+whilst you inflate it just in case. Ensure the wheel bolts are the right size, correctly inserted
+and tight before inflating the tyre. Above all ensure you are using the correct Units for the
+tyre pressure not like the lad who tried to put 360 Bar into a Tornado main wheel instead of
+360 psi! (Fortunately he ran out of nitrogen and 2000 psi).
+When assembling the wheel and tyre – most are split wheels with older tail wheels being
+solid – care has to be taken to get:
+
+The internal spacer tube between the bearings lined up
+
+The cutouts for the valve stem lined up
+
+The tube not trapped between the two halves of the wheel
+
+The tyre mounted correctly
+The internal spacer takes the compression load across the axle and keeps side loads off the
+ball bearings. It can be lined up by inserting the axle through both halves of the wheel prior to
+bolting the two halves together. The spacer needs to be exactly the right length to do the job.
+One half of the wheel has the exit hole for the valve stem, the two halves have cutouts in the
+inner mating edges to allow the valve stem an exit to the inner part of the wheel. These have
+to be lined up otherwise the halves will not come together.
+The tyre needs to be mounted correctly with the tube inside it. The tyre, if of Aviation Spec,
+will have a Red Dot on one side – this is ‘the light spot’ . The tyre will have been balanced
+and the lightest spot found and marked with the red dot. This red dot has to be in line with the
+valve – the heavy spot on the tube. That helps keep the wheel assembly balanced when
+rotating. The tube should be lightly dusted with French Chalk before fitting inside the tyre to
+help prevent abrasion and then slightly inflated till the cross section is about round. Put the
+tyre and tube on the wheel so that the valve stem protrudes from the exit hole. Fit the spacer
+tube, line up the cutout for the valve and then close the halves together and insert a bolt and
+nut. Some wheels have integral nuts embedded whilst some disc braked wheels rely on
+threaded holes in the brake disc for retaining the wheel halves. Check that the tube is not
+trapped between the wheel halves by pressing together the wheel halves and listening for a
+metallic sound, metal to metal. If this is not clear then ease the halves apart, check and try
+
+--- PAGE 95 ---
+90
+again. Tighten the bolts finger tight and then check for a trapped tube by pushing one side of
+the tyre bead over the centre joint of the wheel. Fully tighten the wheel bolts/nuts. Inflation is
+best carried out in two stages, first remove the valve and inflate to working pressure and then
+remove the tyre inflator. That should have seated the tyre bead on its seat. Insert the valve and
+tighten finger tight and then inflate to working pressure. Check the pressure 24 hours later as
+the tyre may expand and reduce the pressure.
+Occasionally a tyre may not have a red dot, if there is not one then feel around inside the tyre
+and see if there is a slightly raised pad. If there is this is the ‘heavy spot’ and the tyre should
+be fitted with that pad opposite the valve.
+Most aviation spec tyres are also marked with light green dots around the side wall. These
+dots mark Awl Holes. The Awl is a sharp pointed tool and is used to make small holes through
+the outer construction layers of the tyre to allow trapped air to escape. (Tyres are built of
+layers of rubber and fabric cords on a cylindrical mandrel and then the ends of the resultant
+tube are squashed inwards forming the basic shape of the tyre prior to being cured in a mould
+in an autoclave).
+Fit wheel, tyre and brake assembly to the undercarriage!
+Removing and fitting a 210 x 65 or 200 x 50 tail wheel tyre to a solid wheel takes
+considerable effort and patience. Small tyre levers are a necessary tool for that job.
+To remove the tyre deflate the tube and then remove the valve. Free the tyre on both sides
+from the bead with a tyre lever or use a vice as a press tool across the tyre and wheel. Mount
+a steel bar of axle diameter vertically in a vice so that it can hold the wheel whilst you wrestle
+with it. Place the wheel valve down on the steel bar. On the side diametrically opposed to the
+valve stem push the tyre bead into the well in the centre of the wheel. Above the valve use a
+tyre lever to lift the tyre bead over the wheel rim and a second tyre lever a bit further along.
+Once some of the bead is outside the wheel the rest should come off easily. Remove the tube.
+Then repeat the exercise with the tyre levers so the tyre comes all the way off the wheel.
+Fitting the tyre is the reverse! Remove the valve from the new tube! Insert the lightly dusted
+with French Chalk tube into the tyre, no red dot on these tyres. Lightly lubricate the tyre rim
+with washing up detergent and fiddle the valve stem into its exit hole. Using fingers, put the
+tyre bead opposite the valve stem over the wheel rim and into the well. With not too much
+effort the rest of the tyre can be pushed over the rim. Lubricate the second bead seat round the
+rim and slightly inside the tyre – just inside not all the way in. Again put the bead opposite
+the valve stem over the rim and into the well. The next bit is the hard part, using your fingers
+again push the tyre bead bit at a time over the wheel rim – yes it is hard and a lot of effort –
+and finally the tyre bead should pop happily over the rim. If you find it necessary to resort to
+using tyre levers to finish fitting the tyre be very careful not to nip and split the tube! Very
+easily done. Some of these tail wheels need a piece of polythene tubing fitting over the valve
+stem to prevent the stem sticking too far out of the wheel and causing a foul on the
+undercarriage.
+Note that it is inadvisable to reuse a second hand tube. The tubes stretch as the original tyre
+increases in size and if one is put back into a new tyre it will crease up, rub and wear through
+causing a puncture.
+
+--- PAGE 96 ---
+91
+Bearings that feel lumpy, rough or difficult to turn have to be replaced. With the wheel
+stripped the old bearing can be pressed out using a pillar drill as a press. Insert the new
+bearing in reverse but ensure that the force used is on the outer race of the bearing and not on
+the inner race – that can destroy the bearing before it is used. Press the bearing in square to
+the wheel, if it cocks sideways it will jam or even damage the bearing housing. If the fit
+seems really tight heat the wheel half first and then pop the bearing in. Be quick or the
+bearing will heat up and expand and become difficult again. Always change both bearings,
+not just one. If the bearing goes back in too easily then ensure that the outer race and the
+housing are fully degreased and use Loctite Bearing Fit to retain the bearing (basically glue it
+in place).
+Tost and other manufacturers wheels rely on standard Ball or Taper Roller Bearings for their
+rotation. All parts for Tost wheels and brakes are available. Wheel Bearings are available
+from numerous UK suppliers. The bearing identification number is either embossed on a
+rubber shield or on the outer race edge. RS Components also give a C of C. Buy good quality
+bearings such as SKF. Tyres and tubes can be obtained from various aircraft parts suppliers or
+maybe your local glider inspector. Certificates of Conformity and possibly a Form 1 or the
+American equivalent Form 8130-3 are issued with tyres and tubes. Ensure that the work is
+recorded in the log book and in a work pack and these forms are included. Most, if not all,
+aviation spec tyres have serial numbers embossed on the tyre’s side wall, make sure the
+paperwork agrees with it.
+Tyres and tubes come in different qualities and prices, cheap and expensive. When buying
+tyres it try to get a mid-range tyre, they last pretty well. The cheap ones probably don’t have
+quite as much rubber in the tread and wear that off sooner rather than later. Some tyres are
+made for specific gliders. A Schempp Hirth glider may have a 5” wheel and consequently a
+5.00 x 5 Tyre but a standard tyre tends to rub on the slightly narrower undercarriage so Tost
+now supply a narrow version of the 500 x 5 tyre and that is a 336x115-5, Tost Aero 10 PR.
+For 210 x 65 tyres for the tail wheels buy Tost Aero ones, the Classic Aero brand tyre does
+not fit, the bead diameter is too small. Tost make a 6 ply rating 200 x 50 tyre which is good
+for self-launching sailplanes with tail wheel steering and heavy tail ends but the ‘commercial’
+brand Vredestein sold by aviation tyre suppliers is OK for gliders and does come with a C of
+C. I have heard of people trying to fit ‘wheel barrow tyres’, not a good idea, they are
+relatively flimsy and not built to take landing loads or the high speeds that wheel barrows
+never reach.
+
+--- PAGE 97 ---
+92

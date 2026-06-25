@@ -1,0 +1,643 @@
+
+--- PAGE 1 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Equipment 
+BGA Compendium – 05/14 
+ 
+1 
+GENERAL  
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+R 
+Removable equipment 
+Barographs, Batteries, ballast weights, O2 bottles etc. safe and secure? 
+ 
+ 
+R 
+Cockpit equipment 
+Must not impede escape 
+ 
+ 
+M 
+Oxygen bottles 
+To be internally inspected every 5 years 
+ 
+ 
+R 
+Canopy Gas Struts 
+Inspection guidelines 
+BGA 031/05/2002 iss. 1 
+06/02 
+I 
+Cair Info Leaflet 
+Ottfur release hooks and info on metric bolts 
+IL 1 iss2 
+02/03 
+I 
+Cair Info Leaflet 
+Compass check swings for gliders 
+IL 2 
+02/03 
+I 
+Cair Info Leaflet 
+Cair modified Ferranti Mk 6 & 14 Artificial Horizons 
+IL 3 
+02/03 
+I 
+Cair Info Leaflet 
+Quick release unit springs 
+IL 4 iss2 
+04/03 
+I 
+Cair Info Leaflet 
+OM104C & OM106E series Ottfur release units 
+IL 5 
+02/03 
+I 
+Cair Info Leaflet 
+Inspection guidelines for vintage Ottfur release units 
+IL 6 
+02/03 
+R 
+Instrument panels 
+Replace metal with GRP/Wood for improved crashworthiness 
+ 
+02/05 
+M 
+Transponders 
+See Radio section 
+ 
+4-2006 
+I 
+Lithium batteries 
+EASA Safety Information bulletin - fires in Lithium batteries 2009-22 
+ 
+3-2009 
+I 
+Tail wheels 
+Only use specified tail wheel and tail dolly wheels. Do not use solid 
+tyres unless specified. 
+ 
+5-2011 
+ 
+ 
+CONTROLS 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Control cables 
+Inspection of copper sleeves used on control cables 
+DGAC 67-22 
+ 
+R 
+Control connections 
+L’Hotellier and other quick release types, inspect after rigging as well 
+as positive control checks 
+ 
+06/99 
+R 
+Wedekind couplings 
+Safety connectors 
+ 
+08/94 
+M 
+Couplings 
+Check that locking pins cannot jam controls 
+ 
+10/97 & 12/97 
+I 
+Cable end fittings 
+Cracking and corrosion 
+CAA LTO 2325 
+04/02 
+M 
+L’Hotellier couplings 
+quick release couplings inspection 
+LBA 1993-001/3 
+04/93 & 02/04 
+M 
+L’Hotellier QR. Cam type 
+Inspections 
+LBA 1994-001/2 
+04/94 & 02/04 
+M 
+L’Hotellier couplings 
+Annual wear check reminder 
+ 
+02/04 
+I 
+Control checks 
+Part of control checks is for correct sense as will as installation and 
+locking and applies to all controls 
+ 
+04/04 
+M 
+Controls 
+Inspection of Nicropress and Talurit cable swages 
+ 
+LBA AD 82-216 
+ 
+I 
+L'Hotellier couplings 
+Wear in "Wedekind" sleeves can cause partial disengagement 
+ 
+1-2010 
+ 
+L'Hotellier couplings 
+EASA SIB 2012-04 and BGA guidance 
+EASA SIB 2012-04 
+2-2012 
+
+--- PAGE 2 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Equipment 
+BGA Compendium – 05/14 
+ 
+2 
+INSTRUMENTS & ELECTRICAL 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+R 
+Instruments 
+Altimeters, sub-scale to be checked every C of A 
+ 
+04/98 & 06/99 
+M 
+Compasses 
+Check swing every 2 years 
+ 
+ 
+I 
+Electrical connectors 
+Milti plugs make no1 pin positive. AXR & XLR types have no2 positive. 
+Always fit fuses 
+ 
+ 
+M 
+Rocker Switches 
+Inspection of Carling Tech. switches  
+AD 2006-0274 
+5-2006 
+ 
+ 
+RADIO 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+I 
+Radio 
+Must be safe and secure, must not impede exit from aircraft 
+ 
+ 
+M 
+Radio 
+Frequencies to be checked every 48 months N/a for 720 & 760 
+channel radios 
+ 
+ 
+M 
+Becker AR4201 
+s/n 150 to 9499 Modifications due communication problems (Optional 
+for existing installations with restrictions) 
+AD2003-234 
+08/03 
+M 
+Motor Gliders 
+Installations and changes to motor glider must be certified by a CAA 
+licensed radio engineer and be CAA approved 
+ 
+TBA 
+M 
+Transponders 
+Annual checks including mode S and 2 year mode C checks  
+CAA AD 002-12-99 REV 2 
+ 
+ 
+Outside privileges of BGA inspectors unless holding “RE” Radio 
+Engineer. Specialist test equipment required 
+ 
+4-2006 
+M 
+Funkwerk Transponders(Formally Filser) TRT 600 & TRT 800 intermittent loss of detection 
+ 
+AD 2008-0158R1 
+5-2008 
+M 
+Narco Transponders 
+Narco AT-150 Transponder – Erroneous altitude replies 
+AD 2009-0200 
+4-2009 
+M 
+Dittel FSG 2T 
+Incorrectly installed capacitor 
+AD 2010-0186, SB FSG 2T-1.06 
+5-2010 
+M 
+Transponders 
+Maintenance requirements 
+BGA 052/08/2011 issue 1 
+4-2011 
+ 
+Becker AR3201 
+Internal battery change every 4 years 
+ 
+2-2012 
+M 
+8.33 kHz spacing 
+8.33 kHz channel spacing radios required by 2018, if upgrading or 
+installing fit 8.33 kHz radios. Do not install any other types after 17 
+November 2013 
+ 
+1-2013 
+ 
+ 
+Miscellaneous Equipment 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Halon Fire Extinguishers 
+Fire Fighting Equipment Halon fire extinguishers filled with 
+contaminated Halon 1211 
+AD 2009-0262R1, ASB-115C 
+1-2010 
+ 
+ 
+
+--- PAGE 3 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Equipment 
+BGA Compendium – 05/14 
+ 
+3 
+Seats & Harnesses 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Harnesses General 
+Must be installed so that webbing cannot creep through buckles 
+ 
+12/87 
+M 
+Garinger Seat harnesses 
+loose nuts 
+ 
+08/87 
+R 
+Garinger Seat harnesses 
+Anti slip mod kit 
+ 
+08/93 
+M 
+Seat cushions 
+Only energy absorbing types to be used in addition to manufacturers. 
+E.g. “Dynafoam” 
+ 
+08/96 
+M 
+Autoflug Seat harness 
+Anti slip springs should always be fitted 
+ 
+12/96 
+A 
+Williams Seat harness 
+post 1992 blue QR boxes, return to have strengthening plunger fitted 
+ 
+06/97 
+M 
+Seats 
+Slot in types must be secured to retain in negative “G” 
+ 
+06/89 
+R 
+Seat trim 
+Obstructing exit from glider – inspection 
+ 
+BGA 019/06/2001 iss1 
+06/01 
+I 
+Seat harnesses 
+Ensure correctly installed 
+ 
+08/00 
+M 
+Sutton harnesses 
+Integrity inspections Compliance by 1 July 02  
+CAA AD 002-12-2001 R2 
+06/02 
+I 
+Fastening lugs 
+incorrectly assembled attachment lugs cause damage to locking hole 
+ 
+04/03 
+I 
+Harness inspections 
+Careful examination required for damage and incompatible parts.  
+BGA AMP Manual 4-8 
+04/04 
+I 
+Seat Harness Life 
+Seat harnesses may be regarded as “On Condition” for BGA Gliders 
+provided no AD exists to replace them at a certain calendar life 
+ 
+02/05 
+M 
+Life Extension AD 
+Note: if a life extension AD, or TN referred to in a life extension AD, 
+lists harnesses as a lifed item this constitutes an AD mandating the life 
+of a seat harness – in these cases the "on condition" does not apply. 
+ 
+3-2009 
+I 
+Gadringer QR 
+Quick Release unit lap strap detached. Suspect wear on high time unit 
+ 
+3-2011 
+I 
+Seat Harness Attachment 
+Wear/stripped threads in shackles 
+ 
+2-2014 
+ 
+ 
+Parachutes  (Personal Equipment AD’s etc as notified, list may be incomplete) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Parachutes 
+Plastic ripcord handles must be replaced with metal  
+LBA AD80/13/0 
+10/98 
+I 
+GQ Parachutes 
+May have suspect canopies 
+ 
+12/88 
+M 
+MarS spol SRO Parachutes 
+Models ATL-88, /92s & 90 mfd after 30/12/97 are un airworthy  
+AD-T-039/2002-04-29 
+04/02 
+M 
+Brüggemann Emg Parachutes 
+Ripcord cable high forces  
+AD2003-162TM LBA0001 
+06/03 
+M 
+Irvin GQ, Thomas and others 
+Recall of certain Capwell supplied ripcord pins and ripcords 
+ 
+CW03-01 
+08/03 
+M 
+Performance Variable eK 
+Failure to deploy  
+AD-D-2005-248R1 
+08/05 
+M 
+Parachutes de France Techno 
+Reserve chute mandatory packing, modifications 
+ 
+AD 2006-0160-E 
+5-2006 
+M 
+Parachute Shop 
+Certain parachutes removed from service 
+ 
+AD 2006-0279 
+5-2006 
+M 
+Spekon Parachutes 
+Replacement of drogue chute 
+ 
+AD 2008-0174 
+5-2008 
+M 
+Thinback T104 & Slimback T204 
+Ripcord and pin inspection  
+AD 2010-0009-E 
+1-2010 
+
+--- PAGE 4 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Equipment 
+BGA Compendium – 05/14 
+ 
+4 
+Hoses 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Fuel and Oil Hoses 
+Replacement of Aeroquip type 601 hoses mfd. between 3/84 and 5/88 
+AD005-01-89, SB002R1 
+ 
+I 
+Aeroquip hoses 
+Some are suspect 
+ 
+10/88 
+I 
+Trelleborg Hoses 
+Faulty batch mfd code 25 99 Skydrive Safety Bulletin 
+010501 
+06/01 
+ 
+ 
+Carburettors 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+R 
+Stromburg Carburettors 
+Float valve assy wear – flooding, replace at 500hr 
+ 
+10/87 
+M 
+Stromburg Carburettors 
+Replacement of diaphragm 
+AD76-283 (Limbach TB12) 
+10/87 
+ 
+ 
+Magnetos 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+M 
+Bendix Magnetos 
+Impulse coupling inspection Models S4LN, S6LN, 
+ 
+FAA 82-20-01, SB 623 
+ 
+M 
+Bendix Magnetos 
+Tracking of Distributor block 
+ 
+FAA 
+12/88 
+M 
+Bendix Magnetos 
+Impulse coupling, coils & magnet inspections 
+FAA 94-01-03R2 
+02/99 
+M 
+Bendix Magnetos 
+Capacitor replacement 
+ 
+FAA 94-06-09 
+06/94 
+M 
+Bendix Magnetos 
+Impulse coupling inspection 
+ 
+FAA 96-12-07 
+06/98 
+M 
+Bendix switches 
+Inspection of Key operated magneto switches 
+ 
+FAA 76-07-12 
+ 
+M 
+Bendix Magnetos 
+Impulse coupling inspection some reduced to 100 hrs  
+FAA 2005-12-06 
+06/05 
+M 
+Slick Magnetos 
+Insp/replace coils Models 42xx, 42xxR, 62xx, 62xxR.  
+FAA 81-16-05, SB 1-81 
+ 
+M 
+Slick Magnetos 
+Impulse coupling inspection Model 447 
+ 
+FAA 74-18-05, SL1-73 
+ 
+M 
+Slick magnetos 
+Impulse coupling inspection Models 447, 41xx, 42xx, 62xx & R  
+FAA 80-06-05 
+ 
+M 
+Slick Magnetos 
+500-hour overhaul life 
+ 
+12/97 
+R 
+Slick Magnetos 
+250hr Service life recommended by manufacturers to single ignition 
+motor gliders 
+Slick SB 1/89 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGE 5 ---
+BGA Airworthiness Compendium 
+Compendium of Airworthiness Directives, Mandatory Modifications, Special Inspections and Checklist of Defects 
+Equipment 
+BGA Compendium – 05/14 
+ 
+5 
+Towing Equipment 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+R 
+Hooks general 
+Check for wear, correct lubrication and cleanleness 
+ 
+ 
+M 
+Hooks general 
+If two hooks are fitted, they both must operate from a single control 
+ 
+ 
+M 
+Tost hooks 
+Replacement of bracket (Universal 53 series S/N 1>29999) 
+ 
+AD 1/66 
+ 
+M 
+VEB ALON 155 
+inspection 
+ 
+AD 95-260 
+ 
+R 
+Ottfur OM series 
+Inspection guidelines from Cair Aviation 
+ 
+Issue 2 
+08/02 
+M 
+Tost releases 
+Other than cleaning and lubrication no maintenance is allowed on 
+Tost releases 
+ 
+02/04 
+M 
+Tost releases 
+All Tost releases in UK gliders are subject to life limitation:  
+- 
+BGA Gliders may use 4-5 actuations per flight for club gliders = 
+2000 to 2500 launches.  
+- 
+Private gliders may use 3-4 actuations per flight = 2500 to 3000 
+launches 
+AD 1989-018/3, TN 1-2001 
+02/05 
+I 
+TOST Tow line retractor 
+Excessive wear of weak link inside end stop/link carrier 
+ 
+1-2007 
+I 
+TOST release 
+Failure of beak jaw 
+ 
+2-2009 
+M 
+Ottfur releases 
+Inspection of release arm  
+BGA 055/03/2014 issue 1 
+1-2014 
+ 
+Towing Releases In Service Reports (Advisory) 
+Status Subject 
+Detail 
+Reference Information 
+TNS 
+ 
+Cair CW 300 
+Release lever broken 
+ 
+2-2010 
+ 

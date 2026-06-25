@@ -1,0 +1,287 @@
+# Chapter 8
+
+General Comments
+Section 1
+General Comments
+Servicing and repairing gliders carries with it a serious responsibility for the safety of the
+pilots who are going to venture aloft relying on your handywork! They will trust you
+implicitly! They probably won’t think ‘Who worked on this glider? Do I trust him/her?’ they
+will just get in and fly.
+So how should you cope with that responsibility? No lecture here on Human Factors other
+than to say we are Human and can make errors. Being an Aircraft Engineer does not make
+you infallible! Having completed a job and on the basis that you probably value your neck
+ask yourself the question: ‘Would I be happy to fly that glider?’ If the answer is ‘Yes’ then if
+at all possible go and demonstrate that happiness by taking the machine aloft. If the answer is
+‘No’ then you have an issue! If you have doubts about the work you have completed – why?
+Maybe the job required skills that you thought you had but struggled to complete the task
+anyway. If you have a task that you feel is above your pay grade then ask for advice and help
+before or during the work and the person you ask will almost certainly assist. It is the way we
+have all learnt our trade. Recognise your skill limits and say ‘No’ to a job rather than get
+totally bogged down and worried about the final outcome.
+Don’t let your Customer – Gliding Club or private owner – put you under a lot of stress
+because the glider is needed tomorrow and the work is going to take a couple more days.
+Stand your ground, perhaps apologise that it is not going to be available and hope that will be
+accepted. If an argument is the result you can always tell the owner to pay his dues to date
+and then take the glider elsewhere! (And it still won’t be available tomorrow)!
+Work within the rules! There are plenty of rules to abide by and if you adhere to them that is
+the best you can do. Do not take short-cuts, they rarely work, a friend has a poster in his
+office:
+How true is that? The problem with a flying machine is that if the job has not been done
+properly it might only come to light whilst some distance above Terra Ferma.
+So be confident – not over confident – in your skills and abilities, work within those limits
+and learn from others, expand your skills and knowledge and then you can tackle those more
+demanding tasks. It will not happen overnight. If you can find a practical course to advance
+your skills, for example wanting to carry out Composite Repairs, then get on that course. Ask
+a Repair Organisation or maybe even a Manufacturer if you can join them for a while so that
+you can learn these skills.
+Why is it that when there’s no me to do a job
+properly there is always me to do it again!
+
+--- PAGE 98 ---
+93
+Consider the servicing work carried out during an Annual Inspection as ‘Preventative
+Maintenance’, you do not want to see that glider until the next Annual Inspection. Sloppy
+Annual Inspections cause issues for the Owner, (perhaps he/she should not have gone for a
+cheap job). Sloppy Annual Inspections have defects occurring withing a couple of weeks and
+then the glider is taken to another Inspector for rectification. More often than not for
+rectification of components such as gas struts with no pressure, failed release unit springs and
+undercarriages that do not stay up, broken undercarriage structure and wheels with bolts
+missing and bearings gone. Even a rusty wheel brake cable that failed resulted in a collision
+and very significant damage to a wing. Nothing you can do about worn tyres, punctures or
+inflicted damage. Assess tyres and brake linings especially on Club gliders, particularly two-
+seaters. If the component will not last another year – change it! Don’t get drawn into offering
+fixed price Annuals, it does not work like that.
+Furthermore:
+Try and keep abreast of regulation changes and updates. It happens on a regular basis and not
+every change that occurs is broadcast to the world. The BGA Form that you downloaded last
+month may have been superseded last week – have a quick check on the web site.
+Every task carried out on a glider, motor glider or aircraft needs to be fully documented. The
+job cards should say exactly what you have done if it is over and above the statements on the
+Form 267. If you removed a component, stripped it, cleaned it, lubricated it and replaced it,
+say so. You do not need to go to the Nth degree in detail but don’t just write ‘Item Removed’,
+‘Item Replaced’.
+Section 2
+General Engineering Comments
+To carry out aircraft engineering work effectively you need a tool kit maybe stating the
+obvious. However, a decent tool kit should have good quality tools within. It is false
+economy to buy cheap tools that will not last without distortion of spanner jaws, hexagonal
+Allen Keys that loose the hexagonal shape when put under load, screwdrivers that have soft
+ends that distort. OK, if necessary when starting out you buy cheaper tools but replace with
+decent tooling that will last for years. Teng Tools, Draper Professional and Sealey
+Professional are good makes along with some of Halfords tools. Tool kits or sets of spanners
+in a box also helps tool control, you can see at a glance is a tool is missing after a job has
+been completed. One source of good one-off tools is an outlet selling surplus military tooling
+
+--- PAGE 99 ---
+94
+– always good quality and for a one-off special spanner or socket you cannot go wrong. Price
+is usually good too.
+There is an ever growing need for torque wrenches. The above mentioned tool manufacturers
+supply good quality torque wrenches. These tools come in various torque strength ranges and
+you would probably require three taking you up to say 300 Nm (Newton Metres). Again if
+there is a Military Surplus tool available it will be of good quality and manufacturers will
+repair and calibrate them for you. Your torque wrenches will need regular calibration checks.
+Weighing Equipment is perhaps an added luxury for a volunteer inspector – not degrading the
+‘volunteer’ bit - just meaning someone who is not carrying out the work on a full-time basis.
+Some Gliding Clubs have their own weighing scales for everyone’s use. A full time Inspector
+would find a set of scales a great addition to the workshop equipment. If you have three
+scales you can weigh light aircraft as well as gliders. You need three scales anyway if you are
+likely to weigh a Grob G109 or an SF25C with two wheels up front. Again this equipment
+needs regular calibration checks.
+Other hand tools that you will need on a regular basis are drills (electric and/or hand drill)
+and drill bits, screw thread taps and dies, metric and UNF threads are commonly used with
+BSF and BA threads on older British gliders and aircraft, reamers as and when needed can be
+purchased as one-offs – adjustable reamers are very handy for odd-ball jobs. A set of Rivnut
+tooling is almost a necessity as most GRP gliders have numerous Rivnuts fitted to hold seats
+and panels in place and being aluminium the threads strip eventually and the item needs
+replacing. Likewise Pop Riveting Tools are really handy for replacing anchor nuts and some
+other lightweight attachment fittings.
+Plan your task. If you are dismantling something take a lot of photos before you start, helps
+on reassembly! Repairs need more thought than some folks realise. If you do Action A before
+Action B then it may not be possible to do Action B. Fit components in the wrong order and
+all of a sudden you have a problem and will need to remove some components to fit the one
+you had left till later! No point in repairing a hole in the skin if you need access to carry out a
+task inside that skin later on. Sit down with a coffee and really think through what you are
+going to do. Break the whole job down into specific bite size pieces and write them down in
+order. Then go through the list and think the job through, can each part be carried out or have
+you snookered yourself?
+Diagnosing the cause of a fault seems to be a dying art. You need to be able to come up with
+the cause of a defect before you can fix it properly. We can all see a crack in a piece of
+plywood and most can replace that bit of plywood. That action though has repaired the
+symptom but not the cause of the crack. Unless the cause has been established and dealt with
+the ply will crack again – and again. It is no good replacing a fuse time after time – what is
+causing the fuse to blow? More often than not the ‘defect’ you are looking at is the symptom
+of a defect yet to be found. Think laterally and understand the component or system you are
+dealing with. Even ‘boffins’ are not immune from the failure of diagnosing a fault. Many
+years ago British Aerospace, then responsible for the Jet Provost, and Dunlop, manufacturer
+of the Mk3 Brake System Pressure Reducing Valve spent 2 years arguing and blaming each
+other for a fault, or more correctly a symptom, that manifested itself as a momentary rise in
+the Brake System Pressure when the dive brake was closed. The newcomer to this wrangling
+said that this was bound to happen as the system stood and was nothing to worry about. There
+was a moment of silence and disbelief that this person should say such a thing! It was then
+
+--- PAGE 100 ---
+95
+explained to the boffins – designers and stress engineers – that as the vast quantity of
+hydraulic oil was being fed back to the reservoir, the return line would be subjected to a rise
+in pressure above its normal atmospheric pressure. That increase in pressure would be felt on
+the pressure reducing valve adding to the spring force acting within the valve and thus
+increase the Brake System Pressure whilst the return line was pressurised. The meeting called
+for a pressure gauge to be inserted into the return line of a Jet Provost to prove that indeed
+there was a pressure rise. There was and the whole subject put to bed!
+Go and learn about the systems and aircraft structures – be inquisitive, ask questions, find out
+how and why things work. Consider more abstract things like load paths through structures,
+shear loads, compression loads and tensile loads. Take things apart and have a look to see
+how it works. It is all amazing and how devious thinking solves problems. Take Concorde for
+example. Its skin would get very hot because of air friction and ram air being pressurised and
+heating up. Passengers need to be kept cool but the cold outside air normally used to do the
+cooling – ram air – enters the aircraft at a high temperature. The air also has a quantity of heat
+in calories, remove the calories and the temperature drops. That problem was solved with a
+high degree of lateral thinking. The air could not be cooled by more ram air as that was also
+hot. So what happened was that the incoming ram air was fed through a heat exchanger with
+the engine fuel, calories removed from the ram air and put in the fuel. The hot fuel was fed
+into the engines and effectively dumped the heat from the air overboard via the engines!
+If you are going to get involved with wiring issues then you will need some electrical tools
+too. A small soldering iron for plugs and sockets, crimp tooling for end terminals, hot air gun
+for heat shrink tubing, Multimeter and no doubt other items.
+Control cable tooling is something that is rarely found in your average tool box. NicoPress
+tools are relatively expensive but a worthwhile addition to your tool collection as will be the
+good pair of cable cutters you will need. Borrowing tools is OK occasionally but if you break
+it ….!
+Some workshop tooling you cannot buy – you have to make it! This calls for a little more
+expertise in design and manufacturing. Sometimes the simple things make life a bit easier!
+For example lining up undercarriage parts, bushes, wheels, centre tubes in wheels etc can be
+frustrating. The same applies to other jobs requiring items to be lined up with a shaft. It is
+useful to make up a collection of ‘bullets’ that can be attached to the axle or shaft prior to
+inserting it. The bullet comprises a tapered piece of metal with a small diameter at one end
+and a rebate or thread at the other to fit inside the hollow shaft or attached to the threaded end
+of a bolt, (thread has to be smaller than the outside diameter of the bolt, some axles are 20mm
+diameter with a 10mm thread at the end). The tapered bullet automatically lines up all the
+fiddly bits that the axle or shaft has to pass through. The same principle can be used on Astir
+and Libelle undercarriage pivot shafts. Astir and Libelle shafts can be removed by driving
+them out. Once out drill the end and tap in a thread, M6 in the Astir and M8 in the Libelle. A
+shaft with the appropriate thread can be screwed into the end of the shaft and a bullet in the
+other to reinsert the shaft. Next time the shaft needs to come out screw in the extracting tool
+(with handle fitted) and then the shaft can be pulled out quite easily.
+Tools to operate control ‘Dog Drives’ in wing root ribs can be made from large sockets to go
+over or inside the drive.
+
+--- PAGE 101 ---
+96
+Maybe you need to drill a hole through two metal fittings sandwiching a 60mm wide piece of
+wood. Each metal fitting has a hole for the bolt that will be inserted. Your drill needs to go
+through the wood and out of the hole in the metal bracket the other side. Not nearly out of the
+hole but exactly out of the hole. How can you guarantee success first time?
+All that said but appreciating not everyone has access to a lathe and band saws. If you do
+happen to have room for a small workshop or start doing glider repairs professionally the
+following machines are recommended as very useful bits of equipment:
+
+A Lathe, small Myford Super 7 is adequate. Turns bushes, shafts, threaded items,
+Venture Outrigger Legs and a host of things you never thought you would need.
+
+A band saw – or two. One for wood and plastics and one for metal cutting.
+
+A Pillar Drill, makes holes, mixes Butyrate Dope in a milk churn, presses out wheel
+bearings
+
+A Planer/Thicknesser if you are going to do any serious woodwork
+
+Circular Saw
+
+A decent Router and selection of bits, again for woodwork
+
+Selection of planes and chisels for woodwork
+
+G Cramps and spring clips/grips, you can never have enough!
+
+A compressed air supply is handy for air driven tools and a spray gun, before
+purchase, ensure the compressor is up to the task by way of pressure and supply -
+CFM, (cubic feet per minute). Caters for GRP work. Air tools, drill, small
+sander/grinder for 2” discs, straight grinder tool for small shaping bits – diamond
+tipped burrs etc,
+
+GRP Tooling. Small diamond wheel cutter – air driven, rollers, paint brushes, waxes
+and release agents.
+It is preferable to have all your own tools and equipment rather than to borrow kit. If you
+need a tool go and buy a good one there and then. You get what you need and no doubt that
+task will come around again. If the occasion is literally a one-off job or a tool is an expensive
+special tool and you can borrow it then that is OK but engineers do not like lending out
+general tools even if they are a bit expensive to buy – they have the tools to do their work and
+have invested in them. The owner of that tool or equipment may offer to come and do the job
+for you and charge for the privilege!
+Cultivate a good relationship with your parts suppliers and in particular with your local
+friendly Aircraft Welder! Learn from your welder friend as to how he/she likes to have repair
+jobs presented. Know repair schemes for tubes, sheet and solid metal components. Most
+welding jobs need a jig to hold component parts in their relative positions whilst being
+welded together. It may be just tack welding prior to a complete job being accomplished. A
+lot of welders like to weld but do not always appreciate having to sort out the repair scheme,
+order all the materials needed and then make the repair pieces and necessary jigs. From a
+complete steel tube fuselage as in K13s etc to small repairs and modifications it helps to get
+involved with the job and understand the processes. Making jigs is not rocket science, a jig
+for a couple of pieces of tube or plate and tube can be as simple as a lump or two of body
+filler to give the necessary support. If you are repairing a fitting or exhaust pipe and a part of
+it is going to be cut out, make the jig round the old part before cutting it up! Jigs to repair a
+broken wing or fuselage are significantly more complex – but you have time to learn!
+
+--- PAGE 102 ---
+97
+Forge links with other Inspectors and Companies – yes we all talk to each other even if our
+customers don’t think we do. Scheibe Aircraft for example – they do get visited in Germany –
+have for some years told their UK customers to come and see Anglia Sailplanes and Nick (the
+welder) if there are weld repairs to be carried out on Scheibe aircraft/gliders before
+contemplating shipping the component to their premises in Germany. Between them they
+have sorted out a number of repairs.
+It is suggested that on your computer you keep:
+
+Aircraft Records for the gliders you work on, Annual Servicings and
+Repair/Component Replacement Jobs
+
+A Register of Job Cards raised so that you have a numbering system
+
+Lists of ADs, Tech Notes, Service Bulletins by glider type
+
+A data base of Suppliers and what you can obtain from them
+
+A Batch Number Book if you are supplying spare parts to Customers whose glider
+you are not maintaining. You may stock some tyres and you send one to ‘Fred’ who
+needs one, he also needs a C of C and maybe a Form 1 or 8130-3. In that case you
+also need numbered Cs of C! Helps even if you are maintaining the glider.
+
+Files for component manufacturers containing Manuals – but do check they are up to
+date if using the information for a task.
+
+Glider Flight and Maintenance Manuals and Illustrated Parts Lists. Same applies –
+ensure they are up to date if you need to use anything but basic information.
+If you are so inclined then a CAD drawing program is handy. You can design a modified
+component, draw repair pieces for laser cutting or routing out wooden components. Great
+system for laying out new instrument panels – have a stock of instrument outlines and
+attachment holes and ‘nest’ them all on one drawing. Have the ‘panel’ cut in mild or stainless
+steel with all the holes then attach it to the actual panel and drill all the holes and with hole
+saws cut the holes for the instrument faces. No end of uses.
+None of the above is mandatory of course, just something the Author has found useful over
+the years.
+If you don’t know something and cannot find an answer on the ‘net’ don’t be afraid to ask
+someone who can point you in the right direction, it is how you will learn Aeronautical
+Engineering! If necessary ask the Chief Technical Officer!
+Should a Manufacturer offer you some ‘Work Experience’ in their factory then you should
+grab it with both hands. Go and visit Manufacturers and other repair organisations, they
+won’t bite your head off and from experience Glider Manufacturers always seem happy to
+give you the guided tour.
+If you find a defect or a component that needs replacing with an alternative part that is a
+modification, or to give it the correct term ‘Minor Change’, then don’t be afraid to think
+through what needs doing and contemplate applying to EASA or the CAA for such a Minor
+Change. There is a process to go through, a Minor Change Leaflet to write saying How, Why,
+When and Where all sent off with the inevitable fee and sit back and await the questions still
+to be answered! Folks on the receiving end of the Minor Change are generally quite helpful.
+
+--- PAGE 103 ---
+98
+Acknowledgements
+The Author would like to thank the following for their support in supplying information,
+drawings and use of their pictures:
+Cleveland Wheels and Brakes
+Simply Bearings Ltd
+Tost GmbH
+Anglia Sailplanes for Various drawings, photographs and copies of Weighing Documents
+Glider Manufacturers for extracts from the Flight and Maintenance Manuals
+The British Gliding Association for extracts from the AMP and other documents.

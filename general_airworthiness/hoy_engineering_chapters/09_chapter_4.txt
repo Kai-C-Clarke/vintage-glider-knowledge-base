@@ -1,0 +1,848 @@
+# Chapter 4
+
+Flight Controls and Flight Control Systems.
+This is a very interesting and important subject! We will deal with each subsection in turn as
+listed in Annex 1.
+Section 1
+Colour Coding of Controls in the Cockpit:
+You should all know the colours of individual control levers in the cockpit. Blue, green, red,
+white etc. BGA Inspection 056/08/2014 covers colouring and security of control grips. It is an
+Annual Check, recommend not mandatory but why ignore it. It came into being following an
+accident because a control grip came off at the wrong moment and caused a bad accident. The
+AAIB made a recommendation that grips should be checked for security on a regular basis.
+Section 2
+Control Surfaces
+Glider Maintenance Manual
+Inspection, Removal, Refitting and Checking Weight and Balance
+Control surfaces are obviously an extremely important part of the glider and for various
+reasons need to be kept in good order. Control surfaces are not removed very often but when
+they are they need careful handling because they are relatively fragile components, quite light
+in weight and construction and a pain to repair without exceeding weight and balance limits.
+Control surfaces need inspection to ensure they are not damaged, that the hinges are free to
+move and that the operating ‘horn’ is secure to the control surface. Wooden gliders usually
+have fabric covered structure, occasionally the ailerons may be ply covered. The operating
+horns are normally quite long protrusions of thick plywood bonded to the spar or are metal
+bolted to a reinforced rib, spar or ‘D’ Box. These need to be 100% secure. Most gliders of
+FRP construction have very short operating radius connections to the control surfaces and
+these are normally buried within the control surface to reduce drag. Rudders often have small
+protruding operating horns whilst elevators have many different types of control input
+devices that are inside the fuselage or fin and thus drag does not come into the design.
+Removal of control surfaces is usually covered in the Maintenance Manual of modern gliders
+but with older gliders you are often left to guess how to take one off but is generally quite
+obvious.
+Old gliders normally have hinges connected with shackle pins and split pins, maybe nuts and
+bolts through proper bearings. The main issue is the fabric gap seal system used! The T31 for
+example has a doped fabric strip from the wing upper surface to the aileron lower surface.
+You cannot remove the aileron without cutting the fabric. The same goes for some rudders.
+More modern gliders have Mylar or Tesa Tape gap seals. Tesa Tape can be removed and
+replaced easily – should be replaced every year. Mylar on the other hand is a pain when
+trying to remove a control surface. It does not allow easy access to hinges, difficult to remove
+and expensive to replace. Most hinges have a pin through a hinge comprising short adjacent
+tubes, two generally but three adjacent to the control input. Some have needle roller bearings
+
+--- PAGE 42 ---
+37
+fitted in one half of the hinge and the pin is secured either with a split pin, Tucker Pop Rivet
+or a spring roll pin in the other half. Pik20 gliders have an M6 nut on the inboard hinge to
+retain the control surface.
+Removal then requires the operating rod or cables to be disconnected, pin or bolt locking
+device to be removed from the hinge pin, split pin, rivet (drill out) or spring roll pin (drive out
+with a thin pin punch). With the Pik20 once the M6 nut is removed the flap and then the
+aileron (another M6 nut) can be removed by siding inboard off the hinge pins. Once off the
+airframe place the control surface well supported on a rack or trestles.
+Inspect the hinges for cracking or delamination from the mating surface. A good number of
+hinges are made from glass fibre and bonded to the wing or tailplane and control surface just
+under the top skin.
+Refitting a control surface is doing everything in reverse order after lubricating hinges and
+bearings!
+Checking the weight and balance of a control surface is not difficult, just a bit fiddly. The
+Maintenance Manual gives the weight limits and the moment about the hinge point to the
+trailing edge or maybe the force required to keep the supported control surface horizontal.
+Obtaining the weight of the control surface is easy – put it on a scale and weigh it. To check
+the moment or force required to keep it horizontal when supported on its hinges take a little
+more effort.
+This page from the ASK21 Maintenance Manual shows how the task is carries out.
+
+--- PAGE 43 ---
+38
+An element of skill and ingenuity allows supports for the hinge points to be made. The device
+does not need to be posh just functional. I have metal strips with thin pins on as the pin does
+not have to be an exact fit in or around the control surface’s hinge. These supports are – as
+shown – clamped to a solid surface, bench, plank or trestle and then the weight on the trailing
+edge to achieve the correct horizontal position is measured with a good spring balance
+(preferably calibrated) or accurate miniature electronic scales. The spring balance is best
+attached to the trailing edge by a piece of masking tape or similar and the miniature scale will
+need supporting from underneath.
+The best way to calibrate spring balances is to have a set of standard weights, not expensive,
+and these can be hung on the balance in a bit of light fabric.
+Having checked the weight and balance of each control surface one hopes all is in order!
+Altering the weight and balance can be tricky, add mass balance weight and you can go over
+the total weight limit. Occasionally controls are found out of limits and know that nothing has
+been done to the item since it came new out of the factory! That situation is a real dilemma.
+Happens more often with rudders than other surfaces.
+Why do control surfaces need to be within such limits? It all has to do with a phenomenon
+known as Flutter. Sometimes at high airspeeds and a bit of rough air the wing for example is
+flicked upwards from its stable position. This sudden upward movement takes the aileron
+with it. An unbalanced surface can allow the aileron to droop down in relation to the wing
+with the aerodynamic force forcing the wing higher than the sudden gust might have taken it.
+The wing then gets to a point where it overcomes the upward forces imparted to it and
+springs back down. The aileron is effectively ‘left behind’ and moves upwards imparting an
+aerodynamic downward force on the wing which in turn is forced further down. The process
+is repeated as the wing again moves upwards causing the aileron to move down which forces
+the wing further up and so the process continues and becomes self-fulfilling regardless of the
+gust that started the scenario. Now this flutter is not something that happens slowly, it
+happens very quickly and every oscillation gets worse in amplitude, the wing not only bends
+but twists in the turmoil and then can disintegrate – just like that! Therefore these checks
+need to be carried out with care to ensure that if a wing is hit by a gust the balanced aileron
+does not alter its relationship with the wing. A fluttering rudder can break the rear fuselage.
+Section 3
+Control Cables, Construction, Manufacture and Inspection:
+AC43.13-1b Section 8
+AMP Leaflet 4-7
+Modern gliders have control cables with ends that are generally constructed as Eye Ends held
+by a NicoPress swaged sleeve. Older aircraft, particularly British ones, can be fitted with end
+fittings swaged directly to the cable. Both systems need specialist tooling to complete the job,
+NicoPress is common but the other type is a bit of a rarity. If you know someone with the
+tooling and know how – make a note of his/her name and stay friends!
+Cables come in different materials and sizes. The materials are carbon steel, plated, or
+stainless steel. Carbon steel cables are slightly more flexible than stainless ones and stronger
+too. Cables have different constructions, most common aircraft cables comprise 7 bundles of
+wire containing 19 strands known as 7 x 19. The 7 bundles are wound into the wire ‘rope’
+
+--- PAGE 44 ---
+39
+cable with a straight centre bundle and the other 6 wrapped around it. Some are 7 x 7, a much
+coarser cable and not as flexible.
+Old British gliders had British cables whose classification was in hundred weight – 5 cwt, 10,
+15 and 20 cwt. Now we have American Cables that are classified by diameter – 1/16”, 3/32”,
+1/8” and upwards. Not surprisingly these cables are manufactured to an American
+Specification. EU Metric cables are measured in mm, and of course are direct equivalents of
+the Imperial sizes! 1/8” = 3.2mm. They have a DIN Specification.
+Sticking with imperial diameters then we have the ability to manufacture replacement cables
+using the American NicoPress System. A swaging tool – usually a hand tool – squeezes a
+copper sleeve onto the cable being made. An eye end would have a thimble that the cable
+passes round and the sleeve is swaged on adjacent to the thimble. Depending on the diameter
+of the cable and the sleeve to be used the correct part of the tool is used to impart one or more
+adjacent squeezes of the tool. 3/32” cable takes 1 squeeze and an 1/8” cable takes 3. When
+the sleeve has been swaged on the resultant joint is supposed to be as strong, if not stronger,
+than the cable itself. Swaged sleeves should be checked for correct swaging by use of the
+Go/No-Go gauge supplied with the swaging tool. Apart from different sizes of sleeve there
+are two types, plain copper or plated copper. The plain copper swages are for use on carbon
+steel cables whilst the plated sleeves are for stainless steel cables. The plating stops corrosion
+between the stainless steel cable and the copper of the sleeve.
+There are also ‘end stops’ available. These are used to terminate a cable in a handle or control
+knob such as in the release cable or bicycle type brake operating lever handle.
+When making up a cable it is essential to get the length correct. Some cable systems have a
+turnbuckle for adjustment, some do not. Most gliders these days only use cables in the rudder
+system, other controls use control rods. Cable lengths are not normally given in the manuals
+so a bit of reverse engineering is required – use the old cable to get a measurement. The old
+cable has probably been cut to remove it so try and be as accurate as possible in measuring.
+The best way is to have a long board or boards clamped together and a fixed pin at one end
+and a plate with a stud the other so that can be clamped to the board. Fit the long piece of
+cable with its eye end over the fixed pin and then at the other end slip the eye end over the
+movable stud and bring the cable ends together ensuring that there is hand tension on the long
+section. Clamp the stud plate down.
+Bearing in mind that rudder cables are supported in nylon tubes or fairleads it is impossible to
+feed an eye end through the supporting guides. The cable has to be finished insitu. To get the
+length correct make one eye end up on the new cable, slip that over the fixed pin on your
+board and wrap the other end round the other stud. At the apex of the bend mark the cable
+with a black permanent marker pen. Remove the cable from the board and feed it through the
+supports ensuring that it passes through everything it should do. Do not connect it to its
+securing point. The cable is usually best fed through from the cockpit end so that second eye
+end can be made outside of the airframe near the rudder. Put a sleeve over the cable and
+double it back, insert the thimble and arrange the cable and thimble so that the black mark
+you applied is at the apex of the thimble. Swage the sleeve!
+Note: Really important item. Before you pull a cable out of the airframe attach something to
+it so that you can pull the new cable back through! Single core electrical cable is good for
+this, remove the inner straight wire from the control cable, clean it up and solder the electrical
+
+--- PAGE 45 ---
+40
+cable to the control cable. Leave sufficient control cable for this operation so that any cable
+that may have been heated during the soldering can be cut off and not allowed to be part of
+the finished cable. There should be no issue pulling the old cable out but ensure that the new
+cable end is soldered down so that the individual wires do not catch on the supporting guides
+or in the nylon tube. The control cable is a larger diameter than the electrical wire and if it
+can catch on something it will. Cables with soldered ends do not go around pulleys, a pulley,
+if fitted, in the system will have to be removed from its housing. Before pulling the new cable
+back through the fuselage give the soldered joint a quick pull test to ensure that it is well
+attached. You do not want the joint parting company halfway down the fuselage! If the cable
+does get stuck give it a little tension and try again whilst twisting the cable with the lay.
+Never put too much load to pull it through, pull the cable back out and check the joint and see
+if sharp edges to the new cable can be lessened.
+Although not noted as being essential it is worth trying to protect Pilot’s Fingers. If the cable
+you are changing has a swaged sleeve adjacent to a control ball, handle or knob that the pilot
+will grab hold of there is a risk that the cable end sticking out of the swaged sleeve will pierce
+the skin, then it bleeds and makes a mess. To avoid that issue put a piece of suitable size
+polythene tube or heat shrink on the cable before making the swage and then slip it back over
+the swage to help prevent the loss of blood.
+If replacing a tow release cable it is really essential to ensure that the cable is long enough for
+the pilot to reach it easily. At rest there should be about 10mm slack to ensure that the release
+units are not being held partially open. In gliders where the release cable exits the instrument
+panel also make sure that the ‘T’ handle or ball grip does not come to rest in the gaiter around
+the control column where it can then jam the controls by sinking into the aperture covered by
+the gaiter.
+Section 4
+Inspection of Cables:
+Inspection of cables requires hand-eye coordination. Look before you rub your hand and
+fingers along a cable. Any broken strands will really hurt the fingers! Maybe use a piece of
+rag.
+Cables can be found unserviceable for several reasons:
+
+Corrosion
+
+Broken strands
+
+Wear on the wire strands
+
+Movement of a NicoPress swaged sleeve or other Swaged End Fittings
+Corrosion in the form of rust is usually a cause for rejection of the cable. However, if it can
+be wiped off the surface and by twisting the cable against its normal lay you can guarantee
+there is no corrosion within the cable then it can remain serviceable. Rust requires moisture to
+cause the corrosion, no point in rubbing off surface rust if there is a source of water to
+continue the corrosion. A rusted cable has probably lost some of its anti-corrosion plating and
+bare steel will rust that more rapidly. With that in mind it is probably best to render the cable
+unserviceable and fit a new one - but still try and find the water access.
+
+--- PAGE 46 ---
+41
+A broken strand will render a cable unserviceable and has to be changed. Broken strands are
+more likely to be found where the cable goes round a pulley, through a fairlead at an angle or
+where a sharp bending process may take place like the entry and exit from rudder pedal ‘S’
+bends. To thoroughly inspect the cable make sure it is slack enough to see all the cable that
+runs round a pulley or through the rudder pedal ‘S’ tubes. Look and then feel! Bend the cable
+to see if internal strands are fractured and pop out. Bend as in ‘tight bow’ but not sufficiently
+tight that the cable ends up with a kink in it.
+Wear is a little more subjective. Look at places where the cable is sliding across something
+like a fairlead situated in such a position that the cable changes direction on exit. This wear
+puts a shine on old cables and then starts wearing through the wire strands. We are allowed
+40 – 50% wear through strands of wire (not through the whole cable). Look at the worn
+strands and then decide if any are worn through almost half their diameter. If in doubt change
+the cable.
+NicoPress sleeves once swaged correctly do not move. However, if incorrectly swaged there
+is the possibility that it may move. The tail of the cable should just be protruding from the
+swaged sleeve, if it is not then the cable must be replaced.
+Section 5
+Tensioning and Locking of Tensioning Devices
+Cables in general have to be at a certain tension to operate their respective control system
+effectively. Older gliders with cable operated systems often have the cable tensions listed in
+the Maintenance Manual – if they have one!
+Cable tension is measured by a device called a Cable Tensiometer. There are various types
+from simple spring loaded tools to more complex adjustable ones. All work on the same
+principle of cable deflection. There are two fixed bollards and one movable one. Slip the
+cable to be checked under the two fixed bollards and over the movable one and the pointer
+converts the deflection to pounds or Kilos tension. The simple spring devices will usually suit
+one cable diameter whereas the more sophisticated ones can have the cable size selected.
+Simple Cable Tensiometers, Used Only On Stipulated Cable Sizes
+Mechanical Tensiometer, Can Be Adjusted For Different Cable Sizes By Turning The Centre Bollard
+
+--- PAGE 47 ---
+42
+Cables are tensioned and adjusted by means of turnbuckles. These devices comprise a barrel
+with left and a right hand thread – one at each end – and two end fittings to screw into the
+barrel. The end fittings can be fork ends, eye ends, ends swaged to cables and so on. Holding
+the end fittings stationary and turning the barrel will wind in or out the end fittings and thus
+increase or decrease the tension in the cable.
+Turnbuckles can also be used to alter the relationship between cable ends or between two
+cables and the control surface. Lengthen one and shorten the other and the control surface
+rests in a different position relative to the input control. For example a pair of rudder pedals
+in neutral and the rudder is offset one way – say to the right. That means the right cable is too
+short and the left too long. Lengthen the right turnbuckle and shorten the left and the rudder
+comes back to neutral. To tension those cables both turnbuckle have to be tightened equally.
+Most gliders actually have springs or bungee cord to tension rudder cables, the Puchacz is an
+exception as it has a more complicated rudder system and needs tensioning.
+There are gotchas in tensioning cables in different gliders. Cables, being metal, contract when
+cold and expand when hot, wooden gliders expand when damp and contract when dry (winter
+and summer). Cables are stronger than wood and, to a degree, GRP structures. So if you
+service a glider in the summer and have cause to tension the cables come winter the tension
+will increase because the cable will shrink and the wooden glider will expand! Too much
+tension will break a wooden structure so take care and make some allowance in the tension.
+Too much tension will also make controls stiffer and wear pulleys, too little and cables like to
+try and slide off pulleys – can’t win! The Puchacz is a pain as the rudder cables form a
+complete circuit going round two pulleys under the front seat panel. There is probably a little
+too much tension in the cables in Tibenham’s Puchacz because if P1 puts pressure on both
+pedals both cables forward of the rear pedals lose tension and then can - and have - jumped
+off one of the two front pulleys jamming the system. Not good in a spinning situation. The
+situation has been somewhat alleviated by replacing the easily damaged plastic pulleys with
+aluminium ones.
+Once adjustments have been made the turnbuckles need to be wire locked. The best is a
+simple figure of eight. The locking wire starts at one end fitting through an eye or fork end,
+cross over both sides of the barrel, through the hole in the middle of the barrel, cross over
+again and through the other end fitting, wrap round the fitting and secure with a twist from
+locking wire pliers. More examples are shown in Section 9 of the AC43.13-1b. Far too
+complicated!
+Some American Turnbuckles have grooves machined into the threaded portions of the barrel
+and end fittings to enable locking clips to be fitted. Line up the grooves, insert the locking
+clip and press the end into the barrel’s central hole. The diameter of the clip’s wire is
+sufficient to prevent the end fitting from turning.
+Where the end fitting is a swaged fitting on a cable the locking is achieved with lock nuts
+tightened against the barrel. Not a common type in aircraft but is used extensively in Scheibe
+Motor Gliders like the Falke in the brake cable system.
+End fittings must also be ‘in safety’. To achieve the desired strength to support a particular
+size of cable the turnbuckle has to be of a certain size. The threads of the end fittings need to
+engage in the barrel by a certain distance – not just by one thread. To ensure the thread is
+sufficiently engaged turnbuckles have a safety hole a short distance from the end of the
+
+--- PAGE 48 ---
+43
+barrel, some older types have end fittings with short thread lengths – the entire thread has to
+be inside the barrel. The end fitting must be up to or past that safety hole. This is easily
+checked by feeling with a piece of locking wire into the safety hole to ensure it is blocked by
+the end fitting’s thread. Ensure both end fittings are equally engaged by threading them into
+the barrel simultaneously.
+Section 6
+Adjusting Control Systems
+There are two things to adjust on any control system:
+
+Relationship between the control input – rudder pedals or control column - and
+control surface
+
+Range of movement of the control surface
+
+Not an adjustment but sense of movement needs to be correct too. No point pushing
+the control column forward and the glider climbing as a result
+The Rudder System.
+The rudder system is the simplest of the control systems. Just mentioned was adjusting rudder
+offset by using the turnbuckles in two cables to alter the relationship between the rudder
+pedals and the rudder. With the cable systems the turnbuckles are generally the only devices
+that can be adjusted. However, occasionally link plates with several holes set in a zig-zag
+pattern (to enable short adjustments of length) are used. The ASK21 has such plates in use
+with the Hand Rudder Modification.
+Some gliders have control rods to operate the rudder but the system often starts with cables at
+the pedals. The Astir starts off with cables and these are attached to a bar behind the wheel
+box, from there to the rudder is a control rod.
+The first thing to adjust is the relative position between the pedals and the rudder. This is by
+turnbuckles or eye end fittings in the control rod. Eye ends in control rods are either rose
+bearings (rod end bearings) or connecting fork ends. The bearings are screwed into fixed
+threads in the control rod and locked by a lock nut. As with turnbuckle end fittings the thread
+must be in safety – there is a safety hole for the purpose of determining threads are correctly
+engaged.
+To adjust a rod end bearing it is necessary to disconnect the joint it forms with a fork end.
+(Fork ends are quite often welded to a control rod). To adjust the bearing first hold the control
+rod or the rod end bearing with a spanner on the flats provided and undo the lock nut. Do not
+try and undo the nut whilst allowing the torque to be taken by the control rod. The bearing
+should then turn easily on its threaded ‘stalk’. Undo the bearing to lengthen the rod and screw
+it in to shorten. Job done is when the pedals and the rudder are both in neutral.
+Then we move on to the range of movement stops, all controls have a stop of some sort. The
+appearance of stops varies considerably, old gliders can have two pieces of ‘plastic’ material
+bolted to the cable to clamp the cable and then stop on an adjacent frame, a Dart for example.
+Some systems have bolts screwed into structure close to the control input rudder pedal whilst
+others have adjustable stops at the rudder end. Some gliders like K13s have fixed stops built
+into the lower rudder hinge. Others may have adjustable bolts with a lock nut.
+
+--- PAGE 49 ---
+44
+The Maintenace Manual and the Type Certificate Data Sheet notes the control deflections,
+they are repeated for convenience on the BGA Data Sheets. Ranges of Movement are given
+as a distance or angular measurement from the control surface neutral position.
+The Elevator
+The elevator system is relatively easy to adjust, finding and establishing a neutral position is
+not always easy though. Looking along the end of the elevator and tailplane you can get the
+chord line straight, sometimes neutral is the top surface of the tailplane and elevator in line.
+Getting the control column neutral is also a bit of guess work and should be halfway between
+the forward and aft movement. Adjust the stops and it all changes! Establish the neutral
+position of the elevator and control column to your satisfaction. Adjusting the system to
+neutral is very similar to the rudder system. Using a inclinometer or a long straight edge to
+reach the elevator from the floor, note the neutral. Pull the control column back and note the
+distance, linear or angular and then the forward movement.
+Elevator control stops are invariably in the cockpit either adjacent to the control column or
+not far along the control run. Adjustment to increase or decrease the range of movement is to
+screw in or out the adjusting screws. Some gliders have fixed elevator stops and cannot be
+adjusted without usually bonding on a piece of plywood – most fixed stops are ply.
+The Ailerons
+Ailerons are a law unto themselves. So many points where you can adjust the system to
+achieve the desired result. The adjustments can be made:
+
+Between the control column and the centre section controls
+
+At the centre section controls
+
+In the wing
+
+Outer wing drive quadrant
+
+Final Drive Rod
+
+At the control stops
+Ailerons have unequal travel up and down to counteract Adverse Yaw (differential ailerons).
+This is achieved by the use of a quadrant to turn spanwise movement of the control system to
+chordwise and connect to the aileron. The quadrant converts linear movement to rotary
+movement and then back to linear movement but not an equal amount. The following
+diagram shows what happens:
+
+--- PAGE 50 ---
+45
+The net result is that the final drive rod has more linear movement to push the aileron up than
+it does to pull the aileron down. That then provides the differential aileron movement.
+To adjust the ailerons to neutral along with the control column it is easiest, but not essential,
+to work from the ailerons back to the control column. It is absolutely necessary that both the
+outer wing quadrants are set in exactly the correct angular position.
+Get the quadrants correct and then bring the ailerons into neutral using the adjustment in the
+final drive rod. With a control lock or clamp, lock the ailerons in neutral. If you cannot get
+both ailerons locked in neutral disconnect one of the last control rods in the fuselage to wing.
+Lock that aileron.
+Working on the aileron system that is still connected to the control column, adjust the final
+drive rod to the junction of fuselage to wing system and get the control column neutral. Then
+adjust the disconnected control rod until it can be connected without force to its connecting
+point with the aileron still locked in neutral.
+Now, in theory if you have the quadrants set up correctly the ailerons should have the same
+range of movement each. It might not be the range of movement required but they should be
+the same.
+Adjust the control stops that are usually close to the control column to give the correct range
+of movement to one aileron – then check the other aileron. Unfortunately when you adjust the
+‘Up’ stop for one aileron you are adjusting the ‘Down’ stop for the other and vice versa. Now
+go back and adjust the stops for the second aileron. Check the range of movement again for
+both ailerons and if not far adrift go for a happy medium and get it all in tolerance. If the
+differential movement is excessive or insufficient then the quadrant is not correctly set up so
+you have to start again.
+The aileron up-down relationship is due entirely to the quadrant. This can be adjusted for
+each aileron by lengthening or shortening the wing spanwise control rod. However any
+adjustment there will put the aileron neutral out of kilter and that has to be rectified by
+adjusting the final drive rod.
+Setting up the aileron system can take time and a good understanding of how the system
+operates; which point of adjustment alters both ailerons in the same way, which alters both in
+
+--- PAGE 51 ---
+46
+different ways and which alters one aileron but not the other. If you can get a good grasp of
+the geometry of the system that is a bonus and helps deciding where and what to adjust.
+Flaps and Flaperons.
+Some gliders have plain flap systems whilst others can have a flap that also moves as an
+aileron – hence Flaperons.
+Plain flaps are relatively simple to adjust. One control input is fed equally to each wing. To
+adjust both flaps simultaneously the adjustment is made prior to the split left and right flaps
+in the centre section. If with the flap lever in neutral one flap is not in neutral then that flap
+can be adjusted to neutral without affecting the other flap. Lever neutral and both flaps out of
+position by the same amount then the first rod from the flap lever can be adjusted.
+Flaperons and ‘mixer boxes’ are something else! These are sent to try us as they have
+differential quadrants built in but they don’t look like quadrants, numerous adjustable links
+and bits that look as if they should be fixed – move!
+In order to make any adjustment here you really do need to stop and have a really good think
+about the system and how it all operates. A little adjustment can make a lot of difference and
+maybe achieve something you did not want or expect.
+Adjusting any control system takes two people, the owner or helper to move the cockpit
+controls while you do the measuring. Flaperons can have hidden issues if you are not careful.
+A recent check on an LS6C-18 showed all movements were good but not all was as it
+seemed. Double check that the person operating the controls has the correct flap settings
+applied whilst checking the movements. The issue that was nagging the Inspector was
+eventually found: it was that the system had been previously set up to put the control surfaces
+in neutral but with the flap lever set to the first negative setting. This meant that the flaps had
+5 or 10 degrees of flap when the flap lever was in neutral. Two or three adjustments had to be
+made to correct the situation. Don’t just assume that everything is OK!
+Section 7
+Inspection of Control Systems, Rods, Bearings and Locking
+Inspecting control systems can be broken down into different aspects:
+
+Control Cables
+
+Control rods
+
+Bearings
+
+Locking of Critical Joints
+Control cables were dealt with earlier.
+Control Rods are generally tubes rather than solid rods and of aluminium alloy or steel.
+Inspecting the rods we are looking for:
+
+Physical damage – has it been bent by a heavy foot, scored by an incorrectly placed
+screw or a seized bearing in a triple bearing support.
+
+Is it corroded
+
+--- PAGE 52 ---
+47
+
+Loose end fittings
+Some gliders, like the Pik20 for example, can have the elevator or aileron control rod just
+under the left cockpit seat side scored by retaining the seat at that point with a standard length
+screw instead of a short one. A good number of modern gliders have the control rods
+supported in ‘triple roller assemblies’ comprising 3 nylon faced ball bearing races. If the ball
+bearing race seizes up it can wear a flat on the tube not to mention making the control system
+very stiff.
+Most control rods do not get physically damaged other than by corrosion. Vertical elevator
+rods in fins are prone to corrosion and control rods in cockpits that are not covered by a panel
+get rubbed, paint comes off and corrosion sets in. The Grob gliders and motor gliders all have
+special inspections to perform on the elevator drive rods. The Grob G109 actually has a steel
+bar weight inside the vertical elevator drive rod as a Mass Balance Weight. Something that
+was not looked at when checking mass and balance of control surfaces. The balance weight
+of a control surface may not necessarily be on the control surface.
+Control rods have end fittings to link to the next control rod. These can be welded on fork
+ends or Rod End Bearings – a bearing on a threaded stalk (male or female thread). The
+threaded stalk has to be secured in a ‘nut’ on the end of the rod. Some of these end fittings are
+inserts in the tube secured by a pin, rivet or nut and bolt or by swaging the tube into grooves
+machined into the end fitting. Check that these are not loose and that any threaded end fitting
+secured with a lock nut is secure and the lock nut tight.
+Bearings
+The bearings used in control rod systems are:
+
+Rod End Bearings
+
+Plain Spherical Bearings
+
+Self-Aligning Double Row Bearings
+
+Sealed Single Row Bearings
+Images Courtesy of Simply Bearings Ltd
+Open bearings are often protected with felt washers which also hold an element of lubricating
+oil. The other common type of bearing, albeit a link device, is the L’Hotellier Connector.
+L’Hotellier Connectors have wear limits and the ball connector must be measured every
+annual servicing and their locking devices checked.
+Most Maintenance Manuals have a lubrication chart detailing which bearings require
+lubricating and with which lubricant, oil or grease. L’Hotellier Connectors need greasing, if
+they get dry they are very stiff to operate and also wear quickly.
+
+--- PAGE 53 ---
+48
+Bearings that are stiff to operate should be replaced but stiffness is sometimes a lack of
+lubrication!
+Self-Aligning Double Row Ball Bearings need special attention as they occasionally lose ball
+bearings from the cage should the cage be clear of the outer race at any time. Missing ball
+bearings become a loose article.
+Any corrosion on the bearing is a cause for rejection.
+Wheel bearings in Tost wheels are plain sealed bearings and should be checked off aircraft
+for defects such as stiffness, gritty or lumpy operation and damage to the seals. Change the
+bearings if showing signs of defect, a bearing seizing up on landing could spoil anyone’s day.
+Cleveland wheels use taper roller bearings and are used on the ASK21 and others. These
+bearings, and some open bearings fitted to vintage gliders, need cleaning, inspecting and
+regreasing annually. Use something like Brake and Clutch Cleaner for removing the old
+grease – warning, it also removes natural grease from your hands! Taper Roller Bearings
+must be clean and free from chips and bluing on the rollers and on the outer race. With the
+bearing assembled it must turn smoothly. Pack with grease before refitting to the wheel but
+do not overdo the amount of grease used.
+Section 8
+Locking Devices, How and Why
+Safetying: AC 43.13-1B Section 7
+Locking of all parts of a control system is an absolute necessity to prevent a disconnection in
+flight. The following devices and methods are all common in flight control systems:
+
+Locking Wire
+
+Split Pins
+
+Tab Washers
+
+Self-locking Nuts (Stiff Nuts)
+
+Spring Washers
+
+Special Locking Devices used on L’Hotellier connectors and similar Ball Joints
+Locking Wire:
+See Reference AC 43.13-1B Section 7
+Locking wire as used in the UK is stainless steel, copper has been/is used by ‘Eastern Block’
+countries but the general use of copper has gone. Copper is however, used for tell-tale locking
+of things like canopy jettison systems so that you can see if the system has been disturbed and
+it is easy to break in an emergency.
+Locking wire is used predominately on bolts, fittings and hose banjo bolts to prevent the
+component undoing itself. Securing one bolt, the wire is passed through a hole in the bolt
+head and twisted and wound clockwise round the bolt head to another hole in the structure or
+a tab washer. If the bolt has a left hand thread then the wire is wound anticlockwise. Basically
+it goes in the direction used to tighten the bolt. Wire locking two or more bolts together is an
+extension of the same theme but there is no need to start or finish the locking on structure.
+The wrap of wire round the head should ideally be 180 degrees although this does not seem
+
+--- PAGE 54 ---
+49
+stated in the reference material. The last thing to do when wire locking is to bend the end
+over and tuck it out of the way, it avoids bloodshed and ripped clothing.
+Locking wire pliers are an ideal tool to possess. If you can afford one a tool with reversible
+twist action is useful. Locking two bolts together as mentioned in Fig 7.5 reversing the
+direction of twist in the wire helps keep the loop of wire round the bolt head.
+Split Pins – Cotter Pins in American Speak
+See Reference AC 43.13-1B Section 7
+Split Pins are used to lock nuts and bolts where there is the possibility of relative movement
+between the parts being secured together. The nuts are either slotted or castellated. Slotted
+ones are standard thickness with slots cut across opposite flats whilst castellated nuts have an
+extension above the basic nut.
+Methods of fitting split pins are shown in the reference, again to avoid bloodshed try to keep
+the tail ends tucked well in.
+Aircraft Split Pins are readily available from suppliers such as LAS Aerospace Ltd and come
+in numerous diameters and lengths. Try to avoid using ones from your local Motor Factors,
+quality is sometimes dubious and some are plated steel, not stainless. You can use the LAS
+Website as a reference book, the system could be better in searching for your requirement, it
+often comes up with items corresponding to one word you have typed in the search box. They
+may still produce a catalogue of parts. Aircraft Spruce may still do a catalogue too, that is a
+good reference book.
+Like everything in the aircraft world split pins have a part number. These are SP90 -. The
+letter and numbers following the – represent the diameter and length from 3/32” to 3/16”
+diameter and ¼” to 2.5” long. These along with loads of other small components come under
+the British category of AGS Parts (Aircraft General Standards). I will deal with AGS,
+American and EU hardware later.
+Split pins can also be used to stop washers falling off the ends of rods as in Astir
+undercarriage pivot rods, securing clevis pins and control hinge pins. Other uses are
+available!
+Tab Washers
+Tab Washers are devices that sit under the head of a nut or bolt just like a washer but have
+tabs protruding from the periphery. The common AGS tab washer has 3 tabs, one pre-bent to
+lock into a hole or over an edge and two to bend up against the side of a nut.
+Some tab washers are more specialised as are the MB series of tab washers. These are
+designed to sit on large diameter shafts such as wheel axles and under nuts classified in the
+KM range. The KM7 and MB7 are used on the Grob G109 mainwheels and size 6 on the
+Scheibe Falke. Please note from the pictures that the nut has a conical face and sits in the cup
+shape of the tab washer. The conical face is the face that is making contact with the item
+being tightened, in this case the main wheel! For some reason good number of people want
+to use the flat face against the cupped washer! (No accounting for taste)!
+
+--- PAGE 55 ---
+50
+KM7 and MB7
+The tab in the centre fits in a groove in the shaft and then once fitted and tightened you align
+one tab with a slot in the nut and bend it into that slot. With 17 tabs and 4 slots there is always
+one that just about aligns. Use a decent C Spanner on the nut, not a drift or screwdriver and
+hammer! Take care when tightening not to catch and bend the tabs.
+Self-Locking Nuts
+AC 43.13-1B Page 7-63
+CAP562 CAAIP Leaflets E30 & E40
+CAIP Leaflets BL2-3 (Bolts and Screws) and BL2-6 (Nuts)
+Self-Locking Nuts come in many different forms the most common of which is the Nyloc
+Nut. Self-locking nuts all have one thing in common – a distorted thread pattern or in the
+Nyloc’s case a piece of nylon into which a thread pattern is formed by the bolt.
+The AC 43.13-1B sketches no end of American Nuts, unfortunately CAP562 CAAIP Leaflets
+only deals with British Bolts! Leaflet E30. Also deals with American Bolts in Leaflet E40.
+However, the old, now superseded CAIP Leaflets, do cover Nuts! Leaflet BL/2-6. The AGS
+system has been superseded but the part numbers remain the same.
+Stiff Nuts or Self-Locking Nuts are just that – stiff to turn on or off. They are used where
+there is no relative movement between the secured parts such as when clamping a bearing or
+bush between two surfaces like a rudder operating horn where a rudder cable is free to move
+on a secured bush – K21 and others. It would not be used to secure a moving arm to a stud or
+on a stud securing a rudder to a hinge through a bush where the stud moved and the bush is
+stationary – SF25C or Venture rudder for example.
+Stiff nuts eventually wear out. They should be replaced when the friction is found low and
+definitely if you can turn the nut with your fingers. If in doubt replace it, not that expensive
+compared to the consequences of losing the nut as a loose article and a bolt free to remove
+itself from its desired location in a control system. Replace like for like is the best policy.
+Nyloc nuts are often found in gliders but they should not be used if they could get hot and
+destroy the nylon locking. Some all-metal stiff nuts have deformed threads by stamping
+detents on one side of the nut adjacent to the thread, others have slots cut into the nut and the
+formed tag bent down whilst others have the upper part of the nut squeezed in a little. A
+common stiff nut in Polish gliders has an extension above the hexagonal part, slotted and
+squeezed in.
+Spring Washers
+Spring washers are not really locking devices but are used to prevent plain nuts vibrating
+loose. They are devices that dig into the nut and the item the nut is being tightened onto.
+Crude but effective. Some have multiple teeth either internally or externally whilst others are
+
+--- PAGE 56 ---
+51
+split and twisted open with a cross section form oblong or square. Another type is a wavey
+washer – spring steel and deformed to make a wave form around it.
+In gliders they are found securing lock nuts on rod end bearings against the control rod and
+the Astir has one under the locking nut on the ‘Ball Bolt’ that secures the tailplane.
+L’Hotellier Connector Locking Devices.
+LBAAD1993-001/3
+Glider Flight and Maintenance Manuals
+There are different locking devices used to secure L’Hotellier Connectors.
+
+‘R’ Clips
+
+LS Safety Sleeve
+
+Wedekind Sleeves
+
+Schempp Hirth Locking Springs
+
+Uerlings Sleeves
+R Clips are the most common items used to lock the connectors, simply put the clip through
+the hole provided in the locking plate.
+LS Safety Sleeves wind over the connector ball and prevent the ball from exiting the socket.
+Wedekind Sleeves are sleeves that slide back to allow the locking plate to be unlocked and
+the connector to be connected and then they spring back over the plate to prevent that moving
+to the unlocked position.
+Schempp Hirth Locking Springs are a sophisticated version of the R Clip. It is attached to the
+control rod in such a position that it can be inserted into the hole in the locking plate easily
+and also withdrawn to allow connection/disconnection of the connector.
+Uerlings Sleeves are plastic devices that slide over the connector in such a way that the Ball
+cannot move out of the socket. Not the best locking device in the world as being plastic they
+are prone to breaking.
+Another type of Ball and Socket Joint is commonly used on engine controls on motor gliders.
+They are similar to L’Hotellier Connectors but do not have the same Locking Plate system.
+The ball is pushed into the socket past a retaining spring and extracted the same way thus the
+spring is not a locking device, it just retains the ball. To lock the ball in the socket there is a
+pin with built it clip that slides through two holes across the socket opening and is then
+turned to secure the pin’s clip around the shaft of the socket. The pin is situated near the stalk
+of the ball and the ball cannot come past it. Installation is easy if you can see the two holes. It
+is necessary to ensure that the pin has fully entered the second hole, it is easy to misalign the
+pin and miss entering the second hole.
+Section 9
+Gap Sealing
+Gap sealing is a necessity! It is achieved in a variety of ways:
+
+--- PAGE 57 ---
+52
+
+Close fitting control surfaces to the parent surface.
+
+Fabric doped top of parent surface to underside of control surface
+
+Internal flexible seal between control and parent surface
+
+Adhesive tapes over the hinge line (Tesa Tape)
+
+Mylar Tapes
+Gap sealing is necessary to prevent high pressure air flowing to the low pressure side of a
+surface, aileron underside to top surface, likewise the elevator and then left or right deflection
+of a rudder.
+Close Fitting Control Surfaces
+Close fitting control surfaces are normally found on older gliders and some rudders.
+Schleicher ASK13 gliders for example have no gap sealing requirement. Jubi ones with
+aileron hinges mounted on the top surface do. The T21 glider has a bead of wood on the
+control surface and the parent surface at the hinge line and this close fit ‘rolls’ over the joint
+as the control surface moves maintaining a very narrow gap.
+Fabric Sealing
+This type of sealing is only found on some older fabric covered gliders such as the T31; it is
+employed on a number of light aircraft as well.
+A classic ‘I Learned about Gap Sealing’ was experienced by the Author in 1965 in Aden. His
+first solo aircraft job was dumped on him within minutes of joining the Aden Services
+Gliding Club: This T31, stripped of fabric, is in need of some wood repairs and recovering
+with Madapolam to become serviceable before you can have a site check as it will be the only
+2-seater that is serviceable! Jack Harrison (Weather Jack as some of you may know him) was
+CFI and he and guys stripped the fabric off the T31.
+To cut a long story short the work was completed and the T31 was transported to the Desert
+Airfield at Sheik Othman on a 3-ton lorry as the glider did not have a trailer. It was rigged
+and launched with Jack at the controls. Pleased to see his solo handywork airborne he went to
+see Jack and make sure everything went OK. No it did not! The ailerons free and easy to
+operate on the ground needed TWO HANDS to operate once airborne. A look round the
+aileron system revealed a 360 degree wrap in the cables in the right wing. Probably due to
+being rotated whilst on/off the lorry. Many apologies, all correctly rigged, wire locked etc and
+off Jack went again. No difference at all. The ailerons were adjusted by drooping them,
+raising them all with no effect. Jack then let the Author fly with him and it was confirmed
+that it did indeed need two hands to operate the ailerons even a little bit – it was horrible -
+whilst the elevator was as light as a feather. Having run out of height, speed and ideas the T31
+was stacked off the runway. Half an hour later some bright spark suggested that there should
+be a fabric seal between the wing and the aileron. Eureka! Not having removed the fabric the
+Author had not even thought about a gap seal, the gap on a T31 is about 1 inch or more. A
+fabric strip was duly doped to the wing and aileron and Jack and he flew again. Result!
+Ailerons were as light as a feather!
+
+--- PAGE 58 ---
+53
+The T31
+Internal Flexible Seals
+Internal flexible seals are strips of impregnated fabric stuck to the control surface and the
+parent structure. The LS4 has such an arrangement used in conjunction with Mylar Seals.
+Some gliders use a much larger piece of fabric to seal the rudder gap and if you are going to
+remove the rudder for inspection I suggest it is partially removed and supported adjacent to
+the fin whilst the inspection is caried out.
+Adhesive Tapes
+The most popular tape is Tesa Tape for sealing across control gaps where the hinge line is on
+the top surface. Some people do not like it and say it shrinks too much after application and
+can prevent full control deflection. If applied incorrectly it can. Being fabric tape with an
+adhesive backing when you pull it off the roll it stretches. The trick is to warm the roll before
+peeling tape off it, not hot or the adhesive will stay on the top surface of the layer beneath the
+one being peeled; then pull off 2 – 3 feet at a time and hold it for 45 - 60 seconds and let it
+shrink back to the way it was on the roll. Apply the tape to one half of the joint – the wing,
+tailplane or fin – and then with the control surface at full deflection run your thumb along the
+tape over the hinge line causing a depression in the tape and then stick it to the control
+surface, the depression is essential. Over the year to the next Annual Inspection the tape will
+shrink a little spanwise and maybe imperceptibly chordwise but will not prevent full
+deflection. When removing the tape from the aircraft use a hot air gun to warm it as you peel
+it off the surface. Again do not make it hot or a lot of the adhesive will stay on the surface.
+Use U-Pol Degreasant to remove the adhesive residue.
+Other tapes are available! The BGA Shop used to sell something akin to bodge tape, Duct
+Tape and some others are used. However, experience shows that Duct Tape does not weather
+well and leaves an enormous amount of adhesive residue behind and that is a real pain to
+remove.
+Mylar Tapes
+Mylar Tapes are a common sight on modern gliders to seal control gaps, one on top and one
+below. They are a stiff but flexible plastic and stuck to the primary surface with double sided
+adhesive tape. The seal is effective because whether the air is trying to go up or down one
+
+--- PAGE 59 ---
+54
+seal will be forced against the control surface to seal the gap. The leading edge of a Mylar
+seal is protected by the addition of a thin self-adhesive tape. This tape protects the edge from
+the airflow and from water ingress.
+Mylar Tapes have now been developed to have Turbulator effects on the leading edge (not
+covered by thin tape) and also as stand-alone turbulator tapes. All the tapes are available from
+Glasfaser-Flugzeug-Service GmbH on their website: https//streifly.de/en/home. The Curved
+Mylar Tapes come in different widths and with or without the double sided adhesive tape
+attached. It is easier to put the double sided tape on the aircraft and then put the Mylar onto
+that, you have more control over it. The double sided tape has very strong adhesive properties
+and if the Mylar goes a little astray with the adhesive tape on it, it is very difficult to get back
+on track.
+These are excellent tapes but they have some drawbacks:
+
+The tapes hide hinges making inspection and lubrication difficult
+
+Difficult to remove and clean off adhesive residue
+
+Expensive to replace
+Section 10
+Range of Movement Checks
+At every Annual Servicing the range of movement of the control surfaces has to be checked
+thus ensuring the pilots who fly the glider have every chance of maintaining control whatever
+the circumstances thrust upon him or her.
+The range of movement is given in the Maintenance Manual, in the BGA Data Sheets and in
+most if not all TCDS. The range of movement is given in mm at a certain radius from the
+hinge point or an angular deflection from neutral. Unflapped gliders are relatively easy to
+check, the radius from the hinge line is almost always the inboard end of the control surface
+or the full width of the rudder.
+The best tool for measuring the aileron movement is a vernier gauge, simply ask your
+accomplice to move the aileron fully up or down and measure the distance top surface to top
+surface at the trailing edge and then reverse the control surface and repeat the exercise. Do
+both ailerons and check that both are in neutral together. The elevator is not quite so easy, you
+need a long straight edge to reach the elevator of a Tee Tail, not quite so long if the
+elevator/tailplane is mounted lower down. Judge the neutral position and mark the straight
+edge, then fully up and fully down. Measure the distances. The rudder requires some masking
+tape to stick on the floor and a plumb bob. Get the rudder neutral, drop a plumb line, mark the
+tape. Do the same left and right and then measure the distances. If the range of movement is
+given in degrees then you need an inclinometer. A small electronic one is ideal, those with a
+magnetic base are best as you can stick a thin steel plate to the control surface with masking
+tape and the inclinometer will stay put. (A Wixey).
+It is necessary to operate the controls from the cockpit and not at the control surface thus
+ensuring that any control restrictions become obvious.
+Gliders with flaps or flaperons are more difficult to check as there are usually up/down
+checks at different flap settings. On paper make up a table and note the figures down.
+
+--- PAGE 60 ---
+55
+Trim tabs are best measured with the elevator in neutral as some trim tabs are not just trim
+tabs but balance tabs. There are several different Tabs used in aviation on different aircraft:
+
+Fixed Trim Tabs
+
+Adjustable Trim Tabs
+
+Balance Tabs
+
+Anti-Balance Tabs
+
+Servo Tabs
+
+However, a lot of gliders do not have aerodynamic trim tabs but rely on spring systems. Trim
+tabs cause drag and gliders are designed to have the least drag possible.
+Fixed trim tabs can be adjusted on the ground by bending them at the trailing edge of the
+control surface whilst adjustable trim tabs can be altered in flight. Their position relative to
+the control surface does not change with control surface movement.
+Balance Tabs are adjustable in flight but move in relation to the control surface when that is
+moved. The K13 elevator has a balance tab – move the elevator and the trim tab moves in the
+opposite direction. Elevator up – trim tab moves down. Applies more force in the direction of
+control surface travel thus reducing the load required to move the control surface.
+Anti-Balance tabs are similar to Balance Tabs except that they move in the same direction as
+the control surface. Elevator up – trim tab up. Applies force against the direction of control
+surface travel thus increasing the load required to move the control surface.
+Servo Tabs are not really trim tabs. They are the part connected to the control column. The
+control surface is not connected to the control column, it is basically free-floating. The servo
+tab is moved and the aerodynamic force is used to move the main control surface and then
+that acts on the aircraft. Aileron servo tab moved down – aileron moves up – aircraft rolls
+towards the ‘up’ aileron. Not found on gliders!
+Some gliders also require minimum distances for the airbrakes or spoilers to move when
+open.
+Section 11
+Independent or Duplicate Inspections
+AMP 1-4
+The AMP Leaflet referenced above is very clear on the requirements of the Independent or
+Duplicate Inspection. Follow that and you cannot go too far wrong.
+Each and every inspection needs to be very specific as to which joint or nut/bolt has been
+inspected. The words used can be varied to suit a particular occasion. Duplicate Inspections
+can be recorded on one or more sheets as required or inserted into the worksheet below the
+statement of work done. An example of such duplicate inspections is on the next page, in this
+case all the inspections are on a dedicated Duplicate Inspections worksheet.
+
+--- PAGE 61 ---
+56
+The BGA now recommends taking a photo of the inspected item for future reference or
+inclusion in the Workpack if printing from a computer. Digital photos are now so easy to take
+and store/print.
+
+--- PAGE 62 ---
+57

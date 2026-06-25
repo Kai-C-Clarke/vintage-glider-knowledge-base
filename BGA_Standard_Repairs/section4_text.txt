@@ -1,0 +1,743 @@
+# BGA Standard Repairs Section 4
+# (OCR extracted)
+
+
+--- PAGE 1 ---
+SECTION 4
+
+MISCELLANEOUS REPAIRS
+
+Chapter 4.1 Glass Fibre Repairs
+Chapter 4,2 Perspex and Perspex Repairs
+Chapter 4.3 Metal Repairs
+
+
+--- PAGE 3 ---
+Section 4—Page |
+
+Chapter 4.1
+GLASS FIBRE REPAIRS
+
+Glass fibre is a material that has recently become fairly popular for many purposes,
+and it is being increasingly used in gliders. It consists of glass in finely spun form,
+either woven into a cloth or sometimes in the form of a chopped matting, embedded
+in a plastic. It can be laid up into almost any shape and any thickness. It has two uses
+in glider work. The first use is for fairings and other non-stressed components, which on
+account of their shapes are not easy to make of other materials. The second use is for
+parts of the glider which, again from their shapes, are difficult to form out of other
+‘materials, but which do carry some of the tight loads and which must therefore be
+considered stressed parts of the glider. Examples of these two uses:
+
+Unstressed: nose cones, parts of canopy frames, fairings of the front ends of skids,
+
+wing fairings, etc.
+
+Stressed: cockpit sections and fin roots of Dart gliders, ete.
+
+We must differentiate between these two uses of this material. The strength of glass
+fibre depends to a very large extent on the mix of the plastic, the proportion of glass
+in the panel, and what, if any, filler is used in the laying up. The snag with all this is that
+once the job is done, inspection does not reveal much of these important points. About the
+only thing that can be seen by inspection is that the dimensions, thicknesses, etc., are
+correct or otherwise. Therefore, in the case of stressed glass fibre, no repairs should be
+undertaken without reference to the manufacturer. Only he has the information about the
+stress in the component, and the details of the mix, type of glass, and proportion of glass, etc.
+
+In the case of unstressed components, the picture is rather different. Here there is
+no question of strength, but rather the problem of restoring the shape of the component.
+There would seem to be no objection in these cases to using one of the many proprietary
+glass fibre repair kits that are on the market these days. ;
+
+One of the most usual jobs on glass fibre components is the repair of cracks. Using
+a file, scarf out the edges of the crack to an angle of about 20 : 1 and, if necessary,
+support the back of the crack. Mix up the plastic resin and apply it to the crack using
+glass to reproduce, as nearly as you can, the original mix. Build up the scarf, using several
+layers if needed, and finish by leaving the repair proud of the surrounding glass fibre. Let
+this harden off, and then pare it down with a file to the Jevel of the surrounding material.
+Properly done,a repair of this description can be made quite invisible when painted.
+
+Slightly more complicated is the case where a piece of the component has been
+knocked out and is lost. Prepare the edges as before with scarfs of 20 : 1 and then
+make up some sort of backer to cover the gap. This can be made of plywood covered
+with greaseproof paper to stop the resin from sticking to it. Hold this backer in place
+by any means you like; an easy way is to use a stick of wood to wedge it in place, the
+other end of the stick resting against any convenient part of the glider. Now start build-
+ing up, with resin and glass, right up to the outer edge of the scarf, and try to reproduce
+as nearly as you can the original structure of the component. Build up, using several
+layers of resin and glass if you need to, until you have a surface which is well proud of
+the surrounding surface. Let this harden off, and then, with a file, pare down carefully
+level with the surrounding surface, .
+
+No illustrations are given for these repairs because they are very simple and anyone
+capable of doing wood repairs should find no trouble in tackling glass fibre repairs.
+A few words of warning may not be out of place. First, be careful of the spun glass,
+whether it is in the form of chopped matting or woven cloth. It can be very nasty stuff,
+as it has a habit of getting into your fingers and then snapping off, and this produces a
+most unpleasant sort of rash. You can get the same sort of trouble when you are cutting
+down the finished job, if you are tempted to use a sanding disc in an electric drill. This
+creates a horrible dust of glass which gets in your skin and irritates like mad. It is better
+for these operations to use a file and go at the job slowly. Do not mix up too much of the
+resin at once, as it sets very quickly, and do not mix the stuff up in any container that
+you may want to use again, because you will not be able to. The plastic cups that are
+supplied in those automatic coffee machines are very useful for this job.
+
+
+--- PAGE 4 ---
+Section 4—Page 2
+
+Chapter 4.2
+PERSPEX AND PERSPEX REPAIRS
+
+The canopy bubbles of most gliders are made of perspex, and a few words on this
+material may not be out of place here. Perspex is a plastic, and is readily formed into
+various shapes when it is heated. It is very soft, and easily scratched, so it should be
+handled with great care. Never handle the canopies of pliders if you can avoid doing so,
+and do not wipe them with anything but the softest of cloths, Clean them when necessary
+with soapy water and soft cloths and when polishing is needed, use the proper perspex
+polish. Attention to these details will preserve the optical qualities of the bubbles.
+
+Dope fumes will craze perspex, so whenever doping is being carried out, take. the
+perspex parts of the glider well away from the scene of operations. Dust and grit on the
+canopies should be washed off rather than wiped off, and much damage is.done by well
+meaning people wiping gritty canopies with dry cloths,
+
+Perspex can be cut to shape quite easily, but a few precautions should be taken.
+Although it is a fairly soft material, it cracks very readily, and the best tool to cut the
+stuff with is a fine-tooth hack saw. Cut it carefully, and do not rush the job, because, if
+it becomes heated from the saw, it tends to stick the saw in the cut and jam it, and this
+is the most usual cause of cracks when cutting the stuff. It may even try to weld up again
+behind the saw cut, and then it is difficult to separate again without damage. Jt can be
+
+filed as well as cut, but again the motto is slow but sure. Raw edges of perspex can be
+smoothed off with fine abrasive paper, finishing off with wet-and-dry paper. In all opera-
+tions on perspex, avoid haste, as this always ruins the job. You must be prepared for a
+lot ef work to get a good result.
+
+For joining perspex you have a choice of several cements. First there is the Tensol
+Cement sold for the purpose. Second, a good solvent is Glacial Acetic Acid. Third, and
+perhaps the easiest to use as a solvent is Chloroform. Chloroform is a very volatile
+iquid, and care should be taken with it, as it is also very inflammable. A very good
+cement can be made by dissolving perspex chips in chloroform until you have a thick
+treacly liquid. It takes a while for the perspex to dissolve, so it is a good plan to prepare
+the cement and keep a stock of it on hand for when you need it. Keep it stoppered, or it
+will be solid when you want it. :
+
+The. most usual repair that you will come across in perspex is a crack in a canopy
+bubble. First of afl, as soon as you spot a crack, stop the end of it by drilling a small
+hole at the end of the crack. Perspex drills easily, but be careful of the drill breaking out
+on the far side of the hole, so feed it gently. Now, vee the crack out, right to the bottom
+of the crack, to an angle of about 60 deg. You can now paint in the cement with a fine
+paint brush, softening both sides of the crack and ensuring that the cement gets right
+through to the bottom of the crack. You will have to do this a number of times to build
+up the crack to the original surface, and it takes time to dry. Go on doing this building
+up process until the crack js filled proud of the-surface of the surrounding perspex. The
+stuff seems to shrink as it sets, so make sure that the crack really is proud. Now let the
+stuff harden off, and this may take several days. When it is hard, file it down flush, and
+work up the surface again, going from fine files to wet-and-dry paper, and then to Brasso,
+and then on to the Perspex Polishes. This does take a lot of effort and time, so do not
+expect to be able to do the job in a few minutes. The main difficulty in these repairs is to
+avoid the inclusion of small air bubbles in the joint line. These always seem to appear,
+but they can be minimised by using the cement as thick and viscous as you can manage.
+If you soften the edges of the vee with neat chloroform and then paint in the cement in
+an almost putty-like consistency you will get the best results. Even the best results,
+however, are somewhat disappointing at times.
+
+Perspex can be quite simply patched, and this has the advantage that it does actually
+strengthen the place where the crack is. The previously described technique has not got
+this advantage, and the repair is never as good as the undamaged sheet. To patch
+perspex, where the sheet is cracked, first stop the crack with a hole at the end. Now, if
+the crack is on a curved surface, it is important that you do try to get the same curvature
+
+
+--- PAGE 5 ---
+Section 4-—Page 3
+
+on the patch before you stick it on. If you do not do this, you will find that the patch
+will start to develop small stress cracks in it and this spoils its appearance, apart from
+reducing its strength.
+
+Go ahead as follows:
+
+1.. Having stopped the crack with a hole at the end, prepare a patch which will
+overlap the crack all round, by at least } in. and chamfer the outer edges down
+to 5 : 1. Where the patch meets the edge of the sheet, the place where the crack
+usually starts from, omit the chamfer.
+
+2, Now heat the patch and bend it until it fits the sheet accurately, Don’t skip this
+part of the operation, because, for good results, the patch’ must be cramped
+very lightly, and not pulled into shape by the cramping. If you do try to pull
+the thing into shape, you will have stress cracks developing in the patch. ~
+
+3. Paint the cement on to both surfaces and cramp the patch into place, using as
+little pressure as possible, but excluding all the air bubbles in the cemented
+surface.
+
+4. Allow the cement to set, and this will take a good deal longer than you expect.
+Two or three days is not too long.
+
+5. Remove the cramping and work up the surface again, using wet-and-dry paper
+to remove all marks of the ‘cramping, and then going on to Brassoor some
+similar polish and finishing with the various grades of perspex polishes.
+
+The other most usual job that you will come across is the fitting of a new bubble to
+
+a canopy frame. If the bubble comes to you with a protective covering of paper stuck
+on to the polished surface, do not remove this until the last possible moment. It will
+help to prevent scratches.
+
+First, prepare the canopy frame, by removing all the old perspex and cleaning the
+thing up. It is best to do as much trimming of the perspex as possible after the bubble
+itself is screwed or bolted in place as the bubble is then rigid and there is less chance
+of damaging the bubble. Until the bubble is fixed into the canopy frame, it is an ex-
+tremely awkward and floppy thing to handle. However, on many frames, there is at
+least one edge that has to be fitted before you can screw, or bolt, the bubble to the frame,
+and if this is the case, then this edge must be very carefully filed, cut, and smoothed
+until you are satisfied with the fit. Now start bolting or screwing this edge into place,
+starting at the centre, and working outwards in big steps. Countersink each hole if
+required as you drill it, and do use a countersink of the correct angle. Failure to observe
+this is to ask for splitting. Do not overtighten the screws or bolts and ensure that there
+is an ample clearance in the perspex around each bolt or screw. Now turn your attention
+to the other edges, “Working Opposite” as far as you can. If you are tempted to work
+along a seam from one end to the other, you will find that you distort the sheet and that
+you cannot get the last bit to fit. Ifa sealing compound is used on the original job, use
+it on the replacement. When the bubble is completely screwed or bolted into place, you
+can then start to trim the edges to shape, but once again do this slowly and carefully.
+
+_ Perspex work is intrinsically fairly simple, but you cannot take liberties with the
+stuff. A false move, the use of force on it, and an expensive bubble can be spoilt; but
+treat the stuff gently, cut it and file it slowly, using very light pressures, and you will
+find that you can manipulate it quite easily. Avoid scratching it while working on it
+and to this end it is a good plan to place a clean thick blanket on the bench to work on.
+You can then move the canopy about on this without fear of scratching it, but do keep
+it clean, and shake it out as soon as it needs it.
+
+Chapter 4.3
+METAL REPAIRS
+There are a number of metal parts on all wooden gliders, and it may seem a litile odd to
+
+begin this Chapter by saying that, in general, it is far better to replace metal fittings with
+new items than to try to repair them. There are exceptions to this rule, of course, such
+
+as main skid armour plates, tailskid shoes, etc., which can well be reconditioned for
+
+
+--- PAGE 6 ---
+Section 4—Page 4
+
+further service when they become worn. ‘The real problem occurs when you have a
+“one off” aircraft, or a foreign built machine for which spares are not readily available,
+In this case, the Inspector is faced with the necessity of reconditioning metal fittings or
+even, in the ultimate, of making new parts. In the latter case the first essential is that the
+Inspector is quite certain that he has the necessary information to enable him to make
+up the new part. This, as a minimum, must be, the Specification of the material used,
+heat treatment, if any, and a drawing of the part, unless the fitting is of such a simple
+nature that it can be made from the original part. If an Inspector can be sure that he
+has the above information, and is confident of his ability to make the fitting, then he
+may do so, but he must sign the log book of the aircraft and make it quite clear that he
+has made the fitting and approved it. For his own protection, he must quote the Release
+Note number of the material that he used, of course.
+
+One metal item that is found in every glider is the Release Hook, and: this is a very
+important piece of equipment. A failure of the hook to release can have very serious
+consequences. At present all British Gliders are fitted with the Ottfur type of back-
+releasing hook. Its mechanism is shown in illustration Fig. A. The back releasing element
+
+Figure A .
+
+is obvious on examination. Now these hooks are extremely reliable pieces of equipment,
+but like’any other mechanical device they must be kept in proper order, The re easing
+action consists of an over-centre device, and the position at which the links come to
+rest when the hook is in the closed position is clearly critical. Any wear in the links will
+alter this closed position and will affect the pull required to open the hook, under a
+given load in the launching cable. The difficulty here is that to determine the load
+required to open the hook, under a given test load, necessitates a test rig, and this is
+normally not available at the average gliding repair workshop.
+
+
+--- PAGE 7 ---
+Sectlon 4—Page 5
+
+Fortunately, the makers run an overhaul and test service for these hooks, and the
+reconditioning service is so quick, and cheap, that it is hardly worthwhile attempting
+to do any sort of work on these hooks, apart from such things as replacing broken
+springs. There are three basic troubles to watch for in these devices. First: breakage of
+the springs, either the internal, or the external one. The replacement of either of these
+presents no problem. Second: wear in the links leading to alteration in the over-centre
+position. This requires overhaul by the makers, and testing on the test rig. The unit is
+serviced, and re-issued with a Release Note. Third: the launching rings may, after
+considerable use, wear a groove across the ‘“beak” of the actual hook. This is potentially
+dangerous, as it delays, and in extreme cases may prevent, the back releasing action.
+If the whole unit is otherwise in good condition, it may be possible to replace the
+defective component, but, again, the best plan is to return the unit for re-conditioning.
+
+Flexible cables in control circuits cannot be repaired. In Section 1, Chapter 1.3,
+when discussing protective treatments, we discussed corrosion and its prevention, but
+cables also suffer from abrasion and fatigue. They are obviously vital components and
+no damage to them can be tolerated. Any whiskers on a cable mean that the strands
+are fatigued or that they are wearing through, and in either case the cable must be
+thrown away and a new one fitted. An Inspector is perfectly entitled to make up and
+fit a new cable, provided that he uses approved cable, quotes the Release Note number
+in the log book of the glider, and that he proof loads the cable to 50% of its nominal
+breaking load before fitting it. Most glider control cables are 10 cwt. cable of BSS W.9,
+and this means proof loading the finished cable to 560 Ib. It is not a difficult matter to
+construct a suitable rig, with levers and a spring balance, to apply this load. Hand
+splicing of cables is rapidly becoming a thing of the past, and there Is no question that
+the swaged eye splice is a far better job, but this must be done by an approved process,
+and with the correct dies, and ferrules. Remember that the proof loading will settle the
+strands of the cable and stretch it slightly, so do not make your cables up too long in
+the first place. Hand splicing, on the other hand, tends to shorten the cable slightly,
+A little practice will soon show the allowances for this. Hand splicing is an art that
+must be leamed in the workshop, under the tuition of an instructor, but, as things are
+going at present, hand splicing will have disappeared from the gliding scene in a few
+years’ time. Hinges, and bearings generally, require attention periodically, In many
+cases, this is a straightforward job, if there is a replaceable element, ball race, bush, etc
+The difficulty arises when there is no such replaceable element. In some cases it may be
+possible to ream oversize and fit new suitable pins, but this can only be done with the
+approval of the manufacturer. The Inspector has not got the stressing figures of the
+aircraft at his disposal, but the manufacturer has, and reference must always be made
+to him before any reaming, that could possibly affect the strength of the glider, is
+undertaken. Also, of course, the Inspector must quote in the log book, the authority
+from the manufacturer, to ream and fit oversize pins. This is for his own protection.
+
+More and more, these days, manufacturers are fitting bushes into such things as
+main wing pin fittings, and this makes the problem much simpler. When worn, the old
+bushes can be drilled out and new bushes fitted, either by screwing them in or peening,
+whichever method was originally used. If peening was used, the bushes will probably
+need to be reamed to the exact size since the peening tends to close them up slightly,
+
+Great care must be taken when removing bushes, not to open up the holes .in the
+fittings, as this would leave the new bushes a slack fit in the fittings, and would weaken
+the fittings themselves. In cases of difficulty, it is a good plan to drill out the old bush
+slightly undersize, and then collapse the remaining shell of the old bush and pick it out,
+This can be done quite easily if the old shell is sawn through carefully.
+
+Welding of any glider structure must only be done by an ARB (Air Registration
+Board) approved welder, and his approval must be quoted in the log book of the glider.
+However, there are a number of parts on a glider which do not affect strength, or control,
+such as the armour plates of main and tail skids, and these it is perfectly permissible
+for an inspector to weld, even if he does not hold ARB approval for his welding. The
+entry in the log book must make quite clear that the work was done by a non-approved
+
+
+--- PAGE 8 ---
+Section 4--Page 6
+
+welder. It must be appreciated that many of the parts of a glider that are made of metal
+have been subjected to some sort of heat treatment, and no heat is permitted on these
+parts. Should they be heated, there is danger that the heat treatment will be destroyed,
+and there may well be no indication that this has happened.
+
+A point that must always be borne in mind, when two dissimilar metals are in
+contact, is that there is a severe danger of electrolytic action between them which will
+lead to very rapid corrosion. This can be prevented by making quite sure that there is a
+good film of jointing compound such as Duralac between the two metals, The important
+point is to ensure that there is no actual contact between the two metals, but that there
+1s always a layer of jointing compound, paint, or other medium separating them.
+Electrolytic corrosion can only take place where there is moisture, so take extra care
+to see that the potential trouble spots do not get damp. Light alloys usually show a
+white powdery deposit when corrosion starts, but this cannot be relied on. In many
+places you will find steel bolts passing through Dural plates, and in this-situation the
+bolts must be plated either with Cadmium or Chromium. In spite of this plating, jointing
+compound must still be used on assembly.
+
+In the case of parts which are assembled with a push fit, or drive fit, it may be
+difficult to ensure that jointing compound is really preventing metal to metal contact,
+as, of course, it should do. A good plan in these cases is to provide a small chamfer on
+the outer element and then, when the inner element is pressed into place duly coated
+in jointing compound, the chamfer will allow a small fillet of jointing compound to be
+left, and this fillet will effectively seal the assembly against the entry of moisture,
+
+Light Alloys as used.on gliders fall into two classes. First, the low strength alloys,
+which may, to all intents and purposes, be considered to be pure aluminium. These are
+used for fairings, and other non-structural parts. They are soft and easily worked,
+They do tend to harden, and, in extreme cases, may crack. Repairs can be made to them
+by patch rivetting, or a competent welder can weld them, but, of course, this may only
+be done on truly non-structural parts. Second, there are the high strength alloys, and
+there are many of these. Even the appellation Duralumin, or Dural for short, now covers
+quite a number of Specifications. Dural has some peculiar properties and it may not
+be out of place to say a few words about this alloy, It can be annealed, b heating to
+about 400°C. and allowing the alloy to cool slowly. In this state it is nearly as soft as
+aluminium, and can be worked and formed quite easily. It rapidly work hardens,
+however, as soon as any forming is done on it, However, unless work is done on it,
+the alloy will stay soft and weak almost indefinitely. It can also be “Solution Treated”
+and this changes the character of the alloy in a most dramatic manner, Solution Treat-
+ment involves heating to about 500°C. and then quenching. After this treatment it is
+almost as soft as if it had been annealed, but it rapidly age-hardens, and any work that
+has got to be done on it, must be done within a matter of hours after the quenching.
+After about five days the alloy is hard, not ve ductile, and has a strength approximately
+equal to mild steel. This means that, in the fu ly hardened condition, the alley cannot be
+formed, and can only be bent round comparatively large radii, without damaging the
+material, .
+
+Some Durals, 1.72 for example, can be made even stronger and less ductile by
+Precipitation Treatment. This involves soaking the material, after Solution Treatment,
+at about 120° C. for some 24 hours. The material then becomes L.73, the proof stress
+and the ultimate tensile stress are both increased and the ductility is reduced.
+
+Dural corrodes fairly rapidly, and the more usual way of using this material is in the
+form of Alclad, which is Dural with a thin layer of pure aluminium rolled on to each
+surface. Aluminium corrodes, but its oxide acts as its own protective skin, preventing
+any further corrosion. Take care not to damage the aluminium skin. Do not use scribers
+to mark out, but use a soft pencil.
+
+When assemblies are made up of Dural, the finished parts are sometimes protected
+from corrosion by anodic treatment. This forms a hard, impervious coating on the come
+ponent, but again, care must be taken not-to damage this coating, The process requires
+acid baths, and a means of supplying a controlled current of electricity to the component
+
+
+--- PAGE 9 ---
+Section 4--Page 7
+
+in the acid bath, and is probably outside the capabilities of the average glider repair shop.
+
+A further process is the Alocrom process developed by I.C.L, who will supply
+all details. Take care with the solutions of this process as some of them are harmful .
+
+From what has already been said it is obvious that welding is not a possibility as a
+method of repair for these high strength alloys. The only way to repair them, if indeed
+repair is possible, is by rivetting. Now here we run into a problem straight away. No
+rivetted joint can ever be as strong as the plate. Therefore the structure has to be designed
+to the strength of the rivetted joints and not to the strength of the plates. A little thought
+will show that this is so, because to join the plates by rivetting, we have to drill holes in
+them, and this weakens them. Note, by the way, that this does not apply to wooden
+construction, where the joint can easily be made as strong as the ply or spruce, since a
+properly made scarf joint does not fail at the glue joint, However, if we accept that the
+structure of a metal glider is designed to the strength of the joints, we can usually work
+out an acceptable repair on the principle that the joints of the repair must be as strong
+as the riearest adjacent joint. This usually means using the same rivets and the same
+rivet pitch as the nearest adjacent joint.
+
+In the case of members, as against skins, it may well not be possible to restore the
+strength in a repair. In this case the question boils down to whether we can accept the
+reduction in strength, or whether we must replace the member in foto.
+
+Light alloy structures are repaired by rivetting, though the time may not be far off
+when the new techniques of resin bonding these materials will be feasible as a repair.
+Therefore we had better begin by a discussion’on the principles of riveting.
+
+Rivetting
+
+First of all, the hole in which a rivet is set must be slightly oversize to allow the shank
+of the rivet to expand, The sizes most commonly used and the correct size of drill
+for them are given in the table below: .
+
+Rivet size Size of hole Drill
+sin. 098 in, No, 40
+din. °1285 in, 30
+ay in. 161 in. 20
+es in, _ *f91 in. 1]
+din. -257 in. Letter F
+
+The in. size of rivet is not very frequently found on gliders,
+
+Rivets. should always be set with the proper tools, These consist of a “dolly” to
+hold up the head while the rivet is being set, and a “snap” to form the head. These two
+tools resemble punches, except that they have a recess in the end, that of the dolly to
+fit the head already on the rivet, and that of the snap of the shape of the head to be
+formed. Attempts to set rivets without these tools are doomed to failure.
+
+Rivets in the wing surface, and sometimes in the fuselage skin, are often countersunk
+or flush with the plate surface. This is achieved by two methods, either by cut-counter-
+sinking the hole with a rose bit, or, where the metal thickness is insufficient to permit
+this, by dimpling.the metal at the hole. Dimpling is effected by the use of hand tools.
+Again, the proper tools must be used, or the results will be erratic. As a guide, the table
+below indicates which method should be used for the various gauges of plate and rivet.
+
+Gauge of plate Rivet diameter
+gin, fin. yin. Yin.
+D D
+
+24g and thinner .. D D
+
+2g . . . D D D D
+20g . os . D D D D
+18g 7 . » C Cc D D
+16g and thicker .. c Cc Cc
+
+. Cc.
+C means countersunk. D means dimpled.
+
+Rivets are available with several different types of head. The three most used are,
+in order of strength, the snap head, the mushroom head, and the countersunk head.
+
+
+--- PAGE 10 ---
+Secthon 4—-Page 8
+
+The snap head is a formed dome on the end of the rivet. The mushroom head is a much
+flatter dome, which does not project so far into the airflow. The countersunk head
+rivet is flat on the head and is designed to be fitted so that it is absolutely flush with the
+skin of the aircraft. Note particularly that there used to be 90° and 120° angles for
+countersinking. These days a further complication has appeared and that is that the
+angle of 100° is becoming the standard for countersinking. It is vital that the correct
+angle is used in all countersinking and dimpling operations. The above table of counter
+sunk and dimpled rivets applies to the 100° angle.
+
+Dimpling is not as simple an operation as it sounds. Jt must be done accurately,
+and without cracking the plates. In some cases, spin dimpling may have to be used,
+tather than punching the dimples. :
+
+To form a snap head satisfactorily, the rivet shank must project about 1} diameters
+above the surface of the plate; a trifle more in thick plates as the shank will shorten
+more as it is expanded. To form a countersunk head in a countersunk hole, the pro-
+jection should be about ? of a rivet diameter, again rather more if the plates are thick.
+Usually, the countersunk rivet is used, so that the head already on the rivet is set into
+the countersink on the outside of the skin of the aircraft, and the other head is formed
+as a snap head, or even simply driven up as a plain flat “cheese”. Light alloy rivets are
+made in various Specifications, but the most usual ones are:
+
+Type of rivet Coloured
+Aluminium, L36 .. vs ‘ + . Black
+Dural, L37.. . . + . Uncoloured
+Magnesium Aluminium alloy, L58 . Green
+Aluminium alloy DTD, L86 x. .e ve Violet
+
+The Dural rivets L37 must be heat treated as mentioned above when talking
+about Dural. This means that they must be Solution Treated and set within an hour of
+being quenched, This will probably be beyond the scope of the average glider repair
+organisation as it required the use of a salt bath to Solution Treat the rivets. The other
+rivets mentioned in the table do not need Solution Treatment, but they are not as strong
+as L37 rivets.
+
+One other type of rivet must be considered and that is the tubular rivet. This is
+frequently, in fact usually, of steel and is found in much larger sizes than the foregoing
+It is often used in wing root fittings, instead of bolts. The rivet itself consists of a tube,
+one end of which is belled out and actually turned over. When setting this type of rivet
+the formed end is held up by a shaped dolly, and the other end is formed with a similar
+tool, rather like a snap with a “pip” in the centre. This, when driven by a hammer,
+bells out the end and turns it over, Once again, it is vital to use the proper tools, or the
+end cannot be formed satisfactorily. The amount of projection above the plate surface
+is also important, but this cannot be laid down, as it depends on the length of the rivet,
+and these are often very long. Light blows must be used, or there is a danger of collapsing
+the rivet instead of forming a proper head. The best tool for this job, if it is available,
+is one of the pneumatic, or electric, rivetting hammers designed for the job.
+
+Rivetting is a process that requires a little skill to get good results, When rivetting
+a long line in a plate, do not start at one end and work straight along. If you do this,
+you will find that the action of driving the rivets will distort the plate slightly and the |
+holes at the end of the line will not line up. Drive a rivet at each end, then one in the
+middle, and then halve the gaps by driving a rivet in the middle of each. By this means
+you will ensure that any distortion is spread évenly over the whole plate in every direction.
+
+The plates to be rivetted must be pulled up in close contact, and the best way to
+do this is to use a number of the small rivetting clamps made for the job, These are
+inserted in a number of the rivet holes and the plates pulled up. Some of the rivets
+are now driven and the clamps removed progressively as rivetting proceeds. Perhaps
+the most usual fault of rivetting is failing to ensure that the rivet is properly held up,
+while the rivet is being driven to form the head. The dolly must have as big a mass as
+possible behind it, to guarantee that the rivet is held immovable, while the head is being
+
+
+--- PAGE 11 ---
+Section 4—Page 9
+
+formed with a hammer on the snap. This is where the power rivetting tools are so
+valuable, as they deliver an enormous number of very light blows per second, which
+form the head easily without tending to knock the rivet back in its hole. Another method
+of driving rivets is the hydraulic squeeze method. This does need the proper equipment,
+which is rather expensive, but it has the great merit that exact loads can be applied, and
+extremely regular results can be obtained.
+
+Another technique of rivetting which is most useful, in certain applications, is the
+use of “blind rivets” of the Chobert, Tucker Pop and Avdel type. These have one great
+advantage, that they can be used where it is impossible to get at the other side of the
+plates to hold the rivets up for setting. They all consist of hollow rivets, fitted on to a
+mandrel, and when the. mandrel is fitted into the rivetting tool and the rivet inserted
+into its hole, the tool draws the mandrel out through the rivet, expanding it. Some of
+them pull the mandrel right through the rivet, and some types are designed so that the
+mandrel breaks at a given load, leaving the stem in the rivet, or allowing the end of the
+mandrel to drop out on the other side of the job, Blind rivets must be used with caution.
+First, they are not as strong in shear as solid rivets, though even this statement requires
+
+ualification. Tucker Pop rivets in Monel metal are as strong as solid rivets, and Chobert
+rivets plugged with shear pins are also as strong. However, in the thinner gauges of
+plate which are used on gliders, say 20 g and thinner, the shear strength of the rivets is
+not normally the design criterion of the joint. It is more likely that it will be the bearing
+area of the plates that will govern the size and Pitch of the rivets. In this case, it may well
+be that, provided the shear strength of the blind rivets is greater than the bearing strength,
+of the plates, blind rivets could be used to replace solid ones.
+
+Dural rivets L37 are probably not justified in glider work for the above reason
+except in the heavier gauges of plate, where the superior shear strength can be used.
+The sort of place that you might find these rivets used is in the construction of a built up
+metal spar. If L37 rivets have been. used, it is probable that L37 rivets will have to be
+
+SAILPLANE & GLIDING
+
+The Sport’s only Magazine
+
+Published every other Month
+
+Articles and illustrations to interest the gliding enthusiast all over the world
+
+Annual subscription details
+
+from
+
+BRITISH GLIDING ASSOCIATION
+
+Kimberley House, Vaughan Way, Leicester
+
+
+--- PAGE 12 ---
+Section 4—Page 10
+
+used in any repair, and this may'well be beyond the scope of the average plider repair
+shop, since these rivets require Solution Treatment before being driven.
+
+From what has been said, it should now. be clear that it is virtually impossible to
+lay down standard repair schemes that can be used in all cases, Since we cannot teplace
+all the strength in a repair, except in the case of welded structures, we must only adopt
+repair techniques where some loss of strength can be tolerated, In many cases, of course,
+strength may not be the major consideration, and there are plenty of places on a metal
+structure where stiffness or rigidity is the criterion rather than actual strength. For .
+example, it might be quite permissible to put a fiush insertion into a fairly large plate
+to repair a small hole, but it would be most unwise to do the same thing in a spar web.
+In the latter case, all the spar web loads would have to be carried across the rivets, and
+it might not be possible to work out a rivetting scheme which would provide the neces-
+sary strength reserve, The only alternative here would be to remove the damaged plate
+altogether and fit a new one, rivetting up into the original holes, "
+
+df in any doubt, the scheme proposed should be submitted to the manufacturer of
+the glider for his approval before the job is started. This approval should always be
+quoted in the log book when the repair is signed up.
+
+Patch Repairs
+These fall into two distinct types: 1. The patch plate and filling plate repair, and 2. The
+butt strap and insert type. These are shown in illustration 4.3.1. You will see that in the
+filling plate repair, the actual filling plate carries no load at all; its only purpose is to
+preserve the outer surface of the skin, and therefore it may be attached to the patch
+plate by blind rivets if desired, This repair then is only used’on the outer surface of the
+glider where the finish is important, and on parts of the aircraft where finish is of no
+importance, the filling plate can be omitted entirely.
+
+When using the Butt Strap and Insert type of repair, the load is carried across the
+insert plate.
+
+SHEET FILUNG PLATE PATH OF LOAD
+ae a = =e SS = oad
+
+SOLID PATCH Hlustration 4.3.1
+PATCH & FILUNG PLATE REPAIR Paich Repairs
+
+INSERT PATH OF LOAD
+
+——— Lmerenes
+BUTT STRAP
+
+BUTT STRAP & INSERT REPAIR
+
+General Rules ;
+Repair materials must be of the same Specification as the original structure, Filling
+plates, patches, and inserts must be of the same gauge as the damaged sheet, and butt
+Straps must be two gauges thicker than the damaged sheet, ie, 16 swe butt strap for
+an 18 swg sheet. If the sheet has any appreciable curvature, pre-form the parts before
+assembly. The rivets should be of the same specification and diameter as the adjacent
+structure. Jointing compound must always bé used when assembling the parts. Pro-
+tective treatment must always be made good after the repair is finished. Rivet landings,
+the distance between rivet centres and the edges of material must not be less than 2 D,
+where D is the rivet diameter. Rivet pitch, the distance between rivet centres, should
+copy the pitch of the nearest edge of the damaged plate, but must not be less than 4 D.
+Before commencing a repair, clean up the damaged area. Stop all cracks by drilling
+4 in. holes at the ends of them. Cracks in skin over internal members may mean that the
+
+
+--- PAGE 13 ---
+Sectha 4—Page 1!
+
+member underneath is damaged. Dress all distortion back with a mallet, or hammer
+and blocks of wood, and then inspect carefully for any cracks that may have been started.
+Cut out and file all holes to smooth shapes, preferably rectangular for ease of fitting.
+If you have to drill rivet holes oversize use they have pulled out of shape, make
+sure that you drill on the original centre. This can best be arranged by filing out the hole
+opposite to the distortion to an equal amount. The drill will then run through on the
+original centre. Note that approval may well have to be obtained for using oversize
+rivets.
+
+“Flash Repairs to small damage in clear areas
+Scheme 4.3.2.
+Use this scheme where: Damage is less than 3 in. max. dimension.
+Damage is less than } width of the panel.
+You can get at both sides of the panel.
+See illustration 4.3.2 and go ahead as follows:
+1, Clean up the damage and stop cracks with } in. holes.
+2. Make up the patch plate, using material of the same specification and thickness
+as the panel. :
+3. Ifusing a filling plate, cut out damage, and make the filling plate to fit the hole.
+4. Using jointing compound, rivet the patch plate into place, and then fit the
+filling plate with tack rivets. These latter may be blind rivets if desired,
+Mlustration 4.3.2 shows several types of this repair.
+In material of 24g .. ve an . use 3% in. rivets
+22 and 20g.. te ae » 432 yy
+18 and 16g.. ee. ae » wil, 4,
+
+ons
+wae
+
+is]
+
+OTE eS
+
+fo]
+
+Seren
+
+é
+7
+oo INTERNAL
+(SOLD PATCH
+
+‘eo
+Illustration 4.3.2
+Damage up to 2 tn, — 8 rivets
+
+” Pc + ta a
+nonlin —4 a
+
+Patch and Filling Plate may be circular if desired. Max. diameter of Filling Plate 3 in,
+
+--- PAGE 14 ---
+Sectlon 4—Page 12
+
+Scheme 4.3.3, See Hlustration 4.3.3. oo
+
+Use this Scheme to replace part of a large damaged panel. Note that the strength
+of the repair may not be up to that of the original structure, so, in case of doubt, obtain
+the makers’ approval. ;
+
+Make the butt strap in as few pieces as possible to accommodate the internal
+members. A gap of # in. must be maintained between the internal members and the
+ends of the butt strap. The gap between the sheet and the insert must not exceed ¥ in.
+Use plenty of jointing compound when rivetting up. A typical example of rivetting at a
+corner Js shown in the sketch. Rivet pitch at a corner may be less than normal, but must
+not be less than 4D. D being the rivet diameter. :
+
+Use existing rivet holes where possible. If the damage is near the edge of a panel,
+cut it gut to the edge of the panel. The repair then becomes the partial replacement of
+a panel. :
+
+P Use the same rivet pitch as the nearest adjacent parallel joint. Where the joint
+crosses an internal member, and the rivet pitch is more than 8D, make the cut midway
+between two rivets, If the rivet pitch is more than 8D, make the cut 2D from one rivet
+and insert an additional rivet 2D from the other side of the cut. This point is shown in
+the illustration.
+
+CUT 2D FROM RIVET LINE
+
+EXISTING RIVETS AT
+8D PITCH OR MORE
+ADDITIONAL RIVET
+2D FROM CUT
+
+EXISTING RIVETS” Lore BUTT STRAP
+LESS THAN x
+BD PITCH
+
+EXISTING SHEET
+
+CUT MADE MIDWAY BETWEEN RIVETS -
+
+Hlustration 4.3.3
+Repair to replace part of large panel
+

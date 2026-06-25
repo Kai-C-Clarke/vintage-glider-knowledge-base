@@ -1,0 +1,494 @@
+# BGA Standard Repairs Section 1
+# (OCR extracted)
+
+
+--- PAGE 1 ---
+SECTION 1
+_ GENERAL CONSIDERATIONS APPLYING TO REPAIRS
+
+Chapter 1.1 Safety in Flight
+Chapter 1.2 Workshop, Equipment and Tools
+Chapter 1.3 Protective Treatments
+Chapter 1.4 Logbooks and other Paperwork
+
+Chapter 1.5 Modifications
+
+“yy:
+
+
+--- PAGE 2 ---
+Sectlon 1—Page }
+
+Chapter 1.1
+SAFETY IN FLIGHT
+
+The safe operation of a glider depends on three things. The manner in which it is flown,
+how it is maintained, and how it is repaired after damage or deterioration. The first is
+outside the scope of this book, the second has already been covered in the Glider
+Maintenance Manual obtainable from the B.G.A. and, while some aspects of repairs
+are included in that publication, it is the purpose of this book to go into this matter in
+rather more detail.
+
+It is quite impossible to draw up a repair scheme for every conceivable repair that
+will ever have to be made. However, it is quite feasible to consider the more usual types
+of damage, and to lay down standard methods of dealing with these. It will then be
+found that nearly all types of repair can be carried out by employing combinations of
+these basic methods. In cases of great complexity a scheme can be worked out, and if
+there is any doubt in the mind of the Inspector, reference should be made to the manu-
+facturer who will always advise on the suitability of the scheme.
+
+The structure ofa glider can be divided up into three categories—Primary, Secondary
+and Tertiary. These may be defined as follows:
+
+Primary: those portions of the airframe in which a single failure would cause
+collapse of the structure or complete loss of control. .
+
+Secondary: those portions of the airframe which would normally be considered as
+primary, but which unavoidably have such a reserve of strength that appreciable
+weakening can be permitted without risk of failure, and structure which, if damaged,
+would not impair the safety of the aircraft,
+
+Tertiary: those portions of the airframe in which stresses are low, but which for
+various reasons cannot be omitted from the aircraft.
+
+It is here that the Inspector requires some knowledge of the theory of structures when
+deciding into which category any component of a glider falls. As a very rough guide
+some examples follow:
+
+Primary structure: all spars, longerons, ply skinning of torsion boxes, diagonal
+members of girder type fuselages, ply skinning of monocoque fuselages, attach-
+ments of wings, taiplanes, etc.
+
+Secondary structure: minor parts of the airframe whose main duty is to provide
+correct profiles, skids, etc.
+
+Tertiary structure: fairings and suchlike parts of the airframe which contribute
+little or nothing to the strength of the glider.
+
+Bear in mind that these examples must be considered with some intelligence, and
+not applied too ngidly. A fairing may be Tertiary structure in itself, but if its failure
+were to involve the possibility cf its fouling a control surface, then clearly we must
+think again. ; :
+
+Circumstances alter cases too, and we could well consider the tyre of a glider with
+a normal main skid to be Tertiary structure since bursting of the tyre would have no
+effect at all on the safety of the machine. This would not be true in the case of a glider
+with a main landing wheel but no proper main skid where bursting of the tyre might
+well result in considerable fuselage damage.
+
+From the definitions of structure, it is clear that a repair to Primary structure must
+replace all of the strength lost by damage. In the case of Secondary and Tertiary structure
+some loss of strength can be tolerated. However, the Schemes that follow in this book
+are based on Primary structure requirements, i.e. the replacement of all the strength of
+the members damaged. They can therefore be used for all categories of repair.
+
+Tt can be accepted that if a repair is made to a wooden aircraft, using approved
+materials and glue, and using ply splices of not less than 12: 1 angle, and not fess than
+15 : 1 splice angle in solid members, the resulting repair will be as strong as the original
+structure. A reasonable standard of workmanship is required, but rather more important,
+
+
+--- PAGE 3 ---
+‘Sectton 1—Page 2
+
+complete honesty on the part of the workman and the Inspector as regards dimensions,
+cleanliness of joints, accuracy of profiles, and the gluing techniques. On these may depend
+the lives of pilots flying the repaired aircraft. ;
+
+Apart from restoring the strength of a damaged component, three other considera-
+tions must be satisfied. The stiffness of the member must not be materially altered or it
+will throw some of its duty on to the adjacent structure. The weight of the repaired
+structure must not be significantly more than that of the original, and lastly, the pro-
+tective treatment of the structure must be made good. If all these four aspects of a
+repair are satisfactorily covered, then the repair is a good. one.
+
+Before, starting a repair, make a full inspection of the damage, cleaning away all
+protective treatment as necessary to be sure that no damage escapes detection. In this
+connection remember that it is quite possible for damage to show up a long way from
+the source of the trouble. For example a fuselage damaged at the tail end may well show
+compression shakes in the longerons up at the front end near the main frames where
+the wings attach. Classify the damage into three categories, negligible, repairable, and
+replacement. Make a clear plan of action, so that you do not cause yourself unnecessary
+difficulties through rebuilding parts of the structure in the wrong order. A little thought
+here can often save a lot of time. If the structure is badly damaged, make sure that it
+is correctly supported so that you do not build distortions into it. Frequent use of
+levels, clinometers, and measuring tapes will ensure that the final result is true to draw-
+ings. If drawings are needed for the rebuild, the manufacturers will be found only too
+willing to supply these, and any other advice and assistance that the Inspector may
+require.
+
+1 At each stage of the repair the Inspector must satisfy himself that the work has been
+satisfactorily carried out before he gives the o.k. for the next stage to go ahead. In all
+aircraft work it is the Inspector who is the man who carries the responsibility and it is
+his signature which guarantees the work. Anybody may do the work: ail that is required
+is that an Inspector approved by the B.G.A. signs that he has inspected it and is satisfied
+that it has been properly done. .
+
+Electrical Bonding leads are now (October, 1966) a mandatory requirement in all
+gliders which hold a B.G.A. cloud-flying category. If bonding leads are fitted, a check
+must be made to ensure that any damaged, or removed for access to the repair, have
+been replaced and that the continuity of the leads is correct.
+
+A check must be made to ensure that all drainage holes are clear, and that the ones
+in the repaired structure have ' cen drilled in the correct-places.
+
+When a repair has been made to a control surface which carries a mass balance, a
+check must be made to verify that che mass balance has not been upset. Most glider
+control surfaces are not fully mass-balanced, that is, the c.g. of the surface is not brought
+to the hinge line, or slightly in front of it, as is usual on powered aircraft. This is because
+the criteria for the mass balancing are consideratious of stability, or the handling of
+the glider, rather than purely prevention of flutter. It is unusual to find the limits of the
+c.g. of control surfaces in the glider’s handbook, and in case of difficulty reference
+should be made-to the manufacturer. It is assumed that the Inspector is familiar with
+the Principle of Moments in which case he should ave no difficulty in determining the
+c.g. of the control surface by weighing it, and then supporting it at its hinge line and
+measuring the out of balance moment with a small spring balance, or by moving a small
+test weight about on the surface until balance is achieved. :
+
+Chapter 1.2
+WORKSHOP—EQUIPMENT AND TOOLS
+
+It cannot be overemphasised that satisfactory work demands a certain minimum of
+equipment and tools. If that minimum is not available then the Inspector should refuse
+to sanction the work. A workshop in which glidur work 1s going to be done must have
+a heating system capable of maintaining the temperature at 50F unde. all weather
+
+
+--- PAGE 4 ---
+Section 1-—-Paye J
+
+conditions as a minimum, a good lighting system, and sufficient ventilation to enable
+doping to be carried out without unpleasant consequences, and it must be equipped
+with trestles, benches, etc. to permit work to be done in comfort, It is an advantage if
+the floor is of wood, as this permits the erection of jigs and other fixtures of a temporary
+nature very simply and rigidly. Also there must be an adequate supply of efficient fire
+extinguishers, as the fire risk in the average glider workshop is potentially great.
+
+Fixed Equipment
+Proper woodworking benches must be provided, and each should have a woodworking
+vice fitted to it, and a fitters vice at one end. How many benches will be needed depends,
+of course, on the number of men expected to be using the shop at one time. Some sort
+of grinding wheel is a necessity, though this can quite well be one of the hand or foot
+operated type, for a small shop. A pillar drill is a useful tool as it assists accurate drilling,
+but good attachments can be bought these days to enable the smal} electric drills to be
+used as pillar drills, . ;
+From the safety angle, ensure that the lighting is good in the working areas of any
+power tool and benches. Many accidents can be traced to poor lighting.
+
+Tools ‘
+Nothing very exotic is required in the way of woodworking tools. An assortment
+of chisels ranging from about } ins. to 1 in. or a little bigger will be needed, andthe
+must be kept really sharp, so something good in the way of an oilstone is also needed.
+Use the oilstone properly so that the surface of it remains flat, otherwise it will be
+impossible to maintain straight cutting edges on the tools. A few planes will be required
+ranging from jack planes down to the small bull-nose planes, and a spokeshave, These
+also need to be kept really sharp if good work is to be done. A few screwdrivers of
+various sizes, and an assortment of spanners to cover the range from 0B.A. to 6B.A.
+and from ins. to about } in. B.S.F. will cover most of the requirements of fittings on
+British gliders, but if you anticipate much work on foreign machines, then these should
+be supplemented by a set of metric spanners, A number of files should be available of
+various sizes and these will be found of great help in preparing scarfs. In particular,
+‘Millenicut’ files do very good work on ply scarfs, and one of the adjustable body files,
+as used by coachbuilders, will be found very useful for the same purpose. These latter
+have a Dreadnought cut on the teeth, and these do not leave tooth marks on the wood.
+A further advantage of files in general is that they do not suffer from damage if they
+strike the odd tack which has been overlooked.
+Several saws are required, from the common hacksaw for metal, to a range of saws
+for wood. A small dovetail saw cuts ply and small sections of spruce, but you will need
+—_—_s larger tenon-saw for some of the heavier work, A_powered-circular saw is-a-greattime-—————__....
+saver, as also is a bandsaw, but if these are out of the financial budget, an ordinary
+treadle fretsaw, with a tilting table, will do some very good work. The great merit of the
+latter is that it leaves the cut surface almost perfectly smooth, so that corner blocks, etc.
+leave the saw virtually ready to glue in with the minimum of sanding to fit. .
+Hammers you will need in plenty. You cannot have too many tack hammers, as
+frequently you will find that you need several assistants to tack up a large panel of ply,
+when you are working against time to get the panel fixed before the permitted shuffling
+time of the glue. A few larger hammers will be needed for the odd. workshop jobs, and
+you must have a mallet for use on the chisels. Normally you will not need to strike the
+chisels, but there are a few jobs where a mallet is very handy. Do not hit the chisels with
+a hammer, as this will wreck the chisel handles. Use the proper tool, the mallet.
+Hammers, of the tack variety, are primarily used bor driving the small brads or
+tacks which are used to close up the scarfs. The tacks should be bent over preferably,
+and not driven home on to the tacking strip, as this spreads the load over the tacking strip.
+However, one further tool will be found very useful for this job and that is one of the
+hand tackers used by shopkeepers and others for labelling. These tools drive a U-shaped
+staple, and since they can be loaded with a number of staples and drive them in
+
+
+--- PAGE 5 ---
+beyond the budget of all but the largest estab
+
+Section t—Page 4
+
+automatically, they save a lot of time in making up tack strips. They can be used with
+one hand and can drive staples much faster than one can drive tacks. They cannot be
+used on all jobs, as the holding power of the staples is not quite as good as tacks for the
+larger scarfs in solid timber, but they are a worthwhile investment,
+
+Special Equipment
+
+You cannot have too many ‘G’ cramps in the workshop. These must be of various sizes,
+and for the smallest jobs the spring clothes pegs, obtainable from any ironmonger, are
+excellent. Bulldog clips are also very good for these small jobs.
+
+There are also available some special cramps designed to pull leading edge ply
+round the ribs and down on to the spar. Three of these are a worthwhile investment, as
+they save no end of time when replacing heavily curved ply.
+
+There must also be means of applying heat to setting glue joints. Nothing fearfully
+elaborate is needed: in fact many joints can be cured quite satisfactorily by the use of the
+humble hot water bottle. However, the scope of the workshop is greatly increased if a
+few old electric fires are available which can be placed in strategic positions round a
+setting glue joint. Also useful is an old electric blanket, or heating pad. This can often be
+arranged over the setting joint and then covered with a blanket to conserve the heat.
+Infra-red heaters, of the p.g-lamp variety will do the same job and these lamps do seem
+to drive the heat right into the job, which of course is what is wanted. Never, under any
+circumstances, attempt to glue a repair unless you are certain that the necessary tempera-
+ture can be attained to cure the job.
+
+Some sort of weighing equipment must be available to weigh gliders and to deter-
+mine c.g. positions, Two spring balances reading to 400 Ibs. will do this job, or platform
+scales can be used. The latter are the more convenient, but the main difficulty is that most
+of them have the platform so close to the pillar that it is difficult or impossible to get the
+wheel of the glider on to the scales. A small platform scale will do the Job of the tailskid
+balance. More information about weighing is contained in Section 6.
+
+If you inténd to make up control cables, either by hand splicing or by means of the
+Talurit swaging process, then you will need to make up some rig by which the cables,
+after manufacture, can be proof loaded to 50% of their nominal load. Most cables are
+10 cwt. so you will need a rig to put 5 cwt. load on to the cables. This can quite easily
+be done by a system of levers and a spring balance. A spray plant for apprtying finis
+dope is almost a necessity. Quite cheap plants are available these days and while it
+cannot be said that one is absolutely necessary it wil! save a lot of time in the long run.
+
+The above list of equipment is a reasonable minimum, but the enterprising repair
+man will add quite a lot of extra tools to this list. Electric power tools, from dritls, to
+disc and orbital sanders, speed up the work and make for efficiency. A compressed air’
+line running round the shop, with plug in paints at convenient places, is probably
+
+scope of the shop. Apart from spraying, there are many small pneumatic tools which
+have a lot of advantages over electric tools. They are safe, yery small for their power,
+and can be stalled and generally maltreated with no damage to windings or danger of
+burn-out. . . ,
+
+Chapter 1.3
+PROTECTIVE TREATMENTS
+
+Virtually all the parts of an aircraft will be found to have been treated in some way to
+protect them against deterioration. It should be the aim of the repairer to ensure that
+the repaired structure is protected to the same standard as the original structure. The
+main things to guard against are water, ultra violet light in the case of fabric, acid attack,
+and bacteriological attack.
+
+Jn the case of fabric, the doping scheme itself is a protective treatment and this is
+considered more fully in Section 2.
+
+but it enormously increases the
+
+
+--- PAGE 6 ---
+Section 1—Fage 5
+
+As regards the timber in a glider, it is usual to spray the interior of fuselages, and
+the structure of wings before covering, with a light coat of a cellulose dope. This has the
+effect of minimising the transference of moisture from the atmosphere to the wood and
+vice versa, and also discourages bacteriological and insect attack. To assist in ensuring _
+a sound coat of the dope some colouring is usually added to it. In repair work, clear
+cellulose dope is quite satisfactory, but a little pigment, added makes the spraying
+simpler, as it is easy to see where the spray gun has missed. “
+
+All the metal components of a glider are liable to corrosion and are protected by
+some sort of protective film. The only exceptions to this are such things as ballraces,
+plain bearings, and wing and fuselage pins where painting is clearly impossible. In these
+special cases the grease or oil is relied on to keep the corrosion at bay. For everything
+else the aim must be to keep the protective film intact. In repair work the metalwor
+must be carefully inspected and any corrosion removed before the protective film is
+made good. There are a number of commercial enamels and paints which will be found
+very useful for this particular job. .
+
+In the case of steels the protective film may take the form of a plating of a non-
+corrosive metal, or a coating of some sort of paint. In the former case the plating,
+usually, of cadmium or chromium, will have been done on construction, and few work-
+shops are equipped to replate parts, so the object must be to prevent damage to the
+plating. Where it does occur, then any corrosion must be cleaned off and the part pro-
+tected by’means of some sort of paint. As regards the painting of steels, the stove
+enamelling process to specification DTD56A (Directorate of Technical Development) is
+
+ood, but this involves ovens to stove the parts after painting. The makers of aircraft
+
+nishes make many products for the protection of metals, and new methods are continu-
+ally being developed in their research departments, and they will be found very helpful
+in any special cases of difficulty. . . ,
+
+Light alloys are usually protected by a chemical process known as anodic treatment,
+The components are cleaned and then immersed in a diluted solution of pure chromic
+acid and a current is passed through the solution, the component being the anode.
+This produces a very corrosion resistant film on the metal, but it is important to avoid
+damaging this film. :
+
+Aluminium itself oxidises rapidly, but once this has started, the oxide layer forms
+a good protective film to prevent any further oxidation. For this reason Dural sheets
+are sometimes coated with a thin layer of pure aluminium, and in this form the metal
+is known as Alclad. It requires no further protection.
+
+Vitally important is the case where imetal parts such as bolts pass through wooden
+members, and where dissimilar metals are held in contact. In the latter situation we
+have electrolytic action attacking the metals should there be any moisture in the area.
+
+_._..._In_hese two cases it is absolutely essential that the parts are assembled by the ‘Wet
+
+Assembly’ process where the metal is thoroughly coated with an approved jointin
+compound such as Duralac and assembled while this coating is still wet. This sti
+applies whatever the protective coating on the bolts, or other parts, and it will be realised
+that aircraft bolts are normally plated with cadmium or. chromium. The only metal
+parts that may be considered proof against corrosion are those made from stainless
+steel, but even in this case the metal is not safe from electrolytic attack. ;
+
+From the above remarks it should be obvious that drainage holes in the structure
+of a glider are very important. They must be kept clear, otherwise there is a chance of
+an accumulation of moisture in hidden places. Any drain holes ‘lost’ during repair must
+be replaced and they should be made the same size and in the same places as the original
+ones. Care must be taken to avoid raising internal burrs and the cut edges of the holes,
+when drilled in ply, should be treated with bituminous paint.
+
+Control cables are a special case. They should be treated with a resin compound
+such as ‘Red Sozzle’, lanolin resin compound DTD 279 or 663, or one of the Chromate
+Cable Preservatives (DTD 297b). These may be applied by means of a cloth soaked in
+the stuff and rubbed along the cable. They do not dry out hard but remain slightly
+flexible. No grease or oil should be allowed to get on to cables, as these tend to collect
+
+
+--- PAGE 7 ---
+Sertion 1-~Page 6
+
+grit and the cables then grind themselves away. This particularly applies where the cables
+pass around pulleys, or run over fairleads.
+
+Acid mainly comes from accumulators used for driving blind flying instruments.
+The greatest care must be taken to ensure that no acid can escape from these accumu-
+lators, and any spillage, however small, must be carefully washed out and dried. -
+
+Chapter 1.4
+LOG BOOKS AND OTHER PAPERWORK
+
+All work done on a glider must be recorded in the log book, and signed by an approved
+person. This means an Inspector approved by the B.G.A. Only by strict adherence to
+this rule can it be ensured that the log book does give a true history of the glider. It is
+quite in order, of course, for a private owner to carry out repairs or adjustments to his
+own machine, but he must have the work inspected by an Approved Inspector who
+must also sign the log book entry. This means that the log book must, at all times, be
+kept with the glider, or in such a place that entries can bé made as soon as the work
+has been done and inspected.
+
+The B.G.A. has recently introduced some new forms with the idea of simplifying
+and streamlining the keeping of records. The form Insp/6, put up in pads of triplicate,
+‘no carbon required’, paper 1s used for recording the work done on Certificate of Air-
+worthiness overhauls and major repairs. The three copies are used as follows:
+
+top copy inserted permanently into the log book;
+
+the second copy is sent to the B.G.A.;
+
+the third copy is retained by the Inspector for his own records.
+
+A further form, Insp/7, put up in similar pads, is-used for the reweighing of gliders,
+and the distribution of the copies is the same. In addition the details of the re-weigh
+must be entered in the front pages of the log book in the panel marked ‘Weighings’. -
+By this means a history of the glider will be available not only in the log book, but also
+in the records of the B.G.A.
+
+Release Notes : .
+
+Release Notes are always issued with approved materials and components. The purpose
+of these release notes is to prove to the user that the parts in question have been inspected
+and approved, and are released from store to be incorporated in aircraft. The Inspector
+will have his own system for filing such documents, but it is essential that the numbers of
+the release notes for the parts or materials used in a repair are quoted in the log book.
+Should there ever be any subsequent query as to the quality of a repair, the Inspector
+has only himself to blame if he cannot prove that the material used was approved, The
+
+rovided
+
+that the number has been quoted, the material can be traced back to the origina
+and the original approval,
+
+It is, of course, true that no amount of paperwork can keep a glider serviceable.
+But, equally, it is a waste of time and effort not to keep records of what has been done,
+because this merely means that on subseq... xt inspections much work will have to be
+done again, simply because there is no proof that the work has been properly carried
+out. It is also important that the work 1s recorded in the log book, and in the proper
+form, since when the machine changes hands, the responsibility of the maintenance will
+probably also change to another Inspector.
+
+only proof that he can produce is the Release Note, and even if that is Jost, provid
+supplier
+
+Chapter 1.5
+MODIFICATIONS
+
+Anything which alters the state of an aircraft from that in which it was delivered from
+the manufacturers is, strictly speaking, a Modification. Modifications fall broadly into ~
+
+
+--- PAGE 8 ---
+Section 1—Puge 7
+
+two categories: Official, and Unofficial. All Modifications must be recorded in the log
+book of the aircraft and signed by an Approved person.
+
+Official Modifications are fairly straightforward. They may be Mandatory, or
+Optional, but in either case the method of incorporation is supplied to the Inspector,
+frequently with manufacturers’ drawings, and there should be little difficulty in carrying
+them out. They are normally circulated through the B.G.A., direct to owners and
+Inspectors, and included in this is the degree of urgency attaching to the Modification,
+e.g. Immediate (before further flight), at next C. of A. overhaul, etc.
+
+Unofficial Modifications present a little more difficulty. Firstly there is the trivial
+modification which cannot in any way affect the safety or strength of the aircraft.
+Examples of this type of thing: the installation of instruments, unless this affects the
+weight and c.g. significantly, the fitting of map pockets in the cockpit. While on this
+subject it is worth noting that the ideas of owners and Inspectors on what is a trivial
+modification frequently do not quite coincide. The Inspector must satisfy himself that
+the modification is satisfactory in every way. Can it come loose? What would happen
+if it did? Can it in any way contact the control system? These are the questions that the
+Inspector must ask himself among others, If he really is satisfied on all these matters
+then he may approve the modification, record it in the log book, and sign it. By doing
+this the Inspector accepts responsibility for the modification,
+
+More thought is required in the case of a modification which clearly cannot be
+considered trivial, but which seems a pood idea. In these cases there is a question of
+strength of the glider, or alteration of its flying characteristics, or its controllability,
+Examples of this sort of thing: making canopies for open gliders, the installation of
+heavy items, accumulators, oxygen equipment, etc., and the fitting of permanent ballast.
+In all cases of this sort the scheme should be submitted to the B.G.A. with sufficient
+information and sketches to show what is proposed, The usual result is that the B.G.A.
+will issue approval for it as an optional modification. It is worth pointing out that this
+system can often save time, since if the Inspector applies to the B.G.A. in the first place,
+he may well find that there‘is an official modification (optional) for the very job that he
+wants to do. In working out the scheme to be followed the Inspector must bear in mind
+the British Civil Airworthiness Requirements, Section E—Gliders. For instance, in the
+case of a cloud flying gtider, the ultimate load factor is, at present, 7-5 so that if he is
+fitting a bracket to carry a 10 Ib. battery that bracket must be at least strong enough to
+carry a 75 Ib. normal {oad and the structure to which it is attached must be capable of
+accepting this load. Also, of course, the structure must be capable of taking negative
+loads, i.e, upward loads, and as the ultimate factor in this direction is 3-75, the bracket
+will have to be strong enough to take 37.5 1b. in the upward direction, This is often
+where help is needed because the stressing figures for a given glider are not normally
+
+available to the Inspector, but in all cases the manu acturer will give all the information
+
+and assistance ni *
+
+A further point that must be kept in mind is that modifications of this nature
+usually affect the All Up Weight and the c.g. position of the glider. If this is the case,
+then the alterations must be calculated and recorded in the flog book, or the machine
+must be re-weighed, . ;
+
+In all cases where the Inspector feels any doubt, he should refer to the B.G.A. in the
+first instance. Inspectors should feel that they have the resources of the B.G.A. at their
+elbow to call upon whenever required. If the answer to a problem is not immediately
+available, it will be found as soon as possible.
+
+The Inspector must never forget that he carries a very heavy responsibility in life
+and limb, and a wrong decision by him can have disastrous results.
+

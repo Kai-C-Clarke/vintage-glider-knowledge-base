@@ -1,0 +1,1755 @@
+ld
+be examined during
+bonding.
+Square has blocking
+to allow for overhang 
+of plywood 
+deck or 
+side.
+This basic stringer marking
+gauge can be used for
+layout of notches in frame
+and deck beams as well as
+marking plywood panels for
+fastening to stringers.
+Holes drilled 
+in tongue for
+pencil or sribe
+Stringers
+Chine or sheer
+
+--- PAGE 302 ---
+Another method is to draw the stringer locations on the
+interior of the ply, preferably after prefinishing it. Then
+transfer the marks to the outside by measuring from a
+point on the panel edge to a marked position or by
+drilling very small holes in the stringers and connecting
+them with lines on the panel exterior. Whatever marking
+technique you use, be accurate. Although missed
+staples can be removed and repaired, this takes time.
+Many missed staples can create substantially more work
+than the little effort needed to properly mark stringer
+and frame locations.
+Applying Panels
+Use a high-density adhesive mixture slightly thicker
+than heavy syrup to bond the panels to the framework.
+If you have larger gaps to fill, you may need adhesive
+with a thicker, peanut butter consistency. Wash off
+previously sanded, epoxy-coated surfaces to remove
+dust and dirt and apply thickened epoxy to all joints. If
+the panels have not yet been coated, roll unthickened
+epoxy on any bare bonding surfaces before applying the
+thickened mixture. Use enough thickened adhesive so
+that some squeezes out of the joint. This indicates a
+100% bond.
+It usually takes at least two people to maneuver a panel.
+Try to avoid dragging it across the framework and
+smearing the epoxy. If you have tacked the panel for
+fitting and have left the nails in place, line them up
+with their holes and insert them. If you do not have the
+nails to guide you, line up surmarks and insert one or
+two locating staples at various central points on the
+panel to hold it in position while you check that every-
+thing fits as it should.
+With sheet plywood, we prefer to use narrow-crown
+alloy staples, which can be left in place. Narrow-crown
+staples cause less damage to the plywood and, if they
+are slightly recessed, their holes are easier to fill and fair
+over for a smooth, easy-to-finish surface. Staples left in
+chines may cause problems if you round the joints, so
+use wide-crown staples in this situation and remove
+them before you begin shaping.
+Staples that are three times as long as the plywood
+thickness are usually adequate to hold the ply as it
+bends over moderate curves. In areas where the curve
+is so sharp that staples cannot hold the panel, use
+screws and large washers or other suitable types of pads
+for temporary clamping pressure and to distribute load
+until the adhesive cures. You can use nails with plywood
+pads, but we are not keen on the idea of using alloy
+boat nails and leaving them permanently in the hull.
+The main difficulty with boat nails is that their heads
+tend to show in the joint and greatly detract from a
+good surface finish.
+After you have successfully bonded one panel to the
+framework, immediately clean up the excess adhesive
+that has squeezed out from between the joints. (See
+Chapter 22 for further discussion of cleanup procedures.)
+Installation of the second panel becomes more compli-
+cated because of the added difficulty of performing the
+bonding operation on at least one scarf joint at the same
+time that you are installing the panel. You should have
+already prefit and cut the scarf joint on this second panel.
+(Remember, with prefinished panels, you must cut the
+scarf joint on the opposite surface of the plywood on
+the second panel in order for the scarf bevels to mate.)
+With the second panel, it is worthwhile to make a dry
+run to check the surmarks and make sure that scarf joint
+alignment is still accurate. Note any differences and
+change the surmarks to ensure an accurate final instal-
+lation. Be very critical of your scarf joint alignment to
+prevent misalignment of the beveled scarf cut on either
+panel, which would cause unfairness in the skin. Because
+scarfing in place on the hull is a little more difficult
+than in a more controlled situation, we always provide a
+safety margin by applying an excess amount of adhesive
+to both beveled surfaces of the panels to be joined.
+Pay special attention as you apply pressure to the scarf.
+Staple through a plastic-covered strip of plywood
+slightly wider than the joint for more uniform pressure
+over its surface. Use staples, nails, or screws to apply
+maximum pressure through the joint to a solid member
+under it. To bring the exterior edges tightly together,
+use shorter staples which do not penetrate through the
+plywood. The interior edges of the scarf will probably
+need relatively little pressure because the curvature of
+the hull usually squeezes them together. If they do not
+fit tightly, remove excess adhesive and bring them
+together with a plywood strip and shorter staples as
+you did on the exterior. (See Figure 24-6.)
+288
+Hull Construction Methods
+
+--- PAGE 303 ---
+If you are using 3⁄8" (9mm) or thicker plywood, you can
+scarf in place on the hull without worrying about
+locating the joint over a solid member. In situations
+where you find that your sheet is only a few inches
+short of a frame and that you will have to cut off a
+substantial amount of material to retreat to the previous
+frame, the ability to scarf anywhere saves a great deal of
+plywood. Marking is simplified because the scarf
+doesn’t have to be centered on a fixed point. Make sure,
+however, that there is enough longitudinal support
+between the two panels to keep them reasonably
+aligned as you scarf.
+Figure 24-9 illustrates two methods for scarfing
+between frames. The first, for thinner plywood, is to fit
+and bond blocking between stringers with the center-
+line of the blocking lined up with the centerline of the
+joint. The second is to apply a temporary blocking. For
+this, use plywood thick enough to receive a staple. Cut
+it to the approximate width of the joint and saw it to
+length to fit between the stringers. Someone on the
+underside of the boat should hold the blocking in
+position while another person staples through the scarf
+from the top.
+The only difficulty with this method is that you need to
+support the interior blocking adequately so that it will
+receive staples, but not push so hard that you force the
+scarf joint up and out of fair during the assembly
+process. With thicker plywood, this isn’t too difficult,
+but it can be a problem with thinner material. You can
+minimize this problem by securing the scarf joint with
+staples at the stringers, keel, chine, or any other solid
+area before applying pressure on the temporary
+blocking. One advantage of using the permanent rather
+than temporary blocking system is that this blocking
+can serve as a core over which you can manufacture a
+frame in the completed hull. In this case, frame material
+is laminated on the interior blocking surface,
+completing a rigid, I-beam type frame system, as
+discussed in Chapter 22.
+When you have installed all of the panels in one section
+of the hull and the adhesive has cured, you can remove
+all temporary staples. We always remove the staples
+from the scarf joints and usually from the chine and
+keel because of the heavy fairing that may take place in
+these areas. The next step is to plane off the excess
+plywood smooth with the opposite chine surface so that
+you can fit and install the next panel on the other side
+of the chine to create a plywood overlap.
+Chapter 24 – Hard Chine Plywood Construction
+289
+Figure 24-8  Applying adhesive mixture before bonding a
+panel to the framework. The panel lying against the frame-
+work in the foreground will be scarfed in place.
+Figure 24-9 Blocking between stringers for scarfing plywood
+in place.
+Temporary blocking, made
+from plywood scraps, goes
+in with flat side against 
+the scarf. There should 
+be plastic between 
+the blocking 
+and scarf.
+Permanent blocking 
+between stringers to support 
+the scarf. This arrangement lends
+itself to I-beam frame construction.
+Stringers
+Chine log
+or clamp
+
+--- PAGE 304 ---
+Composite Chine Construction
+Many smaller boats and some larger ones have been
+built with no chine log at all. Instead, the plywood
+panels are joined with a composite chine made of fiber-
+glass cloth or tape as shown in Figure 24-10. This is
+also referred to as stitch-and-glue construction. It is
+frequently used in kit boats, such as kayaks and small
+craft. A variety of stitch-and-glue plans are also now
+available for drift boats, car toppers, power, and
+sailboats. Some are well over 20' (6m) in length. In
+most cases, especially with thinner plywood, it’s easy to
+manufacture a fiberglass joint between two plywood
+panels that is stronger than the plywood.
+Stitch-and-glue is a method where plywood panels are
+cut into specific shapes that eventually get connected
+together along the keel, chines, stems, and transom to
+create specific hull forms. The panels are pulled into
+shape with pieces of soft wire (or plastic wire ties) that
+are fed through matching holes drilled along the edges
+of the mating panels. Each twisted wire or plastic wire
+tie forms another “stitch” along the joint. In simple
+designs, the panels can be connected together without
+elaborate mold frames or stringers. In larger designs,
+permanent or temporary frames are required to help
+define the shape. These are typically few in number as
+the panels end up being quite stiff when bent and
+connected along the joints. Gaps of up to 1⁄4" (6mm) are
+acceptable as the joint will be filled with a generous
+fillet of thickened epoxy prior to being glassed over.
+Eventually the outside of the joint is faired and glassed
+over with as much glass as desired. A properly designed
+composite joint should easily be stronger than the
+panels connected to it. This is especially reassuring in
+joints that will potentially take abuse like keels, stems,
+and chines. 
+You can also construct a composite chine over conven-
+tional framework. Sheet plywood can be used with a
+permanent stringer-frame support system to produce
+strong, seaworthy hulls, and the simplified chine
+system makes them easy to build.
+There are endless variations for making up a properly
+strong composite joint. We normally make up some
+samples of the joint system that we plan to use and
+290
+Hull Construction Methods
+Figure 24-10  A composite chine joint using fiberglass tape
+over a low-density fillet. Finish the inside of the joint before
+rounding over and finishing the outside.
+Figure 24-11 A stitch-and-glue pram under construction.
+Frames will hold the shape until stitching is complete. A
+brace across the gunwales will hold the shape while the
+hull is inverted and the interior joints are filleted and taped. 
+Figure 24-12  A taped composite chine with conventional
+stingers.
+2 layers 
+fiberglass tape
+Epoxy/407 fillet
+Electrical tie
+Round over edge
+Stringers form
+a gutter
+Glass tape or
+tape and mat
+Glass tape
+over radius
+Fiberglass tape
+
+--- PAGE 305 ---
+subject them to some simple destruction testing. Our
+standard measure of a successful joint is that all breakage
+occurs within the plywood rather than in the joint.
+Final Fairing
+Final fairing is the easiest part of hard chine plywood
+construction. If you had a fair framework to begin with,
+sheet ply should follow it precisely and make a smooth,
+even surface. Most fairing will be concentrated around
+chines, scarfs, and the keel, where two panels of plywood
+have been joined. To fair a misaligned scarf, plane away
+as little wood as possible and fill in low spots around
+the joint with a low-density epoxy mixture. If the joint
+is critical, reinforce weakened areas from the inside.
+Before rounding over any joints at the chine or keel,
+true up the plywood edges. Use hand planes and fairing
+blocks with 50-grit sandpaper to sharpen each edge and
+then sight it for fairness. If an edge has flat spots or
+unnatural curves, do some corrective fairing. When you
+have developed a fair edge along the entire keel or
+chine, you can round it over with assurance that the
+overall chine or keel surface will continue to look fair
+after it is radiused.
+The only limitations to the amount that you can round
+over either a keel or chine joint are the structural limita-
+tions of the joint itself. There have been cases where a
+well-designed joint has failed because more material
+was removed than was originally planned, leaving the
+joint in weakened condition. If you have any doubts
+about your particular joint, we suggest that you make
+up a sample joint of exactly the kind you intend to use
+and subject it to some simple destruction testing,
+making sure the joint will be stronger than either of the
+panels it is joining together. We generally make up a
+sample of our intended joint that is approximately 8"
+(200mm) long and subject it to whatever type of load
+we can dream up. If these loads cause our sample to
+break within the joint area, we build another sample,
+increasing the joint size or re-engineering it with a
+different concept until it is stronger than the panel itself
+and all future breaks occur within the plywood and not
+the joint.
+Just as we use a stem cap piece in most boat hulls, with
+hard chine construction it is also possible to have chine
+caps and keel caps to help complete the rounding
+process with certain types of joint design. (See Figure
+24-4.) The procedure is the same as with a stem cap.
+Plane a flat bevel on the chine or keel joint onto which
+you can laminate a single piece or multiple pieces of
+lumber stock. For temporary pressure, we normally use
+steel screws that are removed after the bonding
+adhesive has cured so as not to interfere with planing or
+fairing operations.
+Chapter 24 – Hard Chine Plywood Construction
+291
+Figure 24-13 Panel joints of a Fireball dinghy temporarily
+held with wire. Fiberglass tape will be laid on the inside of
+these joints and the wires will be removed. After fairing, fiber-
+glass tape or cloth will be will be applied to the exterior of the
+joints. (Photo by Mark Lindsay)
+Figure 24-14 Interior of the dinghy shown in Figure 24-13.
+Note the fiberglass tape joining the chines, visible in the
+forward section. (Photo by Mark Lindsay)
+
+--- PAGE 306 ---
+Some problems can develop during fairing if you use
+Douglas fir plywood. As explained earlier, sanded fir
+plywood panels can be very uneven. Softer summer
+wood sands more easily than harder winter wood, so
+dishing results and becomes worse with more sanding.
+The only solutions are to keep sanding to a minimum
+and to use sharp hand planes for most of the fairing.
+We suggest that all exterior fir plywood surfaces be
+covered with fiberglass cloth and epoxy.
+292
+Hull Construction Methods
+
+--- PAGE 307 ---
+Most people are familiar with compounded plywood construction through kit boats. “Stitch-and-glue”
+kayaks and small multihulls are the simplest forms. Compounded plywood construction dictates simpler
+hull shapes but, with mastery, allows more sophisticated boats. It requires high quality plywood but
+reduces or eliminates the need for other set-up and most materials.
+In our early years as boatbuilders, we became particu-
+larly fascinated with the concept of the Indian birch
+bark canoe. American Indians designed, engineered,
+and constructed these birch bark canoes, which were
+the preferred method of transport by the early French
+explorers for a period of over 200 years. Here was a
+craft that was beautifully shaped, lightweight, and
+strong. Best of all, it was of sheet material. The Indian
+birch bark canoe was built in a way just opposite to
+that in which boats are normally built: the skin was
+formed first and the supporting framework installed
+afterwards. Birch bark was first carefully removed from
+a tree and roughly shaped into the form of a canoe. A
+supporting framework was then installed to support the
+flimsy birch bark skin and better define the shape of
+the canoe. 
+In 1963, we used a similar developed skin method,
+using plywood instead of birch bark, to build a
+trimaran. Following traditional techniques, we “folded
+up” a hull and then installed interior framework to
+stiffen it, to better define its shape, and to distribute
+high loading throughout its skin. We have been
+building boats this way for forty years now and have
+refined the technique to the point where compounded
+plywood construction is a practical method for a
+limited range of hull types and shapes.
+With this boatbuilding technique it is possible to
+produce strong, lightweight hulls. We use it for catama-
+rans and trimarans, but it is well suited to small day
+sailors such as the International Moth Class dinghy. It
+may be among the best techniques for building racing
+canoes and rowing shells. Lofting, setting up, and
+laminating are eliminated, so a boat can be manufac-
+tured in relatively few work hours. One disadvantage of
+compounded plywood construction is that its use is
+limited to shapes which can be developed easily by
+bending sheets of plywood in two directions. Another
+problem is that it’s sometimes difficult to install frame-
+work in a preformed hull. In spite of these disadvantages,
+the method can be so successful that we think a discus-
+sion of its basic principles is worthwhile.
+Boat plans and design information for compounded
+plywood construction can be hard to find. For this
+reason, this chapter includes an outline of the various
+Compounded Plywood Construction
+C H A P T E R
+25
+Figure 25-1 Victor T, a lightweight, 25' (7.6m) C-class
+trimaran, was built using compounded plywood technique.
+
+--- PAGE 308 ---
+design parameters we use in developing hull shapes and
+instructions on designing and building models. If you
+have purchased plans, begin with the specific techniques
+for building described in the first portion of the chapter.
+If you are developing your own compounded plywood
+hull, however, read over the sections on design before
+you start. In either case, the first step of any project
+should be to make up samples for testing. Experiment
+with keel joints and be sure that the plywood you have
+chosen will be able to bend around the hull’s hardest
+curves.
+Compounding Plywood
+To compound a sheet of plywood, you bend it in two
+directions at the same time. All plywood can be
+compounded, but as we will discuss later, the amount
+of compounding possible for a given sheet of plywood
+has not been firmly established. In general, the
+“compoundability” of a panel is determined by its
+thickness, by the number of plies used to make it, and
+by the species of wood used. Plywood thickness is a
+limiting factor in the size of the hulls that can be built
+with compounded plywood construction. We have
+used up to 1⁄4" (6mm) 5-ply panels and usually choose
+the thickest plywood that can be bent to shape.
+Different woods of the same thickness bend with varying
+difficulty. Although different species of woods may be
+used for compounded plywood construction, we almost
+always choose the very best Okoume marine grade or
+birch aircraft plywood. Each species has its pluses and
+minuses; the important thing to consider with this
+boatbuilding method is that flaws and voids within a
+laminate may cause it to break when it is compounded.
+High quality panels should therefore be used.
+Construction
+To begin building a compounded hull, make two
+identical flat plywood panels. Each of these should be
+slightly larger than one half of the hull skin, so it’s
+usually necessary to scarf two or more 4'  8'
+(1200mm  2400mm) sheets into a single piece.
+Sometimes we have been able to lay out both panels 
+on a single sheet by alternating them end for end.
+Precoating plywood with WEST SYSTEM® epoxy increases
+its stiffness and affects compounding. We precoat only
+areas like the bow interior which will be difficult to reach
+in the folded hull, and these only if little compounding
+is required of them. Several of our compounded
+plywood designs called for applying a layer of fiberglass
+cloth to the outside of panels before folding them into
+shape. As we discuss later in this chapter, fiberglass
+sheathing increases stiffness significantly. Should you
+decide to use this modification of the compounded
+plywood technique, make both a model and a test
+panel and check to be sure that it will be able to
+negotiate the hull’s most severe curves.
+The shape of a compounded hull is determined prima-
+rily by its rocker profile, its keel angles, and its sheer
+line, all of which are explained in greater detail in the
+design section of this chapter. The amount of rocker cut
+along the bottom of the panels where they join to form
+the keel and the keel angles are the main factors in
+294
+Hull Construction Methods
+Figure 25-2  Plywood panels for a Tornado catamaran. These
+panels are cut from 5mm okoume plywood.
+
+--- PAGE 309 ---
+Chapter 25 – Compounded Plywood Construction
+295
+shaping the hull. The keel line cut establishes both the
+rocker profile and the potential for compounding while
+the keel angles describe hull fullness.
+To understand the effects of these various lines, curves,
+and angles, imagine what would happen if you joined
+two panels, both of which had perfectly straight edges,
+and bent them up. The result would be a cylindrical
+structure with no compound curvature. If, however, 
+the edges of both panels are curved and held in a
+strong immobile joint at predetermined angles at the
+keel, they will be forced to compound as they bend
+towards each other.
+Proper layout of the keel is crucial. The profile keel line
+must be absolutely fair, with no humps, hollows, or flat
+spots that might be magnified in the hull after the fold-
+up process. The two panels must be exactly the same
+size. To be sure that they are, staple or nail them
+together and place them on a flat surface. Lay out a hull
+side on the top panel and then cut the two panels
+simultaneously. An alternative method is to lay out and
+cut one panel and use it as a pattern for the second.
+Scribe a line on the inside of each panel approximately
+2" (50mm) up from the center keel joint. These lines
+will serve as guides later when the exact centerline of
+the keel is lost under the composite keel joint. The lines
+also help to make sure that the keel is applied evenly to
+both panels.
+The next step on most hulls is to separate the panels
+and install a sheer clamp on each one. The sheer
+clamp, which is eventually an interior member of some
+hulls and an exterior member of others, provides
+rigidity to the upper part of the plywood panel. This is
+the only time during construction when it can be
+conveniently installed. Sheer clamp dimensions are
+usually a function of the thickness of the plywood: we
+generally use sheer clamps that are four to six times the
+plywood thickness to gain sufficient surface area for
+bonding the deck to the hull. The sheer line edge deter-
+mines the placement of the sheer clamps. We usually
+leave ours slightly high of the plywood edges so that
+there will be enough stock for any beveling which
+might be needed for deck crown.
+Bond a sheer clamp on each panel and staple lightly to
+hold it temporarily in place. Too many staples will
+increase the stiffness of the piece, so use clamps if
+further pressure is necessary. While the epoxy is still
+wet, curve each panel in a longitudinal arc with the
+sheer clamp on the inside radius, even if it will eventu-
+ally be on the outside of the hull. This forces a bit of a
+laminated curve into the two wood parts and helps to
+promote compounding in the plywood by compressing
+it along the sheer line. When the adhesive has cured,
+plane the sheer clamps so they will meet perfectly
+where the plywood panels touch at the bow. If the hull
+is double-ended, also bevel them at the stern as shown
+in Figure 25-14.
+Round over and bevel the plywood panels along the
+keel line and stern edge. It’s almost impossible for two
+sharp edges to mate accurately and they will not line up
+if they are left sharp. By rounding the edges you increase
+surface area, and this makes it easier to adjust the panels
+for an accurate centerline. Before beginning, however,
+decide how you will temporarily hold the panels together
+until you can make a permanent keel joint. The technique
+you choose here will determine whether you shape the
+interior or the exterior panel edges.
+We have used two reliable temporary holding systems,
+both of which act as hinges along the joint. With the
+first, we thread wire through holes along the keel line;
+with the second, we bond 2" (50mm) wide nylon
+webbing to the outside of the panels along the joint.
+Whichever system you use, first clamp, staple, or tape
+the panels together so that they will not shift as you
+align them. Double-sided carpet tape will effectively
+hold them and will become an important part of the
+Figure 25-3 Plywood panels and sheer clamps laminated to a
+large curve to help develop fullness in the upper sheer area of
+the completed hull.
+
+--- PAGE 310 ---
+296
+Hull Construction Methods
+nylon webbing system. If you use tape, however, apply
+it to a clean surface and be sure to remove any adhesive
+residue as soon as the webbing is firmly in place. Wash
+any surfaces to which tape has been attached with
+solvent and then sand them.
+Nylon webbing, similar to seat belt material, maintains
+better panel alignment than wire, especially around the
+stem area, and usually eliminates the task of straight-
+ening panel edges. To install it, round the inner edges
+of the plywood to a 1⁄16" (1mm) radius and bevel a 45°
+angle from the curved area to the outer surface. Join the
+panels, interior surfaces facing, along the stem and keel
+lines with carpet tape, clamp slightly, and check align-
+ment. Bond the webbing to the outside of the keel joint
+with a thickened mixture of 406 Colloidal Silica and
+epoxy, holding it in place with spring clamps until the
+epoxy cures. Do not substitute fiberglass cloth tape for
+the webbing since fiberglass cloth is too brittle when
+wet with epoxy to be used in this application. Webbing
+could be difficult to work with on asymmetrical hulls.
+To use wires to hold the panels, lay out wiring holes
+along the keel line and bow (also the stern if the hull is
+a double-ender). These holes should usually be about
+1⁄8" (3mm) in diameter, 3⁄8" (9mm) to 1⁄2" (12mm) in from
+the edges of the plywood, and about 4" (100mm) apart.
+The holes on the two panels should be perfectly
+aligned, so double check them before drilling. Next,
+shape the inside facing edges. The easiest way to do this
+is to stack the pieces on top of one another, clamp
+them, and round them both in one operation. Then
+place the panels on top of each with the interiors face-
+to-face. Cut No. 12 ground wire or other lightweight
+copper wire to about 5" (130mm) lengths, thread a
+piece through each set of holes, bend it around, and
+twist the ends loosely together as in Figure 25-5. Leave
+enough slack so that the wire will not dig into the
+wood when the panels are spread apart. We usually
+wire panels together along the keel to the top of the
+bow at the sheer line, but occasionally we leave the
+bow open at this stage to help develop more fullness
+along the keel line in that area. If you are building a
+double-ender, also wire or tape the stern.
+When the panels are wired or held together with
+webbing, set them upright and begin opening them like
+a book. To distribute the weight of the panels evenly
+and better control the process, place sawhorses under
+the keel about one quarter of the hull length in from
+each end. Cut some sticks to length and insert them
+between the sheer clamps to hold the panels apart (see
+Figure 25-6) and then measure the keel angle between
+the panels. As you spread the panels, clamp braces
+from the sawhorses to the sheer clamps on either side
+to make the unwieldy structure more manageable.
+There usually isn’t much stability at this point—the
+panels are very wobbly.
+We usually measure angles at three distinct parts of the
+keel line and let the rest of the hull fall fair between
+Figure 25-4  Joining plywood hull panels with nylon webbing.
+Figure 25-5 Joining plywood hull panels with wire.
+Plywood panels spread
+to desired angle
+2" wide nylon webbing
+bonded with epoxy 
+and colloidal silica mixture
+Drill 1⁄8"
+holes for
+copper 
+tie wires
+Bring plywood panels
+together for tying
+with wire
+Tape
+Keep wires loose
+enough to allow
+plywood panels
+to spread out
+to keel angle
+Chamfer edge of panels
+to aid in alignment
+Thoroughly clean all
+tape residue and sand
+inner keel area
+Radius & bevel
+edge of plywood
+
+--- PAGE 311 ---
+Chapter 25 – Compounded Plywood Construction
+297
+them. In the bow area, for example, we may work
+towards an 80° keel angle, while in the midsection we
+might want an angle of 140°, and perhaps even 160°
+toward the transom. Three checking stations seem to be
+accurate for boats up to about 30' (9m) long.
+One way to make sure that the two panels meet at the
+desired angle is build a simple jig or temporary frame
+support. (See Figure 25-7.) This clamps to the exterior
+part of the hull and forces the two panels into the exact
+position you want. If you have three checking stations,
+make up three jigs, one for each position. Often,
+plywood doesn’t lie flat as it is spread. Instead, it curls
+slightly inward and a straightedge shows a hollow on
+the outside of the panel. This means that if your jig is
+set for 120°, the plywood at the keel may only be
+spread to 110°. The solution is to spread the sheers
+further than 120° apart until the panels are at the
+correct angle at the keel. Remember that the permanent
+joint will be made at the keel, and it is only this angle
+which is crucial at this stage.
+When the two panels are spread to desired angles,
+begin tightening the wires, if you are using them, until
+the edges are drawn tightly together and centered with
+a relatively straight keel line. If you have used webbing
+along the keel line, this step is eliminated. At this stage,
+wires may tend to pull away from each other at the keel
+line and leave gaps of up to 3⁄8" (9mm). Lightly tap each
+wire with a sharp tool and drive it into a V in the joint.
+As you do this, try to put your tool exactly in the
+middle of the wire between the two panels because an
+exact, accurate V promotes good alignment when you
+pull the pieces together. Twist each wire again until the
+edges are snug at the keel line.
+During the tightening process, if one edge of a panel
+seems a little higher than the other, use finger or thumb
+pressure to hold the edges in alignment until they butt
+Figure 25-6 Tornado catamaran hull panels are held at the
+correct angle with notched sticks and a plywood form.
+Figure 25-7  Panels for a trimaran outrigger hull showing
+temporary frame supports.
+Figure 25-8 Tightening wires at the keel joint.
+Plywood panels spread out to designed angle
+Tighten loose wires by pushing
+down on the center here
+or
+Tighten by further
+twisting here
+
+--- PAGE 312 ---
+snugly. In some cases you can force wires to the left or
+right as you twist them to assist in raising or lowering
+one panel edge against the other. The goal of this final
+tightening is to snug the plywood panels against each
+other and to line them up so that there will be no
+humps and hollows along the keel line.
+Occasionally, wire ties may be mutilated to the point
+where you lose control of the plywood edges around
+them. The best solution to this problem is to snip these
+wires, remove them, start over with fresh ties, and hope
+for better luck. Drill more holes and insert extra wires
+in areas that are particularly difficult. If you have further
+trouble, it’s more than likely that you did not put enough
+radius on your edges and/or that a hump or hollow on
+a panel edge is throwing alignment out of kilter.
+Constructing the Keel Joint
+When the keel edges of the plywood panels are in
+position and any wires tightened, begin the process of
+building a keel joint. We recommend that you plan to
+manufacture the keel in a single day as this will elimi-
+nate sanding between layers.
+The composite keel joint is one of the most critical
+parts of a compounded plywood hull. Although the size
+and composition of keel joints vary from hull to hull,
+basic installation procedure is very similar. Begin by
+filling the V formed by the two panels at the interior
+keel line with a fillet of thickened epoxy, lay in fiber-
+glass cloth or tape, and apply more epoxy and fiberglass
+cloth. The epoxy structurally joins the panels and, at
+the same time, serves as a core between the inner and
+outer layers of fiberglass.
+There are no firm rules for the thickness and width of
+composite keels, but the fillet should at least cover
+protruding wires if you are using them so that you can
+evenly apply the glass over a smooth surface. The size
+of a keel joint, and especially its width, has a significant
+effect on the shape of the finished hull, and it is a
+rather rigid part of the structure, which for the most
+part will not bend. If it is irregular, larger in some areas
+than in others, it may cause bumps and hollows.
+Variation of around 10% in the keel section is tolerable,
+but any more than this will lead to unfairness in the
+hull. (See Figure 25-9.) 
+To apply the initial keel joint fillet, add low-density
+filler to epoxy to make a mixture that spreads easily but
+resists sagging. Apply it as smoothly and evenly as
+possible. The scribed lines on the interior of the panels
+aid in maintaining a balanced fillet as well as in laying
+the tape straight. Since leaning over the edges of the
+spread-out panels to reach the middle of the hull can
+be a bit difficult, we make several paddles, each resem-
+bling the keel shapes we want at a given part of the
+hull, and use them to remove any excess adhesive and
+to smooth the joint.
+Apply fiberglass cloth tape over the fillet when the
+thickened epoxy mixture has partially cured. If you
+wait until the epoxy has fully cured, you will have to
+sand before applying fiberglass. Catching the fillet while
+it is still pliable and malleable means that you can
+simply smooth potential rough edges with layers of
+glass cloth.
+In manufactured keels, we usually use 9 oz (305g/m2)
+fiberglass cloth tape. This is available in various widths;
+we keep a supply of 2", 3", 4", and 5" (50mm, 75mm,
+100mm, and 125mm) rolls on hand for building
+various sizes of keels. We typically install two layers of
+tape on both the inner and outer keel surfaces of hulls
+built with 5⁄32" to 1⁄4" (4mm to 6mm) plywood. Like the
+298
+Hull Construction Methods
+Figure 25-9 Building a composite keel joint.
+Circular plywood
+paddle for shaping
+the keel fillet
+Thickened epoxy 
+keel fillet. Make the 
+fillet large enough to 
+cover any exposed tie wires
+and keep the fillet fair and
+even from end to end.
+Extending fiberglass
+tape farther from 
+the centerline will 
+add fullness to the
+underbody by stiffening
+the plywood 
+panels.
+Keep epoxy 
+off area outside 
+of the fiberglass tape 
+as epoxy will stiffen the 
+plywood and can cause unfair
+spots in the folded hull.
+Wet out fiberglass tape and
+carefully position it on the keel.
+Keep epoxy and tape evenly
+spaced on each side
+of the keel
+centerline.
+
+--- PAGE 313 ---
+width of the keel joint, the width of the glass tape influ-
+ences the shape of the folded hull. Wider glass cloth
+adds stiffness to the plywood, and this keeps it from
+bending as much as it would if it were not covered with
+glass. As a result, the hull is fuller along the keel line
+and more compounding is demanded of the panels.
+There are at least two ways to apply the fiberglass tape.
+You can install it dry, pressing it into the partially cured
+keel and then wetting it out with a stiff brush and
+unthickened epoxy, but this can be a lengthy operation
+because of the awkward working posture. Since it’s
+difficult to maneuver a squeegee from this angle, the
+dry method may also result in a little extra weight, and
+you might want to avoid this on a small boat. It’s much
+more convenient to wet out a measured length of glass
+tape on a board which has been wrapped in plastic,
+remove excess epoxy with a plastic spreader, and then
+roll up the tape. Transfer it to the keel, unroll it in
+position, and smooth it out. Applying glass tape in the
+bow and other confined areas can be troublesome, so
+use the wet method in these spots.
+To apply fiberglass cloth to the keel joint of a large boat,
+you may have to work out a slightly different proce-
+dure. A hull is very fragile until the keel has cured, so
+you can’t get inside it to lay the tape. Instead, rig up a
+scaffold on which you can stand. Run a stick that is at
+least a foot longer than the widest point of the hull
+through the center of a roll of glass tape and rest its
+ends on the sheers. If the hole in the center of the tape
+is too small for the stick, form a wire coat hanger into a
+U-shaped holder, bending the ends of the wire into
+hooks so it can hang from the stick. Find a second
+stick—this one should reach the keel easily from the
+outside of the boat—and fasten a brush to it. We use
+the stiff, 2" (50mm) wide brushes that are sold for
+cleaning automobile parts. Roll dry fiberglass tape onto
+the keel line and use the long brush to wet it out
+completely with epoxy.
+No matter how you apply the fiberglass, closely watch
+the guidelines up from the keel as you work. Position
+the tape evenly on the panels because it will affect stiff-
+ness. If you are applying several layers of cloth, arrange
+them in an overlapping pattern so that their edges will
+be feathered. If you are using various tape widths, lay
+the widest first. Carefully control the epoxy since it too
+increases stiffness. Again, use the marks as guides, and
+keep the epoxy lines equally spaced from the center of
+the keel.
+Folding Up
+When the keel and glass tape have fully cured, the
+plywood will be folded into the shape of the hull. A
+Chapter 25 – Compounded Plywood Construction
+299
+Figure 25-10  Applying glass tape over a keel fillet on a 30'
+(9.1m) hull.
+Figure 25-11 Applying fiberglass tape to the composite keel
+of a large hull.
+Brush fastened to stick to
+wet out fiberglass tape
+Support
+notched to
+proper keel
+angle
+Alternate tape holder
+
+--- PAGE 314 ---
+deck jig—usually nothing more than an outline of the
+deck perimeter from the top view—is necessary for this
+operation. Although deck jigs are usually temporary, in
+some designs they remain in the finished boat. In the
+main hulls of some trimarans, for example, a jig
+becomes an underwing panel, as shown in Figure 25-
+12. In these cases, the design and material used for
+deck jigs may be somewhat different, but their primary
+function is not.
+Make the jig with a lip that slips over the edges of the
+sheer clamps when the hull is folded. This lip will hold
+the sheer clamps in their final positions. The jig is
+absolutely crucial to folding-up and must be accurately
+built. Fortunately, this doesn’t require much time or
+material.
+We usually design our deck jigs with a 1' (300mm)
+wide plywood flange around the outer perimeter to
+serve as a sheer web separating two structural stringers.
+The inside stringer is more important because it is used
+to define the actual sheer profile, while the other
+stringer serves only as a structural member to help
+support the deck jig fixture. Manufacture one half of
+the deck jig first, and then duplicate it by making an
+identical half. To determine jig measurements, loft the
+topside sheer profile on the floor, using perhaps four to
+eight measurement points from the centerline for
+guides. Find stock that will bend accurately to a fair
+and even curve, and scarf it to form a stringer of appro-
+priate size. This will be the permanent inner part of one
+half of the deck jig, so don’t use a good lofting batten.
+Bond and staple foot-wide plywood panels to the top of
+the stringer, butting them as necessary. Leave some
+plywood overhanging.
+Then bond and staple another stringer to the underside
+of the outer edge of the plywood. This piece should be
+about as thick as the inner stringer but doesn’t have to
+be made of quality stock. Lift the whole assembly from
+the floor, saw off the plywood overhang at the inner
+stringer, and plane it flush. Make a copy of this half-jig,
+using it as a guide. For accuracy, we suggest that you
+tack the inner batten to the permanent sheer edge of
+the first assembly rather than to the lofting. Fasten
+plywood and an outer stringer as you did on the first.
+Next, join the two halves of the jig with cross ties.
+These hold the pieces rigidly, help position them
+correctly, and prevent any spreading in the middle of
+the jig. The cross ties rest on the sheers of the plywood
+panels and keep the jig from dropping down on the
+hull, but they tend to get in the way of interior work so
+use as few as possible. In most cases, four is the
+minimum.
+Getting this unwieldy hunk of joined plywood panels
+inserted into the deck jig is the most difficult part of
+compounded plywood construction and requires
+patience, skill, and many workers. With smaller hulls, a
+few people can start working the two plywood panels
+into the deck jig by folding the two panels up toward
+each other. Fold the bows together and insert the deck
+jig over the folded-up bow to hold that part of the hull
+in position. The fold-up team then works its way aft,
+slowly pushing the two side panels toward each other
+so that the lip of the jig is able to slip into position over
+the edge of the sheer, firmly locking the two panels.
+The problem with this fold-up method is that several
+other people must also help support the deck jig until
+it is positioned on the hull. The hull also needs a few
+300
+Hull Construction Methods
+Figure 25-12 Typical deck jig and typical underwing panel.
+Temporary Deck Jig
+Underwing Panels
+Serving as a Deck Jig
+Plywood Web
+Inner Stringer
+Outer Stringer
+Cross Ties
+Underwing Panels
+Inner Stringer
+Outer Stringer
+Temporary Cross Ties
+
+--- PAGE 315 ---
+more people to help support it because as it is being
+folded up, the bracing that was giving support is no
+longer effective because of the shape change. Once you
+have positioned the deck jig, the troubles are over
+because the once floppy hull becomes quite rigid and
+stable. Position temporary supports from the floor to
+the deck jig to hold the newly-shaped hull firmly for
+further work.
+Another way to fold panels is to use the plastic strap-
+ping and clips that have been developed to replace
+metal strapping in packing and shipping. Loop a series
+of these straps around the hull about 2' (600mm) apart
+down its length, arranging them so that you have easy
+access to the clips. Force the sheer inward and take up
+on the strap. Work up and down the hull, tightening
+each a little at a time, gradually increasing the tension.
+The boat will slowly and gently fold up until eventually
+two people will be able to drop the deck jig in place.
+Things will look bad until the jig is installed, so don’t
+be discouraged. With the jig in position, remove the
+straps and begin work on the interior.
+Chapter 25 – Compounded Plywood Construction
+301
+Figure 25-13  Folding up with plastic strapping or belts.
+Figure 25-14  Folding up a 30' trimaran hull with drawstrings.
+Note that the sheer clamps have been beveled at the stern so
+they can be clamped together when the hull is folded up.
+Place belts 2' apart
+Gradually tighten belts
+Place deck jig
+over sheer
+Secure deck jig and
+remove straps
+
+--- PAGE 316 ---
+Although strapping is better in most applications,
+especially with larger hulls and masts, you can also use
+light line to pull a hull into shape. Fasten screws into
+both sheers every 2' or so down the hull, setting the
+heads out far enough so you can wrap the line around
+them. Thread a drawstring around two screws, one on
+either sheer, and tie it with a rolling hitch. Tighten the
+stringers up and down the hull by pulling on the knots
+with steady and progressive pressure.
+Supporting the Compounded Plywood Skin
+Every hull needs some form of minimal framework to
+distribute high load points over the hull skin, and the
+framework systems that we have used to accomplish
+load distribution have varied widely. Smaller boats,
+such as the 18' (5.5m) Unicorn catamaran, rely on only
+three bulkheads and several stringers to distribute loads
+out over the 5⁄32" (4mm) plywood skin, sufficient
+reinforcement for a long-lasting hull. As boats get
+larger, however, they need more support for the skin
+because the loads are increasing dramatically while the
+plywood thickness may only increase a small amount,
+for example, from 3⁄16" to 1⁄4" (5mm to 6mm).
+Another factor that affects the amount of framework
+needed for skin support is the stiffness of the skins
+themselves. If you improve the stiffness of the skin, less
+framework is needed. Coating the ply panels inside and
+out with WEST SYSTEM epoxy will improve skin stiffness
+a great deal. A step beyond this is to laminate 4 oz to
+12 oz (135g/m2-410g/m2) glass cloth on both the inside
+and outside of the developed plywood hull. Although
+302
+Hull Construction Methods
+Figure 25-15 Taping a keel fillet with the hull in temporary
+frame supports (left). A folded hull with a deck jig in place
+over the sheer (right).
+Figure 25-17  Struts and bracing for sub-level stringers in 
+a Tornado catamaran hull. Note the small plywood gussets
+holding the struts to the stringers. Small plywood half frames
+are being installed against the hull skin. These frames will 
+be filleted to the skin. The centerboard case is the vertical
+structure in the middle of the hull.
+Figure 25-16  A folded 30' hull with sub-level stringers
+laminated on the inside.
+
+--- PAGE 317 ---
+the addition of glass cloth will increase the weight of
+the hull significantly, chances are you will find that the
+hull skin is incredibly light, at this point probably not
+comprising any more than 50% of the completed
+weight of your hull. Thus, you may well be able to
+afford the extra weight. 
+The main benefit of using glass cloth to stiffen the
+plywood hull panels is that it applies easily and quickly
+with effective results. Applying glass cloth on both the
+inner and outer hull surfaces is especially effective with
+3-ply plywood because it produces a 5-ply matrix after
+the plywood skins have been formed, increasing strength
+and stiffness significantly. When using glass, apply it
+only to the interior of the hull at this stage, leaving the
+outside to be glassed after the interior is completed and
+the hull can be removed from the deck jig and turned
+upside down. With the hull in that position, the outside
+layer of glass cloth is much easier to apply.
+Another method to stiffen all or part of a plywood skin
+is to treat the developed hull as a mold and use it as a
+form over which to laminate veneers or more plywood.
+You can do this either on the inside or outside of the
+hull skin, but it is probably more easily and effectively
+done on the outside if the whole hull is to be covered.
+Another interesting method that we have used is to
+laminate a honeycomb material on the inside of the
+compounded plywood hull, using a thickened epoxy
+mixture for bonding. We then cover the honeycomb
+with a layer of 12 oz (410g/m2) glass cloth to complete
+a sandwich panel which has a high degree of panel stiff-
+ness at a very light weight. The only difficulty with this
+approach is determining how best to distribute high
+load points over the interior of the hull skin with the
+honeycomb in place. In the case of the trimaran outer
+hulls shown in Figure 25-18, there were very few high
+load points involved, so they were a natural for this
+type of skin support. The beauty of the system in this
+instance is that the honeycomb and the 12 oz glass
+cloth were easily installed on the interior with few labor
+hours and resulted in a skin that needed no further
+support.
+Before installing any framework or doing any stiffening
+of the skin, make sure you are satisfied with the exact
+shape that the hull has taken. If not, you can easily
+make some modification of the shape at this point. For
+example, you can squeeze the hull in at various points
+or push it out at other points with temporary braces or
+supports. The interior structure that you then build in
+must be capable of holding these altered hull shape
+positions without losing any hull fairness after you
+remove the supports. At this point, you’re down to
+“eyeball” boatbuilding because you have no body plan
+or given set of dimensions to go from. If you are
+building a hull you designed yourself, there are several
+parameters that you can establish early in the game as
+goals to shoot for in developing a given hull shape.
+These will be discussed later. If you are building from
+plans (for example, a Tornado catamaran), there is
+usually no guide to determine final hull shape other
+than the initial instructions for construction.
+Interestingly enough, however, the variation between
+hulls built by different builders (as shown by the class
+measuring templates) is surprisingly small in the
+Olympic class Tornado.
+Chapter 25 – Compounded Plywood Construction
+303
+Figure 25-18 Bonding resin-coated paper honeycomb panels
+to the inside of a folded plywood hull. Sticks are providing
+clamping pressure by forcing the honeycomb against both sides
+of the hull. When this laminate has cured, 12 oz fiberglass
+cloth was bonded to the interior side of the honeycomb core.
+
+--- PAGE 318 ---
+Bulkheads, Frames, and Deck Beams
+As in other methods of boat construction, bulkheads
+are used in compounded plywood construction as a
+major tool to distribute high loads over the skin area.
+With the fold-up method, we use bulkheads regularly
+to distribute high stresses caused by cross beams,
+masts, forestays, centerboards, and staying points
+throughout the skin.
+Because there are no lofted sections to go by, you need
+to determine the shape of the bulkheads by making up
+temporary patterns that can be fit to the hull and then
+used as templates to cut out the bulkheads. Make the
+patterns by fitting a piece of template material to each
+side of the hull. Join these two half pieces together with
+a brace at the top and an overlap or brace at the bottom
+to form a complete interior pattern of the hull at a
+given station. Trace the pattern on a piece of plywood
+and cut out the plywood to form the bulkhead. You
+will probably need some final fitting of the bulkhead,
+but if you used the template system carefully, this
+should be minimal. (See Chapter 26 for more detail.)
+304
+Hull Construction Methods
+Figure 25-19  Structural members are installed in a 30’
+trimaran outrigger. One of the crossbeam arms and the
+centerboard case are braced and secured with the bulkheads
+and sub-level stringers in the foreground.
+Figure 25-20 Bulkheads are reinforcing laminated stilts to
+which crossbeams will be bonded.
+Figure 25-21  Laminated frames, a box-type bulkhead, and
+shelf and bunk bottoms all support the developed plywood
+skin on this 35' (10.6m) racing trimaran.
+
+--- PAGE 319 ---
+Install the bulkheads by using a simple fillet on each
+side of the plywood to join it with the hull sides.
+Usually, we add low-density filler to the epoxy to make
+a lightweight fillet that provides a large bonding surface
+area between bulkhead and hull skin. You can further
+support the skin by laminating in place ribs manufac-
+tured of thin strips of wood, which will bend easily
+around the hull. Stack laminate the wood strips on top
+of one another, using alloy staples that can be left in the
+laminate.
+Another method for skin support is to cut and fit
+plywood web frames and fillet them in place, using the
+same technique used to install bulkheads and plywood
+frames. (See Figure 25-17.) In some situations, stringers
+might be needed to give further longitudinal support.
+We install stringers by holding them temporarily in
+place with staples and cross-braces until the adhesive
+cures. When stapling through the skin from the outside
+to the stringer, we drill small holes to transfer the inside
+stringer location as a guide to stapling. It is also possible
+to install stringers on the undeveloped plywood panels
+before they are folded up. We do not recommend that
+stringers over 1⁄2" (12mm) wide be installed on the
+unfolded panels because wider stringers will tend to
+cause hard spots and overly stress the plywood in that
+area during the bending process.
+Depending upon the hull being built, you may have
+many other interior items to install. These might
+include centerboard or daggerboard cases, special
+compartments, and, in larger hulls, interior accommo-
+dations. You can install some interior items after the
+hull has been removed from the deck jig; however, you
+must install large items now because the deck beams
+that are needed to hold the sheer in final position will
+be in the way later.
+The deck beams are always the last items that you
+install in the hull before removing the deck jig. Deck
+beams serve an important function at this stage by
+supporting the upper hull area so that it will not change
+shape when you remove the deck jig. There are various
+combinations we have used to make successful deck
+beams. Generally, we use small leftover pieces of proper
+width plywood to construct them. The I-beam deck
+section (as shown in Figure 25-26) is very easy to
+Chapter 25 – Compounded Plywood Construction
+305
+Figure 25-22 A variety of framing, bulkheads, and interior
+joinery is employed in supporting the plywood skin in this 35’
+trimaran.
+Figure 25-23  A bunk bottom and laminated frames are used
+to support this hull skin.
+Figure 25-24  Deck beams being installed in a Tornado hull.
+Note the notches for a stringer along the centerline.
+
+--- PAGE 320 ---
+install and provides the maximum amount of load-
+bearing support available per weight of deck beam.
+Usually deck beam failures are not so much material
+failures as they are failures of the joint where the deck
+beam meets the sheer clamp area. The I-beam deck
+beam system provides the maximum amount of
+bonding area at this joint and can eliminate this
+problem. Simple plywood deck beams are adequate in
+many situations, provided they have enough depth so
+that they won’t break in tension. In addition, the point
+at which they join with the sheer clamp and hull skin
+area should provide enough area that you can install a
+generous fillet to make a proper joint. Because the sheer
+clamps with this type of construction are fairly small,
+we have stayed away from any heavy triangular
+notching of the deck beams into the sheer clamps.
+When the deck beams are installed and the interior
+support completed, you no longer need the deck jig.
+Remove it and turn the now-rigid hull upside down.
+Strip off keel webbing if you’ve used it. If you’ve used
+wires, you can snip them flush, but we find that
+extracting them makes fairing easier.
+Fairing and Finishing
+As a rule, there is little fairing to do on the exterior
+surface of the hull because plywood naturally
+compounds into an amazingly fair surface if you have
+done a good job of joining the panels. Usually the only
+real fairing is at the keel line itself where it is common
+to have some small misalignment between the plywood
+edges that causes some minor humps and hollows. You
+can fair up the keel quickly with a combination
+approach of filling low spots and planing off some high
+spots. Try not to plane down into the composite keel;
+leave the point where the two pieces of plywood meet
+to act as a guide for fairing the keel straight. When you
+have trued-up the keel line and stem, you can then
+round over the keel to whatever radius you want.
+When the keel and stem are fair and radiused as
+desired, apply a minimum of two layers of 9 oz
+(305g/m2) glass cloth tape over the outside keel area.
+This glass cloth completes the structural composite keel
+and also provides abrasion resistance along the keel line
+when the boat is pulled up on the beach (a situation
+common with most lightweight multihulls). To apply
+glass cloth tape on the exterior keel line surface, wet
+306
+Hull Construction Methods
+Figure 25-25 Trimaran outrigger deck framing of plywood
+beams and spruce stringers.
+Figure 25-26 Tension flanges for deck I-beams are bonded 
+to the underside of the sheer clamp. Sheer webs for deck 
+I-beams will be bonded to the top of these flanges. They will
+look like the deck beams in Figure 25-24.
+
+--- PAGE 321 ---
+out the surface first with a light coating of epoxy. Apply
+the glass tape dry, firmly setting it in position in the
+epoxy. Then wet out the glass tape by adding more
+epoxy, either with a roller or by pouring it on the
+surface from a cup and smoothing it out with a plastic
+squeegee. We usually wait for the keel line taping to
+cure completely and then file or sand the glass tape
+edges as smooth as possible. We then attempt to fair
+them with putty, using low-density filler. If the exterior
+surface is to be covered with a layer of glass cloth, we
+wait to do this puttying operation until after we have
+applied the fiberglass cloth. Other areas of the hull may
+also need fairing. These could include the scarf joints
+and any hollows that may have developed.
+The final stage of hull completion is the fairing of the
+deck beams and installation of other deck structural
+items such as longitudinal stringers. (See Chapter 27.)
+Design Guidelines for Model Building
+The process of designing compounded plywood hulls is
+not very scientific. In fact, it’s probably more a combi-
+nation of art and common sense than anything else.
+Because the compounded plywood method promotes
+graceful shapes, we haven’t seen any really bad hulls
+built using it, but that’s about the only encouraging
+word we can offer.
+The limitations of the compounded plywood system
+demand high length-to-beam ratios—20-to-1 is not
+uncommon—and high prismatic coefficients with no
+sharp curves. These factors add up to hulls that drive
+easily through the water. The real design problems lie in
+achieving enough displacement for a given hull length,
+reducing the wetted surface to an acceptable minimum,
+and arranging displacement throughout the hull for a
+sea-kindly and maneuverable boat which sits correctly
+on its lines when fully loaded. With compounded
+plywood construction, you can’t always build what you
+draw, so including all of these design considerations in
+drawings is particularly complicated.
+For centuries, model building has been an alternative to
+designing boats on paper. Nathaniel Herreshoff refined
+the technique, carefully shaping, testing, and reshaping
+models until he was satisfied with a design and then
+taking the lines off the models for lofting. We use models
+for developing compounded plywood hulls because at
+this point in the development of the boatbuilding
+method, it appears to be the only practical way to
+achieve accuracy.
+By designing and building models on a scale of 1" to
+the foot (1⁄12th scale), we have been able to project our
+results accurately from the model phase up to full size
+with very little error. We have built many models of a
+given design, slightly changing various parameters of
+each model hull until we finally achieved exactly what
+we wanted. We then transferred the dimensions of the
+model to paper and expanded it up to where we could
+construct the full size version easily. Because of the
+Chapter 25 – Compounded Plywood Construction
+307
+Figure 25-27 Construction on outriggers for a 35' trimaran.
+These hulls will now be coated and fiberglassed. See Chapters
+13 and 15.
+Figure 25-28
+A Tornado catamaran folded up and inserted
+into the deck jig. The exterior keel has been faired and taped
+with fiberglass.
+
+--- PAGE 322 ---
+limited hull shapes available with this system, the
+design work needed isn’t really as complicated as you
+might think. Because the confines are narrow and there
+are only a few variations available, it usually doesn’t
+take very much model building to discover the scope of
+variables involved. It is helpful to understand the
+concept of developable surfaces, however. A high
+school textbook on sheet metal development is worth
+studying because the basic concepts discussed there are
+closely related to developing compounded plywood.
+Your first step is to decide the basic parameters for the
+hull you are going to design and build. That decision
+involves the amount of displacement that is needed.
+For a given length of boat, there is a limit to the
+amount of displacement that you can achieve by
+compounding plywood. You may find out, for instance,
+that you need a displacement value of 700 pounds
+(315kg) for the hull and you plan to build a boat 20'
+(6m) long. However, you may later find out that you
+are only able to get 500 pounds (225kg) of displace-
+ment within that length and the extra 200 pounds
+(90kg) may require that the boat be 22' or 23' (6.7m or
+7m) long. Another factor affecting this decision is the
+thickness of plywood to be used. Quarter-inch (6mm)
+plywood cannot be bent as much as 1⁄8" or 5⁄32" (3mm or
+4mm) plywood and will reduce your displacement
+potential accordingly. A second decision concerns
+where the displacement is to be located along the hull.
+Do you want to have a lot of reserve displacement aft?
+Do you want fine bows or full bows, and how much
+reserve displacement will you need higher up in the
+bow area?
+We continue to be amazed at the amount of compound-
+ing and the variety of shapes that we are able to extract
+from plywood panels. At this point, we can only give
+results of the amount of compounding that we were
+actually able to get on specific hulls that we have built
+in the past. To measure this compounding rate, we have
+determined the amount of compounding that takes
+place within a given 8'  1' span at about midpoint
+along the hull. (Figure 25-29 gives these results.)
+Once you have established the basic parameters for
+your hull, make a rough sketch of the shape and the
+profile of the hull you envision. This rough drawing is
+the catalyst to start the modeling process. The object is
+to begin the development of two model plywood panels
+that, when joined together in the proper method, fold
+up to form a close resemblance to the hull that you
+envision. An understanding of developable shapes will
+aid at this point in developing your first plywood panel
+cutout from your rough drawing.
+The tricky part here is to establish lines on a flat panel
+which will, when the panel is compounded, produce
+the boat you want. As we mentioned earlier, the rocker
+profile, or side view of the boat, the keel angles, and
+the sheer line ultimately define the hull shape.
+Generally, on hulls with full afterbodies and transoms,
+the rocker profile in the flat panel is very similar to the
+keel profile when the hull is folded. For a given amount
+308
+Hull Construction Methods
+Figure 25-29   Compounding rates on Gougeon-constructed hulls.
+Boat name
+Longitudinal bending (inches
+maximum over 8 feet)
+Athwartship bending (inches
+maximum over 1 foot)
+Plywood thickness
+Length of
+hull in feet
+VICTOR T (main hull)
+25
+3-ply (5 mm)
+11⁄2
+3⁄4
+VICTOR T (outriggers)
+17
+3-ply (3 mm)
+2
+5⁄8
+ADAGIO (main hull)
+35
+3-ply (6 mm)
+7⁄8
+1
+ADAGIO (outriggers)
+33
+3-ply (6 mm)
+13⁄8
+11⁄8
+FLICKA (outriggers)
+30
+5-ply (7 mm)
+17⁄16
+1
+A CLASS CATAMARAN 
+18
+3-ply (3 mm)
+3
+1⁄2
+SPLINTER (main hull)
+25
+3-ply (6 mm)
+11⁄4
+1
+OUTRIGGER CANOE
+24 
+3-ply (4 mm)
+11⁄2
+2
+OLLIE1 (main hull)
+35
+5-ply (7 mm)
+17⁄16
+1
+1Outside of panels sheathed in 4oz. fiberglass cloth before folding.
+
+--- PAGE 323 ---
+of rocker, a double-ended hull will have more keel
+rocker than a hull with a fuller afterbody, so on double-
+enders you can usually cut more keel rocker to achieve
+the desired amount of rocker in the completed hull.
+(See Figure 25-30.) Bow and transom profiles are pretty
+straightforward because the flat cut shape is very close
+to the compounded profile, except that the very tip of
+the bow will move aft slightly when the hull sheers are
+spread apart. You may have to work with the model a
+little and compensate for this to end up with the bow
+or transom you want.
+The sheer line can be more difficult to determine than
+the keel line. The profile of a sheer line scribed on a flat
+sheet of plywood may be considerably different from the
+sheer line on a folded hull. The sheer on the completed
+hull is affected by many variables, including hull width,
+Chapter 25 – Compounded Plywood Construction
+309
+Figure 25-30  Developing hull rocker in a plywood panel layout.
+Figure 25-31  Developing the sheer in a plywood panel layout.
+At section 3 the hull with fuller after body will have a
+greater girth measurement than the hull with slack bilges.
+The greater girth “F” will require a flat panel with more rocker
+along the keel profile than will girth “S”.
+Flat panel for hull with transom and straight sheer
+Straighter sheer would increase measurement
+around girth and should be added to panel.
+Reference line
+Reference line
+Flat panel with station lines
+and reference lines.
+Curved sheer
+Panel layout for straighter sheer
+Reference line
+Reference
+line
+
+--- PAGE 324 ---
+hull fullness, and the amount of compounding within
+the structure. It will usually require some adjustment to
+make up for curvature at the hull’s midsection. Take all
+of these factors into account when determining the
+ultimate sheer line. Remember that the sheer line must
+curve evenly over its length, with no hollows or flat
+spots.
+For basic clues on the sheer profile and height, look at
+the profile view and a reasonably drawn version of the
+body plan. The aft and midsections of a hull usually
+demand more curve from the plywood, and the sheer is
+usually therefore higher at the bow, where the sections
+are much straighter. To develop a straight sheer line,
+add material in the midsection as shown in Figure 25-31
+to make up for the curve there. Measure along the
+anticipated hull profile at each station to determine
+how much extra plywood is needed and add this to the
+mid-sheer section of the layout. Then cut the panels for
+the first model.
+Building the Model
+The first model is usually only a rough attempt to
+achieve the hull you desire and will serve as a guideline
+for refinements that can be made with the next model.
+This first model will also give you a much better under-
+standing of the compounded plywood hull development
+process. We have always built our models on a scale of
+1" to the foot because we have learned by experience
+which thicknesses of plywood we can use for the model
+that will scale up with reasonable accuracy to full size.
+We have used the following thicknesses of aircraft birch
+plywood purchased from aircraft supply houses. These
+thicknesses seem to be universally available.
+Scales to these full size panels
+Aircraft birch plywood
+(okoume plywood)
+.8mm
+5⁄32" 3-ply (4mm)
+1.0 mm
+3⁄16" 3-ply (5mm)
+1.2 mm
+1⁄4" 3-ply (6mm)
+1.5 mm
+1⁄4" 3-ply (6mm)
+While aircraft birch plywood is expensive, you can
+make a lot of models from one standard 4'  4'
+(1200mm  1200mm) sheet. Certainly the models are
+much cheaper than making full-size mistakes that are
+costly not only in materials, but also in time. Scaling
+between these two materials has been quite accurate.
+Several other factors must also be scaled properly,
+however, such as the manufactured keel and the sheer
+clamps. Remember that errors made in the models are
+projected to full scale by a factor of twelve, so every-
+thing you can do to maintain accuracy when building
+the models is essential.
+Build the model as you would a full-size boat. First
+prepare two identical panels. Temporarily fasten them
+together and make and cut the keel, bow, and sheer
+lines to the dimensions established in your drawings.
+True these up and make a master template, a third 
+panel identical to the first two. This will serve as a
+record of the panels in this model and can be used as a
+pattern against which to make small changes in future
+models. Make a master template for every model so
+that you can clearly see the changes each new panel
+dimension brings.
+The first step in assembling the panels is to install sheer
+clamps. These will, by necessity, be larger than scale. A
+1" (25.4mm) square sheer clamp reduces to 1⁄12" (2.1mm)
+square, which is too flimsy to adequately represent the
+real sheer clamp, so in this case we would increase the
+model sheer clamp to 3⁄16" (4.7mm) square. Apply epoxy
+to the sheer clamps and hold them in place with spring
+clamps or clothespins until the epoxy cures.
+Bevel the exterior radius of the plywood, as you would
+on a full-size hull if you were using nylon webbing.
+Join the two panels along the keel line and at the bow
+with duct tape or masking tape. Be careful to line the
+edges up perfectly. Surmarks help guarantee alignment
+fore and aft.
+The next stage of the design is to decide how far apart
+and at what points to spread the panels to achieve the
+hull shape that you desire. If you have drawn a rough
+body plan view of the shape that you hope to get out of
+the compounded plywood, you can use this as a begin-
+ning point by simply measuring from the body plan the
+angles of the hull panels as they emerge from the keel
+line on both sides.
+The panels join at specific keel angles. Divide the hull
+into four equal parts by drawing lines through it at the
+hull midpoint, a point between the bow and the
+midpoint, and a point between the midpoint and the
+stern. These three lines become measuring points for
+determining the keel angle. If the hull has a transom,
+310
+Hull Construction Methods
+
+--- PAGE 325 ---
+include it as another measuring point. The size of the
+keel angle at the various lines will almost always fall
+within fairly narrow ranges. At the forward section line,
+it’s usually between 80° and 90° while the mid and aft
+section line angles are usually between 120° and 170°.
+Occasionally, if the transom is very round and flat, the
+stern line angle may be fuller than 140° with the
+transom itself as much as 180° on some designs. Larger
+keel angles will provide more displacement and less
+wetted surface and are therefore desirable.
+You are, however, limited by how much the plywood
+can be compounded and by the amount of longitudinal
+rocker that is cut into the two plywood panels.
+Theoretically, if there were no rocker cut into the panels
+at all, you could join two panels at close to 180°
+included angle and then fold them up into a perfect half
+circle. As soon as the keel line of the panels is no longer
+straight and the panels have curved rocker cut into
+them, the 180° included angle is no longer possible.
+The angle is reduced accordingly in direct ratio to the
+amount of increase in rocker profile that you use in the
+plywood panel. Thus, a trade-off relationship exists
+when developing compound curvature between these
+two opposing demands on the plywood skin.
+With the model, you can go for broke and try for the
+largest amount of keel angle that you think you can get
+away with. If the stress is so much on the plywood
+panels that they break in the folding-up process, you
+can try less angle with the next model until you achieve
+a successful result. While this trial-and-error method
+may appear crude, we know of no more scientific
+method to use. No doubt it is only a matter of time
+until someone computerizes the compoundability of
+plywood panels with all of the different variations. This
+perhaps would reduce compounded plywood boat design
+down to a neat, tidy, mathematical program. But at the
+moment, experimentation seems the only way to proceed.
+Carefully mark the bow line, centerline, and stern line
+positions on the model panels, just as they are marked
+on the full-sized panels, as measurement points for
+keeping track of the included angles that are used. For
+each measurement position, cut out a small plywood
+template with the exact included angle desired to form
+a V-shape into which you can spread apart the panels
+with accuracy. Staples or tape can hold the V-shaped
+plywood templates in place temporarily until the keel
+has cured.
+As mentioned earlier, the width of the composite keel is
+also a factor in determining hull fullness. By preventing
+the plywood from starting its bend close to the keel
+line, a larger rigid keel effectively promotes the bend
+out further in the hull panel, developing more fullness
+(and displacement) in the hull. Thus, the larger keel
+also contributes to the compounding of the plywood
+structure and must be understood as another warring
+faction that competes with the included angle and keel
+profile cut when developing compounding in the
+plywood panels.
+With the small models, making the keel is the most
+sensitive and difficult part of producing a model hull
+that will scale up properly. To be more accurate, very
+carefully scribe two lines on each panel at the 2" and
+the 4" (scale inches) levels up from and parallel to the
+keel line all along its perimeter. Carefully install the
+poured keel, using a syringe to lay in a bead of thick-
+ened adhesive (using the 406 Filler) that is made just
+thick enough so that it will not run, but not so thick
+that it is not easily applied by the syringe. (Load the
+syringes with this thickened material by pulling out the
+plunger.) Using the scribed lines as a guide for the
+manufactured keel width, carefully pour the keel down
+the center of the panels, trying to keep the bead as even
+and straight as possible. With just the syringe, you can
+lay an accurate bead of epoxy in place. If too much
+epoxy ends up in one area of the keel or not enough in
+another, you can use a small stick to scrape excess
+epoxy carefully from one area and deposit it in another
+to even up the keel before the epoxy begins to cure.
+When performing this operation, it helps if the model is
+rigidly supported. You can usually accomplish this with
+the V-shaped plywood templates that are needed to
+hold the panels at their various angles anyway.
+When the epoxy has cured, the keel by itself should be
+more than strong enough to support the two panels
+properly during the fold-up. There is no need to apply
+glass cloth tape along the keel line, as we would do
+with the full-size hull.
+The degree to which the panels are folded up toward
+each other is another factor affecting the amount of
+Chapter 25 – Compounded Plywood Construction
+311
+
+--- PAGE 326 ---
+compounding that is induced into the plywood. 
+U-shaped hulls with a lot of fullness down low and
+narrow decks will induce more compounding stresses
+within the plywood than a narrower hull with a wider
+deck. Deck width can be measured as a percentage of
+the height of the panel at its maximum point. A typical
+deck width-to-hull panel ratio is around 75%. For
+instance, if our panel height were 24" (600mm) at its
+maximum size, a typical deck width would be approxi-
+mately 18" (460mm). Any narrower ratio than this
+might exert extra bending and compounding forces
+upon the plywood for which you should make some
+allowance in the initial design by reducing some of the
+other compounding factors.
+The degree to which the plywood panels will be folded
+toward each other (or deck width) also affects the
+rocker profile. Narrow decks produce less rocker and
+wider decks promote more rocker. It is easy to witness
+this phenomenon by making several deck jigs for your
+model at varying widths and measuring the amount of
+rocker that is produced at the different widths. The
+compounded plywood concept of construction
+demands overall fair curves for all segments, including
+the deck profile. The profile of the deck should have
+gracefully flowing lines and not have any unusual
+fullness in the bow or straight lines that might
+contribute to distortions in the panels as they are being
+compounded. (See Figure 25-32.)
+Make the deck jig for the model by carving one half of
+the deck line profile out of thin plywood—1⁄8" (3mm)
+thickness works well—and then make a duplicate for
+the other side. Join these two pieces of plywood with
+cross-braces at the bow and the transom and a third
+brace in the middle to complete the deck jig. Make sure
+that the plywood is thick enough and big enough so
+that no distortion of the deck jig will take place with
+only one brace in the middle. Then fold up the
+plywood model and insert it into the deck jig. The
+cross-braces at the bow and the transom, together with
+the one in the middle, act as guides to hold the deck jig
+at the general sheer line position on top of the folded-
+up model. It is usually easy to fold up the model by
+hand and insert it into the deck jig, but occasionally
+another person is needed to help with this operation.
+So that you can remove the deck jig and more closely
+evaluate the hull, complete the model by bonding on a
+precut deck to hold the hull in permanent position. For
+the deck, use the same thin birch plywood that is used
+to fold up the hull. Cut out two deck panel pieces, one
+forward and one aft, that will fit between the three
+braces on the deck jig. Even though you can’t cover all
+of the hull with the deck sections because some of the
+deck jig braces are in the way, this partial deck will give
+enough support to the sheers so that there should be
+no distortion once the deck jig is removed. Attach the
+deck by bonding it in place with thickened adhesive
+and holding it down with light weights until the
+adhesive cures. To keep the adhesive from bonding the
+deck to the deck jig and/or the deck jig to the hull, coat
+the deck jig carefully beforehand with a mold release
+(paraffin works well).
+With the deck jig removed and the deck plywood
+faired smooth with the sheer, you will have a model
+hull that you can now study closely. Establishing water-
+lines on the model hull is necessary so that
+displacement values can be calculated. Choose the
+desired waterline position at both the bow and transom
+areas and set the model upside down on a flat plane.
+Prop the model up on blocks so that the marked fore
+and aft waterline positions are the same distance from
+the flat plane surface. Use a block and a pencil to draw
+a continuous waterline around the hull using the flat
+312
+Hull Construction Methods
+Figure 25-32  Considerations for deck plans on folded hulls.
+Flat areas can distort or
+“oil can” during fold-up
+Too much fullness in deck line can
+cause distortion in fold-up
+
+--- PAGE 327 ---
+plane as a guide. Make sure that the model is also
+parallel in the athwartship direction during marking.
+(See Figure 25-33.)
+With waterlines permanently inscribed on the model,
+you will now be able to take off measurements from the
+hull so that you can determine the center of buoyancy
+and the total displacement available at given waterline
+heights. You will also be able to figure your prismatic
+coefficient together with wetted surface area. For
+detailed instructions on how to figure all of these
+factors, consult Chapter 23 of Skene’s Elements of Yacht
+Design.
+With this first model, you will undoubtedly find some
+parts of the hull shape that are not entirely to your
+liking. The object then is to determine what changes
+you can make in the next model to persuade it to look
+more like the hull you envision. Remember, you might
+have to compromise because what you would like to
+get in a hull shape may be an impossibility with this
+method of construction.
+If you decide to make a second model, you can
+measure the effect of the changes made in the second
+model against the first. From this data, you can assess a
+cause and effect relationship of any change. The more
+models you build with changes, the better your under-
+standing of the compounded plywood process will be.
+We would advise anyone designing a hull for this
+process to spend at least a couple of days developing a
+number of models just to gain experience in the
+compounded plywood building method.
+Going from the Model to Full Size
+When you have developed a model hull that you are
+happy with, expand all the measurements of the model
+up to full size. The most important set of measurements
+will come from the master template, that is, the exact
+duplicate of the hull panels used in the successful
+model. Position the master template on 1⁄4" square graph
+paper with the anticipated waterlines as parallel as
+possible to the horizontal lines of the paper. Draw the
+perimeter of the template on the graph paper using fine
+lead with a sharp point for the best accuracy. Draw a
+longitudinal line through the approximate horizontal
+cente

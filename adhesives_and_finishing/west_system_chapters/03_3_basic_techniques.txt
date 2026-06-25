@@ -1,0 +1,1016 @@
+# 3.	 BASIC TECHNIQUES
+
+The following procedures are common to the majority of repair or building projects 
+– on the boat or in the home and regardless of the type of structure or material on 
+which work is being carried out.
+3.1 Surface preparation
+Whether bonding, fairing or applying fabrics, the success of the application depends 
+not only on the strength of the epoxy but also on how well the epoxy adheres to the 
+surface to which it is being applied.  Unless bonding to partially cured epoxy, the 
+strength of the bond relies on the ability of the epoxy to mechanically “key” into the 
+surface.  Thus, the following three steps of surface preparation are a critical part of 
+any secondary bonding operation.
+For good adhesion, bonding surfaces must be:
+1. Clean
+Bonding surfaces must be free of any contaminants such as grease, oil, wax or 
+mould release.  Clean contaminated surfaces with WEST SYSTEM 850 Solvent. 
+(Figure 6).  Wipe the surface with fresh paper towels before the solvent dries.  
+Clean surfaces before sanding to avoid abrading the contaminant into the surface.  
+Follow all safety precautions when working with solvents.
+2. Dry 
+All bonding surfaces must be as dry as possible for good adhesion.  If necessary, 
+accelerate drying by warming the bonding surface with a hot air gun, hair dryer or 
+heat lamp (Figure 7).  Use fans to move the air in confined or enclosed spaces.  Be 
+careful of condensation when working outdoors or whenever the temperature of 
+the work environment changes.
+3. Sanded
+Thoroughly abrade hardwoods and non-porous surfaces with 80-grit aluminium 
+oxide paper to provide a good mechanical “key” for the epoxy (Figure 8).  Ensure 
+the surface to be bonded is solid.  Remove any flaking, chalking, blistering or old 
+coating before sanding.  Remove all dust after sanding. 
+The importance of the three operations detailed above cannot be stressed too 
+strongly – for high strength, durable bonds, surfaces must be clean, dry and 
+thoroughly abraded after removing previous surface coatings.
+
+--- PAGE 13 ---
+User Manual 11
+WEST SYSTEM User Manual
+Figure 
+6 
+Clean 
+the 
+surface.  Use a solvent, if 
+necessary, to remove all 
+contaminates.
+Figure 7 Dry the Surface. 
+Allow wet surfaces to dry 
+thoroughly or use heat or a 
+fan to speed the drying.
+Figure 8 Sand non-porous 
+surfaces.  Provide a texture 
+for the epoxy to key into.
+1
+2
+3
+Primary/Secondary bonding
+Primary bonding relies on chemical linking of 
+adhesive layers such as the wet lay-up of fibreglass 
+laminate in a mould.  All the layers of adhesive cure 
+together in a single fused layer.  Epoxy applied over 
+partially cured epoxy will chemically link with it to 
+form a primary bond.  The ability to chemically link 
+diminishes as the previous layer of epoxy cures and 
+the bond becomes a secondary bond.
+Secondary bonding requires a mechanical, 
+rather than chemical linking of an adhesive to a 
+material or cured epoxy surface.  The adhesive 
+must “key” into pores or scratches in the surface 
+- a microscopic version of a dovetail joint.  Correct 
+surface preparation provides a texture that will help 
+link the cured epoxy to the surface.
+Special preparation for various 
+materials
+Cured epoxy - Amine blush can appear as a wax 
+like film on cured epoxy surfaces.  It is a by-product 
+of the curing process and is more noticeable in 
+cool, moist conditions.  Amine blush can clog 
+sandpaper and inhibit subsequent bonding but it is 
+water soluble and can easily be removed.  It is not 
+unreasonable to assume it has formed on any cured 
+epoxy surface.  
+To remove the blush, thoroughly wash the surface 
+with clean water and an abrasive pad.  Dry the 
+surface with fresh paper towels to remove the 
+dissolved blush before it dries on the surface.  Sand 
+any remaining glossy areas with 80-grit sandpaper 
+and clean.  
+Wet-sanding will also remove the amine blush.  If a 
+release fabric (peel ply) is applied over the surface 
+of fresh epoxy, amine blush will be removed when 
+Removing epoxy
+Removing uncured or non-
+curing epoxy.  Scrape as 
+much material as possible 
+from the surface using a stiff 
+metal or plastic scraper - warm 
+the epoxy to lower its viscosity.  
+Clean the residue with WEST 
+SYSTEM 850 Cleaning Solvent. 
+(Follow safety warnings on 
+solvents and provide adequate 
+ventilation).  Allow solvents 
+to dry before recoating.  After 
+recoating wood surfaces with 
+epoxy, brush the wet epoxy 
+(in the direction of the grain) 
+with a wire brush to improve 
+adhesion. 
+Removing fibreglass cloth 
+applied with epoxy.  Use a 
+heat gun to warm and soften 
+the epoxy.  Begin in a small 
+area near a corner or edge.  
+Apply heat until a putty knife 
+or chisel can be slipped under 
+the cloth.  Grab the edge with 
+a pair of pliers and slowly pull 
+up the cloth while heating just 
+ahead of the separation.  On 
+large areas, use a utility knife 
+to score/cut the glass and 
+remove in narrower strips.  
+Resulting surface texture may 
+be coated or remaining epoxy 
+may be removed as follows.
+Removing 
+cured 
+epoxy 
+coating.  Use a heat gun to 
+soften the epoxy.  Heat a small 
+area and use a paint or cabinet 
+scraper to remove the bulk of 
+the coating.  Sand the surface 
+to 
+remove 
+the 
+remaining 
+material.  Provide ventilation 
+when heating epoxy.
+
+--- PAGE 14 ---
+User Manual 12
+WEST SYSTEM User Manual
+the release fabric is peeled from the cured epoxy and no additional sanding is 
+required.
+Epoxy surfaces that are still tacky i.e. not fully cured, may be bonded to or coated 
+with epoxy without washing or sanding.  Before applying coatings other than 
+epoxy (paints, bottom paints, varnishes, gelcoats, etc.), allow epoxy surfaces to cure 
+fully, then wash, sand, clean and follow coating manufacturer’s instructions.
+Hardwoods - Thoroughly abrade with 80-grit paper and remove dust before 
+coating.
+Teak/oily woods - Wipe the surface with WEST SYSTEM 850 solvent or pure 
+acetone and when the solvent has evaporated, abrade with 80-grit paper.  Clean 
+the sanding dust away and then wipe the abraded surface with solvent – the 
+solvent dries the oil at the surface and allows the epoxy to penetrate.  Ensure the 
+solvent has evaporated before coating but apply the epoxy within 15 minutes of 
+the solvent wipe.
+Porous woods - No special preparation needed but it is advisable to abrade with 
+a medium grit paper to open pores.  Remove dust.
+Metals - Metals must have all previous surface pre-treatments and contaminants 
+e.g. rust removed, taking the surface back to the bare metal by thoroughly 
+degreasing then abrading with a coarse paper such as 80-grit or grit blasting and 
+then degreasing again. The use of an adhesion promoter is advised on non-ferrous 
+metal substrates. Given below is the preparation for the more common metals 
+used in boat building.
+Mild Steel - Degrease and then thoroughly abrade (ideally, grit blast), removing 
+all contamination to expose bright metal. Apply epoxy as soon as possible and 
+certainly within 4 hours after surface has been prepared.
+Stainless Steel - Degrease and then thoroughly abrade (ideally, grit blast), 
+removing all contamination and the stainless coating to expose bright metal. Apply 
+epoxy as soon as possible and certainly within 4 hours after surface has been 
+prepared.  Then (wet) sand the epoxy into the surface.  Recoat or bond after first 
+coat gels.
+Aluminium - Non-anodised material must be degreased and either thoroughly 
+abraded or chemically etched, (sulphuric acid/sodium dichromate solution or 
+branded aluminium etch compound). 
+Anodised aluminium and anodised aluminium alloys - must be bonded 
+as quickly as possible after degreasing and abrading and certainly within 30 
+minutes.
+Hard anodised aluminium alloy - must be stripped by abrasive blasting or by 
+etching in sulphuric acid/sodium dichromate solution or branded aluminium etch 
+compound. Unstripped metal is not suitable for bonding.
+Polyester/GRP - Remove contamination with WEST SYSTEM 850 Solvent.  
+Thoroughly abrade with 80-grit paper to a dull finish and remove dust.
+Ferrocement - Remove all previous paints and coatings by wet sand blasting - this 
+
+--- PAGE 15 ---
+User Manual 13
+WEST SYSTEM User Manual
+is less aggressive than using dry sand and should not damage the sound surface.  
+If after blasting, laitance is visible on the surface or rust from the reinforcing wires 
+can be seen, then it is necessary to wash with dilute solution of hydrochloric acid 
+- this should be fresh water with a 4% to 5% addition of hydrochloric acid. Wash 
+thoroughly with water and allow to dry completely before coating.
+Concrete - Remove all previous coatings and abrade with a stiff wire brush.  
+Remove all dust and debris before coating.
+Plastic - Adhesion varies. If a plastic is impervious to solvents such as acetone, 
+epoxy generally will not bond to it. Soft, flexible plastics such as polyethylene, 
+polypropylene, nylon and Plexiglas fall into this category. Hard, rigid plastics such 
+as PVC, ABS, polycarbonate and styrene provide better adhesion with good 
+surface preparation and adequate bonding area. After sanding, flame oxidizing (by 
+quickly passing the flame of a propane torch over the surface without melting the 
+plastic) can improve bonding in some plastics.
+It’s a good idea to conduct an adhesion test on any plastic (or any other material) 
+that you are uncertain about.
+For best results when working with plastic use WEST SYSTEM G/flex epoxy see 
+Specialty Epoxies – page 44
+3.2 Bonding (gluing)
+This section refers to two types of structural bonding.  Two step bonding is the 
+preferred method for most situations because it promotes maximum epoxy 
+penetration into the bonding surface and prevents resin starved joints.  Single 
+step bonding is occasionally used when joints have minimal loads and excess 
+absorption into porous surfaces is not a problem.  In both cases, to achieve the 
+ultimate bond strength, work the epoxy into the surface with a roller or brush.
+Bonding
+Joint strength - the ability to adequately 
+transfer a load from one part to 
+another - depends on the combined 
+effects of three factors.
+GLUE STRENGTH - Careful 
+metering and thorough mixing 
+will ensure the epoxy mixture 
+cures to full strength.
+ADHESION - For the best 
+adhesion and load transfer, 
+the surface must be correctly 
+prepared.
+JOINT AREA - The bonding or 
+adhesive area of the joint must be 
+adequate for the load on the joint. 
+Increased overlap, scarf joints, fillets 
+and reinforcing fibres across the joint 
+can be used to increase bonding area.
+Adhesion
+
+--- PAGE 16 ---
+User Manual 14
+WEST SYSTEM User Manual
+Before mixing epoxy, ensure all parts to be bonded fit properly and that surface 
+preparation has been completed. (See surface preparation section 3.1 page 11).  
+Gather all clamps and tools necessary for the operation and cover any areas that 
+need protection from spills. 
+Two-step bonding
+1.	
+Apply a resin/hardener mix to the surfaces to be joined (Figure 9).  This 
+is called “wetting-out” or “priming” the bonding surfaces.  The epoxy is applied 
+with a disposable brush in small or tight areas; wet-out larger areas with a foam 
+roller or by spreading the resin/hardener mix evenly over the surface with a plastic 
+squeegee/spreader.  Proceed with step two immediately or any time before the 
+wet-out coat becomes tack free.
+2.	
+Modify the resin/hardener mix by stirring in the appropriate filler until it 
+becomes thick enough to bridge any gaps between the mating surfaces and to 
+prevent “resin-starved” joints.  Apply an even coat of the thickened epoxy to one of 
+the bonding surfaces, sufficient so that a small amount will squeeze out when the 
+surfaces are joined together (Figure 10).
+Figure 9 Apply resin/hardener mixture to 
+the bonding surfaces.
+Figure 10 Apply thickened epoxy to one of 
+the bonding surfaces.
+As already stated, the thickened epoxy can be applied immediately over the wet out 
+surface or any time before the epoxy becomes tack free.  For most small bonding 
+operations, add the filler to the resin/hardener mix remaining in the batch that was 
+used for the wet-out.  Mix enough resin/hardener for both steps.  Add the filler 
+quickly after the surface is wet out and allow for a shorter working life of the mix. 
+3.	
+Clamp components.  Attach clamps as necessary to hold the components 
+in place.  Use only enough clamping pressure to squeeze a small amount of the 
+thickened mix from the joint, indicating that the epoxy is making good contact with 
+both mating surfaces (Figure 11).  Do not squeeze all the thickened mix from the 
+joint by using too much clamping pressure.
+4.	
+Remove or shape excess adhesive that squeezes out of the joint as soon as 
+the joint is secured with clamps.  A WEST SYSTEM 804 mixing stick with one end 
+sanded to a chisel edge is an ideal tool for removing the excess (Figure 12).  Allow 
+to cure thoroughly before removing clamps.
+
+--- PAGE 17 ---
+User Manual 15
+WEST SYSTEM User Manual
+Figure 11 Clamp components in place 
+before the epoxy gels.
+Figure 12 Remove or shape excess 
+epoxy that squeezes out of the joint.
+Single-step bonding
+Single-step bonding is applying a thickened epoxy mix directly to both bonding 
+surfaces without first wetting out the surfaces with a resin/hardener mix.  However, 
+it is strongly recommended that the epoxy is thickened no more than is necessary 
+to bridge gaps in the joint (the thinner the mix, the more it can penetrate the surface) 
+and this method is not used for highly-loaded joints or for bonding either end grain 
+or other porous surfaces.
+3.3 Bonding with fillets
+A fillet is a cove-shaped application of thickened epoxy that bridges an inside 
+corner joint.  It is an excellent technique for bonding components because the 
+surface area of the bond is increased and serves as a structural brace.  All joints 
+that will be covered with glasscloth will require a fillet to support the cloth at the 
+inside corner of the joint.
+The procedure for bonding with fillets is the same as normal bonding but, instead 
+of removing the squeezed-out thickened epoxy after the components are clamped 
+in position, the epoxy/filler blend is shaped into a fillet.  For larger fillets, as soon as 
+the bonding operation is complete and before the squeezed-out epoxy becomes 
+tack free, add more thickened mix to the joint and shape into a fillet.
+1.	
+Bond components as described in Bonding (page 13).
+2.	
+Shape and smooth the squeezed-out thickened epoxy into a fillet by drawing 
+a rounded filleting tool (a mixing stick is ideal) along the joint, dragging excess 
+material ahead of the tool and leaving a smooth cove-shaped fillet bordered on 
+each side by a clean margin.  Some excess filleting material will remain outside 
+the margin (Figure 13) which can be used to refill any voids.  Smooth the fillet until 
+you are satisfied with the appearance.  A mixing stick will leave a fillet with about a 
+10mm radius.  For larger fillets, an 808 Plastic Squeegee is recommended, cut to 
+shape or bent to the desired radius.
+
+--- PAGE 18 ---
+User Manual 16
+WEST SYSTEM User Manual
+Figure 13 Shape and smooth the fillet.
+Apply additional thickened epoxy to fill voids or make larger fillets.  Add sufficient 
+mix along the joint line with the rounded mixing stick to create the desired size of 
+fillet.  For longer or multiple fillets, empty caulking gun cartridges or disposable 
+cake decorating bags can be used.  Cut the plastic tip to lay a bead of thickened 
+epoxy large enough for the desired fillet size.  Heavy duty, sealable food storage 
+bags with one corner cut off may also be used.
+3.	
+Clean up the remaining excess material outside the margin by using a mixing 
+stick or a putty knife (Figure 14).  Glasscloth or tape may be applied over the fillet 
+area before the fillet has cured (or after the fillet is cured and sanded).
+Figure 14 Clean up the excess epoxy 
+outside the fillet margin.
+4.	
+When the fillet has fully cured, sand smooth with 80-grit sandpaper.  Wipe the 
+surface clean of dust and apply two or three coats of resin/hardener over the entire 
+fillet area before final finishing.
+3.4 Bonding fasteners and hardware
+Installing screws and other threaded fasteners with WEST SYSTEM epoxy 
+dramatically improves the load carrying capacity of the fastener by spreading the 
+load into a greater area of the substrate.  There are several methods of hardware 
+bonding dependent upon the loads carried by the hardware.
+Basic fastener bonding
+For improved pullout strength and eliminating moisture ingress, the easiest method 
+is to simply wet out stripped fastener holes and new pilot holes before installing 
+the screws.  Epoxy penetrates the fibre around the hole, effectively increasing the 
+fastener diameter. 
+1.	
+Wet out a standard-size pilot hole and work the resin/hardener mix into the 
+hole with a pipe cleaner or syringe (Figure 15).  Thicken a second coat of epoxy as 
+necessary for stripped or oversized holes.
+
+--- PAGE 19 ---
+User Manual 17
+WEST SYSTEM User Manual
+Figure 15 Wet out a standard pilot 
+hole and install the fastener.
+2.	
+Insert the fastener in the hole and allow the epoxy to cure.
+Advanced fastener bonding
+For greater strength and stability, drill oversized holes to increase the exposed 
+substrate area and the amount of epoxy around the fastener.  If the fastener/
+hardware can be clamped by other means, the oversized hole can be extended to 
+the end of the fastener.
+1.	
+Drill oversized holes approximately 2/3 the depth of the fastener. The hole 
+diameter is 6mm larger than the fastener diameter. (Figure 16a).
+2.	
+Drill a normal sized pilot hole at the bottom of the oversized hole to the full 
+length of the fastener.  The normal sized pilot hole serves to hold or clamp the 
+hardware in position until the epoxy cures.
+3.	
+Wet out the holes and the fastener with a resin/hardener mix.  Allow the 
+epoxy to thoroughly soak into the exposed end grain of the wood.
+a
+b
+1/3
+2/3
+x
+x+6mm
+Oversized
+hole
+Pilot hole
+Epoxy interface 
+with penetration 
+into end grain.
+Figure 
+16 
+Drill 
+oversized 
+holes 
+to 
+increase the exposed 
+substrate 
+area 
+and 
+the amount of epoxy 
+around the fastener.
+4.	
+Fill the hole with thickened epoxy/adhesive filler.  Use 404 High-Density 
+(preferred) or 406 Colloidal Silica.
+5.	
+Install the fasteners with just enough force to hold the hardware in place.  Allow 
+the epoxy to cure thoroughly before applying load to the hardware (Figure 16b).
+Bonding hardware
+Bonding hardware goes much further than only bonding the fasteners.  By bonding 
+the hardware base to the surface, the hardware load capacity is significantly 
+
+--- PAGE 20 ---
+User Manual 18
+WEST SYSTEM User Manual
+increased by providing a solid bearing surface for the hardware.  It also seals the 
+wood underneath and is a stronger, longer lasting attachment than bonding the 
+fasteners only.  It is especially useful to mount hardware on surfaces which are not 
+level, curved or uneven.
+1.	
+Prepare the mounting surface and the hardware base for good adhesion (see 
+surface preparation - page 10).
+2.	
+Wet out the oversized hole with epoxy.  Allow the epoxy to soak into the 
+exposed end grain of the wood (as with fastener bonding).
+3.	
+Coat the bottom contact surface of the hardware with unthickened epoxy.  
+Wire brush or sand the wet epoxy into the surface with 50-grit sandpaper.  Sanding 
+the base, coated with epoxy, exposes the epoxy directly to fresh metal avoiding 
+any oxidisation of the metal.
+4.	
+Inject a non-sagging epoxy/404 or 406 mix into the hole.  Use sufficient mix to 
+ensure there are no voids in the hole after inserting the fastener.  Coat the bottom 
+of the hardware and the fastener threads with thickened epoxy 
+(Figure 17).
+Figure 17 Coat the hardware bottom 
+and the fastener threads with thickened 
+epoxy.
+5.	
+Place the hardware in position.  Insert and tighten fasteners until a small 
+quantity of mix squeezes out of the joint (Figure 18). 
+Figure 18 Tighten the fasteners until a 
+small amount of epoxy squeezes from 
+the joint.
+Backing Plate
+6.	
+Remove excess epoxy or shape into a fillet.  Allow the epoxy to cure for at 
+least 24 hours at 15°C minimum before applying load to the hardware.  Allow more 
+time in cool weather.
+Casting a base
+Use thickened epoxy to cast a base under the hardware when mounting hardware 
+to a curved or uneven surface or mounting hardware at an angle to the surface. 
+
+--- PAGE 21 ---
+User Manual 19
+WEST SYSTEM User Manual
+1.	
+Prepare the fasteners, holes, substrate and base as described above. 
+2. 	
+Bond small blocks to the substrate to support the base at the desired height 
+and position (e.g., winch base, Figure 19”A”).
+A
+B
+C
+Figure 19 Support 
+the base in position 
+with blocking - apply 
+enough 
+thickened 
+epoxy to fill the void.
+3.	
+Apply enough thickened epoxy – non-sagging, peanut butter consistency -  
+to fill the volume below the required position of the hardware to a level marginally 
+higher than the blocks.  If the gap between the base and the surface is over 12mm 
+fill the gap in two separate layers to avoid exotherm. 
+4.	
+Place the hardware in position, resting on the blocks (Figure 19”B”) and install 
+the fasteners.
+5.	
+Smooth the excess epoxy into the desired fillet shape around the base (Figure 
+19”C”).  Allow the epoxy to cure fully before loading.  Protect exposed epoxy from 
+UV. (see finish coating page 29).
+Bonding studs
+Bond threaded rods or studs into the substrate (instead of bolts or screws) and 
+attach the hardware with nuts.  This variation is appropriate for many engine, motor 
+or machine installations.  Coat the base of the hardware with wax/mould release 
+to make it removable.  Although the hardware is not “bonded” to the substrate, the 
+epoxy still provides a bearing surface that perfectly matches and supports the base 
+of the hardware.
+1.	
+Prepare the studs/threaded rods by waxing the upper ends (above the 
+surface) and cleaning the lower ends (below the surface). 
+2.	
+Place a nut and washer on the studs, wet out the lower ends and push them 
+into the epoxy filled holes.  Allow the epoxy to cure thoroughly before attaching 
+hardware and tightening the nuts (Figure 20).
+
+--- PAGE 22 ---
+User Manual 20
+WEST SYSTEM User Manual
+Figure 20 
+Bond threaded 
+rods or studs into 
+the substrate as 
+an alternative for 
+easily removable 
+hardware.
+Removing fasteners
+If a fastener needs to be removed at a future date, coat the threads with wax or 
+mould release (contaminating the surface sufficiently to prevent a good bond).
+Remove a permanently bonded fastener by applying heat to the head of the 
+fastener with a soldering iron or propane torch.  Use a heat shield to protect the 
+surrounding area.  Heat will travel down the fastener, softening the epoxy with 
+which it is in contact.  After heating the epoxy should soften enough to allow the 
+fastener to be backed out.  Allow more time for heat to travel along longer and/or 
+larger diameter fasteners.
+3.5 Laminating
+The term “laminating” refers to the process of 
+bonding together a number of relatively thin 
+sheets, like plywood, veneers, fabrics or core 
+material, to create a composite.  A composite 
+may be any number of layers of the same 
+material or combinations of different materials. 
+Methods of epoxy application and clamping 
+will differ depending on the materials being 
+laminated.
+A quick method to apply epoxy for laminating 
+is to use a foam roller.  An even faster method 
+for large flat surfaces is to simply pour the 
+resin/hardener mix onto the middle of the 
+panel/veneer/ fabric and spread the epoxy 
+evenly over the surface with a plastic spreader. 
+Apply thickened mixes with an 809 Notched 
+Spreader.
+Using staples or screws is the most common 
+method of clamping when there is a solid 
+Clamping 
+Any method of clamping is suitable 
+to prevent movement between the 
+parts being joined.  Methods of 
+clamping include spring clamps, 
+“C” clamps and adjustable bar 
+clamps, rubber bands cut from 
+inner 
+tubes, 
+packaging 
+tape, 
+applying weights, and vacuum 
+bagging.  When placing clamps 
+near epoxy covered areas, use 
+polyethylene sheeting or peel ply 
+under the clamps so they do not 
+inadvertently bond to the surface.  
+Staples, nails or drywall screws 
+are often used where conventional 
+clamps are unsuitable.  Any 
+fasteners that need to remain 
+should be of a non-corroding alloy 
+such as bronze.  In some cases, 
+the thickened epoxy or gravity 
+will hold parts in position without 
+clamps. Avoid excessive clamping 
+pressure.
+
+--- PAGE 23 ---
+User Manual 21
+WEST SYSTEM User Manual
+material on which to fasten.  An even distribution of weights will suffice when 
+laminating over a base that will not hold mechanical fixings, such as a foam or 
+honeycomb core material.
+Vacuum bagging is a specialized clamping method for laminating a wide range of 
+materials.  Using a vacuum pump and plastic sheeting, the atmosphere is used 
+to apply perfectly even clamping pressure over all areas of a panel regardless of 
+the size, shape or number of layers.  For detailed information on vacuum bagging, 
+refer to 002-150 Vacuum Bagging Techniques.
+3.6 Fairing
+Fairing refers to the filling and shaping of low or uneven areas so they blend with 
+the surrounding surfaces and appear “fair” to the eye and touch.  After major 
+structural assembly has been completed, final fairing can be accomplished easily 
+with WEST SYSTEM epoxy and low-density fillers.
+1.	
+Prepare the surface as detailed for bonding (page 10).  Sand smooth any 
+bumps or ridges on the surface and remove all dust from the area to be faired. 
+2.	
+Wet out porous surfaces with resin/hardener mix (Figure 21).
+3.	
+Mix resin/hardener and 407 Low-Density or 410 Microlight® filler to a peanut 
+butter consistency.  The thicker the mix, the easier it will be to sand when cured.
+Figure 21 Wet out porous 
+surfaces 
+before 
+applying 
+fairing compound.
+4.	
+Trowel the thickened epoxy mix onto the wetted surface with a plastic spreader, 
+working it into all voids and depressions.  Smooth the epoxy to the desired shape, 
+leaving the mix slightly higher than the surrounding area (Figure 22).  Remove any 
+excess thickened epoxy before it cures.  If filling voids over 12mm deep, apply 
+the fairing mix in several applications allowing each application to partially cure 
+before proceeding and/or use 206 Slow Hardener® or 209 Extra Slow Hardener™, 
+depending on temperature.
+Note: On vertical and overhead surfaces, allow the wet-out coat to gel before 
+applying the fairing compound which may sag or slide off the fresh wet-out coat.  
+Apply the fairing compound while the wet-out coat is still tacky.
+
+--- PAGE 24 ---
+User Manual 22
+WEST SYSTEM User Manual
+Figure 22 Apply fairing compound to fill 
+all voids and smooth to shape.
+5.	
+Allow the final application of thickened epoxy to cure thoroughly.
+6.	
+Sand the fairing material to blend with the surrounding contour (Figure 23).  
+Begin with 50-grit sandpaper if it is necessary to remove a lot of fairing material.  
+Use 80-grit paper when close to the final contour.
+Figure 23 Sand cured fairing compound 
+to desired contour.
+CAUTION! Wear a dust mask when sanding cured epoxy.  Remove the 
+sanding dust and fill any remaining voids following the same procedure.
+7.	
+When satisfied with the fairness, apply two or three coats of resin/hardener 
+mix to the area with a disposable brush or roller.  Allow the final coat to cure 
+thoroughly before final sanding and finishing. Note: 410 filler can be affected by 
+the solvents in most paints.  Surfaces faired with with 410 Filler must be sealed 
+with epoxy before applying any solvented paints.
+3.7 Applying woven cloth and tape
+Glass cloth may be applied to surfaces by two methods to provide reinforcement 
+and/or abrasion resistance.  It is usually applied after fairing and shaping are 
+completed and before the final coating operation.  It is also applied in multiple 
+layers i.e. laminated and in combination with other materials to build composite 
+parts.
+The “wet” method refers to the cloth being applied to an epoxy-coated surface 
+before the coating reaches final cure.  The “dry” method is to apply the cloth over 
+a dry surface and then impregnate the glass with epoxy.  The wet method is 
+preferred whenever possible.
+Wet method
+By working with small quantities of epoxy, it is possible to work at a comfortable 
+pace over quite large areas to be reinforced.
+
+--- PAGE 25 ---
+User Manual 23
+WEST SYSTEM User Manual
+1.	
+Prepare the surface for bonding as discussed in 
+surface preparation (page 10).
+2.	
+Pre-fit and trim the cloth to size.  Roll the cloth 
+neatly so that it may be conveniently rolled back into 
+position later.
+3.	
+Roll a heavy coat of epoxy on the surface.
+4.	
+Unroll the glass cloth into position over the 
+wet epoxy.  Surface tension will hold most cloths in 
+position.  (If applying the cloth vertically or overhead, 
+it is possible to wait until the epoxy becomes a little 
+tacky).  Work out wrinkles by lifting the edge of the 
+cloth and smoothing from the centre with a gloved 
+hand or a squeegee/spreader.  If cutting a pleat or 
+notch in the cloth, lay it flat on a curve or corner, 
+make the cut with sharp scissors and temporarily 
+overlap the edges.
+5.	
+Any areas of cloth which appear to be dry, 
+(white in appearance) apply more epoxy with a foam 
+roller.
+6.	
+Remove the excess epoxy with a squeegee 
+(Figure 24), using long overlapping strokes of 
+uniform pressure.  The object is to remove the 
+excess epoxy that may allow the cloth to “float off” 
+the surface but avoid creating dry spots by exerting 
+too much pressure on the squeegee.  Excess epoxy 
+appears as a shiny area while a properly wet out 
+surface appears evenly transparent with a smooth 
+cloth texture.  Subsequent coats of epoxy will fill the 
+weave of the cloth.
+Figure 24 Squeegee away excess 
+epoxy before it begins to gel.
+7.	
+Further layers of cloth may be applied immediately by repeating the steps 
+above.
+8.	
+Trim the excess (Figure 25) and overlapped cloth after the epoxy has reached 
+its initial cure.  The cloth will cut easily with a sharp utility knife as long as the epoxy 
+is not fully cured.  If required, trim overlapped cloth as follows.
+Clear wood finishes 
+(stripper canoes, etc.)
+An alternative wet out 
+method is to lay the 
+epoxy onto the fabric 
+with a short bristled 
+brush.  Dip the brush 
+in the epoxy and lay 
+the 
+epoxy 
+onto 
+the 
+surface 
+with 
+a 
+light 
+even stroke.  Do not 
+force the epoxy into the 
+cloth, which may trap air 
+in the fabric and show 
+through the clear finish.  
+Apply 
+enough 
+epoxy 
+to saturate the fabric 
+and the wood below.  
+After several minutes, 
+lay on additional epoxy 
+to dry (white) areas.  If 
+epoxy 
+appears 
+milky 
+due to high humidity or 
+overworking, warm the 
+surface by passing a 
+heat gun or hair dryer 
+over the surface.  Use 
+low heat to avoid out-
+gassing.  Be sure to use 
+207 Hardener for clear 
+finishes.
+
+--- PAGE 26 ---
+User Manual 24
+WEST SYSTEM User Manual
+Figure 25 Trim excess cloth after the 
+epoxy gels but before it cures hard.
+a)	
+Place a metal straightedge on top of and midway between the two overlapped 
+edges.
+b)	
+Cut through both layers of cloth with a sharp utility knife (Figure 26), being 
+very careful not to cut too deeply.
+Figure 26 Trim overlapped cloth after 
+the epoxy gels.
+c)	
+Remove the top-most trimming and then lift the opposite cut edge to remove 
+the overlapped trimming (Figure 27).
+Figure 
+27 
+Remove 
+the 
+topmost 
+trimming, lift the opposite cut edge to 
+remove the overlapped trimming.
+d)	
+Re-wet the underside of the raised edge with epoxy and smooth into place.
+The result should be a near perfect butt joint, eliminating double cloth thickness.  
+However, a lapped joint is stronger than a butt joint, so if appearance is not 
+important, it may be advisable to leave the overlap and fair in the unevenness after 
+coating.  Alternatively use WEST SYSTEM 743 tapered edge cloth to eliminate the 
+need to butt join, contact Wessex Resins & Adhesives or your local distributor for 
+further information.
+Any remaining irregularities or transitions between cloth and substrate can be 
+faired by using an epoxy/filler fairing compound if the surface is to be painted.  Any 
+fairing completed after the final glass cloth layer should receive several additional 
+coats of epoxy over the faired area.
+9.	
+Coat the surface to fill the weave before the wet-out becomes tack free 
+(Figure 28).  Follow the procedures for final coating in the next section.  It will take 
+
+--- PAGE 27 ---
+User Manual 25
+WEST SYSTEM User Manual
+two or three coats to completely fill the weave of the cloth and to allow for a final 
+sanding that will not damage the cloth.
+Figure 28 Coat the surface to fill the weave 
+before the wet-out becomes tack free.
+Dry method
+1.	
+Prepare the surface for bonding (see surface preparation page 10).
+2.	
+Position the cloth over the surface and cut it 30 mm larger on all sides.  If the 
+surface area to be covered is larger than the cloth size, allow multiple pieces to 
+overlap by approximately 50 mm.  On sloped or vertical surfaces, hold the cloth in 
+place with masking or duct tape, or with staples.
+3.	
+Mix a small quantity of epoxy (three or four pumps each of resin and 
+hardener).
+4.	
+On horizontal surfaces, pour a small pool of resin/hardener near the centre 
+of the cloth but it is essential to use a roller or brush for wetting cloth on vertical 
+surfaces.
+5.	
+Spread the epoxy over the cloth surface with an 808 Plastic Squeegee, 
+working the epoxy gently from the pool into the dry areas (Figure 29).  As the fabric 
+is wet out it becomes transparent, indicating the cloth has absorbed sufficient 
+epoxy.  If applying cloth over a porous surface, ensure that sufficient epoxy is 
+left to absorb into both the cloth and the surface below.  Try to limit the amount of 
+squeegeeing as excessive “work” on the wet surface produces minute air bubbles 
+which  are placed in suspension in the epoxy.  This is especially important if a clear 
+finish is required.
+Figure 29 Spread the epoxy over the 
+cloth surface with a plastic speader.
+6.	
+Continue pouring and spreading (or rolling) small batches of epoxy from the 
+centre towards the edges, smoothing wrinkles and positioning the cloth.  Check 
+for dry areas (especially over porous surfaces) and re-wet as necessary before 
+proceeding to the next step.  If cutting a pleat or notch in the cloth, lay it flat on 
+a compound curve or corner, make the cut with a pair of sharp scissors and 
+temporarily overlap the edges.
+
+--- PAGE 28 ---
+User Manual 26
+WEST SYSTEM User Manual
+7.	
+Now refer to Steps 5, 6, 7, 8 and 9 detailed above in the “wet method” to 
+complete the procedure.
+3.8 Epoxy barrier coating
+The object of barrier coating is to build up an epoxy thickness that provides an 
+effective moisture barrier and a smooth base for final finishing. 
+Apply a minimum of two coats of WEST SYSTEM epoxy for an effective moisture 
+barrier.  Apply three coats if sanding is to be carried out.  Moisture protection will 
+increase with additional coats and, in the case of osmosis repair and protection, 
+six coats or about a thickness of 600 microns must be applied.  Six coats, with 
+422 Barrier Coat Additive™ in the final five coats, provides maximum moisture 
+protection.  Additives or pigments should not be added to the first coat.  Do not 
+add thinners or solvents to WEST SYSTEM epoxy.
+Disposable, thin urethane foam rollers, such as WEST SYSTEM 800-3 or 800 
+Roller Covers, allow greater control over film thickness, are less likely to cause 
+the epoxy to exotherm and leave less stipple than thicker roller covers.  Cut the 
+covers into narrower widths to reach difficult areas or for long narrow surfaces 
+like stringers.  A paint brush can be used for smaller areas, if the bristles are stiff 
+enough to spread the epoxy to an even film.
+Complete all fairing and cloth application before beginning the final coating.  Allow 
+the temperature of porous surfaces to stabilise before coating otherwise, as the 
+material warms up, air within the porous material may expand and pass from 
+the material (out-gassing) through the coating and leave bubbles in the cured 
+coating.
+1.	
+Prepare the surface for bonding (see surface preparation page 10).
+2.	
+Mix only as much resin/hardener as can be applied during the open time of 
+the mix.  Pour the epoxy into a roller pan as soon as it is mixed thoroughly.
+3.	
+Load the roller with a moderate amount of the epoxy.  Roll out the excess on 
+the raised section of the roller pan to obtain a uniform coating on the roller.
+4.	
+Roll lightly and randomly over an area approximately 600mm x 600mm to 
+transfer the epoxy evenly over the area (Figure 30).
+Figure 30 Roll lightly and randomly 
+over a small area.  Spread the epoxy 
+into a thin even film.
+5.	
+As the roller dries out, increase pressure to spread the epoxy into a thin even 
+film.  Increase the coverage area if necessary to spread the film more thinly and 
+evenly.  The thinner the film, the easier it is to keep it even and avoid runs or 
+sags in each coat.
+
+--- PAGE 29 ---
+User Manual 27
+WEST SYSTEM User Manual
+6.	
+Finish the area with long, light, even strokes to reduce roller marks.  Overlap 
+the previously coated area to blend both areas together.
+7.	
+Coat as many of these small working areas as possible with each batch.  If a 
+batch begins to thicken before it can be applied, discard it and mix a fresh, smaller 
+batch.
+8.	
+“Tip off” the coating by dragging a foam roller brush lightly over the fresh 
+epoxy in long, even, overlapping strokes after each batch is applied.  Use enough 
+pressure to smooth the stipple, but not enough to remove any of the coating 
+(Figure 31).  Alternate the direction in which each coat is tipped off, 1st coat vertical, 
+2nd coat horizontal, 3rd coat vertical, etc.  A WEST SYSTEM 800-3 Roller Cover 
+can be cut into segments to make an excellent “tipping” brush.
+Figure 31 Tip off the coating by dragging 
+a foam roller brush lightly over the fresh 
+epoxy.
+Recoating
+Apply second and subsequent coats of epoxy following the same procedures.  
+Ensure the previous coat is still tacky, but has cured firmly enough to support the 
+weight of the next coat.  To avoid sanding between coats, apply all coats in the 
+same day. After the final coat has cured overnight, wash with clean water and 
+abrade the surface to prepare for the final finish. See Special Preparation - Cured 
+epoxy on page 11. 
+3.9 WEST SYSTEM Epoxy and Barrier Coating 
+for Osmosis repair.
+Osmosis, otherwise known as gel-coat blistering, is a complex phenomenon.  The 
+technical issues and repair instructions are contained in our specialist manual 
+“Gelcoat Blisters, A guide to Osmosis repair”.  It is essential to fully read, 
+understand, and follow the instructions contained in it when considering a treatment.  
+Any such treatments should only be carried out under the close supervision of a 
+qualified Marine Surveyor or by an experienced boatyard or Contractor who has 
+clear evidence of successful past treatments.  Specialist yards or Contractors 
+will have links with a qualified experienced surveyor and will usually obtain a full 
+report prior to commencing a treatment.  We stongly recommend that advice is 
+sought from a qualified Marine Surveyor concerning a particular hull prior to the 
+commencement of any treatment.  Because of the variability of hull constructions 
+and the complexity of the Osmosis phenomenon there can be no guarantee of a 
+100% success rate in treatments.  Recurrence is always a possibility but by following 
+these instructions we believe that the risks of recurrence will be minimised.
+
+--- PAGE 30 ---
+User Manual 28
+WEST SYSTEM User Manual
+3.10 Final surface preparation
+Correct finishing techniques will not only add beauty, but will also protect surfaces 
+from ultraviolet light which will break down the epoxy over a long period of time.  
+The most common methods of finishing are painting or varnishing.  These coating 
+systems protect the epoxy from ultraviolet light and require proper preparation of 
+the surface before application.
+Preparation for the final finish is just as important as it is for recoating with epoxy. 
+The surface must be clean, dry and sanded and free of amine blush.
+1.	
+Allow the final epoxy coat to cure thoroughly.
+2.	
+Wash the surface with a Scotch-brite™ pad and water to remove the amine 
+blush.  Dry with paper towels.
+3.	
+Sand to a smooth finish (Figure 32).  If there are runs or sags, begin sanding 
+with 80-grit paper to remove the highest areas.  Sand until the surface feels and 
+looks fair.  Complete sanding with the appropriate grit for the type of coating to be 
+applied - check coating instructions.  Paint adhesion partly relies on the mechanical 
+grip of the paint keying into the sanding scratches in the surface of the epoxy.  If 
+a high-build or filling primer is to be applied, 80-100 grit is usually sufficient.  For 
+primers and high-solids coatings, 120-180 grit may be adequate.  Finishing with 
+180 grit paper is often recommended for coatings with high-gloss finishes.  Grits 
+finer than this may not provide enough “tooth” for good adhesion and may promote 
+sags and runs.  Always follow the paint manufacturer’s recommendations for 
+surface preparation.  Wet sanding is preferred by many people because it reduces 
+sanding dust and in addition, Steps 2 and 3 above become one operation.
+Figure 32 Sand to a smooth finish.
+4.	
+When satisfied with the texture and fairness of the surface, rinse the surface 
+with fresh water which should flow evenly without beading or fisheyeing.  If the 
+rinse water forms into droplets or beads (a sign of contamination), wipe the area  
+dry with a paper towel, then wet sand again until all water droplets are eliminated. 
+(Figure 33).
+Figure 33 Rinse the surface with 
+fresh water after sanding.
+Proceed with the final coating after the surface has dried thoroughly.  To reduce 
+
+--- PAGE 31 ---
+User Manual 29
+WEST SYSTEM User Manual
+the possibility of contamination, it is advisable to begin coating within 24 hours 
+of the final sanding. Follow the paint manufacturer’s instructions but we suggest 
+making a test panel to evaluate the degree of surface preparation required and the 
+compatibility of the finish system.
+3.11 Finish coatings
+Coating function
+Paint or varnish applied over an epoxy barrier coat is intended to decorate the 
+surface and protect the epoxy from sunlight.  In so doing, the finish coating extends 
+the life of the epoxy moisture barrier which, in turn, provides a stable base that 
+extends the life of the finish coating.  Together, the two form a protective system far 
+more durable than either coating by itself.
+Protection from sunlight is a primary consideration in the selection of a final 
+coating.  Long term UV (ultraviolet) protection of the barrier coat depends on the 
+effectiveness with which the finish coating resists UV and retains it’s pigmentation 
+and/or shield of UV filters on the surface of the epoxy barrier coat.  A high gloss 
+finish reflects a higher proportion of the light from the surface than a dull finish.  
+Therefore, a white - especially a high gloss white – coating is much more durable.
+Coating Compatibility
+Most types of coatings are compatible with cured epoxy which is an almost 
+completely inert, hard plastic.  Thus, most paint solvents will not soften, swell or 
+react with an epoxy surface.  However, it is advisable to build a test panel to assure 
+coating compatibility.  It is always recommended to check manufacturer’s 
+instructions to verify compatibility and suitability.
+One-part polyurethanes and polyester gelcoat can be affected by epoxy amines 
+and if used must be applied when the epoxy is thoroughly cured, generally after two 
+weeks at room temperature. A thorough cure can be achieved much quicker with 
+elevated temperature post curing. Post curing will also improve epoxy’s thermal 
+properties and is recommended if dark paint is to be applied over epoxy.
+Coating types
+Latex paints are compatible with epoxy and they do an adequate job of protecting 
+the epoxy barrier from UV radiation.  In many architectural applications latex paint 
+may be the most suitable coating to use.  Their durability is limited.
+Alkyd finishes - enamel, alkyd enamel, marine enamel, acrylic enamel, alkyd 
+modified epoxy, traditional varnish and spar varnish - offer ease of application, low 
+cost, low toxicity, and easy availability.  Their disadvantages are low UV resistance 
+and low abrasion resistance.
+One-part polyurethanes offer easy application, cleanup and better properties than 
+alkyds.  They are also more expensive and some may be incompatible with amine 
+cured epoxy systems such as WEST SYSTEM epoxy, although 207 Hardener 
+offers good compatibility.  Test first.
+
+--- PAGE 32 ---
+User Manual 30
+WEST SYSTEM User Manual
+Two-part linear polyurethane (LP) paints offer the most durable protection 
+available.  LP’s are available as pigmented or clear coatings and offer excellent 
+UV protection, gloss retention, abrasion resistance and complete compatibility with 
+epoxy.  However, compared to other types of coatings, they are expensive, require 
+more skill to apply and present a greater health hazard, especially when sprayed.
+Epoxy paints are available in one-part and two-part versions.  Two-part epoxies 
+offer many characteristics similar to the higher performance polyurethanes.  They 
+are durable and chemically resistant, but offer limited UV protection compared to 
+the linear polyurethanes.
+Antifouling paints are available in a variety of formulations.  Most antifouling paint 
+systems are compatible with epoxy and can be applied directly over a prepared 
+epoxy barrier coat.  If unsure of compatibility or having curing or adhesion problems 
+with a specific paint, use the primer recommended for that antifouling paint over the 
+barrier coat.  Follow the recommendations given for preparation of GRP surfaces.  
+Other paints, including marine LP’s and primers, are not recommended for use 
+below the waterline.
+Primers are usually not needed to bond a paint film to epoxy, although interfacing 
+primers may be required with some specialised bottom paints and high-build 
+primers are useful for hiding scratches or flaws in the substrate.  If the instructions 
+on the selected paint or varnish recommend a specially primed surface, follow the 
+recommendations given for fibreglass preparation.  Self-etching primers are not 
+effective on an epoxy coating because of the chemical resistance of the epoxy.
+Polyester gelcoat is a pigmented version of polyester resin used to build GRP 
+boats and many other products.  Gelcoat provides a smooth pre-finished surface 
+and is applied during the production process of the boat or component part.  It is 
+not often used as a post-production finish coating, but it can be applied over epoxy 
+and is useful in some repair situations.  Unreacted epoxy will interfere with gelcoat 
+cure.  Refer to 002-550 Fibreglass Boat Repair & Maintenance, published by 
+Wessex Resins, for detailed information on patching gelcoat over an epoxy repair.
+Always follow the instructions from the manufacturer of the coating systems.  
+Nevertheless, as previously stated, it is recommended to make a test panel to 
+evaluate the degree of surface preparation required and the compatibility and 
+handling characteristics of the finish system.
+
+--- PAGE 33 ---
+User Manual 31
+WEST SYSTEM User Manual

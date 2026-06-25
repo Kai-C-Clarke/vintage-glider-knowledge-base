@@ -1,0 +1,343 @@
+# 5. CONTROL SYSTEM AND CABLES, ETC
+
+'J'HE control systems on nearly all gliders 
+use cables. In many cases cables are 
+used throughout, while in others we find 
+push-pull rods and torque tubes in various 
+places in the systems. We may well start 
+this chapter, therefore, with a dissertation 
+on cables.
+The most widely used cable is 10-cwt. 
+extra flexible cable. This consists of seven 
+strands of nineteen wires in each strand. 
+Eye-splices are made where the cable 
+attaches to a turnbuckle or a fitting, though 
+in some cases, notably Olympias, the turn- 
+buckles and fittings are directly swaged into 
+the cables. Previously we have discussed 
+cable tensions, so we will not go any further 
+into that subject, but will confine ourselves 
+to the "ills that this steel coil is heir to".
+Cables 
+have 
+three 
+main 
+enemies: 
+corrosion, abrasion and fatigue. A corroded 
+cable must be scrapped at once. 
+The 
+individual wires in the cable are very thin 
+and any corrosion seriously weakens them. 
+One of the best corrosion preventatives for 
+cable is Lanolin Resin Solution D.T.D. 
+297B. This is a yellow sticky paint which 
+is applied to the cable. It never dries out 
+hard, but remains faintly "rubbery". It can 
+be removed again when required with a 
+petrol-soaked rag. 
+A worn or abraded 
+cable also must be scrapped if any individual 
+wires are broken. The places to look for this 
+are fairleads, pulleys, and the openings in 
+bulkheads and frames. Abrasion is rather 
+more difficult to deal with, since obviously 
+the cable must rub against something some- 
+where. However, it will help if all rubbing 
+places are kept clean and dry. This means 
+not too much of the cable preservative at 
+these spots and no lubrication whatever. 
+Any attempt at lubrication merely results in 
+the collection of grit particles, which then 
+form a wonderful grinding compound with 
+the grease or oil. This cuts the cable to 
+pieces in no time. All fairleads and pulleys 
+should be of fibre or plastic and no rubbing 
+on unprotected wood or metal should be 
+allowed.
+The fatigue of cable is probably the most 
+difficult problem to deal with. When a cable 
+fatigues, the wires crack and break. The 
+cause is always repeated bending round too 
+small a radius, and manufacturers are often 
+to blame for using too small a size of pulley
+for the cable. Fatigue frays, in consequence, 
+usually happen on the section of cable that 
+runs over a pulley. If even only one wire has 
+broken, the cable must be scrapped. This 
+may seem drastic, but, if one wire has 
+cracked, the others are all damaged to some 
+extent and the cable cannot be trusted. Any 
+rubbing place, such as a fairlead, is also a 
+breeding ground for fatigue, since often an 
+unsupported length of cable will vibrate in 
+flight, and the fairlead is the place where 
+bending due to the vibration occurs. There 
+is no cure for fatigue other than to introduce 
+modifications to the design to prevent it. 
+All you can do is to inspect the cables 
+frequently and, at the first sign of fatigue, 
+scrap and replace the cable.
+Splicing Cables
+Sooner or later you are going to have to 
+replace a cable, and this nearly always 
+means that you will have to eye-splice the 
+ends. Some machines, notably Olympias, 
+have swaged ends to all the cables, and in 
+this case you must buy a new cable from the 
+makers unless you happen to have a 
+swaging machine available. These machines 
+are expensive gadgets and are unlikely to be 
+found in the average gliding club.
+Now splicing control cable is an art 
+which is much best taught in a workshop 
+by practical demonstration. However, for 
+those who wish to teach themselves, here is 
+how to go about it.
+An eye-splice is always made round either 
+a thimble or a bobbin. A thimble is a small 
+metal lining to the eye, while a bobbin is a 
+circular metal bush, usually intended to be 
+fixed into the fitting or control horn by a 
+clevis pin. 
+The technique is exactly the 
+same, though you will find that, since the 
+bobbin is circular, it is rather more difficult 
+to get the splice tight around it. See Figure 11.
+Thimble
+Bobbin
+Fig. 11
+Start by binding tightly round the cable a 
+length of waxed thread. 
+This binding
+-15—
+
+--- PAGE 23 ---
+should be about J in. to | in. in length, and 
+should be put on about 6 in. from the end 
+of the cable. Its purpose is to allow the 
+cable to be unravelled for 6 inches but no 
+further. Now unravel the end of the cable. 
+You will find that there are seven strands 
+altogether six outer strands somewhat 
+wavy, and a middle one which is quite 
+straight. This latter strand we call the heart 
+strand because it lies in the heart of the 
+cable. Unravel down to the binding and 
+splay out the six outer strands somewhat, 
+leaving the heart strand sticking straight 
+out of the middle. Now wrap the cable 
+round the thimble so that the splayed ends, 
+where they disappear into the binding, lie 
+just at the jaw of the thimble. Mark the 
+cable at the other jaw and put on a similar 
+binding just inside the other jaw. Wrap the 
+cable round the thimble again and lash 
+round cable and thimble tightly with string 
+to keep it in place while the splice is made. 
+This lashing will later be removed when the 
+splice is finished. The joint now should look 
+like Figure 12, with three outer strands 
+lying each side of the parent cable and the 
+heart strand along the parent cable.
+Now the principle of making the splice is 
+to weave the six outer strands back into the
+Heart
+Spike
+Fig. 12
+parent cable, over and under each strand 
+of it alternately, while the heart strand is 
+pushed into the core to lie alongside the 
+heart strand of the parent cable. Begin by 
+pushing the spike into the cable at the point 
+indicated and lift up one of the strands of 
+the parent cable and push No. 1 strand 
+through in the direction the spike went in. 
+Remove the spike and pull No. 1 through 
+tight. Pick up the next strand of the parent 
+cable with the spike (the strand above as 
+seen in the Figure) and do the same with 
+No. 2 strand. 
+Repeat the process with 
+No. 3. Now slip the heart strand under 
+No. 3 and push it down into the core of the
+parent cable. 
+Repeat the procedure of 
+picking up the next parent cable strand 
+and pass No. 4 under it. Do the same for 
+No. 5 strand. Now, if we did the same for 
+No. 6, it would have to go a long way round 
+the parent cable before being spliced in. 
+Therefore we adopt a different plan for this 
+strand. It goes in the same place as No. 5, 
+but passes under two strands of the parent 
+cable. Pull all the strands down tight and 
+you have done the first half-tuck of the splice.
+Now inspect carefully. 
+If you have 
+worked correctly, there should be one 
+strand coming out of each gap in the parent 
+cable, and one only. 
+Ignore the heart 
+strand. Now, starting anywhere you like, 
+take one strand, lead it over the next parent 
+cable strand and put it under the next by 
+using the spike. Follow round, doing the 
+same with each strand in turn. When you 
+come to the heart strand, simply ignore it. 
+You only weave in the six outer strands 
+into the parent cable, leaving the heart 
+strand to lie inside the core of your splice 
+against the heart strand of the parent cable. 
+When you have done this over and under 
+business with all six strands, you have 
+completed one-and-a-half tucks. Pull down 
+tight; inspect to see that one strand, and one 
+only, emerges from each gap in the parent 
+cable. After each tuck, after pulling tight it 
+is a good plan to beat the splice gently with 
+a mallet, or hide-faced hammer, on a piece 
+of wood. This packs the splice down tight. 
+Continue as above until you have a 
+minimum of four-and-a-half tucks. When 
+checking the number of tucks, select any 
+strand, and, beginning at its loose end, 
+follow it through the splice, counting as 
+you go thus: under-over one, under-over 
+two, under-over three, under-over four, 
+under four-and-a-half. 
+Cut off the loose 
+ends of the strands, beat down and bind 
+the finish of the splice with waxed linen 
+thread. This binding should start at about 
+the middle of the splice and finish on the 
+unspliced parent cable. It must not cover 
+more than half the splice, as this must be 
+available for inspection. 
+Remove the 
+temporary lashing round the thimble and 
+your splice is finished.
+Now for some tips. A good splice is close, 
+and tight, and it should be impossible to see 
+daylight through it anywhere. To achieve 
+this it helps if, each time a strand is threaded 
+through, you take a little of the twist out of 
+it. Also try to ensure that the spliced-in 
+strands run round the parent cable with 
+16 
+
+--- PAGE 24 ---
+approximately the same helix angle as the 
+parent cable strands, but of course in the 
+opposite direction. 
+This means that the 
+criss-cross effect is equi-angular, and the 
+splice packs down tight properly. To stop 
+the ends of the strands from unravelling 
+when you are splicing, it is a good plan to 
+twist the ends up with pliers. 
+An even 
+better scheme, if you have any acetylene 
+welding gear handy, is to fuse the ends 
+together by flashing them for a second in the 
+blowpipe flame.
+Splicing sounds quite easy. It is, when 
+you know how. You will probably make 
+several horrible wire birds'-nests in your 
+first attempts, but don't be discouraged. It 
+really is quite easy!
+Hand splicing is rapidly being replaced by 
+the system of swaged collars. These need a 
+special machine to do the swaging, and the 
+machine is expensive. However, the swaged 
+splice is so neat, and can be done so quickly, 
+that it has everything to recommend it.
+Bearings and Hinges
+Pulley bearings, stick, and torque tube 
+bearings, may seem very simple things. 
+Sometimes they are fitted with ball bearings, 
+but more often they are plain bearings. 
+Now, there is more than meets the eye in 
+these bearings. 
+They must be properly 
+lubricated of course, but they must also be 
+properly fitted and adjusted. In almost all 
+of these bearings there is a replaceable 
+element, whether it is a plain bush or a ball 
+race. Figure 13 shows a cross section of a 
+plain bearing in a pulley.
+Bolt
+Bush
+Pulley H^^i \PulIey 
+Fig. 13 
+Bracket
+The first thing to realise is that the pulley 
+is meant to rotate on the bush. This means 
+that the bush must be quite a free fit in the 
+pulley and also it must be long enough to 
+project slightly each side of the pulley, 
+Then we can bolt up tightly to ensure that 
+the bush is nipped between the sides of the
+pulley bracket and can not rotate. If wear 
+occurs, we can easily replace the bush or the 
+pulley or both. There is, however, plenty of 
+bearing area between the bush and pulley, 
+and so wear will be slow.
+Now consider what happens if lubrication 
+is neglected and the bolt is not properly 
+tightened. The pulley may seize up on the 
+bush. The bush will then probably rotate on 
+the bolt, provided that the nip is insufficient 
+to hold the bush fixed. The bearing area 
+between the bush and bolt is much smaller 
+and wear will be rapid. Worse still, the 
+pulley, bush and bolt may seize solid and 
+the whole issue rotate in the bracket. In 
+these circumstances the bearing area is 
+almost nil, being merely the thickness of 
+plates of the pulley brackets multiplied by 
+the diameter of the bolt. 
+Wear will be 
+extremely rapid and the holes in the 
+brackets will wear elongated and the 
+bracket and bolt will have to be scrapped.
+The above applies equally to stick 
+bearings. Where ball races are fitted, the 
+same basic rules apply. The inner element 
+must be firmly fixed in the bracket and the 
+outer element must be properly attached to 
+the rotating member, pulley, stick or what- 
+ever it may be. The usual way of doing this 
+is to make the outer race a press fit in the 
+rotating member, and to hold the inner 
+race by gripping it endwise exactly like the 
+plain bush in the above example.
+Control surface hinges should be care- 
+fully watched for wear. 
+Cleanliness and 
+proper lubrication will delay wear in these 
+parts, but when they do become worn they 
+are very simple and cheap to replace with 
+new items. It is usually a waste of time to 
+ream and fit over-size pins. One point is 
+very important. This is that at least one 
+side of the hinge must be positively pre- 
+vented from twisting round on its bolt in 
+the spar. If this were to happen, so that an 
+elevator hinge, for example, were to twist so 
+that the axis of the hinge pin became 
+vertical instead of horizontal, the control 
+surface would lock solid. This would be 
+unfunny in the extreme. The usual way of 
+securing the hinge against rotation is to fit 
+two small wood-screws through a plate 
+which is attached under the head of the 
+forked eyebolt. 
+These screws are driven 
+into the spar, and the hinge cannot then 
+turn in the spar without shearing these 
+screws. In consequence, these screws are 
+very important items and must never be 
+omitted.
+-17-
+
+--- PAGE 25 ---

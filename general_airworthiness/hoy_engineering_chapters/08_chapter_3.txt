@@ -1,0 +1,158 @@
+# Chapter 3
+
+Fuselage, Wings and Tail Surfaces
+This section covers Inspection, Cleaning and Waxing of the glider. Although broken down
+into Fuselage, Wings and Tail Surfaces in an earlier document we will deal with it under
+‘Functions’.
+Section 1
+Inspection
+Inspection of the airframe, and not considering motor gliders and their engines at this point, is
+a crucial part of the Servicing being carried out and covers a wide spectrum of things to look
+at. These are some of the things that need inspecting and for what:
+
+External Structure:
+Looking for structural damage, cracks particularly around airbrake boxes, gel
+coat degradation by way of peeling, stress cracking and osmosis (little bubbles
+caused by water absorption).
+Fin and rear fuselage for external and internal damage.
+Fabric degradation.
+Wing tip skids and/or wheels for wear and lubrication of wheels.
+Main skids (on older gliders) and tail skids for wear.
+Ailerons for damage to outer trailing edges. (Some drag on the ground at full
+down deflection – check wing tip skid).
+Damaged or corroded metal fittings and tubular structures.
+Undercarriage, wheels and tyres checking for wear and security of up and
+down locking. (Dealt with later in more detail).
+
+Internal Structure:
+Looking for structural damage caused by clumsy boots and battery
+mishandling or possible white marks in glass structures showing damage not
+visible on the external surface.
+Disbonding of structural parts of the component – seat supports, seat backs,
+wing ribs and trailing edges or fuselage frames etc.
+Canopy and locking devices/hinges.
+Security of Instrument Panels, battery boxes and mountings for GPS/Tablet
+devices.
+Control Systems (covered in the next Chapter, Chapter 4).
+
+Wooden Structures:
+Wooden Gliders whether all wood or just the wings are subject to special BGA
+Inspection every three years, see the latest issue for full details.
+
+Special Inspections:
+Airworthiness Directives from the CAA and/or EASA.
+Technical Notices from the Manufacturer.
+Service Bulletins from the Manufacturer.
+
+--- PAGE 38 ---
+33
+There are specific special inspections listed in the BGA Inspections List
+covering things from gas struts, seat trim and colour coding of control grips
+and their security.
+
+Play in Wing and Tailplane Attachments:
+Because the wings and tailplane are designed to be fitted and removed for
+flight or trailer storage they are usually held by and on ‘pins’ and bushes. Over
+time these inevitably wear and need rectification to reduce the play produced
+by the worn parts. The Maintenance Manual gives the amount of free play
+allowed in the system. The wings are usually given a fore and aft allowance at
+the wing tip and tailplanes normally an up/down allowance at the tip. Wear at
+the root end of the wing can be found by trying to lift the leading and trailing
+edges – gently! Bad wear can be seen by fractured wing tapes! This fracture of
+wing tapes indicates significant movement in flight. Fore and aft play in the
+wings is often reduced by fitting shim washers over the pins. Tailplane play
+generally requires oversize pins and reamed out bushes although sometimes
+rotating the locating pin 90º does the trick, (temporary measure). The same
+applies to up/down play at the wing root.
+In addition the wings should be subjected to a Frequency Check. This involves ‘bouncing’ the
+glider so that the wings oscillate up and down. This is achieved by raising and lowering the
+wing tip until the wings and the up/down movement being imparted are ‘in sync’. The
+oscillations are then at the natural frequency of wing deflection. The frequency is then
+measured by counting the number of oscillations per minute, that figure is then recorded for
+historical information. I don’t think there is a specific place for it but maybe an additional
+entry in the control deflections sheet. Generally if one refers back to the previous frequency
+check the result should be much the same. A different frequency may mean hidden spar
+damage – go and investigate.
+To inspect the rear fuselage, fin and rudder the rudder needs to be removed for access.
+Generally removal of the rudder is quite quick and simple. Usually just disconnect the control
+cables, remove the retaining bolt at the bottom and lift off. Grob gliders are somewhat
+different as the side hinge (in some cases) needs to be undone and the operating rod
+disconnected before the rudder can be removed from the airframe. (See glider Maintenance
+Manuals for details). Once off the airframe the rudder can be inspected, look for security of
+any lead mass balance weights, physical damage, paint cracks leading to fabric damage if
+fabric covered or grp cracks on the trailing edge where folks grab hold and squeeze it and
+damage beneath the rudder. The hinge bearings need inspecting and they come in various
+types:
+
+Ball Race
+
+Plain Spherical Bearings.(DG gliders now have a large diameter washer below the
+bearing to prevent rudder loss should the bearing migrate from its housing).
+
+Bush Type. Note that bearings of the bush type have the bush very slightly longer than
+the retaining tube structure. Check that this is so. Brass bushes particularly in
+Schleicher gliders get shortened in use by over tightening the hinge bolt/nut. This can
+produce a burr that makes extraction of the bush difficult. Worse still is that if the
+hinge bolt is tightened right up the hinge effectively seizes up making the control
+surface stiff if not impossible to operate. The bush should be clamped by the rudder
+
+--- PAGE 39 ---
+34
+hinge half and be free to rotate within its supporting tube. Following installation there
+should be a very small amount of vertical movement in the hinge.
+With the rudder removed there is generally access to the rear fuselage past the fin stern post
+allowing inspection to take place. Check the bonding and security of the fin stern post and the
+rudder hinges. Rudder hinges, top and bottom, can and do crack occasionally so have a good
+look.
+Note here about removing and refitting the rudder. If the rudder is cable operated and the
+cables come directly from the rudder pedals, put a strop around both left and right pedals and
+pull them backwards and tie them there – it takes the tension load out of the cables at the
+rudder end. This action prevents the cable whipping back into the fuselage and refitting a
+slack cable is a lot easier. Use a steel hook to retrieve cable ends when reconnecting the
+cables.
+Section 2
+Cleaning and Waxing:
+In theory the glider should be presented to the Inspector in a clean condition. Most gliders are
+cleanish but the dirty areas are usually the undercarriage bay/box, fuselage behind wheels and
+areas where self-adhesive tape has been applied either as wing tape or control gap sealing
+tape.
+Mud and grot in the wheel bay can be scraped out, tape adhesive residue needs solvents. That
+was covered previously, Upol Degreasant or thinners/Acetone if something stronger is
+needed.
+Gel coats can be brightened up by Hard Waxing, gel coats not paint. Hard waxing is a process
+using a power wheel mop and a block of wax containing fine abrasive particles. With the mop
+spinning the hard wax is applied to it and then onto the structure. This process removes a fine
+layer of gel coat that has been oxidised and faded to ‘off-white’. The process does not
+necessarily produce a good shine although different grades of hard wax (with abrasive
+content) are available and can polish to a reasonable finish. It is hard work and unless the gel
+coat surface is in need of abrasive treatment it is best left well alone. Do not let the mop
+work in one place as the friction will cause heat damage to the structure.
+There are several grades of liquid polishes by Farecla applied on a foam pad and polished off
+using a sheepskin pad. These are usually more than adequate to shine up faded gel coats and
+can be used carefully on painted surfaces.
+Following a machine polish a wax finish can be applied to most glider wings – not Pik wings
+though! Check manuals to see if a wax finish is OK. Any wax applied must be silicon free for
+reasons previously explained – it can interfere with repair work. It is not recommended to
+apply a wax polish to fabric covered surfaces unless the paint is so thick that the weave of the
+cloth has disappeared. If the weave pattern is visible, wax will lodge in the weave and be
+extremely difficult to remove and it will detract from the paint finish. Also, applying pressure
+to unsupported fabric whilst polishing may stretch the fabric removing the tautness.
+Canopies need careful cleaning and polishing. If grubby remove it (if not already off to check
+the jettison system) and wash with lots of clean water and do not rub with a hard cloth or
+
+--- PAGE 40 ---
+35
+sponge. And Ladies, please remove your diamond rings - they scratch grooves even in your
+car windscreen! Rubbing with a dry cloth can also impart very fine scratches which can catch
+sunlight and make it impossible to see out of the cockpit.
+There are a few good quality polishes for Perspex on the market, use them for final polishing.
+If a scratch is to be removed you may need to use an abrasive cloth such as Micro Mesh.
+Micro Mesh comes in small kit form or from the right source on a roll. The kit has a few
+small pieces of abrasive cloth of different grades and a liquid polish and cotton cloth. Follow
+the instructions and fine or shallow scratches can be removed. Deep scratches are a different
+matter. Too much rubbing back of a deep scratch will almost certainly leave a depression
+around where it was and the edges of that hollow will cause visual distortion. Sometimes
+better to leave a scratch rather than suffer the inevitable distortion.
+
+--- PAGE 41 ---
+36

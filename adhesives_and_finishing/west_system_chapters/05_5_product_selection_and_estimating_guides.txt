@@ -1,0 +1,302 @@
+# 5.	 PRODUCT SELECTION AND ESTIMATING 
+GUIDES
+
+Hardener Selection Guide
+Select a hardener for its intended use and for the cure speed best suited for your 
+job in the temperature range in which you are working
+Hardener
+Resin/Hardener Use
+Hardener Temperature Range (°C)
+Room Temp
+5°    10°    15°    20°    25°    30°    35°
+Gel Time
+at (25°C)
+(60g mass)
+Open Time
+at (21°C)
+(Thin film)
+Cure to solid 
+at (21°C)
+(Thin film)
+205
+206
+207
+209
+Fast cure—General bonding, 
+fabric application and barrier 
+coating
+Slow cure—General bonding, 
+fabric application and barrier 
+coating
+Special coating—Fabric 
+application and coating for a 
+natural wood finish
+Extra Slow cure—General 
+bonding, fabric application, 
+barrier coating
+10-15 
+mins
+20-30 
+min
+20-30 
+mins
+50-70 
+mins
+60-70 
+mins
+90-110 
+mins
+85-110 
+mins
+200-260 
+mins
+5-7 
+hours
+9-12 
+hours
+9-12 
+hours
+20-24 
+hours
+Mini Pump 
+Required
+301-5 A,B 
+or C
+301-5 A,B 
+or C
+301-3 A,B 
+or C
+301-3 A,B 
+or C
+Cure Speeds at room tempurature*
+*Note: Epoxy cures faster in warmer temperatures and in thicker applications.  Epoxy cures slower in 
+cooler temperatures and in thinner applications.
+Filler Selection Guide
+Uses
+Applications - desired characteristics
+Thickness of Resin/Hardener/Filler mixes.
+Adhesive Fillers
+High density
+High strength
+Fairing Fillers 
+Lowest density
+Easiest sanding
+404
+406
+403
+402
+405
+407
+409
+410
+Small Glassfibre repairs (Peanut Butter 
+Consistency) 
+****
+Bonding Hardware (Mayonnaise Consistency) 
+- Increased fastener interface and hardware load 
+capability - maximum strength
+****
+***
+***
+**
+General Bonding (Mayonnaise Consistency) 
+- Join parts with epoxy thickened to create a 
+structural gap filler - strength/gap filling
+***
+***
+***
+**
+*
+Bonding with Fillets (Peanut Butter Consistency) 
+- Increase joint bonding area and create a 
+structural brace between parts - smoothness/
+strength
+**
+****
+**
+***
+***
+Laminating (Ketchup Consistency) - bond layers 
+of wood strips, veneers, planks, sheets and cores 
+- gap filling strength
+**
+***
+****
+**
+**
+Fairing (Peanut Butter Consistency) - Fill low 
+areas and voids with an easily shaped and sanded 
+surface filler/fairing compound - sandability/gap 
+filling
+***
+****
+****
+Filler suitability for various uses: **** = excellent, *** = very good, ** = good, * = fair, (no stars) = not recommended.
+Selecting Fillers
+As a rule, use higher-density fillers when bonding higher-density materials such as 
+hardwoods and metals.  Any of the adhesive fillers are suitable for most bonding 
+situations.  The choice of a filler for general use may be based on the handling 
+characteristics prefered.  Fillers may also be blended to create mixtures
+
+--- PAGE 37 ---
+User Manual 35
+WEST SYSTEM User Manual
+Filler Characteristics Guide
+GENERAL 
+CHARACTERISTICS
+FILLER
+402
+403
+404
+405
+406
+407
+409
+410
+Mixing (Easiest = 5)
+3
+5
+2
+4
+3
+2
+2
+4
+Texture (Smoothest = 5)
+1
+1
+2
+3
+5
+4
+4
+4
+Strength (Strongest = 5)
+4
+4
+5
+4
+4
+2
+2
+1
+Weight (Lightest = 5)
+2
+3
+1
+3
+3
+4
+4
+5
+Sanding (Easiest = 5)
+2
+2
+1
+2
+2
+4
+4
+5
+Filler suitability for various uses: 5 = excellent, 4 = very good, 3 = good, 2 = fair, 1 = poor
+Filler Estimation Guide
+FILLER
+GENERAL CHARACTERISTICS
+KETCHUP
+MAYONNAISE
+PEANUT 
+BUTTER
+402 Milled Glass Fibre Blend
+N/A
+N/A
+25-30%
+403 Microfibres Adhesive Filler
+4%
+7%
+16%
+404 High-Density Filler
+35%
+45%
+60%
+405 Filleting Blend
+15%
+20%
+25%
+406 Colloidal Silica
+3%
+5%
+8%
+407 Low-Density Filler
+20%
+30%
+35-40%
+409 Microsphere Blend
+11%
+16%
+25-30%
+410 Microlight
+7%
+13%
+16%
+The table above shows approximate percentages by weight of filler required to 
+be added to mixed epoxy to product a ‘Ketchup’, ‘Mayonnaise’ or ‘Peanut Butter’ 
+consistency for the various filler products.
+Estimating coating coverage of Mixed WEST SYSTEM Epoxy
+1.0 Kg of Mixed 
+Epoxy
+Saturation Coat over a 
+Porous Surface at 25°C
+Build-up Coat over a Non-
+Porous Surface at 25°C
+105 Resin with 205 or 
+206 Hardener
+6.5 - 7.5m2
+8.5 - 9.5m2
+105 Resin with 207 or 
+209 Hardener
+7.0 - 8.0m2
+9.0 - 10.0m2
+Adding 
+fillers 
+or wetting out 
+fabrics 
+will 
+decrease these 
+coverages
+The 
+table 
+gives 
+the 
+approximate 
+quantity 
+of 
+mixed epoxy required to 
+coat a 1m2  area.
+Please 
+note 
+the 
+epoxy 
+fairing mixes will provide 
+an epoxy/filler thickness of 
+approximately 3mm.
+  
+Epoxy Mix
+ Mixed Weight required to 
+coat 1m2 at room temperature
+105 Resin with 205 or 206 
+Hardener
+135g
+105 Resin with 207 or 209 
+Hardener
+125g
+105 Resin with 205 Hardener and 
+40% by weight of 407 Low-Density
+1.8kg = 3mm Thick Layer
+105 Resin with 205 Hardener and 
+16% by weight of 410 Microlight
+1.5kg = 3mm Thick Layer
+ 
+
+--- PAGE 38 ---
+User Manual 36
+WEST SYSTEM User Manual

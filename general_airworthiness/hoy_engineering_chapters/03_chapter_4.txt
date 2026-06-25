@@ -1,0 +1,40 @@
+# Chapter 4
+
+Flight Controls and Flight Control Systems.
+(AC43.13-1b Section 8; AMP Leaflet 4-7)
+(BGA Inspection 056-08-2014 Issue 1)
+Sections:
+1
+Colour Coding of Controls in the Cockpit (056-08-2014 Issue 1)
+36
+2
+Control Surfaces, Removal, Refitting, Weight and Balance (Glider
+Maintenance Manual)
+36
+3
+Control cables, Construction and Manufacture
+38
+4
+Inspection of Cables (AMP Lft 4-7)
+40
+5
+Tensioning and Locking of Tensioning Devices
+41
+6
+Adjusting Control Systems
+43
+7
+Inspection of Control Systems, Rods, Bearings and Locking
+46
+8
+Locking Devices, How and Why
+48
+9
+Gap Sealing
+51
+10
+Range of Movement Checks
+54
+11
+Independent or duplicate Inspections
+55

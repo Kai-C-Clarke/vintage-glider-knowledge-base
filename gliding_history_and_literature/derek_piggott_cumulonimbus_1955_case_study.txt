@@ -1,0 +1,132 @@
+# Derek Piggott — Cumulonimbus Encounter, Lasham, 14 July 1955
+## A Case Study in Static Discharge and Lightning Strike on a Wooden Glider
+## Compiled June 2026
+## Sources: Royal Meteorological Society report (Piggott, 1955); SSA obituary; press accounts
+## Analysis: Google Gemini AI, June 2026, reviewed by Jon Stiles BGA Inspector I/C1408
+
+---
+
+## Overview
+
+On 14 July 1955, Derek Piggott — gliding instructor, military pilot, and future author of
+numerous gliding textbooks — flew a Slingsby Skylark 2 directly into a massive cumulonimbus
+cloud at Lasham Airfield, Hampshire, in an attempt on the British altitude record.
+
+He reached approximately 22,800 feet. He was struck by lightning four or five times.
+He received electric shocks he described as feeling like "holding on to the 230-volt mains
+and being unable to let go." He had no oxygen. He survived, landed safely, and lived to
+the age of 96.
+
+His own account, published in the Royal Meteorological Society journal (1955), remains
+one of the most vivid primary source descriptions of what happens to a wooden glider —
+and its pilot — inside a severe thunderstorm.
+
+---
+
+## The Aircraft
+
+**Type:** Slingsby Skylark 2
+**Structure:** Wood and fabric — spruce primary structure, plywood skinning, fabric covering
+**Electrical systems:** None
+**Lightning protection:** None
+**Bonding network:** None
+
+The Skylark 2 had internal metal control cables, rods, and fittings — physically isolated
+from each other by large expanses of wood and fabric, with no intentional electrical
+continuity between them. This is the standard configuration of vintage wooden gliders
+of the period (see Archive note: Electrical Bonding in Vintage Wooden Gliders).
+
+---
+
+## What Happened — The Electrical Sequence
+
+As Piggott was violently carried upward inside the storm, static charge accumulated on
+the aircraft's metal control components. With no bonding network to provide a continuous
+discharge path, potential built up until it arced:
+
+**Electric shocks through the control column:**
+Piggott reported receiving shocks through the control stick that grew progressively more
+violent, eventually feeling "like holding on to the 230-volt mains and being unable to let go."
+This is the classic symptom of an unbonded metal control circuit accumulating triboelectric
+charge with no path to dissipate it.
+
+**Electrical arc in the cockpit:**
+A blue electrical arc approximately one inch wide shot across the inside of the nose cone
+near his rudder pedals, shocking his feet.
+
+**Direct lightning strikes:**
+The glider was struck directly by lightning four or five times around the cockpit walls.
+The wooden structure absorbed and survived these strikes — the low conductivity of the
+wood prevented the instantaneous explosive vaporisation that would occur in a drier
+or more resistive structure, and there was no fuel to ignite.
+
+---
+
+## Compounding Factors
+
+**Ice on control surfaces:**
+The moisture in the storm froze onto the wooden wing profiles. Ice accumulated to the
+point where control surfaces jammed mechanically. Piggott had to physically break the
+ice by muscling the controls to maintain directional control in severe turbulence.
+
+**Hypoxia:**
+At approximately 23,000 feet without supplemental oxygen, Piggott was operating in
+conditions that cause severe hypoxia — confusion, euphoria, impaired judgement.
+He later stated that the electric shocks became too violent to bear before hypoxia
+would have rendered him incapable of flying the aircraft.
+
+---
+
+## Why He Survived
+
+1. **Wood absorbed the lightning.** The moisture content of the wooden structure
+   provided a high-resistance path that dissipated the strike energy without
+   explosive vaporisation of the airframe.
+
+2. **No fuel.** No ignition source, no fuel — lightning cannot cause fire in a
+   pure wooden glider.
+
+3. **Exceptional skill.** Piggott was a highly experienced military pilot and instructor.
+   He maintained aircraft control through violent turbulence, ice-jammed controls,
+   hypoxia, and repeated electric shocks simultaneously.
+
+4. **Luck.** The lightning struck around rather than directly through the cockpit.
+
+---
+
+## Lessons for the Archive
+
+This incident illustrates in the most vivid terms the mechanisms described in the
+Archive note on electrical bonding in vintage wooden gliders:
+
+- Unbonded metal control circuits will accumulate static charge in high-static environments
+- The charge will arc when potential is sufficient — through the pilot if the pilot is
+  in the circuit
+- Wood's natural moisture content provides passive (unintentional) static dissipation
+  under normal conditions, but is overwhelmed inside a cumulonimbus
+- Vintage wooden gliders have no lightning protection and should never be flown near
+  active convective cloud
+
+If a vintage glider is retrofitted with radio or transponder equipment, the installation
+of localised bonding becomes important — see Archive note on electrical bonding and
+AC43.13-1B Chapter 11 Section 15.
+
+---
+
+## Primary Source
+
+Piggott, D. (1955). Flight in a Cumulonimbus Cloud.
+Royal Meteorological Society journal.
+https://rmets.onlinelibrary.wiley.com/doi/pdfdirect/10.1002/j.1477-8696.1955.tb00220.x
+
+## Further Reading
+
+- SSA obituary: https://www.ssa.org/derek-piggott/
+- The Telegraph obituary (19 March 2019)
+- Archive note: Electrical Bonding in Vintage Wooden Gliders — Why It Is Absent (2026)
+- Archive: AC43.13-1B Chapter 11 — Electrical Systems, Grounding and Bonding
+
+---
+
+*Case study compiled from published sources and AI analysis (Google Gemini, June 2026),
+reviewed by Jon Stiles BGA Inspector I/C1408. Not approved maintenance data.*

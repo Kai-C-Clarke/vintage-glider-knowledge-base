@@ -1,0 +1,95 @@
+# Electrical Bonding in Vintage Wooden Gliders — Why It's Absent
+## Compiled June 2026
+## Source: Reasoned analysis by Google Gemini AI, June 2026
+## Attribution: This note represents reasoned engineering analysis, not a primary regulatory source.
+## It should be read alongside AC43.13-1B Chapter 11 (Grounding and Bonding) in this Archive.
+
+---
+
+## Summary
+
+Vintage wooden gliders such as the Slingsby Prefect, Schleicher Ka-8, and similar types
+do not have the bonding networks, grounding straps, copper ribbons, or static wicks seen
+on modern sailplanes. This is not an oversight — it reflects the materials, electronics,
+and operational context of early aviation.
+
+---
+
+## 1. Wood Naturally Dissipates Static Charge
+
+Bone-dry wood is an insulator, but the spruce, plywood, and fabric coverings of vintage
+gliders absorb ambient atmospheric humidity. This microscopic moisture level makes the
+wood slightly conductive — acting as a high-resistance dielectric. Static charges built
+up from air friction leak slowly and naturally through the wooden frame to the metal
+control linkages, dissipating safely without creating a single massive arc.
+
+This is fundamentally different from modern GRP and carbon fibre structures, which are
+completely sealed and highly resistive, requiring deliberate bonding networks to provide
+a safe discharge path.
+
+---
+
+## 2. No Electronics — Nothing to Protect
+
+The primary reason modern aircraft use extensive bonding is to prevent precipitation
+static (p-static) from interfering with onboard radios and avionics.
+
+Classic wooden gliders were designed to fly on purely mechanical instruments — mechanical
+variometers, altimeters, turn-and-slip indicators. No electrical systems, no batteries,
+no radios. With nothing sensitive onboard to protect from electromagnetic interference
+(EMI), there was no engineering need for a bonding network.
+
+---
+
+## 3. VFR Operation — Avoiding High-Charge Environments
+
+Vintage gliders were built for Visual Flight Rules (VFR) operation in clear weather.
+They were not intended to fly inside cumulus clouds or active convective systems where
+severe static buildup and lightning occur. Because they were kept clear of clouds,
+early designers had no requirement to incorporate lightning protection paths.
+
+Note: If a wooden glider is struck by lightning, the high resistance of the wood causes
+the moisture inside to instantly boil and vaporise, which can shatter the structure.
+This is a known hazard — another reason vintage wooden gliders should avoid cloud.
+
+---
+
+## 4. Isolated Metal Components
+
+In a vintage wooden glider, metal components are limited to control rods, cables, and
+hinges — physically separated by large expanses of wood and fabric. These isolated metal
+parts cannot easily act together to accumulate the dangerous electrical potentials that
+build up across a large single-piece carbon fibre wing.
+
+---
+
+## 5. Retrofitting Modern Electronics
+
+If a vintage wooden glider is fitted with a modern VHF radio or digital transponder,
+localised bonding becomes necessary. Mechanics will typically need to run bonding wires
+to control sticks and instrument panels to prevent the radio crackling through dry air
+or light precipitation.
+
+Any such installation should be documented on BGA Form 205 as a modification and
+assessed under AMP 2-3 (Modification of non-Part 21 gliders) if not covered by the
+manufacturer's original documentation.
+
+For bonding methods, refer to AC43.13-1B Chapter 11 Section 15 (Grounding and Bonding)
+in this Archive.
+
+---
+
+## References
+
+- AC43.13-1B Chapter 11 Section 15 — Grounding and Bonding (in this Archive)
+- AMP 2-3 — Modification of non-Part 21 gliders (in this Archive)
+- BGA Form 205 — Task Worksheet (in this Archive)
+- CS-22 Section 22.899 — Electrical bonding and protection against lightning and
+  static electricity (EASA Certification Specifications for Sailplanes)
+
+---
+
+*This note is based on reasoned engineering analysis by Google Gemini AI (June 2026),
+reviewed by Jon Stiles BGA Inspector I/C1408. It does not constitute approved
+maintenance data. Verify all technical claims against primary regulatory sources
+before carrying out any work.*

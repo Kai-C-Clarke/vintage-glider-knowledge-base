@@ -1,0 +1,1821 @@
+uflage, Quick-drying.
+AN-F-6a.
+...
+Fir; Aircraft Noble.
+AN-F-7a
+Fir: Aircraft Douglas.
+AN-G-8__
+Glue; Cold-setting Resin.
+AN-G-20
+Glue; Application of Cold-setting Resin.
+AN-H-4a
+Hemlock; Aircraft Western.
+AN-I-9
+Insignia; National Star.
+AN-L-18
+Lumber; Aircraft Propeller.
+AN-L-21
+Lacquer; Cellulose-Nitrate, Camouflage.
+AN-P-16
+Pine; Aircraft Eastern White.
+AN-P-17a
+Poplar; Aircraft Yellow.
+AN-P-18
+Pine; Aircraft Western White.
+AN-P-19
+Pine; Aircraft Sugar.
+AN--P-31...
+Paint; Blended Type, Coal-tar Pitch-base, Bituminous,
+AN-P-43
+"...
+Plywood; Aircraft, Molded (Fluid Pressure).
+AN-S-6a
+Spruce; Aircraft.
+AN-S-17
+Sealer; Liquid Wood.
+AN-W-2a
+.
+. Wood; Method for Kiln Drying.
+AN-W-3
+Wood; Determination of Moisture Content of.
+AN-W-4
+Wood; Determination of Specific Gravity of.
+AN-NN-P-511b
+Plywood and Veneer; Aircraft Flat Panel.
+AN-TT-A-461
+Aluminum Pigment Paste; Aircraft.
+AN-TT-D-514
+.
+Dope; Cellulose-Nitrate, Clear.
+AN-TT-D-551
+Dope; Cellulose-Nitrate, Clear (For) Aluminum-Dope.
+AN-TT-D-554
+.
+Dope; Cellulose-Nitrate, Pigmented.
+AN-TT-L-51
+Lacquer; Cellulose-Nitrate.
+AN-TT-T-256
+Thinner; Cellulose-Nitrate-Dope-and-Lacquer.
+AN-TT-V-116
+.
+Varnish; Spar, Glycervl-Phthalate.
+AN-TT-V-118
+Varnish; Spar, Phenol-Formaldehyde.
+AN-VV-N-96
+Naphtha, Petroleum Aromatic.
+AN-P-15a
+Propellers and Test Clubs; Fixed-Pitch Wood.
+U. S. Army Specification
+(Obtainable from the
+Material Command, Army Air Forces, Wright
+Field, Dayton.
+Ohio.)
+3-152-A
+Glue; Casein (Water-Resistant).
+343
+
+--- PAGE 350 ---
+344
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Army Air Forces Specifications
+(Obtainable from the
+Materiel Command, Army Air Forces, Wright
+Field, Dayton, Ohio.)
+14115
+Surfacer; Aircraft (for wood).
+98-14024
+Application of Certified
+Casein Water-Resistant Clue.
+14122
+.
+Glue; Water and Mold-Resistant Casein.
+Army Ordnance
+Specification
+(Obtainable from Chief of Ordnance, Washington, D. C.)
+HOMB ES NO. 680a
+.
+General Specification, Protective Coating Materials.
+Navy Department
+Specification
+(Obtainable from the Bureau
+of
+Supplies and Accounts, Navy
+Department,
+Washington,
+D. C.)
+52G8c
+Glue; Casein, Water- Resistant.
+Navy Bureau of Ships Specification
+(Obtainable from the Bureau
+of
+Supplies and Accounts,
+Navy Department,
+Washington,
+D. C.)
+52W5 (INT)
+Wood Preservative; Water- Repellant, Toxic.
+Federal Standard Stock Catalogue Specifications
+(For
+sale by the Superintendent
+of Documents, Government
+Printing
+Office, Washington,
+D. C.
+An Alphabetical Index of Federal Specifications
+is available from the Superintendent of
+Documents
+at a
+price
+of
+5
+cents.)
+CG-456
+Glue; Casein Type (Water Resistant).
+TT-F-336a
+.
+Filler; Wood, Paste.
+TT-T-291
+.
+Thinner, paint, volatile mineral spirits.
+6.1. GLOSSARY OF TERMS RELATING TO WOOD.
+Air dried.
+(See Seasoning.)
+Ann ual growth ring.
+(See Ring, annual growth.)
+Bark j)ocket: An opening between annual growth layers that contains bark.
+Bark
+pockets appear as dark streaks on radial surfaces and as rounded areas on tan-
+gential surfaces.
+Bird's-eye: A small central spot with the wood fibers arranged around
+it in the form
+of an ellipse so as to give the appearance of an eye.
+Blemish: Anything, not necessarily a defect, marring the appearance of wood.
+Blue stain.
+(See Stain, blue.)
+Boards.
+(See Lumber.)
+Bow: That distortion of a board in which the face is convex or concave longitudinally.
+Boxed heart: Hie term used when the pith falls entirely within the four faces any-
+where in the length of a piece.
+Brashness: A condition of wood characterized by low resistance to shock and by
+abrupt failure across the grain without splintering.
+Broad-leaved trees.
+(See Hardwoods.)
+Burl: This term has the following separate and distinct meanings:
+1. A large wartlike excrescence on the side of a tree.
+It contains a large
+number of buds which rarely develop.
+Such burls are the source of
+the highly-figured burl veneers and burl wood used for purely orna-
+mental purposes.
+2. A swirl or twist
+in the grain of the wood which usually occurs near a
+knot but does not contain a knot.
+This definition has long been used
+in the grading of hardwood lumber.
+3. A burl in veneer is defined, for aircraft-inspection purposes, as localized
+severe distortion of the grain, usually rounded
+in
+outline, from one-
+
+--- PAGE 351 ---
+GLOSSARY
+345
+eighth of an inch to several inches in diameter, due to one or a cluster
+of
+small,
+contiguous,
+conical protuberances, each
+usually having a
+core, or pith, but no appreciable amount of end grain
+(in tangential
+view) surrounding it, as distinguished, on the one hand, from cross
+gram due
+to rounded protuberances with
+or without curly grain, or
+crook,
+and, on
+the other hand, from knots with distinct end grain in
+several to many annual rings entirely surrounding a core, or pith,
+all
+as indicated by
+the configuration of the annual rings on the surface
+of the veneer or the degree and position of cross grain.
+Cant: A cant is a thick piece of lumber with or without squared edges sawed from a
+flitch or log and intended for remanufacture into lumber.
+Cell: A general term
+for the minute units of wood structure.
+It includes
+fibers,
+vessel segments, and other elements of diverse structure and functions.
+Cellulose: The carbohydrate
+that
+is the principal constituent
+of wood and forms
+the framework of the cells.
+Check: A lengthwise separation of the wood, the greater part of which occurs across
+the rings of annual growth.
+Checks are usually due to nonuniform shrinkage
+in drying.
+Close-grained wood.
+(See Grain.)
+Coarse-grained wood.
+(See Grain.)
+Collapse: The flattening of single cells or rows of cells in heartwood during the dry-
+ing or pressure treatment of wood, characterized externally by a caved-in or
+corrugated appearance.
+Compression failure: Deformations or buckling of the wood fibers resulting from se-
+vere stress in compression along the grain.
+In surface lumber they appear as
+fine wrinkles across the face of the piece.
+Compression wood: Abnormal wood that often forms on the lower side of branches
+and of leaning trunks of softwood
+trees.
+Compression wood
+is identified by
+its relatively wide annual rings, usually eccentric, and its relatively large amount
+of summerwood, usually more than 50 percent of the width of the annual rings
+in which
+it occurs.
+Compression wood shrinks excessively lengthwise as com-
+pared with normal wood.
+Conifer.
+(See Softwoods.)
+Crook: That distortion
+of a board
+in which the edge
+is convex or concave longi-
+tudinally.
+Crossband: To place the grain of layers of wood at right angles in order to minimize
+shrinking and
+swelling and consequent warping;
+also
+the layer of veneer at
+right angles to the face plies.
+Cross break: A separation of the wood cells across the grain.
+Such breaks may be
+due
+to
+internal
+stresses resulting from nonuniform longitudinal shrinkage or
+to
+external
+forces.
+Cross grain.
+(See Grain.)
+Cup: The distortion of a board in which the face is convex or concave transversely.
+Decay: Disintegration
+of wood substance through
+the
+action
+of wood-destroying
+fungi.
+Defect: Any irregularity occurring in or on wood that may lower its strength.
+Density: The mass
+of
+a body
+per
+unit volume.
+When
+expressed
+in
+the metric
+system, it is numerically equal to the specific gravity of the same substance.
+Diagonal grain.
+(See Grain.)
+Diamond: A distortion in drying that causes a piece of wood originally rectangular
+in cross section to become diamond-shaped.
+Diffuse-porous woods: Hardwoods
+in which
+the
+pores
+are
+practically
+uniform
+in
+size throughout each annual ring, or decrease slightly toward the outer border
+of the ring.
+
+--- PAGE 352 ---
+346
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Dimension.
+(See Lumber.)
+Dimension stock: Squares or flat stock usually
+in pieces under the minimum
+sizes
+admitted in standard lumber grades, rough or dressed, green or dry, cut to the
+approximate
+dimensions
+required
+for
+the
+various products
+of woodworking
+factories.
+Dote: "Dote," "doze," and "rot" are synonymous with "decay" and are any form
+of decay which may be evident as either a discoloration or a softening of the
+wood.
+Dry rot: A term loosely applied to many types of decay but especially to that which,
+when in an advanced stage, permits the wood
+to be
+easily crushed
+to a dry
+powder.
+The term
+is actually a misnomer for any decay since all fungi require
+considerable moisture for growth.
+Durability:
+A
+general term
+for permanence
+or
+lastingness.
+Frequently used
+to
+refer to the degree of resistance of a species or of an individual piece of wood to
+attack by wood-destroying fungi under conditions that favor such attack.
+In
+this connection the term "resistance to decay"
+is more specific.
+Edge grain.
+(See Grain.)
+Encased knot.
+(See Knot.)
+Extractives: Substances in wood, not an integral part of the cellular structure, that
+can be dissolved out with hot or cold water, ether, benzene, or other relatively
+inert
+solvents.
+Equilibrium
+moisture
+content: The moisture content
+at which wood neither gains
+nor loses moisture when surrounded by
+air at
+a given relative humidity and
+temperature.
+Factory and shop lumber.
+(See Lumber.)
+Fiber: A wood fiber
+is a comparatively long
+(one twenty-fifth or less to one-third
+inch), narrow, tapering cell closed at both ends.
+Fiber-saturation point: The stage in the drying or in the wetting of wood at which the
+cell walls are saturated and the cell cavities are free from water.
+Figure: The pattern produced
+in a wood surface by
+irregular coloration and by
+annual growth
+rings,
+rays, knots, and such deviations from regular grain as
+interlocked and wavy grain.
+Flat grain.
+(See Grain.)
+Flitch: A flitch
+is a portion of a log sawed on two or more sides and intended
+for
+remanufact ure into lumber or sliced or sawed veneer.
+The term is also applied
+to the resulting sheets of veneer laid together in sequence of cutting.
+Grade: The designation of the quality of a manufactured piece of wood.
+Grain: The direction, size, arrangement, appearance, or quality of the fibers in wood.
+Close-grained wood: Wood with narrow and inconspicuous annual
+rings.
+The term
+is sometimes used
+to
+designate wood having
+small and
+closely spaced
+pores, but
+in
+this sense
+the term
+"fine
+textured"
+is
+more often used.
+Coarse-grained
+wood: Wood
+with
+wide
+and
+conspicuous
+annual
+rings;
+that
+is, rings in which there is considerable difference between spring-
+wood and summerwood.
+The term
+is sometimes used
+to designate
+wood with large pores, such as oak, ash, chestnut, and walnut, but in
+this sense the term "coarse textured"
+is more often used.
+Cross grain: Grain not parallel with the axis of a piece.
+It may be either
+diagonal or spiral grain, or a combination of the two.
+Diagonal grain: Annual rings at an angle with the axis of a piece as a result
+of sawing at an angle with the bark of the tree.
+Edge grain: Annual rings that form an angle of 45° or more with the wider
+surfaces of the piece.
+
+--- PAGE 353 ---
+GLOSSARY
+347
+Flat grain: Annual rings that form an angle of less than 45° with the wider
+surfaces of the piece.
+Interlocked grain wood: Wood in which the fibers are inclined in one direc-
+tion in
+a number
+of
+rings
+of annual growth, then gradually reverse
+and are inclined in an opposite direction in succeeding growth rings,
+then reverse again.
+Open-grained
+wood: Common
+classification
+of
+painters
+for woods
+with
+large pores, such as oak, ash, chestnut, and walnut.
+Also known as
+"coarse textured."
+Plain-sawed: Another term for flat grain.
+Quarter-sawed: Another term for edge grain.
+Spiral grain: A type of growth in which the fibers take a spiral course about
+the bole of a tree instead
+of the normal vertical course.
+The
+spiral
+may extend light-handed or left-handed around the tree trunk.
+Vertical grain: Another term for edge grain.
+Wary-grained wood: Wood in which the fibers collectively take the form of
+waves or undulations.
+Green: Unseasoned, wet.
+Growth ring:
+(See Ring, annual growth.)
+Hardwoods: The botanical group of trees that are broadleaved.
+The term has no
+reference to the
+actual hardness
+of the wood.
+Angiosperms
+is
+the botanical
+name for hardwoods.
+Heart, Heartwood: The wood extending from the pith to the sapwood, the
+cells of
+which no longer participate in the life processes of the tree.
+Heartwood may be
+infiltrated with gums, resins, and other materials which usually make it darker
+and more decay-resistant than sapwood.
+Honeycomb: Checks, often not visible at the surface, that occur in the interior of a
+piece, usually along the wood rays.
+Interlocked-grain wood.
+(See Grain.)
+Kiln: A heated chamber for drying lumber.
+Compartment kiln: A dry kiln designed to keep the same temperature and
+relative humidity throughout at any given time.
+Progressive
+kiln: A dry kiln designed
+to provide drying conditions
+that
+increase in severity from entrance
+to exit.
+In
+it
+the unit
+charge
+is
+only a part of the total charge of lumber; a unit of perhaps four truck-
+loads is moved through the kiln in a chain of several units, from day
+to day, with a single unit leaving and another entering at one time.
+Kiln-dried.
+(See Seasoning.)
+Knot: That portion
+of
+a branch or limb that has become incorporated in the body
+of a tree.
+Decayed knot: A knot which, due to advanced decay,
+is not so hard as the
+surrounding wood.
+Encased knot: A knot whose rings of annual growth are not intergrown with
+those of the surrounding wood.
+Intergrown
+knot: A knot whose
+rings
+of
+annual growth
+are
+completely
+intergrown with those of the surrounding wood.
+Round knot: A knot whose sawn section is oval or circular.
+Sound knot: A knot which is solid across its face and which
+is as hard as
+the surrounding wood.
+Spike knot: A knot sawn in a lengthwise direction.
+Laminated toood: An assembly built up of plies or laminations
+of wood that have
+been joined either with glue or with mechanical fastenings.
+Distinguished from
+plywood by the fact that the grain of the wood
+is in the same direction in
+all
+plies.
+As
+used
+herein,
+"laminated"
+implied
+the
+use
+of
+glue
+as
+the
+joining
+medium.
+
+--- PAGE 354 ---
+348
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Lignin: A principal constituent
+of wood, second
+in quantity
+to
+cellulose.
+It
+in-
+crusts the cell walls and cements the cells together.
+Log: A section of the trunk of a tree in suitable length for sawing into commercial
+lumber.
+Lumber: The product of the saw and planing mill not further manufactured than
+by sawing, resawing, and passing lengthwise through a standard planing ma-
+chine, crosscutting to length and working.
+Lumber of thickness not in excess
+of one-quarter inch to be used for veneering is classified as veneer.
+Use Classification.
+Yard lumber: Lumber of
+all sizes and patterns which
+is intended for
+general building purposes. The grading of yard lumber is based on
+the intended use
+of the particular grade and
+is applied to each
+piece with reference to its size and length when graded, without
+consideration to further manufacture.
+Factory and shop lumber: Lumber intended
+to be cut up for use in
+further manufacture.
+It is graded on the basis of the percentage
+of the area which will produce a limited number of cuttings of a
+specified, or of a given minimum, size and quality.
+Structural lumber: Lumber that
+is
+2
+or more inches thick and 4
+or
+more inches wide, intended for use where working stresses are re-
+quired.
+The grading of structural lumber is based on the strength
+of the piece and the use of the entire piece.
+Size Classification.
+Strips: Yard lumber less than
+2 inches thick and
+less than 8 inches
+wide.
+Boards: Yard lumber less than 2 inches thick, 8 or more inches wide.
+Dimension: All yard lumber except boards, strips, and timbers; that
+is, yard lumber from 2 inches to but not including 5 inches thick,
+and of any width.
+Timbers: Lumber 5 or more inches in least dimension.
+Mineral
+streak: An accumulation
+of mineral matter appearing as darkened
+areas
+and
+usually
+associated with an injury
+of some
+kind.
+Their most frequent
+occurrence is in the maples, hickories, yellowpoplar, and basswood.
+Moisture content of wood: Weight of the water contained in the wood, expressed in
+percentage of the weight of the oven-dry wood.
+Moisture gradient: A condition of graduated moisture content between the successive
+layers of a material, such as wood, due to the losing or absorbing of moisture.
+During seasoning the gradations are between the moisture content of the rela-
+tively dry surface layers and the wet layers at the center of the piece.
+Open-grained wood.
+(See Grain.)
+Peck: Pockets or areas of disintegrated wood caused by advanced stages of localized
+decay
+in the living
+tree.
+It
+is usually
+associated with cypress and incense
+cedar.
+There
+is no further development of peck once the lumber
+is seasoned.
+Pitch pocket: An opening extending parallel to the annual rings of growth usually
+containing, or which has contained, pitch, either solid or liquid.
+Pith: The small soft core occurring in the structural center of a log.
+Pith fleck: A narrow streak resembling pith on the surface of a piece, usually brown-
+ish, up to several inches in length, resulting from the burrowing of larvae in
+the growing tissue of the tree.
+Plywood: An assembly made of three or more layers of veneer joined with glue and
+usually laid with the grain of adjoining plies at right angles.
+Almost always
+an odd number of plies are used to secure balance construction.
+Plain-sawed.
+(See Grain.)
+
+--- PAGE 355 ---
+GLOSSARY
+349
+Pocket rot: Advanced decay which appears in the form of a hole, pocket, or area of
+soft, rot usually surrounded by apparently sound wood.
+Pore.
+(See Vessel.)
+Quarter-sawed.
+(See Grain.)
+Radial: Coincident with a radius or radial plane from the axis of the tree or log to
+the circumference.
+Bate o1 growth: The rate at which a tree has laid on wood, measured radially in the
+trunk or
+in lumber cut from the trunk.
+The
+unit
+of measure in use
+is
+the
+number of annual growth rings per inch.
+Roys, wood: Strips of cells extending radially within a tree and varying in height
+from a few
+cells in some species to 4 inches or more in oak.
+The rays serve
+primarily to store food and transport
+it horizontally in the tree.
+Ring, annual growth: The growth layer put on in a single growth year.
+Ring-porous woods: A group
+of hardwoods
+in which
+the pores are comparatively
+large at the beginning of each annual ring and decrease
+in
+size more or less
+abruptly toward the outer portion of the
+ring, thus forming a distinct inner
+zone of pores known as the springwood and the outer zone with smaller pores
+known as the summerwood.
+Rot.
+(See Decay.)
+Rotary-cut veneer.
+(See Veneer.)
+Sap: All the fluids in a tree, special secretions and excretions, such as gum, excepted.
+Sapwood: The layers of wood next
+to the bark, usually lighter in color than the
+heartwood, one-half inch to 3 or more inches wide, that are actively involved in
+the life processes of the tree.
+Under most
+conditions sapwood is more suscep-
+tible to decay than heartwood.
+Sapwood
+is not essentially weaker or stronger
+than heartwood of the same species.
+Sawed veneer.
+(See Veneer.)
+Seasoning: Removing moisture from green wood in order to improve its serviceability.
+Air-dried or air seasoned: Dried by exposure to the
+air, usually in a yard,
+without artificial heat.
+Kiln-dried: Dried in a kiln with the use of artificial heat.
+Second growth: Timber that has grown after the removal by any means of
+all or a
+large portion of the previous stand.
+Shake: A separation along the grain, the greater part of which occurs between the
+rings of annual growth.
+Shop lumber.
+(See Lumber.)
+Sliced veneer.
+(See Veneer.)
+Sofhvoods: The botanical group of trees that have needle or scalelike leaves and are
+evergreen
+for the most part,
+cypress,
+larch, and tamarack being exceptions.
+The term has no reference to the actual hardness of the wood.
+Softwoods are
+often referred to as conifers, and botanically they are called gymnosperms.
+Specific gravity: The ratio of the weight of a body to the weight of an equal volume
+of water at some standard temperature.
+Spiral grain.
+(See Grain.)
+Split: A lengthwise separation of the wood, due to the tearing apart of the wood
+cells.
+It is caused by rough handling or other artificially induced stress.
+Springwood: The portion of the annual growth ring that
+is formed during the early
+part of the season's growth.
+It
+is usually less dense and weaker mechanically
+than summerwood.
+Stain, blue: A bluish or grayish discoloration of the sapwood caused by the growth
+of certain moldlike fungi on the surface and in the interior of the piece; made
+possible by the same conditions that favor the growth of other fungi.
+568338—44
+23
+
+--- PAGE 356 ---
+350
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Stain, brown: A rich brown to deep chocolate-brown discoloration of the sapwood
+of some pines, caused by a fungus that acts similarly to the blue-stain fungus.
+Stain, sap.
+(See Stain, blue.)
+Strength: The term in
+its broader sense embraces collectively
+all the properties of
+wood which enable it to resist different forces or loads.
+In
+its more restricted
+sense, strength may apply to any one of the mechanical properties, in which event
+the name of the property under consideration should be stated, thus strength in
+compression parallel to the grain, strength in bending, hardness, etc.
+Summerwood: Tbe portion of the annual growth ring that is formed during the latter
+part of the yearly growth period.
+It is usually more dense and stronger meehan-
+cally than springwood.
+Tangential:
+Strictly, coincident with a tangent at the circumference of a tree or log,
+or parallel to such a tangent.
+In practice, however,
+it often means, roughly,
+coincident with a growth ring.
+Texture: A term often used interchangeably with grain.
+(See Grain.)
+Twist: A distortion caused by the turning or winding of the edges of a board so that
+the four corners of any face are no longer in the same plane.
+Veneer: Thin sheets of wood.
+Rotary-cut veneer: Veneer cut in a continuous strip by rotating a log against
+the edge of a knife in a lathe.
+Sawed veneer: Veneer produced by sawing.
+Sliced veneer:
+Veneer that
+is sliced
+off by moving a
+log,
+bolt,
+or
+flitch
+against a large knife.
+Vertical grain.
+(See grain.)
+Vessels: Wood cells of comparatively large diameter which have open ends and are
+set one above the other, forming continuous tubes.
+The openings of the vessels
+on the surface of a piece of wood are usually referred to as pores.
+Virgin growth : The original growth of mature trees.
+Wane: Bark, or lack of wood or bark, from any cause, on edge or corner of a piece.
+Warp: Any variation from a true or plane surface.
+Warp includes bow, crook, cup,
+and twist, or any combination thereof.
+Wavy-grained wood.
+(See Grain.)
+Weathering: The mechanical
+or chemical
+disintegration and
+discoloration
+of
+the
+surface of wood that is caused by exposure to light, the action of dust and sand
+carried by winds, and the alternate shrinking and swelling of the surface fibers
+that come with the continual variation in moisture content brought by changes
+in the weather.
+Weathering does not include decay.
+Workability: The degree
+of ease and smoothness
+of cut
+obtainable with hand or
+machine tools.
+Working of wood: Change in the dimensions of a piece of wood with change in mois-
+t are content.
+Yard lumber.
+(See Lumber.)
+
+--- PAGE 357 ---
+6.2. INDEX
+Page
+Abrasion of propellers, protection against.
+340
+Acknowledgments
+1
+"African mahogany," identification of..
+23
+Aircraft finishing systems
+323
+Aircraft glues
+149
+Air-dried stock:
+circulation
+189
+effect of storage on defects
+190
+final conditioning of
+188
+piling
+189
+preparing for manufacture
+188
+storage
+189
+Air flues
+180
+Air seasoning, of lumber
+179
+Alaska birch, identification of
+27
+Alaska yellow-cedar, identification of
+33
+American beech, identification of
+23
+American elm, identification of
+15
+American sycamore, annual rings
+23
+identification of
+23
+Annual rings:
+horizontally laminated spars
+130
+laminated spar flanges
+132
+solid spar flanges
+132
+solid spars
+130
+vertically laminated spars
+131
+American sycamore
+23
+ashes
+19
+birches
+28
+black cherry
+25
+black walnut
+19
+cypresses
+41
+Douglas-fir
+37
+eastern white pine
+35
+maples
+27
+southern magnolia
+30
+spruces
+39
+sweetgum
+29
+western white pine
+35
+wood
+5
+yellowpoplar
+29
+Army Air Forces specifications
+344
+Army-Navy Aeronautical specifications.
+343
+Army Ordnance Dept. specifications
+344
+Ash, annual rings
+19
+key for the identification of
+45
+Assembly:
+of box spars
+263
+of fabric-covered wing frames
+265
+of fuselage frame
+265
+jig
+270
+of plywood-covered wing frames
+267
+of wing frames
+265
+Assembly and gluing:
+of box spars, pressure
+264
+of filler blocks
+264
+I'age
+Assembly and gluing—Continued.
+of ribs
+259
+cold-press gluing
+259
+final conditioning in
+259, 263
+glues
+262
+nail gluing
+259
+pressure
+263
+of spars, final conditioning
+265
+interior finish
+265
+of webs
+265
+final conditioning
+265
+Assembly operations:
+final conditioning of laminated mem-
+bers
+255
+glues in
+250,
+252, 254
+glues in straight laminated members.
+254
+gluing in
+254
+presses and clamps, used in
+254
+Assembly period
+250
+temperature, effect on
+215
+Assembly time:
+gluing plywood skins
+273
+in gluing
+206
+propeller laminations
+337
+Atmospheric
+humidity,
+determination
+of
+171
+Bag leaks, bag-molding technique
+248
+Bag molded plywood.
+229
+references
+249
+Bag molded structures
+229
+Bag molding:
+equipment for
+231
+methods of
+230
+technique
+:
+amount of pressure
+244
+assembling the veneer
+239
+bag leaks
+248
+equipment
+for bag molding
+238
+example of the bag molding of
+a specific product
+245
+heating cycle
+245
+heating mediums
+241
+moisture content
+239
+size, shape, thickness, etc
+238
+suggestions on
+246
+tubular members
+247
+Bag pressure, in gluing plywood skins
+278
+Bags or blankets, bag-molding
+234
+Balancing, propeller manufacture
+339, 340
+Baldcypress, identification of
+41
+key for the identification of
+48
+Band sawing
+303
+Bark pockets
+91
+Basswood, identification of
+30
+key for the identification of
+47
+Beams, laminated, exposure tests on
+156
+351
+
+--- PAGE 358 ---
+352
+INDEX
+Page
+Beech,
+American,
+key
+for
+the
+identifi-
+cation of
+46
+Bending of plywood
+305
+Beveling
+and
+profiling;
+spars,
+spar
+flanges, and similar parts
+292
+Birches, annual rings
+28
+key for the identification of
+46
+specific gravity, table for
+28
+Bird peck
+99
+Bird's eye
+94
+Black ash, identification of
+17
+Black check, in western hemlock
+95
+Black cherry, annual rings
+25
+identification of
+25
+Black maple, identification of
+25
+Black oak, identification of
+15
+Black
+streak and
+soot
+pockets
+in
+yel-
+lowpoplar, defects and blemishes
+97
+Black walnut, annual rings
+19
+identification of
+19
+Blackjack oak, identification of
+15
+Bleed-through
+201
+Blemishes and defects, wood
+65
+Blisters
+136
+Block-shear joint,
+test, glue quality
+165
+Blue stain
+115,
+116
+Boring
+300,
+340
+Bow, measurement of, in spars and spar
+flanges
+129
+Box spars:
+assembly of
+263
+glues, in assembly of
+264
+pressure
+in assembly and gluing of_
+264
+Brashness
+188
+Breaking radius
+308
+Brown stain
+113,
+116
+Bur oak, identification of
+13
+Burls
+91
+California
+incense-cedar,
+identification
+of
+33
+C 'alifornia red fir, identification of
+42
+Care and shipment
+of lumber,
+prior to
+seasoning
+178
+Casehardening
+188
+Casein glues
+150
+preparation of
+203
+properties of
+158
+rate
+of setting
+of,
+at elevated tem-
+peratures
+219
+with preservatives
+155
+Cedars, identification of
+33
+Cellular structure of wood
+5
+Chalky quinine fungus
+119
+Checking, propeller manufacture
+340
+Checks, splits, and shakes
+77
+Cherry, black, key for the identification
+of—
+46
+Chestnut,
+resembles
+heartwood
+of
+the
+ashes
+19
+Chestnut oak, identification of
+13
+Chinquapin oak, identification of
+13
+Circulation, preparing airdried stock for
+manufacturing
+189
+Coatings, to prevent end checks
+177
+Cold-press gluing, of ribs
+259
+Colorations, in wood, natual
+122
+Collapse
+188
+Page
+Combination materials, modified woods_
+148
+Combination of grain slope
+74
+Compound curvatures
+308
+Compreg
+141
+gluing
+226
+possible uses for
+145
+properties of, table for
+143
+references
+146
+specific gravity
+143
+thickness
+143
+Compressed
+and
+uncompressed
+wood,
+combination of
+145
+Compressed wood, heat-stabilized
+146
+Compression failures
+79
+Compression wood
+81
+spars and spar flanges
+129
+Conditioning:
+bag-molded plywood
+229
+glued stock
+227
+hot-pressed plywood
+228
+propeller manufacture
+338
+Conditioning period:
+for gluing and assembly operations.
+251
+in gluing the fuselage frame
+271
+Conifers:
+decay developed in standing trees__
+118
+identification of
+33
+stains in
+114
+Contour drum-sander for framework
+299
+Contour planing of spar flanges
+297
+Contouring with a router
+294
+Contouring with a shaper
+297
+Control of, glue quality
+163
+humidity in factories
+192
+Conversion equivalents, pounds to grams
+55
+Cottonwood, identification of
+31
+key for the identification of
+46
+Covering,
+in
+seasoning and
+storage
+of
+lumber
+180
+Cross
+grain,
+slope
+of, method of deter-
+mining
+69
+Cucumbertree, identification of
+30
+key for the identification of
+46
+Curved laminated members:
+final conditioning, after gluing
+259
+fuselage
+rings,
+door
+frames,
+and
+wing tip bows
+134
+gluing of
+255
+methods of applying pressure
+255
+radius of curvature
+259
+time under pressure
+259
+Cutter-head scarfing machine, traveling.
+288
+Cutting gussets, other plywood parts of
+curved or irregular shape
+301
+Cutting scarf joints
+284
+Cypresses, annual rings
+41
+identification of
+41
+Decay:
+detection of, in wood
+117
+developed
+in
+standing
+trees,
+coni-
+fers
+118
+hardwoods
+120
+in logs and lumber, types of
+122
+Decay and stains:
+in wood, xeferences
+123
+spars and spar flanges
+127
+wood
+113
+
+--- PAGE 359 ---
+INDEX
+Page
+Decimal equivalents
+of
+fractions
+of an
+inch
+55
+Defects and blemishes:
+bark pockets
+91
+bird peck
+99
+bird's-eye
+94
+black streak
+and
+soot
+pockets
+in
+yellowpoplar
+97
+black streak in western hemlock
+95
+burls
+91
+checks, splits, and shakes
+77
+combination of diagonal and spiral
+grain
+74
+compression failures
+79
+compression wood
+81
+cross grain
+69
+defects of growth
+103
+determining
+slope
+of
+cross
+grain,
+method of
+74
+diagonal grain
+70
+floccosoids in western hemlock
+99
+giant resin canals in spruce
+95
+indented rings
+91
+knots
+66
+lack of flatness
+103
+loose cutting
+103
+measurement
+of
+slope
+of
+grain
+in
+veneer
+105
+mineral streaks
+91
+nonuniform thickness
+103
+pitch pockets
+87
+pitch streaks
+91
+pith flecks
+77
+principal
+natural
+defects
+and
+blemishes
+found
+in
+veneers
+of
+four
+common
+aii craft
+woods,
+table for
+104
+radial red streak in spruce
+94
+rough cutting
+101
+spiral grain
+71
+veneer defects
+101
+wood
+65
+Determination of atmospheric humidity.
+171
+Dihedral,
+laminated
+spars
+and
+spar
+flanges
+130
+Discolorations, in wood, natural
+122
+Dope
+319
+Double laminating
+305
+Douglas-fir:
+annual rings
+37
+identification of
+37
+key for the identification of
+47
+Drying period, end of, tests
+185
+Eastern red oak, identification of
+15
+Eastern white pine, annual lings
+35
+identification of
+35
+Effect of outside temperatures on inside
+humidities and equilibrium moisture
+content
+values when the
+inside
+rela-
+tive humidity is 75 percent, table for_
+193
+Effects of sloping grain on scarf joints
+126
+Electric moisture meters
+58
+Electrostatic heating
+219
+Elevated
+temperatures,
+rate
+of
+setting
+of casein glues, at
+219
+of cold-setting, urea-resin glues, at
+219
+rase
+Elms, key for the identification of
+.
+44
+specific gravity values, tables for
+17
+Enamel, for aircraft finish
+322
+End checks, coatings that prevent
+177
+End coatings
+180
+End-grain surfaces, gluing of
+225
+End joints in laminations
+304
+Englemann spruce, identification of
+41
+for aircraft purposes
+41
+Equipment for bag molding:
+bag molding technique
+238
+bags or blankets
+234
+concrete molds
+233
+glues for bag molding
+238
+metal molds
+233
+molds
+231
+pressure
+and
+temperature
+equip-
+ment
+237
+resins
+233
+wood molds
+232
+Fabrication and processing
+169
+Fabric-covered wing frames
+265
+Factor of safety
+308
+Federal standard stock catalogue speci-
+fications
+344
+Filler blocks, assembly and gluing of
+264
+Final conditioning:
+after gluing curved laminated mem-
+bers
+259
+after gluing straight laminated mem-
+bers
+255
+following gluing of wing frames
+270
+in assembly and gluing of ribs
+259
+plywood skins
+280
+spars
+265
+Finish:
+aircraft:
+dope
+319
+enamel
+322
+lacquer
+320
+oleoresinous products
+320
+patching putties
+322
+sanding surfacer
+322
+sealer
+321
+wood filler
+322
+wood,
+effects
+of, on smoothness
+of
+surface
+317
+Finish cutting and balancing, propellers-
+339
+Finishes:
+absorption of heat, by
+318
+aircraft, methods of applying brush-
+ing
+328
+dipping
+328
+forced drying
+329
+requirements for
+312
+spraying
+327
+types of
+312
+Finishing:
+exposed edges of plywood and other
+end-grain
+wood
+334
+finishes, maintenance of
+335
+glue squeeze-out
+334
+materials for
+319
+nail holes or nail heads
+335
+propellers
+340
+references
+336
+
+--- PAGE 360 ---
+354
+INDEX
+Finishing—Continued.
+Page
+requirements of finishes
+312
+seams in plywood faces, effects of._
+335
+special problems
+330
+surfaces inaccessible after assembly-
+330
+systems:
+aircraft
+323
+areas of contact between metal
+and wood
+324
+exterior system C (enamel)
+324
+exterior system D
+(laquer en-
+amel)
+325
+exterior system E
+325
+fabric covering over plywood
+325
+interior
+surfaces
+324
+interior system A
+323
+interior system B
+324
+system F
+(fabric and cellulose-
+nitrate dope)
+system G (fabric and cellulose-
+325
+acetate-butyrate)
+326
+wood, in aircraft
+312
+Firs, key for the identification of
+48
+Floating
+298
+Floccosoids in western hemlock
+99
+Flotation
+method
+of
+determining
+the
+specific gravity of wood
+53
+Formation of complete rings
+305
+Foundations,
+seasoning and
+storage
+of
+lumber
+179
+Fungi:
+staining, occurrence of
+114
+W'ood-decaying, occurrence of
+117
+Fungus:
+chalky quinine
+119
+Indian paint
+119
+ring-scale
+118
+white heart rot
+120
+white pocket rot
+120
+Fuselage frames:
+assembly of
+265, 270
+conditioning period, in gluing
+271
+gluing of
+271
+jigs in, assembly of
+270
+pressure
+271
+General characteristics of wood
+48
+Geographical
+variations
+in
+relative hu-
+midity
+169
+Glazing, of surfaces
+201
+Glossary
+344
+Glue bleed-through
+201
+Glue bonds, unsatisfactory
+136
+Glue quality:
+block-shear joint test
+165
+control of
+163
+joint tests
+165
+plywood joint test
+165
+Glue spread:
+for wing frames
+268
+in gluing and assembly operations
+250, 337
+laminations, propeller manufacture.
+337
+on plywood skins
+273
+Glued laminated members
+137
+Glued stock, conditioning of
+227
+Glues:
+aircraft
+149
+kinds
+149
+use characteristics of
+158
+Glues—Continued.
+Page
+assembly
+operations
+in
+straight
+laminated members
+254
+casein
+150
+properties of
+158
+use characteristics
+163
+with preservatives
+155
+effect of temperature on
+155
+effects of moisture on
+151
+exposure tests on laminated beams. _
+156
+for bag molding
+238
+for wing frames
+268
+"fortified"
+urea-resin,
+use
+charac-
+teristics
+163
+in assembly and gluing of ribs
+259
+in assembly of box spars
+263
+in assembly operations
+250, 252, 254
+melamine, properties of
+158
+melamine-formaldehyde,
+use
+char-
+acteristics
+162
+mixed,
+effect
+of
+temperature
+on
+working life of
+214
+phenol-formaldehyde,
+properties
+157
+phenol-formaldehyde type, use char-
+acteristics
+162
+phenolic-type, low-temperature, use
+characteristics
+162, 219
+preparation of, for use
+203
+preparation
+of, for 

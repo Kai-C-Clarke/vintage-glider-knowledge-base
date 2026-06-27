@@ -1,0 +1,1040 @@
+(sec. 5.404),
+but the natural tendency is to use more than is necessary, so that the main precaution
+required
+is to see that
+all parts of the joint are covered.
+Single spreading on the
+gusset plate is adequate and most convenient.
+Because of the nature of the opera-
+tion,
+the
+assembly
+period
+is
+short
+and
+requires
+no
+special
+regulation
+other
+than training the operator to spread only a few plates before nailing.
+The common
+practice is to spread one gusset plate, nail it in place, then spread a second, nail it
+in place, and so on; but, where desirable, a few plates can be spread and laid in place
+in advance so long as the interval between spreading and nailing on any one plate
+does not exceed 10 minutes.
+When the gusset plates have been nailed and glued to
+one side, the rib is removed from the jig and the gusset plates are nailed and glued to
+the other side.
+5.4401. Manual Pressure Gluing.
+A second method, that of manual pressing,
+has in some cases been adapted to the cold gluing of wing ribs, but the method
+is
+not recommended for general use because of the difficulties of insuring proper magni-
+tude and distribution of gluing pressure and of maintaining proper limits on the
+assembly period.
+In this type of operation, a jig
+is prepared for each size of rib.
+The jig consists essentially of two metal plates about three-eighths inch thick, to
+one of which short metal rods are attached—usually by threading the ends of the
+
+--- PAGE 267 ---
+PROCESSING AND FABRICATION
+261
+Figure 5-43.—Jig for assembling and pressing several wing ribs in one operation.
+rods and tapping the plates—in such positions that they hold the cap strips, braces,
+and gusset plates in their proper position
+(fig. 5-43).
+Holes are bored in correspond-
+ing positions in the upper plate.
+Additional pressure rods, threaded at the top and
+attached to the bottom plate, extend through the top plate when the jig
+is loaded,
+nuts are screwed on the threaded rods, and the gluing pressure is applied by tighten-
+ing the nuts.
+With this method, some care is required in locating the strain rods to
+avoid unequal pressure distribution and localized crushing.
+It
+is advisable to use
+a torque-indicating wrench to avoid excessive pressure.
+The gluing pressure can also
+be applied, of course, by external screws, clamps, or presses.
+In operation, one set of gussets, cap strips, and braces after another
+is spread
+with glue and laid in place until the jig is full.
+The top plate is then laid on and the
+
+--- PAGE 268 ---
+262
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+gluing pressure applied.
+It
+is advisable to lay a caul of thin plywood upon each
+rib to promote uniform distribution of pressure and a sheet of waxed paper on each
+side of each rib to prevent excess glue from causing the ribs to stick together or to
+the cauls.
+The principal disadvantage of this system
+is the danger of exceeding the allow-
+able assembly period.
+The assembly periods should not exceed 20 minutes and the
+gluing pressures should be between 100 and 200 pounds per square inch, depending
+on the species used.
+Some difficulties are likely to be encountered when this system
+of rib gluing
+is
+first
+tried.
+For larger ribs, the forms are heavy and mechanical
+lifting hoists may be desirable.
+Loading the jig
+is not a rapid process; hence, the
+number of ribs that can be laid up at one time in one jig will be limited by the per-
+missible assembly period of 20 minutes from the time spreading starts on the first
+rib until gluing pressure
+is applied.
+If the gusset plates are continuous strips, 10
+to 15 ribs of medium size can be laid within the time limit, but,
+if the gussets are in
+the form of small patches, the number of ribs per jig will be considerably reduced.
+After the ribs are removed from the press, they should be conditioned before
+final machining for 2
+to 3 days at room temperatures, or
+1 day at 120° F. with
+humidity control.
+5.441. Hot-press Gluing.
+Gussets
+are
+often glued
+to
+cap
+strips
+in
+a
+rapid-
+closing hot press.
+To carry out this operation, a jig is made of comparatively thin
+metal (approximately one-sixteenth inch) equipped with thin metal angles welded
+to one surface to hold the ribs, braces, and gussets in their proper positions.
+The
+height of these angles must be somewhat less than the sum of the thicknesses of the
+cap strips and the gusset plates, so that the gluing pressure will be exerted on the
+joint and not on the guide blocks.
+5.4410. Gluing.
+In the gluing operation, the gusset plates for one side of the
+rib are coated with glue and laid in place, the cap strips and braces are inserted in
+their proper places, and the top gusset plates are spread with glue, laid
+in place,
+and—since they may extend well above the guide blocks—fastened lightly with a
+few nails.
+The assembly
+is then placed in a hot press, where the gluing operation
+is completed under heat and pressure.
+5.4411. Glues.
+Synthetic-resin glues are best suited for this type of operation,
+the choice between the different types depending somewhat on the hot-press equip-
+ment available.
+Hot-press urea, fortified urea, phenol, and melamine-formaldehyde
+glues can be used in single or multi-opening hot presses of conventional design (figs.
+5-14 and 5-44).
+The low-temperature, phenol-formaldehyde glues, which do not
+cure at ordinary room temperatures, and the cold-setting urea resins are also adapted
+for use
+in hot presses.
+There
+is great danger of precuring when low-temperature
+and cold-setting resin glues are used in hot presses.
+If the press is slow in closing,
+either because of delay by the operator or because of a slow-closing mechanism,
+the glue may set before the pressure is applied, and faulty joints will result.
+Quick-
+closing, single-opening hot presses
+(fig. 5-44) are best adapted for use with low-tem-
+perature and
+ccld-setting resin
+glues.
+Although casein glues can be used
+in
+hot
+presses, they do not set as rapidly and are not as well adapted for hot-pressing opera-
+tions as are the resin glues.
+With the hot-setting resin glues,
+the temperature of the platens may well be
+that used in the conventional gluing of hot-pressed plywood
+(sec. 5.263).
+The rate
+of setting of the low-temperature phenol and cold-setting, urea-resin glues
+is
+dis-
+cussed in section
+5.263.
+With the cold-setting, urea-resin glues in particular, the
+recommendations of the glue manufacturer on maximum permissible temperature
+should be observed and tests made to confirm the quality of the resulting bond.
+In
+all hot-press gluing, the metal jigs must be cooled between operations or the glue on
+the lower gusset plate may cure while the rib is being assembled.
+
+--- PAGE 269 ---
+PROCESSING AND FABRICATION
+263
+Figure 5-44.—Quick -closing, lire-hose hot press for assembling ribs and similar small parts.
+5.4412. Pressure.
+The gluing
+pressure should be
+calculated on the basis of
+the area of the glue joint and should conform to previous recommendations for the
+glues used.
+5.4413. Final Conditioning.
+During the gluing operation, moisture will be lost,
+and the ribs should therefore be allowed to condition before the
+final machining
+operation.
+In contrast to cold pressing, the conditioning involves a regain rather
+than a loss of moisture.
+This increase in moisture content can best be accomplished
+in a kiln at elevated temperatures and humidity adjusted to an equilibrium moisture
+content of about 10 percent.
+Conditioning in an ordinary shop without adequate
+humidity control during the winter will be slow and unsatisfactory.
+5.45. Assembly of Box Spars.
+The
+assembly
+gluing
+of box
+spars
+consists
+of
+gluing the filler or reinforcing blocks between the flanges and gluing plywood webs
+to the sides.
+In most cases, the grain of the reinforcing block
+is perpendicular to
+that of the spar flange.
+In other cases,
+it is at an angle of as much as 60°.
+If the
+filler blocks are of plywood, the grain of approximately half the plies will run at right
+angles to that of the spar flanges and, on this portion of the surface, end grain will
+be glued to side grain.
+If the grain of the filler blocks is perpendicular to the flange,
+or nearly so, the recommendations for the gluing of scarf-joint surfaces should be
+
+--- PAGE 270 ---
+264
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+followed.
+In particular, the glue mixture should be thickened and the maximum
+pressures permitted by the species should be used
+(sees. 5.271 and 5.4101).
+5.450. Glues.
+The choice
+of glues for gluing both the
+filler blocks and the
+web
+is usually limited to those of the cold-setting type.
+In some cases
+it may be
+possible to glue the web to the flanges in a hot press, and in such cases a hot-setting
+resin can be used.
+The use of hot-press glues, however, will be limited to those cases
+where the web is thin.
+5.45 1. Pressure.
+In calculating the gluing pressure, the area of contact between
+the
+filler blocks and the spar flanges or between the web and the
+filler blocks and
+flanges should be considered rather than the total surface area.
+The width of the
+filler blocks should equal that of the flanges.
+In gluing, the blocks should be care-
+fully aligned with the surfaces of the spar flanges to minimize the surfacing necessary
+Figure 5-45.—Jig for positioning and gluing filler blocks to spar flanges in a spar of complex design.
+before gluing on the webs.
+The time under pressure should not be less than 4 hours
+at ordinary room temperatures, and the assembly should be allowed to condition
+3 to 5 clays at room temperatures before preparing the surface for gluing to the web.
+5.452.
+Filler Blocks.
+In gluing the
+filler blocks of a box spar, the method of
+applying the pressure will vary with the design of the spar.
+Filler blocks of simple
+design in small spars may be glued in place with hand clamps, provided that a
+sufficient number of clamps is used to obtain adequate pressure
+(sec. 5.251 and table
+5-13).
+Filler blocks can be glued in larger spars by the use
+of cauls and screw
+presses (fig. 5-37).
+If the job involves large numbers of complex spars, special jigs are desirable
+to assist in proper alignment of the filler blocks and in convenient application of the
+gluing pressure.
+One such type of special
+jig
+is
+illustrated in figure
+5-45.
+The
+location of each
+filler block is indicated by a diagram or by mechanical stops on the
+plate upon which the flanges and blocks are placed.
+One spar cap
+rests
+against
+a rigid metal caul plate
+; the opposite cap is laid against a movable caul plate that may
+be of wood or metal.
+In this design, a fire hose
+is laid between the movable caul
+
+--- PAGE 271 ---
+PROCESSING AND FABRICATION
+265
+plate and a rigid supporting member.
+When the filler blocks have been surfaced to
+fit and spread with glue they are laid in place and the gluing pressure applied by
+admitting air into the hose.
+The pressure could also be applied by screws through
+the fixed support bearing against the movable caul board, or by levers that actuate
+eccentrics.
+Applying
+air pressure through hose, however, has the advantage that
+the pressure is uniform and is easily measured.
+5.453. Gluing Webs. Gluing
+of
+the webs
+to
+the
+flanges and
+filler blocks can
+ordinarily be done most conveniently in a conventional screw-type press
+(fig. 5-35).
+As mentioned previously,
+this gluing might be done in a hot press in special cases.
+Figure 5-46.—Specially designed, steam-heated hot press used to glue plywood to framing.
+Specially designed steam or electrically heated fire-hose presses are sometimes used
+for this purpose. A large steam heated press of this type is illustrated in figure 5-46.
+5.454. Final Conditioning.
+After removal fiom the press, the completed spar
+should be allowed to condition at least 2 days before initial machining and from 3 to
+5 days at room temperatures before final surfacing.
+5.45 5.
+Interior Finish.
+Gluing
+the
+interior
+surfaces
+of
+the
+flanges and
+filler
+blocks involves masking or otherwise protecting the glue-line area previous to the
+finishing, as described in section 5.7.
+5.46. Assembly of Wing and Fuselage Frames.
+5.460. Fabric-covered Wing Frames.
+The
+ribs
+for
+fabric-covered wing frames
+are often made in one unit that includes the leading edge, center section, and trailing
+edge.
+The cap strips are continuous and extend acioss the top and bottom of the
+
+--- PAGE 272 ---
+266
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5-47..—Assembling wing ribs and spars.
+
+--- PAGE 273 ---
+I
+PROCESSING AND FABRICATION
+267
+spar.
+Attaching ribs of such design to the spars offers no particular difficulty and
+requires no elaborate jig.
+Ordinarily, the ribs are slipped over the ends of the spar,
+properly held by simple positioning jigs, and glued in place
+(fig. 5-47).
+The gluing
+pressure is ordinarily applied by small nails.
+5.4600. Reinforcing Blocks.
+The joint between the rib and the spar
+is some-
+times reinforced by corner blocks or by small plywood
+angles,
+as
+in figure
+5-48.
+Solid reinforcing members are usually glued in place by nail gluing, although the
+pressure could be applied with hand clamps.
+Plywood angles can be glued in place
+Fir.wKE 5-48.— Reinforcements for the joints between the wing ribs and spars: A, plywood angles; B, triangular, solid-wood blocks;
+C, hand clamp for gluing plywood angles in place.
+by special clamping devices.
+A suitable clamp for gluing four angles in place in
+one operation
+is illustrated in figure 5-48, C.
+5.4601. Machining.
+For a wing that
+is
+to be covered with
+fabric
+only, the
+amount of machining to true the surfaces after the ribs are in place will be limited.
+If the wing
+is covered with fabric over a partial covering of plywood
+(fig.
+5-49),
+more surfacing
+will be required
+to form a smooth junction between the ribs and
+plywood-covered areas.
+5. 461. Plywood-covered Wing Frames.
+Ribs in wings that are covered with
+plywood are often in three sections, the leading-edge section, the trailing-edge section,
+and the section between the front and rear spar.
+In this case, more elaborate jigs are
+required
+to locate the ribs in the proper position and
+to hold them at the correct
+angle while they are being glued in place.
+Frequently the ribs for the leading edge
+are fastened
+in position
+first
+(fig.
+5-50), usually by nail gluing them
+to the spar.
+The plywood cover
+is frequently attached to the leading edge in the same jig as
+
+--- PAGE 274 ---
+268
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+soon as the leading-edge
+ribs have been glued in place and surfaced
+(usually by
+floating
+(sec.
+5.658)
+)
+to insure a good contact surface.
+The spar, complete with
+leading edge,
+is then transferred
+to another
+jig where tbe center-section ribs are
+attached between front and rear spar.
+For the most part, these ribs, like the lead-
+ing-edge
+ribs,
+are
+nail glued in place.
+The joints are sometimes reinforced with
+blocking or with plywood angles, and sometimes with a strip of plywood glued to
+the surface of the spar flange and extending over a portion of the ribs
+(fig. 5-51).
+Ribs in the center section of a three-piece wing are frequently heavy and de-
+signed to carry high
+stresses.
+These
+ribs likewise are often fastened in place by
+Figure 5-49.—Assembling a wing that is to be covered with fabric over a partial covering of plywood.
+nail gluing, with or without reinforcing blocks or angles, but occasionally they are
+bolted to the spars.
+The jigs for holding the structure in place while the ribs and
+other parts of the structure are attached are often large and complex.
+On the other extreme, the ribs for the trailing-edge section and of the control
+surfaces
+are usually small and
+light and require only simple
+jigs
+to
+insure
+their
+proper positioning.
+Nail gluing
+is used almost exclusively in fastening the ribs in
+position in these small assemblies.
+5.4610. Glues.
+The choice of glues for use in assembling the wing frames
+is
+limited to those of the cold-setting types except in those cases where it
+is possible
+to accomplish setting by the application of heat.
+5.4611. Glue Spread.
+The amount of glue spread should conform
+to recom-
+mendations
+(sec.
+5.403).
+Tbe natural tendency of the workmen will be to spread
+
+--- PAGE 275 ---
+PROCESSING AND FABRICATION
+269
+more than is necessary on the small surfaces involved, so the only precaution neces-
+sary is to see that all parts of the contact surfaces are covered.
+5.4612.
+Pressure.
+Where clamps can be used, pressures of approximately 150
+pounds per square inch are advisable.
+If the joints are nail glued, the size of the
+nails and nail spacing
+will vary with the size of the members.
+One row of nails
+for each one-half inch in width
+is suggested, with a nail spacing of approximately
+1 inch in each row and the nails in each row staggered with respect to those in ad-
+Ficure 5-50.—Jigs for locating leading-edge ribs in proper positions.
+jacent rows.
+The length of the
+nails should be such
+as
+to reach
+at least three-
+eighths inch into the wood beneath the joint.
+5.4613. Pressure Period.
+If clamps are used, the joints should remain under
+pressure for at least 4 hours at 75° F.
+It
+is assumed that,
+if nails are used, they
+will be left in place and that the assembly will be so handled that the joints will not
+be disturbed before the glue has
+set.
+Banks of infrared lamps or kilns are some-
+times used to accelerate the cure of joints in frame assembly.
+When either method
+is used, certain precautions should be observed.
+The temperature should not be
+sufficient to damage either the glue or the wood and the relative humidity should
+be regulated to minimize drying and consequent changes in dimension during the
+curing
+period.
+Tests should be made
+to
+substantiate
+the
+quality
+of
+the
+joints
+produced.
+568338—44
+18
+
+--- PAGE 276 ---
+270
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.4614.
+Final Conditioning.
+The
+conditioning
+period
+following
+gluing
+of
+about 2 days at ordinary conditions
+is sufficient to permit the joints to reach ap-
+proximately maximum strength.
+A longer conditioning period to permit complete
+diffusion of moisture away from the glue joint is not necessary.
+Fk.uke 5-51.—Ribs in place between front and rear spars of wing section.
+5.462. Assembly of the Fuselage Frame.
+Assembling
+the
+fuselage
+frame
+con-
+sists essentially
+in holding the bulkhead or fuselage rings in proper position while
+the
+longerons
+are being
+fastened
+in
+place.
+The
+rings may be laminated
+stock
+(sec.
+5.68);
+flat plywood formed from panels
+of sufficient
+thickness; or combina-
+Figure 5-52.—External type jig for assembling fuselage frames.
+tions of solid wood, plywood, and laminated
+stock.
+Larger fuselage rings may be
+of box-section construction.
+5.4620. Jigs.
+The jigs used for supporting the fuselage rings are usually of two
+types, external and internal.
+The external type is essentially a frame enclosing the
+fuselage with stops or blocks at the proper positions to which the fuselage rings are
+clamped
+(fig. 5-52).
+With an external jig of this type only a part of the fuselage
+
+--- PAGE 277 ---
+PROCESSING AND FABRICATION
+271
+covering can be attached at one time,
+so that a second
+jig
+is necessary when the
+fuselage advances to the final covering operation.
+With the internal type of jig for
+assembling
+the
+fuselage
+rings,
+a
+rigid and
+comparatively
+large member extends
+longitudinally through the fuselage frame.
+Rigid arms radiate from
+this
+central
+member at the proper locations to which the fuselage rings are clamped
+(fig. 5-53).
+If other considerations permit the use of the internal type of jig,
+it has the advantage
+of leaving the surface free to apply the entire covering without changing jigs.
+In fuselage designs where the longerons are
+let into the different fuselage rings
+at varying angles, the
+slots in the rings are sometimes cut oversize and squarely
+across to eliminate the necessity of setting up special jigs for slotting each ring and
+to facilitate laying the longerons in place.
+The triangular spaces remaining are then
+filled with small wedges coated with glue and driven in place.
+5.4621. Gluing.
+The choice of glues for this work is limited to those of the cold-
+setting types.
+The spread should conform to previous recommendations for the type
+Figure 5-53.—Internal type jig for assembling fuselage frames.
+selected.
+The general tendency, however, will be to spread an excess so that the
+main precaution to be observed
+is to insure that
+all parts of the contact areas are
+completely covered.
+If the fuselage rings are of plywood, a part of the gluing will be
+end grain to side grain.
+If the contacting surfaces are not side grain to side grain,
+the practices recommended for the gluing of end-grain surfaces should be observed
+(sec. 5.271).
+5.4622.
+Pressure.
+In many operations,
+it is customary to fasten the longerons
+to the rings with screws that serve also to apply the gluing pressure.
+Frequently
+the joints will be in positions where clamps can be used and, wherever practical, their
+use is recommended.
+5.4623. Conditioning Period.
+A conditioning period
+for the glue joints that
+greatly exceeds the time required to gain approximately the full strength of the glue
+is unnecessary; about 2 days at room temperatures is considered sufficient.
+5.47. Application of Plywood Skins.
+Though cold-setting glues are largely used
+to attach plywood skins to the wings, fuselage, or control surfaces, it may sometimes
+be practical to use glues that require elevated temperatures for small assemblies that
+can be glued up and then moved into kilns where temperature and humidity can be
+regulated.
+The kiln procedure can also be employed to accelerate the curing of the
+cold-setting resin
+glues, which
+set more slowly
+at customary room temperatures.
+
+--- PAGE 278 ---
+272
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Lamps have been used to accelerate the curing of the glue, but the advantage of their
+use is often open to question because of the relatively slow rate of heat transfer and
+the difficulty of obtaining proper humidification around the assembly.
+Resistance
+heaters applied as strips between the skin and nailing strips sometimes prove useful
+over limited areas where rapid curing of one joint may accelerate the assembly of a
+large unit.
+The surfaces of the wing ribs, spars, and braces in the wing surface or of the
+fuselage rings, longerons, and braces in the fuselage surface should be true, smooth,
+Figure 5-54.—Attaching flat plywood to the leading edge of a wing section.
+and in alignment when the skin
+is attached.
+A common method of preparing the
+surfaces of the framing members is "floating"
+(sec. 5.658).
+It
+is desirable
+to prepare
+jigs
+to hold the wing or fuselage frames rigidly in
+position during the surfacing of the frame and attaching of the skin.
+The complexity
+of the jigs will vary, depending on the size of the assemblies and the method of apply-
+ing the gluing pressures.
+If the gluing pressure
+is to be applied by nails and if the
+assembly
+is small, the jig may consist of merely the simplest support for the work
+(fig. 5-54).
+As the size of the assembly increases, the size of the jig must, of course,
+be increased.
+5.470. Preparing the Skin.
+Before the actual operation of gluing the plywood
+to the frame begins, the plywood skin itself must be prepared for gluing.
+In some
+cases this may consist of merely cutting the plywood to size.
+Usually it will involve
+splicing two or more sheets in order to obtain the proper length.
+Plywood panels are
+
+--- PAGE 279 ---
+PROCESSING AND FABRICATION
+273
+ordinarily spliced by joining with scarf joints in separate gluing operations, although
+splicing with scarf joints may be done as a part of the operation of laying the skin.
+In either case, the precautions as to slope of scarf, gluing, and pressing that have been
+discussed previously should be observed
+(sec. 5.4102).
+The amount of curvature may be so great that flat plywood sheets cannot be
+conveniently bent
+to the required shape during the operation
+of laying
+the skin
+(see. 5.683).
+In such cases it will be found desirable to bend or preform the plywood
+sheet to approximately the desired shape before attaching it to the frame.
+In some
+cases
+it may be necessary to use shells of molded plywood rather than to attempt to
+bend a flat piece to the desired shape.
+Occasionally the surface of the plywood may be glazed, show bleed-through of
+glue,
+or
+possess
+other
+characteristics
+that make
+it
+difficult
+to
+glue
+(sec.
+5.27).
+Ordinarily these conditions can be remedied most easily by light sanding.
+The use
+of a paper no coarser than a No. 4-0 garnet
+is recommended for low-density species
+and no coarser than No. 3-0 garnet for high-density species.
+Oidy a small amount
+of the surface, usually not more than 0.001 inch, needs to be removed, and in no case
+should the sanding decrease the thickness of the face ply by more than 10 percent.
+If the aircraft manufacturer encounters trouble in secondary gluing to plywood sur-
+faces, the subject should be considered with the plywood manufacturer and efforts
+made to eliminate the trouble at the source.
+5.471. Attaching the Skin.
+It is important that
+all details be planned and ar-
+ranged carefully in advance to avoid the danger of exceeding permissible assembly
+limits of the glue used.
+5.4710. Glue Spread.
+The glue usually is spread on the contact surfaces of the
+frame and occasionally on both surfaces.
+Ordinarily, the spreading is done by hand
+and the natural tendency is to spread more glue than necessary, so that the main
+precaution
+is to insure that
+all surfaces
+are covered.
+Overspreading, however,
+is
+not good practice because
+it
+results in excessive squeeze-out, which may later be
+loosened and plug drain holes or grommets.
+5.4711. Assembly Time.
+The interval between the start
+of the spreading op-
+eration and the complete application of the gluing pressure should conform to pre-
+vious recommendations
+(sees. 5.24 and 5.404).
+In applying the skins to the larger
+assemblies for the first time, it may prove difficult to keep within these limits.
+This
+emphasizes the need for careful planning and suggests the training of crews on smaller
+assemblies before moving them to the larger and more complex units.
+5.4712. Application of Pressure.
+The
+simplest
+method
+of
+applying
+gluing
+pressure is by the use of nails, either with or without nailing strips.
+If the nails are
+to be withdrawn later, the use of a nailing strip
+(fig. 5-55)
+is almost a necessity, but
+in some cases the nails are not withdrawn and no nailing strips are used.
+Nails set
+in nailing strips prepared in advance also speed the assembly work and reduce the
+danger of extended assembly periods.
+If nails are used, the spacing should conform
+to previous recommendations.
+For most plywood skins a spacing of approximately
+1 inch is satisfactory, with one row of nails for each one-half inch in width of framing
+member and with the nails in each row staggered with respect to nails in adjacent
+rows.
+The length of the nails should be sufficient to reach at least three-eighths inch
+into the heavier supporting members, but they should not penetrate through the
+lighter supports.
+Some manufacturers have found
+a nailing machine of consider-
+able convenience in preparing the nailing strips.
+The machine can be set for the
+desired nail spacing and adjusted merely to start the nails into the strips.
+A uniform
+spacing
+is thus assured, and one operator on a nailing machine saves
+the time of
+several in preparing the strips.
+Nailing machines have given some trouble in feed-
+ing the small nails, but one operator solves this difficulty by attaching a small mag-
+netic vibrator to the feed box.
+
+--- PAGE 280 ---
+274
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+I
+Figure
+5-55.—Attaching the plywood skin to a fuselage frame.
+NAILING START5 HERE
+AND PROGRESSES DOWN
+Figure 5-56.—Hold-down band clamp for nail-strip gluing of leading edge of skin.
+
+--- PAGE 281 ---
+I
+PROCESSING AND FABRICATION
+275
+A tension clamp, illustrated in figure 5-56, may be used to hold the leading-edge
+skin in intimate contact with the ribs while the nailing strips arc applied.
+Cotton
+webbing approximately one-half inch wide
+is often used under nailing strips to fa-
+cilitate removal
+of the strips and nails
+(fig.
+5-57).
+A simple device illustrated in
+figure 5-58 has been found helpful in removing the nails and broken nailing strips from
+webbing so that
+it may be reused.
+In nail-strip gluing the larger assemblies
+(fig. 5-55), the plywood skin is tacked
+lightly at one corner, then adjusted and tacked lightly in the opposite corner,
+in-
+specting carefully to insure that the skin is properly positioned.
+The first placement
+Figure 5-57.—Cotton webbing under nailing strips facilitates removal of the strips and nails.
+should be as nearly exact as possible, and moving of the skin over the frame should
+be reduced to a minimum.
+Otherwise the glue that has been spread on the frame
+may be scraped
+off and the amount remaining may be
+insufficient to form a good
+joint.
+In small assemblies
+(fig. 5-54) the cover may be attached first along one edge.
+When the plywood has been fastened lightly in
+its proper position,
+a nailing
+strip is laid over one of the principal supports and nailed in place, the nailing proceed-
+ing from the center outward to avoid wrinkles and bulges in the skin and to aid in
+flowing the glue to a thin film.
+The nailing strips should be carefully aligned to in-
+sure that the nails strike the support, and the nails should be driven firmly into place.
+Severe blows of the hammer that leave a definite crushed spot on the nailing strip
+should be
+avoided.
+Several light blows which leave the
+nail head flush with the
+nailing strip are recommended in preference to a single hard blow.
+In wing struc-
+tures, the first nailing strips will ordinarily be laid over a spar.
+In the fuselage the
+first
+nailing
+strips may be over
+a central longeron or fuselage
+ring.
+The second
+nailing strip
+is usually laid over a support running at right angles to the first nailing
+
+--- PAGE 282 ---
+276
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+strip.
+The successive strips are then nailed in place, always working from the area
+already attached, as from the center outward or from the top down, in order to per-
+mit the skin to assume the shape
+of the supporting frame without buckling and
+to assist in obtaining a thin, uniform film of glue
+(fig. 5-55).
+Enough strips must
+be used, of course, to cover the entire surface of members supporting the skin.
+Heat
+lamps are sometimes used to accelerate the setting of gll
+Assemblies of this type.
+When such lamps are used,
+it is important that humidity be controlled to prevent
+excessive drying of the wood.
+The use
+of heat lamps to accelerate
+setting of the
+glue
+is not recommended unless humidity is likewise controlled.
+A device for ac-
+celerating the setting of secondary glue joints on a wing tip is shown in figure 5-59.
+Figure 5-58.—Device for removing nails and broken nailing strips from webbing.
+When the making of a scarf joint is a part of an assembly operation
+(fig. 5-55),
+cold-setting glues are suggested as the most suitable for the purpose.
+A nail-strip
+gluing technique is usually used.
+The size of nails and nail spacing will vary some-
+what with different operations, but two rows of nails per inch of width is suggested,
+with a nail spacing as recommended earlier in this section.
+If rapid curing of the
+glue is essential to production schedules,
+it may prove convenient to accelerate the
+setting of the glue by the use of moderately elevated temperatures applied after the
+parts have been nailed in place.
+Resistance elements, often fastened in place by
+the nailing strip directly on the surface of the plywood, are suitable for the purpose,
+provided the time-temperature cycle used
+is regulated to prevent damage
+to
+the
+wood or glue.
+Lamps and warm rooms may also be used
+if provisions are made to
+C7-
+—.5 IDES OF CABINET—
+HUMIDIFIER
+i
+'HEAT LAMP5 AND
+R£FL £C TOR
+5
+FLOOR LIN£
+Figure 5-59.—Device for accelerating the setting of secondary glue joints by means
+of heat lamps.
+control the relative humidity in order to prevent excessive drying and consequent
+moving of parts during the curing period.
+The design of plywood skins for aircraft sometimes calls for joints to be made
+between skins of unequal thickness.
+Figure 5-60 illustrates two methods of forming
+these joints between the main wing skin and the leading-edge skin.
+Figure 5-60, A,
+shows a scarf joint in which the length of scarf is equal on both skins.
+The length
+of scarf should be at least 12 times the thickness of the thicker skin.
+Figure 5-60, B,
+illustrates a modified butt joint in which the thicker plywood is rabbeted to receive
+the
+thinner
+skin.
+This type
+of
+joint
+is
+less
+desirable,
+particularly
+for plywood
+wings not covered with
+fabric,
+as the
+finish
+is likely
+to
+fail over the butt
+joint.
+Neither joint should be relied on for the full tensile strength of the thinner plywood.
+
+--- PAGE 283 ---
+PROCESSING AND FABRICATION
+277
+5.47 1 3.
+Special Gluing Jigs.
+Several other methods of applying gluing pressure
+have been devised.
+Often these methods require more or less complicated jigs, and
+some are applicable to one particular operation but not to others.
+One of the simpler
+jigs is designed to apply gluing pressure to the plywood covering of the leading edge
+of a wing.
+It consists essentially of supports or cauls
+set in
+a metal frame in a
+position corresponding to the positions of the ribs in the leading edge.
+In operation,
+the preformed skin is first laid in place in the jig.
+The leading-edge frame, with the
+ribs attached to the spar and with the surface of the ribs coated with glue,
+is then
+laid in the formed skin and so
+positioned
+that each
+rib
+is bearing on
+a support
+or
+caul
+in
+the
+jig.
+Gluing
+pressure
+is obtained
+partially by
+applying
+pressure
+against the top of the spar.
+Pressure so applied reacts principally against the nose
+of the curve, while pressure against the sides
+is relatively low.
+Pressure against
+the sides
+is brought up
+to satisfactory magnitude by the use
+of clamps or other
+devices
+to exert an inward pressure on the two prongs of each support or
+caul.
+The supports are often lined with strips of rubber to provide a more nearly uniform
+distribution of pressure.
+If such a device
+is used, the gluing pressures should be
+Figure 5-60.—Two methods of forming joints between skins of unequal thickness.
+A, scarf joint in which the length of scarf is
+equal on both skins.
+B, modified butt joint in which the thicker plywood
+is rabbeted to receive the thinner skin.
+calculated on the basis of the actual gluing area and they should be approximately
+150 pounds per square inch or the maximum pressure that the frame will withstand,
+whichever is the smaller.
+Another device for applying gluing pressure in covering wings
+is illustrated in
+figure 5H31, A.
+Its use requires the construction of a jig to hold the wing frame in
+place and to provide for the attachment of the metal pressing frame illustrated at
+the location of each rib.
+The gluing pressure is obtained by laying a caul, c

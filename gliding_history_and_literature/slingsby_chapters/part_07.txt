@@ -1,0 +1,743 @@
+320' 320' 336 ' 336 ' 334 ' 334 ' 334 ' 334 ' 334 ' 334' 334' 390 ' 310
+Wing root section 
+Modified Gottingen 652
+Wing section at mid span 
+Modified Gottingen 535
+Alternative tail unit 
+(EGA 651)
+Prototype
+cockpit canopy
+(BGA 382)
+Slingsby
+Type 13
+Wing tip
+section
+Clark YH
+Petrel
+Drawn by Martin Simons 1991
+
+--- PAGE 87 ---
+Type 13, Petre
+One of the first people to fly Slingsby's Type 12 Kirby 
+Gull in 1938 was Frank Charles, the speedway cham- 
+pion, who had surprised the gliding movement a few 
+years earlier by teaching himself to fly his Kirby Kite. 
+What Charles thought of the Gull was not recorded, but 
+he did not order one. Instead, he asked Slingsby to 
+build him a modernised version of the Rhonadler, a 
+sailplane produced by the German firm of Alexander 
+Schleicher. Designed by Hans Jacobs, the Rhonadler 
+was the first high-performance sailplane ever to be 
+mass-produced in a factory. The prototype made its 
+first competition flights at the Wasserkuppe in 1932, 
+with Peter Riedel as the pilot. The Rhonadler was 
+smaller than the very special advanced sailplanes 
+custom-built for the few ace pilots. It was light, easy to 
+handle in the air and on the ground, and relatively inex- 
+pensive, being designed from the outset for easy pro- 
+duction. It soon became very popular, but by 1938 it 
+was regarded by the more experienced pilots as out- 
+moded.
+The Rhonadler embodied the lessons learned from 
+the previous generation of sailplanes, which were 
+designed mainly for slope soaring. It was known that 
+thermals existed, but not many pilots in 1932 under- 
+stood how they should be used. The need for 
+manoeuvrability, to turn tightly in small areas of upcur- 
+rent, was accepted. The desirability of flying at high 
+speeds when penetrating sinking air on cross-country 
+flights was just beginning to be appreciated, but it was 
+still thought that a very light wing loading and minimal 
+rate of sink were essential.
+The Rhonadler had a strongly tapered cantilever 
+wing with an unusually deep root, allowing a very light 
+mainspar to be used. Plywood stressed skin covered 
+the leading edge to the mainspar, with fabric behind. 
+Long, narrow ailerons extended over more than half 
+the semi-span. The aerofoil section at the wing root 
+seems to have been a special design by Hans Jacobs 
+himself. It was based on the extraordinary Gottingen 
+652, a very thick teardrop shape with extremely pro- 
+nounced camber. This profile had been used success- 
+fully on the famous Fafnir sailplane, and in England on
+the little Scud 2. For the Rhonadler Jacobs reduced the 
+camber but the basic thickness form was retained. At 
+the mid semi-span the section blended into the familiar 
+Gottingen 535 used on the Grunau Baby and then to a 
+thin reflexed tip, probably the Clark YH. Very pro- 
+nounced washout was incorporated to preserve lateral 
+control near the stall.
+The fuselage, a semi-monocoque structure of a style 
+that was becoming normal, was round backed with 
+pointed keel, and the wing was mounted on a low 
+pylon. The usual type of skid undercarriage was fitted. 
+The earliest Rhonadlers had cockpit canopies of wood 
+with small portholes cut to provide the pilot with a 
+restricted view. Before long the factory was fitting 
+simple transparent enclosures. An all-moving tailplane 
+and an aerodynamically balanced rudder were used; 
+very orthodox for the period.
+In 1934 a Rhonadler was imported into Britain and, 
+flown by Eric Collins, earned a great reputation. It 
+handled well, and Collins demonstrated that it could 
+soar in a wide variety of conditions. After Collins's 
+death (performing aerobatics in a Grunau Baby for 
+Cobham's National Aviation Day displays), his 
+Rhonadler was taken over by a private syndicate and 
+continued to make impressive cross-country flights in 
+England. There was really not much competition for it 
+until the arrival, from Germany, of Jacobs's later 
+design, the Rhonsperber, and the Schempp-Hirth 
+Minimoa.
+Frank Charles apparently could see no advantage in 
+these newer types or in Slingsby's products, the King 
+Kite and Gull, and believed that an improved 
+Rhonadler would suit him best. Slingsby, for whom 
+definite orders backed by adequate cash were always 
+vitally important, was in no mood to disagree. Work on 
+his new two-seater design, the Gull 2, was shelved in 
+order to produce the Type 13. Charles himself gave it 
+the name Petrel.
+Slingsby described the Petrel as 'merely a gull 
+winged version of the Rhonadler', and so it was. The 
+same wing was used except for the gull dihedral. This 
+brought the centre section down to fair directly to the
+85
+
+--- PAGE 88 ---
+SLINGSBY SAILPLANES
+fuselage without any pylon. Spoilers were fitted. The 
+fuselage was redesigned with a smoother, more gener- 
+ous line ahead of the wing allowing for a contoured 
+canopy similar to that of the Gull. The cockpit was 
+more comfortable than the German type, with room 
+for the shoulders. The tail unit and almost everything 
+else was transferred as directly as possible from the 
+Rhonadler. (Drawings for the Rhonadler '32 were 
+found in the Slingsby archives.)
+Harking back even further into the past, Frank 
+Charles required Slingsby to give him a wooden 
+cockpit canopy with only two elliptical portholes, one 
+on each side, to allow him to look out. Cockpit 
+canopies at this time were usually built-up, transparent 
+panels set in a wooden framework, but Charles evi- 
+dently preferred to have direct access to the air, even at 
+the cost of restricted vision. He may have felt that the 
+inescapable small irregularities of the panelled canopy 
+created more drag than a smooth wooden structure 
+with portholes.
+The first flight took place in December 1938. Details 
+of the new sailplane were published in January 1939, 
+when it was stated that Charles had already taken 
+delivery, but he did not fly the aircraft until 19 February 
+at his club's site near Banow-in-Furness, a good local 
+soaring flight and a short cross-country being made on 
+this day. Crude calculations suggested that the Petrel 
+had 
+a minimum sinking speed 
+of 0.33m/sec 
+(1.08ft/sec). Charles reported that it stalled at 46kmh 
+(28mph) and showed no signs of dropping a wing at 
+low speeds. He dived it to 128kmh (79mph) with no ill 
+effects. One who observed it remarked that the Petrel 
+was very like the Rhonadler when seen from below, 
+which should have been no surprise. Because of the 
+slightly tidier wing root and fuselage junction the 
+Petrel might have been a little superior to the 
+Rhonadler, but the difference cannot possibly have 
+been very great, Charles flew the Petrel again a few 
+days later at Sutton Bank, where it excited much 
+admiration, and he made some more cross-country 
+flights in March and April.
+Presumably feeling that the numerous jigs made for 
+the Type 13 should not be allowed to stand idle, 
+Slingsby decided that it should go into production, but 
+with a more orthodox cockpit canopy. A fixed tailplane 
+instead of the 'pendulum' elevator could be ordered if 
+preferred. In advertisements the Petrel was described 
+as The latest development in high performance 
+sailplane design, with a large speed range, low sinking 
+speed and remarkable gliding angle'. Slingsby asked P. 
+M. Watt to fly the second Petrel in the BGA competi- 
+tions due to take place in July at Camphill, Derbyshire. 
+New advertisements read: 'Two machines of this type 
+will be competing with German sailplanes of the same 
+class. These two machines are the first of a batch of 
+eight now on order for various parts of the Empire.' 
+The third, which had the fixed tailplane, was ordered 
+by members of the \ewcastle-upon-Tyne Soaring 
+Syndicate, but was evidently not ready in time for the 
+contest.
+Watt flew well in the contest, completing several 
+good cross-country flights including one by a very 
+roundabout route via Nottingham and Boston to 
+Skegness on the coast, using the sea breeze conver- 
+gence to get him over the last 20km (12 miles). He 
+arrived to discover Stephenson's cross-channel Blue 
+Gull on the ground there already. In the final tally of 
+scores Watt placed fifth, but any sense of satisfaction, 
+even for the winners, was overwhelmed by sadness. 
+There had been a fatal accident earlier in the week, the 
+first ever at Camphill, when W. E. Godson spun into the 
+hill in his Kestrel, a small sailplane designed by Bill 
+Manuel which Godson had built from plans.
+The Camphill flying ground is about 390m (1,300ft) 
+above sea level. On the final Saturday there was a 
+damp, overcast sky with a southerly wind, and the 
+clouds were only a few hundred feet above the take-off 
+point. Frank Charles in his Petrel was launched by 
+winch in a rain shower. Towards the top of the climb 
+the Petrel entered the cloud and vanished. The winch 
+driver cut the power, expecting Charles to release the 
+cable. When the Petrel emerged from the overcast it 
+was heading downwind, as if to complete a normal 
+circuit and landing, but the winch cable was still on, 
+sagging in a loop. At about 60m (200ft) the slack ran 
+out and the cable tightened, bringing the Petrel to a 
+halt in the air and pulling it vertically into the ground. 
+Charles was killed.
+No completely satisfactory explanation was ever 
+forthcoming. Why Charles did not release the cable 
+when he felt the power fail is not known. The tow cou- 
+pling was found to be in good working order. He may 
+have assumed that the cable had broken. The winch 
+driver was provided with an axe (there was no built-in 
+guillotine), but it was said he could not see that the 
+cable was attached to the sailplane because of the rain. 
+In any case, he had very little time to get out of the 
+driving seat and race round to the chopping block. 
+There was even talk of a loose dog getting in the way. 
+The wreckage of the sailplane was carried off the field. 
+The author as a child saw this accident, and remem- 
+bers the sailplane passing along the western side of the 
+field with the cable dangling, and then its fall and total 
+collapse, apparently into a heap of tiny pieces, on the 
+airfield. I also remember later looking at the broken 
+remnants of the wings, the varnish still glistening as 
+they lay against a dry stone wall behind the hangar. 
+Flying continued.
+It was not the first time an accident had been caused 
+by failure to release from a winch tow. The axe was 
+provided to allow the cable to be chopped if the release 
+jammed, which was not a very rare thing. After cutting, 
+a sailplane with several hundred feet of loose steel 
+cable dangling below could still be brought down 
+sharply if the wire caught on some obstruction, and at 
+least one pilot had lost both feet in an accident from 
+this cause. The accident to the Petrel brought matters 
+to a head. Letters in Sailplane and Glider suggested 
+possible precautions, including the use of weak links 
+in the cable so that it would snap under any unusual
+86
+
+--- PAGE 89 ---
+TYPE 13, PETREL
+strain. This eventually became standard practice4. A 
+design for a simple type of automatic release was pub- 
+lished, and though it was not adopted it was certainly 
+on the right lines. The outcome before long was the 
+invention by John Furlong and Leonard Ottley of the 
+Ottfur release. This device, if properly used with two 
+rings of correct size on the end of the cable, let go 
+immediately if the angle of the line relative to the air- 
+craft approached too nearly to the vertical. If Frank 
+Charles's Petrel had been equipped in this way, the 
+release would have operated automatically as soon as 
+the winch stopped. From 1944, when large production 
+orders for gliders for the ATC were issued, no sailplane 
+in Britain was built without an Ott fur hook.
+Yet old sailplanes were still permitted to fly with old 
+types of release for several years more. Furlong wrote 
+as late as June 1948 to warn of the dangers of these, or 
+of burying the release inside a tunnel where the rings 
+could stick. Rings which could jam in the release were 
+used sometimes. There was danger in relying on a 
+mechanical guillotine on the winch which might 
+become rusted and ineffective through lack of use. The 
+old axe, Furlong said, was still the most reliable cable- 
+chopper. It was not very unusual, even at this time, to 
+see a sailplane trailing cable over trees, fences, parked 
+vehicles and even people in order to make a landing 
+after a cable break or chop. Safety releases equivalent 
+to the original Ottfur are now mandatory on all motor- 
+less aircraft.
+Within a very few weeks after this, sport flying in 
+Britain ended for the duration of the Second World 
+War. Slingsby never completed any more Petrels after 
+the third, and customers around the Empire, men- 
+tioned in his advertisements, waited in vain. Most 
+sailplanes were impressed for various kinds of military 
+uses. In the case of the Petrel, John Neilan gave an 
+account of how he flew one over some unspecified part 
+of northern England for a few happy days during 1940. 
+It was an exercise for anti-aircraft gun crews and the 
+Royal Observer Corps in a part of the country where 
+they were not getting much practice, even during the 
+Battle of Britain. The idea was to take a tow behind a 
+Gipsy Moth, to 3,000m (10,000ft) some distance away 
+from base and then glide back by a circuitous route, 
+Neilan taking note of heights and distance while the 
+gun crews and observers on the ground attempted to 
+keep track and estimate ranges and altitudes. It is 
+probably no surprise that the officer who thought of 
+this was himself a pre-war gliding enthusiast. The lack 
+of any engine noise prevented alarm among the public 
+and compelled the ground observers to scan the skies 
+in all directions most assiduously. Perhaps acciden- 
+tally, or perhaps not, the tow rope sometimes broke 
+and Neilan was obliged to proceed by soaring. He 
+praised the Petrel warmly.
+In late 1944 and on into 1945 Slingsby was advertis- 
+ing the Petrel 2, a development which would have 
+become his Type 22. The new Petrel was to have had a 
+landing wheel, and the canopy would have been rede- 
+signed with a simple stepped shape with windscreen,
+instead of the original fully contoured nose. A fixed 
+tailplane would have been standard. It was described 
+as 4A high performance sailplane most suitable for 
+British conditions', but there was no concealing the 
+fact that the Petrel 2 had a Rhonadler wing, unchanged 
+in any important respect. The basic design dated back 
+to 1932. The Petrel 2 would have been no advance aero- 
+dynamically on the pre-war- Petrels, which had in any 
+case been only marginally better than the original Hans 
+Jacobs design. With the prospect of several much more 
+advanced types about to come on to the market, no 
+interest was shown by customers. Construction of the 
+Petrel 2 was never1 even started.
+The second and third Petrels both came through the 
+war and still survive. They have done much more flying 
+since 1945 than they ever 1 did before, and are to be seen 
+from time to time at vintage glider rallies. They are 
+graceful, safe, easy to fly, can soar in the feeblest of lift 
+and will float gently around all afternoon on almost any 
+sunny day. But if the pilot wishes to fly across-country, 
+they seem very slow.
+Petrel data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Wing sections: 
+Gottingen 
+Mid span 
+Tip 
+Lengtho.a.
+Weights
+Tare 
+Flying 
+Wing loading
+17.3m (56ft Urn) 
+16.72m2 (180ft2) 
+17.9
+652 modified 
+Gottingen 535 
+Clark YH 
+7.24m(23ft9in)
+199.5kg (4381b) 
+289.5kg (6401b) 
+17.3kg/m2 (3.541b/ft2)
+Performance
+Best glide ratio (estimate) 1:27
+The cockpit canopy with port-holes of the prototype Petrel, 
+as ordered by Frank Charles (Slingsby collection)
+87
+
+--- PAGE 90 ---
+SLINGSBY SAILPLANES
+A post-war photograph of Slingsby Petrel BGA 418 in flight. 
+(C. Brown)
+A characteristic view of the Petrel on approach to landing. 
+The very thick wing root and pronounced taper, with the gull 
+wing, give it a highly distinctive appearance. (M. Simons)
+. JL fe
+
+--- PAGE 91 ---
+Possibly the last photograph of Charles in the cockpit before 
+his fatal accident in the Petrel. (Wills collection)
+The instrument panel of BGA 418. The knob on the left is the 
+tow release. (M. Simons)
+
+--- PAGE 92 ---
+BGA 651 for a few years was restored partly to its original 
+clear-doped and varnished finish. It is seen here at a vintage 
+rally at Sutton Bank. It has since been repainted. 
+(M. Simons)
+The instrument panel of BGA 651. The tuft of wool on the 
+pitot tube is the most sensitive slip indicator available, and 
+the cheapest. (M. Simons)
+A Petrel being rigged at the Long Mynd in 1978. The wing 
+section at the root is clearly shown. It was taken directly from 
+the Rhonadler, and is a greatly modified form of the 
+Gottingen 652. This is the aircraft flown by Watt in 1939. 
+(M. Simons)
+
+--- PAGE 93 ---
+The only Petrel built with a fixed tailplane, BGA 651 flew in 
+Eire for many years and was retired to a museum. It was 
+returned in 1973 to England. The wheeled dolly is dropped 
+after take-off. (M. Russell)
+The contest number 19 and the transparent canopy identify 
+this Petrel as that flown by P .M. Watt, taking a winch launch 
+at the 1939 National Competitions. (A. E. Slatei)
+
+--- PAGE 94 ---
+|viv|
+I 
+~r i \j i \j \ *j i \j\j\j I
+J-450 J-450-K450 J-45CH
+k 450-1-450-I-450-1
+Slingsby
+Type 14
+Gu\\2
+Drawn by Martin Simons 1992
+
+--- PAGE 95 ---
+Type 14, Gull 2
+The Type 14 Gull 2 was unlucky in the hour of its birth. 
+Fred Slingsby began on this large high-performance 
+two-seater in 1938, but shelved it temporarily to work 
+on the Petrel. Sailplane and Glider carried a general- 
+arrangement drawing and a brief description of the 
+projected aircraft in January 1939. It was expected to 
+be ready for test flying in April, but Slingsby was short 
+of staff. In July the Gull 2 was again advertised as 
+nearing completion, but was not actually ready for test 
+flying until October, by which time Britain was at war.
+It was by far the largest and most complex aircraft 
+Slingsby had undertaken, and it was expensive, repre- 
+senting a large investment for his small company. What 
+prompted him to produce it is not clear. With the British 
+gliding movement still relatively small and the demand 
+for advanced cross-country two-seaters limited, he 
+cannot have expected many sales. According to state- 
+ments published years later, Slingsby recognised the 
+need for students to be trained in cross-country 
+soaring, to increase the number of 'Silver C' pilots in 
+Britain. In the long run this would have increased the 
+market for all of his aircraft. If he thought like this in 
+1938 he was well ahead of the British gliding clubs, 
+among whom such ideas had hardly begun to dawn. 
+Probably he hoped to satisfy a few relatively wealthy 
+private customers, one or two of whom might have 
+been interested in such an aircraft. He would also have 
+had an eye open for the export market.
+To assist with design work, stressing and drawing he 
+employed Thoby Fisher, now a well qualified young 
+engineer. Even with this help, much of the construc- 
+tion was done in advance of drawings. Using the 
+general-arrangement and basic layout plans, full-scale 
+lofting was carried out on the shop floor, the results 
+being transferred to paper later. The Gull was unusual 
+in having the seats arranged side-by-side. This 
+increased the frontal area of the fuselage compared 
+with contemporary two-seaters such as the German 
+Kranich but Slingsby, with the experience of his Falcon 
+3 behind him, believed that many pilots preferred this 
+arrangement. The performance would not suffer much 
+because the general aerodynamic- shape was good.
+The alternative of tandem seats led to various diffi- 
+culties. The Kranich, for example, placed the second 
+pilot behind the mainspar with his head emerging 
+between the wings. He was surrounded by structure, 
+able to see upwards but not forward or downwards 
+except through very inadequate transparent panels in 
+the wing root, nor even directly sideways because the 
+gull dihedral cut off most of the view in that direction. 
+Other designs had placed the second pilot entirely 
+under the wing, which gave excellent view down- 
+wards, but not forwards or upwards and sideways into 
+the direction of a banked turn in a thermal. The solu- 
+tion of a forward-swept wing had been adopted for the 
+magnificent Kim-3 Stakhanovetz which set world 
+records in the USSR, but this raised structural prob- 
+lems and would have required some unfamiliar stress- 
+ing 
+and 
+stiffness 
+calculations. 
+A 
+side-by-side 
+arrangement simplified every aspect of design and 
+construction. The only disadvantage, apart from the 
+small drag penalty, was that if the aircraft was ever 
+flown solo it would require ballast to compensate for 
+the absent pilot, to bring the e.g. within safe limits. 
+Slingsby was not the first designer to adopt this seating 
+arrangement, but there were only one or two prece- 
+dents in the high-performance class of sailplane.
+The Original Gull 2 sketches showed a wingspan of 
+18.3m (60ft). As work progressed the weight and wing 
+loading estimates were revised. The span was 
+extended to nearly 20m (GS/^ft), with an aspect ratio 
+over 18. A tapered planform was adopted, with a very 
+slight change of taper on the leading edge outboard of 
+the gull dihedral bend. The wing sections, from the 
+NACA four-digit series, were almost the same as those 
+on the Kirby Gull single-seater, but at the extreme root 
+the 21 per cent thick 4421 was used to give plenty of 
+spar depth. Washout and a progressive change of aero- 
+foil section to RAF. 34 at the tips was expected to 
+ensure adequate lateral control at low speeds and 
+prevent dangerous wing dropping at the stall. To 
+prevent negative angles of attack over the outer panels 
+at high speeds, the washout angle was kept to the 
+minimum necessary.
+93
+
+--- PAGE 96 ---
+SLINGSBY SAILPLANES
+The Gull 2 was stressed for a normal load factor of 
+8</ mid inverted 6</. The stalling speed was about 
+56kmh (35mph), and the estimated best glide ratio was 
+1:2^.5, which was probably optimistic. Nevertheless, 
+the performance would have been extremely good by 
+the standards of the day. With the higher aspect ratio 
+and up-to-date wing profiles the Gull 2 must have been 
+superior, in terms of sheer gliding performance, to the 
+successful Kranich which dated back to 1935. There 
+had certainly never been anything as good available in 
+Britain.
+To rig and de-rig such a large aircraft and to carry it 
+by road on a trailer made it necessary to construct the 
+wing in more than two segments. Slingsby decided on 
+three, a centre section and two outer panels. The three 
+components of the wing were of fairly similar weights, 
+the centre section weighing 196kg (43lib) and the 
+outer panels 176kg (3871b) each. This made it feasible 
+for a relatively small ground crew to assemble or de-rig 
+the Gull 2. Even so, without special equipment five 
+able-bodied persons were necessary. The rudder could 
+easily be removed for transport, so the trailer to carry 
+the Gull 2 needed to be very little longer than the outer 
+wing sections, 7m (23ft).
+The mainspar of the centre section was continuous 
+across the fuselage, the flanges being laminated in 
+spruce and incorporating the gull dihedral form. A 
+diagonal sub-spar was used to transfer the torsional 
+loads from the plywood covered 'D' wing nose to the 
+rear root connection. The plywood stressed skin of the 
+leading edges of the whole wing ahead of the mainspar 
+was laid with the grain diagonal, increasing its tor- 
+sional resistance. Behind the mainspar, as usual, the 
+wing was covered with fabric. In the original 
+schematic sketch of 1938 only flaps were shown. These 
+were intended not only for landing but to aid turning 
+tight circles in thermals. It was soon, very sensibly, 
+decided to include spoilers on the upper surface as 
+well. The flaps were confined to the inboard panels, 
+clear of the bend in the wing, and the spoilers too were 
+built into the centre section. The fuselage was hung on 
+to this very strong unit with four plain steel pins locked 
+with wire. Much weight and cost was saved by obvi- 
+ating the need for massive metal fittings to accommo- 
+date the powerful bending loads in the middle. The 
+ailerons, with diagonal bracing, extended over most of 
+the outer wing, carried on an auxiliary spar which, 
+inboard, connected with the flap supporting spar.
+The fuselage was of standard semi-monocoque type. 
+The cross-section changed progressively from a nearly 
+circular form at the front to a pear or heart shape with 
+a pointed keel at the rear. There were two large and 
+comfortable seats under a large panelled Plexiglas 
+canopy which had butterfly-type doors, and a large 
+landing wheel, essential on a sailplane of this size and 
+weight, with a skid forward. \\Tien fully rigged, a large 
+built-up plywood fairing covered the junction of wing 
+to fuselage. The tail unit was orthodox but the tailplane 
+was mounted high on a sub-fin. This provided addi- 
+tional area clear of any blanketing effects to help spin
+recovery, and also kept the tail clear of the ground 
+when landing in rough fields.
+Completed at last, the Gull 2 was ready for flight, but 
+all Chilian sport flying was now banned. It was not 
+allowed to take-off, even for testing, until in April 1940 
+two brief circuits were permitted, after which it was 
+immediately grounded again by official decree. A very 
+brief film clip exists, in colour, showing Slingsby with 
+several helpers moving the pristine new aircraft out of 
+a hangar, probably at Welburn, and trying out the 
+cockpit seating. It was at this time finished in the usual 
+clear dope and varnish. This film might have been 
+made on the occasion of the first, all too brief, flights.
+Eventually the Gull 2 was requisitioned for the ATC, 
+ostensibly to be employed for demonstrations and 
+publicity. It was not considered suitable for use as a 
+basic trainer. It is not clear how much flying it did 
+during the next few years, but at least it was not 
+smashed or allowed to deteriorate too much, as many 
+other requisitioned aircraft were. In May 1945 a rather 
+bitter comment, accompanying a description of the 
+sailplane, appeared in Sailplane and Glide)'. 'Tucked 
+away in a hangar somewhere in the North,' the article 
+began, 'sits a high performance sailplane gathering 
+dust but otherwise well-preserved.' The writer, who 
+may have been Slingsby himself, ended: 'Last year the 
+designer was given permission to make two soaring 
+flights at Sutton Bank, but further test flights were not 
+permitted and, apart from showing its excellent 
+soaring qualities, speed range, and low sinking speed 
+on the two flights at Sutton Bank, we are denied the 
+valuable data which can only be obtained from flight 
+tests by a qualified test pilot.'
+The Gull 2 made another brief appearance, but did 
+not compete, in the first post-war British National 
+Championships, held at Bramcote Naval Air Station in 
+1947. Sailplane and Glider, reporting the meeting, 
+described it and another ATC 1 aircraft, a Falcon 3, as 
+'battle scarred', though the Gull 2, still clear varnished, 
+appeared to be fully airworthy. (The Falcon did not 
+remain airworthy long; it was broken on the airfield on 
+the same day.)
+At about this time there was a half-formed plan to 
+take the Gull 2 to Australia to break world records over 
+the vast plains there. How serious this project was 
+when it was first mooted, and when it was expected to 
+happen, is hard to establish. Philip Wills had close 
+family and company connections with Adelaide in 
+South Australia. He knew the country. It is just possible 
+that this venture was in mind as early as 1938, and if so 
+it may have been one of the factors in Slingsby's deci- 
+sion to produce this two-seater. Nothing came of it 
+post-war because the Gull 2 was not made available. 
+Despite protests it remained in ATC hands until 1951 
+when, at last, it was released and allocated a BGA 
+registration. After an overhaul in the Slingsby factory 
+the Gull was painted silver overall.
+Serious test flying began in 1952, the pilot being Alan 
+Pratt, with Ron Helm as observer and ballast in the 
+second seat. During a soaring flight over Sutton Bank
+94
+
+--- PAGE 97 ---
+TYPE 14, GULL2
+extensive spin tests were carried out with satisfactory 
+results, but, even with their differential gearing, 
+application of the ailerons when initiating a turn 
+created strong adverse yaw. In any case, a sailplane of 
+this span would be much slower in the roll than the 
+smaller, lighter aircraft to which pilots were accus- 
+tomed. The tail unit was modified to increase the fin 
+area and the fuselage may have been lengthened. 
+These alterations were found necessary to improve 
+yawing stability and control. The tail moment arm was 
+relatively short for such a large span.
+Very long ailerons, as shown on the published 
+general-arrangement drawings of 1945, were fitted 
+when the Gull 2 was first built. During the development 
+flying in 1952 they were greatly shortened, by six rib 
+bays, at the inner ends. The intended effect was to 
+lighten the feel of the lateral controls without much or 
+any loss of control effect. At the same time, reduction 
+of the twisting loads on the wing imposed by aileron 
+deflections at high airspeeds reduced the likelihood of 
+control reversal. Despite these improvements the Gull 
+2's ailerons were never good, and what they were like 
+before the changes must be wondered. Roy Procter, 
+who became a member of the owning syndicate after 
+1957, wrote:
+At low speeds there was really excessive (adverse) 
+drag which could not always be countered with the 
+rudder. It was often better to make turns with full 
+rudder and opposite aileron to use aileron drag to 
+get some turn going! This took a bit of getting used 
+to, but was OK once you got the hang of it. At high 
+speeds the aileron stick forces were very high and 
+produced little effect on the flight path. This was due 
+to insufficient torsional stiffness of the wing. The 
+hinge moment caused the outer wing to rotate about 
+a spanwise centre in the opposite sense to the 
+aileron. Result nil. You could watch the wing and 
+aileron rotating in opposite directions from the 
+cockpit, which was interesting.
+A fault that was even less easily overcome was the 
+ground attitude. The wheel was slightly in front of the 
+loaded e.g. so the tailskid was down even when two 
+pilots were in the cockpit. Before take-off the wing was 
+at or very close to its stalling angle. As a result, aileron 
+control during the critical moments of a take-off run 
+was quite inadequate. Normally a wingtip runner will 
+keep a sailplane's wings level for a few yards but is 
+quickly left behind. When the runner let go if the tail 
+had not by then been raised, the Gull 2 would be moving 
+forward with a stalled wing and little or no aileron 
+control. If a wingtip went down, which it often did, it 
+could not easily be brought up again and a dangerous 
+ground loop would result unless the pilot released from 
+the tow at once. The awkward moment could be 
+avoided by holding the control column forward to bring 
+the tail up immediately. After this the trick was to keep 
+the sailplane rolling on the wheel in a flying attitude 
+until it was ready to leave the ground, which it tended 
+to do rather abruptly. Once airborne it behaved better.
+Nearly 15 years late the Gull 2 was given its 
+Certificate of Airworthiness. It was by now considered 
+out-of-date, since new low drag 'laminar flow' wing 
+profiles had come into use and had produced large 
+improvements in sailplane performance. Wing load- 
+ings had increased. Slingsby's own Type 42 Eagle, a 
+tandem two-seater with the new profiles, came into 
+service in 1952 with a wing loading of over 26kg/nr 
+(Tx^Blb/ft2). Soaring techniques had changed. In 
+competitions, floating away downwind to an unpre- 
+dictable destination was no longer good enough. 
+Flights were now navigated along prescribed courses 
+with speed points in competitions for those who com- 
+pleted the set tasks. Yet in the hands of a skilful pilot 
+the Gull 2 showed itself to be capable of very fine 
+achievements under these new circumstances. The air- 
+craft now belonged to a syndicate including Roy and 
+Ann Procter and Brennig James. The group improved 
+the ground attitude by fitting a longer, leaf-spring tail- 
+skid with a castering wheel. This reduced the wing's 
+angle of attack slightly, made ground loops less dam- 
+aging and helped ground handling. The group painted 
+it yellow overall, the only markings being the BGA 
+number 664 in small characters at the base of the fin.
+James entered it in League 1 of the British National 
+Championships, held at Lasham in July and August 
+1957. It was up against the latest single-seat sailplanes, 
+Skylarks 2 and 3 and an Olympia 403, as well as some 
+older types. A couple of Slingsby two-seat Eagles also 
+entered this league. During the competition James in 
+the Gull 2 established new National two-seater 
+records, for speed round a 100km (62 mile) triangle 
+and speed to a declared goal of 100km. The latter stood 
+for 25 years, though this was perhaps because no-one 
+actually bothered to attack it. On 31 July 1957 the Gull 
+2 missed the 200km (124 mile) triangular task speed 
+record by 5 min, the award actually going to Derek 
+Piggott, in the Eagle, at 35.8kmh (22.2mph). But 
+James's crossing of the aerial start line was missed by 
+the official timers, which cost him well over 5 min. The 
+Gull 2 actually completed the course faster than the T- 
+42. After seven contest days James placed 14th in a 
+field of 28. Piggott was only two places (31 points) 
+ahead, and the other Eagle was 22nd. All of the race 
+times were very slow by modern standards, but the 
+style of contest indicated the substantial change in 
+emphasis since the Gull 2 was conceived. That the 
+Type 14 was capable of holding its own against modern 
+aircraft nearly 20 years after it had been first planned at 
+Kirbymoorside says a great deal about the vision that 
+inspired it.
+On another occasion, Brennig James climbed the 
+Gull 2 in cloud to more than 4,200m (14,000ft). It was, 
+he said, 'a super ship, and gave us a lot of fun'. 
+Unfortunately it did not survive much longer, being 
+totally destroyed in an accident at Lasham owing to the 
+lack of aileron control during the take-off. Roy Procter, 
+who himself had had some adventures with the Gull, 
+described the result when a new syndicate member 
+attempted his first flight in it:
+95
+
+--- PAGE 98 ---
+SLINGSBY SAILPLANES
+A wing touched on aero tow take-off and despite a 
+thorough pre-flight briefing he didn't pull off. Full 
+opposite rudder could not stop the yaw. The ailerons 
+could not be deflected as the ground prevented this. 
+When considerable yaw had developed, the pilot 
+realised he could not continue and pulled off. 
+Relieved of the pu

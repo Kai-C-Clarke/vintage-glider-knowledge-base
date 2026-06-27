@@ -1,0 +1,2740 @@
+use in assembly
+operations
+250, 252, 254
+properties of
+151
+references
+166
+resistance
+of, to moisture and tem-
+perature effects
+151
+spreading of
+204
+summary of properties
+157
+synthetic-resin
+149
+tests for
+165
+urea-formaldehyde, properties of
+158
+urea-resin, use characteristics
+162
+Gluing:
+amount of pressure
+208
+assembly time in
+206
+compreg
+226
+compreg to compreg
+227
+conditioning glued stock
+227, 259
+curved
+laminated members
+in
+as-
+sembly operations
+255
+different
+species
+and
+surfaces
+of
+wood
+223
+duration of pressure
+213
+end-grain surfaces
+225
+end-grain to side-grain
+226
+fuselage frames
+271
+heat lamps
+276
+impreg
+226
+in assembly and gluing of ribs
+259
+jigs, special, for plywood skins
+277
+laminations
+in
+propeller
+manufac-
+ture^
+337
+machining joints for
+200
+machining wood for
+200
+methods
+200
+methods of applying pressure
+208, 255
+modified wood products
+226
+moisture content for
+198
+papreg
+227
+papreg to compreg
+227
+
+--- PAGE 361 ---
+INDEX
+355
+Gluing—Continued,
+plywood skins:
+application of pressure
+273
+assembly time
+273
+attaching of
+273
+bag pressure
+278
+final conditioning
+280
+pressure period
+280
+to wings, fuselage
+271
+plywood to compreg
+226
+plywood to papreg
+227
+preparation of glues for use
+202
+preparing plywood skins
+272
+pressure, use of
+207, 338
+propellers
+336, 337
+recommended
+assembly
+time
+for
+cold-setting,
+urea-resin
+glues
+207
+recommendations
+for
+gluing
+side-
+grain surfaces of different species.
+224
+references
+229
+scarf joints, in plywood
+252
+in solid stock
+251
+side-grain to end-grain
+226
+spreading of glues
+204
+straight laminated members
+254
+surface treatments
+200
+temperature
+214
+temperature,
+effect on working
+life
+of mixed glues
+214
+webs
+265
+Gluing and assembly operations
+250
+assembly periods
+250, 337
+conditioning period
+251, 338
+glue spread
+250, 337
+gluing pressures
+250
+moisture content of wood
+250
+preparation of glue for use
+250
+preparation of gluing surfaces
+250
+pressure period
+251
+prevention of slippage
+251
+•
+Gluing operation
+252
+Gluing pressures
+207, 250
+Gluing technique, propeller
+336
+Grain:
+combination of diagonal and spiral.
+74
+cross
+69
+diagonal
+70
+of wood
+6
+spiral
+71
+Grain slope:
+effect of, on scarf joints
+126
+measurement
+of,
+in
+solid wood
+70
+in
+veneer
+105
+permissible deviations in spars and
+spar flanges
+125
+Grand
+fir, identification of
+42
+Green ash, identification of
+17
+Growth, defects of
+103
+Growth layer, annual
+5
+Growth rings, mahogany
+23
+Hand plane scarfing device
+288
+Hardwoods:
+decay developed in standing trees-.
+120
+identification
+of, key for
+44
+stains in
+116
+structure, identification of
+8
+Pace
+Heartwood, color
+3
+strengt h of
+5
+Heat, absorption of, by finishes. .
+318
+Heat lamps
+276
+Heating cycle, bag molding. _
+...
+245
+Heating mediums for bag molding
+241
+Heat-stabilized, compressed wood. _
+146
+Heat-stabilized wood, gluing of
+147, 226
+Hemlock, western:
+floccosoids in
+99
+key for the identification of
+48
+High temperatures, use of, in gluing
+217
+High-frequency heating
+219
+High-strength
+laminated
+paper
+plastic
+(papreg)
+147
+Honeycomb
+187
+Horizontally laminated spars:
+annual-ring direction
+130
+compression wood
+129
+definition
+81
+dihedral
+130
+knots
+132
+pitch or bark pockets
+132
+requirements
+130
+slope of grain
+125
+Hot-press gluing
+262
+Hub, boring of
+, propellers.
+340
+Humidity, in factories, control of
+192
+Humidity control, methods of
+195
+Identification of hardwoods, key for
+44
+Identification of softwoods, key for
+47
+Identification of woods:
+Alaska birch
+27
+Alaska yellow-cedar
+33
+American beech
+23
+American elm
+15
+American sveamore
+23
+ash
+17
+baldcy press
+41
+basswood
+30
+birch
+27
+black ash
+17
+black cherry
+25
+black maple
+25
+black oak
+15
+black walnut
+19
+blackjack
+oak
+15
+bur oak
+13
+California incense-cedar
+33
+California red fir
+42
+cedar
+33
+chestnut oak
+13
+chinquapin oak
+13
+conifers
+33
+cottonwood
+31
+cucumbertree
+30
+cypress
+41
+description of woods in key
+13
+Douglas-fir
+37
+eastern red oak
+15
+eastern white pine
+35
+elm
+15
+Engelmann spruce
+41
+grand fir
+42
+green ash
+17
+hardness
+H
+
+--- PAGE 362 ---
+356
+INDEX
+Page
+Identification of woods—Continued.
+key for
+44
+khaya
+23
+laurel oak
+15
+mahogany
+23
+maple
+25
+mockernut hickory
+19
+noble fir
+42
+northern red oak
+15
+northern white cedar
+33
+odor and taste
+11
+overcup oak
+13
+Pacific silver fir__
+42
+paper birch
+27
+pecan
+19
+physical properties
+11
+pignut hickory
+19
+pin oak
+15
+pondcypress_
+41
+ponderosa pine
+37
+Port Orford white-cedar
+33
+post oak
+13
+procedure
+11
+red maple
+25
+red oak group
+15
+red pine
+37
+red spruce
+39
+redwood
+42
+rock elm
+15
+shagbark
+hickory
+19
+shellbark hickory
+19
+silver maple.
+25
+Sitka spruce
+39
+slippery elm_
+15
+southern magnolia
+30
+southern red oak
+15
+spruce
+39
+structure of hardwoods
+8
+structure of softwoods
+9
+sugar maple,
+25
+sugar pine
+35
+swamp chestnut oak
+13
+swamp red oak
+15
+swamp white oak
+13
+sweet birch
+27
+sweetgum.
+29
+true firs
+42
+true hickories
+19
+water oak_
+15
+water tupelo
+31
+weight, dry
+11
+western hemlock.
+44
+western larch
+39
+western redcedar
+33
+western white pine
+35
+white ash
+17
+white fir
+42
+white oak group
+13
+white pine group
+35
+white spruce
+39
+willow oak
+15
+yellow birch
+27
+yellow pine group
+37
+yellowpoplar
+29
+Page
+Impreg
+140
+from different species
+141
+possible uses for
+145
+properties of Forest Products Lab-
+oratory impreg compared to nor-
+mal wood, table for
+142
+references
+146
+wood, gluing of.
+22G
+Incense-cedar,
+California,
+key
+for
+the
+identification of
+48
+Indented rings
+91
+spar flanges
+127
+spars
+127
+Indian paint fungus
+119
+Insect attack
+190
+Interior finish, of spars
+265
+Introduction
+1
+Jigs, in assembly of the fuselage frame.-
+270
+special, for gluing plywood skins
+277
+Joint tests, glue quality
+165
+Jointer
+285
+Joints, dried
+208
+starved
+208
+temperature,
+effect on
+rate
+of
+set-
+ting, in
+215
+Key for the identification of:
+hardwoods
+44
+softwoods.
+47
+Khaya, identification of
+23
+key for the identification of
+45
+Kiln schedule for aircraft woods
+182
+Kiln-dried stock, storage
+189
+Kiln-drying:
+defects
+187
+effect of heat on strength
+191
+essentials of
+181
+of lumber
+181
+Knots
+:
+defects and blemishes
+66
+horizontally laminated spars
+132
+laminated spar flanges
+132
+measurement of
+68
+solid spar flanges
+132
+solid spars
+130
+vertically laminated spars
+132
+Lack of flatness, veneer
+103
+Lacquer for aircraft finishes
+320
+Laminated beams, exposure tests on
+156
+Laminated paper plastic (papreg)
+147
+Laminated spar flanges:
+compression wood
+129
+definition
+132
+knots
+132
+pitch or bark pockets
+134
+requirements
+132
+slope of grain.
+125
+Laminated wood,
+resin-treated
+(impreg
+and compreg)
+139
+Laminating
+303
+Laminations:
+for
+gluing,
+preparation
+of,
+pro-
+peller manufacture
+336
+gluing, in propellers
+337
+surfacing
+of,
+in
+spars
+and
+spar
+flanges
+127
+
+--- PAGE 363 ---
+INDEX
+357
+Page
+Larch,
+western,
+key
+for
+the
+identifica-
+tion of
+47
+Laurel oak, identification of
+15
+Logs and lumber, types of decay in
+122
+Loose cutting, veneer
+103
+Lumber:
+"air-dry"
+17G
+air seasoning of
+179
+"green"
+17(i
+green, moisture content of
+55
+"kiln-dried"
+176
+kiln-drying of
+181
+placing of for seasoning
+180
+plain-sawed
+6
+prior to seasoning, care of
+178
+shipment of
+178
+"quarter-sawed"
+6
+seasoning and storage of
+109
+"shipping dry"
+170
+site for storage
+180
+stain prevention
+179
+Lumber and logs, types of decay in
+122
+Machining:
+bending,
+and
+other
+woodworking
+operations
+284
+joints, for gluing
+200
+of fabric-covered wing frames
+207
+wood, for gluing
+200
+Magnolia, southern, key for the identi-
+fication of
+46
+Mahogany
+:
+annual rings
+23
+identification of
+23
+key for the identification of
+45
+Manual-pressure gluing of ribs
+260
+Manufacture of propellers
+336
+Manufacturing defects, of plywood
+136
+Maple, annual rings
+27
+key for the identification of
+46
+specific gravity table
+27
+Material
+304
+Materials for aircraft finishing
+319
+Materials tested at the Forest Products
+Laboratory as
+substitutes
+for rubber
+bag materials
+in making molded ply-
+wood, summary
+of, table for
+235
+Melamine glues, properties of
+158
+Method of applying aircraft finishes
+327
+Method
+of applying pressure,
+in gluing
+curved laminated members
+255
+Mineral streaks, defects and blemishes—
+91
+Minimum (approximate)
+ratio of radius
+of curvature to thickness of dry veneer
+for bag molding, table for
+239
+Mockernut hickory, identification of
+19
+Modified wood:
+combination
+of
+compressed
+and
+uncompressed wood
+145
+plywood, laminated wood, compreg,
+impreg,
+heat-treated
+wood,
+and
+papreg
+135
+Modified wood products, gluing of
+220
+Moisture:
+absorption
+and
+swelling,
+parallel-
+laminated compreg, taljle for
+144
+Page
+Moisture—Continued.
+calculated
+percentage
+of, added
+to
+wood
+in
+gluing
+with
+cold-press
+glues, table for
+198
+content:
+bag-molding technique
+239
+change
+of,
+on
+curved
+wood
+members, effect of
+64
+determination of,
+50
+determination, oven-dry meth-
+od
+56
+for gluing
+198
+in spars and spar flanges
+126
+maximum for wood
+56
+of green lumber
+55
+of seasoned lumber.
+176
+of wood
+55
+airplane parts under serv-
+ice conditions, table for,
+192
+gluing and assembly opera-
+tions
+198
+humidity and temperature,
+effect on
+169
+tests, conditions to be observed
+in making
+59
+values,
+combination
+of
+tem-
+peratures
+and
+relative
+hu-
+midities
+suitable
+for
+drying
+cold-pressed
+plywood
+and
+assemblies to various desired,
+table for
+228
+woodworking operations
+303
+effects of, on glues
+151
+in propellers
+330
+meter, how used, example
+58
+sap
+109
+Moisture and
+temperature,
+effects,
+re-
+sistance of glues to_
+151
+Molds:
+bag-molding
+231
+concrete,
+bag-molding
+233
+metal, bag-molding
+233
+wood, bag-molding
+232
+Xail gluing of ribs
+259
+Navy Bureau of Ships specification
+344
+Noble fir, identification of
+42
+Nonuniform thickness, veneer
+103
+Northern red oak, identification of
+15
+Northern white cedar, identification oL
+33
+Oak, key for the identification of
+44
+Odor of wood
+11
+Oleoresinous products, for aircraft finish-
+320
+Operations, gluing and assembly.
+250, 252, 254
+Overcup oak, identification of
+13
+Pacific silver fir, identification of
+42
+Paints for aircraft
+323
+Paper birch, identification of
+27
+Paper
+plastic,
+high-strength
+laminated
+(papreg)
+147
+Papreg
+147
+gluing
+227
+molding of
+148
+Patching putties
+322
+Pecan:
+identification of
+19
+key to the identification of
+45
+resembles true hickories
+19
+
+--- PAGE 364 ---
+358
+INDEX
+Page
+Phenol-formaldehyde glues, properties of,
+157
+Phenols, low-temperature, time-temper-
+ature, relations of
+219
+Physical
+properties
+in
+identification
+of
+wood
+11
+Pignut hickory, identification of
+19
+Piling, of lumber
+184
+preparing air-dried stock for manu-
+facturing
+188
+Pin oak, identification of
+15
+Pines, key for the identification of
+47
+Pitch or bark pockets:
+horizontally laminated spars
+132
+laminated spar flanges
+134
+solid spar flanges
+132
+solid spars
+130
+vertically laminated spars
+132
+Pitch pockets
+87
+in softwoods
+10
+Pith flecks
+77
+Plain-sawed lumber
+6
+Planer
+285
+Plywood
+135
+bag-molded
+229
+conditioning of
+229
+bent after soaking or steaming
+310
+bent without softening
+309
+blisters
+136
+hot-pressed, conditioning
+228
+joint, test, glue quality
+165
+manufacturing defects
+136
+resin-treated (impreg and compreg).
+139
+shrinkage of
+136
+skins:
+application
+of,
+to
+wings,
+fuse-
+lage
+271
+assembly time
+273
+attaching
+273
+bag pressure
+278
+final conditioning
+280
+glue spread
+273
+gluing jigs, special
+277
+preparing
+272
+pressure, application of
+273
+pressure period
+280
+Plywood and veneer, weights of
+137
+Pondcypress, identification of
+41
+Ponderosa pine, identification of
+37
+Port
+Orford
+white
+cedar,
+identifica-
+tion of
+33
+Post oak, identification of
+13
+Potentiometers
+282
+Preparation of glues, casein glues
+203
+resin glues
+203
+Preparing
+air-dried stock
+for
+manufac-
+ture
+188
+Preservatives, use in glues
+155
+Presses and clamps, in gluing
+254
+Pressing, propeller manufacture
+338
+Pressing time:
+approximate, for the gluing of panels
+with
+phenolic-resin
+glues
+when
+the platen temperatures are 300°
+F., table for
+218
+Pressure:
+amount
+of,
+bag molding
+244
+in gluing.
+208
+Page
+Pressure—Continued.
+data,
+screw
+clamps and
+other
+de-
+vices used in gluing, table for
+211
+duration of, in gluing
+213
+in assembly and gluing of, box spars _
+264
+ribs
+263
+in gluing fuselage frames
+271
+in gluing wing frames
+269
+method of applying in gluing curved
+laminated members
+255
+methods of applying, in gluing
+208, 255
+on plywood skins, application of
+273
+period, for use in gluing and assem-
+bly operations
+251
+gluing plywood skins
+280
+in gluing wing frames
+269
+time under,
+in
+curved
+laminated
+members
+259
+use of, in gluing
+207
+Pressure and temperature equipment for
+bag molding
+237
+Prevention of slippage in assembly opera-
+tions
+251
+Principal synthetic-resin glues
+classified
+as
+to
+type,
+form,
+general
+operating
+characteristics, table for
+159
+Processing and fabrication
+169
+Propeller manufacture
+336
+assembly time, laminations
+337
+balancing
+339,
+340
+boring hub
+340
+checking
+340
+conditioning
+338
+densified wood propellers
+341
+finish cutting and balancing
+339
+finishing propellers
+340
+gluing, laminations
+337
+gluing technique
+336
+glue spread, laminations
+337
+laminations
+for
+gluing, preparation
+of
+336
+pressing
+338
+protection against abrasion
+340
+rough cutting
+339
+shaping propellers
+339
+temperature
+337
+Propellers:
+finishing
+340
+moisture content
+336
+wood, densified
+341
+Properties of:
+aircraft glues
+151
+casein glues
+158
+compreg,
+compared
+with
+normal
+wood, table for
+144
+Forest Products Laboratory impreg,
+compared to normal wood,
+table
+for
+142
+glues, summary of
+157
+melamine glues
+158
+phenol-formaldehyde glues
+157
+urea-formaldehyde glues
+158
+Quarter-sawed lumber
+6
+Radius of curvature:
+in curved laminated members
+303
+plywood, woodworking operations.-
+305
+woodworking operations
+303
+
+--- PAGE 365 ---
+INDEX
+359
+Page
+Rays in softwoods
+9
+Red maple, identification of
+25
+Red pine, identificat ion of
+37
+Red spruce, identificat ion of
+39
+Red stain
+115
+Red streaks, radial, in spruce, defects and
+blemishes
+94
+Redcedar, western, key for the identifica-
+tion of
+48
+Redwood, identification
+of
+42
+key for the identification of
+48
+References:
+bag-molded plywood
+249
+finishing
+336
+glue
+166
+gluing
+229
+seasoning
+192
+wood stains and decays
+123
+Reinforcing
+blocks,
+fabric-covered wing
+frames
+267
+Relative humidities at different seasons,
+table for
+171
+Relative humidity:
+and
+temperature,
+seasoning
+and
+storage of lumber
+181
+for
+use
+with
+wret-
+and
+dry-bulb
+thermometers, table for
+174
+geographical variation in
+169
+measurement of
+173
+Required thickness of laminations
+304
+Requirements:
+applicable to all wood parts
+125
+curved laminated members
+134
+for wood in:
+scarf joints
+126
+spars
+128
+specific parts
+124
+combination of grain slope.
+125
+spars,
+permissible
+grain
+slope, deviations in
+125
+general:
+spar
+flanges,
+measurement
+of
+bow
+.
+129
+spars, straightness in
+128
+spars and spar flanges
+128
+decay and stain
+127
+indented rings
+127
+moisture content
+126
+rings per inch
+126
+shakes,
+splits, or compres-
+sion failures
+127
+sapwood
+127
+specific gravity
+127
+straightness
+128
+surfacing of laminations
+127
+horizontally laminated spars
+130
+annual-ring direction
+130
+compression wood
+129
+dihedral
+130
+knots
+130
+pitch or bark pockets
+132
+slope of grain
+125
+laminated spar flanges
+132
+compression wood
+129
+dihedral
+130
+knots
+132
+pitch or bark pockets
+134
+slope of grain
+125
+Page
+Requirements—Continued.
+solid spar flanges
+132
+annual-ring direction
+132
+compression wood
+129
+knots
+132
+pitch or bark pockets
+132
+slope of grain
+125
+solid spars
+130
+annual-ring direction
+130
+compression wood
+129
+definition
+130
+knots
+130
+pitch or bark pockets
+130
+slope of grain
+125
+vertically laminated spars
+131
+annual-ring direction
+131
+compression wood
+129
+knots,
+132
+pitch pockets and bark pockets.
+132
+slope of grain
+125
+wood in stressed parts of small cross
+section
+as
+compared
+to
+their
+length
+134
+Resin canals, giant, in spruce
+95
+Resin ducts in softwoods
+9
+Resin glues, preparation of
+203
+time-temperature curing relations of
+high-temperature resin glues
+218
+Resins, bag-molding
+233
+Resin-treated, laminated wood
+139
+plywood (impreg and compreg)
+139
+wood, possible uses for
+145
+Resistance of glues to moisture and tem-
+perature effects
+151
+Ribs:
+assembly and gluing of
+259
+final conditioning of
+259, 263
+hot-press gluing of
+262
+manual-pressure gluing of
+260
+pressure
+263
+Rings, per inch, in spars and spar flanges.
+126
+wood.
+59
+Ring-scale fungus
+118
+Rock elm, identification of
+15
+Rotary planer scarfing device
+290
+Rough cutting, veneer
+101
+propeller manufacture
+339
+Routing of spars
+290
+Sander-drum scarfer
+290
+Sander-drum scarfing machine
+290
+Sanding surfacer
+322
+Sandwich construction
+148
+Sap
+169
+Sapwood:
+color
+4
+requirements,
+general,
+128
+strength
+5
+thickness
+5
+Saws
+287
+Saw-scarfing machines
+289
+Scarf joints:
+in plywood, gluing of
+252
+in solid stock, gluing of
+251
+requirements for
+126
+serrated, finger, and stepped,
+gluing
+of
+252
+Scarfing plywood
+287
+Scarfing solid stock
+284
+
+--- PAGE 366 ---
+360
+INDEX
+Page
+Sealer for aircraft finish
+321
+Seasoned lumber, moisture content of
+176
+Seasoning and drying of lumber, example,
+187
+Seasoning of lumber
+169
+air flues
+180
+approximate
+moisture
+content,
+by
+months for different regions, table
+for
+177
+brashness
+188
+casehardening
+188
+collapse
+188
+covering
+180
+final conditioning of air-dried stock.
+188
+foundations
+179
+honeycomb
+187
+kiln drying__
+181
+Kiln-drying defects
+187
+material
+181
+piling
+184, 189
+placing of lumber
+180
+preparing air-dried stock for manu-
+facture
+188
+selection of samples
+185
+site
+180
+steaming.
+185
+stickers
+180
+suggested
+relative
+humidities
+for
+temperatures specified in schedule
+2, of AN-W-2a, table for
+182
+surface checks
+187
+temperature and relative humidity..
+181
+tests at end of drying period
+185
+Seasoning references
+192
+Selection of stock
+303
+Serrated, finger, and stepped scarf joints,
+gluing of
+252
+Shagbark hickory, identification of
+19
+Shakes, checks, and splits
+77
+splits, or compression failures, spars
+or spar flanges
+127
+Shaper
+285
+Shaping, beveling, profiling of ribs, wing
+frames, and fuselage frames
+295
+box-section framing members
+298
+propellers
+339
+Shellbark hickory, identification of
+19
+Shrinkage:
+of plywood
+136
+of wood
+60
+Side-grain surfaces, recommendations for
+gluing, of different species
+224
+Silver maple, identification of
+25
+Site, in seasoning and storage of lumber..
+180
+Slippery elm, identification of
+15
+Slope of grain:
+horizontally laminated spars
+125
+in solid wood, measurement of
+125
+in veneer, measurement of
+105
+laminated spar flanges
+125
+solid spar flanges
+125
+solid spars
+125
+vertically laminated spars
+125
+Sloping grain on scarf joints, effects of
+126
+Softening process
+303
+Softwoods:
+identification of, key for
+47
+terms
+7
+Page
+Softwoods—Continued.
+pitch pockets
+10
+rays
+9
+resin ducts
+9
+structure, identification of
+9
+Solid spar flanges:
+annual-ring direction
+132
+compression w
+rood
+129
+definition
+132
+knots
+132
+pitch or bark pockets
+132
+requirements
+132
+slope of grain
+125
+Solid spars:
+annual-ring direction
+130
+compression wood
+129
+definition
+130
+knots
+130
+pitch or bark pockets
+130
+requirements
+130
+slope of grain
+125
+Southern magnolia, annual rings
+30
+identification of
+30
+Southern red oak, identification of
+15
+Spar flanges, straightness in
+128
+Spar-profiling:
+with band saw and shaper
+292
+with jointer
+294
+Spars:
+final conditioning of
+265
+permissible
+grain
+slope
+deviations,
+in
+125
+straightness in
+128
+Spars and spar flanges:
+decay and stain
+127
+general requirements for
+128
+indented rings
+127
+measurement of bow, in
+129
+moisture content
+126
+rings per inch
+126
+sapwood
+127
+shakes,
+splits,
+or compression
+fail-
+ures
+127
+specific gravity
+127
+surfacing of laminations
+127
+Specific gravity:
+and rings per inch
+in AN specifica-
+tions, limits of, table for
+127
+and unit weight of wood
+48
+compreg
+143
+computing
+48
+of wood, flotation method
+53
+spars and spar flanges
+127
+values :
+of three elms, tables for
+17
+the birches, table for
+28
+the maples, table for
+27
+veneer
+:
+53
+Specific parts:
+combination of grain slope, require-
+ments for
+125
+requirements for wood, in
+124
+spars, permissible grain slope devia-
+tions, in
+125
+Specifications, list of
+343
+Splits, checks, and shakes
+77
+Springwood
+6
+
+--- PAGE 367 ---
+INDEX
+361
+Spruce:
+giant resin canals in
+95
+radial red streaks in
+94
+Sitka, identification of
+39
+Spruces
+:
+annual rings
+39
+identification of
+39
+key for the identification of
+47
+Stain prevention of lumber
+179
+Stains:
+in con tiers
+114
+in hardwoods
+116
+Stains and decay, wood
+113
+wood, references
+123
+Staypak
+146
+Steam bending
+303, 310
+Steaming of lumber
+185
+Stickers
+180
+Storage
+:
+effect
+of,
+on
+defects,
+air-dried and
+kiln-dried stock
+190
+of kiln-dried and air-dried stock
+189
+of lumber
+169
+Straight laminated members:
+final
+conditioning,
+after
+gluing
+in
+assembly operations
+255
+glues, in assembly operations
+254
+gluing of, in assembly operations
+254
+presses and clamps used
+in
+gluing
+of,
+in assembly operations
+254
+Strength of wood, variation with amount
+of summerwood
+59
+Strength
+properties
+of wood,
+effect
+of
+heat on
+191
+Sugar maple, identification of
+25
+Sugar pine, identification of
+35
+Suggestions on bag-molding technique..
+246
+Summerwood
+6
+variations in strength
+59
+Surface checks
+187
+Surface glazing
+201
+Surface treatments for gluing
+200
+Surfaces, gluing, preparation of
+250
+Swamp chestnut oak, identification of__
+13
+Swamp red oak, identification of
+15
+Swamp white oak, identification of
+13
+Sweet birch, identification of
+27
+Sweetgum:
+annual rings
+29
+identification of
+29
+key for the identification of
+46
+Sycamore,
+American, key for the iden-
+tification of
+45
+Svnthetic-resin glues
+149
+Table for:
+approximate minimum
+ratio
+of
+ra-
+dius of curvature to thickness of
+dry veneer for bag molding
+239
+approximate
+pressing time
+for the
+gluing
+of
+panels
+with
+phenolic-
+resin glues when the platen tem-
+peratures are 300° to 310° F
+218
+average and minimum values of spe-
+cific gravity and weight for
+vari-
+ous aircraft woods under different
+conditions of moisture and accom-
+panying adjusting constants
+50
+Table for— Continued.
+Page
+calculated
+precentage
+of
+moisture
+added
+to
+wood
+in
+gluing
+with
+cold-press glues
+198
+combinations
+of temperatures and
+relative
+humidities
+suitable
+for
+drying cold-pressed plywood and
+assemblies
+to
+various
+desired
+moisture content values
+228
+conversion
+factors
+for
+grams
+per
+cubic centimeter and pounds per
+cubic foot of wood
+55
+effect
+of
+outside
+temperatures
+on
+inside humidities and equilibrium
+moisture content values when the
+outside
+relative
+humidity
+is
+75
+percent
+193
+equipment and limitations on condi-
+tions in various methods of bag-
+molding of plywood
+243
+imperfections
+in
+present and
+pro-
+spective aircraft softwoods
+66
+limits
+of
+specific gravity and
+rings
+per inch in AN specifications
+127
+moisture
+absorption
+and
+swelling,
+parallel-laminated compreg
+144
+moisture content
+of wood
+airplane
+parts under service conditions
+192
+phenol-formaldehyde
+resin-forming
+mixes, seven commercial
+140
+pounds
+per
+cubic
+foot and
+corre-
+sponding specific
+gravity
+values,
+of wood
+54
+pressure data on screw clamps and
+other devices used in gluing
+211
+principal natural defects and blem-
+ishes found in veneer of four com-
+mon aircraft woods
+104
+principal synthetic-resin glues
+clas-
+sified as to type, form, and general
+operating characteristics
+159
+properties
+of
+compreg
+compared
+with normal wood
+144
+properties of Forest Products Labo-
+ratory impreg, compared
+to nor-
+mal wood
+142
+range
+in
+average
+shrinkage
+of
+a
+number of native species of wood.
+61
+range
+in
+recommended
+assembly
+time for cold-setting glues
+207
+relative
+humidities,
+at
+different
+seasons
+171
+relative humidity, for use with wet-
+and dry-bulb thermometers
+174
+relative
+proportions by
+volume
+of
+ingredient per
+gallon
+of product
+ready
+for
+application
+for
+four
+finishes
+323
+seasoning
+and
+storage
+of
+lumber,
+approximate moisture content, by
+months,
+for different regions
+177
+shrinkage
+values
+for
+commercially
+important woods
+62
+specific
+gravity
+values
+and
+corre-
+sponding pounds per cubic foot of
+wood
+54
+suggested
+relative
+humidities
+for
+temperatures specified in schedule
+2, of AN-W-2a
+182
+#
+
+--- PAGE 368 ---
+362
+INDEX
+Page
+Table for—Continued.
+suggested
+relative
+humidities
+for
+temperatures specified in schedule
+3, of AN-W-2a
+182
+suggested
+relative
+humidities
+for
+temperatures specified in schedule
+4, of AN-W-2a
+183
+suggested
+relative
+humidities
+for
+temperatures specified in schedule
+5, of AN-W-2a
+183
+suggested
+relative
+humidities
+for
+temperatures specified in schedule
+6, of AN-W-2a
+184
+summary of materials tested at the
+Forest
+Products
+Laboratory
+as
+substitutes
+for
+rubber
+bag
+ma-
+terials in making molded plywood.
+235
+weights in pounds per square foot of
+oven-dry veneer and veneer of 10
+percent moisture content
+138
+Taper, horizontally laminated spars
+130
+Taste of wood
+11
+Temperature:
+effect of, on glues
+214
+effect on assembly period
+215
+effect on rate of setting in joints
+215
+effect on working life of mixed glues.
+214
+electrostatic heating
+219
+high temperatures, use of
+217
+humidity
+and
+moisture
+relations,
+preparing
+air-dried
+stock
+for
+manufacture
+189
+in gluing
+214
+measurement
+280
+measurement with potentiometers..
+282
+measurement with thermocouples. _
+280
+propeller manufacture
+337
+rate
+of
+setting
+of
+casein
+glues
+at
+elevated temperatures
+219
+rate
+of
+setting
+of
+cold-setting,
+urea-resin glues at elevated tem-
+peratures
+219
+time-temperature relations of high-
+temperature resin glues
+218
+time-temperature
+relations
+of low-
+temperature phenols
+219
+Temperature
+and
+relative
+humidity,
+seasoning and storage of lumber
+181
+Tenoner
+285
+Tension straps
+303
+Tests:
+at end of drying period
+185
+block-shear joint tests, glue quality .
+165
+exposure,
+on
+laminated beams
+156
+glue
+quality,
+joint
+tests
+165
+moisture
+content,
+conditions
+to
+be
+observed in making
+59
+plywood joint, glue quality
+165
+Texture of wood
+6
+Thermocouples for temperature measure-
+ment
+280
+Traveling cutter-head scarfing machine.
+288
+True
+firs, identification of
+42
+True
+hickories, annual rings
+19
+key
+to
+the
+identification
+of
+45
+Tubular members, bag-molding
+247
+Page
+Tupelo, water, key for the identification
+of
+47
+Urea-formaldeh3
+- de glues, properties of__
+158
+Urea-resin
+glues,
+cold-setting,
+rate
+of
+setting of, at elevated temperatures. _
+219
+Varnish for aircraft
+314
+Veneer:
+assembling of, bag-molding
+239
+defects
+101
+specific gravity of
+53
+Veneer and plywood, weights
+of
+137
+Vertical cutter-head scarfing machine. .
+287
+Vertically laminated spars:
+annual-ring direction
+131
+compression wood
+129
+definitions
+131
+knots
+132
+pitch pockets and bark pockets
+132
+requirements
+131
+slope of grain
+125
+Walnut, black, key for the identification
+of
+45
+Water oak, identification of
+15
+Water tupelo, and swamp tupelo, wood
+indistinguishable
+33
+identification of
+31
+Webs, gluing
+265
+Weights
+in pounds
+per square
+foot
+of
+oven-dry veneer and veneer of 10 per-
+cent moisture
+content,
+table
+for
+138
+Weights of wood members
+55
+Western hemlock,
+identification
+of
+44
+Western larch, identification of
+39
+Western redcedar, identification of
+33
+Western white pine, annual rings
+35
+identification of
+35
+White ash, identification of
+17
+White-cedar,
+northern,
+key
+for
+the
+identification of
+47
+Port Orford, key for the identifica-
+tion of
+47
+White fir, identification of
+42
+White heart rot
+120
+White oak, identification of
+13
+White pine group,
+identification
+of
+35
+White pocket rot
+120
+White spruce, identification of
+39
+Willow oak, identification of
+15
+Wing and fuselage frames, assembly of
+265, 270
+Wing frames:
+fabric-covered, assembly of
+265
+final conditioning following gluing.
+270
+glues for
+,
+268
+glue spread
+268
+plywood-covered, assembly of
+267
+pressure, in gluing
+269
+pressure period, in gluing
+269
+Wings, plywood skins, application of
+271
+Wing-tip bow profiling
+298
+Wood:
+annual rings
+5
+basic information
+3
+cellular structure
+5
+change
+of
+moisture
+content
+on
+curved wood members, effect of..
+64
+
+--- PAGE 369 ---
+INDEX
+363
+Wood—Continued.
+PaSe
+conversion
+equivalents,
+pounds
+to
+grams
+. _
+55
+conversion
+factors
+for
+grams
+per
+cubic centimeter and pounds per
+cubic foot, table for
+55
+decay developed
+in standing
+trees,
+conifers
+118
+defects and blemishes
+65
+description, general
+3
+detection of decay
+117
+filler, for aircraft finish
+322
+finish,
+effects
+of, on smoothness
+of
+surface
+317
+protective power of
+313
+finishing, in air craft
+312
+general characteristics
+48
+gluing different species and surfaces
+of
+223
+grain and texture of
+6
+heartwood and sapwood
+3
+heat-stabilized
+14(3
+hygroscopicity
+3
+identifying procedure
+11
+imperfections in present and prospec-
+tive aircraft softwoods, table for^ .
+66
+maximum, moisture content
+56
+moisture content
+55
+determination by electric mois-
+ture meters
+58
+determination of
+56
+determination,
+oven-dry
+method
+56
+of green lumber
+55
+natural discolorations
+122
+occurrence of staining fungi
+114
+occurrence of wood-decaying fungi. .
+117
+plain-sawed lumber
+6
+pounds
+per
+cubic
+foot
+and
+cor-
+responding specific gravity values,
+table for
+54
+properties modified by
+resin
+treat-
+ment
+3
+quarter-sawed lumber
+6
+range
+in
+average
+shrinkage
+of
+a
+number of species of, table for
+61
+requirements applicable to all wood
+parts
+125
+requirements for:
+in scarf joints
+126
+in specific parts
+124
+in stressed parts of small cross
+section as compared to their
+length
+134
+rings per inch
+59
+sapwood, color
+4
+thickness
+5
+shrinkage of
+60
+shrinkage
+values
+for
+commercially
+important woods, table for
+62
+specific gravity:
+and unit weight of
+48
+flotation method
+53
+of veneer
+53
+values
+and
+corresponding
+pounds per cubic
+foot, table
+for
+54
+Wood—Continued.
+Page
+specific parts, combination of grain
+slope, requirements for
+125
+springwood and summerwood
+6
+stains and decay
+113
+references
+123
+stains in conifers
+114
+stains in hardwoods
+116
+texture
+6
+variation
+in
+strength with amount
+of summerwood
+59
+Wood parts,
+all, requirements applicable
+to
+125
+Woods, description of, in key
+13
+Woodworking operations:
+band sawing
+303
+bending of plywood
+305
+beveling
+and
+profiling
+spars,
+spar
+flanges, and similar parts
+292
+boring
+300, 340
+compound curvatures
+308
+contour
+drum-sander
+for
+frame-
+work
+299
+contour planing of spar flanges
+294
+contouring with a router
+297
+contouring with a shaper
+297
+cutting gussets and
+other
+plywood
+parts of curved or irregular shape.
+301
+cutting scarf joints
+284
+double laminating
+305
+end joints in laminations
+304
+example showing use of figures 5-89
+and 5-90
+308
+factor of safety
+308
+floating
+298
+formation of complete rings
+305
+formation of curved parts
+302
+hand plane scarfing device
+288
+jointer
+285
+laminating
+303
+machining, bending, and other
+284
+material
+304
+moisture content
+303
+planer
+285
+plywood,
+bent
+after
+soaking
+or
+steaming
+310
+plywood, bent without softening
+309
+radius of curvature
+303
+plywood
+305
+references
+312
+required thickness of laminations
+304
+routing of spars
+290
+sander-drum
+scarfer
+for
+veneer
+strips
+290
+sander-drum
+scarfing
+machine
+for
+thin plvwood and veneer
+290
+saws
+'_
+287
+saw-scarfing machines
+289
+scarfing plvwood
+287
+scarfing soiid stock.
+284
+selection of stock
+303
+shaper
+285
+shaping, beveling, and
+profiling
+of
+ribs,
+wing
+frames,
+and
+fuselage
+frames
+295
+shaping
+box-section framing mem-
+bers
+298
+
+--- PAGE 370 ---
+364
+INDEX
+Woodworking operations—Continued.
+softening process
+303
+spar profiling on a jointer
+294
+spar
+profiling
+with
+band saw
+and
+shaper
+292
+steam bending.
+303
+tetoner
+285
+tension straps
+303
+traveling
+cutter-head
+scarfing ma-
+chine
+288
+vertical
+cutter-head
+scarfing
+ma-
+chine
+287
+Page
+Woodworking operations—Continued.
+wing-tip bow profiling
+298
+Yellow birch, identification of
+27
+Yellow pine group, identification of
+37
+Yellow stain
+117
+Yellow-cedar, Alaska, key for the identi-
+fication of
+47
+Yellowpoplar:
+annual rings
+29
+black streak and soot pockets in
+97
+identification of
+29
+kev for the identification of
+46
+o

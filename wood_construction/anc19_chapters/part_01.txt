@@ -1,0 +1,1227 @@
+# ANC-19 Wood Aircraft Inspection and Fabrication
+
+
+--- PAGE 1 ---
+20 December 1943
+ANC BULLETIN
+OD AIRCRAFT INSPECTION
+AND FABRICATION
+WAR DEPARTMENT
+ARMY AIR rORCES
+NAVY DEPARTMENT
+BUREAU OF AERONAUTICS
+DEPARTMENT OF COMMERCE
+CIVIL AERONAUTICS ADMINISTRATION
+Issued by
+ARMY.NAVY-CIVIL COMMITTEE
+on
+:
+AIRCRAFT DESIGN CRITERIA
+Under the supervision of the
+f^lffRONAUTICAL BOARD
+The contents of this Bulletin shall not be reproduced in whole or
+in part without specific authorization of the Aeronautical Board.
+
+--- PAGE 3 ---
+ANC-19
+20 December 1943
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION
+AND FABRICATION
+WAR DEPARTMENT
+ARMY AIR FORCES
+NAVY DEPARTMENT
+BUREAU OF AERONAUTICS
+DEPARTMENT OF COMMERCE
+CIVIL AERONAUTICS ADMINISTRATION
+Issued by
+ARMY-NAVY-CIVIL COMMITTEE
+on
+AIRCRAFT DESIGN CRITERIA
+Under the supervision of the
+AERONAUTICAL BOARD
+The contents of this
+Bulletin shall not be reproduced in whole or
+in
+part without
+specific authorization
+of the Aeronautical
+Board.
+UNITED STATES GOVERNMENT PRINTING OFFICE
+WASHINGTON
+: 1944
+FAA Library
+
+--- PAGE 5 ---
+TABLE OF CONTENTS
+Page
+Chapter
+1.
+General
+1
+1.0. Purpose and Use of Bulletin
+1
+Chapter 2.
+Wood
+3
+2.0. Basic Information on Wood as an Aircraft Material -
+.
+3
+2.1.
+Identification of Wood
+7
+2.2.
+General Characteristics
+48
+2.3.
+Defects and Blemishes
+65
+2.4. Requirements for Wood in Specific Parts
+124
+Chapter 3.
+Modified Wood
+135
+3.0. Plywood, Laminated Wood, Compreg, Impreg, Heat-stabilized Wood__
+135
+3.1. Plywood
+135
+3.2. Glued Laminated Members
+137
+3.3. Resin-Treated Plywood and Laminated Wood (Impreg and Compreg)
+139
+3.4.
+Heat-stabilized, Compressed Wood
+146
+3.5. High-strength Laminated Paper Plastic (Papreg)
+147
+3.6. Combination Materials
+148
+Chapter 4.
+Aircraft Glues
+149
+4.0. Kinds
+149
+4.1.
+Properties of Aircraft Glues
+151
+4.2. Use Characteristics of Aircraft Glues
+158
+4.3.
+Control of Glue Quality
+163
+Chapter 5.
+Processing and Fabrication
+169
+5.0. Seasoning and Storage of Lumber
+169
+5.1.
+Control of Humidity in Factories
+192
+5.2.
+Gluing
+196
+5.3. Bag-molded Plywood and Structures
+229
+5.4. Gluing and Assembly Operations
+250
+5.5. Temperature Measurement
+280
+5.6.
+Machining, Bending, and Other Woodworking Operations
+284
+5.7.
+Finishing Wood in Aircraft
+312
+5.8.
+Propeller Manufacture
+336
+Chapter 6.
+Miscellaneous
+343
+6.0.
+List of Specifications
+343
+6.1.
+Glossary
+344
+6.2. Index
+351
+in
+
+--- PAGE 6 ---
+Training plane of modern plywood construction.
+
+--- PAGE 7 ---
+CHAPTER
+I. GENERAL
+1.0. PURPOSE AND USE OF BULLETIN
+1.00. Introduction.
+This bulletin has been prepared for use in the inspection
+and
+fabrication
+of both military and commercial
+aircraft, and
+contains
+material
+which
+is acceptable
+to
+the Army Air Forces, Navy Bureau
+of Aeronautics, and
+Civil Aeronautics Administration.
+It should, of course, be understood that methods
+and procedures other than those outlined herein are also acceptable, provided they
+give equivalent results or provided they are properly substantiated and approved.
+The
+applicability
+of
+the inspection and
+fabrication procedures
+contained
+in
+this
+bulletin as contract or certification requirements will in each case be defined by the
+procuring or certificating agency.
+1.01. Scope.
+The technical material in this bulletin, which is based chiefly on
+results of investigations conducted during the past 33 years by the Forest Products
+Laboratory,
+is limited to information on wood, modified wood, glues, and processing
+that
+is of direct concern to inspectors and fabricators of wood
+aircraft.
+Strength
+data and other design criteria are beyond the scope of this bulletin.
+For such data
+the reader is referred to "Bulletin ANC-18, Design of Wood Aircraft Structures."
+This bulletin supersedes the publications entitled "Manual for the Inspection
+of Aircraft Wood and Glue
+for the United States Navy"
+issued
+in
+1941 by the
+Navy Department Bureau
+of Aeronautics and
+the "Wood
+Aircraft
+Fabrication
+Manual" issued in 1942 by the Aeronautical Board.
+1.02. Acknowledgement.
+The many
+staff members
+of
+the
+Forest
+Products
+Laboratory participating in the preparation of this bulletin wish
+to express
+their
+appreciation to aircraft manufacturers and others for the valuable assistance given
+in connection with the various parts of this bulletin, the extent of which
+is too great
+to make practical separate acknowledgments.
+i
+
+--- PAGE 9 ---
+CHAPTER
+2.
+WOOD
+2.0. BASIC INFORMATION ON WOOD AS AN AIRCRAFT MATERIAL.
+2.00. General.
+Wood consists mainly of hollow fibers built up of interconnected
+cellulose chains arranged more or less spirally around the fibers in the direction of
+their longest dimension.
+The walls of the fibers and other cells are infiltrated with
+an amorphous material called lignin which also binds the
+cells together so firmly
+that, when wood
+is ruptured under
+stress,
+separation
+usually occurs
+within the
+fiber walls rather than in the bond between the fibers.
+Therefore, for mechanical pur-
+poses wood may be considered as being made up of tubes of indefinite length firmly
+welded together rather than separable
+fibers
+of varying lengths.
+Unlike metals,
+which have generally uniform strength in all directions and whose every cubic inch
+is identical, wood has not, for instance, the same strength across the grain as par-
+allel to the grain;
+its
+tensile strength may vary as much as 40
+to
+1,
+its crushing
+strength 7 to
+1, and its modulus of elasticity 150 to
+1.
+Not only do different species
+of wood differ in their properties, but trees of the same species and even
+parts of
+the same tree may vary, depending on the growth conditions prevailing when the
+wood was formed.
+Most substances expand more or less when heated.
+In the case of wood, the
+thermal expansion
+is so small as to be unimportant in ordinary usage.
+Any piece of wood will give off or take on moisture from the surrounding atmos-
+phere until the amount of moisture in the wood balances with that of the atmos-
+phere.
+Wood, like many other hygroscopic materials, shrinks as
+it loses moisture
+and swells as it absorbs moisture.
+Wood shrinks most across the grain in the direc-
+tion along
+the annual
+rings
+(tangentially),
+about %
+to
+%
+as much
+across
+these
+rings (radially), and very little, as a rule, along the grain (longitudinally).
+Although
+certain coatings when applied to wood will greatly reduce the rate at which it takes
+on or gives off moisture to
+the atmosphere, there
+is no practical coating that will
+prevent wood from changing its moisture content over a long period of time.
+It is not always possible to proportion a solid plank so as to develop the neces-
+sary strength in every direction and at the same time utilize the full strength of the
+wood in all directions of the grain.
+It is the purpose of plywood, which is made up
+by gluing several plies or sheets of veneer together, to meet this deficiency by so
+combining the various plies that the grain of any one ply is usually at right angles
+to the grain of the adjacent ply or
+plies, which results in a redistribution of the
+material.
+The properties of wood can also be modified by resin treatments, and a combi-
+nation of resin treatment and compression.
+Promising new materials with marked
+stability against swelling and shrinking are thus made up of veneer impregnated
+with resins and pressed into solid pieces.
+By laminating and molding thin layers of wood or veneer to shape during the
+gluing operation, structures of sharp single curvature and complex double curvature
+are readily and efficiently produced.
+2.01. Heartwood and Sapwood.
+In most woods three regions are readily dis-
+cernible in the end surface of the log:
+(1) the bark;
+(2) a light-colored layer next
+to the bark,
+called the sapwood; and
+(3) an inner body, usually darker than the
+sapwood,
+called
+the heartwood
+(fig.
+2-1).
+In
+the
+structural
+center
+of
+the
+tree
+trunk there is a small, soft core—the pith.
+3
+
+--- PAGE 10 ---
+4
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figi'Re 2-1.— Cross section of white ash log, showing irregularly shaped heartwood
+at
+center, wide sapwood, annual rings in
+both sapwood and heartwood, and bark.
+In the sapwood many of the
+cells (parenchyma) are alive and serve mainly in
+the transfer and storage of food, which accounts in part for its greater susceptibility
+to attack by certain fungi and insects.
+Most of the
+cells, however, are dead and
+serve only as channels for the movement of sap and to add strength
+to the
+tree
+trunk.
+In the heartwood all of the cells are dead and function mainly in supplying
+strength to the trunk.
+In some woods there
+is little or no difference in color between heartwood and
+sapwood.
+Spruce (except Sitka spruce), hemlock, the true
+firs, Port Orford white-
+cedar, basswood, cottonwood, and beech are examples of this class, whereas in pine,
+Douglas-fir,
+baldcypress,
+ash,
+oak, maple,
+birch, sweetgum, and numerous other
+species there is a well-marked contrast between sapwood and heartwood.
+In Sitka
+spruce the sapwood normally is white and the heartwood pale reddish brown.
+Although the sapwood
+is, as a rule, light in color,
+it may be discolored by sap
+stain, wood-destroying and other fungi, chemical stains within the wood, and color
+leached from the bark.
+The color of the heartwood may be of a uniform shade or it
+
+--- PAGE 11 ---
+WOOD
+may be streaked or variegated, as is often the case in sweetgum.
+The outer part of
+the heartwood of old Douglas-fir trees often is yellowish in color in contrast to the
+more reddish inner part of the trunk.
+Heartwood infected with decay may be dis-
+colored
+in
+various ways
+(sec.
+2.3213).
+Light-colored zones, known as internal sapwood, are occasionally found in the
+heartwood of Douglas-fir, Sitka spruce, western redcedar, western larch, and other
+species.
+The thickness of the sapwood layer varies considerably as between different
+species.
+In
+black
+ash,
+black
+cherry,
+northern
+white-cedar,
+western
+redcedar,
+Douglas-fir, and spruce it is usually less than
+\ % inches and consequently constitutes
+but a relatively small part of the lumber cut from these species.
+In white ash, birch,
+maple, and hickory, on the other hand, the sapwood is so thick that it often comprises
+more than half the cut.
+Within each species the sapwood is thickest in the most vigorous trees, especially
+those grown in the open.
+The sapwood decreases in thickness from the stump to the
+top of a tree trunk as a rule, but nevertheless the proportion of sapwood to heartwood
+generally increases toward the
+top.
+Year by year, as a tree increases in diameter by the addition of new layers of
+sapwood under the bark, the zone of heartwood enlarges at substantially the same
+rate.
+The change consists principally in the death of the adjacent sapwood and its
+transformation into heartwood by the infiltration of coloring matter and various
+other materials into
+its
+cell walls and
+cell cavities.
+In woods which have tyloses
+(p. 9) the pores become partially or completely plugged with these ingrowths as the
+sapwood turns
+into heartwood,
+or
+in some
+species many years before.
+The
+cir-
+cumference of the heartwood often
+is irregular and does not necessarily follow the
+annual rings
+(fig. 2-1).
+Heartwood
+is not fundamentally weaker or stronger than sapwood, but there
+are some changes
+in physical
+characteristics,
+besides change
+in
+color, which
+ac-
+company heartwood formation.
+After the timber
+is cut, the heartwood usually
+is
+more resistant to the attack of certain insects and to decay, stain, and mold than the
+sapwood.
+In the living tree the sapwood is usually less subject to attack, whereas
+specific fungi often infect the heartwood
+(p. 113).
+Heartwood is less permeable to
+liquids, as a rule, which is an advantage in many uses but a disadvantage in the in-
+jection of preservatives.
+Because it is less permeable, heartwood seasons at a slower
+rate than the sapwood.
+In resinous species the heartwood usualty contains more
+resin than the sapwood.
+2.02.
+Cellular Structure.
+Wood is composed of cells tightly grown together for
+the most part.
+The
+cells vary considerably in
+size and shape within a
+piece
+of
+wood and as between species.
+The principal kinds of cells and their usefulness
+in
+identifying wood species are discussed on pages 9 to 11.
+On account of the cellular
+structure of wood,
+its mass is distributed over a large cross section, thereby giving
+it relatively high bending strength and stiffness per unit of weight, but relatively
+low hardness per unit of area.
+The specific gravity of all wood substance is practically the same
+; therefore, the
+great differences in specific gravity and, consequently, in strength and hardness of
+different species of wood are due largely to differences in size of cell cavities and thick-
+ness of their walls.
+2.03. Annual Rings.
+In
+timber
+grown
+in
+temperate
+climates
+well-defined
+concentric layers of wood can be seen on the cross section.
+These layers correspond closely to yearly increments of growth and for that
+reason
+are
+called annual rings
+(fig.
+2-1).
+Many
+tropical timbers show no
+well-
+defined annual rings, because growth in them is more or less continuous throughout
+the year.
+
+--- PAGE 12 ---
+6
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+The annual rings in trees vary in width with the environmental conditions (stand
+density, soil moisture, etc.) under which the trees grew.
+In trees that started growth
+in the open the annual rings are wide at the center and narrower toward the bark, as a
+rule, but in trees that came up in a forest the rings are likely to be narrow at the center
+and wider farther out.
+In some logs the rings average wider at the top and in others
+at the butt end.
+In leaning softwood trees the annual rings usually are wider on the
+lower side, and in leaning hardwood trees on the upper side.
+2.04. Springwood and Summerwood.
+Springwood
+is the wood formed on the
+inner side of the annual ring during the early part of each growing season.
+It
+is
+usually more porous, softer, weaker, and, especially in the conifers, lighter in color
+than the summerwood, which
+is formed in the outer part of the annual ring during
+the latter part of the growing season.
+Segments of annual rings in a cross section of
+Douglas-fir, magnified 15 diameters, are shown on page 38.
+The dark layer in the
+upper part of each segment
+is the summerwood, and the lighter layer in the lower
+part
+is the springwood.
+The two may be fairly sharply differentiated from each
+other within each annual ring, as in Douglas-fir and oak, or the transition may be
+gradual, as in walnut.
+In some woods
+(for example, yellowpoplar,
+birch, maple,
+basswood, cottonwood, and sweetgum) the transition from springwood to summer-
+wood within the annual ring
+is not clear.
+The division between rings
+is, however,
+plain enough.
+The width of the summerwood and the percentage that
+it occupies in the total
+width of the annual rings varies considerably in some species, as yellow pines, Doug-
+las-fir, oaks, ashes, and hickories, according to the vigor of the tree at the time the
+rings were formed.
+2.05. Plain-sawed and Quarter-sawed Lumber.
+Wood can be cut in three
+dis-
+tinct planes with respect to the annual layers of growth:
+crosswise, exposing the
+transverse or end -grain surface; lengthwise along any of the radii of the annual rings,
+exposing the radial or so-called quarter-sawed, edge-grain, or vertical-grain surface;
+and lengthwise tangent to any of the annual rings, exposing the tangential or so-
+called
+plain-sawed
+or
+flat-grain
+surface.
+Quarter-sawed and plain-sawed
+boards
+are shown
+in
+figure
+2-2.
+Quarter-sawed lumber shrinks and swells less in width and twists, cups, slivers,
+surface checks, and casehardens in seasoning less than plain-sawed lumber.
+On the
+other hand, plain-sawed lumber
+is cheaper to produce and does not "collapse" so
+easily in drying in species subject to this particular defect, such as western redcedar,
+redwood, sweetgum, and swamp oak; also, any knots that are present are round or
+oval mstead of long spike knots.
+The annual rings often run diagonally across the end of a board so that it can-
+not be said to be either strictly plain sawed or quarter sawed.
+Squared dimension
+stock may show two plain-sawed and two quarter-sawed faces, or all four of an inter-
+mediate form.
+2.06. Grain and Texture.
+The terms
+"grain" and
+"texture"
+are used
+rather
+loosely in connection with lumber.
+"Grain"
+is used in referring
+(a) to the annual
+rings, as coarse,
+fine, even,
+edge, and
+flat grain;
+(b)
+to the direction in which the
+fibers run, as straight, spiral, interlocked, wavy, and curly grain; and
+(c) to the rela-
+tive size of the pores and the fibers, as open grain and close grain.
+"Texture"
+is often used synonymously with grain.
+In addition
+it
+is used to
+express certain physical aspects of wood quality, as "hard texture" and "soft texture,"
+"tough texture" and "brittle texture," but the word "texture" adds nothing specific
+to the meaning of such terms and may as well be omitted.
+"Texture"
+is sometimes
+described
+as
+"good"
+or
+"poor"
+depending on
+the
+appearance of wood, its reaction under the pick test
+(lifting a splinter by means of a
+pointed instrument and observing how it breaks), or splitting off a sliver and break-
+
+--- PAGE 13 ---
+WOOD
+7
+A
+B
+Figure 2-2.—Quarter-sawed (A) and plain-sawed (B) boards cut from log,
+ing
+it
+in the hand, but such tests are not so reliable or definite as specific gravity,
+rings per inch, and slope of grain for designating wood quality.
+For the sake of clearness,
+it is recommended that the annual rings be referred
+to as such, except with respect to the terms "edge grain," or "vertical grain," and
+"flat grain," which are thoroughly established and fixed
+in their meaning, and that
+(except as just stated) the use of the term "grain" be confined to the direction of the
+fibers; for example, straight,
+spiral, wavy, and interlocked grain.
+The term
+"tex-
+ture" should be used to express the relative size of the pores and fibers or the relative
+amounts of springwood and summerwood, as coarse and fine texture, even and un-
+even texture.
+2.1. IDENTIFICATION OF WOOD.
+2.10. Meaning of the Terms "Hardwoods" and "Softwoods."
+Those who work
+with or handle wood usually identify the different kinds by their general appearances.
+
+--- PAGE 14 ---
+8
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-3.—Drawing of a small cube of hardwood highly magnified:
+It, tran verse surface; rr, radial surface; tg, tangential surface;
+ar, annual ring;
+wr, wood ray;
+wf, wood fibers; v, vessels, or pores.
+In describing to others how to identify wood, however, specific differences must be
+pointed out, since general appearances cannot be described with sufficient accuracj"
+to differentiate any considerable number of woods.
+The specific differences most
+useful in wood identification are found in the cellular structure,
+color, odor,
+taste,
+weight, hardness, and, in some cases, exudation of resin or oil.
+All woods can be grouped in two general classes: The hardwoods, which come
+from trees with broad leaves, and the softwoods, or conifers, which come from trees
+with needlelike or scalelike leaves.
+The terms "hardwoods" and "softwoods" are
+not descriptively exact, since some of the so-called softwoods, as southern yellow
+pine and Douglas-fir, are harder than some
+of
+the
+so-called hardwoods,
+as bass-
+wood and cottonwood; but the terms have been in use so long that their meaning
+has become
+definitely
+established.
+The structure of these two classes of wood
+is
+fundamentally
+different.
+Within each
+class
+there are
+considerable
+variations
+in
+structure, which aid in further identification as to genera and species.
+2.11.
+Structure of Hardwoods.
+The hardwoods differ from the softwoods as a
+class in the presence of larger cells, constituting pores, or vessels, scattered among the
+smaller ones, which are mostly fibers.
+Figure 2-3 shows the pores and other cells in
+
+--- PAGE 15 ---
+WOOD
+9
+a hardwood cube highly magnified.
+The pores serve primarily in conducting sap
+from the roots to the leaves.
+In many hardwoods the pores can be seen distinctly
+without magnification as small holes on smoothly cut cross sections and as fine grooves
+on planed longitudinal surfaces.
+In other hardwoods the pores are so small that
+they cannot be seen without magnification.
+In some hardwoods the pores formed at the beginning of each year's growth are
+decidedly larger than those formed later in the growing season.
+Such woods are
+called ring porous.
+Oak, ash, and hickory are examples (pp. 14, 16, and 20).
+In other
+hardwoods the pores are more or less uniform in size in each year's growth.
+Such
+woods are called diffuse porous.
+Maple, birch, and sweetgum are examples (pp. 26,
+28, and 29).
+A certain arrangement of the pores within each annual ring also is char-
+acteristic of each species of wood and helps in its identification.
+In certain hardwoods the pores in the heartwood and inner sapwood become
+more or less plugged up with ingrowths from the neighboring cells, known as tyloses,
+which usually have a glistening or iridescent appearance
+(p.
+14).
+In other woods
+the pores are partly filled with dark-colored gum, while in still others they are empty.
+These variations in pore contents are a fairly reliable aid in wood identification.
+The fibers in hardwoods are so small that they cannot readily be distinguished
+individually with a hand lens.
+Their function is to give strength to the wood.
+They
+average about one twenty-fifth inch in length, but their length has no relation to
+their strength, since when wood fails in tension or compression the fibers do not slip
+by each other, as in a rope, but break or buckle within themselves.
+The thickness of
+the fiber walls, however, greatly affects their strength.
+Scattered among the pores and fibers of many wood
+species are parenchyma
+cells, which serve
+to
+store excess food.
+When aggregated
+into
+groups, they form
+light-colored tissue which may appear on the cross section as a "halo" around the
+pores, as in the summerwood of ash; or as numerous fine tangential lines, as in oak
+and hickory; or as boundaries to the annual rings, as in yellowpoplar and magnolia.
+Various modifications of the types of cells so far described also occur in wood, but
+they are of no value in identification except when a compound microscope
+is used.
+In addition to the vertically arranged cells described, there are strips of horizon-
+tally elongated
+cells in wood which extend radially from the bark inward, and are
+known as rays, or wood rays (formerly called "medullary rays")
+(fig. 2-3).
+Their
+function is to conduct sap radially and to store excess food.
+In oak the rays are dis-
+tinctly visible as broad lines on the cross section and as large "flakes" from a fraction
+of an inch to several inches high on radial surfaces.
+In all other native commercial
+species they are much smaller, often not being visible on a cross section without
+a lens.
+2.12. The Structure of Softwoods.
+In softwoods the bulk of the wood
+is com-
+posed of fibrous
+cells,
+tracheids, averaging about one-fourth inch in length, which
+serve the combined purpose of the pores and wood fibers of hardwoods.
+They are
+almost uniform
+in width
+tangentially, and
+are arranged
+in
+definite
+radial rows.
+Figure 2-4 shows a drawing of a small softwood cube highly magnified.
+On account
+of the absence of pores, the softwoods are
+also
+called nonporous woods, although
+"porous"
+in the sense of containing empty spaces or absorbing liquids applies to
+both softwoods and hardwoods.
+On a smoothly cut cross section the fibrous
+cells
+can be seen with a hand lens, resembling in their regularity the cells of a honeycomb,
+except that in the outer part of each annual ring they are flattened radially and
+thicker walled, producing a denser band of summerwood (pp. 34, 38, and 43).
+Rays are also present in softwoods, but they are always very small and on the
+cross section are invisible without a lens
+(fig. 2-4).
+Resin ducts are passages extending vertically between fibrous cells and radially
+within certain rays.
+They serve for the storage and conduction
+of resin and are
+present normally only in the pines, spruces, larches or tamaracks,
+and Douglas-fir
+(pp. 32, 37, and 39).
+
+--- PAGE 16 ---
+10
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-4.—Drawing of a small cube of softwood highly magnified; tt, transverse surface; rr, radial surface; tg, tangential surface;
+ar, annual ring; sp, springwood; $m, summerwood;
+tr, tracheid, or fiber; wr, wood ray; fwr, fusiform wood ray containing
+horizontal
+resin duct; hrd, horizontal
+resin duct.
+The large hole near the center of the transverse surface and the passage
+along the right edge are vertical resin duets, vrd.
+In the pines, the resin ducts are plainly visible with a lens and occasionally, on
+a smoothly cut cross section, barely visible without a lens.
+On longitudinal surfaces
+they
+are often
+visible
+as
+characteristic brownish
+lines.
+In
+the
+spruces,
+larches,
+and Douglas-fir they are smaller,
+less numerous, and,
+in the cross section, appear
+often
+in short
+tangential rows
+as whitish specks
+in
+the summerwood.
+On longi-
+tudinal
+surfaces
+of spruce and Douglas-fir,
+the resin ducts
+are
+less
+distinct than
+they are in the pines, but can usually be found on careful examination, especially
+by tilting the planed wood back and forth in the light.
+Since the resin ducts extend
+in the same direction as the fibers, the direction of the grain can be determined by
+them
+.
+Exudations of resin and pitch pockets are common in woods
+containing resin
+ducts, and are not found in the cedars, baldcypress, redwood, hemlock,
+and true
+firs, which normally have no resin ducts.
+Oily exudations have been noted on the
+ends of Port Orford white-cedar stored in a warm place.
+The absence of exudations
+of resin, however, does not mean the absence of resin ducts.
+Resin
+will not exude,
+
+--- PAGE 17 ---
+WOOD
+11
+as a rule, on cuts made after the wood
+is seasoned; but warming pieces
+of pine,
+Douglas-fir, larch, and spruce in an oven or otherwise will usually cause
+enough
+resin
+to exude from the ends to form specks, thereby indicating the presence
+of
+resin ducts.
+This
+is especially true of pine and Douglas-fir, and
+to a less extent,
+of spruce and larch.
+2.13. Physical Properties Useful in Identification,
+(a) Color: The color of wood
+is one of its most easily observed characteristics, and in some cases is sufficient for
+its identification.
+Frequently, however, the color
+is not sufficiently distinctive so
+that it can be described accurately.
+Furthermore, the color varies more or less for
+each species and
+is affected by light, moisture, decay, and other natural agencies
+which discolor the wood, so that
+it must be supplemented by other characteristics
+in identifying wood.
+A comparison of the color of a wood to be identified with
+known samples usually is of more value than any other impression that can be con-
+veyed in writing.
+In considering the color of wood,
+it should be remembered that heartwood and
+sapwood usually
+differ in color and that wood changes
+in
+color on long exposure
+to light and
+air.
+Keferences to the color in the descriptions and key which follow
+are based on freshly cut longitudinal surfaces of sound heartwood, unless otherwise
+stated.
+(b) Odor and taste: Some woods have a characteristic odor which helps in their
+identification after one
+is familiar with
+it or on comparison with known samples.
+Unfortunately odor cannot be described with any degree of accuracy.
+The taste of
+wood often resembles the odor, although exceptions occur.
+Both odor and
+taste
+are more pronounced in the heartwood than in the sapwood.
+(c) Weight: When wood
+is
+dry,
+its weight
+aids
+in
+identification,
+although
+some species are highly variable
+in weight.
+For instance,
+the heavier grades
+of
+mahogany may weigh twice as much as the lighter grades.
+Since no definite weight can properly be assigned to each species, descriptive
+terms based on specific gravity (weight when oven-dry and volume when green)
+class limits are used in connection with the descriptions of the woods that follow:
+Specific gravity class
+Descriptive term
+Below 0.20
+Extremely light.
+From 0.20 to 0.25
+Exceedingly light,
+From 0.25 to 0.30
+Very light.
+From 0.30 to 0.36
+Light.
+From 0.36 to 0.42
+Moderately light.
+From 0.42 to 0.50
+Moderately heavy.
+From 0.50 to 0.60
+Heavy.
+From 0.60 to 0.72
+Very heavy.
+From 0.72 to 0.86
+Exceedingly heavy.
+Above 0.86
+Extremely heavy.
+(d) Hardness: The hardness of wood, as determined by its resistance to indenta-
+tion or cutting
+(especially across the grain)
+is useful in distinguishing
+species with
+considerable differences in hardness, but this property is too variable and too difficult
+to determine with any degree of accuracy to be useful in distinguishing species of
+nearly the same average hardness.
+The hardness of each species of wood, like many
+other properties, is affected by density and moisture content.
+2.14. Procedure in Identifying Wood.
+If the color, odor, or general appearance
+is not sufficiently distinct to identify a sample of wood, the more detailed structure
+must be taken into consideration.
+The structure and other physical properties of
+the various species that the inspector is likely to meet are described in the following
+pages, and
+a key has been prepared
+that
+will
+aid
+in
+their
+identification.
+The
+illustrations of the woods are photographs of thin cross sections magnified 15 diam-
+eters.
+They
+will prove helpful in studying the structure of each species or group
+of species.
+
+--- PAGE 19 ---
+WOOD
+13
+The characteristic structure
+is usually seen to best advantage on a smoothly
+and
+freshly
+cut end
+surface
+across
+rings
+of average width.
+The
+area examined
+need not be large, but it is advisable to make observations at several places.
+Note
+first if pores are present.
+If pores cannot be seen with the unaided eye, use a hand
+lens.
+A lens magnifying from 8 to 15 diameters
+is preferable for this work.
+The
+lens should be held close to the eye and then the object brought within focus, care
+being taken not to shut out the light too much.
+If pores are present, note whether
+the wood is ring porous or diffuse porous, etc., as outlined in the key, pages 44 to 48.
+If pores
+are not
+present,
+try
+to
+classify
+the wood according
+to
+the
+subdivisions
+under the softwoods.
+It is not expected that the key can be used successfully without some practice.
+The inspector should provide himself with known samples and study the illustrations
+of cross sections in the manual so as to become familiar with the terms used.
+Samples
+for comparison should be of heartwood of the tree trunk, showing average width of
+rings, and at least 3 inches from the center, or pith, of the tree.
+2.15. Description of Woods in Key.
+The common
+and
+scientific
+names
+are
+those used by the Forest Service.
+The letters after the names refer to the forest region in which the trees grow,
+as indicated on
+the map
+(fig.
+2-5)
+although
+the geographic
+distribution
+of each
+species is not confined exactly to the limits of the regions indicated.
+Hardwoods
+(a) The White Oak Group.
+The following are the principal commercial species of the white oak group
+:
+White oak (Quercus alba)
+(A, B, D, E).
+Bur oak (Quercus macrocarpa)
+(A, B, C, D).
+Swamp white oak (Quercus bicolor—-formerly Quercus platanoides)
+(A, B, D).
+Post oak
+(Quercus
+stellata—formerly Quercus minor)
+(E and southern half of
+B and D).
+Chinquapin oak
+(Quercus
+muhlenbergii—formerly
+Quercus acuminata)
+(B,
+D,
+and all but eastern part of E).
+Swamp
+chestnut
+oak
+(Quercus
+prinus—formerly
+Quercus
+michauxii)
+,
+also
+known as cow oak
+(E).
+Overcup oak
+(Quercus lyrata)
+(E).
+Chestnut oak
+(Quercus
+montana—formerly
+Quercus
+prinus)
+(B
+and
+eastern
+half of D).
+The woods of most of the species of the white oak group are so much alike in
+color and structure that no reliable means of identifying each species has been found.
+Chestnut oak can usually be distinguished from other species of the white oak group
+by the more open pores of the springwood in the heartwood.
+The woods of the white oak group are heavy and hard on the
+average.
+The
+sapwood
+is mostly from
+1
+to
+2
+inches wide.
+The heartwood
+is grayish brown,
+usually without any reddish tinge.
+The dry wood
+is without characteristic odor or
+taste, but the green wood has a sour odor.
+The annual rings are made very distinct by the large pores in the springwood,
+which form a porous ring from
+1 to 3 pores wide.
+In the heartwood these pores are
+nearly all filled with tyloses, except in chestnut oak, in which they are more open but
+not so much so as in woods of the red oak group.
+The pores of the summerwood are arranged in irregular,
+branched,
+V-shaped
+groups extending across the rings.
+They are very small and so numerous that they
+are difficult to count even under a good hand lens.
+This feature
+is an
+absolutely
+reliable means of distinguishing the commercial woods of the white oak group from
+568338—44
+2
+
+--- PAGE 20 ---
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+
+--- PAGE 21 ---
+WOOD
+15
+those of the red oak group, the summerwood pores in the latter being larger and not
+so numerous.
+Compare
+illustrations
+of post oak
+(fig. 2-6) and chestnut oak
+(fig.
+2-7), with illustrations of northern red oak
+(fig. 2-8) and
+pin oak
+(fig. 2-9), and also
+samples of the two groups.
+The most
+characteristic feature of
+all oak woods, including the red oak
+and live
+oak groups,
+is
+the presence
+of
+certain broad
+rays,
+very
+conspicuous on
+the end
+surface and appearing on the radial surface as silvery "patches'' from one-half inch
+to 4 inches in height with the grain.
+Plain-sawed chestnut resembles plain-sawed while oak, but
+is lighter
+in
+weight
+and has only very fine rays.
+(b) The Red Oak Gkoup.
+The following are the principal commercial species of the red oak group:
+Northern red oak (Quercus borealis)
+(A, C).
+Eastern red oak (Quercus borealis maxima)
+(B, D).
+Black oak (Quercus velutina), also known as yellow oak (B, D, E, and southern
+part of A).
+Southern
+red oak
+(Quercus
+rubra—formerly
+(Jut reus
+digitata),
+also known
+as
+Spanish oak (E and southern part of D).
+Swamp
+red
+oak"
+(Quercus
+rubra, pagodaeqfolia—formerly Quercus pagodaefolia)
+,
+also known as swamp Spanish oak (E).
+Scarlet oak (Quercus coccinea) (B and D, except Texas).
+Pin oak (Quercus palustris)
+(B, D).
+Water oak (Quercus nigra)
+(E).
+Willow oak (Quercus phellos)
+(E).
+Laurel oak (Quercus laurifolia) (Southeastern part of E).
+Blackjack oak (Quercus marilandica) (B, except northern part, D, E).
+The wood of the species of the red oak group averages about as heavy and hard
+as that of the white oak group.
+The sapwood
+is from
+1 inch
+to 3 inches wide.
+The
+heartwood usually has a reddish tinge, although occasional pieces resemble white oak
+in color.
+The dry wood is without characteristic odor or taste, but unseasoned wood
+has a sour odor.
+The annual rings average wider than those in the woods of the white oak group
+ami
+as a
+rule
+are more
+distinct because the spring-wood
+consists
+of mostly open
+pores forming a porous ring from 2 to 4
+(1 in narrow
+rings)
+pores wide.
+Blackjack
+oak
+is an exception in that the springwood pores a

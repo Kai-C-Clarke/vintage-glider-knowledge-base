@@ -1,0 +1,1198 @@
+awaiting use in storage buildings may
+also be maintained by controlling the temperature of the space within the building
+by means of a hygroscopic element attached to heaters.
+This can be done only so
+long as the prevailing relative humidities are high; they may be reduced by increasing
+the temperature of the space surrounding
+the lumber above
+that of outside tem-
+peratures.
+However, simple devices are available for humidifying so that moisture
+can be added
+if necessary.
+For the conditioning of a large wood-using plant any one of several methods may
+be employed.
+A central plant may be designed to condition the air completely and
+may be equipped with refrigeration or absorption apparatus as well as heating and
+humidifying facilities.
+The air is distributed by means of a system of ducts through-
+out the building.
+Such equipment is expensive and probably not justified for most
+wood airplane factories.
+Another method of accomplishing the same result as with the large central-station
+air-conditioning plant is to install a sufficient number of small air-conditioning units
+throughout the plant and use no distributing system.
+This method, if fully equipped
+for year-round control, is likewise expensive and perhaps nonessential in most cases.
+As a rule, high humidities are not a problem in wood manufacturing plants in
+the northern part of the United States, and consequently conditioning equipment
+is needed only to increase the humidity during the heating season when low humidi-
+ties prevail.
+On the other hand,
+in manufacturing plants situated
+in very damp
+climates, such as prevail along the Gulf Coast, dehumidification may be required.
+To
+accomplish
+humidification,
+only
+relatively
+simple
+apparatus
+is
+needed.
+Steam jets may be distributed throughout the plant and may be controlled auto-
+matically by a moisture-sensitive instrument.
+The
+chief objection
+to the use of
+steam jets is that water is lost from the steam-generating plant and heat is added to
+the space.
+In winter this would probably not be objectionable, but
+it might be
+if
+humidification were required during a dry summer season.
+The simplicity of the
+steam jet system and the resultant freedom from dust residues commend it.
+Similar
+results can be obtained by the use of cold water and compressed air sprays.
+This is
+a very simple method by which water is discharged into the air by an air jet as a
+finely divided mist.
+The main objections
+to
+this method are a slight amount of
+noise, and—if the water used for evaporation contains minerals or organic material
+a deposit of fine dust on materials in the room.
+Provision must be made to take care
+of drip from sprays of this kind.
+No heat, however,
+is added to the air from such
+sprays and a small amount of cooling results from the evaporation.
+Target sprays are also a possibility for this purpose.
+They discharge a very fine
+stream of water against a plate.
+The bulk of the water striking the target is broken
+up into a fine mist which floats out into the room.
+Unless water free from minerals
+is used,
+fine dust
+is
+also scattered by
+this method.
+Adequate
+filters
+to prevent
+plugging of the fine openings and a drain to remove drip must be provided.
+There are a number of mechanical devices on the market which have a rotating
+disk upon which water is allowed to flow.
+This disk rotates at high speed, so that
+the water is driven to the edge of the disk by centrifugal force and thrown against the
+edges of a series of sheet-metal vanes.
+The water is thus broken up into a fine mist
+and blown out into the room by a fan located behind the disk.
+This apparatus has
+
+--- PAGE 202 ---
+196
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+disadvantages similar to those mentioned above.
+Residues resulting from evapora-
+tion of the water accumulate on the apparatus and form dust which
+floats about
+the room.
+Usually these evaporators are controlled by a hygroscopic element which
+opens or closes a water valve on the humidifier.
+A number of them could, however,
+be controlled from a single humidistat.
+The control of the humidity near wood surfaces being heated is a problem which
+frequently concerns fabricators of airplane parts.
+This problem
+arises because of
+desirability of speeding up the setting of glues in order to make more frequent use
+of presses or jigs.
+Strip heaters, infrared lamps, tubes heated by steam, and warm
+air produce local conditions requiring attention.
+When a wood surface
+is heated in the open the humidity of the space immedi-
+ately adjacent to the surface is lowered and some drying is likely to occur—the higher
+the temperature, the lower the humidity, and the greater the moisture loss.
+Strip
+heaters, when tightly pressed against the wood surface, greatly retard the escape of
+moisture, and present no problem.
+Open surfaces heated with infrared lamps reach
+such high surface temperatures that
+humidification
+of the work room
+is
+of
+little
+value
+in preventing
+excessive
+surface
+drying.
+Under such conditions and
+when
+practical the heated area should be tightly covered with a thin layer of strip aluminum
+in order to prevent the escape of moisture and maintain as nearthe desired equilibrium
+condition at the surface of the wood as possible. The outer surface of the sheet metal
+should be painted a dull black in order that
+it receive and transmit as much heat
+as possible to the material behind
+it.
+Where heat
+is applied by warm air, such as in a kiln or oven, the moisture con-
+tent of the object being heated may be controlled by properly adjusting the relative
+humidity
+to
+that
+which would
+represent
+the
+equilibrium
+condition
+for
+desired
+moisture content.
+In certain cases
+it
+is advantageous
+to drop a canvas-covered
+frame over the work and to heat and humidify the limited space thus enclosed rather
+than the entire room.
+Sling psychrometers and tables or curves for conversion of the measurements
+into relative humidity should be provided
+(sec. 5.012).
+Hair hygrometers or inex-
+pensive humidity guides
+are
+unreliable unless they
+are
+carefully
+calibrated
+and
+checked from time to time.
+The equilibrium moisture content of wood, in prevailing
+atmospheric conditions, may also be determined by thin sections of wood exposed
+in the workrooms which can be weighed for determination of their moisture content.
+If a sample is designed to contain 100 grams when oven dry, the number of grams
+over 100 will be numerically equivalent to the percentage of moisture in the sample.
+In preparing such a sample, select air-seasoned material of known moisture content
+and work it down until its weight in grams is equal to 100, plus a number of grams
+equal to the percentage of moisture.
+For example, a sample containing 10 percent
+moisture content should weigh 110 grams, of which 100 grams is dry wood substance
+and 10 grams is moisture.
+Such samples should not be oven dried.
+5.2. GLUING.
+Satisfactory glue joints in aircraft develop the full strength of the wood under
+all
+conditions
+of
+stress.
+To produce
+this
+result,
+the
+conditions involved
+in
+the
+gluing operation must be carefully controlled so
+as to obtain a continuous,
+thin,
+uniform film of solid glue in the joint with adequate adhesion to both surfaces of the
+wood.
+These conditions involve:
+1. Proper moisture content of the wood.
+2.
+Properly prepared wood surfaces.
+3. Glue of good quality, properly prepared.
+4. Good gluing technique.
+A satisfactory
+joint
+and
+two
+types
+of
+unsatisfactory joints,
+resulting from
+improperly controlled gluing conditions, are shown in figure 5-8.
+
+--- PAGE 203 ---
+PROCESSING AND FABRICATION
+197
+
+--- PAGE 204 ---
+198
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.20. Moisture Content for Gluing.
+The drying and conditioning of wood
+to
+the proper moisture content for aircraft use are described in sections 5.03 and 5.04.
+The moisture content of the wood affects the results obtained in gluing and, in turn,
+is affected by the gluing process.
+It may be either increased or decreased, depending
+on (1) the gluing process used,
+(2) the form and composition of glue,
+(3) the amount
+of glue spread, and
+(4) the dimensions of the wood parts glued.
+In general, hot-
+press methods reduce
+the moisture content and
+cold-press
+processes
+increase
+it.
+Glues of high water content add more moisture to the wood than glues of low water
+content, and heavy spreads add more than
+light spreads.
+More water
+is added
+by the glue
+to a construction made of thin plies than to one made of thick plies.
+The percentage increase in moisture content from
+a given amount of glue spread
+will be greater in woods of low specific gravity than in woods of high specific gravity.
+Table 5-11
+illustrates approximate percentages of moisture added to wood in
+cold-pressing operations for certain types of aircraft members.
+Most hot-pressing
+operations, however, reduce rather than increase the moisture content of the wood
+in
+gluing.
+The moisture content
+of
+panels, when removed from hot
+presses,
+is
+normally well below the 8- to 12-percent range that is required for aircraft plywood
+(Specifications AN-NN-P-511b
+and AN-P-43), and
+the
+manufacturers
+of
+the
+plywood must introduce moisture into the panels by a conditioning process in order
+to bring them within the required range
+(sec. 5.2S).
+The moisture content of veneer
+normally shows little or no change during bag-molding processes of making plywood
+(sec, 5.341).
+Table 5—11.
+Calculated percentages
+1 of moisture added
+to icood in gluing with cold-press glues
+Construction
+Moisture
+added
+in
+gluing 2 with
+Number
+of plies
+or lami-
+nations
+7
+1
+1
+6
+3
+10
+2
+2
+Species and thicknesses
+of
+plies
+or laminations
+Cold-set-
+ting resin
+glues
+}{<8-inch yellow birch
+plies
+%2-inch yellowpoplar faces }->o-mch yellowpoplar core
+J-i 6-inch mahogany faces
+}{ 2-inch mahogany cross bands
+^4-inch mahogany core
+All laminations— >£-inch Sitka spruce
+All plies—^o-inch black walnut
+All laminations—%-inch Sitka spruce
+All laminations—%-inch Sitka spruce
+All laminations—%-inch yellow birch
+%2-inch yellowpoplar plywood and %-inch thick
+Sitka spruce
+Ji-inch yellow birch plywood and 2-inch thick Sitka spruce...
+Casein
+glues
+Percent
+Percent
+8.
+1
+21. 9
+15. 9
+42. 7
+9. 4
+25. 2
+6.
+16. 5
+6.
+16.
+1
+2.
+5. 3
+. 8
+2.
+1
+. 7
+1. 9
+1. 9
+5.
+1
+. 4
+1.
+1
+1 Calculated percentages are based on oven-dry weight of woods.
+In t he calculations it is assumed that all the surplus moisture
+added by the glue
+is absorbed by the wood.
+This assumption
+is known to be somewhat in error, but
+it nevertheless affords a
+satisfactory
+basis
+for comparison.
+2 Spreads of 75 pounds of wet casein and 47 pounds of wet cold-setting, urea-resin glue per 1,000 square feet of single glue line
+are assumed in these calculations.
+It is assumed that the. cold-setting resin glue is mixed
+1 part dry glue and 0.65 part of water,
+and the casein glue
+1 part dry glue and 2 parts water.
+Changes in moisture content of the wood after the glue has set develop stresses
+in the glue line and reduce the load that the member will withstand in service.
+To
+minimize
+the
+stresses
+in
+a glued structure which develop from moisture content
+changes, the member should have a moisture
+content, when the glue
+sets, that
+is
+approximately equal to
+its average moisture content in service.
+Moisture content
+
+--- PAGE 205 ---
+PROCESSING AND FABRICATION
+199
+determinations on wood aircraft
+parts have been made at the following locations in
+the United States: New York, N. Y.; Garden City, N. Y.; Quantico, Va.; Philadel-
+phia,
+Pa.; Anacostia, D.
+C.
+; Hampton Roads, Va.; Aberdeen, Md.; Washington,
+D. G; Cleveland, Ohio; Fairfield, Ohio; Dayton, Ohio; Pensacola, Fla.; Little Rock,
+Ark.; San Antonio, Tex.; Tucson,
+Ariz.; San Diego,
+Calif.; Santa Monica,
+Calif.;
+Saciamento,
+Calif.; San
+Francisco,
+Calif.; and
+Seattle,
+Wash.
+There was
+con-
+siderable variation in moisture content of similar wood aircraft parts at the same
+station during different seasons and among stations.
+The moisture content relation-
+ships at different stations during the same season or at a single station during different
+seasons were found
+to
+be
+in equilibrium with
+the relative humidity relationships
+given in table 5-1.
+The lowest moisture content values were found in wood parts
+sampled at Tucson during early summer and the highest at coastal stations during
+winter.
+The moisture content of solid and laminated wood parts varied from 5.8
+to 15.3 percent, of plywood from 5.9 to
+17.8 percent, and of propellers from 8.4 to
+500
+TESTED DRY- Ct
+UREA -RES/I
+UD -SETTING,
+V CLUES \
+—
+TESTED D
+o
+RY: CASEIN GLUES
+/^-TESTED
+t
+/
+UREt
+/o
+VET: COLD-SETTING,
+-RESIN GLUES
+o
+'^^TESTED WET: CASEIN GLUES
+400
+300
+ZOO
+100
+I
+ZO
+40
+GO
+80
+QUANTITY OF WET GLUE SPREAD (L8. PER 1,000 SQ. FT. SINGLE GLUE LINE)
+Figure 5-9.—Effect of moisture content of veneer on shear strength of plywood joints for cold-setting glues.
+100
+10.3
+percent.
+No moisture content measurements, however, were made on pro-
+pellers
+at Tucson.
+Moisture content measurements on wood in dwellings and on spruce test panels,
+exposed at several stations in the arid Southwest, indicate that the moisture content
+of wood often drops to about 6 percent during the spring and summer (5-11, 5-1 4)-
+From all available information it appears that the normal moisture content of different
+wood parts of aircraft in service in the continental United States may range from as
+low as 6 to as high as
+18 percent.
+The effect of moisture content of veneer at the time of gluing on the strength of
+joints in plywood glued with cold-setting, synthetic-resin and casein glues is illustrated
+in figure
+5-9.
+The veneer used was
+}i6-inch birch and sweetgum and glued into
+3-ply panels.
+The gluing pressures were from 150 to 200 pounds per square inch and
+the assembly times from 3 to 12 minutes.
+The dry-strength tests were made on the
+plywood at 6 to 12 percent moisture content and the wet-strength tests were made,
+immediately
+after the specimens were soaked
+in water
+at room temperatures for
+48 hours.
+It may be noted that a range in moisture content of the wood between about
+7 and 12 percent gave maximum strengths, when tested both dry and wet, for both
+the
+cold-setting
+resin and casein glues.
+Since
+ply
+thicknesses,
+species,
+glues, and
+gluing processes affect the percentage of moisture added to the wood, the optimum
+moisture content for maximum strengths varies somewhat with different structures
+
+--- PAGE 206 ---
+200
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+and processes.
+Considering
+all factors, however,
+it
+is recommended that,
+in cold-
+press gluing, veneers and thin laminations up to % inch in thickness have at the time
+of gluing a moisture content of 5 to 8 percent, and that stock thicker than % inch
+have from 8 to about 12 percent.
+For hot-press gluing, using aqueous suspensions
+of resins on thin plies, a moisture content of 5 to 8 percent is applicable and for dry
+film and nonaqueous resin glues, or for aqueous glues on thick plies, the moisture
+content should range between 8 and 12 percent.
+5.21. Machining Wood for Gluing.
+W ood should be machined for gluing only
+after it has been uniformly conditioned to the desired moisture content.
+Drying and
+conditioning stock after it has been machined produce distortion and surface irregular-
+ities, which are objectionable from a gluing standpoint.
+It
+is recommended
+that
+no more than 8 hours be permitted
+to elapse between final surfacing and gluing.
+Specification AN-P-15a requires a lapse not to exceed 4 hours between surfacing
+and
+gluing.
+The gluing
+surfaces should be machined smooth and
+true.
+Planer
+marks, chipped
+or loosened
+grain, and other surface
+irregularities should not be
+permitted.
+5.210. Methods.
+With
+normal
+wood,
+smooth,
+e\ren
+surfaces produced on
+planers and jointers with sharp knives and
+correct feed adjustment are best for
+gluing.
+Surfaces that are satisfactory for gluing can be produced with special types
+of saws, but the operation must be carefully controlled.
+Satisfactory sawn surfaces
+should approach well-planed surfaces in uniformity, smoothness, and freedom from
+crushed fibers.
+Glue joints made on surfaces that are covered with crushed fibers do
+not develop the normal full strength of the wood.
+When glue joints that have been
+made on surfaces covered with crushed fibers are broken, they usually show a thin
+but complete coverage of wood
+fibers on the glue
+line.
+These abnormal and un-
+desirable wood failures are the result of crushing and weakening of the surface layers
+of fibers by poor machining technique.
+Crushing can be detected by examining the
+sawn or planed surfaces with a hand lens that magnifies about 10 times and com-
+paring them with surfaces prepared by splitting.
+On undamaged wood surfaces, the
+outline of the wood elements is quite distinct, whereas on crushed wood surfaces the
+elements are indistinct and distorted.
+5.211. Machining Joints.
+The machining
+of
+joints
+of
+irregular shapes,
+such
+as the tongue-and-groove, for the purpose of presenting larger gluing areas
+is not
+usually
+advisable.
+Irregularly shaped
+surfaces
+are more
+difficult
+to machine
+for
+perfect fitting of parts than are plain, straight surfaces.
+Lack of contact may make
+the effective holding area smaller in the shaped joint than in a straight,
+flat joint,
+and this may actually reduce the strength.
+Furthermore,
+if proper gluing practices
+are used, planed side-grain surfaces of the woods used in aircraft can be glued in such
+a manner as to develop the full strength of the wood (sec. 5.27) and the extra contact
+surface becomes superfluous as far as strength is concerned.
+The faces of well-manufactured veneer are suitable for gluing without further
+machining or preparation
+(sec. 2.320) but, where two or more pieces of veneer are
+joined at the edges to form a larger piece or assembly, the edges must be jointed
+straight and square.
+This
+is usually accomplished satisfactorily on regular veneer
+jointers.
+5.212. Surface Treatments.
+Sanding, tooth planing, or other means of roughen-
+ing smooth, well-planed surfaces of normal wood before gluing are not recommended.
+Such treatment of well-planed wood surfaces may result in local
+irregularities and
+objectionable rounding of edges.
+While sanding of planed, normal wood surfaces is
+not recommended, sanding
+is a valuable aid in improving the gluing characteristics
+of some plywood surfaces
+; wood that has been compressed through exposure to high
+pressures and temperatures; resin-impregnated wood
+(impreg and compreg)
+(sec.
+5.272); and laminated paper plastic (papreg)
+(sec.
+3.5).
+Sanding also finds useful
+application in cutting scarf joints on thin veneers and plywood
+(sec.
+5.63) and in
+floating or contouring the surfaces of certain assemblies (sec. 5.658).
+
+--- PAGE 207 ---
+PROCESSING AND
+FABRICATION
+201
+Wood
+surfaces
+for gluing should be
+free from
+oil,
+finishing
+materials,
+dust,
+dirt,
+old
+glue,
+crayon marks, and
+other extraneous
+materials.
+Where
+sizing
+of
+joint surfaces
+is practiced, care must be taken that the size does not interfere with
+the adhesion of the glue.
+In such cases
+it is safest
+to prepare the size by diluting
+the glue that will be used to make the joints
+(sec. 5.271).
+Wood surfaces that are "glazed" from dull tools or by being pressed excessively
+against smooth, hard surfaces are somewhat more difficult to glue than normal wood
+surfaces.
+Glazing results from crushing or compression of the surface fibers so that
+they appear glossy.
+The gluing of glazed surfaces can be improved by preliminary
+treatments.
+A
+light sanding
+to remove the crushed
+fibers, or the application
+of
+water, which tends to restore the surface fibers to their original condition,
+is helpful.
+Plywood surfaces may present more
+difficult gluing problems than do freshly
+planed wood surfaces.
+During the manufacture
+of plywood, unfavorable surface
+conditions occasionally develop that interfere with adhesion of glue in secondary
+gluing operations.
+Some of the surface changes that occur in plywood manufacture
+and that may interfere with the adhesion of glue in secondary gluing, such as glazing
+and heavy "bleed-through"
+of glue,
+are readily recognized.
+In contrast
+to these
+readily recognized surface conditions, wax deposits from cauls during hot-pressing
+produce unfavorable gluing surfaces that are not easily detected.
+In addition to these unfavorable surface conditions of plywood, the causes of
+which are known, there are others for which the causes have not yet been established.
+Wetting tests are useful
+as a means of detecting the presence of wax.
+Drops of
+water placed on the surface of wax coated plywood do not spread or wet the wood.
+Wetting tests may give some indication of the presence of other unfavorable con-
+ditions, but they cannot be relied upon completely to evaluate the gluing properties
+and,
+at present, preliminary gluing tests appear to be the only positive means of
+actually determining the gluing characteristics of plywood surfaces.
+Many of these unfavorable surface conditions of plywood can be avoided by
+changes
+in manufacturing practices.
+Glazing frequently results when plywood
+is
+hot pressed at high temperatures and pressures between metal platens, metal cauls,
+or hard, compressed wood cauls.
+The manufacturer of the plywood can conveni-
+ently remove much of the glaze by properly processing or conditioning the panels
+after removal from the hot press.
+Since plywood from the hot press is abnormally
+dry, the addition of moisture
+is necessary to bring
+it within the required moisture
+content range
+for
+aircraft
+use.
+By applying the proper amount of water
+to the
+faces and then stacking the panels solidly for equalization, the plywood
+is brought
+to the proper moisture content, and at the same time the glaze of the faces is largely
+removed.
+The moisture may be conveniently applied by passing the panels between
+water-covered
+rolls such
+as those
+in a glue spreader, by spraying,
+or by a short
+period of exposure to a high humidity
+(sec. 5.281).
+Bleed-through of glue
+is most often encountered on thin-faced plywood, and
+is usually but not entirely limited to hardwoods such as birch and mahogany.
+The
+porous nature of these woods permits the flow of the glue from the joint to the faces
+during hot pressing.
+Bleed-through is commonly associated with too high moisture
+content of the veneer at the time of gluing.
+Although
+it
+is
+difficult to eliminate
+bleed-through of glue completely on thin-faced plywood, it can be greatly minimized
+by careful control of moisture content of veneers before hot pressing.
+The presence of even small quantities of wax on the faces of plywood greatly
+interferes with adhesion of glues in secondary gluing
+Such wax deposits usually
+result from the use of waxed metal or wood cauls during hot pressing, and can be
+easily avoided.
+These unfavorable surface conditions of plywood can usually be corrected and
+their effects minimized by lightly sanding the surfaces with No. 3-0 or 4-0 garnet
+paper before gluing.
+Removing as little as 0.001 inch from the surface appears to
+
+--- PAGE 208 ---
+202
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+be just as
+effective as heavier sanding
+in correcting the gluing
+characteristics
+of
+plywood otherwise
+difficult
+to glue
+(5-13).
+The danger of over-sanding and
+re-
+sultant impairment of the strength of the plywood can be minimized by specifying
+the use of sandpaper no coarser than No. 3-0 garnet on species of high density and
+no coarser than No. 4-0 on species of low density.
+Frequent thickness measure-
+ments are advisable when sanding is practiced.
+In no case should thickness reduc-
+tions exceed 10 percent of the face-ply thickness.
+Figure 5-10—Three-speed, dough-type, electric mixer equipped with
+3- and 8-quart howls and two sizes of paddles for mixing
+glues.
+5.22. Preparation of Glues for Use.
+The
+dry-film
+types
+of
+glue
+are
+bought
+ready for use.
+Manufacturers' directions should be followed for the preparation of
+other glues.
+Clean, cool water should be used when mixing glues unless warm water
+is specified by the glue manufacturer.
+The proportions of dry glue and water or
+other solvent should be determined by weight rather than by measure or guess.
+The correct proportion of glue and water varies with the particular brand of glue
+and somewhat with the type of joint.
+Manufacturers usually recommend the pro-
+portions of glue and water, and these should be followed unless other proportions
+are known to give better results.
+Alcohol and alcohol-water mixtures are used as
+solvents for many of the phenol-formaldehyde glues.
+The mixed glue should be free from air bubbles, foam, and lumps of undissolved
+material.
+Machine stirring normally produces a more thoroughly mixed glue than
+hand stirring but small batches of one-half pound or less of dry glue may be pre-
+pared satisfactorily by hand
+stirring.
+The dry resin glues are quite easily mixed
+
+--- PAGE 209 ---
+PROCESSING AND FABRICATION
+203
+with
+water;
+the
+casein
+glues normally
+require
+a longer mixing period and more
+stirring.
+Various types of mixers have been used successfully, but the dough type,
+figure 5-10, equipped with a mechanism for turning the paddle in a double-rotary
+motion at two or three different speeds, has been quite generally used with excellent
+results for both casein and resin glues.
+The
+chief
+requisites
+of a mixer
+for
+casein and
+synthetic-resin
+glues
+are
+(1)
+thorough but not violent agitation, preferably with different speeds of the paddle,
+and (2) a bowl that can be readily removed from the machine for cleaning and made
+of some metal that will not corrode rapidly from the action of acid or alkali.
+Bowls
+and paddles of copper and brass are unsuitable.
+Mixers, spreaders, and other equipment used with all glues should be thoroughly
+cleaned at regular intervals.
+A thorough cleaning every working day, before the
+glue hardens,
+is highly desirable.
+5.220. Resin Glues.
+Liquid resin glues may come ready for use or in
+a
+form
+which requires only the addition of a hardener.
+Cold-setting, liquid-resin glues are
+usually sold with the hardener in a separate container, in which case the hardener
+and
+the
+resin must be thoroughly mixed
+together before
+use.
+All
+liquid-resin
+glues
+and
+liquid
+hardeners
+should
+be
+thoroughly
+stirred
+before
+use
+to
+assure
+uniformity, inasmuch as any filler or other materials added during manufacture may
+settle out during shipment.
+A number of the resin glues are sold in powder form.
+Since some segregation
+of the dry materials may occur during shipment, it is advisable to mix the contents
+of each container thoroughly before combining with
+the
+solvent.
+Hardeners
+for
+some of the dry resin glues are shipped separately and combined with the resin at
+the time of mixing with water.
+Probably
+the most
+generally
+applicable
+procedure
+for
+mixing
+cold-setting,
+urea-resin glues that are delivered in powder form
+is to place about two-thirds of
+the required water in the mixing bowl, add the powder slowly with constant stirring,
+allow the mass to mix until smooth and free from lumps, and then add the remainder
+of the water.
+Continue the stirring for a few minutes thereafter until the mixture
+is of uniform consistency throughout.
+Variations
+in procedure
+are advisable
+for
+certain prepared glues of both liquid and powdered forms, and in such glues the glue-
+water proportions and other details should be supplied by the manufacturer.
+Cold-setting, synthetic-resin glues, when prepared for use, are usually sharply
+limited in working life and care should be taken to discard the glue and clean the
+equipment before the end of the working-life
+period.
+Satisfactory joints can be
+made as long as the glue can be spread satisfactorily but,
+if the glue sets in any
+spreading or mixing equipment, the cleaning will be a difficult operation.
+In very
+warm weather it may be found advisable to keep the glue pot in a bath of cool water,
+approximately 70° F., to prolong the working life of the mixture.
+5.221. Casein Glues.
+For most prepared casern glues, a ratio of
+1 part of glue
+to 1.75 to 2 parts of water (by weight ) gives a proper consistency for side-grain joints.
+For gluing end-grain joints, some variation in the glue-water ratio
+is necessary
+as
+described
+in section 5.271.
+The dry powder
+is mixed thoroughly with the water
+and stirred until
+it has dissolved.
+The water should
+first be placed in the bowl of
+the mixer and the glue sprinkled or
+sifted
+in slowly, with the paddle
+in motion.
+Care should be used that large lumps do not form.
+For most commercial casern glues
+it is recommended that mixing be continued
+only for 3 to 5 minutes after the powder is added to the water.
+The glues are then
+allowed to stand without agitation for 15 to 30 minutes and again mixed for 3 to 5
+minutes before using.
+Many of the casein glues thicken and set to stiff pastes during
+or soon after the original mixing but return
+to workable consistencies during the
+rest period.
+This original thickening is normal for these glues and not an indication
+that too
+little water was used.
+Most commercial caseins have working
+lives,
+at
+
+--- PAGE 210 ---
+204
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+70° to 75° F., of at least
+5 hours, but they thicken noticeably towards the end of
+this period.
+The quality of joints, however,
+is unaffected as long as the glues can
+be applied satisfactorily.
+Casein glues used for aircraft assembly must set to
+stiff
+gels at some time after the specified working life.
+5.23. Spreading of Glue.
+To make a satisfactory joint, it is necessary to spread
+evenly the amount
+of glue needed, and for certain classes of work
+this should be
+done within
+as short a time
+as
+possible.
+These requirements can often be most
+easily met by machine spreading, but in the construction of aircraft parts from many
+small and irregularly shaped pieces
+it
+is frequently necessary
+to spread by hand.
+Thick glues are difficult to spread by hand, and it
+is therefore best to use a machine
+spreader for them whenever possible
+(fig. 5-11).
+Figure 5-11.—Typical glue spreader with rubber-covered rolls used for spreading resin glues.
+Within certain limits, the strength of glue joints increases with the quantity of
+glue spread.
+This is illustrated in figure 5-12.
+These data are from plywood glued
+with
+cold-setting,
+urea-resin, and casein glues under good
+gluing conditions and
+tested in the regular plywood-joint test
+(sec. 4.3).
+In other tests it has been found
+
+--- PAGE 211 ---
+PROCESSING AND FABRICATION
+205
+that, with less favorable gluing conditions, the quantities required to produce maxi-
+mum strength of joints are usually increased slightly over those indicated in figure
+5-12.
+The same general relationship holds for other wet-glue mixtures, although
+the optimum amount of spread and the rate of change in the strength of joints may
+vary somewhat.
+For most aircraft gluing operations in which glue
+is spread on but one of the
+two contact surfaces, the following spreads of wet-glue mixtures are recommended:
+Pounds per
+1,000 square feet
+G I u es
+single glue
+I i ne
+Cold-setting urea resins
+45 to 50
+Casein
+65 to 75
+Hot-press urea and phenolic resins
+45 to 50
+The above recommendations are equivalent to about 22
+to 30 pounds of dry
+glue per 1,000 square feet
+of single glue
+line.
+It
+is desirable to use the maximum
+-j
+too*
+1
+1
+1
+1
+5
+10
+IS
+20
+MOISTURE CONTENT OF VENEER BEFORE GLUING
+(PERCENT)
+Figure 5-12.—Relation between quantity ol glue spread and plywood joint strength.
+Tests made on 3-ply panels of hardwood
+veneer, glued with
+cold-setting, urea-resin, and casein glues.
+Veneer between
+7 and
+12 percent moisture content; gluing
+pressures 150 to 200 pounds per square inch; assembly times
+1 to 10 minutes; number of specimens 50 to 100 for each test point.
+amounts recommended for each type of glue, and even to increase them if the wood
+surfaces are rough, end or sloping grain is exposed on the contact surfaces, or assem-
+bly times exceed the recommended limits.
+Under certain conditions of gluing such as long assembly periods, rough wood
+surfaces,
+scarf joint
+surfaces, or excessively sloping or end-grain
+surfaces, double
+spreading should be used.
+When both contact surfaces are spread with glue, the
+total amount applied should be approximately 25 percent more than is recommended
+for single spreading.
+Under favorable gluing conditions,
+the glue need be spread
+on but one of the two contact surfaces
+(single spreading).
+Tests on both plywood
+and laminated constructions indicate
+that no
+significant
+difference
+in strength
+of
+joints results from single or double spreading
+if other conditions are satisfactory.
+The weight of dry film glues, of which approximately two-thirds
+is
+glue
+and
+one-third is paper, is about 12 to 13 pounds per 1,000 square feet.
+On roughly cut
+and thick veneers the use of two sheets of the film per joint improves the quality of
+the bonds.
+568338—44
+14
+
+--- PAGE 212 ---
+206
+AXC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.24. Assembly Time in Gluing.
+Where pieces of wood are coated and exposed
+freely to the
+air, a much more rapid change in consistency of the glue occurs than
+where the pieces are laid together as soon as the spreading
+(single or double) has
+been done.
+The condition
+of free exposure
+is conveniently referred
+to
+as "open
+assembly," and the other as "closed assembly."
+The effect of assembly time on the strength of casein and cold-pressed urea-resin
+glue joints under closed assembly conditions is illustrated in figure 5-13.
+The tests
+were made on plywood, glued with three plies of # 6-inch hardwood veneer of 6 to
+12 percent moisture content, under 200 pounds of pressure per square inch, and at
+a room temperature
+of approximately 75° F.
+The dry strength
+tests were made
+on the plywood at 6 to 12 percent moisture content and the wet strength tests imme-
+diately
+after soaking the specimens
+in water
+at room temperatures
+for 48 hours.
+The plywood was tested by the regular plywood-joint test
+(sec.
+4.3).
+Maximum
+dry and wet strengths of cold-setting, urea-resin glue joints, and the dry strengths
+500
+400
+f 300
+it
+K
+?
+zoo
+100
+• -<
+o-t
+_»—o—
+~0LD-SET1
+"HSEIN GL
+•
+LEGEND
+ING, UREl
+UES
+1- RESIN G -UES
+O
+•
+o
+i~
+TESTED DRY
+__r>
+5""~_Q
+.-O
+'—O
+^>TESTED WET
+4
+S
+il
+lb
+20
+ASSEMBLY TIME (MINUTES)
+Figure 5-13.—Effect of closed assembly time on shear strength of plywood joints.
+assembly time ranged from 40 to 110.
+Z4
+Z8
+The number of specimens tested for each
+of
+casein-glue
+joints were
+obtained
+at assembly
+times between
+about
+5 and
+12
+minutes.
+Other
+test
+data
+indicate
+that,
+with lower gluing pressures and higher
+room temperatures, other conditions remaining unchanged, the decrease in strength
+with assembly periods longer than 12 minutes is somewhat more rapid, but that the
+decrease with the shortest assembly times
+is even less than shown
+in
+figure
+5-13.
+The
+production
+of maximum wet
+strengths with
+casein
+glues
+at
+the somewhat
+longer assembly periods
+is believed to be related to the amount of moisture added
+to the plywood in gluing
+(table 5-11), the development
+of stresses while the ply-
+wood
+is drying, and
+the subsequent release
+of these
+stresses
+during
+the
+soaking
+peri

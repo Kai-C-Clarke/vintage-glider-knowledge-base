@@ -1,0 +1,1764 @@
+he mean average humidity for the 24-hour period.
+5.012. Determination of Atmospheric Humidity.
+The amount
+of water vapor
+in the
+air, which
+is termed "humidity,"
+is usually expressed
+either in grains per
+cubic foot or as a percentage of saturation; the first method of expression
+is called
+absolute humidity, and the second
+is
+called relative humidity.
+Fortunately,
+the
+amount of water vapor that a given amount of air can hold at a given temperature
+is a fixed quantity
+; when this quantity is present the air is said to be saturated.
+The
+amount of water vapor at the saturation point of air increases rapidly with increase
+in temperature.
+At 60°
+F.,
+5.8 grains of water vapor per cubic foot saturate the
+ordinary atmosphere, whereas at 212° F.
+it will hold about 260 grains per cubic foot.
+It is generally more convenient to consider the amount of water vapor in the air in
+terms
+of
+relative
+humidity
+than
+as
+absolute
+humidity.
+As
+already
+intimated,
+relative humidity is always expressed as a percentage of saturation.
+The lower relative humidities represent dry air, and the higher ones, moist air.
+Air at a temperature of 125° F., for instance, can hold a maximum of 40 grains of
+water vapor per cubic foot.
+If a certain atmosphere at that temperature had only
+10 grains of water per cubic foot,
+it would have only 10/40 of the maximum amount
+it could hold, w hich
+is a relative humidity of 25 percent
+.
+Air with 25 percent rela-
+tive humidity is comparatively dry.
+At 125° F., the relative humidity of air having
+30 grains of water vapor would be 30/40, or 75 percent; such air would be considered
+moist.
+The preceding example may be expressed by the following formula:
+Relative humidity percent _ amount of water vapor actually present in a given space
+maximum amount of water vapor possible (the saturation
+value)
+in the same space under the same temperature
+X 100
+
+--- PAGE 178 ---
+172
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+
+--- PAGE 179 ---
+PROCESSING AND FABRICATION
+173
+At any given temperature dry air is heavier than moist
+air.
+Hot air always is
+lighter than cold air at the same relative humidity and the same pressure.
+When
+water is evaporated from wood, the heat required for evaporation is absorbed from
+the air that carries away the water vapor, with resultant cooling of the air; the net
+effect, in consequence,
+is to make the air heavier, since the gain in weight brought
+about by the cooling outweighs the weight loss caused by the increase in humidity.
+The humidity of the surrounding air not only determines largely the rate at
+which materials will dry, but it also determines the extent to which they can be dried.
+The relation between humidity in the air and moisture in the wood is an important
+one, since
+it
+is closely related to
+all drying schedules and, further, determines the
+extent to which wood for use under specified conditions of temperature and humid-
+ity should be dried.
+Since humidity determines the drying characteristics of
+air
+at any given temperature, the control of humidity in the kiln is of prime importance.
+It is essential that the moisture be removed from the wood surface at the maximum
+safe drying rate.
+If the humidity is too low, the wood will dry too fast and will be
+injured;
+if the humidity is too high, the drying will be slow and expensive.
+Relative humidity may be measured in a number of different ways, but the wet-
+and dry-bulb thermometer is almost universally used for such measurement in dry
+kilns
+(fig. 5-2).
+This instrument is also known as a hygrometer and as a psychrom-
+eter.
+The silk or muslin wick for one of the two thermometers of the instrument,
+kept moist by the reservoir of water into which
+it dips,
+is cooled a certain amount
+by the evaporation of water from its surface when
+it is exposed to a breeze of non-
+saturated air, and in turn it cools the wet bulb it encloses, thus causing the wet-bulb
+temperature indication to drop.
+The amount of cooling is constant for any given
+temperature and humidity, provided that the reservoir contains water enough to
+keep the wick moist and that the velocity of the cooling an
+is sufficient.
+If the
+amount of the cooling, called wet-bulb depression, and the temperature of the air
+are known, the relative humidity can be determined by formula or by reference to a
+chart or table such as table 5-2.
+In practice, the reading of the dry-bulb thermom-
+eter gives the air temperature, and the difference between that reading and
+the
+reading of the separate wet-bulb thermometer gives the wet-bulb depression; both
+thermometers are mounted on one panel.
+To assure accuracy,
+it
+is
+essential that the wick be clean and that there be a
+brisk circulation of air over the wet bulb.
+A velocity of at least 15 feet per second
+is desirable for accurate readings at atmospheric temperatures.
+At ordinary kiln
+temperatures, however, sufficient accuracy can be secured with very much lower air
+velocities.
+With certain types of wet-and dry-bulb thermometers , circulation past the wet bulb
+is produced by whirling the entire instrument.
+Such instruments are know as sling
+psychrometers (fig. 5-2, B).
+Other instruments are provided with maximum-reading
+thermometers, so that they can be removed from the kiln and read outside.
+The
+mercury or other fluid column in these thermometers must be shaken clown before
+they are used again.
+They indicate only the maximum wet- and dry-bulb tempera-
+tures since they were last shaken down.
+If the temperature and humidity variations
+have been reasonably great during this time, the readings will be misleading.
+Table 5-2 is for use with wet- and dry-bulb thermometers.
+It is based on the
+difference between the wet- and dry-bulb temperature.
+The dry-bulb temperatures
+are in the left-hand column and the differences between wet- and dry-bulb tempera-
+tures are in the top row.
+Both relative humidity and equilibrium moisture content
+values are given at the intersection of the row and the column.
+Suppose the dry bulb
+reads 140° F., and the wet bulb 130° F.; the difference between them
+is 10°.
+By
+reading across the 140 row to column 10, the rela t ive humidity of the air will be found
+to be 75 percent and the equilibrium moisture content of wood 12 percent.
+568338—44
+12
+
+--- PAGE 180 ---
+174
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+cm --r ire
+x to ©to>Tj«tocioos*-'»lTj"*i
+, 1H
+. »H
+.
+. CM
+. CJ
+-
+to'-f^^^i^SO*}
+W S W N
+iii
+Go
+Co
+Go
+Qo
+*a
+i
+to
+»-i
+«l
+*3
+©3
+*3
+iN'O'C-^t to N-tas KNOTf^Nvj-OXJMtoWto
+-i-tsfl'/; O
+- T -t -~ t- >o © to f 1 »t Tp
+to O^WO;iftaX05
+&j
+CO
+GO
+GO
+no rr o ro fl - t> 'C O O W
+rO W
+N r«
+ff) a N
+(C
+» ^ O
+—I
+.^H
+CVI
+. CM
+. Ol
+. <M
+. CO
+. eo
+. co
+. tp
+.
+GO
+GO
+-*~+-^-+-^-'J3»O^OK3
+'«')5O!NW^i0N(Ort«* ,1
+, 'CWQ0«^'-*
+,^««MCto X^^OOCJ'SClft*---
+. —I
+.
+. fj
+i
+O
+I
+GO
+GO
+»«*
+^
+SO
+CO
+CO
+to
+to
+cd
+cd
+(©•^C4fr^TpO;h ©>^X^©
+1'-*CO-^*-lft^;»-t>-^T©'^T
+j
+*ti
+* »o
+^
+to"
+to
+to
+to
+to
+to"
+to"
+-'t
+cj-.i qo
+o
+CM to f '*-C (C O OO '
+4
+><i
+>d
+15
+!B
+C
+n
+&i
+e:
+4
+«i
+ti
+«i
+^ oc
+e:
+'
+to
+cd
+to
+1
+jt-Hto^totct-cTi^-^to
+j
+to"
+to
+to"
+to
+to
+co
+o eo
+»ft >c
+<
+j ro
+oo ro ©
+*-
+. »-»
+. »-H
+.CI
+CI
+.CM
+. CO
+CI
+© Co
+1ft 'O^ C
+>C
+ff> K M ^ W ^tN N O
+H to CO ^ ift r«; t- Co © ro —I ^O CO <3\>
+lift
+. »—i
+..-l
+.CM
+. (M
+.CO
+.CO
+-CO
+.TP
+- TP
+. T<
+. tJI
+.TP
+.TP
+.1(5
+.Ift
+.Ift
+. i-H
+. t-H
+. CM
+.CM
+.CO
+-CO
+.CO
+- TP
+-TP
+. tJi
+.TP
+-.©i-^^ij^cocococo^t^t
+•
+«a oo to
+to co
+*>
+> to
+X
+O 'X
+trt QO t-
+© to
+i
+. Tp
+.TP
+.
+Ift
+. Ift
+.ift
+.
+Ift
+.US
+.
+i ^ « o
+^ ^ ^ ft x m ^ ^ x c^ ^ ^
+o n oc x
+c>, ^ o fi o ti o
+o qo
+o oo
+<—
+.^H
+.CM
+CI
+.CO
+-CO
+.CO
+. Tjt
+. Tp
+.Tp
+. tP
+. Tp
+.ift
+.ift
+.
+»ft
+.Ift
+.Ift
+. ©
+^Go-^'o'ototoi^t^^^i^t-.ooooQoooj^t^
+•©co©oocMtoc___
+.fl
+CM
+. CM
+.CO
+-CO
+QoQOQOOOOciQCiOoQc
+JM^O'OIC'O-^WV X ^ i—i to ton* -^00 ro ©
+~-T CI to CO
+ift
+© t- X
+© to> CI *0 CO
+—
+c<i
+. cm
+.co
+.co
+-co
+.tt
+,*r
+.tp
+.tp
+. us
+.ire
+.ui
+.1/5
+.us
+.
+ift
+.to
+. ©
+. ©
+i
+^icstorct-.t-^t^ooooooooooaooooooooooo
+. © ^
+r-- —. tp
+© to
+•**
+x ^> <— to t ; x^'S^C'-cr^TS. ic;
+i- c r
+~_ ~ ; ci j. t vv w
+to.
+^^^toto'K^c<3coo6coo6o6oic3j
+" oi
+os
+od
+06
+oo
+'
+J — to I- r
+jo to
+I-
+~~i —
+<
+- -T
+I ~
+- t
+3-.
+. «
+CO ~
+>0 ^' IT — X
+- T 55
+© -f-CI
+-t "
+, LO ~- ^ to
+«
+.CM
+-CM
+.CO
+.CO
+.TP
+.TP
+.TP
+-tp
+.irt
+.U5
+. U9
+. US
+if>
+-
+»-0
+.
+--£>
+, «e
+. CD
+.CO
+-
+TiOiOlOjOiOiOjQiCJiOi
+00
+00
+QO
+© OO <?5 >c !* to CI -C CD
+<9i —l
+TP
+t^. «o © Cc C-l
+*
+.US
+»C
+. U3
+.1ft
+iooto©i^—>t^eNf-TTto tD^r^-^*©^
+ooooooOiOidOsoi
+Oi
+OS
+Os
+Ql
+Ol
+r^ © ro <d
+©
+tp
+to © to cm r
+s © to QO Qo © O: ~* to. fi to. co to. -f
+<D to oo to ©
+© co
+' N OS
+OQ 00O Tj< to ©
+*
+th
+. fj
+.cm
+CO
+CO
+-
+*
+^i
+-*
+co
+to
+5 GO CM -^CO ~-Tlft *Q 1ft
+>J
+t © Co M
+CM OS
+QO
+OO
+OS
+OS
+00 OS ©
+f5-i t>.
+Tf
+'JO ©
+to. t r ~. X 'JO " ^ I" ' - © to 00 ^ © 'O CI to CO X' 'O
+-C ©
+'to 1^
+to> OO to © to © OS CM Oo CO to Tj" *+
+.
+i—i
+.CM
+-CO
+CO
+.TP
+-TP
+.1ft
+,ift
+.1ft
+.1ft
+, ce
+.©
+, to
+© ©
+-<D
+.©
+.©
+.l>
+.
+.1--
+.t»
+.
+^^^toi^ooootototototototototo*-.^-^totototo
+ro
+io
+to
+qo
+co
+to
+to
+to
+—* to fi to.i-i
+x to tp
+go *~i
+ift
+x
+~* to> co ^
+»ft
+© to x oo © to © to ~*
+cm ^ co
+co
+-~i ift to © oo t»- »o oo so
+^^to^cc
+os
+oito
+to
+to
+>^
+,-^
+v^
+-^•-i^i<3^?>i&i«c!>-;i-^>^>^
+o
+^
+^
+e<i
+©i
+e>i
+os oo to
+-
+P
+© -=r TP
+oo ^- i—I 04 T
+to. © to 00 So © *c —< oo fl to CO
+TP
+ift ro ©
+-^N -T-oo ~-r© &i © to <-< t^. M -
+to ^^^^r^^^Go
+Go'c^GoGoGoGoGor^r^
+<• -
+».o to -h
+CM
+.CO
+. Tp
+.
+ift
+.
+_
+.
+*d
+t^.
+oo
+Oi
+o
+*->
+© to. co to ©
+«-h oo »c © to f i «>j co >C' f
+no to t- to
+to oo
+© —« ©
+© to — to fi ao fi
+co **t# ^
+s>i
+©j
+go
+co"
+go
+go
+go
+--7-
+--r
+"
+~--f-
+Co
+GO
+GO
+Go"
+© --Tift or
+c-i to x t- f i >~ ic ^KKCrM^TC »o ^ ©
+"-o oo *~ ©-to © to' ©
+^- ^ f1
+f I ^ CO to CO to TP 00
+1ft
+©
+t
+CO
+.TP
+.Ift
+.ift
+.©
+.©
+. ©
+. t-
+. t-
+. t>
+- t-
+t-
+I-
+I-
+.X
+.X
+.X
+.X
+.X
+.X
+.X
+.X
+-X
+.x
+. c
+^
+OO
+to
+to
+—•
+r^iS^GOGO
+"^1-
+--7-
+^-T
+^T
+*o
+LO
+'O
+^
+''S
+© to tp bc ©
+— ci x
+© ~-t-co to
+ift -t-b* to x s
+5 i-^ iH to f 1
+«-h CO — CO «
+ift -^i ©
+© to
+oo
+~-^x c*i © oo
+to
+to
+to"
+to
+*<i
+>o
+t-.oocOtoXtoCVlf^TP-.T©>-Xto:
+ift-©
+.©
+. t-
+.!>.
+.t-
+. t-
+-X
+-00
+-X
+-X
+-C
+to-—.e^Go^^iQCococo*^
+^
+ift ^
+ift ^© >o
+^
+>^ x
+x ^x go ©
+© to, © to © &•}
+°o
+^^^^^^^^^^to'cdto'io!
+- to f) to ift oo. c
+: © — p i
+a* c- ^t-*
+ac © aa ©
+*c- t- ir- x so © to © 'to © to © to © to © to
+to <-* to
+re f i to fi --Tco
+co ^
+ito"to'^^c^o6oococctoto*to'osos*os
+-
+oo'ooooG^
+j
+x to i—
+i or jo to
+ift ro © to x '-o © to. © ro. © to
+>-i to <— to f 1 rv f i
+rrz f i
+ro co ^ co
+co ^ co
+^ ro tp ^ tp to ift
+ift gk; ift oo ift
+^^»^*^>^>^-^^G^C>lC^^C^^^©i©i^C^C^G>^e^^^^
+1 1ft
+1 1ft
+I ©
+> ©
+CJo)
+3jn ji
+CS
+O
+O
+
+--- PAGE 181 ---
+PROCESSING AND FABRICATION
+GO
+©O
+QO
+^0
+GO
+Ot>
+*SO
+Co
+00 to
+*Cs rH ^
+lf5
+CO 00 ?
+S ^ N
+M
+\n
+. irt
+. vs
+.10
+.
+CO
+«5
+»Q>
+*d
+co
+to
+*o
+*o
+f lo CO -3- 1-
+OS >-
+.
+a
+. ic
+.10
+ia
+.
+to
+to
+to
+to
+w 20 r- to Q0 --t-© co
+its
+. us
+.
+.
+.
+to
+to
+to
+us -. <* os t-
+ce to
+CO
+OO
+OO
+00
+00 co oi to o -<*»
+«
+-co
+.0-
+. t-
+OO
+OO
+QO
+OS
+00
+00
+00
+os
+os
+os
+os
+OS
+OS
+c
+«5--ieo^cooo^
+3) ~ C O3 O ^ h ^
+— to w ^t-w
+« -
+00
+-co
+.00
+.00
+x
+.00
+.so
+-co
+r— ^ 00 "4 00 95 co o
+h 'o ^ ^ c>i Oi e
+§5
+52
+gg
+S 3
+
+--- PAGE 182 ---
+176
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Instruments recording humidity directly are not commonly used in lumber dry
+kilns.
+Usually,
+instruments adapted
+for
+this purpose record wet- and dry-bulb
+temperatures from which relative humidities may be determined.
+It is obvious, of
+course, that such a record can be secured by the use of two separate recording ther-
+mometers, one suitably equipped with a wet wick over the bulb.
+It is just as obvious
+that a better arrangement would be to have both records on the same
+chart, and
+this is a very common type of recorder.
+These instruments are known also as wet-
+and
+dry-bulb
+recording
+thermometers,
+recording
+psychrometers,
+and
+recording
+hygrometers.
+In
+principle, temperature-humidity recorders,
+usually
+designed
+for
+ordinary atmospheric temperatures,
+are
+similar to recording thermometers,
+there
+being two complete components in a single case, one to record temperature and the
+other humidity.
+Two types of wet bulbs are used in dry -kiln work, the well-known wick-and-
+water-trough type and the porous-sleeve type.
+In the latter, a porous sleeve of
+alimdum or other suitable material, which surrounds the wet bulb,
+is kept
+filled
+with water.
+The water, gradually seeping through the porous walls,
+is evaporated
+on the sleeve
+surface, producing the necessary depression
+of temperature in the
+sleeve and the contained bulb.
+Both types are thoroughly reliable and satisfactory
+under proper operating conditions.
+Hard water soon clogs up the porous sleeves,
+just as
+it encrusts
+the wicks, but the sleeves can be cleaned very
+easily by im-
+mersing them in muriatic
+(hydrochloric)
+acid, and the wicks can
+be
+changed
+at
+slight trouble and expense.
+5.013. Moisture Content of Seasoned Lumber.
+The trade terms "green," "ship-
+ping dry," "air dry," and "kiln dried," although widely used, have no specific or
+agreed meaning with respect to moisture content except in a few cases where lum-
+ber
+association
+rules
+define moisture
+content
+limits
+for
+kiln- dried and
+air-dried
+stock.
+The wide limitations of these terms as ordinarily used are covered in the
+following statements, which, however, are not to be construed as exact definitions:
+"Green lumber"—lumber that may be freshly cut or partially seasoned but
+which has not yet reached a shipping-dry or air-diy condition.
+The term may also
+be applied to material that has a higher moisture content than
+is acceptable for
+stock being manufactured into finished products.
+"Shipping-dry lumber"—lumber that has been partially dried, either in a kiln
+or by
+air drying,
+to reduce weight and
+freight charges, and which may have a
+moisture content
+of 30 percent or more.
+"Air-dry lumber"—lumber that has been exposed to the air for any length of
+time.
+If exposed for a sufficient time, it may have a moisture content ranging from
+6 percent, as in summer in the arid Southwest, to 24 percent, as in winter in the
+Pacific Northwest.
+For the United States as a whole, the minimum moisture con-
+tent range for thoroughly air-diy lumber
+is 12 to 15 percent in the summer, and
+the average is somewhat higher.
+Sometimes terms such as "90 days on sticks" or
+"4 months in the yard" are used instead of "air-dry" to denote length of time in
+the yard piles.
+Since stock seasons slowly in cold weather, less drying would take
+place during the winter than during the summer, and a given period in the yard
+would not mean the same degree of seasoning in cold or wet months as would occur
+in summer or dry months (table 5-3).
+
+--- PAGE 183 ---
+PROCESSING AND FABRICATION
+177
+Table 5-3.
+Approximate moisture content in percent of thoroughly air-dry 1-inch stock by months
+for different regions
+Forest region
+1
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+California pine
+20
+18
+16
+14
+12
+10
+9
+9
+10
+12
+16
+18
+Redwood
+-
+.
+—
+24
+25
+22
+20
+18
+16
+15
+15
+16
+17
+19
+21
+Inland Empire
+2 _
+.
+.
+20
+20
+18
+15
+14
+14
+12/,
+13
+14
+15
+20
+20
+Oregon and Washington
+26
+24
+22
+18
+1G
+15
+12
+13
+15
+16
+22
+26
+Southern pine
+_
+.
+20
+13
+14
+14
+14
+16
+17
+20
+1 In the arid Southwest during the driest portion of the year air-dry lumber dries down to between 5 and 10 percent moisture
+content.
+2 Northwestern Montana, Idaho north of the Salmon River, Washington east of the Cascade Mountains, and the north-
+eastern tip of Oregon.
+"Kiln-dried lumber"—lumber that has been kiln dried for any length of time.
+The term applies to stock dried to "shipping dry," as defined above, as well as to
+stock dried to a final moisture content of 8 to 12 percent.
+Specifications covering
+kiln-dried lumber intended for immediate processing into a finished product should
+state the average moisture content, tolerance of individual pieces above and below
+the average, and moisture distribution between surface and center.
+For airplane
+stock, where maximum strength is a factor,
+it is also necessary to specify the maxi-
+mum temperatures permissible at various stages
+of seasoning.
+Such limits apply
+of course, even to stock dried to a shipping-dry condition.
+5.014. Coatings that Prevent End Checks.
+Wood
+dries more rapidly from the
+end grain than from the side grain, and
+is apt to check and split during seasoning
+unless end drying
+is retarded.
+For this reason
+it
+is advisable to use a moisture-
+resistant end coating on wood during
+air seasoning or kiln drying,
+especially on
+woods which are difficult to dry and on short kiln samples.
+As end cheeks, once
+started, are hard to stop, such coatings should be applied as soon as possible to the
+freshly cut ends.
+The coatings ordinarily used are
+of two
+kinds.
+Those of the
+first kind
+are
+liquid at ordinary temperatures and can be applied cold; the second are solid at
+ordinary temperatures and must be applied hot.
+Cold coatings have the advantage
+that they may be used as easily on logs and lumber as on kiln samples and dimension
+stock; hot coatings, because of the usual method of application (end dipping), are
+not easy to use on large stock.
+Either cold or hot coatings can be used in the kiln, but each type has its advan-
+tages and disadvantages.
+Hot coatings should have a melting point
+sufficiently
+high to prevent a breakdown in their efficiency under the kiln temperatures used.
+In general, this requires a melting point approximately 30° to 40° F. above the kiln
+temperatures.
+Hot coatings, as a type, are very water resistant and, when properly
+used, are more effective than the cold coatings.
+Excessive shrinkage of the wood and rough handling often cause the end coat-
+ings to chip or shear off, and a fresh application of the coating should then be made.
+To reduce end drying sufficiently, there should be a thick unbroken coating over the
+entire end surface.
+Hot coatings are usually applied by dipping the wood approxi-
+mately one-half inch into the liquid or by firmly pressing and rolling the end surface
+over a free or, preferably, a power-driven roller, the lower portion of which extends
+into the hot coating.
+Cold coatings should have about the consistency of heavy
+syrup, and are usually applied by brush.
+They should be allowed
+to dry a few
+hours before being subjected to kiln temperatures.
+
+--- PAGE 184 ---
+178
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+The two best cold coatings developed at the Forest Products Laboratory are
+hardened gloss oil thickened with barytes and magnesium silicate (very cheap), and
+a mixture
+of phenolic-resin varnish and aluminum powder or
+paste.
+The latter
+coating is expensive, but when two coats are applied it is very effective and has some
+advantage over the former.
+The manufacture of hardened gloss oil involves technical operations and should
+not be attempted by the novice.
+Because gloss oil is made commercially in a num-
+ber of ways, and because some of the products are unsuited for end coatings, a gloss
+oil should be specified that is made in accordance with the following formula:
+6 to 8 parts by weight hydrated lime.
+100 parts by weight rosin.
+57.5 parts by weight mineral spirits.
+To 100 parts by weight of this gloss oil add 25 parts barytes and 25 parts mag-
+nesium silicate.
+One or two parts of lampblack may also be added if a black coating
+is desired.
+The magnesium silicate helps to keep the pigment
+in suspension.
+In
+time, however,
+it will settle, and the spirits will evaporate.
+As a result of these two
+actions, the filled hardened gloss oil tends to become pasty
+if allowed to stand any
+considerable period.
+It
+is suggested, therefore, that the user protect his gloss
+oil
+from evaporation and mix relatively small quantities of
+it with the barytes and
+magnesium silicate as needed.
+Paraffin has proved very satisfactory as an end coating for stock during
+air
+seasoning, but cannot be used in the kiln because of
+its low melting point.
+The
+following hot coatings are satisfactory for
+all ordinary kiln temperatures:
+(1)
+Coal-tar pitches or asphalts with melting points between 195° and 213° F.
+(2) Mixtures of such coal-tar pitches and asphalts.
+(For instance, 100 parts
+by weight of 213° and 40 parts of 155° F. coal-tar pitch plus 25 parts of 220° asphalt.)
+(3)
+Rosin and lampblack (100 parts by weight of rosin to 7 parts of lampblack).
+(4) Any mixture of high-melting-point pitches and rosin.
+5.02. Care and Shipment of Lumber Prior to Seasoning.
+Under favorable tem-
+perature conditions, the sapwood of green lumber is subject to attack by mold- and
+stain-producing organisms
+if left in solid piles for several hours before stacking for
+drying.
+Even the heartwood of some species may be affected.
+Protective measures
+require quick transfer from the mill to the kiln or air-seasoning piles.
+Some species
+(5-2) are more susceptible than others and require special measures of protection,
+such as end-racking, for 2 or 3 days before piling in the yard, or dipping in toxic
+solutions as the stock passes on the green chain along the sorting table.
+Stain and mold fungi usually do not grow below a temperature of 35° F. and
+above a temperature of 100° F., but the most favorable conditions range between
+75° and 85° F.
+Green stock piled in freight cars is subject to the same hazards as solid piles at
+the mill, aggravated, however, by the fact that the time element is greatly extended,
+and that there is practically no ventilation around the piles.
+Green stock might be
+safely shipped
+if it
+is cut during cold weather and the temperatures during transit
+remain low enough
+to prevent
+the growth
+of
+fungi.
+Stock having a maximum
+moisture content of 20 percent will not support the growth of fungi and usually may
+be shipped safely.
+The possibility of stain developing in solid piles of lumber con-
+taining sapwood
+is affected by three factors—temperature, moisture content, and
+time.
+It is customary trade practice to ship stock called "shipping dry" both on
+ships and in freight cars.
+Such stock may have a moisture content of 20 percent
+or more, and with favorable temperatures may stain and mold in transit.
+Stacking green lumber on stickers in a closed freight car does not prevent stain,
+but dipping such stock in a toxic solution and then stacking
+it in a closed car does
+provide considerable protection even
+if the stock
+is bulk-piled.
+
+--- PAGE 185 ---
+PROCESSING AND FABRICATION
+179
+Stacking lumber on flat cars, either solid or on stickers, has many disadvantages.
+Unless
+it
+is protected by cover boards or waterproof paper, serious damage from
+checking usually results.
+If so protected,
+the problems are much the same as in
+closed cars.
+If emergency conditions require the shipping of green lumber under conditions
+liable to cause stain or decay, the stock should be dipped in an antistain solution and,
+after arrival at destination, the lumber should be unloaded at once and kiln dried or
+stacked for air seasoning as described in section 5.03.
+If stain or decay already
+is
+present, the lumber should be placed in a kiln and .steamed as described in section 5.04.
+5.03. Air Seasoning.
+Seasoning practices differ materially in the various tim-
+ber-producing regions, and also as between hardwoods and softwoods even in the
+same locality
+(5-8).
+Generally hardwoods are
+air dried before shipment, whereas
+often the upper grades
+of softwoods
+are kiln dried green from the saw.
+It may
+be necessary to carry a surplus stock of lumber to insure against shortage at the time
+of manufacture.
+If the stock is green, advantage may be taken of this intermediate
+period to reduce the moisture content, thereby reducing the time required for kiln
+drying.
+At softwood mills, the lower grades and dimension are usually air dried.
+Since most air-dried stock used in airplane products will be kiln dried, it follows that
+the quality of the finished product depends in no small measure upon the care taken
+in the preliminary air seasoning.
+Piling that is correct for air seasoning must accomplish a number of objectives:
+It must provide proper air circulation, it must offer suitable protection from sun and
+rain, and it must keep boards straight and flat while they are drying.
+If these things
+are accomplished, the best drying will result and drying defects will be at a minimum.
+Among such defects may be mentioned stain and decay, end and surface checking,
+and warping.
+No one rule will apply to
+all weather conditions and to all classes of
+stock; some species must be open piled to hasten drying and thereby avert stain,
+while
+others must be
+close
+piled to prevent too rapid
+drying, which may cause
+checking.
+The following general principles will apply to most seasoning yards.
+5.030. Stain Prevention.
+If stain is likely to occur, freshly cut lumber containing
+sapwood should be dipped in or sprayed with an antistain solution for protection
+against fungi attacks during the air-seasoning period (5-5).
+5.031. Foundations.
+The pile foundations (pile bottoms) should be constructed
+as follows:
+(a) The foundations should be rigid and properly leveled.
+(b) The foundations should be high enough from the ground
+to allow good
+circulation.
+The minimum
+distance from
+the ground
+to
+the under
+side
+of
+the
+lumber at the rear of the pile should be 18 inches.
+(c) Foundations should slope from front to rear about
+1 inch to the foot.
+(d) Material for piers is listed in order of durability and should be so selected
+whenever available:
+Concrete or masonry.
+Pressure-creosoted blocks of any species or the heartwood of baldcypress,
+redwood, or cedar.
+(When untreated woods are used,
+all points of con-
+tact should be given two coats of hot creosote.)
+(e) Beams and
+stringers should preferably be
+of
+steel,
+or pressure-creosoted
+timbers.
+Untreated durable woods with two
+coats
+of hot
+creosote
+at points
+of
+contact may be used when either of the first two are not available.
+(f )
+If existing pile bottoms are to be used, they should be inspected to see that
+they comply with the requirements given as to height levels and drainage conditions.
+All weeds, debris, and decayed wood and vegetation must be cleared away.
+Any
+part of the pile bottom containing decay should be removed or the decayed area
+cut out.
+All wood parts should be painted with two coats of hot creosote.
+
+--- PAGE 186 ---
+180
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.032. Air Flues.
+The following minimum requirements should be followed:
+(a) Even-width stock should have space between the boards or planks not less
+than 20 percent of the width of the board.
+The boards in each succeeding layer
+should be placed directly over those below so that the spaces between boards will
+form uninterrupted vertical flues.
+(b) The lateral spacing between the edges of boards or of groups of boards
+totaling 12 to 14 inches in width should be at least four inches, so arranged as to
+form straight vertical
+flues in the
+pile; or in uneven-width material one tapering
+flue not less than 12 inches at the bottom should be used for a 6-foot pile, and two
+such flues in wider piles.
+With the tapering flue, the space between adjacent tiers
+of boards should be not less than
+1 inch.
+5.033.
+Stickers.
+The following minimum requirements should be followed:
+(a)
+All stickers must be sound, thoroughly dry, free from stain, and of uniform
+thickness.
+(1)) Each tier of stickers should be aligned and rest on a beam.
+(c)
+Stickers for 4/4-inch lumber should be of nominal inch stock or thicker and
+not more than 4 inches wide.
+For thicker lumber of random length, stickers should
+be at least V/2 inches thick for greater stiffness and strength and not more than 4
+inches wide.
+(d)
+Stickers should overlap the ends of the boards at least % inch to reduce
+end checking.
+(e)
+Stickers should not be more than 2 feet apart for hardwoods up to 6/4 inch
+in thickness.
+For thicker hardwoods and all softwoods, the equivalent of five rows
+of stickers for 16-foot stock should be used.
+(f)
+Aircraft stock should never be self-stickered.
+5.034. Placing of Lumber.
+The
+following minimum
+requirements
+should
+be
+followed:
+(a
+)
+Piles should be erected of boards of equal length wherever practicable.
+(1)) Box piling should be used for mixed lengths.
+With this system, the longest
+stock is piled in the outer rows and short lengths within the pile, with one end of a
+board at one end of the pile and one end of the adjacent board at the opposite end.
+In each succeeding layer, the outside ends of boards should be kept immediately
+over the ends of those below.
+(c) Each layer should be composed of boards of the same thickness.
+(d) The pile should have a forward pitch to the extent of
+1 inch for each foot
+of height and a slope from front to rear of 1 inch for each foot of length.
+(e) Narrow piles are desirable for stock that will withstand rapid drying and
+wide piles for stock that is liable to check and honeycomb.
+Common pile widths
+range from 6 to 16 feet.
+(f) The lateral space between piles should be at least 4
+feet, and the distance
+between the rear ends of the piles should be at least 8 feet.
+5.035. End Coatings.
+End coatings should be applied in
+all cases where end
+checking is objectionable.
+Several satisfactory end coatings are listed under section
+5.014.
+5.036. Covering.
+All material should be under cover either in an open shed or
+with roofs over individual piles.
+One satisfactory type of pile roof consists of two
+layers of low-grade boards, those in the upper layer being staggered with respect to
+those in the lower layer.
+(a) A minimum front height of 6 inches above the lumber, with a slope of at
+least
+1 inch to the foot, should be required.
+(b) The ends and the sides should project sufficiently to prevent snow and rain
+from beating into the lumber piles.
+(c) The roof should be securely fastened.
+5.037.
+Site.
+The yard should be well drained and kept free of weeds and debris.
+
+--- PAGE 187 ---
+PROCESSING AND FABRICATION
+181
+5.04.
+Kiln Drying of Lumber.
+Lumber
+is kiln dried,
+first, to reduce moisture
+more quickly than in air drying, and, second, to reduce the moisture content to a
+lower point than can ordinarily be attained in air drying.
+In addition,
+if stain, de-
+cay organisms, or wood-boring insects are present, the lumber will usually be steril-
+ized and the borers killed.
+5.040. Essentials of Good Kiln Drying.
+Lumber
+intended
+for
+airplane
+parts
+requiring maximum strength and minimum dimensional changes after manufacture
+must be free from surface or end checks, honeycomb, case-hardening, and warp, and
+the moisture content and moisture distribution must be within the range best suited
+for
+conditions
+of
+service.
+Properly
+designed
+kilns have
+both
+temperature and
+humidity under automatic control so that the optimum conditions of drying can be
+maintained
+during
+the
+seasoning
+period.
+Circulation
+of
+air,
+adequate
+in
+both
+uniformity and volume,
+is necessary for good control of temperature and humidity.
+The initial drying period, during which the stock is green,
+is the most critical stage
+or time that the stock is most likely to be damaged.
+It is during this period that the
+lowest temperatures and highest humidities are needed and uniformity of control can
+be obtained best with the aid of fans, blowers, or other mechanical means of stimu-
+lating circulation.
+After stock has been dried to a moisture content of 25 percent or
+lower, less circulation is required to obtain accurate control of the drying.
+In double-track kilns in which air enters at one side wall, passes through the
+piles on both tracks and thence into the space between the load and the opposite wall,
+a small heating coil
+is sometimes located in the space between the two loads.
+The
+object
+is to make up the heat loss that develops as the air passes through the first
+load.
+These booster coils, while acceptable in standard commercial drying, are not
+desirable as a rule for the drying of airplane stock.
+Their use should be permitted
+only after examination to determine if they cause excessive temperatures.
+" 5.0400. Material:
+(1)
+Species
+of the same drying characteristics may be included
+in the same
+charge.
+(2)
+Pieces should be dried in the smallest sizes to be used and which are practical
+to handle, rather than in large dimensions.
+(3) Reasonable variations of thickness may be tolerated if drying conditions are
+regulated for the wettest, thickest, and slowest drying stock and care is taken to give
+each thickness its proper final conditioning treatment.
+5.041. Temperature and Relative Humidity.
+The specifications define maximum
+temperatures for various species of lumber at different stages of drying and the bulbs
+of the recording hygrometer and control bulbs of the thermostats should be located, if
+practical, where they will measure the most severe drying conditions.
+In reversible-
+circulation kilns, dual dry bulbs or other acceptable means of controlling the tempera-
+ture of entering air should be used.
+Maximum temperatures are tabulated in the specification because temperatures
+in excess of the values allowed for different degrees of dryness are likely to reduce the
+strength of the wood.
+Relative humidities at permissible kiln temperatures have no
+deleterious effects on the strength of the wood as long as they are high enough to
+prevent checking and honeycombing; hence, the humidity schedule
+is
+left to the
+discretion of the kiln operator.
+For the kiln operator who has had no experience
+in drying a given item of aircraft lumber, the relative humidity schedules in tables
+5-4 to 5-8 are offered as a guide.
+In general, they are conservative, and experience
+with a particular kiln should afford a basis for improving them.
+
+--- PAGE 188 ---
+182
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Table 5-4.
+Suggested
+relative
+hurtiidities
+1 for temperatures
+specified in schedule 2
+oj AN-W-2a
+_opecies
+Thick-
+ness
+Percent moisture content at which changes are made
+Above
+40
+40 to
+30
+30 to
+25
+25 to
+20
+20 to
+15
+15 to
+10
+10 to
+final
+Inches
+135° F.
+140° F.
+145° F.
+150° F.
+155° F. 160° F.
+165° F.
+Noble
+fir
+65
+60
+55
+50
+45
+35
+35
+Red pine
+70
+60
+50
+45
+40
+35
+35
+Red spruce
+.
+_______
+75
+60
+50
+45
+40
+35
+35
+Sitka spruce
+.
+75
+60
+50
+45
+40
+35
+35
+White spruce
+75
+60
+50
+45
+40
+35
+35
+Port Orford white-cedar.
+75
+60
+50
+45
+40
+35
+35
+1 In 10-inch and wider flat-grain softwoods, relative humidities approximately 10 percent higher should be used during the
+first 2 schedule periods.
+In drying aircraft lumber in a natural-draft kiln, the relative humidities suggested in this table may be
+reduced about 5 percent.
+Table
+5-5.
+Suggested
+relative
+humidities for
+temperatures
+specified
+in
+schedule
+3
+of AN—W—2a
+Species
+Douglas-fir
+Red fir
+Sugar pine
+Silver maple
+Sugar maple
+Yellowpoplar
+Noble fir
+Red pine
+Sitka spruce
+Red spruce
+White spruce
+Port Orford white-cedar
+Silver maple
+Sugar maple
+Thick-
+ness
+Inches
+1
+1
+1
+1
+1
+1
+IK
+IX
+1/
+VA
+Percent moisture content at which changes are made-
+Above
+40
+130° F.
+70
+65
+60
+80
+80
+80
+65
+75
+75
+75
+75
+80
+80
+80
+40 to
+30
+135° F.
+65
+50
+50
+75
+75
+75
+60
+70
+70
+70
+70
+65
+75
+75
+30 to
+25
+140'
+' F.
+60
+40
+40
+70
+70
+70
+55
+50
+50
+50
+50
+50
+70
+70
+25 to
+20
+145° F.
+50
+40
+40
+60
+60
+60
+50
+45
+45
+45
+45
+45
+60
+60
+20 to
+15
+150° F.
+40
+35
+35
+50
+50
+50
+45
+40
+40
+40
+40
+40
+50
+50
+15 to
+10
+155° F.
+35
+35
+35
+40
+40
+35
+35
+35
+35
+35
+35
+35
+40
+40
+10 to
+final
+160'
+F.
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+35
+
+--- PAGE 189 ---
+PROCESSING AND FABRICATION
+183
+Tabl

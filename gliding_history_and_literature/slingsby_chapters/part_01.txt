@@ -1,0 +1,795 @@
+# Slingsby Sailplanes — Martin Simons
+
+
+--- PAGE 1 ---
+COMPREHENSIVE 
+HISTORY OF ALL * 
+DESIGNS
+Martin Simons
+
+--- PAGE 2 ---
+Slingsby Sailplanes
+This book describes Slingsby sailplanes 
+and gliders from the British Falcon of 
+1931 to the last motorless aircraft 
+produced - the Vega. Each type is 
+illustrated with an accurate full page, 
+three-view drawing, with photographs 
+and text outlining the background to the 
+design. The drawings are based on the 
+original workshop plans.
+Slingsby was for fifty years the main, and 
+for most of the time only, producer of 
+gliders and sailplanes in Britain. The 
+company was one of the first to use glass 
+fibre reinforced plastics in production 
+aircraft as early as 1953 and were 
+probably the first to use carbon fibre 
+composite materials for main structural 
+members. Many examples of their 
+models are to be found all over the world.
+£39.95
+RRP
+
+--- PAGE 3 ---
+f ttom % ^Tiding Kt&ttattg olf
+
+--- PAGE 4 ---
+Slingsby 
+SailpTanes
+
+--- PAGE 5 ---
+SI i ngsby
+Sailplanes
+A COMPREHENSIVE HISTORY OF ALL DESIGNS
+ffifisl^p^
+(I
+Martin Simons
+Airlife
+England
+
+--- PAGE 6 ---
+Dedication
+To my glider pilot daughters. Patricia and Margaret. 
+Keep in practice!
+Contents
+Introduction
+6
+Copyright © !!»{»() Martin Simons
+First published in the UK in 
+by Airlife Publishing Ltd
+British Library Cataloguing in Publication Data
+A catalogue record for this book 
+is available from the British Library 
+ISBN 185:n()7:*2s
+All rights resen'ed. No part of this book may be reproduced 
+or transmitted in any form or by any means, electronic or 
+mechanical including photocopying, recording or by any 
+information storage and retrieval system, without permis- 
+sion from the Publisher in writing.
+Typeset by Srrvis Filmsetting Ltd
+Printed in England by Livesey Ltd, Shrewsbury
+Airlife Publishing Ltd
+101 Longden Road, Shrewsbury. SY:J DEB. England
+Scarborough 1931-34
+Types 1 & 2, the British Falcon 
+Type 3, Primary Glider (Dagling) 
+Type 4, the Falcon 3 
+Type 5, the Grunau Baby 2 
+Hjordis
+Kirbymoorside 1934-39
+Types 6 and 23, Kirby Kite
+Type 7, Kirby Kadet (Cadet TX Mk 1)
+Type 8, Kirby Tutor and Motor Tutor
+Type 9, King Kite
+Types 12 & 15, Kirby Gull
+Type 13, Petrel
+Type 14, Gull 2
+Second World War 1939-45
+Type 18, Hengist 
+Type 20 
+TVpe21,Sedbergh
+Post-war
+Type 24, TX. 8/45 Falcon 4
+Type 25, Gull 4
+Type 26, Kite 2
+Type 30, Prefect
+Type 31, Tandem Tutor (TX Mk. 3 Cadet)
+and T-35 Austral 
+Type 34, Sky
+The laminar boundary layer
+Type 37, Skylark 1 
+Type 38, Grasshopper- 
+Type 41., Skylark 2 
+Type 42, Eagle and T-55 Regal 
+Type 43, Skylark 3 
+Type 45, Swallow 
+Type 41), Capstan 
+Type 50, Skylark 4
+Wood, metal or glass? 1965-69
+Type 51, Dart 15 & 17 R 
+Type 53, Phoenix 
+Slingsby Schreder HP-14
+Vickers Slingsby
+TVpe 59, Kestrel 
+Type 65, Vega
+The end of sailplane production 
+References
+11
+19
+27
+31
+37
+45
+53
+61
+67
+75
+85
+93
+99
+105
+111
+121
+127
+135
+143
+151
+157
+163
+169
+173
+179
+185
+193
+199
+205
+211
+221
+229
+237
+249
+256
+
+--- PAGE 7 ---
+A photograph of the Derby Club's T-21B by George 
+Thompson. Note the sharp outer corner to the elevator 
+which was changed on subsequent aircraft.
+
+--- PAGE 8 ---
+Introduction
+This book describes Slingsby sailplanes and gliders 
+from the British Falcon of 1931 to the last motorless 
+aircraft produced, the Vega. Each type is given an accu- 
+rate three-view drawing, photographs, and text out- 
+lining the background to the design and mentioning 
+operational successes or occasional failures. Type 
+numbers were allocated to some design projects which 
+never flew. These and the powered aircraft produced 
+by the company are not included in this volume. l
+Full sets of working plans for almost all Slingsby air- 
+craft before 1950 were discovered in 1969 by Norman 
+Ellison in the lofts above the offices. They were saved 
+from destruction, and after a long period in storage are 
+now preserved by the Vintage Glider Club. The draw- 
+ings by the author in this book are based on these origi- 
+nals and on other plans of later types from the 
+company's archives, rather than on previously pub- 
+lished outlines or extracts from brochures.
+Fred Slingsby first built gliders at his furniture works 
+in Scarborough, but as the business grew and 
+demanded more space he moved for a while into the 
+abandoned tram sheds belonging to the town corpora- 
+tion. A transfer to Kirbymoorside on the northern edge 
+of the Vale of Pickering was made in 1934. (For some 
+reason the town is now spelled Kirkbymoorside on 
+maps and road signs, but to gliding people it will proba- 
+bly always be without the second kk'.) In 1939 a new 
+factory was built at Ings Lane, south of the village, 
+wrhere it still remains. There were several changes of
+1 Two powered aeroplanes begun in 1938 were not com- 
+pleted. Early in the Second World War components were 
+made for A\TO Ansons. In the postwar period there were 
+two examples of the Motor Tutor, and a single experimental 
+powered version of the two seat T-49 Capstan sailplane was 
+tested in IMS. Six replica S.E.oAs, a Sopwith Camel and 
+two Rumpler C. IV First World War replica fighters were 
+built at this time with some non-flying mock-ups for the film 
+industry. Thirty-two Tipsy Nippers were produced under 
+contract for the Nipper Aircraft Company. Other powered 
+projects were the T-40 Hayhow and the extraordinary 
+Cameo V-Liner, neither of which was completed.
+The T-61 was a licence-built version of the Scheibe SF;35 
+Falke motor glider, modified and renamed Venture for use
+ownership, and a period of closure when the company 
+was in receivership during 1969. The works reopened 
+later in the same year. Glider design and production at 
+Kirbymoorside then continued until 1982. The modern 
+company, Slingsby Aircraft Ltd, is exclusively con- 
+cerned with powered aeroplane manufacture.
+A full appreciation of the part played by each of the 
+Slingsby sailplane types described in the following 
+pages requires a brief outline of the historical back- 
+ground and technical development of soaring.
+The origins of a sport
+Before their first powered aeroplane flights, the Wright 
+brothers made many trials with gliders, and on about a 
+dozen occasions achieved soaring flights of more than 
+a minute's duration. The longest of the four famous 
+powered flights on 17 December 1903 was still of less 
+than 60 seconds endurance and another year passed 
+before they exceeded this time.
+In 1911 Orville Wright returned to Kill Devil Hills, 
+North Carolina, with a glider. On 23 October he made a 
+soaring flight of 9min and 45sec. Many years after- 
+wards he was asked why he went back to gliding after 
+eight years. His 'official' explanation was that some 
+serious testing of a new control system was to be done, 
+but this was only part of the reason. At the age of 68, 
+Orville admitted that he found soaring to be more fun 
+than flying with an engine.2 A new sport had been dis- 
+covered.
+by the Air Training Corps. Deliveries began with a batch of 
+15 T-61Bs in 1977, and 25 T-61Fs with glassfibre mainspars 
+were produced in 1980. There were also sales of the T-61 on 
+the civilian market, bringing the total of all marks to 76.
+In June 1980 the Slingsby company reached agreement 
+with the Fournier Aviation Company to build the RF-6B 
+light aeroplane. This soon led to the development of the T- 
+67 Firefly which, completely redesigned for fibre reinforced 
+plastic construction, proved to be a great success and is, at 
+the time of writing, in full production, being used interna- 
+tionally by many flying clubs and air forces including the 
+USAF.
+2 Reported in P. A. Schweizer, Wings Like Eagles, p. 6 
+(Smithsonian Inst Press, 1988).
+
+--- PAGE 9 ---
+INTRODUCTION
+The first gliding competition also had a serious 
+purpose. The Versailles Treaty of 1919, ending the First 
+World War, banned aeroplanes in Germany. Many 
+pilots, aircraft manufacturers and students of aero- 
+nautics saw a bleak future for German aviation, but 
+gliders were not specifically mentioned in the prohibi- 
+tion. Wolfgang Klemperer and his younger friend Erich 
+Meyer, who had experimented with hang gliders in 
+Dresden before the war, saw the loophole. Early in 
+1920, in an article in the magazine Flugsport, they sug- 
+gested that a glider competition should be held in the 
+Rhon mountains of the Fulda district. The dome-like 
+Wasserkuppe, swampy in places and at that time 
+covered by unfenced pastures, had been successfully 
+used for gliding during several pre-war summers by a 
+group of schoolboys from Darmstadt.
+Oscar Ursinus, editor of Flugsport, supported the 
+idea of the competition with enthusiasm and agreed to 
+take on the organisation. Under his guidance the two- 
+month-long meeting from mid-July into September 
+was modestly successful despite a fatal accident. 
+Klemperer himself, recently appointed to an academic 
+post in the Aerodynamics Institute of Aachen 
+Technical College, made the best flight in the 
+Schwarzer Teufel (Black Devil), a cantilever mono- 
+plane glider which he had designed and built with his 
+students in the Institute. From the beginning, sailplane 
+development in Germany was closely associated with 
+such student flying groups, the Akafliegs.
+The Rhon contests became annual sporting events, 
+continuing even after the lifting of the ban on powered 
+flight in 1925. A full-time gliding school was estab- 
+lished on the Wasserkuppe, and another at Rossitten 
+on the sand dunes of the Baltic coast. Extended slope 
+soaring flights of several hours were achieved in 1922, 
+and thermal upcurrents were discovered in 1925 and 
+used systematically from 1928. Cross-country flights of 
+more than 150km had been achieved by 1930. Sailplane 
+and glider building factories, notably those of 
+Alexander Schleicher at Poppenhausen near the 
+Wasserkuppe, Edmund Schneider at Grunau in Silesia 
+and Gerhard Fieseler at Kassel, were established.
+Apart from a brief flurry and one lively meeting at 
+Itford Hill in 1922, very little interest was shown in 
+Britain until the news of the German successes filtered 
+through to the pages of The Aeroplane magazine. The 
+British Gliding Association (BGA) was formed late in 
+1929, and visits by prominent German experts were 
+arranged. In February 1930 Professor Georgii lectured 
+to the Royal Aeronautical Society on soaring meteor- 
+ology, and Fritz Stamer, who was running the training 
+school on the Wasserkuppe, described the methods 
+used there. The BGA issued its first gliding certificates 
+in March that year. Most influential of all, Robert 
+Kronfeld brought his beautiful Wien sailplane and 
+toured the country, performing a famous slope-soaring 
+cross-country flight from Itford Hill to Bedworth near 
+Portsmouth on 17 June. Carli Magersuppe, sponsored 
+by the Daily Express newspaper, joined the tour with 
+a Professor sailplane.
+There was an upsurge of enthusiasm. More than 90 
+gliding clubs were formed all over Britain, and some 
+aero clubs established gliding sections.3 Fifty clubs 
+responded to a questionnaire distributed at the end of 
+1930. Every club had at least one glider or was in the 
+process of building one; some possessed two or three. 
+The total active involvement in gliding approached 
+2,000 persons. The largest group was the London 
+Gliding Club, not yet settled at Dunstable, with 112 
+members, three club gliders and four privately owned 
+machines.
+Slingsby
+Frederick Nicholas Slingsby, born on 6 November 
+1894, had joined the Royal Flying Corps in 1914, and as 
+a flight sergeant gunner/observer earned the Military 
+Medal, when after his pilot had been killed in the air, he 
+regained control and flew the aircraft back to the 
+British side of the trenches. He remained in the service 
+(by this time the Royal Air Force) until 1920, at which 
+time he bought a partnership in a woodworking and 
+furniture factory in Queen Street, Scarborough, on the 
+east coast of Yorkshire. Early in 1930 newspaper 
+reports of the BGA's foundation were brought to his 
+attention by a young dance band leader named Sanders 
+who knew of Slingsby's service experience. With a few 
+friends they founded the Scarborough Gliding Club in 
+February.
+The manager of the luxurious Royal Hotel joined and 
+was elected chairman. Members came to meetings in 
+the hotel wearing their best suits for a good meal 
+beforehand. There were lectures and discussions. 
+Flying operations began with a Dagling glider bought 
+from the R. F Dagnall Company of Guildford, Surrey. 
+They flew at weekends and on Wednesday afternoons, 
+using sites at Flixton Hill, due south of the town, and at 
+Sutton Bank, overlooking the Vale of York. Amy 
+Johnson agreed to become president of the club. This, 
+and the Scarborough Council's support, helped to 
+attract members, especially after the spectacular but 
+rather unsuccessful demonstration by Kronfeld and 
+Magersuppe on Castle Hill above the town in July. 
+Magersuppe's Professor sailplane was damaged when 
+it hit a fence on take-off, and he came down in the sea 
+to be rescued by a fishing boat. Despite this, he was 
+appointed instructor to the gliding club at a salary of 
+£10 per week. By the end of 1930 the club had 40 active 
+flying members, and more than twice that number 
+were paying small subscriptions to become social 
+members and, doubtless, joining the festivities at the 
+Royal Hotel.
+Slingsby gained his A and B gliding certificates 
+during the year, becoming the first Scarborough 
+member and only the 30th person to do so according to 
+the BGA register. The A certificate required a straight 
+glide under control lasting 30sec. By the end of the year
+:] The information about clubs in 1930 comes from the Dorset 
+Gliding Club's yearbook, Gliding, issued in 1931.
+
+--- PAGE 10 ---
+SLINGSBY SAILPLANES
+the club had trained six members to this standard. 
+Sanders, the band leader, was not one of them. The B 
+Certificate required a flight of Imin and two further 
+flights with safely executed right- and left-hand turns 
+with good landings. Three of the six Scarborough 
+members achieved this. (The training methods used 
+are described in the chapter on Slingsby's Type 3 
+Primary.)
+The Dagling was broken regularly, and Slingsby, the 
+club's ground engineer, found himself and his factory 
+constantly involved in repairs. He was forced to 
+present bills for materials and working hours spent 
+away from his business. Thus he entered the gliding 
+industry as an ancillary to his regular occupation. He 
+had a sound background in aircraft woodwork and 
+rigging, and was an excellent draughtsman. The 
+factory provided tools and machinery. His workmen, 
+he said, began to prefer working on the glider to furni- 
+ture making. Slingsby had no formal qualifications in 
+aeronautics or engineering but was ready to employ 
+qualified consultants. He had a shrewd business sense 
+and a great enthusiasm for gliding.
+The development of soaring technique
+In 1930, knowledge of soaring in Britain was almost nil. 
+Gaining height in the upcurrent on the windward side 
+of a hill proved fairly easy. Anyone with a B certificate 
+and a certain confidence could do this. After being 
+bungee launched from the crest the glider was flown 
+steadily along the hill to the end, performing a gentle 
+turn there to come back and fly to the other end of the 
+beat to turn again. Every turn was made away from the 
+slope. As long as the wind blew sufficiently up the 
+gradient a moderately efficient glider, flown well, could 
+soar, possibly rising several hundred feet above the 
+launching point. An extended soaring flight of 5min 
+earned the C certificate. It was quickly learned that to 
+turn or drift behind the hill was to be forced down to a 
+premature landing.
+The next important development came more slowly, 
+hampered for the first few years in Britain by the total 
+lack of any instruments in the gliders. To exploit 
+thermal upcurrents to make cross-country flights over 
+level ground seemed almost miraculous at first, and 
+veiy few understood how it was done. The slope- 
+soaring pilot could judge his rises and falls fairly well 
+by observing the level of the hill, but as soon as a 
+sailplane was more than a few hundred feet up, the 
+lack of a \isual reference made it impossible to tell if 
+height was being gained or lost, Turbulence felt in the 
+air might indie-ate either lift or sink. Airspeed was mea- 
+sured by the force of the airflow on the face and by the 
+humming of the flying wires. Altimeters were not used. 
+The main requirement was a sensitive rate of climb 
+indicator, or variometer. German pilots began using 
+these in 192S.
+In 1931 Kronfeld again came to Britain, gliding 
+across the English Channel from a high aero-tow. Ha 
+made a cross-country flight in thermals over London 
+from Hanwoith, south of Richmond, to Chatham, on
+the Thames estuary. On the following day he returned, 
+passing directly over Croydon on the way to land back 
+at Hanwoith. This was one of the first successful goal 
+distance flights. He was observed to circle repeatedly 
+in the narrow cores of the thermals to gain thousands 
+of feet before gliding off in the direction he chose to go. 
+Despite such demonstrations, and subsequent lectures 
+and publications, it was not until 8 January 1933 that a 
+British pilot, Eric Collins, dared to perform a complete 
+360° turn in a sailplane.4 In August of that year the first 
+thermal soaring cross-country flights were attempted 
+in Britain, Collins setting a British distance record of 
+just under 50km. By this time, flights of over 270km had 
+been made in Germany.
+When good variometers, sensitive altimeters and air- 
+speed indicators became available, British pilots soon 
+learned to use them. The technique was to circle and 
+climb in each thermal and then glide on to find the next 
+one, climb in it to the top and move on again. By 1936 
+sailplanes were sometimes also fitted with gyro instru- 
+ments to enable them to fly blind, taking advantage of 
+the strong lift inside cumulus and cumulo-nimbus 
+clouds. Airbrakes, or at least lift spoilers, became 
+essential to allow safe landings in small spaces. The 
+Silver C certificate, requiring a cross country of 50km, 
+a 1,000m gain of height and a duration of 5hr, was insti- 
+tuted internationally in 1931. Collins was the first 
+Briton to achieve this, in 1934. By the end of 1939, 56 
+British pilots had so qualified.
+Before the outbreak of the Second World War, flights 
+over 200km and one over 300km had been achieved in 
+England, the last, together with a height climb in cloud 
+to over 14,000ft, earning the International Gold C 
+badge for Philip Wills.5 The English Channel was 
+crossed in soaring flight from Dunstable by Geoffrey 
+Stephenson in April 1939, flying a Slingsby sailplane, 
+the Kirby Gull. The Second World War then intervened, 
+bringing a general ban on soaring until 1946.
+Penetration
+In the post-war period, with mathematical studies 
+pointing the way, the importance of speed was recog- 
+nised. The length of a good soaring day is limited to a 
+few hours. Some heating of the ground is needed to set 
+off thermals, and this usually meant waiting until about 
+10 a.m. or later before starting a cross-country flight. 
+The land cools in the evening, so to achieve a worth- 
+while distance the pilot needed to make a high average 
+speed while the conditions lasted. The sailplane 
+designer was now required to produce an aircraft with 
+a low rate of sink when circling, but which on leaving 
+the lift zone would glide at a high airspeed without 
+losing too much height. Only the best part of each 
+thermal should be used to improve the average rate of
+4 A. E. Slater, Sailplane and Gliding, December 1963, p. 452.
+5 Wills was the fourth pilot in the world to achieve this, after 
+Eugen Wagner, Heini Dittmar and Hermann Zitter. Wagner's 
+name was omitted from some earlier published lists.
+
+--- PAGE 11 ---
+INTRODUCTION
+climb, then in the glides the airspeed must be 
+increased, even at the expense of lost height. This 
+improved the average cross-country speed, always 
+supposing that another strong thermal could be found. 
+If there was sinking air it was proved by calculation 
+and experience that it was essential to fly through it 
+fast, the height lost by putting the glider's nose down to 
+gain airspeed being much less than that wasted by lin- 
+gering too long in the bad air. The requirements are to a 
+large extent incompatible. To achieve the lowest possi- 
+ble rate of sink at slow airspeed, a low wing loading 
+and a very-high-aspect-ratio wing are necessary. 11 To fly 
+very fast with minimal loss of height in the glide 
+requires a high wing loading, together with wing profile 
+drag and the parasitic drag of tail and fuselage reduced 
+to an absolute minimum.
+Low-drag, so-called laminar flow wing profiles devel- 
+oped in the USA were found to be very useful, but 
+required new approaches to glider construction and 
+new materials. The aircraft became heavier with 
+greater and greater spans. To remain safe at high 
+speeds they had to be much stronger and stiffer than 
+before. High-strength metal alloys began to find their 
+way into the structures. To place a check on escalating 
+costs, a simple 15m span Standard Class specification 
+was developed internationally, and proved successful, 
+but the unrestricted 'open class' sailplanes continued 
+to grow in complication and cost.
+As aircraft and the pilots improved, gliding competi- 
+tions changed from simple distance and goal flying to 
+racing round prescribed courses. The need for 
+penetration, the ability to glide fast at a shallow angle, 
+became more and more urgent. Given a good glide 
+angle at high airspeed, the racing pilot can sample a 
+large mass of air in a short time, passing through the 
+weaker thermals without circling in them. Only those 
+that yield high rates of climb are selected. The need for 
+low rates of sink in circling remains, still demanding 
+high aspect ratios.
+Further researches in aerodynamics produced 
+better wing profiles, but these required even more 
+accurate, wave-free wing surfaces. Careful attention to 
+the form of fuselages and tails yielded worthwhile
+(1 Aspect ratio is the relationship of the wing span to the total 
+area. A narrow wing of large span has a high aspect ratio. 
+The ratio may be calculated by dividing the span by the 
+average or mean chord of the wing. The wing loading is the 
+relationship of the total flying weight of the aircraft to the 
+wing area, found by dividing the weight by the area.
+savings in drag. Traditional materials such as spruce, 
+pine and plywood, even metal, were no longer good 
+enough. Glassfibre, carbon and aramid fibre-reinforced 
+moulded plastics were widely adopted.
+With the new profiles and materials, even higher 
+wing loadings were demanded. Some German 
+sailplanes were fitted with water tanks as early as 1934, 
+but carrying ballast did not become general until the 
+1970s. Given that the pilot will circle only in the strong- 
+est thermals, some loss of climbing ability owing to the 
+extra weight is more than compensated for by the 
+improved glide at high speeds. The water- can be jetti- 
+soned if the thermals weaken. Some modern single- 
+seat 'open class' sailplanes with spans of about 25m (82 
+ft) may carry 200 to 250kg (440-5501b) of ballast on 
+take-off.
+The most recent development has been the wide- 
+spread introduction of self-launching. A retractable 
+motor with a propeller is built into the sailplane, dis- 
+pensing with the need for launching apparatus or aero- 
+towing, and with the business of retrieving sailplanes 
+by road after out-landings. The weight of the propul- 
+sion unit becomes unimportant in a sailplane, which 
+will normally be loaded with water ballast anyway. The 
+long-term influence of this development on the tradi- 
+tional gliding club remains to be seen. There is nothing 
+now to prevent a soaring pilot from keeping the 
+sailplane at an ordinary aerodrome, taking off unaided 
+and flying to the open country, where the engine will be 
+shut off for several hours but started up again to fly 
+home in the evening to join the regular landing pattern 
+and taxi in.
+The best glide ratio of a sailplane   the measure of 
+how far it can glide in still air from a given height  is a 
+useful indication of all-round aerodynamic efficiency. 
+Slingsby's British Falcon in 1931 probably achieved 
+about 16:1 and weighed about 230kg (5061b) in flight. 
+By 1982 the best open class sailplanes had glide ratios 
+close to 60:1 and weighed 750kg (l,6531b) fully bal- 
+lasted. Corresponding figures for good 15m sailplanes 
+like the Vega were 42:1 and 508kg (l,1201b). Slingsby's 
+Falcon was used for a 20km (12.4-mile) flight soon 
+after it was completed. In 1982 the world record dis- 
+tance flight for a sailplane stood at 1,460km (907 miles) 
+but, more importantly, the 1,250km (750-mile) tri- 
+angular flight speed record stood at 133.2kmh 
+(82.76mph). Slingsby sailplanes were produced during 
+the half-century while these advances were taking 
+place, and it was never easy to keep up.
+
+--- PAGE 12 ---
+0)
+Wing sections
+Type 2 fuselage
+was entirely skinned
+with plywood
+\/ Strut
+details
+Scale 2 x
+CO
+Slingsby Type 2 
+Falcon 2
+Slingsby
+Type 1
+British Falcon
+Drawn by Martin Simons 1994 
+(£)
+
+--- PAGE 13 ---
+Types 1 and 2, 
+the British Falcon
+Having achieved his A and B gliding certificates, Fred 
+Slingsby was anxious to make progress. For early 
+soaring attempts beginners needed a mild-mannered 
+sailplane that would not respond too sharply to clumsy 
+handling, yet had a sufficiently low rate of sink to allow 
+sustained flight in slope lift. In 1930 there were few 
+intermediate gliders between primary trainers and the 
+advanced sailplanes of the experts. One type used in 
+Germany was the Priifling, virtually a primary glider 
+wing with a fuselage hung below it on struts. Its per- 
+formance was poor and it was not very stable. A few 
+had appeared in Britain. Giinther Groenhoff, a young 
+German pilot already establishing a high reputation, 
+visited the Scarborough Gliding Club in the winter of 
+1930, and following Groenhoffs recommendation, 
+Slingsby decided to build for himself, from plans 
+obtainable through the Rhon-Rossitten Gesellschaft 
+(RRG, the controlling body for gliding in Germany), a 
+Falke. He was warned that it was not very easy to 
+build, but he was confident that he could manage it.
+The Falke had been designed by Alexander Lippisch 
+in 1929, and it owed almost everything to the experi- 
+mental tailless sailplanes which Lippisch had been 
+developing since 1925. Flying models with wingspans 
+of about 4m had been flown before the first full-scale 
+Storch was tried in 1927 with limited success. It was 
+followed by improved versions. The Storch 4 which 
+Groenhoff tested in 1929 was entirely satisfactory. 
+Stability was obtained with a back-swept wing having 
+negatively twisted outer panels, or 'washout'. Tip wing- 
+lets and rudders gave adequate control in yaw. The 
+main improvement distinguishing the Storch 4 was the 
+installation of lobate ailerons, or elevens, with their 
+hinge line at 90° to the line of flight, rather than con- 
+forming to the wing sweep. The wing section at the 
+root and for the inner panels was a modified version of 
+the Gottingen 535, but the profile was progressively 
+changed to a strongly reflexed shape at mid-elevon, 
+and thence to a thin symmetrical tip. 1
+Lippisch s experiments with tailless aircraft culminated in 
+the Me !(>:* rocket powered fighter of the Second World War.
+Lippisch, who was head of the technical section of 
+the RRG, decided that if a sailplane with no tail could 
+be made stable with a sweptback wing, then a glider 
+with sweepback and an ordinary tail unit as well would 
+be even more stable, and hence exactly what the begin- 
+ner required. Moreover, with such a layout the pilot 
+would be well protected, sitting under and somewhat 
+behind the centre of the parasol wing. An adequate 
+soaring performance could be ensured by keeping the 
+wing loading down, which could be done by using a 
+large wing area with strut and wire bracing, giving a 
+strong yet light structure. Little attention need be paid 
+to reducing drag. Sailplanes were launched directly 
+into the slope upcurrent by rubber bungee, and there 
+was no need to have a good glide ratio for cross 
+country flights. The Falke was not expected to go any- 
+where except gently back and forth in front of a hill. It 
+was considered an advantage for an intermediate 
+sailplane that it should not gain much airspeed in a 
+dive. In the inevitable accidents it would not strike the 
+ground so hard.
+When Groenhoff met Slingsby the Falke was in pro- 
+duction in Germany. There was already one in 
+England; it had been imported for publicity purposes 
+by the J. Lyons tea company.
+Gliders at this time were always built of wood. The 
+timber normally used in Germany was pine. Spruce 
+was more expensive and offered only slight advan- 
+tages. Aircraft-quality birch plywood was readily avail- 
+able. Cold-water casein glues were approved for 
+aircraft construction and, provided the joints were 
+kept dry, were perfectly satisfactory but damp joints 
+could be quickly destroyed by fungus. Accordingly, 
+numerous drainage and ventilation holes were incor- 
+porated at all points in the structure where moisture 
+might otherwise accumulate. Mild steel fittings and 
+brackets were bolted to the timbers after painting with 
+zinc chromate. Steel control cables were guided round 
+pulleys and through fibre fairleads where required.
+The Falke fuselage, of hexagonal cross-section, was 
+a wooden framework of six curved longerons with 
+cross-frames and diagonal braces, with plywood
+11
+
+--- PAGE 14 ---
+SLINGSBY SAILPLANES
+skinning in front and fabric covering aft of the cockpit. 
+As usual where wooden members butted together sub- 
+stantial plywood 'biscuits' or solid corner blocks were 
+used to cany the loads through the joint. The under- 
+carriage comprised a rubber-sprung main skid of ash, 
+and a tailskid. An open hook was fitted under the nose 
+for bungee launching. The strut-braced tail unit was 
+simple, but the wing was very complicated. The twro 
+spars, swept at 12.5°, were built-up box sections. The 
+upper and lower pine flanges had large 'bird-mouthed 1 
+blocks filling in wherever fittings had to go, particu- 
+larly at the root ends and the strut end points. Both 
+sides of the spars were faced with plywood. The wings 
+had a slight 'gull' kink, enough to complicate construc- 
+tion without having any measurable effect on stability 
+or handling.
+To make each wing rib, an outline of 5mm square 
+strip wood was laid in a jig, being steamed where nec- 
+essary to conform without strain to the aerofoil section 
+outline. Uprights and diagonals were fitted inside this 
+form, and 1mm plywood biscuits and webs were then 
+glued over all the joints, after which a duplicate 5mm 
+square strip outline was laid into the jig with matching 
+uprights and diagonals, and glued. This split-rib struc- 
+ture, which persisted for many years in German 
+sailplane construction, prevented sideways distortions 
+of the ribs when they were under the tension of doped 
+fabric covering. The wing chord was constant over the 
+inner panels, which allowed some saving in work, but 
+for the tapered and reflexed outer wing panels every 
+rib differed from the next.
+In the Falke and other training gliders, the plywood 
+covering the front of the wing was little more than an 
+unstressed fairing. Each rib was made in one piece 
+from leading edge to trailing edge and slid into place 
+over the completed spars before gluing. Because the 
+plywood was glued only to the ribs, not to the spar 
+flanges, it added little st rength to the wing as a whole. 
+For torsional rigidity a two-spar structure with internal 
+diagonal cross-struts was used. Every third rib was a 
+compression member requiring its own jigging. The 
+wing spars met on the aircraft centreline with simple 
+pin joints, the rear pin also connecting with the pylon 
+behind the cockpit. The front spars had separate 
+connections to the braced vertical cabane struts on 
+either side. The V struts restrained the wings from 
+folding up or down under load, and provided addi- 
+tional bracing against torsion. A detachable plywood 
+fairing covered the gap in the wings at the centre. The 
+aileron control cables ran externally up the side of the 
+fuselage, entering the wing just behind the forward 
+cabane strut. The elevator cables also were external 
+for part of their length. There was a steel bracing cable 
+from the nose to the struts near their outer ends.
+Slingsby completed his Falke in the spring of 1931. 
+He stated that roughly 800 man-hours were required. 
+Probably furniture production in his factory was much 
+reduced for the preceding months. On completion the 
+sailplane, in clear-doped finish and glossy varnish, was 
+christened British Falcon. Slingsby made his first brief
+flight at Levisham Moors after a bungee launch 
+powered by schoolchildren. Another pilot crashed the 
+Falcon badly on its second flight. After repairs, 
+Slingsby toured the country in search of good soaring 
+sites, gaining his C soaring badge in September at 
+Ingleby Greenhow and competing very successfully in 
+the 1932 National Championships at Ireleth, near 
+Askam-in-Furness, Lancashire. There were seven com- 
+peting aircraft. The Falcon logged nearly 7hr total 
+flying time during the five day meeting. Mungo Buxton 
+borrowed it to break the British distance record with a 
+20km slope-soaring flight to Lake Coniston. To put this 
+into perspective, in the German championships that 
+year there were 60 sailplanes. Cross-country flights of 
+150km (93 miles) were made, but Groenhoff, Slingsby's 
+adviser of 1930, was killed in one of two fatal acci- 
+dents.
+It was remarked that the Falcon flew itself, but 
+handled easily when it was required to manoeuvre and 
+was capable of soaring well. It was a great builder of 
+confidence for nervous pilots. Rigging was rather a 
+struggle, and it suffered from lack of upward view 
+when turning. This became important as the soaring 
+ridges grew more crowded, but for its purpose it had 
+few rivals. Slingsby announced later in the year that he 
+would build a Falcon for anyone for £95.
+The second Falcon, which Slingsby later counted as 
+his Type 2, was built to the order of Espin Hardwick, a 
+stockbroker who played an important role in the 
+development of British gliding. Falcon 2 was flying by 
+October 1933, Hardwick obtaining his C soaring badge 
+at a Sutton Bank meeting in that month. The Type 2 had 
+rounded wingtips which improved its performance 
+slightly, and its fuselage was entirely skinned with 
+plywood. Hardwick suffered from a spinal deformity, 
+so most ordinary sailplane cockpits must have been 
+extremely uncomfortable for him. His Falcon had 
+extensive padding and movable elbow rests, and it also 
+possessed instruments, which very few other 
+sailplanes in Britain did in 1933.
+Sling

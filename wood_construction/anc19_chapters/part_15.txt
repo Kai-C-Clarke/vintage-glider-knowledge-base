@@ -1,0 +1,1129 @@
+onverted into heat within the mass of the wood occupying
+the high-frequency field.
+Units having an output of less than 7 or 8 kilowatts can be
+mounted on casters to serve several presses or jigs.
+A unit of 7-kilowatt output is
+shown in figure 5-20, A, and in figure 5-21, B.
+Smaller units are shown to the right
+in figure 5-20, B and G, and in figure 5-21, A, for lower heating loads.
+The machines
+are connected by flexible cable to electrodes suitably located in the press.
+Several methods of applying the electric field for the gluing of wood have been
+employed
+(fig. 5-22).
+If a metal press is used and there is sufficient opening to permit, the arrangement
+shown in figure. 5-22, A, may be used, but there must be sufficient room for blocking
+between the press platens to prevent excessive energy losses to the press.
+When the
+opening of the press
+is limited, the arrangement shown in figure 5-22, B, may be
+used; in this case, two blocks are glued at a time.
+In the foregoing methods, the
+high-frequency field
+is applied perpendicularly to the plane of the glue joints, and
+the entire mass of the material
+is heated.
+In certain cases, glue lines may be set selectively and very rapidly by applying
+the electrical field parallel to the glue joints.
+This method has been used to set edge
+joints in spars.
+An electrode covering the entire piece
+is shown in figure 5-22, C,
+and a relatively narrow electrode in figure 5-22, D.
+In either method, the electrical
+field is concentrated in the glue line, and,
+if sufficient field strength can be applied,
+the joint will develop
+its strength in 20 or 30 seconds without materially affecting
+the temperature of the main body of the wood.
+So far, only urea-resin glues have
+been used in this way.
+Phenolic-resin glues obviously cannot be completely cured
+by a heating period of such short duration, and the electric field tends to arc through
+the glue lines when such glues are used.
+The practical limits of distance through
+which
+the
+field may be
+applied
+successfully have not been determined, but
+the
+method would probably be applicable only to joint widths of perhaps 2 or 3 inches.
+Since
+it
+is difficult
+to measure the temperature of glue lines when selectively
+heated
+it
+is necessary that the operator work out the electrode spacing, heating
+time, and
+field strength carefully before starting on the production of edge joints
+in quantity.
+Shear tests of the glue joints should be made throughout the length
+of the joint and the glue line should be carefully examined to be sure that the setting
+has been uniform and that no
+local overheating has occurred.
+The latter shows
+up in the glue line as a light brown discoloration or scorched appearance.
+If such
+areas occur the field strength or time should be reduced until they no longer appear.
+An alternate method is illustrated in figure 5-22, E, in which the field is applied
+parallel
+to the glue joints
+in a member made up
+of several laminations.
+Where
+heat
+is
+applied
+to
+blocks
+glued
+with
+phenolic-resin
+adhesives,
+the
+temperature
+5G8338—41
+15
+
+--- PAGE 228 ---
+222
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+(
+Figure 5-21.
+-High-frequency heating of wing rib parts.
+.4, Single piece after removal from clamp press; B, multiple
+pressing
+and heating of wing rib part using large generator.
+METAL
+Pfit 55
+\////////J/////////A
+\y/////////l'/////////L
+OSCILLATOR
+BLOCKING
+ELECTRODE^
+\HEAT
+INSULATION,
+ECTRODE
+-* -BLOCKING B
+y////////////////////^
+HEAT IAI5ULATI0TV
+WORK WlSCILLATOR
+JOINT
+[EL EC TRODL,
+c
+ELECTRODE
+PRESS
+HEAT\fl
+<-
+hlOINT
+PRESS J-J^C/l 1
+A
+r0H
+NSULATIO/V
+- -BLOCKING
+ELECTROi
+-
+BLOCKING
+Figure 5-22.—Typical electrode arrangements for high-frequency heating.
+(
+
+--- PAGE 229 ---
+PROCESSING AND FABRICATION
+223
+should be raised at a moderate rate, so that the mass of the wood will be warmed
+and maintained as closely as possible to the curing temperature of the resin for the
+period required.
+Supplementary heating in a
+controlled humidity oven or room
+may be needed to produce an effective cure.
+Experimental work indicates that oak containing moisture cannot be success-
+fully heated by high-frequency energy at temperatures very much above the boiling
+point of water without danger of injury to the material
+; but if it can be first oven dried
+curing temperatures of approximately 300° F. may be used.
+This is of course not
+desirable for aircraft material since it would require a long time to bring the moisture
+content back
+to equilibrium with out-of-door conditions and swelling subsequent
+to manufacture might be objectionable.
+Temperatures may be measured by
+placing
+thermocouples
+in
+the
+material
+under test.
+The leads outside of the load should be short and brought out parallel
+to the electrodes.
+The potentiometer should be disconnected while the
+electrical
+field
+is being
+applied.
+Ordinary thermometers may be used
+also, but they
+are
+probably subject to greater error and are not so convenient to use as thermocouples.
+Insulation or spacers are desirable while heating in some instances in order to
+reduce heat losses and maintain surface temperatures.
+Where veneers are being
+glued, it is necessary to interpose a layer of plywood between the electrode and the
+work.
+Thus it is possible to cause the last glue line to be heated
+; otherwise, it would
+be cooled by loss of heat to the electrode.
+Insulation along the sides of wood being
+heated will greatly reduce radiation as well as equalize the heat throughout the work.
+For example,
+if the material in the press receives more heat at the central zone than
+at the edges, the thermal expansion will be greater in the center than along the
+edges thus causing open joints and inadequate pressure.
+The insulation should
+be included in the high-frequency field and may be made of a low-density material
+or of a rim
+of the material being heated.
+Another method of accomplishing the
+same result is to heat the space surrounding the wood in order to reduce heat losses
+from the work.
+Heated electrodes-, of course, make insulation unnecessary.
+5.27. Gluing Different Species and Surfaces of Wood.
+Figure
+5-23
+shows
+the
+results of gluing tests on 15 species, including those most commonly glued in air-
+craft, with casein and cold-setting, urea-resin glues.
+The results with casein glue
+are a part of a larger series of tests on 40 different species (5-17).
+The wood glued with the cold-setting resins had 11 to 12 percent moisture con-
+tent, and the joints were conditioned before
+test
+to the same
+moisture
+content.
+The wood glued with casein glue had from 6 to 7 percent moisture content, and the
+joints were conditioned to about 7 percent before test.
+The joints were tested in
+shear by the regular method approximately 7 days after gluing
+(sec. 4.3).
+The strengths of the joints of the various species varied in general with the
+specific gravity
+of the wood,
+as
+is normally expected, and there
+is no
+consistent
+difference in the strength
+of the joints for the two types of glue.
+The strength
+values have
+not, however, been
+adjusted
+to
+a common moisture content
+basis;
+hence, the strengths for the casein-glue joints should tend to be somewhat higher
+than those for the resin-glue joints.
+The principal significant difference in test values
+is in the percentages of wood failure shown in the broken specimens.
+The percent-
+ages of wood
+failure
+in
+the resin-glue joints are much higher on the high-density
+species than in the casein-glue joints.
+Approximately the full strength of the species
+was developed, however, with both types of glue.
+In general, the low-density species are more easily glued with all woodworking
+glues than are the high-density species.
+"With high-density species, such as yellow
+birch, hard maple, and hickory, the production of glue joints that develop the full
+strength
+of the wood and that are durable under severe exposures requires more
+careful control of gluing conditions than with low-density species, such as spruce and
+yellowpoplar.
+
+--- PAGE 230 ---
+224
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Although freshly planed surfaces of most of the woods used for aircraft present
+no special gluing problems, difficulty may be experienced with plywood of different
+species and densities.
+The nature of these unfavorable surface conditions, most of
+which develop during plywood manufacture, and corrective measures are discussed
+under section 5.212.
+5.270. Recommendations
+for Gluing Side-grain
+Surfaces
+of Different
+Species.
+Certain recommended gluing conditions are similar for all species, but variations in
+other conditions
+are necessary
+for best
+results.
+The amount
+of glue spread and
+SPRUCE, SITKA
+DOUGLAS -FIR
+ZZZ2ZZZ2Z21
+HICKORY PECAN
+zzz
+Z2ZL
+ZZZZZZZZZZZZZZ
+ZZZZZZZZX2ZZZ
+ZZZZZ
+ZZZZZ
+f
+'\
+ZZZZZZZZZZZZ222-
+ZZZZZ
+ZZZZZZZZl
+zzz
+ZZZZZ2ZZZZZZZ2.
+1
+Z2ZZL
+Xzzzzztzzzzzzzzz
+: ..'::}
+. ::::
+,t'
+,
+;
+:\
+Z2J
+ZZZZD
+zzzzz,
+,
+::::}
+,
+:.:"|::
+|I "|;::,"1
+I Z3
+LEGEND
+E23 CASEIN CLUE
+.COLD-SETTING,
+'UREA-RESIN CLUES
+zzzzz,
+ZZZZZZZZZZZZA
+YZZZZZ7A
+ZZZ2ZZZZZ2ZZZZc72ZZZZZZZZm
+ZZZZZZZZZZZZZZZZC3
+ZZZZZZZZZZZZZZZZZZZZZA
+zzzzz ZZZZZZZZZZZ2ZZZZZ22
+7ZZZZc7ZZZZZ7ZZZZX2ZZ\
+zzzzzzzzzzh
+zzzzzzzzzzzzzzzzzzi
+Z2ZZ22ZZZ2.
+77Z7>777777.777A
+V7777.V7777>7a
+ZZZZ2Z2
+0.10
+0.40
+0.60
+SPECIFIC GRAVITY®
+eO
+40
+60
+80
+100
+WOOD FAILURE (PERCENT)
+S00
+1000
+ISOO
+iOOO
+1500
+3000
+SHEAR STRENGTH (LB. PER SQ.IN.)
+CD-MIXED HEARTWOOD AND SAPWOOD OR NOT IOENTIFIED.
+<2) - MOSTLY SAPWOOO. ®- MOSTLY HEARTW000.
+@- BASED ON THE OI/EN-DRY WEIGHT AND THE VOLUME AT APPROXIMATELY
+II'/. MOISTURE CONTENT.
+Figure 5-23.— Results of tests on joints of various species ilued with casein and cold-setting, urea-resin glues.
+Joints tested in
+the regular block shear test (sec. 4.3).
+Each test value based on 60 or more specimens.
+moisture content of the wood at the time of gluing need not be varied.
+The per-
+missible assembly periods are likewise similar for most species and are within the
+limits given in table
+5-8.
+Moisture
+diffuses more rapidly into the sapwood than
+into the heartwood of most species and, while there is considerable difference between
+species in this respect, these differences are not important
+if the assembly periods are
+kept within the recommended limits.
+Some change in viscosity of glue, particularly
+for casein,
+is advisable when gluing high-density species, such as birch, beech, maple,
+and hickory.
+A 5 to 10 percent decrease in water content over that recommended
+for low- and medium-density woods
+is
+usually
+sufficient and
+aids
+in preventing
+starved joints for species with which high pressures are normally used.
+
+--- PAGE 231 ---
+PROCESSING AND FABRICATION
+225
+The pressures recommended for gluing various aircraft woods vary considerably.
+Pressures should be
+sufficient
+to produce joints
+of high quality but should never
+exceed the crushing strength of the least dense species in the assembly.
+With fluid
+pressures and nail gluing, there are definite limitations on the pressures that can be
+used, and adjustment for species differences is rarely possible.
+"With other pressure
+devices, such as jackscrcw and hydraulic presses, however,
+the species considera-
+tion is important.
+From the standpoint of the pressures that produce the best glue
+joints, the aircraft woods can be divided roughly into three groups, with recommended
+gluing pressures as follows:
+Group
+I
+Group
+II
+Group
+ill
+200 to 250 pounds per
+150 to 200 pounds per
+100 to 150 pounds per
+square inch
+square inch
+si/uiirc inch
+Ash, white.
+Sweetgum.
+Basswood.
+Hickory and pecan.
+Sycamore.
+Cottonwood.
+Maple, hard.
+Walnut, black.
+Fir, noble.
+Birch, yellow.
+Elm, American.
+Hemlock, western.
+Beech.
+Douglas-fir.
+Pine,
+ponderosa,
+sugar,
+and
+Oak, white.
+Mahogany.
+white.
+Magnolia, southern.
+Port Orford white-cedar.
+Maple, soft.
+Bedwood.
+Tupelo, water.
+Spruce, red, Sitka, and white.
+Yellowpoplar.
+The crushing strength of wood decreases rapidly with increase in temperature
+and moisture content.
+At room temperatures and moisture contents
+of
+8
+to
+12
+percent, the crushing strength of the aircraft woods
+is considerably higher than the
+above recommended gluing pressures, which have been found satisfactory
+for the
+production of high-quality glue joints.
+But, at the temperatures used in manufac-
+turing hot-press plywood and at higher moisture contents, the crushing strength of
+wood
+is much lower.
+These considerations are important and must be taken into
+account in the manufacture of aircraft plywood.
+Some of the low-density
+species
+in particular, which will withstand 150 to 200 pounds per square inch in cold-press-
+ing operations,
+will be compressed considerably at pressures of 125 to
+150 pounds
+per square inch in hot presses operated at temperatures of 310° F.
+Whenever species of widely varying densities are glued together,
+the conditions
+recommended for the heavier species should be approached as closely as possible but
+the pressure should be adjusted so as to avoid crushing of the least dense wood
+in
+the assembly.
+5.271. Gluing End-grain Surfaces.
+The methods,
+practices, results of tests on
+joints, and recommendations which have thus far been presented relate more specifi-
+cally
+to
+the gluing
+of side-grain surfaces
+of wood.
+Such
+surfaces
+are
+involved
+exclusively
+in plywood and
+laminated
+constructions.
+Joints between
+side-grain
+surfaces in most species can be made as strong in shear parallel to the grain, tension
+across the grain, or cleavage, as the wood itself.
+The highest stresses developed in
+these joints do not exceed 3,000 or, at the most, 4,000 pounds per square inch.
+The gluing of end-grain surfaces, on the other hand,
+is not accomplished with
+the same degree of success.
+Straight end-grain butt joints are rarely attempted in
+any type of construction, and, where wood
+is subjected to tension stresses parallel
+to the grain, joints of this type cannot be depended upon to develop more than a
+small part of the strength of the wood.
+Most North American species
+of wood are capable
+of withstanding 6,000
+to
+20,000 pounds per square inch in tension parallel to the grain.
+Tests made in gluing
+straight end-grain surfaces have shown that such joints are erratic and rarely exceed
+about 3,000 or 4,000 pounds per square inch in strength.
+Their strength
+is limited
+by several factors, including
+(1) structure of the wood,
+(2) penetration of the glue,
+
+--- PAGE 232 ---
+226
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+(3)
+air bubbles in openings of the wood,
+(4) quality of glue,
+(5) consistency of glue.
+(6) application of glue,
+(7) amount and duration of pressure, and
+(8) shrinkage of
+glue.
+Since factors
+1,
+3, and 8 are largely beyond operative control, any improve-
+ment in strength must be brought about primarily through the other factors.
+With even the most careful gluing of straight butt joints, not more than about
+25 percent of the tensile strength of the wood parallel to the grain has been obtained
+in tests.
+It
+is
+evident,
+therefore, that in order to obtain a tensile strength of the
+various species that is greater than 25 percent of the tensile strength of the wood, a
+scarf or other form of joint must be used instead of plain end gluing.
+Where
+it is
+necessary to elongate members, such as longerons or spars, some such form of joint
+is recommended.
+The plain scarf
+(fig. 5-34, A)
+is perbaps the easiest to glue and
+involves fewer machining difficulties than the many-angle forms of joints.
+Excessive penetration of glue may occur when gluing end-grain surfaces such
+as scarf joints.
+This
+is more likely for hardwoods with large vessels or pores than
+for conifers or softwoods.
+Excessive penetration is more of a problem with thin glues
+than with thick glues and with high pressures than with low pressures.
+It is recom-
+mended
+I hal
+,
+for gluing scarf joints and other end-grain surfaces,
+a glue mixture be
+used that is somewhat thicker than that used for gluing side grain.
+For most of the
+cold-setting glues, the use of a glue mixture containing about 10 percent less water
+than
+is normally used for side-grain gluing
+is satisfactory.
+A reduction in water
+content is not recommended for those glues that are normally quite thick or viscous.
+Both surfaces should be coated with glue, and other conditions favorable to the pro-
+duction of strong joints should be observed.
+lu some cases, particularly with the dense, porous hardwoods, sizing the end-
+grain surfaces may prove beneficial.
+The size should be made by diluting the glue
+to be used in the final gluing operation with 50 percent more water than is recom-
+mended for side-grain gluing.
+It is not necessary to allow the size coat to dry com-
+pletely before final gluing.
+Sized scarf joints should be glued with the same glue used
+in sizing but containing about 10 percent less water than for side-grain gluing.
+Without reinforcement of some type, glue joints between end-grain and side-
+grain
+pieces cannot
+be
+relied upon where
+strength
+requirements
+are
+important.
+Such joints are commonly made in aircraft production, but wherever they are to be
+subjected
+to
+considerable
+stress they
+are
+reinforced with corner blocks, plywood
+angles, or plywood gussets.
+5.272. Gluing Modified Wood Products.
+The gluing
+of modified wood
+prod-
+ucts, such as resin-impregnated wood
+(sec.
+3.31),
+heat-stabilized wood
+(sec.
+3.4),
+resin-impregnated and compressed wood (sec. 3.32), and resin-impregnated laminated
+paper
+(sec.
+3.5), involves several considerations in addition to those described
+for
+the gluing of normal wood.
+Particular attention must be given to the preparation
+of surfaces and some consideration to the selection of glues.
+5.2720. Impreg and Heat-stabilized Wood.
+Resin-impregnated,
+uncompressed
+wood, such as impreg, can be readily glued with acceptable aircraft glues under the
+conditions described for the denser aircraft species (sec. 5.27).
+Preliminary tests on
+heat-stabilized wood indicate that it likewise can be glued satisfactorily under condi-
+tions described for high density species.
+Thick laminations of either type, that do
+not deform readily under pressure, should be carefully machined before gluing to
+insure smooth, true surfaces.
+Thin laminations that cannot be planed or otherwise
+machined should be machine sanded with No.
+1-0 or hand sanded with No. 3-0
+garnet paper or
+its equivalent before gluing.
+5.2721. Compreg.
+Resin-impregnated
+compressed wood
+products,
+such
+as
+compreg, are more difficult to glue than are impreg products and it is essential to the
+production
+of high
+quality
+glue
+joints
+that
+special
+precautions be taken
+in the
+preparation
+of surfaces and selection
+of glues.
+At the time
+of manufacture, the
+surfaces of these products are glazed and coated with resin.
+"Woodworking glues do
+
+--- PAGE 233 ---
+PROCESSING AND FABRICATION
+227
+not adhere satisfactorily to such glazed and resinous surfaces.
+The surfaces of thin
+laminations, which deform readily under pressure, can be brought to a satisfactory
+gluing condition by thorough hand
+or machine sanding.
+For hand sanding,
+the
+equivalent of No. 2-0 garnet, and for machine-sanding the equivalent of No.
+){ or
+No.
+1-0 garnet paper have been found to give good results.
+Laminations thicker
+than one-quarter inch, which do not deform readily under pressure, must be surfaced
+on planers,
+jointers,
+or metal milling machines to produce surfaces that are true,
+smooth, and free from glaze.
+Variations of more than 0.003 inch should not occur
+on the surfaces.
+When heavy members of such modified wood products are glued
+together, as in propeller manufacture, the necessity of having uniform and well-fitted
+surfaces cannot be overemphasized.
+Serrated side grain joints have been used in
+gluing heavy compreg laminations.
+In operations permitting their use, the high-temperature-setting resin glues have
+been found to give satisfactory joints between compreg members.
+The use of these
+glues, however, is limited to thin laminations, which can be glued in hot presses, and
+to thick laminations glued by special processes
+(sec.
+5.264).
+Compreg-to-compreg
+joints can
+likewise be made with low-temperature
+phenolic
+glues under
+proper
+curing conditions
+(sec.
+5. 2(53).
+For cold-press gluing operations the cold-setting,
+urea-resin glues have been found to bond compreg members satisfactorily and to be
+superior to casein glues for this purpose (5-10).
+Lighter glue spreads are permissible but assembly periods are about the same as
+those for normal woods.
+Pressures of 200 to 300 pounds per square inch should be
+used to insure adequate contact,
+particularly on thick laminations.
+Because the
+diffusion of moisture into compreg is slower than into normal wood,
+it is advisable
+to leave the assemblies under pressure longer than is recommended for normal wood
+(sec.
+5.250).
+In contrast
+to the gluing of compreg laminations to each other, the
+gluing of normal wood to compreg presents fewer difficulties.
+In making compreg
+to normal wood joints, the compreg should be carefully machined or lightly sanded
+depending upon the thickness
+of lamination.
+Glue spreads and assembly periods
+should be normal and the maximum pressure permitted by the normal wood without
+crushing should be
+applied.
+The
+cold- setting urea resins appear to be somewhat
+better adapted to the gluing of normal wood to compreg than are the casein glues.
+Resin glues, which require the application of higher temperature to effect their set-
+ting, have been successfully used to make normal wood to compreg glue joints.
+5.2722. Papreg.
+Papreg can be satisfactorily glued to papreg and to wood with
+all acceptable aircraft glues if precautions are taken to first lightly sand the surfaces
+of the papreg.
+This can be accomplished by machine sanding with the equivalent
+of No. 1-0 garnet or hand sanding with No. 2-0 garnet paper.
+For the liquid hot-
+press glues in particular, the assembly period should be somewhat longer than for
+wood in order that the solvent may fully evaporate and blistering dming hot pressing
+be avoided.
+Good quality joints between papreg and papreg and between papreg
+and normal wood have been made with pressures of from 25 to 250 pounds in the
+case of liquid glues meeting aircraft specifications.
+The thickness of the members
+largely
+determines
+the
+pressure
+required
+to
+insure
+good
+contact.
+It
+has been
+difficult to obtain good bonds in nail gluing of papreg to normal wood because of the
+formation of a bur when the nail passes through the papreg, which appears to prevent
+good gluing contact.
+Preboring of nail holes may be necessary to obtain satisfactory
+bonding of papreg by nail gluing.
+5.28. Conditioning Glued Stock.
+Cold-gluing operations add moisture
+to the
+wood in varying percentages (table 5-11).
+Glue that has set in joints contains only
+a part of the water added at the time of mixing, the remainder having been absorbed
+by the wood or removed by evaporation.
+The absorbed moisture must be allowed
+to dry out or to distribute itself through the wood in order to insure the full strength
+of the joint and to reduce the tendency of the glued member to warp.
+
+--- PAGE 234 ---
+228
+ANC BULLETIN
+'WOOD AIRCRAFT INSPECTION AND FABRICATION
+In gluing thick laminations, the moisture from the glue need not be eliminated
+but may simply be allowed to distribute itself throughout the construction.
+Com-
+plete equalization would require a very long time.
+For black walnut and white oak
+in laminations about three-quarters inch thick, and under average room tempera-
+tures, a conditioning period of 7 to 10 days is sufficient.
+For woods which permit a
+more
+rapid distribution
+of moisture, such
+as spruce,
+a
+3- to 5-day period should
+suffice under most conditions.
+Where heavy constructions are glued from lamina-
+tions one-eighth inch or less in thickness, however, they will normally contain too
+much moisture after gluing and should be dried for 1 to 3 weeks or longer, depending
+upon their thickness and width and the conditions of drying.
+The drying of plywood panels and other thin structures after they have been
+glued with cold-setting glues is a problem in which simplicity of control and opera-
+tion are important.
+Although such panels can be dried successfully under widely
+varying conditions of temperature and humidity, the effect of the drying schedule
+upon the joint strength may well be considered.
+It has been found possible to dry
+panel stock satisfactorily at a constant temperature and a constant humidity corres-
+ponding to a moisture content about 2 percent below that which the panels are to
+reach.
+Thus,
+if the panels are to come down to 10 percent, a humidity correspond-
+ing to about 8 percent moisture content would be used
+(fig. 5-6).
+The time required
+may range from a few hours with thin material to 2
+to
+3 days with thick-panel
+material.
+At a temperature of 120° F., the humidity corresponding to 8 percent
+moisture content is about 50 percent.
+A temperature of 120° F. and a humidity of
+50 percent will dry a panel, one-half inch thick, to 10 percent moisture content over-
+night, and no particular damage will result if the stock is left in the kiln appreciably
+longer, since the drying rate below the desired 10 percent will be increasingly slow.
+Table 5-15 shows several combinations of temperature and relative humidities
+with which a moisture content of 8 to 12 percent may be obtained in freshly glued
+plywood within a reasonable drying period, when stickered to obtain a free circula-
+tion of air.
+Table
+5-15.-
+Combinations
+of temperatures and relative humidities suitable for drying cold-pressed
+plywood and assemblies to various desired moisture content values
+Moisture content desired
+1
+(percent)
+Relative humidities for use with the tempera-
+tures indicated
+100 °F.
+110° F.
+120° F.
+140° F.
+8
+Percent
+33
+46
+58
+Percent
+35
+48
+59
+Percent
+37
+50
+61
+Percent
+41
+53
+65
+10
+12
+1 Relative
+humiditk'S and temperatures given correspond
+to
+an
+equilibrium
+moisture
+content
+about
+2
+percent below
+that which the panels are to reach.
+5.281.
+Hot-pressed Plywood.
+Plywood
+and
+other members
+glued
+on
+hot
+presses commonly have only 2 or 3 percent moisture content when removed from the
+press.
+Such material should be conditioned to 8 to 12 percent before it is assembled
+into aircraft parts and structures.
+This may be done in conditioning rooms in which
+a relative humidity is maintained which is approximately equal to or slightly in ex-
+cess of that corresponding to the desired moisture content.
+Another method
+is to
+apply sufficient water to the hot-pressed panels to bring them to the required moisture
+content and then to stack them solidly, allowing the moisture to equalize throughout.
+
+--- PAGE 235 ---
+PROCESSING AND FABRICATION
+229
+Care should be used to apply only sufficient water to bring the panels to the desired
+moisture content.
+The
+correct amount
+of water can be
+readily
+calculated
+after
+determining the moisture content and weight of the dry panels.
+The moisture
+is
+conveniently applied by passing the panels between water-covered rolls, such as in
+a glue spreader, or by spraying.
+By weighing a number of panels before and after
+the application of the water, the amount and uniformity of the application can be
+checked.
+The time required for equalization in the solid piles again varies with the
+thickness
+of the individual panels.
+While the panels are usually warm when the
+water
+is applied, a circumstance which aids equalization, the glue lines, especially
+of
+synthetic-resin
+glues,
+retard
+diffusion.
+Conditioning
+periods
+for plywood
+of
+different thickness and number of plies should be based on actual moisture content
+determinations of both the interior and exterior plies.
+5.282. Conditioning Bag-molded Plywood.
+The moisture content of plywood
+and other structures produced by most bag-molding methods is not changed greatly
+during the gluing, unless there is a leak in the bag.
+Consequently, veneer and other
+parts that are assembled dry and kept dry during gluing need
+to be conditioned
+for only a few hours to bring about an approximate equilibrium moisture content.
+In case of a leak in the bag, however, the molded structure may have a high moisturo
+content and require careful drying for a longer period.
+The drying conditions shown
+in table 5-15 are considered satisfactory for most molded products.
+5.29. Gluing References.
+(5-10) Eickner, Herbert W.
+1943.
+gluing
+of thin compreg.
+Forest Products Laboratory Mimeo.
+No.
+1346.
+restricted.
+(5-11) Hunt, G. M.
+1930.
+effectiveness of moisture-excluding coatings on
+wood.
+IT.
+S.
+Dept.
+Agr. Cir. 128.
+(5-12) MacLean, J. D.
+1942.
+the rate of temperature change in wood panels heated between hot
+plates.
+Forest Products Laboratoiw Mimeo. R1299.
+(5-13) Kaufert, F. H.
+1943.
+preliminary
+experiments
+to
+improve
+the
+gluing
+characteristics
+of
+refractory plywood surfaces by sanding.
+Forest Products Laboratory
+Mimeo. 1351.
+(5-14)
+Peck, E. C.
+1932.
+moisture content of wood in dwellings.
+U.
+S. Dept. Agr. Cir. 239.
+(5-15) Perry, T. D.
+1941.
+modern plywood.
+366 pp., illus.
+(Book, New York Citv.)
+(5-16)
+1941.
+aircraft plywood and adhesives.
+Wood Plastics, Vol.
+18, No.
+8,
+illus.
+(5-17) Truax, T. R.
+1929.
+the gluing of wood.
+U.
+S. Dept. Agr. Bull. 1500, 78 pp., illus.
+(5-18)
+1930.
+gluing wood in aircraft manufacture.
+U.
+S. Dept. Agr. Tech.
+Bull. 205,
+58 pp., illus.
+5.3. BAG MOLDED PLYWOOD AND STRUCTURES.
+5.30. General.
+The molding of plywood by means
+of
+fluid pressure applied
+through flexible bags or blankets of some impermeable material (bag-molding) has
+found application in the making of airplane parts of various degrees of curvature.
+In size, these parts may vary from a failing for a tail wheel to a half fuselage com-
+plete with bulkhead rings.
+They include
+all combinations of single and compound
+curvature, cylinders, paraboloids, portions of a sphere—in short, any curved piece
+for which a mold can be made and later separated from the finished product.
+Bag-molded parts, such as fuselages, wing fillets, and fairings, are reported to
+offer improved performance characteristics as a result of the superiority of the stiff-
+ness-weight ratio of molded plywood to that of metal, and the smooth ripple- and
+rivet-free surfaces presented to the air stream
+(fig. 5-24).
+
+--- PAGE 236 ---
+230
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+Bag molding of plywood and laminated veneer members probably had its origin
+in the vacuum-bag process that was introduced in the furniture industry several
+years ago
+(fig. 5-25, A).
+While the vacuum-bag process depended upon atmospheric
+pressure and ordinarily only room temperature to set the glue between the
+plies,
+the newer techniques employ higher fluid pressures and
+Ararying degrees of heat.
+Misnomers, such as "plastic plywood" and "plastic planes," have been applied
+to structure of molded plywood that are actually made from wood bonded with
+Figure 5-24.—Rear section of engine cowling of molded plywood.
+Note smooth plywood surface as contrasted with riveted
+metal wing and fuselage skin.
+synthetic resin adhesive.
+By weight, these structures are probably about 80 percent
+wood and 20 percent resin adhesive.
+Except for variations in shape, the product is
+essentially the same as flat-press plywood.
+5.31. Methods of Bag Molding.
+Molded plywood is produced by several tech-
+niques which are often referred to specifically, such as the Duramold, Vidal, Aero-
+mold,
+or vacuum-bag
+processes.
+Other terms sometimes used
+in
+describing
+the
+technique are "bag molding,"
+"autoclave molding,"
+or "tank molding."
+Perhaps
+the most inclusive is the term "fluid-pressure-molding."
+Five general methods are
+shown in figure 5-25.
+The fundamental procedure
+is the same for
+all processes in common use.
+In
+principle the technique consists of attaching temporarily by staples, tape, clips, or
+some other means, superimposed layers of strips or sheets of glue-coated veneers to a
+mold of the desired shape, and molding these into a unit structure by the application
+
+--- PAGE 237 ---
+PROCESSING AND FABRICATION
+231
+of heat and fluid pressure through a flexible, impermeable bag or blanket.
+All the
+processes arc relatively simple and provide a means by which plywood of simple or
+compound curvature, and of constant or varying thickness, in any arrangement of
+plies can be produced.
+Naturally, flat plywood can also be made by bag molding,
+but due to the critical bag materials required in most operations,
+it
+is recommended
+Figure 5-25.—Five methods of forming bag-molded plywood.
+that the technique be limited to the production of strategic molded parts that can be
+manufactured by no other practical means.
+In general, parts that fall in this cate-
+gory will have one or more of the following characteristics: Appreciable compound
+curvatures; variable thickness;
+single curvature bends approximating or exceeding
+180° when pieces are too thick to be steam bent from flat plywood; parts too large
+to be made practicably by mating dies; quantity too small to justify mating dies.
+5.32. Equipment for Bag Molding.
+5.320. Molds.
+The forming
+of any piece
+of bag-molded plywood requires a
+mold of some type.
+Molds, sometimes called forms, dies, or mandrels, are broadly
+
+--- PAGE 238 ---
+232
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+classified as male or female.
+Male molds as illustrated in figure 5-25 A, B, and C
+are the desired shape on convex surfaces, while female molds
+(fig. 5-25, D and E)
+have the proper shape on concave surfaces.
+Common mold materials are wood (solid or plywood), metal
+(steel, cast iron, or
+low-temperature alloys), plastic materials, and cements.
+The choice of mold ma-
+terials will depend largely on the shape of the item to be molded, the quantity desired,
+and the availability, advantages, and disadvantages of the materials considered.
+5.3200. Wood Molds.
+Wood molds are commonly made of lumber of softwoods
+such as western white pine or sugar pine, cut approximately to the contour of the
+mold and glued and nailed together.
+The rough shape, usually not more than 6
+inches thick at any point, is then marked into stations—a procedure very similar to
+that used in defining the shape of a boat—and worked down by plane and sander to
+the desired shape minus an allowance for a hardwood skin.
+This hardwood skin
+(often of birch veneer)
+is bonded directly to the mold by bag molding and
+is later
+worked carefully down to the exact contour at each station.
+Attention is given to the
+direction of the grain in both the skin and the mold proper so that the maximum
+cross-banding effect is secured.
+Wood molds are distorted somewhat by moisture and heat.
+A leaky bag
+is
+particularly damaging to a wood mold and usually ruins the piece being molded, as
+well.
+Overheating the mold will also hasten the distortion and necessitate early
+recontouring or other repair. Much
+of
+this distortion and cracking
+is caused by
+exposing the hot surface of the mold to the air after the removal of the molded piece
+from, its surface.
+By cooling the mold while in the bag this rapid surface drying can
+be eliminated.
+Cooling can be done by a cold water spray system in the cylinder or
+in a special cooling booth installed near the cylinder.
+Plywood molded on thick wood molds heats mor

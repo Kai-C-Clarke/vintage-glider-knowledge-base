@@ -1,0 +1,1247 @@
+par compression wood should not be permitted
+in
+streaks wider
+than % inch and the aggregate width of compression wood should not exceed one-
+tenth the depth of the spar or lamination.
+Figure 2-102.— "Size" and "diameter" of knot.
+
+--- PAGE 136 ---
+130
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+2.4203. Dihedral.
+Dihedral in horizontally laminated spars or spar flanges may
+be produced by bending the assembly immediately after the glue
+is spread.
+The
+minimum radius of curvature to which any lamination
+is bent should be not less
+than 500 times the thickness of that lamination.
+2.421. Requirements for Solid Spars.
+2.4210.
+Definition.
+A solid spar
+is a spar whose cross section
+is composed of
+a single piece of wood.
+2.4211. Annual Ring Direction
+(fig. 2-103).
+The spar should be edge-grained
+over not less than two-thirds the depth of both vertical faces.
+2.4212. Knots
+(see
+also
+sec.
+2.4201).
+Within either outer quarter of the spar
+depth, the size of a knot (on the edge or on either vertical face) should not exceed
+'i6 W (W= the width of the spar)
+; the sum of the sizes of all knots (on the edge and
+in the adjacent quarters of the vertical faces) within any length equal to 5 W should
+not exceed
+)i W and the sum within any length equal to W should not exceed
+/i6 W.
+Within the middle half of the spar depth
+the diameter of a knot should not
+exceed % W and the sum of the diameters of all knots on one face within a length
+equal to 5W should not exceed
+){ W.
+2.4213.
+Pitch or Bark Pockets.
+A pitch or bark pocket should be not deeper
+than
+)i W; not wider than
+XA inch or
+)'% W, whichever is the less; and not longer than
+2 inches or four times its distance from
+a corner of the spar, whichever
+is the less.
+The distance, measured in any direction, between two pockets on the same face
+of the spar should be not less than six times the length of the shorter pocket and for
+pockets in the same growth layer this distance should be not less than six times the
+length of the longer pocket.
+2.422. Requirements for Horizontally Laminated Spars.
+2.4220.
+Definition.
+A horizontally laminated spar is a spar in which the cross
+section
+is made up
+of two or more laminations glued together and in which the
+principal glue planes are horizontal.
+In spars that taper in depth, laminations should
+be parallel to the edge at which the tensile stress is greatest.
+Because of difficulties, waste, and duplication involved in the gluing, pressing,
+and finishing of an assembly whose depth in the direction of the gluing pressure
+is
+several times as great as its thickness
+(as, for example, in a spar 5 inches deep by
+1 inch thick), horizontally laminated spars should preferably be made up in multiple
+thickness for subequent resawing and finishing, rather than singly.
+2.4221. Annual Ring Direction
+(fig. 2-104). Laminations should be edge-grained
+on those faces which will be vertical in the finished spar.
+2.4222. Knots (see
+also sec. 2.4201).
+Within
+either outer quarter of the spar
+depth, the size of a knot in a lamination whose vertical dimension
+is greater than
+one-eighth
+the spar depth should not exceed
+}U W,
+the sum
+of the
+sizes within
+a length
+of the lamination equal
+to
+5 W should
+not exceed % W, and
+the sum
+within a length
+equal- to W should not exceed
+#6 W.
+%h
+EDGE
+GRAIN
+(MINIMUM)
+FLAT
+GRAIN
+(MAXIMUM)
+Figure 2-103.—Annual ring direction requirements fur solid spars.
+
+--- PAGE 137 ---
+WOOD
+131
+Within either outer quarter of the spar depth the size of a knot in a lamination
+whose vertical dimension is one-eighth the spar depth or less should not exceed
+}{ W,
+the sum of the sizes of all knots within a length of the lamination equal to 5 W should
+not exceed % W, and the sum in a length equal to W should not exceed Ko W.
+Within the middle half of the spar depth, the diameter of a knot in any lamina-
+tion should not exceed
+}{ W and the sum of the diameters of
+all knots
+in
+a length of
+the lamination equal to W should not exceed % W.
+ALL
+LAMINATIONS
+TO
+BE
+EDGE- GRAINED
+ON
+VERTICAL
+FACES.
+Figure 2-104.—Annual ring direction requirements for horizontally laminated spars.
+2.4223.
+Pitch or Bark Pockets.
+A
+pitch
+or
+bark
+pocket
+in any
+lamination
+should be not deeper than
+}$ W or one-half the vertical dimension of the lamination,
+whichever is the lesser; not wider than
+){ inch or
+}i W, whichever
+is the lesser; and
+not longer than 2 inches with the further requirement that a pocket on a face of the
+spar should be not longer than four times its distance from a corner of the spar.
+The
+distance, measured in any direction, between two pockets on the same face of the
+spar should be not less than six times the length of the shorter pocket and for pockets
+in the same growth layer, this distance should be not less than six times the length
+of the longer pocket.
+trt YKi M
+1 '
+H
+ti(MIN)
+" M —r
+ho*) f£H
+Fioure 2-105.—Acceptable practice for building up vertical laminations.
+2.423. Requirements for Vertically Laminated Spars.
+2.4230. Definitions
+(fig. 2-105).
+A vertically laminated spar
+is a spar whose
+cross section is made up of two or more laminations and in which the principal glue
+lines are vertical.
+2.4231. Annual Ring Direction
+(fig. 2-106).
+Face laminations should be edge-
+grained on their vertical faces.
+In spars consisting of four or more laminations, flat-
+grained laminations may be used in pairs provided the individuals of each pair are
+located and oriented symmetrically with respect to the vertical central plane of the
+spar and provided the total thickness of flat-grained laminations does not exceed
+50 percent
+of the spar
+thickness.
+Single
+piece laminations
+(namely,
+laminations
+without edge joints) that are flat-grained in one-third or less of their width may be
+used
+as
+edge-grained
+laminations
+provided
+they
+are
+symmetrically
+located and
+oriented
+in
+pairs.
+
+--- PAGE 138 ---
+132
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Laminations that are equidistant from the vertical central plane of the spar
+should be of the same thickness as well as of the same character with respect to being
+edge-grained or flat-grained.
+For the required symmetry
+all pieces edge or scraf
+jointed together to form a flat-grained lamination must be oriented with the annual
+rings facing the same way
+(fig.
+2-107).
+2.4232. Knots (see also sec. 2.4201).
+Within
+either outer quarter of the spar
+depth the size of a knot (on the edge or on either vertical face) in a lamination should
+not exceed % 6 W with the further limitation that the size of a knot on the narrow
+face of a lamination should not exceed
+}{ the width of that
+face.
+The sum of the
+sizes of all knots in a lamination within a length equal to 5 W should not exceed
+){ W
+and within any length equal to W the sum should not exceed
+}{$ W.
+Within the middle half of the spar depth, the diameter of a knot in a lamina-
+tion should not exceed
+lA W and the sum of the diameters of all knots in a lamina-
+tion within a length equal to 5 W should not exceed W.
+2.4233.
+Pitch or Bark Pockets.
+A
+pitch
+or
+bark
+pocket
+in
+any
+lamination
+should be not deeper than
+)i W or one-half the thickness of the lamination, which-
+ever
+is the lesser; not wider than % inch or % W, whichever
+is the lesser, and not
+longer than 2 inches with the further requirement that a pocket on a face of the spar
+should be not longer than four times its distance from a corner of the spar.
+The distance, measured in any direction, between two pockets on the same face
+of the spar should be not less than six times the length of the shorter pocket and for
+pockets in the same growth layer this distance should be not less than six times the
+length of the longer pocket.
+2.424. Requirements for Solid Spar Flanges.
+2.4240.
+Definition.
+A
+solid spar flange
+is
+a
+spar flange whose
+cross
+section
+consists of a single piece of wood.
+2.4241. Annual Ring Direction.
+Solid spar flanges may be either edge-grained
+oi- flat-grained on their horizontal faces
+(sec. 2.401).
+2.4242. Knots
+(see
+also
+sec. 2.4021).
+On any face of a solid spar flange, the
+size of a knot should not exceed
+W (W= the width of the face on which the knot
+appears)
+; the sum of the sizes of all knots within any length equal to 5 W should not
+exceed
+}i W; and the sum in a length equal to W should not exceed K6 W.
+2.4243.
+Pitch or Bark Pockets.
+A pitch or bark pocket should be not deeper
+than one-eighth the dimension of the flange in the direction of the depth of the pocket;
+not wider than % inch or one-eighth the dimension of the flange in the direction of
+the width
+of the pocket, whichever is the lesser; and not longer than four times its
+distance from
+a corner
+of the
+flange.
+The
+distance, measured
+in any
+direction,
+between two pockets on the same face of the flange should be not less than six times
+the length of the shorter pocket and for pockets in the same growth layer this dis-
+tance should be not less than six times the length of the longer pocket.
+2.425. Requirements for Laminated Spar Flanges.
+2.42 50.
+Definition.
+A laminated
+spar flange
+is a flange whose
+cross section
+is made up of two or more laminations glued together.
+Flanges may be
+either horizontally or vertically laminated.
+In horizontally
+laminated flanges that taper in depth, laminations should be
+parallel
+to the face
+at which the tensile stress
+is greatest.
+2.42 51. Annual Ring Direction.
+Laminated spar flanges may be either edge-
+grained or flat-grained on their horizontal faces
+(sec. 2.401).
+2.4252. Knots
+(see also sec. 2.4201).
+On any face of a lamination whose cross
+section exceeds one-third the cross section of the flange, the size of a knot should
+not exceed }U W (W= the width of the corresponding face of the flange).
+On any face of a lamination whose cross section does not exceed one-third the
+cross section of the flange, the size of a knot shall not exceed %o W except that the
+size of a knot on the narrow face of a lamination should not exceed one-fourth the
+
+--- PAGE 139 ---
+Figure 2-107.— Orientation of growth layers in built-up lamination.
+
+--- PAGE 140 ---
+134
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+width of that face.
+(Knots less than
+}{ 6 inch in size are to be disregarded in accord-
+ance with sec. 2.4201.)
+The sum of the sizes of all knots on any face of a lamination in a length equal
+to the width of that face should not exceed the size of the largest knot permitted on
+that face, and the sum of the sizes in a length equal to five times the width of the
+face should not exceed twice the size of the largest single knot permitted.
+2.42 5 3.
+Pitch or Bark Pockets.
+A
+pitch
+or
+bark
+pocket
+in any
+lamination
+should be not deeper than one-eighth the dimension of the flange in the direction of
+the depth of the pocket or one-half the thickness of the lamination, whichever
+is
+the
+lesser;
+not
+wider
+than
+}{ inch
+or
+one-eighth
+the
+dimension
+of
+the
+flange
+in the direction of the width of the pocket, whichever is the lesser; and not longer
+than four times its distance from a corner of the flange.
+On any face of the flange,
+the distance, measured
+in any
+direction, between two pockets should be not
+less
+than six times the length of the shorter pocket, and for pockets in the same growth
+layer this distance should be not less than six times the length of the longer pocket.
+2.426. Requirements for Stressed Parts of Small Cross Section as Compared to
+Their Length, Such as Cap
+Strips, Verticals, and Diagonals of Ribs; Skin-stiffeners;
+Longerons; Etc.
+2.4260. General.
+All such parts into which nails are to be driven should be
+free of knots or other defects which
+interfere with
+nailing or are likely
+to cause
+splitting in nailing.
+2.4261. Annual Ring Direction.
+Those
+faces
+of
+cap
+strips,
+verticals,
+and
+diagonals of trussed ribs that are parallel to the plane of the rib should preferably
+be edge-grained.
+2.4262. Knots.
+Knots may be
+permitted
+in
+the middle
+half
+of
+the width
+of a flat-sawed face, provided the diameter of any one knot does not exceed one-
+eighth the width of the face, and provided such knots do not cause deviations of
+grain in the outer quarters steeper than the allowable value.
+2.4263.
+Pitch or Bark Pockets.
+No pitch or bark pockets should be permitted
+in members that are less than
+1 inch
+in either cross-sectional dimension.
+Pitch or
+bark pockets may be permitted in an edge-grained face
+(if
+it
+is wider than
+1 inch),
+provided their dimensions do not exceed a depth of one-eighth the dimension of the
+piece parallel to the depth of the pocket; a width of one-eighth the width of the face
+on which they appear; and a length not greater than 2
+inches, or four times the
+distance of the pocket from the edge of the piece, whichever is the less.
+The distance, measured in any direction, between two pockets should be not
+less than six times the length of the shorter pocket, except that where they are in
+the same line, the distance between pockets should be not less than six times the
+length of the longer pocket.
+2.4264. Compression Wood.
+No compression wood
+should be permitted
+in
+parts which are less than
+1 inch in either cross-sectional dimension.
+In larger parts,
+compression wood may be permitted
+in streaks not wider than one-twentieth the
+width
+of the face and aggregating not more than one-tenth the width of the face
+on which they appear.
+2.427. Requirements for Curved Laminated Members, Such as Fuselage Rings,
+Door Frames, and Wing-Tip Bows.
+2.42 70. Annual Ring Direction.
+Material
+for curved parts should
+preferably
+be flat-grained on the faces, which will be curved after gluing in order to minimize
+changes in curvature with moisture-content changes.
+2.4271. Knots.
+Material for this
+use
+shall be free
+of knots
+of such
+size
+as
+would interfere with bending to the required curvature or with good contact between
+laminations.
+2.4272. Compression Wood.
+Material for such use should be free from com-
+pression wood.
+
+--- PAGE 141 ---
+CHAPTER
+3.
+MODIFIED WOOD
+3.0. PLYWOOD, LAMINATED WOOD, COMPREG, IMPREG, HEAT-STA-
+BILIZED WOOD, AND PAPREG.
+3.00. General.
+Useful
+as wood
+is
+in
+the form
+in which
+nature
+provides
+it,
+science has shown the way to transformations that add greatly to its utility.
+Among
+the modified wood products of present and
+potential use
+in aircraft are plywood,
+laminated
+and
+curved members,
+resin-impregnated
+and
+compressed wood,
+heat-
+stabilized wood, and high-strength, resin-treated paper.
+3.1. PLYWOOD.
+3.10. General.
+Plywood
+is an assembled product
+of wood and
+glue
+that
+is
+usually made of an odd number of thin plies (veneers), with the grain of each layer
+at an angle of 90° with the adjacent ply or
+plies.
+The outside
+plies are termed
+"faces," or "face and back," and the inner plies are termed "core and cross bands."
+In three-ply plywood the center ply
+is the core, and its grain
+is at an angle to the
+face
+plies.
+In panels with
+five or more
+plies,
+the center ply
+is the core, and the
+inner plies whose grain is at an angle to the faces and core are called cross bands.
+The
+chief advantages
+of plywood
+as compared with
+solid wood
+are
+its more
+nearly equal strength properties along the length and width of the panel, greater
+resistance
+to checking and
+splitting, and
+almost
+negligible change
+in width and
+length with changes in moisture content
+(sec. 3.11
+).
+These advantages
+are obtained by
+alternating
+the
+direction
+of grain
+in
+the
+successive
+plies.
+Since the strength of wood across the grain
+is much lower than
+along the grain, equalization of strength properties in a plywood panel is approached
+through
+an
+increase
+in
+strength
+in one
+direction accompanied by
+a
+decrease
+in
+strength in the other direction.
+The tendency of cross-banded products to warp as the result of stresses set up
+from shrinking and swelling with moisture-content changes
+is largely eliminated by
+balanced construction.
+This construction consists
+of arranging the
+plies
+in
+pairs
+about the core or central ply so that for each ply there
+is an opposite, similar, and
+parallel ply.
+Matching the plies involves a consideration of
+(1) thickness,
+(2) kind
+of wood with particular reference
+to shrinkage and density,
+(3)
+moisture content
+at the time of gluing, and
+(4) angle or relative direction of the grain.
+Plywood for aircraft
+is sometimes made with an even number of plies or with
+the grain of adjacent plies at angles other than 90°.
+Plywood panels are also made
+with the grain of alternate plies at 90° but with the grain of the faces at other than
+0° or 90° with the edges of the panel.
+Nonsymmetrical plywood
+is not standard
+and should be used with caution, because
+its unbalanced construction
+is likely to
+cause warping of the panels.
+Plywood for aircraft
+is produced in flat, curved, or molded form, using glues of
+the thermosetting, synthetic-resin type.
+Aircraft
+flat plywood
+is produced between
+the heated platens of a hydraulic press and
+is commonly referred to as hot-press
+plywood, whereas molded plywood
+is usually produced by means of fluid pressure
+applied through an impermeable bag or blanket in an autoclave and is referred to as
+bag-molded or fluid-pressure-molded plywood.
+Curved plywood may be produced
+by gluing veneer over curved forms in a press, by bending flat plywood over a form,
+or by bag molding.
+135
+
+--- PAGE 142 ---
+136
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+The quality requirements for plywood
+to be used
+in
+aircraft are much more
+exacting than for industrial plywood in general.
+Current requirements are published
+in Army-Navy Aeronautical Specification (AN-NN-P-511b) Plywood and Veneer;
+Aircraft Flat Panel, and Army-Navy Aeronautical Specification (AN-P-43) Plywood;
+Aircraft, Molded
+(fluid pressure).
+The quality of plywood
+is contingent upon
+(a) the kind and quality of veneer
+used
+(sec. 2.320),
+(b) the adhesive used
+(sec. 4.0), and
+(c) the technique employed in
+combining the veneer and adhesive to produce the finished panel.
+3.11. Shrinkage of Plywood.
+Shrinkage in thickness of the plies
+is unopposed,
+hence a plywood panel for all practical purposes will shrink in thickness like normal
+wood.
+Since the longitudinal shrinkage of a ply
+is negligible,
+the
+lateral shrinkage
+of adjacent plies (whose grain
+is at right angles) will be restrained.
+The shrinkage
+of a plywood
+panel,
+then,
+in
+the two
+lateral
+directions,
+will be
+relatively small.
+This shrinkage will vary with the species, the ratio of ply thicknesses, the number
+of
+plies, the character of the grain, and the combination of species.
+The average
+shrinkage
+obtained from
+several hundred
+tests on
+a
+variety
+of
+combinations
+of
+species and thicknesses
+in bringing three-ply wood from the soaked
+to the oven-
+dry condition was about
+0.45 percent
+parallel
+to the face grain and 0.67 percent
+perpendicular to the face grain, with ranges of from 0.2 to
+1 percent and 0.3 to
+1.2
+percent,
+respectively.
+Individual
+cases
+of some
+species may
+give
+wider ranges
+than
+these.
+The species included in the tests were basswood, birch, black walnut,
+chestnut,
+elm, mahogany, Spanish
+cedar,
+spruce, sugar maple, sweetgum,
+tupelo,
+and yellowpoplar.
+From
+this
+it
+is seen that
+the lateral shrinkage of plywood
+is
+only about one-tenth as great as that across the grain of an ordinary board.
+The
+total lateral shrinkage of a 1%-inch southern yellow pine board with two
+%2-inch
+sweetgum veneers glued
+to the faces was only
+1
+percent, or about one-seventh of
+the normal shrinkage.
+The values given for shrinkage are based
+on
+a
+moisture
+content change ranging from a green or soaked condition to an oven-dry condition.
+In
+service, the change in moisture content
+will be much
+less, generally not more
+than enough to cause a dimensional change of one-fourth, though
+it might at times
+reach one-half of that represented in the tests.
+3.12. Manufacturing Defects.
+The effects of variations
+in technique are some-
+times apparent from visual inspection but are often manifest as inferior glue lines
+which can only be detected by testing a panel or portions of
+it
+to
+destruction.
+It
+is therefore important that careful supervision be maintained over the production
+of aircraft plywood.
+Examples
+of
+manufacturing
+defects
+that
+can
+be
+visually
+detected
+include
+blisters,
+core
+laps
+or
+core
+voids, and sometimes excessively
+glazed
+surfaces and
+"bleed through"
+(sec, 5.212).
+Blisters
+usually develop from an accumulation
+of steam
+within
+a
+panel
+in
+local
+areas
+of
+excess moisture during the
+pressing operation.
+They can
+usually
+be detected quickly by an inspector who
+is looking between the platens of the press
+just as they open.
+After the panels have
+cooled, a blister can often be detected
+by tapping the surface of the panel with the knuckles or a pencil and listening for
+the change in sound as tapping proceeds from solid to blistered areas.
+Core laps and
+core gaps
+are obvious.
+On the other hand,
+panels can have
+glue bonds which
+are below acceptable standards even though good veneer and
+adhesives are used.
+This fact can escape detection under visual examination only.
+Unsatisfactory glue bonds can result from
+(a) improper moisture content
+of
+veneer,
+(6) improper amount of glue spread
+(sec,
+5.23),
+(c) too long assembly time
+(sec, 5.24),
+(d) excessive time in loading and closing press (when panels
+lie on the
+hot plates before pressure
+is applied the glues tend to precure),
+(e) improper tem-
+perature and
+pressure
+(sees.
+5.25 and
+5.26),
+or
+(J)
+insufficient
+curing time
+(sec.
+5.263).
+While small variations from accepted practice
+in any one of these condi-
+
+--- PAGE 143 ---
+MODIFIED WOOD
+137
+tions would be unlikely
+to lower glue bond quality dangerously, a combination
+of
+small variations of several conditions may result
+in below-standard plywood.
+3.13. Weights of Veneer and Plywood.
+Table 3-1 gives the weight per square
+foot of veneers of various thicknesses and corresponding pounds per cubic foot and
+specific gravity based on weight and volume when oven dry.
+The table also gives
+the weight per square foot of veneer at 10-percent moisture content.
+At the bot-
+tom
+of table 3-1
+approximate values for weight per square foot
+of glue
+line are
+given
+for film glue, cold-setting resin glue, hot-setting resin glue, and casein glue,
+which should be taken into consideration when the table
+is used for estimating the
+weight of plywood.
+Table 2-4
+lists the average
+specific gravity and pounds per
+cubic foot of a number of species commonly used in aircraft.
+3.2. GLUED LAMINATED MEMBERS.
+3.20. General.
+Glued laminated construction
+is an assembly of two or more
+layers of wood which have been glued together with the grain of all layers or lami-
+nations
+approximately
+parallel.
+In
+aircraft,
+laminated
+construction
+is
+used
+for
+such parts as propellers, spar flanges, bulkhead rings,
+filler blocks, bearing blocks,
+rib members, and wingtip bows.
+The laminations may be produced from either lumber or veneer.
+As used for
+making
+aircraft
+parts, laminations
+are usually prepared from dry lumber
+of
+less
+than
+1
+inch thick and from veneer of one-sixteenth to one-eighth inch
+in thickness.
+The laminations may be of one or more pieces, edge glued to provide width and end
+scarfed
+to provide
+length, where necessary.
+Two or more
+full-sized laminations
+are then glued together to produce the thickness of member required.
+
+--- PAGE 144 ---
+138
+1
+s
+s
+I
+1
+I
+-
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+si?
+sllllil
+i
+s
+mi
+itmm
+milt
+Is
+It
+g||l||l|Sl2SSS§§2SSSSS!2gslSB2S|l2l
+qlsI|
+, |lI§S
+, §§33§3aS§323aSs3§gSS2SSS
+silllil
+U
+sllllll
+linn
+it
+sllllllgSSillllllsssiaSSSSsSSSsSSS
+°
+Sl§llllllllllIllllllll§22§SBSS§22§
+^|||||| i ||||g£|i|||||||S§||2222§?|§
+^lilllllSllllllllillillllglggliigl
+sllllillsllslllllslllllilllllgllll
+flip
+Qiiiiiiiiiiiiiisigiiiiiiiiiiiiiiii
+Sllllllllilsllslllsllsllllslllllll
+Sllsiglllglllllillilllgllllsllssss
+Sssssilsllllslllllllillillllslllsl
+§1111111111?
+riiiiiiiifmi
+3888888
+d
+Illlfllflftffffffllfifffffl
+
+--- PAGE 145 ---
+MODIFIED WOOD
+139
+A well-laminated wood member is as strong as a solid member of the same wood
+in the same size.
+Wood properties, such as slope of grain, density, occurence of wood
+defects, and the like, affect the strength of the laminated member in the same way
+that they do a solid wood member.
+The process of laminating, however, permits
+the use of small, clear cuttings which can be glued into
+a member entirely free of
+such defects, and as a result the laminated member may possess more strength than
+the similar solid member, especially in the larger sizes.
+In addition, the process of
+laminating permits the production
+of members
+in
+sizes that could not readily be
+supplied in equal quality in solid wood.
+Laminated members are made both straight and curved.
+The laminating of
+straight members
+is the simpler operation, usually requiring only conventional equip-
+ment but sometimes complicated by the large size of piece produced.
+In making
+curved members, forms or jigs must be prepared
+to the shape
+of member desired.
+The laminations are drawn against these forms and are glued together in the curved
+shape, being held under pressure until the glue has
+set.
+Upon removal from the
+forms, the laminated member retains the approximate curve at which
+it was glued.
+In making curved members, the relatively thin individual laminations can be bent
+into position before gluing with much less stress than
+is developed in steaming and
+bending the larger solid member, with the result that the laminated member
+fur-
+nishes a greater strength and stiffness.
+The drying of wood in thick sizes is relatively slow, expensive, and often accom-
+panied by drying stresses.
+The thinner lumber and veneer can be dried much more
+rapidly and satisfactorily, and the laminating of such lumber or veneer enables the
+production of heavier members which are uniformly dry and relatively free of dry-
+ing defects and stresses.
+The laminated member is subject to changes in moisture content with variations
+in atmospheric humidity and to changes in dimension due to shrinking and swelling
+much the same as similar solid members.
+Minimizing dimensional changes in both
+is dependent on having the wood at the right moisture content when fabricated and
+on the use of moisture-resistant coatings.
+Successful lamination of wood members requires that the joints be well glued
+and that the bond shall be durable under all conditions of service.
+The glue should
+develop the
+full strength of the wood and should further maintain
+that strength
+under service conditions.
+Otherwise delamination of the glue line joint
+is liable to
+develop and the strength of the member be seriously reduced.
+Many glues can be
+successfully used in producing laminated members.
+The use of heat
+to hasten the setting of the glue is practical with cold-setting
+glue and may be accomplished by placing the glued assembly in a heated room or
+kiln.
+Under heat curing, the wood in the assembly tends to dry out, the surface
+of the wood shrinks, and the glue joints open before the glue is set, unless the atmos-
+phere surrounding the assembly
+is humidified so as to maintain a constant moisture,
+content in
+the
+assembly.
+The
+use
+of heated
+kilns
+also
+permits
+the laminating
+of members with the low-temperature, phenolic-type glues but laminated members
+of substantial size are usually glued with cold-setting glues to avoid the inconvenience
+of heating the mass of wood.
+Electrical,
+high frequency heating and bag-molding with
+steam or steam-air
+combination are employed for the heating and curing of special laminated aircraft
+members, but the use of steam-heated hydraulic hot presses
+is not very practical
+for laminating heavy wood members.
+3.3. RESIN-TREATED PLYWOOD AND LAMINATED WOOD (IMPREG
+AND COMPREG).
+3.30. General.
+The properties of wood can be modified by resin treatments,
+and a combination of a resin treatment and compression.
+Two such woods, "impreg"
+(resin-impregnated wood) and
+a dimensionally
+stable form
+of "compreg"
+(resin-
+
+--- PAGE 146 ---
+140
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+impregnated, compressed wood) have been developed at the Forest Products Labora-
+tory.
+The
+proper
+treatment
+of wood with
+suitable
+resins
+will
+greatly reduce
+the
+swelling and shrinking of wood and the resultant warping and checking.
+It
+will
+greatly improve the resistance of the wood
+to moisture transfusion and
+to decay,
+and appreciably increase its compressive strength properties.
+In addition to such
+improved stability, resin-treated wood when compressed will exhibit an increase in
+strength properties, other than the compressive properties, about
+in proportion to
+the specific gravity to which the wood is compressed.
+Because of the difficulty of adequately treating massive pieces of wood, and the
+further fact that an outer zone treatment with stabilizing resins causes stresses to
+be set up between the treated and untreated parts of the wood,
+it seems advisable
+that, for the present,
+all impreg and compreg be made from sheets of veneer one-
+eighth inch thick or thinner.
+Both materials can be made up
+in either plywood
+or parallel-laminated
+form, depending on
+the
+directional
+distribution
+of strength
+properties desired.
+3.31. Impreg.
+Great dimensional
+stability has been
+effectively accomplished
+in wood by treating it with resin-forming systems that penetrate the cell-wall struc-
+ture and become bonded to the active groups of wood which tend to take up water.
+Water-soluble, phenol-formaldehyde, resin-forming mixes meet these requirements
+better than any other resins or resin-forming systems thus far tested.
+The commer-
+cial phenol-formaldehyde resin-forming mixes given in table 3-2 are of this kind and,
+in experiments at the Forest Products Laboratory, have been found similar in stabi-
+lizing effectiveness.
+Green veneer direct from the log can be treated with these resins by merely im-
+mersing the plies in the treating solution, which has been diluted to a solids content
+of 40 to 50 percent with water, for periods of time ranging from about
+1 hour to 1 day,
+depending on the moisture content, thickness, and species of veneer.
+Dry veneer can be treated by the cylinder-treating method by applying
+air
+pressures of 20 to 100 pounds per square inch to the veneer immersed in the treating
+solution.
+This treatment requires from
+15 minutes to 2 hours, depending on the
+species.
+The resinoid is carried only into the coarse capillary structure; the veneer
+should, therefore, be close-piled under nondrying conditions for
+1 to 2 days following
+treatment to insure a uniform diffusion of the resinoid throughout the cell-wall struc-
+ture.
+The treated veneer is then dried by stickering in a kiln or passing through a
+continuous drier at a temperature of about 160° F.
+Table 3-2.
+Seven commercial phenol-formaldehyde resin-forming mixes
+Manufacturer
+Resinoid
+Resin-
+forming
+solid
+content
+1
+Bakelite Corporation__
+Bakelite Corporation
+Casein Co. of America
+Central Process Corporation. _
+Durez Plastics & Chemical Corporation
+Monsanto Chemical Co
+1_
+Resinous Products & Chemical Co
+BR 5995
+BR15100.
+Compregnite
+61
+71
+59
+54
+43
+72
+55
+1650.
+6686 _
+461 _
+.
+PR 50
+i As determined at the Forest Products Laboratory by polymerization in a pressure bomb.
+
+--- PAGE 147 ---
+MODIFIED WOOD
+141
+When thoroughly dry, the treated veneer is heated to about 200° F. for 20 hours,
+or 300° F. for one-half hour, to set the resin in the structure.
+These treated and
+cured plies can be assembled with practically any kind
+of glue— animal, vegetable
+(starch), soybean, casein, or both hot- and cold-press, synthetic-resin glues of both
+the phenol-formaldehyde and urea-formaldehyde types
+(sec. 5.2720) but only the
+synthetic-resin glues are acceptable for aeronautical use.
+On the basis of tests at the
+Forest Products Laboratory, however, only the synthetic-resin glues are recommended
+for assembly of resin-treated and cured plies that are for aeronautical use.
+Glues
+containing considerable solvent should be allowed to dry,
+after application to the
+treated
+veneer
+surfaces, to
+a greater extent before assembly than
+is necessary in
+gluing ordinary wood.
+In gluing experiments, open assembly times of
+15 minutes
+produced joints that failed 100 percent in the wood when tested.
+Further details regarding the treating, drying, and assembly
+of resin-treated
+wood are given in Forest Products Laboratory Restricted Mimeograph No.
+1380
+Impreg can be made from a number of different species.
+As most of its proper-
+ties other than strength are largely independent of species, the chief basis for selection
+of a particular species should be the desirability of its mechanical properties and ease
+of treatment.
+Practically
+all softwoods, except the resinous pines, may be treated
+readily, as may the softer hardwoods, such as cottonwood, basswood, poplar, and the
+gums.
+Birch and
+the sapwood
+of maple take the treatment best
+of the harder
+hardwoods.
+An increase
+of 30 percent in the weight
+of the wood was accompanied by a
+volume increase
+of about 10 percent.
+Impreg of different species will hence have
+a specific gravity about 18 percent greater than that of untreated wood.
+A comparison of various properties with those of normal wood is given in table
+3-3.
+3.32. Compreg. The chief object of making compreg is to combine the improved
+mechanical properties that result from compression with the degree of stability needed
+for specific uses.
+Compreg can be made in variations ranging from material that
+has been superficially treated with a nonstabilizing resin
+to that which has been
+thorougldy treated throughout the cell-wall structure with a stabilizing resin prior
+to compression.
+The least stable form—which, strictly speaking, should be called
+densified wood rather than compreg— is made from
+thin
+plies
+of veneer
+(about
+one-fortieth of an inch thick or less) which are reported to be treated with bonding
+resin under high compressing
+pressures.
+Actually,
+only the
+open-pore
+structure
+at the surface can be penetrated in this way.
+Another method is to coat the plies
+several times with an alcoholic solution of a phenolic resin, allowing the solution to
+be taken up by capillarity and diffusion within the structure between successive
+spreads.
+This method gave considerably more penetration than the aforementioned
+procedure, but the distribution of resin was still far from uniform even in the micro-
+scopically visible structure.
+Prolonged soaking of the veneer in the alcoholic resin
+solution
+or treating under vacuum or pressure in a treating cylinder further im-
+proved the distribution of resin in the coarse capillary structure and gave a limited
+penetration
+of
+the
+cell
+walls.
+When
+the
+water-soluble
+stabilizing
+resins
+were
+used under the conditions given for making impreg, the entire capillary structure,
+including that within the cell-wall structure, was penetrated, thus making possible
+a more stable product.
+568338—44
+10
+
+--- PAGE 148 ---
+142
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Table 3-3.
+Properties of Forest Products Laboratory impreg compared with normal wood
+Property
+Moisture resistance:
+Rate
+of
+moisture
+absorption,
+swelling,
+shrinking.
+Equilibrium adsorption of water vapor
+Equilibrium swelling and shrinking
+Absorption of water on prolonged i

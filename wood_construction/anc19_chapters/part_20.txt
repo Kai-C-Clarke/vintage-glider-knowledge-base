@@ -1,0 +1,1162 @@
+.—Spar profiling: A, profiling machine in operation; B, details of frame employed for profiling and beveling spars by
+moving spar past a stationary jointer.
+
+--- PAGE 303 ---
+PROCESSING AND FABRICATION
+297
+5.654. Contouring with a Router.
+If, on the other hand, the jig does not hold
+the cap strips and gusset plates of the ribs accurately to contour, and if the surfaces
+are later to be covered with plywood, the final contouring of the wing rib must be more
+carefully
+done.
+One method
+is
+illustrated
+in
+figure
+5-82.
+The
+rib
+is clamped
+against a pattern and, thus guided,
+is brought to the desired contour.
+Obviously
+this operation should be carried out with
+skill and care to produce a smooth, true
+surface to which the plywood skin can be glued.
+After routing, the ribs should move
+as promptly as possible to the final assembly to minimize surface changes caused by
+changes in moisture content.
+If a supply accumulates, the rough ribs should be
+stored and routed as needed.
+Figure 5-82.—Routing wing ribs to contour
+5.655. Contouring with a Shaper.
+Profiling of ribs may also be carried out on a
+shaper by the use of a jig.
+The particular arrangement shown in figure 5-83 is for a
+rib which is attached to the spars at an angle deviating slightly from 90°.
+The rib is
+mounted on an inclined or bevel block, the ratio of distance
+c to distance b being-
+adjusted to give the proper angle.
+Rib and bevel blocks are, in turn, mounted on a
+template of uniform thickness which is shaped to impart the exact profile to the rib
+when the guide block is moved along the shaper collar.
+In this way suitable bevel
+cuts may be made on two edges of the rib with a single bevel block.
+If bevel cuts are
+to be different at front and rear spars, for example, or if top and bottom bevels are
+different,
+as
+is usually the case because wings taper toward
+their
+tips,
+a second
+bevel block is used so that the ratios among distances a,
+b, and c can be varied.
+
+--- PAGE 304 ---
+298
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.656. Shaping Box-section Framing Members.
+The shaped edges of box sec-
+tions may present an unsatisfactory gluing surface for attachment of the plywood
+skin due to changes in moisture content, dulling of the knives by the glue line, and
+recovery of the fibers after shaping.
+As a result, the plywood web may protrude
+sufficiently beyond the surface of the solid flange to reduce the effectiveness of the
+glue bond between the plywood skin and the flange of the framing member, either in
+Figure 5-83.—Profiling ribs with beveled edges on shaper by means of bevel blocks.
+the gluing operation or in subsequent service.
+Beveling or rounding the edges of
+the member as shown in figure 5-84, either in a separate operation or by grinding
+the proper contour in the shaper knives, will eliminate this difficulty.
+5.657. Wing-tip Bow Profiler.
+Large laminated wing-tip bows are sometimes
+contoured in a jig as illustrated in
+figure
+5-85.
+The bow
+is held firmly between
+side clamps, while the contour
+is cut by either a power plane or a large portable
+router which runs on two properly aligned tracks.
+SQUARE-CUT EDGES
+BEVELED EDGES
+Figure 5-84.—Shaping box-section framing members.
+(Edge conditions ot the plywood are exaggerated.)
+5.658. Floating.
+The surfaces of whig and fuselage frames should be true and
+smooth. A common method of preparing such surfaces is by "floating."
+The gross
+irregularities are removed with hand tools.
+Final alignment and surfacing are done
+with sandpaper attached to one side of a board of a length sufficient to extend over
+several elements of the frame.
+Considering the wing structure illustrated in figure
+5-51, for example, the device for floating the ribs would be a board approximately
+1 by 4 inches in cross section and of a length equal to about three-fourths that of
+the wing.
+Sandpaper
+is attached to one side and suitable hand grips to the other.
+
+--- PAGE 305 ---
+PROCESSING AND FABRICATION
+299
+The device is laid across the ribs and moved more or less parallel to them until their
+edges are in proper alignment.
+The same method applies
+to preparing the surface
+of the fuselage frame for attaching the plywood cover.
+If the routing and attaching
+of the ribs are done with a sufficient degree of exactness, the floating operation may
+Figure 5-85.—Contouring large laminated wing-tip bows with a power plane.
+be unnecessary, particularly
+if the cap
+strip of each rib
+is continuous or
+if only a
+portion of the surface is to be covered with plywood.
+If wing ribs or fuselage rings
+contain cut-outs, special care in the floating operation
+is required to insure a true
+surface in the vicinity of the cut-outs.
+,BALL BEARIA/G COLLARS ON SHAFT
+,
+PART BEING CONTOURED
+SANDER DRUM:
+_
+fXtf}*T
+MOVABLE BED
+s STEEL
+TEMPLATES'
+Figure 5-86.—Contour drum sander for aircraft frame work.
+COUPLING
+TO MOTOR
+5.659. Contour Drum-sander for Framework.
+A machine method that enables
+rapid and accurate contouring of assembled air frames, such as the aileron and flat
+skeleton,
+is illustrated in figure 5-86.
+This type of machine will operate on any
+frame of single curvature, but it is doubtful whether its operation will be sufficiently
+accurate on very long sections.
+The frame being contoured
+is mounted on a solid
+
+--- PAGE 306 ---
+300
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+bed which moves under the sander drum
+in such a way that the steel templates,
+which are machined
+to the exact shape of the finished contour, run against ball-
+bearing collars on the shaft of the sander drum.
+The accuracy of the contouring
+will depend on the rigidity of the sander drum and the proper contouring of the steel
+templates.
+The sandpaper should be attached directly to the drum without soft
+back-up material.
+Oscillation of the drum
+is a refinement which might add con-
+siderably to the life of the sandpaper.
+5.66. Boring.
+Good boring in aircraft calls for holes that are smoothly cut and
+true to size.
+The quality of work will, in general, vary with the kind of wood used,
+type of
+bit, and operating conditions
+(5-31).
+In
+this operation special attention
+should be paid to the steadiness of the machines used.
+As a rule, the harder woods
+bore better than do the soft ones, which means that extra care must be taken with
+the latter.
+Poor boring often results in some crushing and tearing of the wood immediately
+around the hole, which exerts some weakening effect on the wood in addition to that
+resulting from the hole itself.
+For smooth, clean-cut boring in solid wood the best
+of many types of bits is probably the machine bit with extension lips. A twist drill,
+preferably machine-sharpened, has been found to produce a smoother hole in plywood
+than a machine bit with extension lips.
+The proper rate of feed depends upon the
+diameter of
+drill and the speed, but should be such as to produce only very thin
+shavings.
+Manufacturers recommend
+peripheral
+speeds
+of 300
+to 400
+feet
+per
+minute for twist
+drills of high-speed steel when used in wood.
+The corresponding
+speed
+of rotation
+(in revolutions per minute) can be computed approximately
+as
+1,350 divided by the diameter of the drill in inches.
+For carbon steel drills, speeds
+equal to about one-half the above are recommended.
+Holes through a combination of plywood and
+solid wood,
+such
+as
+in a boy
+spar, have been bored accurately by using a twist
+drill slightly smaller than the
+final size and reaming the hole to final size with a metal cutting reamer.
+There
+are many
+different types
+of boring machines,
+the
+simplest being
+the
+variable
+speed,
+single-spindle,
+hand-feed
+type common
+in
+small
+woodworking
+establishments.
+At
+the
+other
+extreme
+are
+highly
+specialized
+boring
+machines
+designed for quantity production and capable of boring in only a very few seconds
+a dozen or more holes of the desired depth, spacing, and angle in each side of a piece
+at one operation.
+The use of a hand-held electric drill guided by a template around
+the drill is not recommended.
+Frequently
+it
+is necessary to bore holes to very close
+tolerance
+in alinement
+and position because holes must coincide with corresponding holes in other parts,
+such as metal
+fittings.
+Such boring, furthermore, must often be done from both
+sides to avoid the tendency to splinter wood as the bit emerges, or to prevent the
+bit from wandering too much in deep holes.
+Several methods are employed to meet these requirements:
+1. Template:
+All holes are bored, either one at a time or all at once, by boring
+through
+a template having
+glass-hard
+steel
+inserts
+to
+guide
+the
+bit
+(fig.
+5-87).
+Holes are bored half-depth on one side, the piece
+is reversed, a template clamped
+on the other side, and the holes finish-bored.
+When the template must be removed
+and rcfastened, as described, some means of alining must be provided.
+One method
+is to bore one or two holes, either separate alining holes or members of a group,
+all
+the way through and to use these holes, by means of pins driven into them, to po-
+sition the template for the second boring.
+Another is to provide a template frame
+which consists essentially of identical or reverse-image templates clamped to both
+sides of the stock.
+Holes are
+first bored through the template on one side, then
+the assemblage is reversed and holes are finish-bored from the other side.
+2. Gang
+drills:
+Sufficient
+drills are
+set in a gang
+drilling machine
+to bore a
+number of holes at once in the desired locations.
+The material to be bored
+is set
+
+--- PAGE 307 ---
+PROCESSING AND FABRICATION
+301
+in position on the bed, usually by means of two pins which
+fit into alining holes in
+the stock.
+Holes are
+drilled halfway,
+the stock
+is turned over and realincd, and
+the holes are finish-bored.
+This procedure
+is feasible only when holes are symmet-
+rically grouped about some axis.
+One requirement for most boring operations of this kind
+is that the opposite
+faces of the stock must be perfectly parallel.
+When this is not the case,
+it is neces-
+Figure 5-87.—Template for boring spar sh ar webs.
+sary to use a parallel-sided boring frame, or to block up the stock during boring so
+that the two half lengths of the hole arc in perfect alinement.
+Holes for bolts or bushings should be bored oidy after a period of conditioning
+following the last gluing operation on the material through which they pass.
+The
+diameter should be such that the bolt or bushing
+fits closely but can be inserted
+with the
+application
+of a moderate amount
+of
+force.
+No heavy
+driving should
+be necessary.
+5.67. Cutting Gussets and Other Plywood Parts of Curved or Irregular Shape.
+Gussets are of two types: patch and continuous.
+Both find their greatest use in
+joining rib webs
+to cap
+strips and
+in making attachments such as those joining
+568338—44
+20
+
+--- PAGE 308 ---
+302
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+ribs to spars.
+In any event, they are usually irregular in shape and are apt to be
+small.
+Both types of gussets are generally cut by band sawing or routing, but may be
+cut by steel-rule dies and "clicking machines."
+When cutting
+is done by band saw or router, a number of sheets of plywood
+are stacked up and cut simultaneously.
+For band sawing, the top sheet may be
+marked to pattern and acts as a guide for cutting the entire stack.
+The shaping
+of certain curved parts, such as long plywood rib gussets, can be done on a band
+saw by means of templates and the device illustrated in figure 5-88.
+The template
+rides against small follow pins installed in the upper saw guide on either side of the
+saw.
+Proper allowance for the distance between the outer side of the pin and the
+inner
+side
+of
+the saw
+is made
+in laying out
+the template.
+A narrow saw with
+considerable set
+is necessary for cutting
+to a small
+radius of curvature.
+A com-
+mercial device of this nature
+is covered by a patent.
+For routing, a template
+is
+employed to guide the router bit.
+Steel-rule dies consist essentially of thin, sharpened steel strips set into the bed
+of a press, the strips being bent to form patterns yielding pieces of the proper shape
+HARROW BAND-SAW 3LADL
+Figvre 5-88.—Band saw with template guide for shaping long plywood rib gussets.
+from a sheet of stock when the press
+is closed.
+When the dies are equipped with
+spring ejectors, the punchings are rapidly and easily removed.
+"Clicking
+machines,"
+generally
+used
+for
+cutting
+irregularly
+shaped
+leather
+parts, also employ patterns made of sharpened steel strips.
+Commonly, the patterns
+are movable and are merely laid in place on the stock to be cut, each sheet of which
+is different in size and shape.
+They can, however, be fixed to the head of the ma-
+chine
+to speed up operations when the stock
+is of uniform length and width,
+as
+is generally true of plywood.
+Cutting edges of steel-rule dies and clicking-machine patterns may be
+single-
+beveled, either inward or outward, or double-beveled, depending upon the type of
+edge desired on the finished pieces.
+In any event, one thickness of stock is generally
+cut at a time, although,
+if the sheets are very thin, more than one can be handled
+simultaneously.
+Fuselage bulkheads or rings are frequently cut out of solid plywood or utilize
+plywood webs in combination with other parts.
+In either instance, the plywood
+is most easily cut to shape by routing, the number of pieces which can be handled
+at one time depending upon the thickness of the material and the length of the
+router bit.
+5.68. Formation of Curved Parts.
+Such curved
+parts
+as
+fuselage
+rings,
+door
+frames, and wing-tip bows may be formed by band
+sawing,
+steam
+bending,
+or
+laminating.
+
+--- PAGE 309 ---
+PROCESSING AND FABRICATION
+303
+5.680. Band Sawing.
+Curved parts of either single or double curvature can, of
+course, be formed by band sawing or otherwise shaping them from solid wood.
+If
+the curvature
+is abrupt or passes through a large angle, the piece will be fragile and
+weak because the grain of the wood will necessarily be at a large angle with the axis
+of the member.
+Plywood is somewhat superior to solid or laminated wood for band-
+sawed, curved parts, but the handicap of cross grain is still present, and parts of high
+strength cannot be made in this way.
+Fuselage rings for planes of one model have been made by band sawing from
+plywood with reportedly satisfactory results
+in service.
+Excellent utilization was
+reputedly attained by cutting a series of rings of successively decreasing size from the
+same sheet of plywood and, in addition, using small scraps for other purposes.
+Curved pieces or rings band sawed from plywood serve satisfactorily as shear
+webs in curved members of I or box forms of cross sections.
+Parts of single curva-
+ture band sawed from plywood are less subject to change in shape with change in
+moisture content than those formed in other ways.
+5.681. Steam Bending.
+Steam bending consists of softening wood by steaming
+or some other means, after which it is bent against a form of the required curvature.
+Hardwoods are much better adapted to this process than are softwood species.
+5.6810. Moisture Content.
+Wood at
+all stages of seasoning, from thoroughly
+green
+to well air-dried, has been used in various industries that make steam-bent
+Parts.
+Seasoned wood with a moisture content not lower than 12 percent seems to
+bend as well when steamed as that at higher moisture content, and its use simplifies
+the seasoning subsequent
+to bending.
+5.6811.
+Selection of Stock.
+Preferably,
+stock
+is
+prepared
+so
+that
+the
+faces
+that are to become convex or concave are flat sawn.
+This orientation, besides re-
+putedly adding to success in bending, reduces the tendency of the curved piece to
+change
+shape
+with
+changes
+in moisture content.
+Clear,
+straight,
+grain stock
+is
+required.
+5.6812. Softening Process.
+The usual conditioning or softening process con-
+sists of steaming at a tmospheric pressure (steaming at higher pressures does not seem
+to be advantageous) or soaking in hot water—ordinarily for about an hour per inch
+of thickness of the stock, although
+it is probable that a shorter period will suffice in
+many instances.
+5.6813. Tension Straps.
+In making severely curved pieces, metal tension bands
+or straps {5-32) are used on the side of the piece that is to be convex in order to re-
+strain tension failure and to cause most of the required deformation to take place as
+compression or upset, the amount of which
+is greatest at the concave and decreases
+roward the convex face.
+5.6814. Radius of Curvature.
+When the wood is properly selected and properly
+manipulated, bends with a radius of as small as 3 or 4 times the thickness of the
+piece can be formed in such species as the hickories, elms, and ashes.
+Pieces with
+double curvature can also be formed.
+In aircraft construction, steam bending
+is likely to be used only for parts of
+relatively moderate curvature
+that do not require
+the use
+of reinforcing bands.
+Parts such as cap strips of some wing ribs can be formed by bending to the required
+shape without preliminary softening treatment.
+This
+is applicable only
+to parts
+that will be held to the required curvature by their attachment to other members,
+since bends made in this way are not permanent and tend to straighten out.
+Some
+of the other methods of bending should be used when
+the curvature
+is such
+that
+visible wrinkling or compression failures are formed at the concave face of the bend
+or tension failure occurs along the convex
+face.
+5.682. Laminating.
+Curved members
+of
+highest
+strength
+and
+stilTness
+are
+formed by laminating them from a number of pieces, each of which
+is thin enough
+to be bent to the required curvature, with much less distortion than
+is involved in
+
+--- PAGE 310 ---
+304
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+steam bending of a member of the same size.
+The members are formed by bending
+the laminations and gluing them together in one operation
+(sec. 5.43), laminations
+being made sufficiently thin that no softening treatment is necessary.
+5.6820. Material.
+The material may be either sawed lumber or veneer, accord-
+ing to the thickness as governed by the radius of curvature.
+Bending is facilitated
+and the use of somewhat thicker laminations
+is possible
+if the stock
+is at a fairly
+high moisture
+content.
+On the other hand,
+the moisture content before gluing
+should be adjusted wherever possible so that the moisture content when increased
+by the water added with the glue
+is not more than
+12 percent
+(sec.
+5.20).
+The
+amount of moisture added by the glue to thin laminations
+is likely to be compara-
+tively large
+(sec. 5.20).
+An advantage of laminating
+is that some of the heavier, harder woods may be
+used in parts of the cross section where their qualities are desirable and the remainder
+made of lighter woods.
+Although not substantiated by available data,
+it is generally believed that flat-
+sawed lumber or rotary-cut veneer can be bent more severely than edge-grained
+lumber or quarter-sliced veneer.
+From the standpoint of change of curvature with
+change of moisture content
+(sec. 2.240), the use of flat-sawed lumber or rotary-cut
+veneer
+is advantageous,
+since the shrinkage
+in
+the
+direction
+of the
+thickness of
+laminations is thereby lessened.
+5.6821. Required Thickness of Laminations.
+Aside from the question of mois-
+ture content and the fact that, as brought out under section 5.6820, the moisture
+added with the glue increases as the thickness decreases, the choice of thickness of
+laminations is affected by other considerations.
+Under section 2.466
+it is provided
+that, in curved flanges of box spars, the radius should not be less than 500 times the
+thickness of the lamination, and such a limitation should be applied to other parts
+similarly highly stressed.
+In laminated parts, such as wing-tip bows, whose princi-
+pal function
+is
+to serve
+as formers and as connections between other parts,
+the
+principal
+considerations
+are
+to minimize
+the
+resistance
+to bending and
+thus
+to
+reduce the forces that must be applied and to avoid breakage and loss in bending
+laminations.
+When a laminated part of a given total thickness
+is made up
+of laminations
+all
+of which
+are the same thickness, the force required for bending decreases
+in
+almost exact proportion
+as the number of laminations
+is increased; for example,
+the force
+is approximately one-half as great for four %-inch laminations as for two
+%-inch laminations.
+Complete and systematic data are not available relative to the radii to which
+lumber and veneer in a dry and unsteamed condition and of various thicknesses
+can be bent without breakage.
+In bending nominal 1-inch southern pine or Douglas-
+fir of construction grades as laminations in arches and other large curved members,
+it has been found that the minimum radius that can be reached, in material at 10-
+or 12-percent moisture content without tension failure,
+is approximately 80 times
+the actual thickness.
+On the other hand, current data, some of which are presented
+in section 5.6830, indicate that for plywood and veneer, the ratio of minimum radius
+to thickness decreases as the thickness decreases.
+In the fabrication
+of laminated parts on
+a production
+basis,
+it
+is suggested
+that at least reasonable factors of safety be applied to these estimated breaking radii
+in order to reduce the forces required for bending and to avoid breakage or over-
+stressing
+of
+laminations.
+At any
+rate,
+the
+thickness
+of
+the lamination
+should
+never be
+so great that tension breaks on
+the convex face or visible compression
+buckles or wrinkles on the concave face are formed.
+5.6822. End Joints in Laminations.
+When
+end
+joints
+in
+laminations
+are
+necessary, they should be scarf joints, glued before the laminations are assembled
+to form the curved part.
+The. scarf joints are, of course, stronger than butt joints;
+
+--- PAGE 311 ---
+PROCESSING AND FABRICATION
+305
+furthermore, because a square-ended piece cannot be bent
+all the way to
+its end,
+it is difficult to get properly distributed gluing pressure on the faces of laminations
+in the vicinity of a butt joint.
+5.6823. Formation of Complete Rings.
+Complete rings, such as fuselage rings,
+may obviously be made by joining laminated curved pieces end to end with glued
+scarf joints.
+Laminating complete rings with concentric laminations is complicated
+by the necessity (unless open-end joints are permissible) of cutting each lamination
+to an exact length.
+A method for avoiding this that has been used to some extent
+consists
+of
+spirally wound,
+instead
+of
+concentrically
+arranged,
+laminations
+(sec.
+5.430).
+5.6824. Double Laminating.
+"Double
+laminating"
+is
+a
+procedure
+adapted
+to the formation of fuselage door frames, cockpit coamings, reinforcement around
+curved openings in curved
+surfaces, and similar doubly curved members.
+For example,
+for
+a
+fuselage
+door frame with rounded
+corners
+there would
+first be formed a continuous laminated ring of approximately the shape seen in a
+side view of the fuselage.
+This ring would then be sliced into a number of thin
+rings.
+These would next be assembled with glue and bent
+to the curvature re-
+quired to fit the cross section of the fuselage.
+Obviously,
+if the curvature in the section direction
+is not large
+it may be more
+economical to form it by band-sawing or some equivalent operation.
+5.683. Bending of Plywood.
+Much of the plywood used
+in
+aircraft
+is manu-
+factured
+flat and bent to the required form.
+The amount of curvature that can
+be introduced into a flat piece of plywood depends on numerous variables, a few of
+which
+are moisture
+content,
+direction
+of
+grain,
+thickness and number
+of
+plies,
+species and quality of veneer, and the technique applied in producing the bend.
+The use to which the bent plywood part will be put should govern
+its thick-
+ness, number of plies, and direction of grain.
+Once these factors are established,
+the method of producing the bend can usually be determined.
+Bent plywood parts
+are more
+likely
+to be changed
+in shape by subsequent
+moisture changes than are molded plywood parts which have been glued up
+in
+a
+curved shape.
+This usually limits bent plywood pieces to those which are supported
+at frequent intervals by a rigid framework.
+5.6830. Radius of Curvature.
+The minimum radius beyond which it is impossi-
+ble to bend a piece of plywood or veneer without fracture decreases when any of the
+following conditions prevail:
+1. Thickness is decreased.
+2. Face plies are laid more nearly parallel to the axis of bend.
+3. Moisture content of the plywood is raised.
+4. Temperature of bending form is raised.
+5. Quality of veneer is increased (particularly by minimizing cross grain).
+6. Technique of bending is improved.
+In most applications of plywood in aircraft it is not practical to approach very
+closely to this breaking radius, as considerable allowance must be made for varia-
+tions in veneer quality and the method of holding the bent plywood in place while it
+is fastened
+to the supporting structure.
+Furthermore, bending
+to the extreme
+is
+inadvisable because of the effect on subsequent performance of the part.
+If, how-
+ever, the breaking radius
+is known
+for
+different
+face-grain
+angles and
+conditions
+of plywood, approximate
+factors
+of safety can be applied which
+will enable
+the
+builder of a bent plywood aircraft part to specify more closely the proper treatment
+of the plywood.
+Limited data are available on the relation between breaking radius and thick-
+ness
+of plywood and veneer under several conditions.
+Some
+of these have been
+derived from
+actual factory practice and some from
+tests at the Forest Products
+Laboratory.
+An approximate
+relation between thickness and
+breaking radius
+of
+
+--- PAGE 312 ---
+306
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+plywood is presented in figures 5-89 and 5-90.
+It may be noted by reference to the
+plotted relations that no constant ratio of radius to thickness can be set for all thick-
+nesses.
+The graphs shown in figures 5-89 and 5-90 are based on tests of plywood between
+0.035 and 0.375 inch in thickness
+of
+aircraft
+construction and
+quality (AN-NN-
+J0F7 WOODS
+001
+002
+003 004
+O'Ot 008 01
+02
+03
+04
+T--THICKNES5 OF PLYWOOD (INCH)
+OS
+10
+Figure
+5-89.—Approximate relation between thickness and breaking radius in the bending of softwood plywood.
+Softwoods
+tested were Douglas-fir, Sitka spruce, and western white pine.
+(For explanation of this graph, see section 5.6830.)
+P-511b), but
+it
+is believed that the curve
+for the 90° angle and
+10-percent mois-
+ture content may also be applied in estimating the breaking radii of veneer and air-
+dry lumber between 0.01 and
+1 inch in thickness, and that the curve for 90°, hot-
+soaked material may also be applied to veneer that has been soaked in hot water
+prior to bending on a heated form, as described below.
+
+--- PAGE 313 ---
+PROCESSING AND FABRICATION
+307
+The angle referred to on each graph is the angle between the grain direction of
+the face plies and the axis of the bend.
+Most of the tests were made at the 0° or
+90° angle, but a few tests on wider strips of plywood at 45° indicated that there was
+little or no difference between results at the 0° and 45° conditions.
+"Hot soaked" means that material is thoroughly soaked in hot or boiling water
+until the plywood sinks, after which
+it
+is bent over a mandrel heated
+to approxi-
+HARDWOOD5
+001
+002
+003 0O4
+006 006
+1
+0Z
+OS
+04
+Ob
+08/0
+r- THICKNESS OF PLYWO OD (/NCH)
+Figure
+5-90.—Approximate relation between thickness and breaking radius in the bending of hardwood plywood.
+Hardwoods
+tested were yellow birch, hard maple, sweetgum, yellowpoplar, black walnut, and mahogany.
+(For explanation of this graph,
+see section 5.6830.)
+mately 300°
+F.; "10 percent moisture content" means plywood
+of
+this
+moisture
+content bent over a cold mandrel.
+The curves represent average breaking radii of plywood
+strips
+1 inch wide, bent
+slowly over mandrels with no support on the tension side.
+Broken lines "a" and "b"
+on the graphs refer to the examples given in the text.
+
+--- PAGE 314 ---
+308
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+The tests were made by slowly bending strips of aircraft plywood around a series
+of mandrels of decreasing size until fracture occurred.
+In most cases, each sample
+was bent through an angle of at least 90°.
+Separate curves are shown for plywood
+bent at 10 percent moisture content around a cold mandrel and for hot-soaked ply-
+wood around a heated mandrel.
+For each condition, the breaking radius
+is shown
+for plywood bent with the face grain direction at 0° and 90° to the axis of the bend. It is
+assumed that the same values would be obtained
+if wider plywood sheets equal in
+quality to the narrow strips were used.
+All the plies in each strip of plywood were
+of
+the same
+species.
+It
+is suggested
+that plywood
+containing a combination
+of
+species be considered
+to have the same bending radii as plywood made entirely of
+the face-ply species.
+Soaking in water at room temperature can be expected to produce a degree of
+flexibility or a reduction in breaking radius intermediate between that of dry and that
+of hot, water-soaked wood.
+Bending plywood at 10 percent moisture content over
+a hot mandrel is also an intermediate treatment, and a breaking radius between that
+for dry and hot, water-soaked wood may be anticipated.
+This treatment
+is prob-
+ably more effective on thin plywood than on thick material.
+5.6831. Factor of Safety.
+In any instance, it is desirable to multiply the break-
+ing radius obtained from figures 5-89 and 5-90 by
+a
+factor of safety in order
+(1)
+to get a working radius that
+will
+provide against overstressing
+in bending,
+(2) to
+allow
+for
+inapplicability of figures 5-89 and 5-90 to the case in hand,
+(3)
+to
+avoid
+face checking
+of plywood,
+(4) to reduce
+the forces required to form the bend and
+hold the bent part in
+position, and
+(5) to allow for the fact that, during placement
+in female molds, veneers must often be bent to a radius shorter than that to which
+they are held after they are in final position.
+A factor of safety against breakage of at least 3 applied to the radius is suggested
+for
+all bending of thin, exposed, finished plywood on aircraft where smoothness
+of
+the convex finished surface
+is important.
+As an illustration, figure 5-90 indicates
+a breaking radius of about 2 inches for 0.1 -inch Douglas-fir plywood at 10-percent
+moisture content bent at a 0° angle.
+A minimum working radius of 3 times
+2, or
+about 6
+inches,
+is suggested.
+On unexposed
+parts,
+this factor of safety may be
+reduced
+if fairly prominent face checks are not objectionable.
+Interior parts, such as plywood seats and angles, are often steam bent to the
+radii indicated by figure 5-90 and even sometimes to a slightly smaller radius when
+a
+well-developed
+technique such
+as
+the
+use
+of heated male and
+female
+dies
+is
+employed in the bending.
+5.6832. Examples Showing Use of Figures 5-89 and 5-90.
+To what radius can
+0.160-inch birch plywood of aircraft quality, after soaking in hot water, be bent on a
+hot mandrel with
+the face grain at 45° to
+the axis, allowing a factor of safety of 3
+against breakage?
+Starting at "2=0.160 inch" on
+the graph
+for hardwoods, R is
+found
+(line "a" on graph) to be 0.37 inch, which, multiplied by 3, gives 1.11 inches
+as the safe bending radius.
+What thickness of Douglas-fir plywood can be safely bent dry and unheated,
+with the face grain parallel with the axis of the bend, to a 9-inch radius?
+Using a
+factor of safety of 3, the breaking radius is read on the figure as 3
+(9-4-3= 3).
+From
+this radius on the softwood curve, the thickness is found
+(line "b" on graph) to be
+about 0.125 inch.
+5.6833. Compound Curvature.
+No simple
+criterion
+is
+available
+for predeter-
+mining whether a surface of compound curvature can be covered with flat plywood
+(5-33).
+Soaking the plywood and the use
+of heat during application are aids to
+manipulation.
+Some compound
+curvature can
+be imparted
+to
+flat plywood by
+die molding.
+Figure 5-91 illustrates one method of bending a flat sheet of plywood
+to double curvature.
+The plywood
+is
+first soaked
+in hot water and then dried
+between heated male and female forms that have been attached
+to a hydraulic
+
+--- PAGE 315 ---
+PROCESSING AND
+FABRICATION
+309
+Figure
+5-91.—Bending flat plywood to desired shape between heated plates.
+press.
+In case the use of fiat plywood on surfaces of compound curvature
+is con-
+templated,
+experiments
+to determine
+the
+possibility and
+the best procedure
+are
+recommended.
+The following discussion relates
+to the application of plywood to
+surfaces of single curvature.
+5.6834. Plywood Bent Without Softening.
+Thin
+plywood
+wing
+and
+fuselage
+skins are often applied without softening to the supporting structure with the face
+grain parallel
+(0° angle) or at a 45° angle to the axis of curvature.
+Either of these
+
+--- PAGE 316 ---
+310
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+directions permits a smaller radius of curvature, and the plywood can be bent with
+less force than when the face grain
+is circumferential or at right angles to the axis
+(90° angle).
+When bending
+at
+a 0°
+angle,
+small face checks
+will appear long before the
+breaking radius is reached.
+The radius at which these face checks become objection-
+able will vary with the species, thickness of face ply, and quality of surface required.
+Figure
+5-92.—Steam-bunding form fur plywood leading edge.
+5.6835. Plywood Bent After Soaking or Steaming.
+When only a portion of a
+flat sheet of plywood
+is to be bent to a severe radius of curvature,
+it
+is common
+practice to soak only this portion by sponging it until thoroughly wetted with hot
+or cold water before bending.
+A strip of wet cloth laid on the area to be bent will
+accomplish the same result as repeated sponging.
+If the entire piece
+is bent to a
+small radius, or if it is desired to reduce the force necessary to hold a piece of varying
+t
+r
+t
+RODS TO PNEUMATIC
+CYLINDERS
+Figure 5-93.—Cross section of steam-bending machine.
+radius of curvature in place while attaching
+it to the supporting frame, the whole
+sheet should be soaked or steamed.
+In either instance, the sheet can be bent over
+a form, preferably heated to facilitate the bending and to reduce the drying time,
+similar to that shown in figure 5-92.
+Steam-bending machines, the elements of one type of which are shown in figure
+5-93, are often used.
+These machines
+(fig. 5-94) can be automatically controlled
+by cycle timers, so that
+it
+is only necessary
+to insert flat sheets of plywood that
+
+--- PAGE 317 ---
+PROCESSING AND FABRICATION
+311
+Figure 5-94.—Commercial machine used for bending plywood.
+have been steamed or soaked and remove the bent pieces after an interval of 2 to 5
+minutes.
+For severe curvatures, the plywood
+is soaked for
+1
+to 2 hours at 150°
+to 200° F., and the mandrel
+is usually maintained
+at a temperature of 300° F. or
+higher.
+Following are examples of bends that have been produced commercially on a
+machine of this type:
+(1)
+Five-ply,
+all
+plies one-twenty-eighth
+inch
+birch.
+(Total
+thickness 0.178
+inch.)
+Face grain 90° (circumferential) to mandrel.
+Bent to 1-inch radius through
+an angle of 90°.
+(2) Three-ply, faces one-twentieth inch
+birch, core one-sixteenth inch po

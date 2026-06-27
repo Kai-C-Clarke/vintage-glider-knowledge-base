@@ -1,0 +1,2168 @@
+# ANC-18 Design of Wood Aircraft Structures
+
+
+--- PAGE 1 ---
+The contents uf
+t h
+1 >
+ia part without tpei
+letin shall not M
+authorization of the Aeronautical Board*
+
+--- PAGE 3 ---
+ANC— 18
+June, 1944
+ANC BULLETIN
+DESIGN OF WOOD
+AIRCRAFT STRUCTURES
+WAR DEPARTMENT
+ARMY AIR FORCES
+NAVY DEPARTMENT
+BUREAU OF AERONAUTICS
+DEPARTMENT OF COMMERCE
+CIVIL AERONAUTICS ADMINISTRATION
+Issued by the
+ARMY-NAVY-CIVIL COMMITTEE
+»
+on
+AIRCRAFT DESIGN CRITERIA
+Under the supervision of the
+AERONAUTICAL BOARD
+The contents of this bulletin shall not be reproduced in whole or
+in
+part without
+specific
+authorization of the Aeronautical Board.
+UNITED STATES GOVERNMENT PRINTING OFFICE
+WASHINGTON: 1944
+
+--- PAGE 4 ---
+This Bulletin
+by
+FOREST PRODUCTS LABORATORY
+FOREST SERVICE
+UNITED STATES DEPARTMENT OF AGRICULTURE
+and
+ARMY-NAVY-CIVIL COMMITTEE
+on
+AIRCRAFT DESIGN CRITERIA
+I]
+
+--- PAGE 5 ---
+NOTICE
+The reader is hereby notified that this bulletin is subject to revision and amend-
+ment when and where such
+revision
+or amendment
+is necessary
+to
+effect
+agreement with the latest approved information on aircraft design
+criteria.
+When using this bulletin, the reader should therefore make certain that
+it is
+the latest revision and that all issued amendments,
+if any, are known.
+Ill
+
+--- PAGE 6 ---
+TABLE OF CONTENTS
+Page
+CHAPTER
+1.
+GENERAL
+1
+1.0.
+Purpose and Use of Bulletin
+1
+1.1.
+Nomenclature
+,
+1
+CHAPTER 2.
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+9
+2.0.
+Physical Characteristics of Wood
+13
+2.1.
+Basic Strength and
+Elastic Properties of Wood-
+.
+.
+,
+16
+2.2.
+Columns
+28
+2.3.
+Beams
+30
+2.4.
+Torsion
+36
+2.5.
+Basic Strength and Elastic Properties of Plywood
+37
+2.6.
+Plywood Structural Elements
+59
+2.7.
+Flat Rectangular Plywood Panels
+76
+2.8.
+Curved Plywood Panels
+109
+2.9.
+Joints
+114
+CHAPTER 3.
+METHODS OF STRUCTURAL ANALYSIS
+131
+3.0.
+General
+133
+3.1.
+Wings
+135
+3.2.
+Fixed Tail Surfaces
+185
+3.3.
+Movable Control Surfaces
+185
+3.4.
+Fuselages
+185
+3.5.
+Hulls and Floats
+•
+199
+3.6.
+Miscellaneous
+201
+CHAPTER
+4.
+DETAIL STRUCTURAL DESIGN
+204
+4.0.
+General
+205
+4.1.
+Plywood Covering
+205
+4.2.
+Beams
+210
+4.3.
+Ribs
+216
+4.4.
+Frames and Bulkheads
+220
+4.5.
+Stiffeners
+220
+4.6.
+Glue Joints
+222
+4.7.
+Mechanical Joints
+224
+4.8.
+Miscellaneous Design Details
+227
+4.9.
+Examples of Actual Design Details
+233
+IV
+
+--- PAGE 7 ---
+CHAPTER
+1. GENERAL
+1.0. PURPOSE AND USE OF BULLETIN.
+1.00. Introduction.
+This bulletin has been prepared for use in the design of both
+military and commercial aircraft, and contains material which is acceptable to the Army
+Air Forces, Navy Bureau
+of Aeronautics, and
+the
+Civil Aeronautics Administration.
+It should, of course, be understood that methods and procedures other than those out-
+lined herein are also acceptable, provided they are properly substantiated and approved
+by the appropriate agency.
+The applicability and interpretation of the provisions of
+this bulletin as contract
+or
+certification
+requirements
+will
+in
+each
+case
+be
+defined
+by the procuring or certificating agency.
+1.01. Scope of Bulletin.
+The
+technical
+material
+in
+this
+bulletin
+is contained in
+chapters
+2,
+3, and
+4, and pertains to three related phases of the structural design of
+wood aircraft.
+Chapter 2 presents information on the strength and elastic properties of structural
+elements constructed of wood and plywood.
+This information supersedes that contained
+in the October 1940 edition of ANC-5, "Strength of Aircraft Elements."
+Those sections
+of chapter
+2, which are based on incomplete data or
+theoretical
+analysis, that have not been fully verified by test have been, as a caution, marked with
+a double asterisk.
+Those sections that are based on reasonably complete information
+but require further substantiating tests are marked with a single asterisk.
+The use of
+the various formulas and data in these sections should,
+therefore,
+be commensurate
+with the limitations noted.
+Since further research on the strength and elastic properties
+of wood and plywood structural elements
+is being actively
+carried on by the Forest
+Products Laboratory,
+it
+is anticipated that revisions to chapter 2
+will be made from
+time to time as this work progresses.
+Chapter 3 contains suggested methods of structural analysis for the design of various
+aircraft components.
+Although these methods are
+in many
+cases the same as those
+used for metal structures, special considerations have been introduced which take into
+account the orthotropic properties of wood.
+Chapter 4 presents recommendations on the detail structural design of wood air-
+craft and contains some examples of how various manufacturers have treated the solu-
+tion of specific
+detail design problems.
+1.02. Acknowledgement.
+The ANC Committee on Aircraft Design Criteria and
+the Forest Products Laboratory express
+their appreciation to
+aircraft manufacturers
+and others for the valuable assistance given
+in connection with various parts of this
+bulletin.
+1.1. NOMENCLATURE.This section presents the definitions of standard structural
+symbols which are used in the bulletin.
+In addition, sections 1.10 and 1.11 are presented
+to clarify the differentiation between the definitions for strength and elastic properties
+of plywood elements and those for like properties of plywood panels.
+These sections
+also outline the use of table 2-9.
+1
+
+--- PAGE 8 ---
+2
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+1.10. Definitions for Plywood Elements—Beams, Prisms and Columns
+in Com-
+pression, Strips in Tension. A plywood element
+is any rectangular piece of plywood
+that
+is supported, loaded, or restrained on two
+opposite edges
+only.
+In defining the
+various strength and elastic property terms for plywood elements; the face grain direc-
+tion has been used as a reference; for example, the subscript w denotes a direction
+parallel to (with) the face grain, while the subscript x denotes a direction perpendicular
+to
+(across) the face grain.
+This
+is illustrated by figure 1-1.
+The strength and elastic
+properties given in table 2-9 of the bulletin are for plywood elements.
+Figure 1-1.—Plywood element (supported, loaded, or restrained on two opposite edges only).
+1.11. Definitions for Plywood Panels
+1
+. A plywood panel
+is any rectangular piece
+of plywood that is supported, loaded, or restrained on more than two edges.
+In defining
+the various strength and related property terms for plywood panels, the side of length a
+rather than the face grain direction has been used as the reference. For any panel having
+tension or compression loads (either alone or accompanied by shear) the side of length a
+is the loaded side.
+For panels having only shear loads (with no tension or compression),
+the side a may be taken as either side.
+(Sec. 2.701).
+For panels having normal loads,
+side a is the shorter side. The subscripts a and
+1 denote a direction parallel to the side
+of length a, and the subscripts b and 2 denote a direction perpendicular to the side of
+length
+a.
+This
+is illustrated by
+figure 1-2.
+Since, in panels, the directions in which
+E a , E b , Ei, E2 , etc., are to be measured are related to the directions of the sides of lengths
+a and
+b,
+it
+is necessary to relate these directions to the face grain direction before the
+terms can be evaluated from table 2-9.
+It may be stated, therefore, that:
+TABLE Z-3
+TABLE 2-9
+b
+Ea
+.Ef, ETC— CANNOT BE
+L E
+i) ,E2 ,ETC—CANNOT BE
+EVALUATED UNTIL EACE
+EVALUATED UNTIL FACE
+GRAIN DIRECTION 15 KNOWN GRAIN DIRECTION 15 IfNO INN
+Figure 1-2.—Plywood panel (supported, loaded, or restrained on more than two edges).
+1 The designations for sides a and b as used herein are different from those used in ANC-5, in which
+the side of length h is defined as the loaded side in tension or compression and as the short side in shear
+
+--- PAGE 9 ---
+GENERAL
+3
+( 1
+) When the face grain direction of a plywood panel is parallel to the side of length
+a, the values of E a , E h , Eh E>, etc, may be taken from the columns for E w , E T , Efw , Efx ,
+etc., respectively, in table 2
+9.
+This
+is illustrated by figure 1-3.
+E^.E,, ETC.-VALUES FROM
+COLUMNS FOR EWt Efw,ETC.
+E^ ETC.- VALUES FROM
+COLUMNS FOR EXt Efx ,ETC. }
+RESPEC TI VEL Yt IN TABLE
+RE5PECTIVEL Y, IN TABLE
+Z-9
+2-9
+Figure 1-3.—Plywood panel (face grain direction parallel to side of length a).
+(2) When the face grain direction of a plywood panel
+is perpendicular to the side
+of length a, the values of E a , E b , E,, Eg,
+etc., may be taken from the' columns for E x,
+Ew , Efx , Efw , etc., respectively, in table 2-9.
+This
+is illustrated by figure 1-4.
+T
+a
+1
+////////////////////////////
+FACE GRAIN
+' DIRECTION
+V77777777,
+E„ E
+ETC-VALUES FROM
+7Z
+Eb ,Ez> ETC -VALUES FROM
+COL UMAI5 FOR Ex , Efx
+, ETC,
+COLUMNS E„
+t Efw ,ETC,
+RESPECTIVELY, IN TABLE
+RESPECTIVELY, 7n TABLE
+2.-3
+2-9
+Figure 1-4.—Plywood panel (face grain direction perpendicular to side of length a).
+1.12.
+STANDARD STRUCTURAL SYMBOLS FOR CHAPTER TWO.
+In
+general, symbols that are used only in the section where they are defined are not included
+in this nomenclature.
+»
+-area
+of
+cross
+section,
+square
+inches
+(total).
+-area of plies with grain direction parallel
+to the direction of applied stress.
+-The length of the loaded side of a ply-
+wood panel for compression or tension
+loads, and the length of either side for
+shear loads
+(Sec.
+2.701); subscript de-
+noting
+parallel
+to
+side
+of length a
+for
+plywood panels.
+
+--- PAGE 10 ---
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+-area
+of
+plies with
+grain
+direction
+per-
+pendicular
+to
+the
+direction
+of
+applied
+stress (surfaces of plies parallel to plane
+of
+glue
+joint
+tangential to the annual
+growth rings, as for rotary-cut or
+flat-
+sliced veneer, flat-sawn lumber).
+-area
+of
+plies with grain direction
+per-
+pendicular to the direction
+of
+applied
+stress (surfaces of plies parallel to plane
+of glue joint radial to the annual growth
+rings,
+as
+for
+quarter-sliced
+veneer,
+quarter-sawn lumber).
+circumference
+-diameter
+-modulus
+of
+elasticity
+of wood
+in
+the
+direction
+parallel
+to the
+grain,
+as
+de-
+termined
+from
+a
+static,
+bending
+test.
+(This value
+is listed
+in table 2-4.)
+-modulus
+of
+elasticity
+of wood
+in
+the
+direction
+radial
+to
+the annual growth
+rings.
+modulus
+of
+elasticity
+of wood
+in
+the
+direction tangential to the annual growth
+rings.
+modulus
+of
+elasticity
+of wood
+in
+the
+direction
+parallel
+to the
+grain,
+as
+de-
+termined
+from
+a
+compression
+test
+(value not
+listed
+in
+table 2-4, but ap-
+proximately equal to 1.1 El).
+-effective modulus
+of
+elasticity
+of
+ply-
+wood in tension or compression measured
+parallel to the side of length a of ply-
+wood panels.
+b
+—the length of the unloaded side of a ply-
+wood panel for compression or tension
+loads, and the length of either side for
+shear loads
+(Sec.
+2.701); subscript de-
+noting
+parallel to side of length
+b
+for
+plywood
+panels;
+subscript
+denoting
+"bending" for solid wood.
+br
+—subscript denoting "bearing."
+c
+—end-fixity
+coefficient for columns; sub-
+script denoting "compression
+'; distance
+from neutral axis to extreme fiber.
+c'
+—distance fr om neutral axis to the extreme
+fiber having grain direction
+parallel
+to
+the
+applied
+stress
+(plywood).
+cr
+—subscript denoting "critical."
+d
+—depth or height
+cz,
+—unit strain
+(tension
+or compression)
+in
+the L direction.
+cr
+—unit strain
+(tension or compression)
+in
+the R direction.
+ct
+—unit strain
+(tension or compression)
+in
+the T direction.
+(Lit
+-unit
+strain
+(shear)
+or
+the
+change
+in
+angle between lines originally drawn in
+the L and T directions,
+-unit
+strain
+(shear)
+or
+the
+change
+in
+angle between lines originally drawn
+in
+t he L and R directions,
+-unit
+strain
+(shear)
+or
+the
+change
+in
+angle between lines originally drawn in
+the T and R directions.
+
+--- PAGE 11 ---
+GENERAL
+5
+Eb
+—effective modulus
+of
+elasticity
+of
+ply-
+wood in tension or compression measured
+perpendicular to the side of length a of
+plywood panels.
+Ew
+—effective modulus
+of
+elasticity
+of
+ply-
+wood in tension or compression measured
+parallel to (with)
+the grain direction of
+the face plies.
+E x
+—effective modulus
+of
+elasticity
+of
+ply-
+wood in tension or compression measured
+perpendicular to
+(across) the grain
+<li-
+rection of the face plies.
+EfW
+—effective modulus
+of
+elasticity
+of
+ply-
+wood
+in
+flexure
+(bending)
+measured
+parallel to (with) the grain
+direction
+of
+the face plies.
+Efx
+—effective modulus
+of
+elasticity
+of
+ply-
+wood in flexure (bending) measured per-
+pendicular to (across) the grain direction
+of the face
+plies.
+E' X —same as EfX , except that outermost ply
+on tension side
+is neglected
+(not to he
+used in deflection formulas).
+E\
+—effective modulus
+of
+elasticity
+of
+ply-
+wood
+in
+flexure
+(bending)
+measured
+parallel to the side of length a
+of
+ply-
+wood panels.
+E-i
+—effective modulus
+of
+elasticity
+of
+ply-
+wood in flexure (bending) measured per-
+pendicular
+to
+the
+side
+of
+length
+a
+of
+plywood panels.
+F
+—allowable stress; stress determined from
+test.
+Fb
+—allowable
+bending
+stress.
+/''(,„ —modulus of rupture in bending for solid
+wood parallel to grain.
+FbP
+— fiber stress at proportional limit in bend-
+ing for solid wood parallel to grain.
+Fbrp —bearing
+stress
+at
+proportional
+limit
+parallel to the grain for solid wood.
+Fbrr —allowable
+ultimate
+bearing
+stress
+per-
+pendicular to grain for solid wood (either
+radial or tangential to the annual growth
+rings).
+Fbru —allowable ultimate bearing stress parallel
+to grain.
+/
+—internal (or calculated) stress; subscript
+denoting
+"flexure"
+(bending)
+for
+ply-
+wood.
+fb
+—internal
+(or
+calculated) primary bend-
+ing stress.
+fbr
+—internal
+(or
+calculated)
+bearing
+stress
+
+--- PAGE 12 ---
+i
+6
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+—allowable compressive stress.
+—critical
+compressive
+stress
+for
+the
+buckling of rectangular plywood panels.
+/„
+—internal
+(or
+calculated)
+compressive
+stress.
+jcL
+—internal
+(or
+calculated)
+compressive
+stress
+in
+a
+longitudinal
+ply;
+i.e., any
+ply with
+its grain
+direction
+parallel to
+the applied stress.
+FCp
+—stress at proportional limit in compres-
+sion parallel to grain for solid wood.
+FcpT —stress
+at
+proportional
+limit
+in
+com-
+pression perpendicular to grain for solid
+wood
+(either radial or tangential to the
+annual growth rings).
+Fcpw —stress at proportional limit in compres-
+sion for plywood having the face grain
+direction parallel to
+{with) the applied
+stress.
+FCPx —stress
+at
+proportional
+limit
+in
+com-
+pression
+for plywood
+having
+the
+face
+grain direction perpendicular to (across)
+the applied stress.
+F,,,e —stress
+at
+proportional
+limit
+in
+com-
+pression
+for plywood
+having the
+face
+grain
+direction
+at
+an
+angle
+6
+to
+the
+applied stress.
+Fcu
+—ultimate compressive
+stress
+parallel
+to
+\
+the grain for solid wood.
+FcuT —compressive
+strength
+perpendicular
+to
+grain
+for
+solid wood
+(either
+radial
+or
+tangential to the annual growth rings).
+Taken as 1 .33 times Fcpt-
+Fcnw —ultimate
+compressive
+stress
+for
+ply-
+wood having the
+face
+grain
+direction
+parallel to (with) the applied stress.
+FruI —ultimate compressive stress for plywood
+having the face grain direction perpen-
+dicular to
+(across) the applied stress.
+FcuO —ultimate compressive stress for plywood
+having the face grain
+direction
+at
+an
+angle 6 to the applied stress.
+Fs
+—allowable shearing
+stress.
+V
+—internal
+(or calculated) shearing stress.
+FScr —critical shear stress for the buckling of
+rectangular plywood panels.
+Fst
+—modulus of rupture in torsion.
+FSu
+—ultimate shear
+stress
+parallel
+to
+grain
+for solid wood.
+Fs dc —untimate
+shear
+stress
+for
+plywood,
+wherein 6 designates the angle between
+the face grain
+direction and the shear
+stress in a plywood element so loaded in
+shear that the face grain
+is stressed
+in
+compression.
+c
+
+--- PAGE 13 ---
+GENERAL
+7
+Fs 8t —ultimate
+shear
+stress
+for
+plywood,
+wherein 6 designates the angle between
+the face grain
+direction and the shear
+stress
+in a plywood element so loaded
+in shear that the face grain
+is stressed
+in tension.
+Fswx —ultimate shear
+stress
+for plywood
+ele-
+ments for the case where the face grain
+is at 0° and 90° to the shear stress.
+Ft
+—allowable tension stress.
+ft
+—internal
+(or
+calculated)
+tensile
+stress.
+ftL
+—internal (or calculated) tensile stress in
+a
+longitudinal
+ply
+(any
+ply
+with
+its
+grain
+direction
+parallel
+to the applied
+stress).
+Ftu
+—ultimate tensile stress parallel to grain
+for solid wood.
+FtUT —tensile strength perpendicular
+to grain
+for
+solid wood
+(either
+radial
+or
+tan-
+gential to the annual growth rings).
+FlUw —ultimate tensile stress for plywood hav-
+ing the face grain direction
+parallel to
+(with)
+the applied
+stress.
+Ftux —ultimate
+tensile
+stress
+for
+plywood
+having the face grain direction perpen-
+dicular
+to
+(across)
+the
+applied
+stress.
+FtuB —ultimate tensile stress for plywood hav-
+ing the face grain direction at an angle
+6 to the applied stress.
+G
+—mean modulus of rigidity taken as 1/16
+of EL.
+Gl,t —modulus of rigidity associated with shear
+deformations in the LT plane resulting
+from shear stresses in the LR and RT
+planes.
+Glr —modulus of rigidity associated with shear
+deformations in the LR plane resulting
+from shear stresses in the LT and RT
+planes.
+Gj r —modulus ot rigidity associated with shear
+deformations in the TR plane resulting
+from shear stresses in the LT and LR
+planes.
+H
+—
+I
+—moment of inertia.
+1 P
+—polar moment of inertia.
+,/
+—Torsion constant
+(Ip for round tubes).
+A"
+—a constant, generally empirical.
+L
+—length;
+span;
+subscript
+denoting
+the
+direction parallel to the grain.
+L
+L'
+=
+—where c is the end
+fixity coefficient.
+V
+c
+M
+—applied bending moment.
+N
+—
+h
+—height or depth.
+i
+—subscript denoting "ith ply."
+j
+—stiffness factor \/EI/P
+k
+—
+I
+—not used,
+to avoid confusion with the
+numeral
+1.
+in
+—
+n
+—number of plies.
+
+--- PAGE 14 ---
+8
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+P
+—applied load
+(total, not unit load).
+(J
+—static moment of a cross section.
+R
+—subscript denoting the direction
+radial
+to
+the
+annual growth
+rings and
+per-
+pendicular to the grain direction.
+S
+—shear force.
+T
+—applied torsional moment, torque; sub-
+script denoting the direction tangential
+to
+the
+annual
+growth
+rings and
+per-
+pendicular to the grain direction.
+U
+w
+—
+Z
+—section modulus, I/c
+Z,,
+—polar section modulus, I p /c.
+*
+—a single asterisk after a section number
+indicates that the section
+is based on
+resonably complete information but
+re-
+quires further substantiating tests.
+**
+—double asterisks indicate sections, based
+on
+incomplete data
+or
+theoretical
+an-
+alysis, that have not been fully verified
+by test.
+l>
+—subscript
+denoting
+"polar";
+subscript
+denoting "proportional limit"; load per
+unit area.
+psi
+—pounds per square inch.
+q
+—shear flow, pounds per inch.
+r
+—radius.
+s
+—subscript denoting "shear."
+t
+—thickness; subscript denoting "tension."
+i,
+—thickness of central ply.
+tj
+—thickness of face ply.
+u
+—subscript denoting "ultimate."
+w
+—deflection
+of plywood
+panels; load per
+linear inch; subscript denoting parallel
+to face grain ot plywood.
+x
+subscript denoting perpendicular to face
+grain of plywood.
+?/
+—distance from the neutral
+axis to any
+given fiber.
+2
+(i
+—the angle between side of length b and
+the
+face
+grain
+direction
+as
+used
+in
+the determination
+of
+buckling
+criteria
+for panels (Sec. 2.70).
+—deflection.
+—usually the acute angle in degrees be-
+tween the face grain direction and the
+direction
+of
+the
+applied
+stress;
+angle
+of twist in radians in a length (L).
+Illt —Poisson's ratio of contraction along the
+direction
+T
+to
+extension
+along
+the
+direction L
+due
+to
+a
+normal
+tensile
+stress on the RT plane; similarly,
+[llrj
+V-KT, V-TR, V-IiL, and \kTL-
+p
+—radius of gyration.
+4>
+—usually the acute angle in degrees be-
+tween the face grain direction and the
+axis of extension.
+
+--- PAGE 15 ---
+CHAPTER
+2. STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+TABLE OF CONTENTS
+2.0. PHYSICAL CHARACTERISTICS
+OF WOOD
+13
+2.00.
+Anisotropy of Wood
+13
+2.01.
+Density
+or Apparent
+Specific
+Gravity
+15
+2.02.
+Moisture Content
+15
+2.03.
+Shrinkage
+Hi
+2.1. BASIC STRENGTH AND ELAS-
+TIC PROPERTIES OF
+WOOD
+16
+2.10.
+Design Values, Table 2-3
+16
+2.100.
+Supplemental Notes
+21
+2.1000.
+Compression
+Perpendicular
+to
+Grain
+21
+2.1001.
+Compression Parallel to Grain
+.
+21
+2.11.
+Notes
+on
+the
+Use
+of
+Values
+in Table 2-3
+21
+*2.110.
+Relation
+of
+Design
+Values
+in
+Table 2-3 to Slope of Grain
+.
+.
+21
+2.111.
+Tension Parallel to Grain
+21
+2.112.
+Tension
+Perpendicular
+to
+Grain
+22
+2.12.
+Standard Test Procedures.
+22
+2.120.
+Static Bending
+22
+2.1200.
+Modulus of Elasticity (EL
+) ...
+22
+2.1201.
+Fiber
+Stress
+at
+Proportional
+Limit (Fbp )
+24
+2.1202.
+Modulus of Rupture (Fbll
+)
+24
+2.1203.
+Work to Maximum Load
+24
+2.121.
+Compression Parallel to Grain
+.
+24
+2.1210.
+Modulus of Elasticity (ELc
+) ...
+. 24
+2.1211.
+Fiber
+Stress
+at
+Proportional
+Limit (Fcp)
+25
+2.1212.
+Maximum
+Crushing
+Strength
+(Fcu)
+25
+2.122.
+Compression Perpendicular to
+Grain
+25
+2.123.
+Shear Parallel to Grain (Fsv ) ...
+25
+2.124.
+Hardness
+27
+2.125.
+Tension Perpendicular
+to
+Grain (FtuT)
+27
+2.13.
+Elastic
+Properties
+Not
+In-
+cluded in Table 2-3
+27
+2.130.
+Moduli
+of
+Elasticity
+Perpen-
+dicular to Grain (ET , Er).
+.
+.
+.
+27
+•2.131.
+Moduli of Rigidity (Glt, Glr,
+Gbt)
+27
+*2.132.
+Poisson's Ratios
+([/.)
+28
+2.14.
+Stress-Strain Relations
+28
+2.2. COLUMNS
+28
+2.20.
+Primary Failure
+28
+2.21.
+Local Buckling and Twisting
+Failure
+28
+2.22.
+Lateral Buckling
+23
+2.3. BEAMS
+30
+2.30.
+Form Factors
+30
+2.31.
+Torsional Instability
+32
+2.32.
+Combined Loadings
+32
+2.320.
+General
+32
+2.321.
+Bending and Compression
+32
+2.322.
+Bending and Tension
+34
+2.33.
+Shear Webs
+34
+2.34.
+Beam Section Efficiency
+34
+2.4. TORSION
+36
+2.40.
+General
+36
+2.41.
+Torsional Properties
+36
+2.5. BASIC STRENGTH AND ELASTIC
+PROPERTIES OF
+PLY-
+WOOD
+37
+2.50.
+General
+37
+2.51.
+Analysis
+of Plywood
+Strength
+Properties (General)
+38
+2.52.
+Basic Formulas
+39
+*2.53.
+Approximate
+Methods
+for
+Calculating Plywood
+Strengths
+42
+2.54.
+Moisture-Strength
+Relations
+for Plywood
+42
+2.540.
+General
+"
+42
+2.541.
+Approximate
+Methods
+for
+Making
+Moisture
+Correc-
+tions
+for Plywood
+Strength
+Properties
+42
+2.5410.
+Moisture Corrections
+for
+Ply-
+wood Compressive Strength
+(0° or 90° to Face Grain Di-
+rection)
+43
+*2.5411.
+Moisture Corrections
+for
+Ply-
+wood Tensile Strength (0° or
+90° to Face Grain Direction). 43
+*2.5412.
+Moisture
+Corrections for
+Ply-
+wood Shear Strength
+(0° or
+90° to Face Grain Direction). 43
+2.5413.
+Moisture
+Corrections
+for Ply-
+wood Compressive Strength
+(Any
+Angle
+to
+Face
+Grain
+Direction)
+43
+9
+
+--- PAGE 16 ---
+10
+2.5414.
+Moisture Corrections
+for
+Ply-
+wood
+Tensile
+Strength
+(Any
+AngletoFace Grain Direction)
+.
+43
+2.5415.
+Moisture Corrections
+for
+Ply-
+wood
+Shear Strength
+(Any
+Angleto Face Grain Direction ) 43
+2.55.
+Specific Gravity- Strength
+Re-
+lations for Plywood
+43
+2.56.
+Stress-Strain
+Relations
+for
+Wood and Plywood
+45
+2.560.
+Derivation
+of
+General Stress-
+Strain Relations for Plywood.
+.
+.
+46
+2.5600.
+Obtaining Strains from
+Given Stresses
+46
+2.5601.
+Obtaining Stresses from
+Given Strains
+46
+2.561.
+Stress-Strain
+Relations
+for
+Specific Cases
+49
+*2.5610.
+Stress -and Strain -Circle Con-
+stants
+49
+2.5611.
+Stress-Strain
+Relations
+in
+45° Plywood
+54
+2.56110. Tension
+at
+45°
+to
+the
+Face
+Grain
+55
+2.56111. Shear
+at
+45°
+to
+the
+Face
+Grain
+57
+*2. 56112. Experimental
+Stress -Strain
+Data
+59
+2.6. PLYWOOD STRUCTURAL
+ELE-
+MENTS
+59
+2.60.
+Elements (0 =0° or 90°)
+59
+2.600.
+Elements in Compression
+(6=0° or 90°)
+59
+*2.601.
+Elements in Tension
+(8=0° or90°)
+61
+*2.602.
+Elements in Shear
+(8 =9° or 90°)....
+61
+2.61.
+Elements
+(8 = Any Angle)
+61
+*2.610.
+Elements in Compression
+(6 = Any Angle)
+61
+2.61
+1
+.
+Elements in Tension
+(8 = Any Angle)
+62
+*2.612.
+Elements in Shear
+(8 = Any Angle)
+62
+*2.613.
+Elements
+in Combined Com-
+pression
+(or
+Tension)
+and
+Shear (6 = Any Angle)
+63
+2.614.
+Elements in Bending
+64
+**2.6140.
+Deflections
+65
+*2.615.
+Elements as Columns
+65
+2.7. FLAT RECTANGULAR PLY-
+WOOD PANELS
+76
+2.70.
+Buckling Criteria
+76
+2.71.
+General
+76
+*2.710.
+Compression or Shear
+.
+7G
+**2.711.
+Combined
+Compression
+(of
+Tension)
+and
+Shear
+Panel
+Edges Simply Supported
+77
+2.72.
+Allowable Shear
+in Plywood
+Webs
+96
+2.720.
+General
+'
+96
+*2.721.
+Allowable Shear Stresses
+96
+2.722.
+Use of Figure 2-41
+97
+*2.723.
+Buckling
+of
+Plywood
+Shear
+Webs
+100
+2.73.
+Lightening Holes
+'
+100
+*2.74.
+Torsional Strength and
+Rigidity of Box Spars
+100
+2.75.
+Plywood Panels Under Nor-
+mal Loads
+100
+2.750.
+General
+100
+2.751.
+Small Deflections
+100
+2.752.
+Large Deflections
+103
+2.76.
+Stiffened Flat Plywood Panels
+103
+*2.760.
+Effective Widths in Com-
+pression
+103
+*2.761.
+Compressive Strength
+105
+*2.7610.
+Modes of Failure in Stiffened
+Panels
+107
+*2.762.
+Bending
+107
+2.8. CURVED PLYWOOD PANELS. ...
+109
+**2.80.
+Buckling in Compression
+109
+*2.81.
+Strength
+in
+Compression
+or
+Shear:
+or
+Combined Com-
+pression
+(or
+Tension)
+and
+Shear
+109
+2.82.
+Circular
+Thin-Walled
+Ply-
+wood Cylinders
+109
+2.820.
+Compression with Face Grain
+Parallel
+or
+Perpendicular
+to
+the Axis of the Cylinder.
+.
+.
+.
+109
+*2.821.
+Compression
+with
+45°
+Face
+Grain.
+Ill
+2.822.
+Bending
+Ill
+*2.823.
+Torsion
+.'
+Ill
+2.824.
+Combined Torsion and
+Bending
+Ill
+2.9. JOINTS
+114
+2.90.
+Bolted Joints
+114
+2.900.
+Bearing
+Parallel and Perpen-
+dicular to Grain
+114
+2.901.
+Bearing
+at an Angle
+to
+the
+Grain
+115
+2.902.
+Bearing in Woods other than
+Spruce
+118
+2.903.
+Combined
+Concentric
+and
+Eccentric
+Loadings;
+Bolt
+Groups
+118
+2.904.
+Bolt Spacings
+118
+
+--- PAGE 17 ---
+11
+2.9040.
+Spacing
+of
+Bolts
+Loaded
+Parallel to the Grain
+119
+2.9041.
+Spacing
+of
+Bolts
+Loaded
+Perpendicular to the Grain.
+.
+119
+2.9042.
+Spacing of
+Bolts Loaded at
+an Angle to the Grain
+119
+2.9043.
+GeneralNoteson Bolt Spacing.
+119
+2.905.
+Effects of Reinforcing Plates
+.
+.
+121
+2.900.
+Bushings
+121
+2.907.
+Hollow Bolts
+121
+2.908.
+Bearing in Plywood
+122
+2.91.
+Glued Joints
+122
+2.910.
+Allowable
+Stress
+for
+Glued
+Joints
+122
+2.911.
+Laminated and Spliced Spars
+and Spar Flanges
+1 22
+2.912.
+Glue
+Stress
+Between
+Wel>
+and Flange
+122
+2.92.
+Properties of Modified
+Wood
+122
+2.920.
+Detailed Test Data for
+Tables 2-13 and 2-14
+123
+2.93.
+References
+129
+
+--- PAGE 19 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+2.0. PHYSICAL CHARACTERISTICS OF WOOD.
+2.00. Anisotropy of Wood.
+Wood, unlike most other commonly used structural
+materials,
+is not isotropic.
+It
+is a complex structural
+material,
+consisting essentially
+of fibers of cellulose cemented together by lignin.
+It is the shape, size, and arrangement
+of these fibers, together with their physical and chemical composition that govern the
+strength of wood, and account
+for the large difference in properties along and across
+the grain.
+The fibers are long and hollow tubes tapering toward the ends, which are closed.
+Besides these vertical fibers, which are oriented with their longer dimension lengthwise
+L
+Figure 2-1.—Wood
+cellular structure.
+Drawing cf a highly magnified block
+of softwood measuring
+about one-fortieth inch
+vertically:
+it, transverse surface;
+rr, radial surface;
+tg, tangential surface; ar,
+annual
+rings;
+urn, summerwood;
+sp, springwood;
+tr,
+tracheids,
+or
+fibers;
+hrd,
+horizontal
+resin duct;
+far, fusiform wood ray; wr, wood rays; L, direction (longitudinal) of grain; R, direction radial to annual
+rings and perpendicular to grain direction; T, direction tangential to annual rings and perpendicular
+to grain direction; vrd, vertical resin duct.
+13
+
+--- PAGE 20 ---
+14
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+of the tree and comprise the principal part of what
+is called wood,
+all species, except
+palms and yuccas, contain horizontal strips of cells known as rays, which are oriented
+radially and are an important part of the tree's food transfer and storage system. Among
+different species the rays differ widely in their size and prevalence.
+From the strength standpoint, this arrangement of fibers results in an anisotropic
+structure, that accounts for three Young's moduli differing by as much as 150 to 1, three
+shear moduli differing by as much as 20 to 1, six Poisson's ratios differing by as much as
+40 to
+1, and
+other
+properties
+differing by various amounts.
+Not
+all
+of these wood
+properties have, as yet, been thoroughly evaluated.
+Figure 2-1 shows a diagrammatic sketch of the cellular structure of wood.
+Each
+year's growth
+is represented by one annual ring.
+The portion of the growth occurring
+in the spring consists of relatively thin-walled
+fibers, while that occurring during 'the
+later portion of the growing season consists of fibers having somewhat heavier walls.
+Thus,
+there
+is,
+for most woods,
+a
+definite
+line
+of demarcation between the growth
+occurring in successive years. The relation between the cellular structure of the wood
+and the three principal axes—longitudinal
+(L), tangential (T), and radial (R)—is indi-
+cated on the sketch.
+Figure 2-2 shows the relation between these axes and (a) the log,
+ra) LOO
+C6) POTJ/?V C(/r l/£/V££/?
+OS? ££/!£- S4t*W /.VA/S£/?
+L
+Cc) Q(/A/?T£& 5l/C££ l/£W££P O/? ££&£ 0/?4/A/ L(JMg£/?
+Figxtre 2-2.—Principal directions in wood and plywood.
+
+--- PAGE 21 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+15
+(b) a flat-sawn board or rotary-cut veneer, and
+(c) an edge-grain board or quarter-
+sliced veneer.
+Table 2-1 — Variation
+oj wood strength properties with specific gravity
+1
+i or
+S = strength at specific gravity g
+.s" = strength at specific, gravity g'
+(usually average values from
+column
+(2)
+of table 2-3).
+Static bending:
+Fiber stress at proportional limit
+Modulus of rupture
+Modulus of elasticity
+Work to maximum load
+Total work
+Impact bending:
+Fiber stress at proportional limit
+Modulus of elasticity
+Height of drop
+1 Values in this table apply only to variations within a species.
+See section
+2.'
+1.50
+1.50
+1.25
+2.00
+2.25
+1.50
+1.25
+2.00
+Compression parallel to grain:
+Fiber stress at proportional limit
+Maximum crushing strength ....
+Modulus of elasticity
+Compression perpendicular to grain:
+Fiber stress at proportional limit
+Hardness—end, radial, tangential.
+.
+.
+1.25
+1.25
+1.25
+2.50
+2.50
+2.01. Density or Apparent Specific Gravity. The substance of which wood is com-
+posed
+is actually heavier than water,
+its specific gravity being nearly the same for
+all
+species and averaging about
+1.5.
+Since a certain proportion of the volume of wood
+is
+occupied by cell cavities, the apparent specific gravity of the wood of most species
+is
+less than unity.
+Relations between
+various
+strength
+properties
+and
+specific
+gravity
+have
+been
+developed
+(table 2-1) and are useful in estimating the strength of a piece of wood of
+known specific gravity.
+Considerable variability from these general relations
+is found,
+so that while they cannot be expected to give exact strength values, they do give good
+estimates of strength. Minimum permissible specific gravity values are listed in section
+2.10.
+The exponential values shown
+in
+table 2-1
+apply
+to
+variation within a species.
+That is, they are to be used in determining the relation between the strength properties
+of pieces of the same species but of different specific gravity.
+For expressing the relation
+between the average strength properties of different species, the exponential values are
+somewhat lower.
+Such values are shown in table 14 of U. S. Department of Agriculture
+Technical Bulletin 479
+(ref. 2-17).
+2.02. Moisture Content.
+Wood
+in the natural state
+in the
+living
+tree has con-
+siderable water associated with
+it.
+After being converted to lumber or other usable
+form, or during conversion, wood is commonly dried so that most of the water is removed.
+The water is associated with the wood in two ways, either absorbed in the cell walls,
+or as free water in the
+cell
+cavities.
+During drying, the free .water in the cell cavities
+
+--- PAGE 22 ---
+16
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+is removed
+first, then that absorbed in the cell walls. The point at which all the water
+has been removed from the cell cavities while the cell walls remain saturated is known as
+the fiber-saturation point.
+For most species, the moisture content at
+fiber saturation
+is from 22 to 30 percent of the weight of the dry wood.
+Lowering the moisture content to the fiber-saturation point results in no changes
+in dimension or in strength properties.
+Lowering the moisture content below the fiber-
+saturation point, however, results in shrinkage and an increase in strength properties.
+Wood
+is a hygroscopic material, continually giving off or taking on moisture in
+accordance with the relative humidity and temperature to which it
+is exposed.
+Thus,
+while the strength of a piece of wood may be increased to a relatively high value by
+drying to a low moisture content, some of that increase may be lost
+if, in use,
+it is ex-
+posed to atmospheric conditions that tend to increase the moisture
+content.
+While
+paint and other coatings may be employed to retard the rate of absorption of moisture
+by wood, they do not change
+its hygroscopic properties, thus a piece of wood may be
+expected to come to the same moisture content under the same exposure conditions
+whether painted or unpainted.
+The time required will vary, depending upon whether
+or not
+it
+is coated.
+It
+is desirable, therefore, to design a structure on the basis of the
+strength corresponding to the conditions of use.
+Moisture content
+is generally expressed as a percentage of the dry weight of the
+wood.
+The percentage variation of wood strength properties for
+1 percent change in
+moisture content is given in table 2-2.
+Since this variation
+is an exponential function,
+it is necessary that strength adjustments based on the percentage changes given in the
+table be made successively for each
+1 percent change in moisture content until the total
+change
+has been
+covered.
+2.03. Shrinkage.
+Reduction of moisture content below the fiber-saturation point
+results
+in a change in dimension of the wood.
+Shrinkage in the longitudinal direction
+is generally negligible, but in the other two directions
+it
+is considerable.
+In general,
+radial shrinkage
+is less than tangential, the
+ratio between
+the two varying with the
+species.
+A quarter-sawed board
+will, therefore, shrink
+less in width but more in thickness
+than a flat-sawed board.
+The smaller the ratio of radial to tangential shrinkage,
+the
+more advantage is to be gained through minimizing shrinkage in width by using a quarter-
+sawed board.
+The smaller the difference between radial and tangential shrinkage, the
+less, ordinarily,
+is the tendency to check in drying and to cup with changes in moisture
+content.
+In general, woods of high specific gravity shrink and swell more for a given change
+in moisture content than do woods of low specific gravity.
+2.1. BASIC STRENGTH AND ELASTIC PROPERTIES OF WOOD.
+2.10. Design Values, Table 2-3.
+Strength properties of various species for use in
+calculating the strength of aircraft elements are presented in table 2-3.
+Their applica-
+bility to the purpose is considered to have been substantiated by experience.
+The- as-
+sumptions (see footnotes to table 2-3), made in deriving the values in table 2-3 from the
+results of standard tests
+(sec. 2.12) particularly that relating to "duration of stress",
+are, however, being reexamined in the light of recent data and additional studies are
+under way to further clarify the basis of design.
+Included is experimental work to further
+
+--- PAGE 23 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+17
+Table
+2-2.
+Percentage
+increase
+(or
+decrease)
+in
+wood
+strength
+properties for
+one
+percent
+decrease
+(or increase) in moisture content
+1
+Static bending
+Com-
+pres-
+sion
+Com-
+Shear-
+parallel
+pres-
+ing
+F

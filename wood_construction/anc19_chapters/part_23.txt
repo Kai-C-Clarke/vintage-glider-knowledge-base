@@ -1,0 +1,1161 @@
+quirement of finish on
+all
+interior surfaces.
+5.781. Glue Squeeze-out and Other Contaminants.
+The incompatibility between
+glues and finishes affects finishes adversely when applied over glue squeeze-out or
+other contamination of the surface with
+glue.
+On interior enclosed
+surfaces, the
+nature of the gluing operations makes
+it difficult to minimize squeeze-out and inac-
+cessibility makes
+it hard to remove the excess glue subsequently.
+It
+is customary
+to apply interior finishes on enclosed surfaces directly over any glue squeeze-out
+that may be present even though
+it
+is realized that the hardened glue and finish
+often chip off
+in service, leaving a portion of the wood unprotected.
+On
+interior exposed
+surfaces and on
+exterior
+surfaces every
+practical
+effort
+should
+be made
+to
+prevent
+excessive
+squeeze-out
+during
+gluing.
+Specification
+AN-C-83 requires that such surfaces be free from squeeze-out extruded more than
+one-eighth inch beyond joints.
+Even one-eighth inch of glue, however,
+is enough
+to cause premature failure to finish over the glue, and the failure may then spread
+farther over the surface.
+Light sanding of areas contaminated with glue, enough
+to expose clean wood fibers for contact with the finish,
+is permitted.
+Other foreign substances soiling surfaces to be finished, such as oil or grease, are
+objectionable and should be removed as completely as possible.
+Naphtha ma}7 be
+used to sponge off oil or grease, but
+it should be applied first around the circumfer-
+ence of the soiled area, working in toward the center, in order to avoid spreading the
+oil or grease over a still larger area.
+At best, the contaminants can be removed only
+in
+part, hence the most effective precautions are those that prevent soiling of the
+surfaces in the first place.
+Care should be exercised in the choice of materials for placing inspector's mark-
+ings,
+part numbers, batch numbers, and other control information on areas that
+may become parts of the surfaces to receive finish.
+As far as practical such markings
+should be placed on faces that will ultimately be concealed from view, but in any
+case the marking material should be one that will not harm finishes.
+Grease-pencil
+and lumber-marking crayons containing wax are harmful.
+Ordinary soft graphite
+pencils and common stamp-pad inks made with water-soluble dyes may be used
+safely.
+Surfaces
+to be
+finished should be
+free from
+dust, sander dust,
+dirt, or other
+foreign solids.
+Sawdust, shavings, chips, and loosened glue squeeze-out should be
+removed from
+enclosed spaces before they become inaccessible.
+An
+air spray
+is
+useful for such cleaning but a vacuum cleaner
+is better and an old-fashioned tack
+rag (a rag made sticky with partly dried oil or varnish)
+still better.
+5.782. Exposed Edges of Plywood and Other End Grain Wood.
+Good
+design
+will minimize exposure of plywood edges and butt joints by scarfing or other details
+of construction.
+There may often be some edge exposure, however, at vent holes,
+inspection holes, and fittings.
+Taping of exposed edges is probably the safest procedure for providing effective
+protection of both the wood and the
+finish.
+Holes too small
+for taping, such
+as
+vent holes, can be closed with metal or plastic grommets.
+Specification AN-C-83
+requires that end-gram edges on interior parts receive
+at
+least two coats of sealer
+(system A) and, on exterior parts, at least three coats of sealer unless they are to
+be covered with doped
+fabric.
+Clear
+sealers, however,
+are not very
+effective on
+end-grain wood.
+Highly pigmented sealers are more effective.
+
+--- PAGE 341 ---
+PROCESSING AND FABRICATION
+335
+For end-grain surfaces and drilled holes in wood spars and other primary struc-
+tural members, Specification AN-C-83 requires that the surface be sanded smooth
+and finished with two coats of sealer plus one coat of aluminized varnish conforming
+to Specification AN-P-31, except that the bituminous paint may not be used on
+surfaces
+to receive additional
+coats
+of
+finish
+or
+that may come
+in
+contact with
+gasoline or with personnel.
+5.783. Nail Holes or Nail Heads.
+Flush-driven nails or screws left in exterior
+surfaces to be finished are likely to prove points of premature failure of the finish
+.
+The finish usually cracks over the junction of wood and metal and the failure pro-
+gresses from the crack.
+Specification AN-C-83 requires that nail or screw heads be
+taped after application of sealer.
+Nail holes left from nail-strip gluing or countersunk nails or screws should be
+filled before further finish is applied.
+Holes in woods on which wood filler is applied
+should be filled sufficiently to protect the wood and the durability of the finish, but
+filler alone
+will not make them level enough
+to be entirely concealed from view.
+Very small holes may be leveled after the application and sanding of a surfacer, but
+larger ones will
+still appear as slight depressions.
+If such
+slight
+depressions
+are
+considered objectionable enough to require further leveling, they must be puttied
+by hand with a quick-drying putty that
+is known to be compatible with the finish-
+ing system.
+As a rule, however, a more durable finish may be expected if the putty-
+ing is omitted and the slight depressions over the holes allowed to remain visible.
+On woods having no pores large enough to require wood
+filler, and where slight
+depressions in the finish over nail holes will be acceptable, wood filler may be applied
+over the areas hi which there are nail holes only.
+This may be done most easily
+on the bare wood before sealer is applied.
+5.784.
+Effect of Seams in Plywood Faces.
+When seams in face veneers of ply-
+wood have been well glued with water-resistant
+glue, they have no
+effect on
+the
+behavior of finish.
+The finish should remain as intact over the seam as it does over
+the parts of the surface having no seams, except where glue squeeze-out occurs.
+Unglued seams
+are
+likely
+to
+cause
+cracking
+of
+the
+finish.
+The
+thicker
+the
+face ply, the earlier the cracking may be expected to set
+in, and the wider will be
+the crack formed.
+Where the face ply
+is no thicker than one thirty-second inch,
+cracking
+of
+the
+finish, though readily
+visible, may not
+represent
+too
+serious an
+impairment in the durability of the finish.
+If it is considered necessary to prevent
+such cracking, however, the joints may be covered with fabric or paper tape.
+Fabric
+tape
+is cemented in place with dope, paper tape with either dope
+or, better, with
+sealer or varnish.
+5.785. Maintenance of Finishes.
+Gloss
+finishes
+of enamel or lacquer tend
+to
+lose their gloss after exposure to the weather for some time.
+Eventually the color
+apparently fades and
+the surface begins
+to
+chalk.
+The
+gloss and
+color can be
+restored, and any dirt deposited on the surface removed, by washing at intervals
+with mild soap and water.
+Strongly alkaline soap or cleaning agents may soften
+the surface of the finish enough to result in removal of an excessive amount of
+it
+with each washing; hence, they should not be used.
+Camouflage
+finishes
+are
+inclined
+to become more
+glossy
+if they
+are rubbed
+either when dry or in the course
+of washing.
+They should be washed
+as
+infre-
+quently as possible, and then with the least amount of rubbing practicable.
+Refinishing,
+unless the old finish
+is removed completely, adds weight to the
+surface.
+If done frequently, the added weight may impair the performance of the
+craft.
+For that reason,
+refinishing should be done
+as seldom
+as
+is practical and
+then with a minimum weight of enamel or lacquer, preferably of the kind applied
+when the craft was made.
+If the old finish
+is badly cracked,
+it should be sanded
+down as nearly as possible to the bare wood before being refinished.
+
+--- PAGE 342 ---
+336
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.79- Finishing References.
+(5-54) Browne, F. L.
+1931.
+ADHESION
+IN THE PAINTING AND
+IN THE GLUING
+OF WOOD.
+Indus. &
+Eng.
+Chem. 23:290.
+1936.
+EFFECTIVENESS OF PAINTS AS PROTECTIVE COATINGS FOR WOOD.
+Forest Products
+Laboratory mimeograph R974;
+Indus. &
+Eng.
+Chem.
+25:835
+(1933)
+and
+28:798 (1936).
+1940.
+the
+two-coat
+system
+of
+house
+painting.
+Forest
+Products
+Laboratory
+mimeograph R1259; Indus. & Eng. Chem. 33, 900 (1941).
+(5-55)
+(5-56)
+(5-57)
+1942.
+finishing
+wood
+in
+aircraft.
+Forest
+Products
+Laboratory
+mimeograph
+No. 1396.
+Restricted.
+(5-58)
+, Laughnan, D. F., Heebink, B. G. and Fleischer, H. O.
+1943.
+A STUDY OF temperatures attained in a dummy aircraft wing during the
+summer at madison, Wisconsin.
+Forest Products Laboratory mimeograph
+No. 1343-B.
+Restricted.
+(5-59) Hood, M.
+J.
+1939.
+the
+effects
+of
+some common
+surface
+irregularities
+on
+wing
+drag.
+Natl. Adv. Com. for Aeronautics Technical Note No. 695.
+(5-60) Hunt, G. M.
+1930.
+effectiveness
+of moisture-excluding
+coatings on wood.
+U.
+S.
+Dept.
+Agr.
+Circ.
+128.
+5.8 PROPELLER MANUFACTURE
+5.80. General.
+Propellers are usually made in special propeller plants.
+Their
+manufacture requires equipment not usually available in aircraft factories.
+The making of wood propellers involves five main steps, namely:
+(1) selecting
+and preparing the laminations, (2) gluing, (3) profiling, (4) tipping, and (5) finishing.
+Nominal
+1-inch lumber
+is commonly used
+in
+the making
+of ordinary wood
+propellers.
+Species permitted and quality of material required are covered by the
+current issues of Army-Navy Aeronautical Specifications AN-L-18 and AN-P-15a
+and Civil Aeronautics Manual 14.
+5.81. Gluing Technique.
+The thickness and
+size of propeller blocks preclude
+the use of glues that require the application of heat to
+effect their setting, except
+where suitable conti oiled humidity heating chambers or electrostatic heating equip-
+ment
+are
+available.
+Of
+the
+heat-setting
+glues,
+the
+alkaline-catalyzed,
+phenol-
+formaldehyde glues are reported
+to be used for this purpose.
+Of the cold-setting
+glues, the cold-setting, urea resins and caseins have sufficient water resistance for
+this purpose, but under
+the current Army Navy
+specification covering propeller
+and test club manufacture only the cold-setting urea resins conforming to current
+Army-Navy
+specifications
+on
+these
+glues
+are
+permitted.
+The
+water-resistant
+casein glues are permitted by the Civil Aeronautics Administration.
+The glues should be mixed according to the instructions of the manufacturers.
+For the casein glues, a 5 to 10 percent reduction in water content over that recom-
+mended for normal gluing operations aids
+in preventing starved
+joint conditions
+sec. 5.270).
+5.810. Preparation
+of Lamination
+for Gluing.
+In
+the manufacture of propel-
+lers it is important that the laminations before gluing be uniformly dry and that
+all
+laminations be conditioned
+to the same moisture content.
+The average moisture
+content of the wood at the time of gluing should be between 5 and 7 percent but the
+maximum difference between any two laminations in any one propeller should not
+exceed 2 percent.
+These limitations are most easily met in rooms or plants where
+the relative humidity is controlled
+(sec. 5.1).
+In providing laminations of the proper widths,
+it may be necessary to edge-glue
+narrow pieces.
+The gluing technique employed in making edge to edge joints should
+follow that recommended later for gluing the laminations
+together.
+The edge to
+
+--- PAGE 343 ---
+PROCESSING AND FABRICATION
+337
+edge gluing should be the first gluing operations and should be completed in time to
+allow
+a conditioning period
+of
+at
+least
+3 days
+before
+the
+final
+surfacing
+of
+the
+laminations.
+From the standpoint of minimizing changes in shape of the finished propeller,
+it
+is highly desirable that all laminations in any one propeller be of either flat-sawn or
+quarter-sawn material and
+of
+a
+single
+species.
+Boards
+that
+are
+truly
+flat-sawn
+should not be glued to boards that are truly quarter-sawn, because of their difference
+in shrinkage with moisture content changes.
+It is also desirable to arrange adjacent
+laminations of flat-sawn stock so the growth rings of one are reversed in position and
+direction to the other to further minimize stresses and distortion.
+Laminations may be cut from the boards in such shapes that, when combined,
+they form
+the approximate
+contour
+of
+the
+propeller
+or
+to
+dimensions
+that
+are
+equivalent to the over-all length and width of the propeller.
+Making all laminations
+of the same width is somewhat more wasteful of material than cutting them to the
+approximate contour of the propeller, since a larger amount of material
+is taken off
+in the shaping operation.
+However,
+this waste
+is reduced somewhat by placing
+defects
+in those portions that are cut away.
+The full-width laminations require
+somewhat more attention in assembly to keep them in proper order, but uniform and
+adequate gluing
+pressure
+is more easily applied to them.
+By either method, the
+lumber is first surfaced lightly so as to reveal the grain and any defects which may be
+present.
+By the use of patterns the laminations are then outlined on the boards.
+Contoured laminations are later band-sawed.
+Care should be exercised that defects
+are eliminated and that the grain
+is approximately parallel to the longitudinal axis
+of the laminations.
+Usually the laminations are then bored at a point equivalent to the center of the
+hub, assembled as they will later be glued in the complete propeller, and tested for
+approximate balance.
+This facilitates the final balancing of the propeller.
+Some
+shifting and interchanging of laminations is usually necessary to bring about approx-
+imate balance.
+Thereafter, the laminations are surfaced to final thickness.
+Final surfacing of the laminations should occur immediately before gluing.
+The
+surfaces should be smooth and even and each lamination should be uniform
+in
+thickness throughout its length and width.
+5.811. Gluing.
+The
+essential procedures
+in
+gluing
+propellers
+are
+similar
+to
+those involved
+in
+gluing
+straight, laminated members
+described
+in
+section
+5.42,
+except that the species used are different.
+The propeller species are hardwoods of
+rather high
+specific gravity and require somewhat more closely controlled gluing
+conditions than for gluing the lighter-weight species
+(sec. 5.27).
+5.812. Glue Spread.
+The glue should be spread on the surfaces by machine,
+which gives a more uniform coating and reduces the time otherwise spent in spreading
+by hand.
+The amount of wet glue spread, applied on one of the two contact surfaces,
+per 1,000 square feet of single glue line should be between 45 and 50 pounds of resin
+glue and between 65 and 75 pounds of casein glue.
+In operations where the assembly
+period
+is prolonged,
+it
+is advisable to spread both joint surfaces, in which case the
+above-recommended amount of glue spread per unit area of joint should be increased
+about 25 percent, one-half the total quantity of glue being spread on each
+of
+the
+contacting surfaces.
+5.813. Assembly Time.
+The glue-coated laminations should be laid together as
+soon as spread.
+The interval between spreading the first glue and the application of
+pressure should not exceed 20 minutes with casein and cold-setting, urea-resin glues
+and
+it is desirable to keep the assembly time within the limits of 5 and 15 minutes.
+The permissible assembly periods for the low-temperature phenols vary with different
+glues but they are usually longer than for cold-setting, urea resins and caseins.
+5.814. Temperature.
+Gluing with cold-setting, urea-resin glues should not be
+carried out when the temperature of the glue, the gluing room, or the wood is below
+
+--- PAGE 344 ---
+338
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+70° F.
+Temperature limitations are less critical for casein glue.
+Information on the
+curing time and temperature relations
+of the low-temperature phenol and
+high-
+temperature setting resin glues
+is given in sec. 5.263.
+5.815.
+Pressing.
+For the species used in propellers, gluing pressures of 200 to
+250 pounds per square inch are recommended.
+Where laminations are cut to the approximate profile of the propeller, an ade-
+quate and uniform distribution of pressures during the gluing operation is somewhat
+complicated because the laminations in the blade section are of different widths and
+are echeloned from top to bottom.
+The difficulty
+is often remedied by extensive
+use of blocking so arranged that each lamination
+is filled out to approximately the
+same width and length.
+If this system is used,
+it
+is important
+that
+the
+blocking
+material be planed to the same thickness as the laminations.
+Variations in thickness
+of blocking material should not exceed 0.002 inch.
+Uniformity can be assured if the
+blocking material
+is prepared at the same time and with the same machine setting
+as the propeller laminations themselves.
+If the thickness of the blocking is not the
+same as that of the corresponding lamination, the gluing pressure will not be uni-
+formly distributed.
+When the blocking
+is so arranged the gluing pressure can be
+applied in a screw press of the type illustrated in figure 5-37.
+Some operators reduce the amount of blocking by the use of a great number of
+hand clamps.
+The use of hand clamps offers difficulty in securing adequate pressure.
+Even with the heavier type of C-clamps (table 5-13) and by crowding the work with
+clamps adequate pressures may not be obtained.
+Further, the use of many clamps
+retards the assembly operation and results in a delay between spreading and pressing
+that may prove critical, therefore, this method is not recommended.
+Another method
+is the use of a permanent jig, constructed to receive in its proper
+place each lamination of a propeller of a given size.
+The use of such a jig facilitates
+the assembly of the laminations but
+offers other difficulties.
+It necessitates very
+exact machining of the laminations of successive propellers so that the thicknesses
+are constant.
+If the jig is made of wood it should be stored in an atmosphere where
+the humidity
+is controlled to prevent dimension changes in the
+jig.
+Coating the
+surfaces of the jig with wax aids in preventing adhesion of glue and avoids damage
+when excess glue
+is removed.
+Applying a uniform and well-distributed pressure to laminations that are all of
+equal width and laid directly over each other is not difficult with pressures of the
+type illustrated in figure 5-37.
+Hand clamps are not well suited to this method.
+Pressure equipment sometimes used consists of several small but strongly constructed
+units of a screw-type press, all built to the same design and size.
+Any desired num-
+ber of these units are then aligned on tracks, which are firmly fixed for the purpose
+to a good foundation, to provide a press whose length may be made to suit the length
+of the propeller.
+5.816. Conditioning.
+Tests show that wood propellers change their form, blade
+angle, and balance when the moisture content of the assembly is changed appreciably,
+either by absorption or by drying out.
+It is desirable, in the manufacturing process,
+to maintain a constant average moisture content of the block during the entire pro-
+cedure, including the shaping and finishing operations.
+This control of moisture
+content can only be met in adequately conditioned rooms or plants.
+The moisture
+content of the propeller assembly
+is increased during gluing with cold-setting glues
+due to the moisture supplied by the glue (sec. 5.20).
+When three-fourth-inch lumber
+is glued with cold-setting, urea-resin glues, this moisture increase is about
+1 percent.
+With casein glues the moisture increase
+is about
+2
+percent.
+This moisture
+will
+diffuse through the wood and the blocks as a whole will not change moisture content
+if they are held in controlled humidity rooms which maintain a moisture content
+equilibrium for wood at
+1 to 2 percent above the moisture content of the laminations
+at the time of gluing.
+Under room temperatures the conditioning should continue
+
+--- PAGE 345 ---
+PROCESSING AND FABRICATION
+339
+for at least 2 days before rough carving and from 5 to 7 additional days before finish
+carving, or a total conditioning period of
+7
+to 9 days.
+Moisture diffuses through
+cherry, mahogany, the oaks, and walnut somewhat more slowly than through birch
+and maple; consequently,
+blocks made from
+the
+first group
+of species should be
+allowed the longer conditioning period.
+By using a higher temperature, as 120° F.,
+the conditioning period suggested for room temperature may be reduced by approxi-
+mately one-half.
+5.82. Shaping Propellers.
+After
+conditioning,
+the
+propeller
+blanks must
+be
+formed into finished shape by cutting and carving, partly by machine and partly by
+hand.
+Before shaping, hub faces should be made parallel with the centerline of the
+propeller.
+This insures drilling of the center bore 90 degrees to the centerline.
+5.820. Rough Cutting.
+Square blanks require a preliminary roughing
+cut
+to
+bring them to approximate form before the final shaping operations can begin.
+Pre-
+liminary cutting of this kind is conveniently done by a wide dado head.
+Roughly
+formed,
+originally
+square
+blocks and
+blocks formed
+of band-sawn
+laminations are rough-cut to nearly finish size by several methods.
+One method employs power-driven hand planers with which the operator can
+cut at any angle or position he chooses.
+As the final form
+is approached,
+it
+is fre-
+quently checked against templates to guard against the removal of too much stock.
+Contouring machines, duplicating the form of a master model, are excellent for
+final rough cutting of this kind.
+Machines may cut only one propeller or blade at a
+time,
+or may be arranged
+to handle
+five or
+six simultaneously from one master.
+With rigid supports and carefully mounted stock,
+it
+is possible to cut to nearly the
+finished shape, leaving only a small amount of hand working to bring the surfaces
+to final form and to balance the blades.
+Heavy blocks,
+particularly those originally square
+in
+section,
+are likely
+to be
+subject to internal stresses which are released in cutting and cause some twist or
+warp.
+To allow such stresses to come to equilibrium, rough-cut blanks are stored
+for periods ranging from several days to a week before the finishing operations begin
+It
+is desirable to allow several days to elapse after each cut—preliminary roughing
+and final roughing—before the next
+is begun.
+The final roughing cut should be no
+closer than
+}% inch to the finished surface.
+5.821. Finish Cutting and Balancing.
+Leading and
+trailing
+edges
+are
+cut by
+rigidly mounting the block on
+a template which
+is moved against the collar of a
+shaper, which
+in turn cuts
+all edges in one continuous operation.
+This procedure
+requires that the blade be mounted on the template in such a way as to bring the
+true leading and
+trailing edges in contact with the shaper head.
+Rough edge pro-
+filing may be done before rather than
+after rough shaping,
+particularly
+if rough
+shaping
+is done on a contouring machine, rather than by hand-guided planer.
+Final shaping and smoothing are done by hand.
+Tools required
+are
+planes,
+spoke shaves, cabinet scrapers,
+files, and sandpaper of varying degrees of fineness.
+The finishing stage may advantageously be performed with the blade supported
+by a special upright mount on which the propeller can be fixed at such an angle
+that all surfaces are readily accessible to the finisher.
+As the work proceeds, the outlines of the blade must be checked continuously
+by template, separate templates being required for positions on the two faces of the
+blade at frequent intervals along its length.
+The templates are cut to fit the finished
+contour of the blade from leading to trailing edges, which, having been cut to true
+profile, act as base lines from which
+to work.
+Furthermore,
+if the templates are
+provided with protractors and levels, they can quickly be placed in proper position
+with respect to the axis of the blade, which
+is mounted at a fixed angle on its support.
+The finisher gradually works down the material until all templates fit snugly at their
+proper positions.
+It
+is important that blades be carved to the maximum allowable
+plus tolerances, particularly with regard to width and thickness.
+This immediately
+
+--- PAGE 346 ---
+340
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+becomes apparent when it is necessary to remove material from some portion of the
+propeller in order to achieve balance (sec. 5.523).
+5.822. Boring Hub.
+One-piece propellers, continuous from tip to tip, must have
+their hubs bored to receive the propeller shaft fittings and the bolts which hold the
+fittings in place.
+The current Specification AN-P-15a describes acceptable methods
+and allowable tolerances.
+These cuts must be accurately centered on the hub
+to
+avoid unbalance and must be perpendicular to the axial plane of the propeller.
+Bor-
+ing for the fittings can be accomplished by wing cutters after a pilot hole has been
+bored.
+Pilots are sometimes bored in the original laminations at the time these are
+marked and
+cut, and the laminations are assembled
+for gluing by driving a pin
+through the pilot holes.
+In other operations, the finished blade is placed in a jig on
+the boring machine which automatically centers
+it for boring the pilot.
+In either
+instance, once the pilot hole is bored, boring of the large hub hole is best accomplished
+by means of a wing cutter mounted on a spindle held at one end by the boring head
+and at the other by a pilot bushing in the table of the press.
+Bolt holes should be bored from both sides to prevent the bits from wandering.
+Any of the methods discussed in section 5.66 or prescribed
+in the current Army-
+Navy Specification AN-P-15a may be employed.
+5.823. Balancing.
+To prevent unbalance and vibration, the blades of a pro-
+peller must be equal in weight, and the weight should be distributed as equally as
+possible in the two blades.
+Each propeller must consequently be tested for balance.
+This is done by mounting it on a balancing arbor and allowing it to rotate while the
+arbor rolls on hardened steel ways, mounted in such a manner that it is free from all
+floor vibration.
+If the propeller rotates uniformly,
+or
+will stand
+in any position
+without any tendency to rock back and forth, its balance is satisfactory.
+If not, the
+heavier blade m ust be lightly scraped and sanded throughout its length until balance
+is
+achieved,
+care being taken
+to
+insure
+that minus
+thickness
+tolerances
+are not
+exceeded.
+5.824. Checking.
+The final step in the woodworking operation
+is a complete
+check-over.
+The blade
+is mounted on a hub fitting and
+is carefully checked on an
+alinement jig for trueness of leading and trailing edges, as well as for
+profile and con-
+tour throughout its length.
+This jig is arranged with a series of points which follow
+the true outline of the leading and trailing edges and quickly reveal any excessive
+deviations
+in
+size or alinement.
+Contours are checked by templates
+of the type
+employed in the finishing operation.
+5.83. Protection Against Abrasion.
+The
+tips and
+leading edges
+of
+propellers
+are subject to abrasion and must be protected.
+Commonly this takes the form of a
+cloth covering for the outer portion of the blade plus a metal strip bent over the
+leading edge and tip.
+The cloth
+is cut to the proper shape, stretched over the tip,
+and cemented
+in place.
+The metal edging is formed to lap over the tip a matter of
+several inches on each side and to lap the leading edge approximately
+1 inch.
+Details
+of the application of the fabric sheeting and metal leading edge for protection against
+abrasion are given in the current issue of Army-Navy Specification AN-P-15a.
+The metal should be applied over the third coat of
+finish, and
+it should be
+secured by brass or plated-steel, flat-head wood screws, except in the thin section
+near the tip. where brass or copper rivets may be used.
+The block should be bored
+for the screws and countersunk for the screwheads.
+The countersunk holes should
+be coated with a protective finish, and the metal should be dimpled into the counter-
+sunk holes to avoid damage to the wood.
+The rivets should be placed by essentially
+the same method.
+5.84. Finishing Propellers.
+Propellers
+are
+finished
+primarily
+for
+protection
+against weathering and against rapid changes in moisture content.
+Finishes may
+also offer some resistance against mechanical wear on the surface.
+Finishes of high
+moisture-excluding effectiveness are required if the propeller is likely to be exposed to
+
+--- PAGE 347 ---
+PROCESSING AND FABRICATION
+341
+dampness for long periods; for example, during overseas shipment in the bold of a
+vessel.
+If the airplane has a camouflage finish the propeller must be given a dull,
+not a glossy, finish.
+Camouflage finishes of dark color should be as high in infrared
+reflectance as possible.
+Ordinary camouflage finishes are likely to be low in infrared
+reflectance, in which case they lead to development of high temperatures ai'd low
+moisture contents.
+Black is a particularly bad color from this point of view and has
+been shown to lead to increased rejections of wood propellers in service in the south-
+western part of the United States, the rejections coming from checking of the wood
+and delamination of glued joints.
+For a discussion of finishes and finishing processes, particularly
+for moisture-
+excluding effectiveness of finishes, see the discussion under section 5.7.
+Some authorities favor transparent finishes so
+that the grain of the wood
+is
+visible.
+However, for high moisture-excluding effectiveness, the pigmented finishes
+such as enamels are distinctly superior to the transparent finishes, and aluminized
+finishes are particularly high
+in
+effectiveness.
+Moreover, enamel
+finishes always
+crack when the wood beneath them develops checks or cracks.
+Small cracks in a
+smooth enamel, even
+in
+a
+dull camouflage enamel,
+are more
+easily detected than
+they are in the surface of the wood itself or in surfaces with transparent finishes.
+The
+finish
+should
+be
+applied
+as soon
+as
+practicable
+after
+conditioning ami
+profiling to exact shape.
+Current Specification AN-P-15a requues three dip coats of sealer conforming to
+current
+Specification
+AN-S-17,
+spar
+varnish
+Specification
+AN-TT-V-116,
+or
+phenolic spar varnish current Specification AN-TT-V-1 18, with light sanding after
+each coat.
+The sealer may be reduced to not less than
+18 percent nonvolatile for
+dipping.
+The metal tipping shall be applied after the third coat of sealer has dried
+and has been sanded.
+Two additional coats of sealer or varnish, as previously used
+for dipping, are then applied by spraying or brushing essentially at package consist-
+ency.
+If a camouflage finish
+is required, one coat of infrared reflecting enamel
+is
+specified in addition to the five coats mentioned above.
+It
+is customary to put one or two pinhole vents in the extreme tip of the metal
+covering in order to throw out any water that may collect by condensation between
+metal and wood.
+The
+final balancing
+of the propeller
+is accomplished by applying additional
+varnish or enamel to the light side of the blades.
+5.85. Veneer Propellers.
+Wood-veneer propellers, both of the fixed pitch type
+and with detachable blades, are now being built of hard maple veneer.
+The method
+commonly used
+is to build a block out
+of $ 8-inch
+thick hard maple veneer.
+The
+sheets of veneer are laid with a 30° included angle with relation to the grain of the
+wood, and gluing
+is done with a thermosetting synthetic resin glue.
+Propellers of
+this construction have been reported to show superior wear resistance and strength
+properties over
+t
+1 ose built with %-inch thick lumber laminations.
+5.86. Densified Wood Propellers.
+Reference
+has been made
+in
+section
+3.34
+to the use ol "compreg" or densihed wood in propellers.
+In general, developments
+in the use of "compreg" or densified wood in propellers have followed one of three
+basic ideas.
+According
+to one method, the hub section
+is made of "compreg" or
+densified wood ami joined by a long scarf joint to a blade of normal wood.
+Propellers
+embodying
+t*
+is design have been produced in quantity, and the technique of manu-
+facture
+is well beyond the experimental stage.
+The design, of course, involves the
+gluing of compreg to normal wood and compreg to compreg.
+The gluing of compreg
+to itself and to normal wood
+is discussed under section 5.272.
+In
+a second method,
+the
+properties
+of compreg and impreg
+are
+utilized
+to
+produce a propeller witli a high-density, compregnated hub changing gradually to a
+normal- density, impregnated blade.
+A
+propeller of this design
+is usually made of
+many plies of thin veneer, with the number of plies decreasing progressively from the
+
+--- PAGE 348 ---
+342
+AXC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+hub to the blade.
+When pressed between the platens of a hot press, the hub section,
+containing the greatest number of plies, is highly compressed, while the blade tip may
+receive no more than normal gluing pressure and the compression is negligible.
+In
+the
+third method
+all
+plies
+are impregnated and
+appreciably compressed.
+Such propellers can be carved from
+(1) thick compreg blanks or
+(2) blanks glued up
+from thin compreg panels, or they can be molded from
+(3) precurved, uncompressed
+blanks of greater thickness than the final blade, or from
+(4) tapered plies laid up in
+the mold
+(sec.
+3.32).
+In
+all
+four of these modifications the
+electrostatic heating
+method could be used to advantage.
+In modifications
+(1) and
+(4) preheating of the
+plies can be resorted to in place of the electrostatic heating.
+5.87. Detachable Wood Propellers.
+A
+recent development, commonly
+called
+lag screw retention, has made possible the fabrication and use of detachable pro-
+pellers made from natural wood as well as densified wood.
+This method employs the
+use of a multiplicity of screws installed parallel to the grain for attaching the blade
+in a ferrule.
+This type of retention avoids notches or abrupt changes in section at
+the highly stressed surface at the root of the blade, a condition common to most
+t3rpes of external retention.
+Furthermore, the area
+in shear, ttirough which the load
+is transferred from
+the screws
+to
+the blade
+root,
+is somewhat greater than that
+available
+for
+similar
+transfer where
+external
+retention
+is
+employed.
+Since
+the
+screws are so located as to engage the entire cross section
+of the root, the tensile
+stress
+is more uniformly distributed.
+
+--- PAGE 349 ---
+CHAPTER
+6.
+MISCELLANEOUS
+6.0. LIST OF SPECIFICATIONS.
+Following
+is a
+list of specifications referred to in the text of tins manual,
+to-
+gether with the sources from which they may be obtained.
+Specifications subse-
+quently issued will supersede those listed in this manual.
+Army-Navy Aeronautical Specifications
+(Obtainable from Bureau of Aeronautics, Navy Department, Washington, D. C, or Materiel
+Command, Army Air Forces, Wright Field, Dayton, Ohio.)
+AN-C-72
+Cedar; Aircraft Port Orford.
+AN-C-83
+Coatings; Protective (For Wood).
+AN-D-1
+Dope; Cellulose-Acetate-Butyrate (Clear).
+AN-D-2^_
+Dope; Cellulose-Acetate-Butyrate (Pigmented).
+AN-D-3
+Dope; Cellulose-Acetate-Butyrate (Camouflage).
+AN-D-8^
+Dope; Cellulose-Nitrate, Pigmented (Camouflage).
+AN-E-3.__
+Enamel; Aircraft, Gloss.
+AN-E-7
+Enamel; Camo

@@ -1,0 +1,1398 @@
+tching of the surface is permissible.
+Figure 2-55 illustrates
+four scribes, A, B, C, and D, that have been found satisfactory.
+In A and B the
+point trails about 5 inches behind the vertical handle by means of which it is pulled,
+which gives it somewhat greater freedom of lateral movement than can be obtained
+Figure 2-54.— Left-hand spiral grain of varying or fluctuating slope indicated by split radial surface.
+with C and D.
+Scribe A has further advantages over B in that the handle is swiveled;
+the point, which is a phonograph needle, can easily be replaced; and the long tapered
+head on the set screw that holds the phonograph needle in place can be used to line
+up the direction in which the scribe is pulled with the path it has recently traversed.
+Scribes B and C are simpler to construct, since they are made of one piece of drill
+rod with one end tapered and hardened.
+B is more difficult to sharpen properly than
+C, since the point must be a perfect cone in order to function well.
+Scribe D consists
+of a phonograph needle held
+in
+a mechanical pencil.
+It has been found that the
+points follow the grain best
+if inclined 10° to 20° from the vertical toward the direc-
+tion in which they are pulled.
+In using the scribes
+it
+is advantageous to make one
+trial scratch, pulling the
+scribe in the direction in which the grain appears to run and then making a second
+scratch near to the first one by pulling the scribe in the direction parallel to the first
+one unless it obviously did not follow the grain.
+Bands of summerwood may deflect
+the scribe from following the true course of the
+fibers.
+In that case a number of
+short scratches should be made in the springwood only.
+Figure 2-56 shows a number of scratches made with three different kinds of
+scribes.
+Their approximate parallelism for each scribe indicates a high degree of
+consistency and the way they follow the split, wavy edges of the birch veneer indicates
+accuracy in following the true direction of the grain.
+
+--- PAGE 80 ---
+74
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+It should be emphasized that the scratches made by the scribes follow the direc-
+tion of the fibers on the surface and do not necessarily indicate the true slope of spiral
+grain, unless the surface is tangential or practically so.
+2.3022. Combination of Diagonal and Spiral Grain.
+When a piece has diagonal
+and spiral grain in combination, the true slope of the fibers may be found by the use
+of table 2-11 or by computations after expressing the measured slopes to the same
+base.
+Thus, if the slope of spiral is
+1 in 20 (equivalent to X% in 30), and if that of the
+diagonal grain
+is
+1
+in
+30, the combined slope, or the
+true
+slope
+of
+the
+fiber
+is
+30
+V (1)Q
+2+ (I)
+2 bi 30= 1.8 in 30, which is the same as
+1 m y~g or
+1 in
+The computa-
+tion of the above example
+also can be made by reducing the slopes
+to decimals
+(namely,
+1
+in 20= 0.05 and
+1
+in 30= 0.033) squaring these and taking the square
+root.
+Thus:
+V(-05)
+2 +(.033)
+2= V-0025 +
+. 001089= V'.003589= 0.06,
+which
+corre-
+sponds to a slope of
+1
+in
+I673.
+Table 2-11.
+Combined slope of spiral and diagonal grain 1
+Slope of spiral
+or diagonal
+grain, which-
+ever is flatter
+Slope of spiral or diagonal grain, whichever is steeper
+111
+1-12
+1-13
+1-14
+1-15
+1-16
+1-17
+1-18
+1-19
+1-20
+1-21
+1-22
+1-23
+1-24
+1-25
+1-26
+1-27
+1-28
+1-29
+7.8
+8.1
+8.5
+8.4
+8.8
+9.2
+8.7
+9.1
+9.5
+9.9
+8.9
+9.4
+9.8
+10.2
+10.6
+9. 1
+9.6
+10.
+1
+10.5
+10. 9
+11.3
+9.2
+9.8
+10.3
+10.8
+11.2
+11.7
+12.0
+9. 4
+10.0
+10.5
+11.1
+11.5
+12.0
+12.4
+12.7
+9.5
+10.
+1
+10.7
+11.3
+11.8
+12.2
+12.7
+13. 1
+13.4
+9.6
+10.3
+10.9
+11.5
+12.0
+12. 5
+13.0
+13.4
+13.8
+14.
+1
+9.7
+10.4
+11.
+1
+11.6
+12.2
+12.7
+13.2
+13.7
+14.1
+14.5
+14.9
+9.8
+10.5
+11.2
+11.8
+12.4
+12.9
+13.5
+13.9
+14.4
+14.8
+15.2
+15.6
+9.9
+10.6
+11.3
+12.0
+12.6
+13.1
+13.7
+14.2
+14.6
+15.
+1
+15.5
+15.9
+16.3
+10.0
+10.7
+11.4
+12. 1
+12.7
+13.3
+13.9
+14.4
+14.9
+15.4
+15.8
+16.2
+16.6
+17.0
+10.
+1
+10.8
+11. 5
+12.2
+12.9
+13.5
+14.
+1
+14.6
+15.
+1
+15.6
+16. 1
+16.5
+16.9
+17.3
+17.7
+10.
+1
+10.9
+11.6
+12.3
+13.0
+13.6
+14.2
+14.8
+15.3
+15.9
+16.3
+16.8
+17.2
+17.6
+18.0 ~18.~ 4
+10.2
+11.0
+11.7
+12.4
+13.
+1
+13.8
+14.4
+15.0
+15.5
+16.
+1
+16.6
+17.
+1
+17.5
+17.9
+18.3
+18.7
+19.1
+10.2
+11.0
+11.8
+12. 5
+13. 2
+13.9
+14. 5
+15.
+1
+15. 7
+16.3
+16.8
+17.3
+17.8
+18. 2
+18.6
+19. 1
+19.4 "l9."8
+10.3
+11.
+1
+11.9
+12.6
+13.3
+14.0
+14.7
+15.3
+15.9
+16.5
+17.0
+17.5
+18.0
+18.5
+18.9
+19.4
+19.8
+20.
+1
+20.5
+1-10
+1-11
+1-12
+1-13
+1-14
+1-15
+1-16
+1-17
+1-18
+1-19
+1-20
+1-21
+1-22
+1-23
+1-24
+1-25
+1-26
+1-27
+1-28
+1-29
+7.1
+7.4
+7.7
+7.9
+8.1
+8.3
+8.5
+8.6
+8.7
+9.
+9.1
+9.2
+9.2
+9.3
+9.3
+9.
+I
+9
+1
+9, 5
+Based on formula: Combined slope of grain = V (slope of spiral grain) 2 +(slope of diagonal grain) 2
+How to Determine Combined Slope of Spiral and Diagonal Grain
+First, determine slopes of spiral and of diagonal grain separately.
+To determine the combined, or resultant, slope find the
+column headed by the steeper of the two slopes and in this column locate the figure in line with the flatter of the two slopes as given
+in the left-hand column.
+This
+figure represents the length in inches (or other units)
+in which the grain deviates 1 inch (or
+other unit) with respect to the central axis of the piece.
+Examples:
+If the slope of spiral grain
+is
+1 in 20 and the slope of diagonal grain
+is
+1 in 25, the combined slope
+is
+1 in 15.6, or
+if
+the slope of diagonal grain is
+1 in 18 and the slope of spiral grain is
+1 in 22, the combined slope is
+1 in 13.9.
+To get the true fiber direction, which
+is the slope of grain that determines the
+maximum effect on the strength properties,
+it is usually necessary to determine the
+slopes of spiral grain and of diagonal
+grain separately and
+to combine them by
+computation as just described.
+2.3023. Detailed Methods for Determining Slope of Cross Grain.
+The
+follow-
+ing detailed methods for determining cross grain in boards whose original surfaces
+are truly tangential and radial and in those whose original
+surfaces
+are not
+truly
+tangential and radial, represent some of the less complex methods
+(fig. 2-57).
+A
+more complete discussion of methods for determining the direction of grain and
+measuring its slope
+is given in Forest Products Laboratory Mimeo. No.
+1585.
+
+--- PAGE 81 ---
+WOOD
+75
+A. Truly flat-
+(or quarter-) sawn board, no cross grain of any kind
+(fig. 2-57,
+A).
+Description : Annual
+rings on
+radial
+surface
+are
+parallel
+to
+edges
+of
+piece;
+fiber direction on tangential surface
+is parallel to edges.
+B. Truly flat-
+(or quarter-) sawn board,
+spiral grain only
+(fig. 2-57, B).
+De-
+scription: Annual rings on radial surface are parallel to edges of piece; fiber direction
+on
+tangential
+surface
+is not
+parallel
+to
+edges of
+piece.
+Method
+of measurement:
+G
+H
+Figure 2-57.—Measurement of slope of grain.
+Draw line ah parallel to fiber direction indicators and measure oa and ob.
+Slope of
+spiral grain= oalob.
+C. Truly flat- (or quarter-) sawn board, diagonal grain only
+(fig. 2-57, G).
+De-
+scription: Annual rings on radial surface are not parallel to edges of piece; fiber
+direction on tangential surface
+is parallel to edge.
+Method of Measurement: Mark-
+line ah parallel to annual rings and measure oa and oh.
+Slope of diagonal grain
+oa/ob.
+D. Truly
+flat-
+(or quarter-) sawn board, botb spiral and diagonal grain
+(fig.
+2-57, D).
+Description: Neither annual rings on radial surface nor fiber direction
+indicators on tangential surface are parallel to edges of
+piece.
+Method of measure-
+ment: Diagonal
+grain,
+locate
+line
+ab
+parallel
+to annual
+rings,
+slope
+of
+diagonal
+
+--- PAGE 82 ---
+76
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+grain= oa/ob; spiral grain, locate line cb parallel to fiber
+direction indicators, slope
+of spiral grain— oc/ob; combined slope of grain,
+(1) locate lines aa' and ca' parallel
+to oc and oa, respectively, (2) combined slope of grain= oa' ,lob: or calculate combined
+slope of grain from slope of spiral grain and slope of diagonal grain as explained in
+section 2.3022.
+E. Board not truly flat- or quarter-sawn, no cross grain (fig. 2-57, E).
+Descrip-
+tion: Annual rings are parallel to edges of piece; fiber direction indicators on tan-
+gential surface
+(exposed by splitting or shaving away some of the wood)
+parallel
+to edges of piece.
+F. Board not truly
+flat- or quarter-sawn, diagonal grain only
+(fig.
+2-57,
+F).
+Description: Annual rings not parallel to edges of piece; fiber direction on tangential
+surface (exposed as noted above)
+is parallel to edges of piece when viewed at right
+angles
+to exposed
+surface.
+Method
+of measurement: Diagonal
+grain,
+(1)
+select a
+point such as b which is either on the edge nearest the pith or farthest away from the
+Figure 2-58.— Checks in a flat-grain board.
+pith;
+(2) trace the growth layer from b to c on the end;
+(3) thence from c across the
+end (which must be square with the long edges of the piece)
+to d;
+(4) then locate
+point a on line cd, where oa is the
+shortest distance from o to cd;
+(5) the slope of
+diagonal
+grain= oa/ob.
+Spiral
+grain,
+after having
+determined
+slope
+of
+diagonal
+grain,
+split or shave away wood
+to expose tangential surface and
+determine that
+fiber direction indicators are parallel to ob.
+G. Board
+not
+truly
+flat-
+or
+quarter-sawn,
+spiral
+grain
+only
+(fig.
+2-57,
+6).
+Description: Annual rings are parallel to edges of board; fiber direction on tangential
+surface
+(exposed
+as indicated
+above)
+not
+parallel
+to
+edges
+of
+piece.
+Method
+of
+measurement:
+Spiral grain, cut to expose tangential surface and locate
+line ab on
+tangential surface, parallel to fiber direction indicators, slope of spiral grain
+oa/ob.
+Tf permissible, an alternate method
+is to
+split the wood radially and measure the
+slope of spiral grain directly.
+H. Board not truly
+flat- or quarter-sawn, both diagonal and spiral grain
+(fig.
+2-57, H).
+Description: Annual rings not parallel to edges of piece; fiber direction
+on tangential surface (as indicated above) not parallel to edges of piece when viewed
+at
+right
+angles
+to
+exposed
+surface.
+Method
+of measurement: Diagonal
+grain,
+as
+explained in
+(F) above; spiral grain,
+(1)
+after having located point a as described
+
+--- PAGE 83 ---
+WOOD
+77
+above, expose tangential surface as indicated above,
+(2)
+locate line
+be
+parallel to
+fiber direction indicators,
+(3) slope of spiral grain= ae/o&; combined slope of grain,
+(1) after having exposed tangential surface and located point e as explained above,
+lay a straightedge on the piece so that one edge lies along the line ob,
+(2) measure
+ob,
+(3) measure oe,
+(4) combined slope of grain= oe/ob; or determine combined
+slope
+of grain from slope of spiral grain and slope of diagonal grain as explained in section
+2.3022.
+An alternate method is to split the wood radially and measure the slope of
+spiral grain directly.
+2.303. Checks, Splits, and Shakes.
+A check
+is a
+longitudinal
+crack
+in wood,
+generally in the radial direction, or across the annual rings
+(fig. 2-58).
+Checks are
+usually due to uneven shrinkage in seasoning.
+Thick lumber checks more severely
+than thin lumber, and aircraft veneer is too thin to be subject to checking.
+A split is a longitudinal crack in wood.
+It is caused by rough handling or other
+artificially induced
+stress.
+Typically
+it extends through the thickness
+of a piece
+Figure 2-39.—Shake in a flat-grain board.
+from
+side
+to
+side regardless
+of whether the piece
+is edge-grained
+or
+flat-grained.
+When splits take a radial or tangential course they are not readily distinguishable
+from checks or shakes.
+Veneer, because of its greater fragility,
+splits much more
+readily than lumber.
+A shake
+is a longitudinal crack in wood between two annual rings
+(fig. 2-59).
+Shakes, unlike checks and most
+splits, do not develop in seasoning or handling but
+originate in the green timber.
+They may, however, become accentuated in seasoning.
+Shakes would very seldom be encountered in either lumber or veneer approaching air-
+craft quality.
+It is obvious that relatively large checks, splits, and shakes may seriously weaken
+wood members in resistance to longitudinal shear, and finished parts containing them
+should be rejected.
+2.304.
+Pith Flecks.
+A pith
+fleck
+is a narrow
+streak resembling
+pith, usually
+brown in color and up to several inches in length, that results from the burrowing of
+larvae into the growing tissue of the tree.
+It is a defect of hardwoods rather than of
+softwoods and
+is probably most common in basswood, some species
+of birch, and
+maple, particularly soft maple.
+It varies considerably in different boards, from slight
+traces to a number of large streaks which might have an appreciable weakening effect,
+568338—44
+C
+
+--- PAGE 84 ---
+78
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-60.—Pith flecks in basswood.
+
+--- PAGE 85 ---
+WOOD
+79
+particularly in thin material such as veneer.
+Figure 2-60 shows pith flecks in bass-
+wood.
+2.305. Compression Failures.
+Compression
+failures
+are
+deformations
+of
+the
+fibers due to excessive compression along the grain either in direct end compression
+Figure 2-01.—Pronounced compression failure in Sitka spruce.
+or in bending. The deformations range from well-defined buckling of the fibers, visible
+to the unaided eye as wrinkles across the face of the piece (fig. 2-61), to slight crinkling
+of the fiber walls visible only with a high-power microscope.
+
+--- PAGE 86 ---
+80
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+
+--- PAGE 87 ---
+WOOD
+81
+They may develop when standing trees are bent severely by wind or snow, when
+timber
+is
+felled over
+irregularities
+of the ground, when logs and sawed stock
+are
+roughly bandied,
+or from
+excessive
+stresses
+in
+service and,
+possibly,
+longitudinal
+stresses induced by the growth of the tree.
+Compression
+failures, whether readily apparent to the eye or so
+fine as to be
+difficult to detect even with the aid of a microscope, seriously reduce the bending
+strength and shock-resisting capacity of wood.
+When present on the tension side of
+a bent member, they usually cause an abrupt and complete fracture across the grain
+under relatively low stresses
+(fig. 2-62).
+All material containing compression failures,
+therefore,
+is unsuitable for aircraft parts in which strength
+is of importance.
+Compression failures can best be seen in wood so placed that light strikes along
+the fibers at an angle of about 20° with tbe surface.
+A source of concentrated light,
+such as a spotlight, is best.
+The piece should be viewed at angles of between 45° and
+90° to the grain from the side on which the light is located.
+Other angles of light and
+vision should also be
+tried.
+When viewed in
+this manner, a failure appears as an
+irregular line extending across the grain, as shown in figure 2-61.
+The presence of numerous minute compression failures may often be detected
+by the appearance of the crosscut surface, as in figure 2-63.
+On the pith side of the
+black pencil
+line in the
+figure, groups of springwood and summerwood
+fibers are
+shown broken off at minute compression failures close to the saw cut, rather than
+being cut off cleanly by the saw.
+This end breakage
+of
+fiber due
+to compression
+failures has a characteristic appearance regardless of whether the crosscut was made
+with a coarse or a fine saw.
+The fibers are broken off in more or less discontinuous,
+radial streaks, as shown in figures 2-63 and 2
+64. On the bark side of the black line,
+where there are no compression failures, the normal appearance of a saw cut may be
+seen.
+Although the springwood is broken out in places, the summerwood
+is cut off
+throughout by the saw.
+Absence of end breakage of fiber is not proof, however, of
+the absence of compression failures, since the saw cut may not have come close enough
+to failures present within the piece.
+The
+use
+of transmitted
+light
+is an
+aid
+in
+detecting compression
+failures
+in
+veneer.
+The sheet is held up to a bright light so that the side observed is in shadow.
+A compression failure
+will then appear as a dark, irregular line across the grain.
+Figure
+2-65
+shows
+a compression
+failure
+in yellowpoplar
+veneer
+as
+it
+appears
+using
+transmitted
+light.
+This method
+is usually more
+effective
+in
+light-colored
+woods, such as Sitka spruce, than
+in dark-colored woods, such as mahogany.
+A good hand lens with a magnifying power of about 10 diameters is of assistance
+when the failures are not pronounced.
+In the Laboratory, magnification up to 60
+diameters by means of a low-power microscope is helpful.
+When a toughness machine such as is described in Forest Products Laboratory
+Mimeograph No.
+1308
+is used
+as
+a
+part
+of the regular acceptance
+test, lumber
+containing even minute compression failures can in practically all cases be detected
+by the low toughness values obtained.
+2.306. Compression Wood.
+Compression wood
+is an abnormal type of wood
+formed on the lower side of leaning softwood
+trees only—not
+in hardwood
+trees.
+Because of inferior strength properties, excessive longitudinal shrinkage, and rela-
+tively high specific gravity for a species, compression wood is unsuitable for aircraft
+construction except in limited amounts.
+Compression wood
+usually
+has
+relatively
+wide
+annual
+rings and
+unusually
+wide summerwood which, however, does not appear so dense and hornlike as normal
+summerwood.
+This results
+in a lack of contrast with springwood which gives
+a
+lifeless appearance to compression wood, particularly when dry, as shown in figure
+2-66.
+On surfaces of lumber and veneer, compression wood usually has a yellowish
+or
+slightly brownish
+color when dry and
+a reddish color when
+wet.
+Streaks
+of
+compression wood on edge-grain surfaces frequently are interspersed with streaks
+
+--- PAGE 88 ---
+82
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+of normal wood, which usually has narrower annual rings, as is shown
+in
+figure 2-
+67.
+Occasionally
+it
+is present
+entirely
+across
+the width
+of pieces of
+edge-grain
+lumber.
+Compression wood gradates from
+a pronounced to a border-line form which
+approximates normal wood in appearance, particularly that which has wide summer-
+wood.
+Well-developed compression wood usually can be detected in ordinary visual
+inspection by its relatively wide annual rings and wide summerwood.
+Moderately
+J,
+iiA
+lap
+Figure 2-64.— Crosscuts through Sitka spruce. A and C cut with hollow ground cut-off saw; B and D cut with novelty cut-off
+saw.
+Discontinuous, radial streaks of fibers, broken of in sawing indicate the presence of compression failures in A. and B
+C and D, made with the same saws as A and B, respectively, show no evidences of compression failuie.
+developed and border-line forms, as well as pronounced compression wood, can be
+detected by the opacity of their summerwood in contrast
+to the translucence of
+normal summerwood when thin sections are held against a bright light
+(fig. 2-68, C).
+A box, containing a 100-watt bulb and having a variable opening over which the
+thin section can be laid, when used in a darkened room or in a well-shaded position,
+is best for the purpose
+(fig. 2-69).
+The opacity of the summerwood of compression
+wood
+is due to the microscopically discontinuous structure of its fiber walls, which
+dissipate light, in contrast to the continuous dense fiber walls of normal wood.
+
+--- PAGE 89 ---
+WOOD
+83
+For examining lumber for compression wood by transmitted
+light,
+cross sec-
+tions approximately
+five thirty-seconds inch
+thick,
+cut with a smoothly
+cutting
+saw, have been found
+satisfactory
+for most
+species.
+In
+quarter-sliced veneer
+it
+also can be detected by this method in thicknesses up to one-eighth inch, at least.
+Even in glued panels, compression wood can be detected in the face plies by the
+opacity of
+its summerwood,
+provided
+the ply containing compression wood
+is on
+the
+side toward
+the
+observer,
+dark-colored heartwood
+of such species as yellow-
+Figure 2-05.—Compression failure in rotary-eut yellowpoplar veneer by transmitted light.
+poplar and sweetgum is not included in the panel, and the total thickness does not
+exceed
+about
+one-eighth
+inch.
+Figures 2-70 and
+2-71 show compression wood
+(left) and normal wood
+(right) in veneer and plywood, respectively, as seen in ordi-
+nary visual inspection
+(above) and as seen against a bright light
+(below).
+In the
+latter, the summerwood of compression wood
+is shown as opaque, that of normal
+wood as translucent.
+Strength properties of compression wood, particularly stiffness and shock resist-
+tance, are lower than those of normal wood of the same species when dry.
+Other
+
+--- PAGE 90 ---
+84
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-66.—A, longitudinal and cross sections through part of a tree trunk with compression wood
+on lower side; B, cross
+break in compression wood and splits between compression wood and normal wood due to greater longitudinal shrinkage
+of compression wood; C, crook caused by longitudinal shrinkage of the compression wood on the lower side; D, cupping in
+three-ply plywood due to higher longitudinal shrinkage of compression wood in the bottom ply than of the normal wood in
+the top ply.
+bonding-strength properties are
+erratic,
+since
+the
+tensile strength of compression
+wood frequently is much lower than that of normal wood.
+In bending, compression
+wood breaks with a
+brittle fracture, while normal wood splinters,
+as
+is shown in
+figure 2-68, A, B.
+Compression wood has relatively higher density than normal
+wood, so that the ratio of weight to strength also makes
+it unsuitable for aircraft
+structure.
+Excessive and irregular shrinkage along the grain of compression wood
+occasionally causes cross breaks and, frequently, crook and bow in lumber.
+Figure
+2-66, B, shows a cross break in compression wood bounded on both sides by normal
+
+--- PAGE 91 ---
+Figure 2-67.—Samples of western hemlock boards with compression wood in varying amounts: A, practically the entire surface;
+B, streaks interspersed with normal wood; and C, occasional annual rings.
+A and B have excessive amounts of compression
+wood, while that of C may be permitted.
+
+--- PAGE 92 ---
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Fir.uRE
+2-68.—Typical bending
+failures
+in
+Sitka
+spruce
+represented
+by:
+A,
+splintering normal
+wood, and B, brittle compression wood.
+In
+C,
+upper example shows cross sections of normal trans-
+lucent wood five thirty-seconds inch thick photo-
+graphed by transmitted light, summerwood more
+translucent than springwood
+; lower example shows
+compression wood interspersed with normal wood,
+compression wood indicated by
+its opaque sum-
+merwood.
+
+--- PAGE 93 ---
+WOOD
+87
+Figure 2-69.—Forest Products Laboratory apparatus for detecting compression wood by transmitted light.
+wood, and figure 2-66, C, shows crook of a piece in which the compression wood
+is
+along one edge.
+These defects resulted from much greater longitudinal shrinkage in
+the compression wood than in adjacent normal wood.
+Figure 2-66, D,
+is an edge
+view of cupping in three-ply plywood that resulted from greater longitudinal shrink-
+age in compression wood
+in the ply on the lower face than in normal wood in the
+upper face ply.
+The inferior strength properties, excessive longitudinal shrinkage, and greater
+density of compression wood generally are detrimental to aircraft structures.
+Com-
+pression wood may be permitted in aircraft structures only to the extent described
+in section 2.4.
+2.307. Pitch Pockets.
+Pitch
+pockets
+are
+approximately
+plano-convex,
+lens-
+shaped openings within annual rings, usually longer than they are wide.
+As a rule,
+they contain more or less resin and, occasionally, bark.
+They may be from less than
+an inch to several inches in length.
+They normally occur only in certain conifers,
+namely, pine, Douglas-fir, spruce, tamarack, and larch.
+They are most common in
+southern pines and Douglas-fir and least common in redwood.
+They probably are
+the result of small injuries received at some time during its growth by the cambium,
+which is the growing layer between bark and wood.
+Tliey are objectionable because
+they may weaken small members and resin may exude from them, especially when
+
+--- PAGE 94 ---
+88
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-70.—Two pieces of Douglas-fir veneer photographed
+(above) by reflected light as seen in ordinary visual inspection
+and (below) by transmitted light.
+Note in the lower photographs
+(lejt) opacity of the summerwood of compression wood
+and
+(right) its'translucence in normal wood, in which the summerwood
+is brighter than the springwood.
+
+--- PAGE 95 ---
+WOOD
+89
+
+--- PAGE 96 ---
+90
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Fim-RE 2-73.—Mineral streak.
+
+--- PAGE 97 ---
+WOOD
+91
+the wood becomes warm.
+In quarter-sliced veneer pitch pockets appear as narrow
+slits.
+2.308. Bark Pockets.
+A bark pocket
+is a patch
+of bark
+partially or wholly
+enclosed in the wood.
+There
+is usually some slight separation, or at least a lack of
+cohesion, involved that has a definite weakening effect.
+They are occasionally found
+in most aircraft woods, particularly in spruce, and are considered equal in damaging
+effect to pitch pockets of equal
+size.
+In appearance they resemble pitch pockets
+more closely than any other defect; but they are usually smaller and,
+of course,
+lack pitch.
+2.309.
+Pitch Streaks.
+Pitch streaks are well-defined infiltrations of resin in the
+fibers in the form of streaks, usually extending a greater distance along than across
+the grain
+(fig. 2-72).
+They normally occur only in pine, Douglas-fir, spruce, tama-
+rack, and larch.
+As found in the better grades of lumber, practically
+all are small.
+Pitch streaks are objectionable in airplane constructions in that the pitch may
+add materially to the weight of the wood; it may exude, especially in warm weather,
+and affect those finishes which do not hold well on pitchy areas.
+2.310. Mineral Streaks.
+Mineral streaks arc dark brown or black streaks, fre-
+quently with a green tinge, and often contain mineral matter in sufficient quantities
+to dull sharp-edged tools.
+They vary in length from less than an inch to a foot or
+more along the grain and have a transverse dimension at the widest portion of one-
+eighth inch to
+1 inch or more
+(fig. 2-73).
+Their limits may be sharply defined, or
+they may fade out gradually into the surrounding wood.
+Mineral streaks are fre-
+quently
+infected by fungus, and they check more
+easily
+in seasoning
+than does
+normal wood.
+Mineral streaks are common in maple,
+hickory,
+basswood,
+yellowpoplar, and
+yellow birch and are occasionally found
+in other hardwoods.
+Evidently they
+are
+often,
+if not always, due to some injury that the living tree received in the form of
+bird pecks, mechanical abrasion, tappings for maple sugar, or the like.
+2.31 1. Indented Rings.
+In certain species of conifers, particularly Sitka spruce,
+annual rings as seen on the
+cross section sometimes are indented along a radial line
+for many successive years
+(fig.
+2-74).
+Each indentation
+usually extends up and
+down the tree trunk for several inches, producing noticeable
+blemishes on longitu-
+dinal,
+especially
+tangential,
+surfaces
+(fig.
+2-75).
+If the indentations ran
+exactly
+parallel to the grain, they would produce no distortion of the individual fibers except
+at the top and bottom ends of the indentation; but, since they usually make a slight
+angle with the grain, the fibers dip from their straight longitudinal
+course at the
+indentation, like a slack rope on the ground in following the contour of a ditch which
+it crosses at a very acute angle.
+This dip
+is in a radial direction and causes
+a
+slight curvature
+of the
+annual
+rings and deflection of the fibers in a radial plane, as shown in figure 2-76.
+In a
+tangential plane, on the other hand, the indented rings cause no distortion of grain,
+as
+is evidenced by figure 2-75,
+in which the checks are not deflected as they pass
+through the indented portion.
+2.312. Burls.
+A burl, as defined with respect to aircraft veneer specifications,
+is a local distortion of the grain due to one or several continguous concial protuber-
+ances of wood on the tree trunk which are formed under dormant buds that usually
+do not develop but persist for many years, each having a core, or pith, or to over-
+growths of such buds that died and no longer contain a pith
+(fig. 2-77).
+Sometimes
+a large number of such buds are produced in close proximity to each other, forming a
+large, wartlike excrescence on the tree trunk, which
+is the popular conception of a
+burl.
+Burls may occur singly or in groups with areas of straight-grained wood be-
+tween them.
+Because burls originate from conical projections, they usually show a
+fairly definite boundary in lumber and veneer.
+
+--- PAGE 98 ---
+AXC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-76.—Indented rings as seen on a radial surface of Sitka spruce.
+
+--- PAGE 99 ---
+WOOD
+93
+FIGURE 2-77.— Burls in yellowpoplar rotary-cut veneer.
+A, A burl formed by one conical elevation below a dormant bud.
+Note
+dark core, or pith, and flat grain on both sides, as indicated by reflection of light and pore length.
+B, A burl formed by a cluster
+of dormant buds.
+C, Six small burls associated with cross grain due to overgrowth of knot.
+568338—44
+7
+
+--- PAGE 100 ---
+94
+ANC BULLETIN ——WOOD AIRCRAFT INSPECTION AND FABRICATION
+A tangential cut through the conical protuberance of a burl frequently resembles
+a small knot in having a central pith but differs from it in that there is no appreciable
+amount of strictly end grain around the pith.
+There may be steep cross grain on
+the upper and lower sides of such a conical elevation
+, but on the two lateral sides the
+grain is practically flat
+(fig. 2-77, A).
+A burl differs from cross grain formed by rounded protuberances due to over-
+growth of a knot or injury or crook in the tree trunk, in that in such cross-grained
+areas there
+is no central pith and the grain at the center of such a protuberance is
+flat in tangential view, although
+it may be curly, and more or less steep slope of
+grain occurs some distance above and below the center
+(figs. 2-77,
+C, and 2-78).
+In such rounded protuberances the cross grain usually
+is less steep than in burls.
+Burls differ from bird's-eyes in that the latter are due to individually scattered
+conical depressions and never have a pith center.
+On account of the differences in the steepness and distribution of cross grain in
+them, it is necessary to distinguish between knots, burls, and rounded protuberances,
+the burls usually being intermediate in weakening effect between the other two.
+||j
+Figure 2-78.—Type of figure produced in cutting rotary veneer from a block with some crook; not to be confused with large burl.
+2.313.
+Bird's-eye.
+Bird's-eye is defined as a small, central spot around which
+the wood fibers are arranged in the form of an ellipse to give the appearance of an
+eye.
+Bird's-eye is fairly common in maple.
+Some samples show a sparsely scattered
+bird's-eye, as in figure 2-79, while others show bird's-eyes crowded in at the rate of
+10 or more per square inch.
+Since each bird's eye is accompanied by a small area of
+steep cross grain, the effect on strength may be considerable in pieces of the latter
+type.
+Yellow birch occasionally exhibits a dimple-like effect that is sometimes called
+bird's-eye, although it has a less pronounced figure than bird's-eye in maple.
+Among
+softwoods, redwood has a so-called bird's-eye that
+is found in many pieces in the
+clear grades.
+This bird's-eye usually occurs in small, rather widely scattered chains,
+hence it is not discriminated against unless hollow or unsound.
+2.314. Radial Red Streak in Spruce.
+Radial red streaks in spurce are notice-
+ably darker than the surrounding wood, especially as seen on
+the
+edge-grain
+face,
+and may extend across a number of annual rings.
+Their vertical height
+is usually
+less than their radial extent
+(fig. 2-80).
+The color is caused by the presence of dark
+gummy
+material
+in
+the wood ray
+cells.
+The gum-containing rays may be con-
+siderably higher vertically than normal rays (that is, made up of more cells one above
+another).
+No indication has been found that the red streaks are, in themselves, a
+source of weakness in the wood containing them.
+Sometimes they are associated
+with distorted grain, the
+effect of which should be determined independently.
+
+--- PAGE 101 ---
+WOOD
+95
+2.315. Giant Resin Canals in Spruce.
+Radial
+resin canals with diameters up
+to one-eighth inch or more, so large that they are easily seen by the naked eye and
+consequently are sometimes mistaken for worm holes, may occur in spruce wood.
+Large vertical resin canals may also occur but are much
+less
+frequent than
+radial
+canals.
+In figure 2-81 the relative size of the normal and
+of giant
+resin canals
+is
+shown
+.
+In determining when wood
+with
+giant
+resin
+canals
+should
+be
+rejected,
+the
+strength requirements of the part and the number of canals present per unit area
+should be considered.
+Since the resin canals do not produce serious distortion of the
+grain, their presence in low-stressed parts
+is, unless in obviously large numbers, not
+Figure 2-79.—Bird's-eye in maple.
+objectionable.
+Even in highly-stressed parts, the presence of occasional large canals
+should not be cause for rejection.
+2.316. Black
+Streaks
+in
+Western
+Hemlock
+and
+Other
+Coniferous
+Species.
+The activities of a species of fly (Chilosia alaskensis Hunter), living under the bark
+of certain coniferous species as a larva or maggot, result in the formation of a chamber
+or cavity in the wood which often resembles a pitch pocket in shape but is filled or
+lined with
+cellular
+tissue having dark-colored
+contents.
+Continuing
+vertically
+in
+both directions, from the maggot chamber for distances varying from a few inches
+to a few feet,
+is a thin layer of dark tissue which usually occupies only part of the
+thickness of an annual growth layer and
+is limited in circumferential extent to an
+inch or so.
+As seen on an edge-grained surface, the appearance is a thin black line
+which is wider where a maggot chamber is cut through.
+This gives rise to the use of
+the term "black streak" to designate the layer of dark tissue and the included maggot
+chamber.
+Tests of the effect
+of black streaks indicate that except for the maggot cham-
+bers they need not be limited and that the chambers may be admitted in airplane
+parts to the same extent as pitch pockets.
+The length of a maggot chamber should
+
+--- PAGE 102 ---
+96
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 2-80.— Radial red streak in spruce as
+it appears on an edge-grain face.
+
+--- PAGE 103 ---
+WOOD
+97
+be considered only as that
+of the definitely wider or thicker portion of
+the black
+streak
+(fig. 2-82).
+Irregular grain or deviations of grain associated with maggot chambers should,
+of course, be limited in the same manner as other deviations of grain.
+Figure 2-81.—Giant resin canals in spruce as seen under the microscope at 40X on a tangential face: A, giant radial canal, with
+large radial canal beside
+it at left; B, normal radial resin canal; C, large vertical canal.
+2.317. Black
+Streak and
+Soot Pockets
+in Yellowpoplar.
+Black streak (some-
+times
+called
+fire streak) and soot pockets are defects peculiar to yellowpoplar that
+are usually associated.
+The trouble originates at an injury, leaving a small area
+where the wood
+is not i

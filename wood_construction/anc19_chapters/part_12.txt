@@ -1,0 +1,1802 @@
+e
+5-6.
+Suggested
+relative
+humidities for temperatures
+specified
+in schedule
+4
+of AN-W—2a
+Species
+Thick-
+ness
+Percent moisture content at which chanj$es are made
+Above
+40
+40 to
+30
+30 to
+25
+25 to
+20
+20 to
+15
+15 to
+10
+10 to
+final
+Inches
+125° F.
+130° F.
+135° F.
+140° F.
+145° F.
+150° F.
+155° F.
+Baldcypress..
+.
+1
+70
+50
+45
+40
+35
+35
+35
+Baldcypress_.
+.
+-
+m
+75
+50
+45
+40
+35
+35
+35
+Western hemlock
+i
+65
+60
+55
+50
+45
+35
+35
+Eastern white pine.
+i
+60
+55
+50
+45
+40
+35
+35
+Ponderosa pine
+_
+i
+60
+55
+50
+45
+40
+35
+35
+Western white pine.
+i
+60
+55
+50
+45
+40
+35
+35
+Black walnut
+.
+.
+. _
+_
+i
+80
+75
+70
+65
+55
+45
+35
+Black walnut-
+VA
+80
+75
+70
+65
+55
+45
+35
+Douglas-fir.-
+VA
+70
+65
+60
+50
+40
+35
+35
+Red fir
+VA
+70
+60
+50
+40
+35
+35
+35
+Sugar pine
+.
+. -
+VA
+65
+55
+50
+50
+40
+35
+35
+Yellowpoplar
+.
+._
+VA
+80
+75
+70
+60
+50
+35
+35
+Noble fir
+.
+_
+2
+75
+60
+55
+50
+45
+35
+35
+Red pine
+_
+.
+2
+80
+75
+55
+50
+45
+35
+35
+Red spruce
+. _
+_
+2
+80
+75
+55
+50
+45
+35
+35
+Sitka spruce
+_
+-
+2
+80
+75
+55
+50
+45
+35
+35
+White spruce
+2
+80
+75
+55
+50
+45
+35
+35
+Port Orford white-cedar
+2
+80
+75
+60
+50
+45
+35
+35
+Table 5-7.-
+Suggested relative humidities for temperatures specified in schedule 5 of AN—W—2a
+Species
+Thick-
+ness
+Percent moisture content at which chang;es are made
+Above
+40
+40 to
+30
+30 to
+25
+25 to
+20
+20 to
+15
+15 to
+10
+10 to
+final
+Inches
+120° F.
+125° F.
+130° F.
+135° F.
+140° F.
+145° F.
+150° F.
+Commercial white ash..
+1
+80
+75
+70
+60
+50
+35
+35
+Commercial white ash
+80
+75
+70
+60
+50
+35
+35
+Yellow birch. .
+.
+1
+80
+75
+70
+60
+50
+35
+35
+Yellow birch
+va
+80
+75
+70
+60
+50
+35
+35
+Black cherrv
+1
+80
+75
+70
+65
+55
+45
+35
+Black cherrv
+va
+80
+75
+70
+65
+55
+45
+35
+Khaya (African mahogany)
+1
+80
+75
+70
+60
+50
+40
+35
+Khaya (African mahogany)
+VA
+80
+75
+70
+60
+50
+40
+35
+West Indies mahogany
+1
+80
+75
+70
+60
+50
+40
+35
+West Indies mahogany
+va
+80
+75
+70
+60
+50
+40
+35
+Baldcypress-.
+2
+80
+75
+50
+45
+40
+35
+35
+Douglas-fir
+2
+75
+70
+60
+50
+40
+35
+35
+Ponderosa pine.
+_
+VA
+65
+50
+50
+45
+40
+35
+35
+Red Fir
+2
+75
+60
+55
+50
+45
+35
+35
+Sugar pine
+2
+70
+50
+45
+40
+35
+35
+35
+Yellowpoplar ...
+2
+85
+75
+70
+60
+50
+35
+35
+Red spruce
+.
+_
+3
+90
+75
+70
+50
+45
+35
+35
+Sitka spruce
+3
+90
+75
+70
+50
+45
+40
+35
+White spruce
+.
+3
+90
+75
+70
+50
+45
+40
+35
+Port Orford white-cedar
+_
+3
+90
+75
+70
+50
+45
+40
+35
+Eastern white pine.
+.
+VA
+65
+55
+50
+45
+40
+35
+35
+Western white pine
+va
+65
+55
+50
+45
+40
+35
+35
+
+--- PAGE 190 ---
+184
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Table 5-8.
+Suggested relative humidities for temperatures specified in schedule 6 of AN-W-2a
+Species
+Thick-
+ness
+Percent moisture content at which changes are made
+Above
+40
+40 to
+30
+30 to
+25
+25 to
+20
+20 to
+15
+15 to
+10
+10 to
+final
+Inches
+115° F.
+120° F.
+125° F.
+130° F.
+135° F.
+140° F.
+14-5° F.
+Sweetgum
+1H
+80
+75
+70
+60
+50
+35
+35
+Western hemlock
+2
+80
+70
+50
+50
+40
+35
+35
+Western hemlock
+3
+85
+70
+60
+55
+45
+35
+35
+Eastern white pine
+9
+80
+70
+50
+50
+40
+35
+35
+Ponderosa pine
+2
+70
+50
+50
+45
+40
+35
+35
+Ponderosa pine
+3
+80
+60
+55
+50
+40
+35
+35
+Red pine
+3
+85
+60
+55
+50
+40
+35
+35
+Sugar pine
+3
+70
+60
+55
+50
+40
+35
+35
+Western white pine
+2
+70
+50
+45
+40
+35
+35
+35
+Yellowpoplar
+_
+_
+3
+85
+80
+75
+65
+55
+40
+35
+Red spruce
+3+
+85
+80
+50
+45
+40
+35
+35
+Sitka spruce _
+3 +
+85
+80
+50
+45
+40
+35
+35
+White spruce
+3 +
+85
+80
+50
+45
+40
+35
+35
+The relative humidities in the last stage of drying can be lowered with safety as
+far as checking is concerned, but such a reduction will tend to increase the range in
+final moisture content values.
+5.042.
+Piling.
+The method of piling should be suited to the circulation system
+of the kiln in which the stock will be dried.
+Two general methods of piling are used:
+edge stacking, with the stock standing edgewise in the kiln truck with the edges
+touching, the faces of the board separated with vertical stickers, and the circulation
+intended to be up or down through the open spaces between the faces of the boards;
+and flat stacking, with the stock laid flat in the load, spaces provided between boards,
+and stickers laid horizontally.
+The latter method is preferred, because it tends to
+hold the lumber more nearly flat; circulation may be vertical, horizontal, or a combi-
+nation of both directions.
+These two methods of piling are applicable to either natural- or forced-circula-
+tion types of kilns.
+In natural-circulation kilns the air movement is generally downward through the
+load when the stock is relatively green and upward when nearly dry.
+In edge stack-
+ing, the pile provides the vertical flues suited to this air movement.
+For flat stacking
+in natural-circulation kilns, the lateral spacing between the edges of boards or of
+groups of boards totaling 12 to 14 inches in width should be at least 4 inches, so
+arranged as to form straight vertical flues in the pile.
+In piles 5 feet or more in
+width, a vertical flue may be provided also in the middle of the load at least 8 inches
+wide from the bottom of the pile.
+In forced-circulation kilns, the design of the kiln usually determines the method
+of piling best adapted to the circulation system.
+(1) Nominal 1-inch stickers should be used for all edge-piled stock and for flat-
+piled stock up to 6/4 inch in thickness, and 1/^-inch stickers for random length stock
+thicker than 6/4.
+In flat piling, the stickers must be in vertical alinement, not more
+than 2 feet apart for 6/4-inch stock and not more than 4 feet apart for stock thicker
+than 6/4.
+All sticker tiers must bear on beams or cross ties.
+(2) Each layer should consist of boards of the same thickness.
+(3)
+Piling should be so done as to avoid overhanging ends of boards.
+At least
+24 inches should be allowed between the loads and the side walls.
+
+--- PAGE 191 ---
+PROCESSING AND FABRICATION
+185
+(4) Box piling should be used for flat-piled stock of mixed lengths.
+With this
+system, the longest stock is piled in the outer rows and short lengths within the pile,
+with one end of a board at one end of the pile and one end of the adjacent board at the
+opposite end.
+In each succeeding layer, the outside ends of boards should be kept
+immediately over the ends of those below.
+5.043. Steaming.
+Any operating condition, at or above operating temperatures,
+using humidities high enough to prevent drying, or that would add moisture to the
+stock, may be defined as steaming.
+It is not good practice to give air-dried wood an
+initial steaming treatment.
+When necessary to sterilize wood to kill mold or stain,
+an initial steaming treatment may be given; otherwise, both green and air-dried wood
+should be started off at the initial temperature and relative humidity of the drying
+schedule.
+During the period while the kiln and the load are being heated to operat-
+ing conditions, the wet-bulb depression established by the schedule should be main-
+tained as closely as possible.
+Throughout the drying period the surface of the stock is consistently at a lower
+moisture content than the center.
+Early in the drying operation there may be a
+wide
+difference, but near the end
+of the drying
+period
+the
+difference
+decreases
+Stock dried to 6-percent moisture content would have less variation between outer
+portion and core than exists when the moisture content averages 12 percent.
+Since
+the specifications limit the acceptable difference in moisture distribution, the operator
+must plan his final operating conditions to suit the final average moisture content of
+the charge.
+In principle, it will be necessary first to determine the average moisture
+content at which the charge is to be unloaded, then to carry the average moisture
+content of the load below that value to bring the moisture content of the core within
+the allowable limits, and finally, through the use of higher humidities, to build up the
+surface moisture content slightly to establish the desired average.
+This final steam-
+ing (conditioning) treatment will also be valuable in reducing casehardening stresses.
+The limiting conditions during final conditioning periods are specified in AN-W-2a.
+A conditioning treatment at or near the end of the run will usually be necessary
+to bring about uniformity of moisture content distribution in each board and
+to
+relieve severe casehardening
+stresses.
+Casehardened stock should be conditioned
+at a temperature not over 74° C.
+(165° F.) and at humidities that will permit the
+stock to pick up not more than 2 percent of moisture, based on the average moisture
+content of the kiln samples; but in no case should the humidity be such as to produce
+stock having a moisture content value less than 8 percent or more than 12 percent.
+The conditioning treatment should continue long enough to relieve the stresses and
+bring about the specified degree of moisture uniformity in each piece.
+The usual
+time necessary is approximately 5 hours per inch of thickness for softwoods and from
+18 to 24 hours per inch for hardwoods.
+In order that these conditioning treatments
+at or near the end of the run may be most effective, it is necessary that the range of
+moisture content in the boards making up the kiln charge be as small as possible.
+5.044. Selection of Samples.
+The
+kiln
+operator
+should
+use
+great
+care
+and
+judgment in selecting material for use as kiln samples and in locating the samples in
+the kiln charge so that they will fully represent the conditions of the charge during
+the drying
+operation.
+The specifications
+require that
+there shall be at least
+12
+samples, six from each of two boards, for each kiln charge and that they represent
+the wettest and slowest drying class of material.
+In mixed thicknesses or mixed
+species, additional samples of the faster-drying stock may prove of value as well as
+additional random
+samples
+representing
+the heavy
+boards.
+When samples
+are
+prepared, the ends should be coated as soon as possible after cutting to prevent end
+drying.
+Moreover, they should be protected against rapid drying before they are
+placed in the pile or kiln charge.
+5.045. Tests at End of Drying Period.
+Regardless of the care used in preparing
+samples, errors are sometimes made; at the end of the run, therefore, the samples
+
+--- PAGE 192 ---
+186
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+-DISCARD
+-
+H/LN SAMPLE-
+2. FT MINIMUM
+ORIGINAL MO15 TURE CONTENT SECTIONS
+METHOD OF CUTTING
+ORIGINAL MOISTURE CONTENT SECTIONS
+AND KILN 5AMPLE FROM LUMBER TO BE KILN DRIED
+METHOD OF CUTTING
+FINAL MOISTURE CONTENT
+AND CA5EHARDENIN6
+SECTIONS FROM KILN
+SAMPLE AFTER KILN DRYING
+CORE-
+SHELL
+MOISTURE SECTION
+ABOUT
+HL
+a_
+4
+MOISTURE DISTRIBUTION
+SECTION
+FINAL M0I5TURL SECTIONS
+STOCK £ AND THICKER
+SHALL BE SAWED A3 SHOWN
+SO A5 TO PRODUCE SIX PRONGS
+OF EQUAL THICKNE55 FOR
+CA5EHARDENING TEST
+PRONGS
+Z AND S SHALL BE
+BROKEN OUT.
+NO
+CA5EHARDENING
+SEVERE
+SEVERE
+CASEHARDENING
+REVERSE
+CASEHA RDENING
+STOCK LE55 THAN
+THICK
+SHALL BE SAWED AS SHOWN
+SO AS TO PRODUCE THREE
+PRONGS OF EQUAL THICKNESS
+TOR CASEHARDENING TEST.
+THE CENTER PRONG
+SHALL BE BROKEN OUT
+NO
+CASEHARDENING
+SEVERE
+SEVERE
+CASEHARDENING
+REVERSE
+CASEHARDENING
+CASEHARDENING
+SECTION- SECTION TO BE ROOM DRIED
+BEFORE
+CONCLUSION
+IS MADE A5 TO CASEHARDENING
+Figure 5-3.—Kiln sample and test sections for moisture content and easehardening.
+
+--- PAGE 193 ---
+PROCESSING AND FABRICATION
+187
+should be rechecked by cutting new moisture content sections.
+At the same time,
+moisture distribution and casehardening tests can be made.
+Where necessary
+to
+make distribution tests before final steaming, only part of the samples should be
+cut up and the others used to guide the steaming operation and to check the results
+after steaming.
+A casehardening
+test
+indicates
+(1) the presence and degree of stresses within
+the piece at the time of sawing and
+(2) the influence of unequal moisture distribu-
+tion
+{5-6).
+Methods
+of preparing both
+thick and
+thin
+stock
+for
+casehardening
+tests are shown in figure 5-3.
+These sections are to be room-dried for 24 hours or
+until moisture content
+is uniform,
+in order that the stresses present become
+dis-
+cernible in the prongs.
+All casehardening
+test sections should be numbered with
+an indelible pencil to correspond to the number of the kiln run.
+Casehardening
+is
+indicated when the prongs turn in or cup toward the saw when being cut.
+Reverse
+casehardening
+is caused by over-conditioning at too high a relative humidity and is
+indicated when the prongs turn away from the saw.
+Both represent the tendency
+of the same stock to cup
+if resawed.
+Planing, routing, or working up of casehar-
+dened stock may unbalance the stresses and result in warping.
+Unequal moisture
+distribution
+is indicated when the prongs turn in after room-drying.
+The
+effects
+are similar to casehardening, except that the distortion does not occur at the time
+of machining but
+afterward, when
+the moisture
+content has become
+equalized.
+Both casehardening and moisture distribution tests are required before the stock is
+taken from the kiln so that the proper treatment can be given before the stock
+is
+unloaded.
+Another casehardening
+test may be made in the following manner when the
+purpose to which the stock will be put is known:
+Cut the test section on a band saw to simulate the finished
+cross section or
+profile the piece would have after manufacture.
+Place the section in a factory work-
+room for 24 hours, or until the moisture content is uniform.
+Any distortion is evi-
+dence of casehardening or lack of uniformity of moisture distribution and indicative
+of the change in shape which would have occurred had the stock been worked up
+while in the condition represented by the section.
+If the distortion exceeds that
+allowed for the member or part, the stock should be subjected to a relative humidity
+sufficiently high to relieve the stresses.
+5.046. Example.
+Stock
+intended
+for
+propeller
+use
+is
+too
+thick, and
+after
+jointing one face the excess will be dressed off the other.
+As the depth of the cut on
+opposite faces would not be equal, the casehardening
+stresses would become un-
+balanced and,
+if of sufficient intensity, would cause the piece to cup toward the face
+having the deeper cut.
+This condition may be simulated
+in a casehardening test
+by removing wood from one side of the section, equal to the jointing operation, and
+a greater amount from the opposite face.
+The amount of distortion which would
+follow after room-drying would indicate whether the stock would be acceptable for
+the purpose.
+5.047. Kiln-drying Defects.
+The following is a brief description of the principal
+defects in kiln-dried lumber:
+5.0470. Surface Checks.
+Surface checks weaken
+the member and cannot be
+permitted
+in finished parts.
+Surface checks in rough stock which can be dressed
+out or will not appear in the finished piece will not be cause for rejection.
+Surface
+checks may be closed and invisible.
+To test for closed checks, cut a 1-inch section
+out of the board and then cut prongs one-eighth inch in thickness parallel to the
+wide face of the board.
+If checks are present, the prongs will fall off where checked.
+5.0471. Honeycomb.
+This
+defect may be
+considered
+as an
+internal
+check,
+usually developing along the rays.
+It may be preceded by a surface check which
+closes as drying progresses because of tension from within.
+Honeycomb may also
+develop
+in
+stock
+not
+previously
+surface
+checked.
+Too
+high
+temperatures and
+
+--- PAGE 194 ---
+188
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+severe casehardening are the most common causes.
+It may also occur
+if severely
+caseb.ard.ened stock
+is steamed
+at
+100 percent
+relative
+humidity.
+The
+moisture
+pick-up on the surface will cause increased internal tension stresses; and when the
+stress exceeds the strength of the wood substance, honeycomb develops.
+Honey-
+comb
+is
+cause
+for
+rejection.
+Figure 5-4 shows severe honeycombing
+in an oak
+plank.
+5.0472.
+Collapse.
+This
+is abnormal shrinkage, causing grooves to appear in
+the surface of the lumber.
+It sometimes occurs when wet lumber
+is dried at too
+high a temperature.
+Woods which are especially subject
+to
+collapse are western
+redcedar,
+redwood,
+sweetgum,
+and white
+oak.
+All
+collapsed
+stock
+should
+be
+rejected.
+Collapse in western redcedar is shown in figure 5-5.
+5.0473. Brashness.
+When lumber
+is subjected
+to very severe temperatures,
+whether in dry or moist air, the wood will be darkened in color and become brash.
+This weakening
+effect
+increases with an
+increase
+in
+either temperature or
+time.
+If the schedules given are not exceeded, no
+difficulties will be encountered insofar
+as seasoning
+is concerned.
+All brash stock should be rejected.
+5.0474. Casehardening.
+Casehardened lumber
+is that which contains internal
+stresses caused by unequal shrinkage within the
+piece.
+The outer portion
+is in
+Figure 5-4.—End of oak plank showing honeycombing.
+compression, and the inside is in tension, though these stresses are balanced in the
+rough piece.
+Should these stresses become unbalanced, as will occur
+if the stock
+is resawed or more dressed off one side than the other, the piece will cup, the amount
+of cupping depending upon the severity of
+the stresses.
+Tests
+for casehardening
+are described in section 5.045.
+Acceptance or rejection of casehardened stock will
+depend upon the degree of casehardening permissible as outlined therein.
+5.05. Final Conditioning of Air-dried Stock.
+5.050. Preparing Air-dried Stock for Manufacture.
+Usually
+air-dried
+stock
+is
+not in satisfactory condition for use in
+aircraft, and the common procedure
+is to
+place
+it in a kiln for final drying and
+relief of
+casehardening
+stresses.
+If
+a
+kiln
+is not available or if sufficient storage space in sheds or rooms, heated to or slightly
+above ordinary factory temperature,
+is available and time not important,
+it might
+prove practical to
+store air-dried lumber in such rooms until the moisture content
+complies with the requirements of Specification AN-W-2a.
+Before use, however,
+any existing casehardening stresses must be removed by a conditioning treatment,
+either in a kiln or in a storage room in which it is possible to raise the relative humid-
+ity by
+temperature
+adjustments
+or
+humidification,
+similar
+to
+the
+kiln method
+described
+in
+section
+5.043.
+Low-temperature
+conditioning
+can
+be accomplished
+similarly,
+except
+that more
+time
+will be
+needed.
+Stock
+so dried could then be
+used without kiln drying.
+The following rules should be observed
+in room drying.
+
+--- PAGE 195 ---
+PROCESSING AND FABRICATION
+189
+5.051.
+Piling.
+Pile foundations should he designed to permit circulation helow
+the
+pile.
+The lowest layer of lumber should be 18 inches above the floor.
+Piles
+should be 2 feet apart, not nearer than 2 feet to outside walls, and not more than
+6
+feet wide.
+Stock not over 6/4 inch thick should be placed on
+1-inch
+stickers.
+For thicker material of random length, 1^-inch stickers should be used for greater
+stiffness and strength.
+Stickers should be evenly alined and not more than 2 feet
+apart for stock up to and including 6/4 inch in thickness and not more than 4 feet
+apart for stock thicker than 6/4.
+5.052. Circulation.
+Small fans may be used when necessary to bring about a
+circulation
+of
+air
+sufficient
+to keep temperatures relatively uniform.
+Figure 5-5.—Collapse in western redcedar.
+5.053. Temperature, Humidity, and Moisture Relations.
+By
+referring
+to
+the
+equilibrium moisture content curves
+(fig. 5-6) one can readily determine the neces-
+sary temperature and humidity conditions required to maintain a desired constant
+moisture content.
+To hasten the
+final drying process,
+the humidity may be
+15
+percent below that required
+to maintain the final moisture content specified.
+In
+most cases
+it should be possible
+to secure the desired temperature and humidity
+conditions by
+controlling
+only
+the
+temperature
+(5-4).
+For
+conditioning
+treat-
+ments, however, steam or water sprays may be required.
+5.06. Storage of Kiln-dried and Air-dried Stock.
+5.060. Storage.
+Aircraft lumber should be dried to meet moisture content and
+casehardening
+specifications, and subsequent storage should be relied upon merely
+to obtain additional benefits in the form of more nearly uniform transverse moisture
+568338—44
+13
+
+--- PAGE 196 ---
+190
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+distribution and further relief of casehardening stresses.
+For
+kiln-dried
+stock,
+at
+least 2 weeks'
+storage
+is desirable for
+this purpose, but
+to maintain the stock in
+satisfactory condition until used in the shop, the storage conditions should be con-
+trolled within the moisture-content range specified.
+In such cases, the stock can be
+either left on stickers or solid piled.
+Stock stored under uncontrolled conditions may become unsatisfactory regard-
+less of the method of piling, because a longitudinal moisture gradient may develop
+in a solid pile and a general moisture pick-up may occur in an open pile.
+Storage of all material before manufacture should be under conditions that will
+deliver the stock sound, free from seasoning defects, and at a suitable moisture con-
+tent.
+In order to reduce moisture changes or to secure wood at a given moisture
+content,
+it may be necessary to equip the storage shed, or factory, with humidity-
+O
+10
+20
+30
+40
+50
+60
+70
+80
+90
+TEMPERATURE (DEGREES FAHRENHEIT)
+Figure 5-6.—Equilibrium moisture content curves.
+Example: To determine what temperature should be maintained when
+the outdoor temperature
+is 30° F., the relative humidity 80 percent, and the desired equilibrium moisture content is 8 per-
+cent, proceed as follows: From the intersection of the (vertical) 30°-temperature line and the (horizontal) 80-percent relative
+humidity line, extend a line midway between the adjacent (concave) vapor-pressure lines until
+it intersects a line midway
+between the 7- and 9-percent moisture-content lines indicated on the right-hand ordinate.
+The reading on the bottom scale
+at the point of the second intersection is about 47°.
+control equipment so that the range of moisture change may be controlled.
+The
+humidity should be
+so
+controlled that the moisture content
+of stock other than
+propeller material cannot
+fall below 8 percent or rise above 12 percent.
+Propeller
+stock should be
+stored under
+conditions that maintain
+the moisture content
+at
+between 5 and 7 percent.
+Stock that has been dried to the acceptable moisture content,
+if kept dry, may
+be held for an indefinite period without deterioration from seasoning defects, such
+as checking, honeycombing, stain, and decay.
+5.061.
+Effect of Storage on Insect Attack.
+Certain woods are subject to insect
+attack even after drying.
+The Lyctus powder-post beetle attacks
+especially the
+seasoned sapwood of hickory, ash, and oak, and
+it also damages other hardwoods
+such as black walnut, maple, black cherry, elm, yellowpoplar, and sycamore.
+Other
+powder-post beetles attack both heartwood and sapwood, and both hardwoods and
+softwoods.
+Stored stock that is subject to borer attack should be moved in rotation,
+so that none of
+it
+will remain exposed
+to infestation for an excessively long time.
+
+--- PAGE 197 ---
+PROCESSING AND FABRICATION
+191
+In
+addition,
+such stock should be examined
+regularly and
+carefully, and
+borer-
+infested stock should be either heat-sterilized or destroyed.
+Infestation of adjacent
+stock
+is merely a matter of time
+if proper preventive measures are not observed.
+The larvae of the Lyetus beetles bore inward, giving little or no early indication of
+their presence and thus making prompt recognition of infestation highly
+difficult.
+Borers eat holes from
+#«
+to
+lA inch in diameter and leave wood powder in them.
+When a hole penetrates an
+exterior surface, the powder can be jarred out.
+Badly
+tunneled wood can easily be broken.
+5.062.
+Effect of Heat on Strength Properties of Wood.
+The
+effect
+of tempera-
+tures above normal atmospheric on the strength
+properties of wood has not been
+fully explored.
+During and immediately after World War I, extensive studies were
+made at the Forest Products Laboratory of the effects of kiln drying (5-7).
+These
+demonstrated that with such temperatures as are specified in AN-W-2a (105° F. to
+t35° F. at the beginning and 135° F. to
+165°
+F. at the end of the run according to
+the species
+and the thickness) and with
+proper control
+of
+relative humidity and
+other
+factors, wood
+could
+be
+kiln dried without any deficiency in strength prop-
+erties as compared to the most carefully air-dried stock.
+It was also indicated that
+higher temperatures,
+if applied for the length of time required for kiln drying, were
+likely to be damaging, particularly to shock resistance.
+The time involved
+in kiln drying
+is usually a matter of days or
+even weeks.
+It
+is obviously to be expected that considerably higher temperature may be applied
+safely when the period of exposure is only a few minutes or a fraction of an hour as
+in the drying of veneers.
+In recent tests on Douglas-fir and Sitka spruce, green wood
+in a thickness of one-eighth inch heated to 320° F. between hot plates for 20 minutes
+was not deficient in strength properties as compared to matched material that was
+carefully air dried.
+Considerably longer heating periods (up to 4 or 5 hours) at this
+temperature caused practically no decrease in modulus of elasticity
+(stiffness) or
+in
+modulus of rupture (bending strength), but the periods of one-half hour or longer
+caused a definite deficiency in shock resistance which increased progressively with
+prolongation of the heating period.
+The tests have also shown that heating in steam
+at 320° F. for 4 hours produces definite decreases in all strength properties and have
+demonstrated that heating in steam
+is more deleterious than heating between hot
+plates.
+Veneer for use in plywood
+is in some instances made from logs that have been
+soaked for some hours in hot water to facilitate cutting and is often dried at tempera-
+tures of approximately 300° F. in order to expedite production.
+Temperatures up to
+about 320° F. are used subsequently in gluing plywood with thermosetting
+resins.
+Glued
+airplane
+parts
+are
+often
+subjected
+during
+assembly
+to
+temperatures
+well
+above the normal atmospheric value.
+Although these heating periods are ordinarily
+brief,
+the
+available data indicate
+that there may be
+some
+deleterious
+effect
+on
+strength properties.
+Furthermore, effects may be more pronounced on some species
+than on those on which tests have been made.
+Consequently it
+is desirable that in
+general temperatures applied
+in processing or preparing wood
+for use
+in
+aircraft
+should be kept as low and the aggregate duration of elevated temperatures as brief
+as possible.
+Subsequent to the original drying, elevated temperatures are ordinarily
+applied only to wood that
+is low in moisture content to which
+it
+is believed such
+temperatures are
+less harmful than to green or wet wood, although there
+is
+little
+specific information on this point.
+There are few specific data on the strength of wood at temperatures other than
+the usual summer and winter room values (5-8).
+Wood at comparatively high mois-
+ture content
+is made weaker and more flexible when the temperature
+is raised and
+such information as
+is available indicates that
+it
+is made stronger and
+stiffer and
+possibly less shock-resistant when the temperature
+is lowered.
+It
+is probable that
+
+--- PAGE 198 ---
+192
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+the temperature within the range to which aircraft
+is subjected has no large effect
+on the strength of wood in the normally dry state in which it is used.
+5.063. Seasoning References.
+(5—1) Forest Products Laboratory.
+1940.
+wood
+handbook.
+U.
+S.
+Dept.
+Agr.
+(Unnumbered
+Pub.),
+326
+pp.,
+illus.
+(Revised.)
+(5-2) Markwardt, L.
+J.
+1941.
+aircraft
+woods: their
+properties,
+selection,
+and
+characteristics.
+Forest Products Laboratory Mimeo. R1079.
+(Revised.)
+(5-3) Mathewson, J.
+S.
+1930.
+the air seasoning of wood.
+U.
+S. Dept. Agr. Tech.
+Bull.
+174, 56 pp.,
+illus.
+(5-4)
+—
+1937.
+MOISTURE
+fluctuations
+in
+lumber
+within
+closed
+storage
+sheds
+con-
+trolled
+with
+electrical
+equipment.
+Forest
+Products
+Laboratory
+Mimeo. R1140.
+(5-5)
+Scheffer, T. C, and Lindgren, R. M.
+1940.
+stains
+of sapwood
+and
+sapwood
+products
+and
+their
+control.
+U.
+S.
+Dept. Agr. Tech. Bull. 714, 123 pp.,
+illus.
+(5-6) Thelen, R.
+1929.
+kiln drying handbook.
+U. S. Dept. Agr. Bull. 1136, 96 pp., illus.
+(Revised.)
+(5-7)
+Wilson, T. R. C.
+1919.
+the effect of kiln drying on the strength of airplane woods.
+Na-
+tional Advisory Committee for Aeronautics.
+Report No.
+68, 60 pp.,
+illus.
+(5-8) Kollman, Franz.
+1941.
+THE
+mechanical
+properties
+of wood
+of
+different
+moisture
+content
+within
+— 2uo°
+to
++200°
+f.
+temperature
+range.
+National
+Advisory
+Committee for Aeronautics Tech.
+Memo. No. 984.
+5.1 CONTROL OF HUMIDITY IN FACTORIES
+5.10. General
+In the construction of aircraft under assembly line production
+methods, dimensional changes in partly worked units mean waste of materials, loss
+of time, and upsetting of the production schedule; hence, dimensional stability of
+wood parts is important as a factor of production.
+Since dimensional changes in wood are caused principally by changes in moisture
+content,
+it follows that conditions should be maintained in the wood shop that will
+prevent moisture changes.
+To minimize such changes, the moisture content of the
+wood at the time of manufacture should be as nearly as possible that which it would
+attain in service.
+The specifications establish limits of moisture content for wood
+parts at time of assembly at 5 to 7 percent for propellers and 8 to 12 percent for other
+parts.
+During World War
+I some data were
+collected by
+the Forest Products
+Laboratory on the moisture content of wood in Army and Navv airplanes
+(table
+5-9).
+Table 5-9.
+Moisture content of wood airplane parts under service conditions
+Kind of construction
+Service
+Speci-
+mens
+tested
+Moisture content
+Stations
+where
+samples
+were
+taken
+1
+Kinds of
+woods
+tested
+Average
+for
+speci-
+mens
+tested
+2
+Maxi-
+mum
+for any
+one sta-
+tion and
+wood
+Mini-
+mum
+for any
+one sta-
+tion and
+wood
+Solid and laminated wood
+3
+Propellers
+.
+.
+Armv_
+.
+do___
+Number
+10
+9
+7
+10
+6
+Number
+4
+Number
+371
+75
+39
+419
+35
+Percent
+11. 5
+10. 3
+13. 9
+12. 7
+13. 8
+Percent
+14.
+11. 3
+16. 7
+15. 3
+17. 8
+Percent
+9. 3
+8. 4
+11. 7
+8. 8
+9.
+1
+Plvwood
+do.__
+Solid and laminated wood
+3
+Plvwood
+_
+Navy.
+_
+___do.__
+10
+4
+1 Army and Navy stations are considered separately, although they are frequently located close to each other.
+2 Grand average for all stations where determinations were made; station averages were prorated on number of specimens
+tested.
+3 Exclusive of propellers.
+
+--- PAGE 199 ---
+PROCESSING AND FABRICATION
+193
+Tlnoughout a large part of the United States,
+the moisture content of wood
+stored or used out of doors and protected from rain averages about 12 percent.
+In
+the drier areas of the Southwestern States the average moisture content of wood is
+about 8 or 9 percent.
+Coastal zones in the Southeastern States, along the Gulf of
+Mexico, and in the Southwest average slightly higher than 12 percent, as do also
+tropical regions.
+In most
+States, outdoor
+relative humidities during
+the summer
+arc
+usually
+sufficiently high
+so that satisfactory equilibrium moisture content conditions can
+be maintained by adequate ventilation.
+However, when cool weather comes in the
+fall and buildings are heated, an important change takes place wherein lower humid-
+ities and equilibrium moisture content values
+are encountered.
+As the outside
+temperature decreases
+it can hold less and less water vapor per cubic foot than
+it
+could at higher temperatures, but when heated
+to normal temperatures, without
+changing its water content, this outside air has a greater capacity for moisture and
+since the relative humidity is the ratio of the quantity of moisture present in air to
+that which could be held at a given temperature, it is correspondingly lowered.
+This
+causes drying of materials stored or housed in heated buildings and workrooms. An
+illustration of the operation of this principle will be found by a study, of table 5-10.
+In this table an average relative humidity of 75 percent for out-of-door conditions
+is assumed for illustrative purposes.
+It is also assumed that no water is addedjto
+the inside space.
+This latter assumption, although not strictly true where people
+are working and manufacturing operations are in progress, is nevertheless sufficiently
+accurate to show approximately how conditions inside a building may change as
+out-of-door conditions vary and why wood dries out during the winter in a heated
+building.
+Table 5-10.
+Effect, of outside temperatures on inside humidities and equilibrium moisture content
+values when the outside relative humidity
+is 75 percent
+Outside
+temperature
+Corresponding inside con-
+ditions at 72° F.
+Relative
+humidity
+Equilibrium
+moisture
+content
+°F.
+Percent
+Percent
+70
+70.
+1
+13.
+65
+59.
+10. 6
+60
+49. 5
+9.
+55
+41. 3
+7. 7
+50
+34. 4
+6. 7
+45
+28. 5
+5. 8
+40
+23. 5
+5.
+35
+19. 3
+4. 3
+30
+15. 6
+3. 6
+25
+12. 4
+2. 9
+20
+9. 8
+2. 5
+15
+7. 7
+1. 9
+10
+6.
+1. 5
+5
+4. 6
+1.
+1
+3. 6
+(
+l
+)
+-5
+2. 7
+(')
+-10
+2.
+1
+(')
+-15
+1. 6
+0)
+-20
+1. 2
+0)
+-25
+0. 9
+0)
+iLeis than
+1.1.
+
+--- PAGE 200 ---
+194
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Some manufacturers of wood airplanes maintain a relative humidity of about
+55 percent in the wood shop.
+This relative humidity keeps the wood at a moisture
+content
+of about
+10 percent.
+Stock
+is brought into the shop from the kilns or
+storage rooms at or near this moisture content value and held in stickered stock piles
+for a week or more before being cut up.
+Since cold-gluing processes add moisture
+to the wood, the larger sized laminated parts are sent to a conditioning room after
+gluing
+(fig. 5-7) as discussed in section 5.28.
+Figure 5-7.—Spars in conditioning room.
+To prevent
+the moisture content of material being processed from becoming
+too low
+it is desirable to maintain a relative humidity of about 45 percent during
+the winter when inside humidities are otherwise likely to drop to very low levels.
+This condition would prevent moisture content values from falling below about 8
+percent and would not introduce so serious a condensation problem as
+if a higher
+humidity were maintained.
+Condensation on windows and skylights may be mini-
+mized by double glazing, by heating the glass with steam
+coils, or by circulating
+warm
+air across the glass surfaces.
+Drip from condensing surfaces should be pre-
+vented wherever it
+is likely to damage materials being processed.
+Preventive measures can be incorporated in new buildings at very little added
+expense.
+This
+is particularly true in the "blackout" type where no windows are
+used, as suitable vapor barriers in the side walls and ceilings are all that
+is needed.
+Where windows are used, they should be either double glazed or of the insulated
+block type.
+
+--- PAGE 201 ---
+PROCESSING AND FABRICATION
+195
+Since humidification
+is not a requirement
+in the entire plant but primarily in
+the wood shop,
+it may be practical in buildings already erected to install protection
+for some or all of the vulnerable places as described.
+5.11. Methods of Humidity Control.
+Where the storage of wood at a definite
+moisture content is desired, a room built inside a building, preferably with no exterior
+exposure and equipped with air-conditioning apparatus, makes an arrangement that
+can be used at any time during the year with satisfactory results.
+The apparatus
+and controls may be designed to meet the particular needs.
+A definite moisture content in lumber 

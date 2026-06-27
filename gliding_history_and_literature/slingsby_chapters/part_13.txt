@@ -1,0 +1,814 @@
+om
+his school's Grasshopper and took off, unfortunately 
+crashing immediately on the hallowed turf of the school 
+cricket pitch. According to him, in their next match the 
+school bowlers made good use of the rut he had gouged. 
+Some school groups broke all the rules by using a 
+double bungee for launching, and hops were achieved 
+in this way. Many of the fields were not large enough to 
+permit even a primary glider to fly without reaching or 
+flying over the boundary. To prevent serious mis- 
+adventures of this type, Slingsby produced special 
+spoilers which could be fitted to the leading edges of the 
+wings. With these in place it was not possible for the 
+Grasshopper even to hop.
+From Slingsby's viewpoint the T-38 was a profitable 
+exercise, and there is no doubt that many boys did 
+learn a good deal not necessarily about flying from 
+their exercises with these gliders. They continued in 
+use for many years, and a few have survived until 
+recent times to be resold on the civilian market. They 
+have some nostalgic attraction, but after a very few 
+flights primary gliders tend to lose their novelty and are 
+derigged and stored. One, WZ791, is in the RAF 
+Museum at Hendon, where it was exhibited above the 
+entrance hall in 1992. According to Peter Elliott, the 
+museum staff took six hours to assemble the aircraft. 
+Several others exist in other museums.
+Type 38 Grasshopper data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o. a. 
+Wing section
+Weights
+Tare 
+Flying 
+Wing loading
+11.8m (39ft) 
+16.16m2 (174 ft2) 
+8.73
+6.3m(21ftl 1/2in) 
+G6ttingen426
+132.9kg (2931b) 
+249kg (5501b) 
+15.13kg/m2 (3.11b/ft2)
+Grasshopper WZ761 after emerging from the factory at 
+Kirbymoorside. The fabric covering of the rear fuselage bay 
+was partly removed following flight tests. (Slingsby collec­ 
+tion)
+Grasshopper WZ754 suspended on its pendelbock at 
+Bridlington School in 1976, with cadets. (P. J. V. Elliott, RAF 
+Museum, Hendon, RefPO19499)
+
+--- PAGE 173 ---
+WZ754 at Bridlington, apparently just airborne. The bungee 
+crew stand in the background (P. J. V. Elliott, RAF Museum, 
+Mention, RefPOl9498)
+Grasshopper WZ791 on display at the RAF Museum, 
+Hendon, in 1992. Although basically a very simple aircraft, 
+rigging a primary glider correctly was not straightforward 
+because the cables had to be correctly tensioned to ensure 
+that the wings and tail unit were accurately aligned. To get 
+this aircraft into position for display occupied the museum 
+staff for 6 hours. (M. Simons)
+The pilot's seat and controls of the Grasshopper at Hendon. 
+The Ottfur release hook at the extreme nose, the ballast 
+boxes and the rubber ring skid suspension are also shown. 
+(M. Simons)
+171
+
+--- PAGE 174 ---
+Prototype
+Modified 
+tail skid
+NACA 63 620
+3
+Main production 
+canopy
+Skylark 2 S
+Slingsby
+Tip section 
+NACA 4415
+Type 41
+Skylark 2
+Drawn by Martin Simons 1992
+
+--- PAGE 175 ---
+Type 41, Skylark 2
+The Skylark 2 was envisaged as a straightforward 
+development of the original Skylark, Slingsby's Type 
+37, and when design work began in 1953 it was 
+described as the T-37B. It was soon apparent that an 
+entirely new design was emerging, and the type 
+number 41 was allocated. (The T-39, an unpiloted 
+target glider, and T-40, a powered racing aeroplane, 
+were never built.) The new Skylark inherited very little 
+from the Skylark 1 except the general concept of a 
+three-piece wing and the low-density gaboon plywood 
+used for the skins. The value of the NACA '6 series' 
+aerofoil sections had been widely recognised by this 
+time, but the T-41 used the 20 per cent thick NACA 63.3 
+620 profile instead of the 18 per cent thick section of 
+the T-37. The wingtip section was also changed. 
+Slingsby had been advised that the low-drag profiles 
+did not work well at low Reynolds numbers (associ- 
+ated with narrow wing chords at low airspeeds), and 
+reverted to the older NACA 4415 with 3° of aero- 
+dynamic washout to prevent tip stalling.
+A most important innovation was the use of glass- 
+fibre reinforced plastics (GRP). As long ago as 1944, in 
+articles for the magazine Sailplane and Glider, W. R. 
+Scott had suggested that the era of the all-plastic air- 
+craft was approaching. He described various different 
+types and uses of plastics and mentioned impregnated 
+wood, paper and cloth materials, although the possibil- 
+ity of using glass fabric as a structural material had not 
+yet been considered. In the late 1940s, asbestos fibre 
+reinforced plastic materials were used by F. G. Miles's 
+Company in the construction of a prototype wing for 
+the Kendall K1 two-seat sailplane. Neither the material 
+nor, after six years' work, the K 1 design, proved 
+successful.
+When glass-plastic composite materials became 
+readily available, Slingsby was quick to see their poten- 
+tial. Polyester rather than epoxy resins were used at 
+this stage, and there was not yet enough confidence for 
+the new materials to be used for any of the load bearing 
+structure, but it was expected that experience in man- 
+ufacture and service would lead to their more wide- 
+spread adoption. The Skylark 2 had a large proportion
+of its fuselage skin ahead of the wing moulded in one 
+piece, and the wing and tail unit tips and some small 
+fairings were made of the same material. Such three- 
+dimensionally curved parts of sailplanes had previ- 
+ously been built up by scarfing together large numbers 
+of small pieces of plywood. The GRP moulding tech- 
+nique saved a great deal of time in production and gave 
+a much more accurate and stable surface. The 
+Kirbymoorside factory was thus in the forefront of new 
+developments in both aerodynamic design and materi- 
+als of construction.
+The general opinion of the British pilots who had 
+flown the T-37 was that it was somewhat too fast for 
+British conditions, with a higher wing loading and 
+hence higher stalling speed and larger turning circle 
+than required for British thermals. The span of the T-41 
+was increased to 14.63m (48ft), slightly short of the the 
+15m which was likely to become the limit for the pro- 
+posed new Standard Class for contest sailplanes, and 
+the aspect ratio was reduced to 16. Despite the lower 
+aspect ratio the new type would be more satisfactory 
+at low airspeeds. With a better fuselage of semi-mono- 
+coque construction, as usual for high-performance 
+sailplanes, the parasitic drag would be reduced, so the 
+T-41 would represent a considerable advance on the 
+original Skylark.
+The choice of the 20 per cent thick wing section was 
+guided by study of drag curves from the NACA wind 
+tunnels. These showed that while thick profiles had 
+somewhat higher minimum drag than thin sections at 
+the ideal angle of attack, the thick sections had a very 
+broad range of low drag values. Colloquially, the 'drag 
+bucket' of the thick sections on the wind tunnel charts 
+was wider, although slightly shallower. The best lift-to- 
+drag ratio, or L/D, commonly used as an index of aero- 
+dynamic efficiency, is of less importance in soaring 
+than might be expected. A sailplane on a cross-country 
+flight is normally flying slowly, circling to gain height in 
+a thermal, or gliding straight at high airspeed to make 
+distance and reach the next upcurrent with minimum 
+loss of height and time. There is little re;ison ever to fly 
+at the theoretically ideal minimal drag speed corro
+173
+
+--- PAGE 176 ---
+SLINGSBY SAILPLANES
+spending to the maximum L/D ratio. By using a thick, 
+low-drag section with a wide drag bucket, the Skylark 
+2 would have a slightly poorer maximum L/D figure 
+than some other sailplanes, but it would climb better 
+and cross the gaps between thermals faster.
+All the advantages of the low-drag sections would be 
+lost if the wing surface was not accurate in service, and 
+for this reason the thick, low-density gaboon plywood 
+which proved successful on the T -37 was used again 
+for the Skylark 2, with the same kind of accurately 
+machined spruce leading edge and carefully smoothed 
+joints. The ply skin of the wing centre section was 
+carried right over the mainspar to the rear auxiliary 
+spar, before which the laminar boundary layer would 
+have made its transition to turbulence. Behind this, the 
+wing was fabric covered. Subsequent research, includ- 
+ing measurements of the profile drag of the centre 
+section in flight, showed that the Skylark wing profile 
+did achieve the anticipated low-drag figures.
+On the outer panels of the wing, which tapered to the 
+'turbulent flow' tip section, some weight was saved by 
+covering with fabric alone behind the mainspar. The 
+ailerons, plywood skinned to ensure adequate stiff- 
+ness, were mass balanced. A rather large piece of lead 
+on a steel arm was bolted to the aileron spar but wholly 
+concealed inside the wing. The aileron hinges of the 
+Skylark 2 were very simple and mounted flush with the 
+top skin of the wing, instead of the more usual centre- 
+mounted hinge with elaborate fairing of the gap. The 
+Skylark hinge line was easily sealed with tape, and on 
+the underside the gap that opened when the aileron 
+was raised provided some drag which helped to 
+counteract adverse yaw. This arrangement was one of 
+the outcomes of the research on lateral controls that 
+had been done with the T-37. Airbrakes of the 
+Schempp-Hirth type were fitted.
+The centre section of the wing was made almost the 
+same span as the length of the fuselage with rudder, so 
+the two main components of the aircraft could be 
+housed in the trailer side-by-side. This had the dis- 
+advantage of making the centre section rather heavy, but 
+the T-41 was not a very large aircraft and the weight was 
+not unreasonable. To rig the Skylark, the fuselage was 
+held upright as the centre section was lowered bodily 
+into pc >sition. Two long steel pins, one on each side, were 
+then inserted from the front to join the front and rear fit- 
+tings to the fuselage main frames. Controls were linked 
+through a central hatch in the wing. The tip panels, 
+j< >ined when rigging with a single vertical steel pin, were 
+much shorter and lighter. Connection to the ailerons was 
+very simple, the drive mechanism being entirely within 
+the centre section, with a short pushrod to the aileron 
+horn at the extreme inner end of the control surface.
+The fuselage was a simple streamlined form of oval 
+cross-section, skinned with gaboon plywood aft of the 
+glass-plastic nose. The wing was mounted on a low 
+pylon which faired into the cockpit canopy in front. 
+Behind the trailing edge, the line of the wing profile was 
+continued down to fair neatly into the rear fuselage. The 
+cockpit was large and comfortable, with a fairly upright
+seating position and a small blown bubble transparent 
+canopy. There was a simple landing wheel with skid. By 
+now, the importance of stability for sailplanes which 
+were to be flown blind in cloud had been well recog- 
+nised. The Skylark 2 had a long rear fuselage and large 
+tail surfaces of rather angular appearance which 
+ensured safe handling characteristics.
+The first flight of the new sailplane was made in 
+November 1953, about eight months after that of the 
+Skylark 1. Test flights by EGA Test Group No 1, based 
+at Lasham, showed everything normal, though Ann 
+Welch had some interesting moments when flying at an 
+extremely far aft e.g. position, the Skylark taking five 
+full turns to come out of a spin after initiation of the 
+recovery procedure. With a normal e.g. there were no 
+problems.
+It was at once apparent that the new sailplane was 
+going to be a very successful and safe aircraft with 
+good performance and that, when the International 
+Standard Class rules had been settled, the Skylark 2 
+would be a contender in the World Championships for 
+this category. The new class rules were framed around 
+the old Olympia 2B with a span limitation of 15m, a 
+wheel and effective airbrakes as leading requirements, 
+and elaborations such as flaps and ballast tanks were 
+not allowed. Slingsby's order books filled rapidly, and 
+the Skylark 2 entered full-scale production. It was 
+ordered by clubs and private groups, a number were 
+exported and a few were built from kits, including two 
+in New Zealand. The total produced was 63, more than 
+any previous Slingsby high-performance sailplane. In 
+production, the original small cockpit bubble was 
+replaced by a much larger canopy which made the 
+cockpit more comfortable and the view better, but did 
+not improve the airflow over the wing.
+In July 1955, Derek Piggott in a Skylark 2 made a 
+climb in a thunderstorm over Lasham which broke the 
+British gain of height record. The only gyro instrument 
+fitted was a turn and slip indicator. There was no 
+oxygen breathing equipment. The Skylark was struck 
+several times by lightning and there was damage from 
+hailstones. When he essayed to leave the cloud and 
+descend with airbrakes open, Piggott was carried up 
+and reached almost 7,500m (25,000ft) above sea level 
+before emerging from the cloud. He was very lucky to 
+survive with the aircraft still intact and himself still 
+conscious, though in a strange condition because of 
+repeated shocks and lack of oxygen.
+In the 1958 World Championships, held at Leszno in 
+Poland, Philip Wills flew a Skylark 2 in the Standard 
+Class. He was placed 13th out of 24 competitors, which 
+was disappointing, but he insisted that the aircraft 
+could not be blamed. What was probably more impor- 
+tant was that, in the inaugural design competition for 
+the Standard Class, the Skylark 2 did not win. The 
+sailplane that took the design award was the Ka 6BR, 
+designed by Rudolf Kaiser of Germany. Although Wills 
+believed that the Skylark had a bet t er performance, the 
+Ka 6 was cheaper and lighter. Within a few years the 
+total number of Ka 6s and variants produced exceeded
+1 74
+
+--- PAGE 177 ---
+TYPE 41,SKYLARK 2
+700. By 1961 the Skylark 2 was no longer in production, 
+and Slingsby admitted in print that it was, after all, sur- 
+passed in performance by the Ka 6.
+The Skylark 2 was the basis for some experiments 
+intended to improve its performance. A group at the 
+Bristol Gliding Club set out to clean up the design in 
+detail, reducing the angle of incidence of the wing to 
+cut parasitic drag at high speeds, improving the wing- 
+to-fuselage junction, fairing the wheel and making 
+other changes, all of which combined to make a 
+measurable improvement. The author rebuilt a Skylark 
+2 during 1965-7. The aircraft was the one used by 
+Piggott for his thunderstorm climb, which, some ten 
+years later, had been almost written off in an accident 
+at Husbands Bosworth. During the reconstruction 
+work, marks from the lightning strikes and hail were 
+discovered in several places. The span was extended 
+to the full 15m with slightly upswept Horner wingtips 
+to reduce vortex drag, and the wing section was mod- 
+ified at the leading edge in accordance with research 
+and advice from Dr F. X. Wortmann of Stuttgart 
+University. The main fuselage frames were cut down in 
+height by about 150mm, and the wing incidence 
+reduced. The cockpit was redesigned to allow a semi- 
+reclining seat and a Skylark 4 transparent canopy was 
+adapted. These changes did produce a slight improve- 
+ment in performance, and the aircraft, which still flies 
+regularly, is now known as the Skylark 2S.
+Type 41 Skylark 2 data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o.a. 
+Wing sections
+Root
+Mid-span
+Tip
+Weights
+Tare 
+Flying 
+Wing loading
+14.63m (48ft)
+13.4nr (144.3 ft2)
+16
+7.315m (24ft)
+NACA633 620 
+NACA633 620 
+NACA4415
+209kg (4611b) 
+308kg (6791b) 
+23kg/m2 (4.7151b/ft2)
+Skylark 2 over Lasham during tests by the BGA Test Group 
+No. 1. (Charles E. Brown, RAF Museum Hendon, neg No. 
+6605-4)
+Fred Slingsby with the prototype Skylark 2 under construc­ 
+tion. The small cockpit canopy, thick wing section and the 
+aileron pushrod at the outer end of the centre section are 
+visible. Slingsby himself is pressing the remote control 
+button of the camera in this picture. (F. N. Slingsbtf
+
+--- PAGE 178 ---
+The prototype Skylark 2 being flown over Lasham by Ann 
+Welch. (Charles E. Brown, RAF Museum, Hendon, neg No. 
+PO 35029)
+The Skylark 2 in Western Australia. This aircraft was No 41 
+on the Gliding Federation of Australia register. (F Hamilton)
+Philip Wills in the cockpit of the Skylark 2 at Lasham, with his 
+daughter. (Charles E. Brown, RAF Museum, Hendon, neg 
+No. PO 35018)
+
+--- PAGE 179 ---
+The production version of the Skylark 2, with much-enlarged 
+cockpit canopy. (Charles E. Brown, RAF Museum, Hendon, 
+negNo. 6831-8)
+In recent times, the Skylark 2 continues to give good service. 
+This example, with a modified cockpit canopy, participated in 
+a vintage glider rally at Camphill in Derbyshire in 1987. 
+(M. Simons)
+M. Simons with the rebuilt and modified Skylark 2S at 
+Dunstable in 1987, 20 years after the rebuilding was com­ 
+pleted. The emblem, designed by Elizabeth Hargreaves, 
+represents a phoenix rising from the flames. Unkind persons 
+described it as an exploding chicken.
+177
+
+--- PAGE 180 ---
+Prototype 
+wing
+Root section 
+NACA633 618
+Tip section 
+NACA4412
+Slingsby
+Type 42
+Eagle
+Drawn by Martin Simons 1993
+
+--- PAGE 181 ---
+Type 42 Eagle 
+and T-55 Regal
+Many useful training two-seat gliders and sailplanes 
+had been built and flown after the Margarete emerged 
+from the Darmstadt Akaflieg in 1923. Its modern 
+counterparts were the Slingsby T-21 and T-31. High- 
+performance two-seaters were rarer, but a few had 
+appeared, notably the German Kranich, which had 
+been built in large numbers and a few of which sur- 
+vived the Second World War. In post-war Britain there 
+was a recognised need for a two-seat sailplane with 
+sufficient performance to give instruction in cross- 
+country flying. The EGA in 1947 organised a two-seat 
+sailplane design competition which produced several 
+very promising projects on paper. The winner was 
+Hugh Kendall's K1. This was eventually built and flown 
+in 1954, but many late changes were made, including 
+shortening the fuselage and replacing the orthodox tail 
+unit with a V tail. The prototype was found to be 
+extremely dangerous in spins, and the K 1 was aban- 
+doned after many attempts to rectify the trouble. The 
+remains were eventually burned at Dunstable in the 
+late 1960s. Slingsby did not enter the EGA competition. 
+He might have submitted an improved version of his 
+Gull 2, which would probably have done very well.
+Following the success of the T-34 Sky single-seater 
+there was a project for a two-seat version which would 
+have been the T-36. Some work was done on this in 
+1952. When the advantages of the NACA low-drag 
+'laminar flow' wing profiles were realised, a new 
+approach was adopted and the outcome in 1953 was 
+the T-42. Details were announced in the spring of 1954 
+and the prototype flew in June of that year. The name 
+was chosen by Hulton's, proprietors of the children's 
+comic paper Eagle, who sponsored the entry of the air- 
+craft in the World Championships at Camphill.
+A major problem with two-seat sailplanes is that, if 
+the seats are side-by-side, the fuselage is unduly broad, 
+which increases drag. Furthermore, such an aircraft 
+cannot be flown solo without the addition of ballast to 
+keep the e.g. forward. With tandem seating the fuse- 
+lage can be made narrower and the rear pilot can be 
+seated on, or very close to, the point of balance, so 
+that, if the rear seat is empty, the e.g. remains
+unchanged. With a normal wing layout the rear cockpit 
+has to be located either above, below or within the 
+wing root. The pilot's vision is then severely restricted. 
+Every possible solution to this problem had been tried 
+in the past. Like many earlier types the T-31 trainer had 
+the wing mounted high enough to dear the pilot's head, 
+so the view down was excellent, but in turns the 
+banked wing prevented any outlook to the inside of the 
+turn. This was dangerous for a sailplane in thermals, 
+when other sailplanes were likely to be in the way. The 
+Kranich and the American Schweizer TG-2 had the 
+pilot's head emerging from the centre of the wing, 
+which gave a good view into turns, but there was no 
+view down. The Short Nimbus of 1946 had the second 
+pilot's seat on the main wing spar of a low wing mount- 
+ing, which gave excellent visibility but produced an 
+unduly deep fuselage and increased the drag almost as 
+much as a side-by-side arrangement would have done.
+The USSR's world record breaking 
+KIM 
+3 
+Stakhanovetz had shown the best solution, which was 
+to give the wings pronounced forward sweep. This 
+creates some difficulties in design and construction, 
+but if these are overcome the result is very satisfactory. 
+Many modern two-seaters, such as the Janus, the Ka 13 
+and Twin Astir, use forward sweep together with a 
+shoulder or mid-wing position. The Eagle wing had 
+tandem seating and the high mounted wing was swept 
+forward. There was also a substantial cut-out in the 
+leading edge at the junction with the fuselage. The only 
+reason for these features was to improve the view from 
+the rear cockpit.
+Following the Skylark 1 and 2, the Eagle used the 
+NACA six-digit wing profiles tapering to an ordinary 
+four-digit profile at the tip, with 3° of washout to 
+control any tip stalling tendencies. Also like the 
+Skylark, the wing was built in three pieces, the outer 
+panels being connected to the centre section with a 
+single vertical steel pin with automatic engagement of 
+very simple front and rear fittings. There vvus a 
+straightforward pushrod connection for the aileron 
+drive. The centre section, with no dihedral, carried the 
+large Schempp-Hirth-type airbrakes. The outer wing
+179
+
+--- PAGE 182 ---
+SLINGSBY SAILPLANES
+panel mainspars were swept forward enough to 
+produce a straight leading edge at 90° to the centre 
+line, and were set at a slight dihedral angle. A heavy 
+mainspar of I cross-section with spruce flanges and 
+plywood webs took the bending and shear loads. 
+Accurately made wooden ribs were glued fore and aft. 
+Ahead of the spar the wing was skinned with low- 
+density gaboon plywood to resist torsion and preserve 
+accurate contours. The skin was carried back to the 
+auxiliaiy spar except for the outer wing panels, which 
+were fabric covered. The mass-balanced ailerons were 
+also skinned with plywood.
+The Eagle's fuselage was a built-up wooden space 
+frame of rectangular cross-section, covered mostly 
+with fabric but with a rounded turtledeck behind the 
+wing. This type of structure, similar to that of the 
+Skylark 1 and T-21, was light and easily built and 
+repaired although it lacked in aerodynamic refinement. 
+The seats were arranged as close together as possible, 
+and the rear set of rudder pedals were on either side of 
+the front seat, suitably enclosed. The fuselage was 
+widened by about 190mm to make this possible. The 
+cockpit canopy was in two sections, the front portion 
+hinged on the right side, the rear portion hinging to 
+open upwards and backwards. The large, angular tail 
+unit was of orthodox wooden construct ion, the eleva- 
+tor and rudder being fabric covered and the fixed sur- 
+faces skinned with gaboon plywood. Glass reinforced 
+plastic mouldings were used for the nose cap and 
+decking around the cockpits, for the parachute boxes 
+and internal cockpit lining, and for small fairings else- 
+where. There was still no attempt to use glass for any 
+stressed components.
+In something of a rush, the Eagle was made ready for 
+the 1954 World Championships at Camphill. During 
+their practice flying for this event, Ann and Lome 
+Welch used it to break the British two-seater distance 
+record with a 248km (154-mile) flight from Lasham to 
+Great Yarmouth, but it was already apparent that the T- 
+42's performance was not coming fully up to expecta- 
+tions, and the rear cockpit was very uncomfortable for 
+long flights. The seating position was such that the 
+pilot sat bolt upright, even having to lean forward 
+slightly. In the contest, which was affected by bad 
+weather so that only four contest days were achieved, 
+the T-42 finished seventh out of nine two-seat entries. 
+The winner was the very refined Yugoslavian Kosava.
+The Eagle prototype came into prominence on 14 
+May 1954, when it was used by Lome Welch and Frank 
+living to make the first crossing of the Channel by a 
+two-seat sailplane. The flight began just after 11 a.m. 
+with an aero-towed launch from Lasham. After a strug- 
+gle for the first hour, progress improved and a climb 
+was made to 2.400m (8,000ft) near the coast, the 
+sailplane emerging from cloud with slight icing immedi- 
+ately above Dover at about 1.40 p.m. The glide across to 
+France was uneventful, and sufficient height remained 
+to continue soaring. The Eagle passed over Brussels at 
+840m (2.800ft) and continued in weakening conditions, 
+to land in a field near Louvain at 4.20 p.m. Frank living,
+whose duties during the flight had been chiefly those of 
+navigation and record keeping, had been so uncomfort- 
+able in the rear seat that he was almost unable to stand 
+upright for some time after the landing. The distance 
+covered was 402km (250 miles). The British two-seat 
+distance record had been broken again, and this was 
+only the fourth soaring flight across the Channel.
+The prototype Eagle continued in service as a club 
+glider at Lasham. Derek Piggott flew it solo in the 1957 
+National Championships, and in June 1958 it collided 
+in cloud with a Sky. The pilots of the Eagle saved them- 
+selves by parachute, the glider falling in the garden of a 
+house in Lasham village just after a tea party had 
+ended. The Sky lost about 4m (13ft) of one wing, but 
+the pilot was able to retain control and make a safe 
+landing on the aerodrome.
+Meanwhile, Slingsby had been working. The obvious 
+cause of the prototype's disappointing performance 
+was the leading-edge cut-out, and the T-42A or Eagle 2 
+had a much simplified wing with a straight leading 
+edge. This improved the airflow considerably. The 
+slight penalty in terms of pilot view was accepted. The 
+rear seat was redesigned for greater comfort, the 
+centre section was shortened to lighten it for rigging, 
+the tips were lengthened to make up the difference and 
+the brakes were moved outwards.
+In 1956 the World Gliding Championships were held 
+at St Yan in France, this being the last occasion on 
+which two-seaters were counted as a separate class. In 
+the usual last-minute rush before a major competition, 
+test flights showed that the controls of the T-42 A were 
+not light but they were effective, giving an adequate 
+rate of roll and good harmony between stick and 
+rudder in turns. The stability in pitch was such that 
+some pilots found it excessive, but in a machine 
+intended for cloud flying this was reckoned to be a 
+good fault. The pilots for the Internationals, Nick 
+Goodhart and Frank Foster, did not have a chance to 
+fly the aircraft until they arrived in France.
+Compared with the very sleek two-seaters which 
+were entered from other countries the T-42 was con- 
+sidered rather ugly, and various uncomplimentary 
+nicknames, 'mahogany bomber', 'sardine tin' and 'soap 
+box', were applied. Nick Goodhart and Frank Foster 
+astonished everyone by winning after six contest days 
+with a substantial lead. It was pointed out that, despite 
+appearances, the Eagle had a good performance, was 
+not too costly and had many practical advantages 
+including ease of rigging, de-rigging and repair.
+The T-42B or Eagle 3 used the same wing and tail unit 
+but the airbrakes were enlarged by 10 per cent. A 
+marked change of trim when the brakes were opened 
+was cured by adding a second elevator trim tab 
+coupled to the brakes so that it moved with them to 
+cancel the trim change. The cockpits were still further 
+improved by lengthening the nose 15cm. In this form 
+the T-42B entered production in 1957. The first cus- 
+tomer was Peter Scott, the famous naturalist, who 
+used what he christened his Sen Eaalfj for many excel- 
+lent flights, including those for his 'Gold C' badge in
+180
+
+--- PAGE 183 ---
+TYPE 42, EAGLE
+1958. Seventeen T-42Bs were built, Most remained in 
+Britain, but three were exported to New Zealand and 
+one to Germany.
+A final variation was the T-55 Eagle 4, or Regal Eagle, 
+which was a modification of a standard Eagle 3 done 
+by Slingsby in 1957. This had the centre section 
+extended to give a total span of 20m (65.6ft). It was 
+used by Wally Kahn and John Williamson to break the 
+two-seat goal flight record with a flight from Odiham 
+(towed there from Lasham) to Perranporth in 
+Cornwall, a distance of 312km (193 miles).
+The prototype Eagle wing under construction, showing the 
+marked cut-out in the leading edge at the centre. (Slingsby 
+collection)
+Type 42 Eagle data 
+Dimensions
+Prototypes Eagle 1 & 2
+Wingspan 
+17.86m (58.5ft) 
+Wing area 
+2 1.4m2 (230 ft-) 
+Aspect ratio 
+14.6 
+Length o.a. 
+8.3m (27.25ft)
+Eagle 3
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o.a. 
+Wing sections
+Root
+Mid-span
+Tip
+17.73m (58.2ft)
+22.3nr(24()ft-)
+14.8
+8.5m (27.9ft)
+NACA (>:*., 618
+NACA63.618 
+NACA4412
+372kg (8201b) 
+562kg (l,2401b) 
+26.4kg/m-(5.41b/ft2)
+Weights
+Tare 
+Flying 
+Wing loading
+The original Eagle in flight over Lasham. Various attempts 
+were made to improve the airflow over the centre-section. In 
+this case there appears to be a small turbulator behind the 
+cockpit. (Charles E. Brown, RAF Museum, Hendon, neg No. 
+6605-10)
+Another view of the first Eagle in flight. The turbulator is just 
+visible. The emblem on the front of the fuselage came from 
+the owners and sponsors of the aircraft, the Eagle children's 
+paper which was popular at the time. (Charles E. Brown, 
+RAF Museum, Hendon, neg No. 6605-13)
+**%
+181
+
+--- PAGE 184 ---
+Ann and Lome Welch with the Eagle on a typically gloomy 
+day at the 1954 World Championships, held at Camphill in 
+Derbyshire. (Charles E. Brown, RAF Museum, Hendon, neg 
+No. 6568-13)
+The Eagle 3, much-improved in performance by redesign of 
+the wing. The centre-section cut-out was gone, slightly spoil­ 
+ing the view from the rear seat. (Slingsby collection)
+An Eagle 3 at Lasham. The airbrakes were now part of the 
+outer wing, instead of being in the centre section. A fixed trim 
+tab on the port aileron indicates that this particular aircraft 
+had a 'one wing low' tendency, probably after repairs.
+182
+
+--- PAGE 185 ---
+The prototype Eagle 3 at the Kirbymoorside factory. 
+(Slingsby collection)
+The cockpits of the Eagle 3. The feet of the rear pilot, on the 
+rudder pedals, were on either side of the front seat, necessi­ 
+tating a wider fuselage. (Slingsby collection)
+Eagle ZK-GBD in New Zealand. (P. Layne)
+
+--- PAGE 186 ---
+7620
+I
+t- - -
+—
+_ _
+1 —— J-
+r ~ ~
+\
+——— -^X
+"~"J^^l~— — ——
+. —— — —
+— — —I — — "
+00
+486-|
+•380*~380-|-380*|-380
+<380~|-380-|-380~|~390*|~g4-——1032
+I 
+' 
+! 
+I f\i I
+---T t--
+.---, UL-
+63 620
+3
+Tip 
+MAC A 4415
+Skylark 3 F
+co
+Cvl
+Slingsby 
+Type 43 
+Skylark 3
+530
+Drawn by Martin Simons 1993
+
+--- PAGE 187 ---
+Type 43, Skylark 3
+The future of the Slingsby Sailplanes Company was in 
+some doubt after the death in April 1955 of J. E. D. 
+Shaw, who, with Fred Slingsby, had founded and sup­ 
+ported the company in its early days and was its chair­ 
+man. His large majority holding of shares had to be 
+sold to defray death duties on his estate and one 
+prospective buyer, an aircraft manufacturer in search 
+of more business, planned to close the Kirbymoorside 
+factory and move its operations to the south of 
+England. To prevent this, Philip Wills, chairman of the 
+EGA, set about forming the Shaw Slingsby Trust to 
+take over the company. There were delays and legal 
+problems, and the threat of eventual closure was not 
+entirely removed.
+Operations in Yorkshire continued, and the 
+company was about to achieve its greatest successes. 
+For a few years from 1955 the Type 43, Skylark 3, 
+achieved the kind of prominence that Fred Slingsby 
+must often have dreamed about in the preceding 
+decades. Two sailplane designs dominated this period. 
+In the Standard Class, limited to a 15m wingspan, the 
+Ka 6CR from Germany was outstanding. More of this 
+type were built than any other high-performance 
+sailplane before or since. In the unrestricted or 'open' 
+class the Skylark 3 became the recognised leader, 
+though the number produced in total never reached 
+anything like the figures for the Ka 6.
+The Skylark 3 first flew in July 1955. It was basically 
+a simple aircraft, a straightforward development of the 
+successful T-41 Skylark 2, of orthodox structure and 
+sold at a relatively low price. It was not, like most of its 
+immediate international competitors, an expensive 
+'orchid'. The same materials were used as for its 
+smaller stablemate; spruce spars, longerons, ribs and 
+frames, and low-density gaboon plywood for the 
+stressed skins and glass-polyester resin mouldings for 
+the unstressed front fuselage shell, wingtips and fair­ 
+ings. Skylarks 2 and 3 were in production at the same 
+time in the foe lory, many of their components being 
+identical.
+The most important aerodynamic change was an 
+increase of wingspan from a little under 15m to just
+over 18m, with a consequent improvement in aspect 
+ratio to 20.5. This was a high figure for a wooden 
+sailplane. Even the remarkable Meteor, a very 
+advanced all-metal prototype from Yugoslavia which 
+flew in the same year, did not quite achieve this figure. 
+Increasing the aspect ratio of a wing is the most impor­ 
+tant means available of reducing wingtip vortex drag. 
+At low airspeeds, as when a sailplane is circling in a 
+thermal, vortex drag is normally more than half the 
+total drag of the entire aircraft, so any saving here can 
+make a very large improvement in soaring per­ 
+formance. Providing the aspect ratio is high, the 
+inevitable increase in structure weight can be toler­ 
+ated. A high wing loading is desirable in any case for 
+efficient flight at the other end of the airspeed scale, for 
+penetrating areas of sinking air during the search for 
+more thermals, so the fact that the Skylark 3 without 
+the pilot tipped the scales at 253kg (55lib) did not 
+count against it, except when it came to ground han­ 
+dling, rigging and de-rigging.
+To increase the span of a good small sailplane is 
+therefore the most obvious way to improve its per­ 
+formance, but such an exercise is not without difficul­ 
+ties. The stresses in the wing, especially near the root 
+end, increase very greatly and the mainspars have to be 
+much stronger. The three-piece wing of the Skylark 
+simplified the spar design because there was no need 
+for costly metal fittings in the centre. The fuselage 
+could be hung on the wing by the simplest method. The 
+two main cross-frames in the fuselage carried four fit­ 
+tings corresponding with those on the wing spars. Two 
+long steels rods, inserted from the front and passing 
+through the front fittings to engage the rear ones as 
+well, united the wing and fuselage. The airbrakes, suit­ 
+ably enlarged, were built into the c

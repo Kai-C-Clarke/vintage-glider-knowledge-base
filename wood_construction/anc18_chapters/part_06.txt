@@ -1,0 +1,1642 @@
+he analysis of
+the bolted connection.
+If a fitting factor is used, the 1.7 cut-off factor can be used with
+safety.
+2.901. Bearing at an angle to the grain. When the load on a bolt is applied at an
+angle between 0° and 90° to the grain, the allowable load (proportional limit or ultimate)
+may be computed from the expression
+N=
+—
+(2:87)
+1
+P sin* 6+Q cos2 6
+K
+}
+where
+N = The allowable bolt load at angle
+6.
+P = The allowable bolt load parallel to the grain.
+Q = the allowable bolt load perpendicular to the grain.
+6 = the angle between the applied load and the direction of the grain.
+Equation 2:87
+is solved graphically by the Scholten Nomograph, figure 2-54.
+
+--- PAGE 122 ---
+116
+ANC BULLETIN—DESIGN OF W OOD AIRCRAFT STRUCTURES
+10
+9
+06
+0.7
+Ob
+0.5
+04
+03
+0.2
+0.1
+VARIATION IN RATIO OF ULTIMATE
+BEARING 5TRE55 TO ULTIMATE COM-
+PRESSIVE STRESS PARALLEL TO GRAIN
+WITH VARIATION IN ^ RAT10
+\
+\
+cu~,r-OFI
+/
+7
+CO T- OF~F AT Fbrp
+10
+12.
+BEARING LENGTH -r
+DIAMETER (
+RATIo)
+Figure 2-52.—Bolt bearing stresses parallel to grain.
+lb
+II
+ft
+kj
+20
+IS
+16
+1.7
+1.6
+1-5
+1.4
+1.3
+IZ
+U
+10
+fa RATIO
+10
+II
+IZ
+13
+14
+IS
+lb
+REDL
+OF A
+PERI
+'CT/O
+N STa
+?£ND,
+4TI0L
+N IN
+4NOA
+'CULA
+>
+GRi
+BEAI
+RD A
+R TO
+*ATE
+UNG
+.
+<RCR,
+GRA
+R TH
+5TRE.
+4FT B
+IN F
+AN 9
+S3
+0LT5
+OR
+K4
+GRA
+OA' //
+MAT
+>N Wl
+1 RAT
+£
+CO,
+TH VA
+10
+1PRE
+RIATIC
+SSIV
+W IN
+r/MA'
+E ST
+DIAMi
+TE
+B,
+RE5S
+•LTER
+ZARh
+PER
+OF
+145.
+VG 57
+PEND
+45HEI
+'RES.
+icuu
+? OR am—
+\OLT
+7"C
+7(9
+nrt
+i- m
+vi
+i -
+-
+i
+i
+4
+i
+'i
+i±
+DIAMETER OF WASHLR OR BOLT~D (INCHES)
+Figure 2-53.—Bolt bearing stresses perpendicular to grain.
+
+--- PAGE 123 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+117
+
+--- PAGE 124 ---
+118
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.902. Bearing in woods other than spruce.
+The allowable ultimate loads for
+bearing of bolts in some species of wood other than spruce may be determined by
+multiplying the loads from figures 2-48 and 2-49 by the factors given in table 2-12.
+When the bearing stress curves of figures 2-52 and 2-53 are used, these correction factors
+need not be applied.
+(The value of K discussed in section 2.904
+is also given in this
+table.)
+These factors have been obtained by the following method which can be used
+to obtain factors for species not listed in this table. The factor for loads parallel to the
+grain
+is the ratio of the allowable compressive stress at the proportional limit for the
+species to the corresponding allowable for spruce.
+The proportional limit stresses for
+compression parallel to the grain are given in column
+11, table 2-3.
+For compression
+perpendicular to the grain the proper factors can be obtained by using the ratio of the
+crushing strengths
+in column
+13,
+table
+2-3,
+as these values are proportional to the
+proportional limit values.
+Table 2-V2.—Bearing .strengths of other species as compared to spruce
+Parallel
+Perpendicular
+Species
+to grain
+1
+to grain
+Spruce
+1 .00
+1.00
+1.00
+Douglas-fir (coast tvpe)
+1.40
+1 .55
+1 30
+Fir, noble
+1.02
+1.02
+1.11
+Hemlock, western
+1.18
+1 .13
+1 .09
+Pine, eastern white
+'.
+.96
+93
+1 .12
+White-cedar, Port Orforrl
+1
+22
+1.23
+1.20
+Birch
+1 .37
+1
+89
+.79
+Mahogany
+1.22
+2
+10
+1 .06
+Maple
+1 .40
+2.58
+.69
+Walnut
+1.42
+2.06
+1 .07
+Yellowpoplar
+.94
+.96
+.88
+1 These values for hardwoods apply only at the proportional limit.
+At the ultimate bearing strength they should be
+multiplied by the ratio between the ordinates of the curves for hardwoods and softwoods at the appropriate — ratio in
+figure 2-50.
+D
+- See section 2.904.
+2.903. Combined concentric and eccentric loadings; bolt groups.
+When the de-
+sign loads on a group of bolts are either all concentric or all eccentric and are all in the
+same direction, the allowable loads for the individual bolts may be added directly to
+determine the total allowable load for the group. When the design loads are in different
+directions (as when the load causes a moment about the centroid of the bolt group) or
+when they are partly concentric and partly eccentric, each bolt must be treated separ-
+ately. The design loads and moments must be distributed to each bolt in proportion to
+its resistance and the geometry of the bolt group.
+This often requires a trial and error
+calculation.
+2.904.
+Bolt spacings.
+The following bolt spacing
+criteria are based on spruce.
+For other species, these spacings should be multiplied by the factor K in table 2-12 or
+by the expression:
+K =wk„
+<2:88)
+
+--- PAGE 125 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+119
+where
+Fcp = allowable stress at proportional limit in compression parallel to the grain.
+Fsu = allowable shearing stress parallel to the grain of the material.
+2.9040. Spacing of bolts loaded parallel to the grain.
+(1) Spacing parallel
+to the grain.
+The minimum distance from the center of any
+bolt to the edge of the next bolt in a spruce member subjected to either tension or com-
+pression is given in figure 2-55. The minimum distance from the edge of a bolt to the
+end of a spruce member subjected to tension is also given by this figure.
+The minimum distance from the edge of a bolt to the end of a member subjected
+to compression should be
+bolt diameters.
+(2) Spacing perpendicular to the grain.
+The minimum distance between the edges
+of adjacent bolts or between the edge of the member and the edge of the nearest bolt
+should be one bolt diameter for all species.
+However, pending further investigation of
+the effects of stress concentration at bolt holes, it is recommended that the stress in the
+area remaining to resist tension at the critical section through a bolt hole not exceed
+two-thirds the modulus
+of rupture
+in
+static bending when cross-banded
+reinforcing
+plates are used; otherwise one-half the modulus of rupture shall not be exceeded.
+(3) When a bolt load is less than the allowable load parallel to the grain, the spacing
+may be reduced in the following way:
+The bolt spacing given in figure 2-55 can tbe
+multiplied by the ratio of actual load to allowable load except that the spacing should
+be not
+less than three bolt diameters.
+The bolt spacing perpendicular to the grain
+cannot be reduced below one bolt diameter.
+2.9041. Spacing of bolts loaded perpendicular to the grain.
+(1) Spacing perpendicular to the grain. The minimum distance from the edge of a
+bolt to the edge of the member toward which the bolt pressure is acting should be 3%
+bolt diameters.
+The margin on the opposite edge and the distance between the edges
+of adjacent bolts should be not less than one bolt diameter.
+(2) Spacing parallel to the grain. The minimum distance between edges of adjacent
+bolts should be three bolt diameters and the distance between the end of the member
+and the edge of the nearest bolt should be not less than four bolt diameters.
+(3) When a bolt load is less than the allowable load perpendicular to the grain, all bolt
+spacings may be multiplied by the ratio of actual load to allowable load except that the
+spacing should be not less than one bolt diameter. The distance between the end of the
+member and the edge of the nearest bolt, measured parallel to the grain, should be not
+less than three bolt diameters, however.
+2.9042. Spacing of bolts loaded at an angle to the grain. When bolts are loaded
+at some angle to the grain,
+the
+load can
+be resolved
+into
+components
+parallel and
+perpendicular to the grain and the spacings thereafter determined in accordance with
+paragraphs 2.9040 and 2.9041.
+2.9043. General notes on bolt spacing.
+When
+bushings
+are
+used
+in
+combina-
+tion with bolts, the spacing should be based upon the outside diameter of the bushing.
+When adjacent bolts or bushings are of different diameters, the spacing should be based
+upon the larger.
+When staggered rows of bolts are employed in design, the minimum distance between
+the center lines of adjacent bolt rows should be not less than the sum of the diameters
+of the largest bolt in each row.
+
+--- PAGE 126 ---
+120
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+O
+/
+2
+J
+4
+s
+6
+7
+8
+9
+/O
+//
+/2
+/3
+14
+t -FWC/</V£5S
+OF WOOD M£MS£f?
+/MCHES
+Figure 2-55.—Allowable distances between bolts and allowable end margin for bolts in spruce.
+
+--- PAGE 127 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+121
+2.905.
+Effects
+of reinforcing
+plates. The
+allowable
+concentric
+bearing
+load
+parallel to the grain for a bolt in a wood member symmetrically reinforced with bearing
+plates may be determined as follows
+(1) Compute the L/D ratio based upon the total length of the bolt in bearing.
+(2) From figure 2-52 read the ordinate corresponding to the L/D ratio found
+in
+step
+(1).
+(3) Multiply the factor determined in step (2) by the appropriate maximum crush-
+ing strengths to obtain the allowable bearing stresses of the materials involved.
+(4) Multiply the stresses so obtained by the corresponding bearing areas to obtain
+the allowable bearing loads for each material.
+(5) The summation of these bearing loads is the allowable bearing load of the rein-
+forced member.
+The preceding method applies to plywood reinforcing plates regardless of the angle
+between the load and the face grain direction.
+The allowable concentric bearing load perpendicular to the grain can be obtained
+in a similar manner except that in step (2) figure 2-53 shall be used.
+When the load on a bolt is applied at an angle between 0° and 90° to the grain the
+allowable load may be computed by substituting in equation
+(2:87) the parallel and
+perpendicular bearing allowables determined by the methods outlined in the preceding
+paragraphs.
+The allowable eccentric bearing load will be one-half that obtained by the procedures
+outlined in preceding paragraphs except that in determining the concentric load, an
+allowable bearing stress higher than that of the member may be used only for the plate
+on the side on which the load is applied.
+Care must be taken that the glued area between the plate and the member is suf-
+ficient to develop the load absorbed by the plate from the bolt.
+In order to prevent splitting at the ends and edges of wood members, and also to
+prevent local crushing effects, it is recommended that cross-banded reinforcing plates be
+glued under all fittings. Cross bolts may be used to minimize splitting.
+2.906.
+Bushings.
+Bushings
+of
+light
+alloys
+or
+fiber
+materials may be used
+to
+increase the bearing strength of bolts.
+Since the possible combinations of materials for
+bolts and bushings are numerous, a specific set of allowable loads for all possible combina-
+tions cannot be given here.
+Allowable bearing loads for aluminum bushings used in combination with steel bolts
+are given by the broken curves of figures 2-48 and 2-49 for a limited number of bushing
+sizes. The diameters shown on the curves represent the outside diameters of the bushings.
+The allowable bearing loads for other sizes of aluminum bushings used in combination
+with steel bolts, and for other combinations of materials, should be determined by a
+special test or by a conservative method of interpolation with due consideration of the
+materials used.
+2.907. Hollow bolts. The use of hollow bolts with comparatively thin walls for
+bearing in wood is not recommended, as tests at the Forest Products Laboratory show
+that such bolts are little if any more efficient on a weight basis than solid bolts. When
+used, the allowable stress parallel to the grain may be obtained from N.A.C.A. Technical
+Note 296.
+(Ref. 2-28.)
+In general, tests should be made to determine the allowable
+loads at other angles to the grain.
+
+--- PAGE 128 ---
+122
+ANC BULLETIN—DESIGN" OF WOOD AIRCRAFT STRUCTURES
+2.908 Bearing in plywood.
+For plywood constructed in accordance with specifi-
+cation AN-NN-P-5111) (Plywood and Veneer, Aircraft Flat Panel) or any other approxi-
+mately balanced construction
+(nearly equal thickness of material in both directions)
+the ultimate bearing strength of bolts loaded at any angle to the face grain corresponds
+very closely to the product of Fcuw (ultimate compressive strength parallel to the face
+grain), the projected bolt area, and the L/D correction factor shown in figure 2-52. For
+appreciably unbalanced plywood constructions, use Fcuw and Fcux for bolts loaded at
+0° and 90° to the face grain, respectively.
+For loadings at other angles, use a straight-
+line interpolation. The most common use in which plywood will have to sustain bolt
+bearing loads will be as reinforcing plates on solid wood members (section 2.905).
+2.91. Glued Joints.
+2.910. Allowable stress for glued joints.
+(1) An allowable glue stress equal to one-third Fsu (column 14 of table 2-3) for the
+weaker species in the joint should be used for all plywood-to-plywood or plywood-to-
+solid-wood joints regardless of face grain direction and for joints between solid wood
+members in which the relative grain direction is essentially perpendicular. The reduction
+for joints in which the face grain direction of the plywood is parallel to the grain of the
+solid wood
+is necessary primarily because of the unequal stress distribution common
+to most plywood glue joints.
+(2) The allowable shear stress on the glue area for all joints between pieces of solid
+wood having parallel-grain gluing,
+is equal to the allowable shear stress parallel to the
+grain for the weaker species in the joint. This value is found in column 14 of table 2-3
+and should be used only when uniform stress distribution in the glue joint is assured.
+2.911- Laminated and spliced spars and
+spar flanges.
+Requirements
+for
+lami-
+nated and spliced spars and spar flanges are presented in ANC-19, Wood Aircraft In-
+spection and Fabrication.
+(Ref. 2-4.
+) Provisions for limiting the location of scarf joints
+and for the required slope of grain are included.
+2.912.
+Glue
+stress between web and
+flange. The
+stress on
+the
+glue
+area
+be-
+tween web and flange may be determined by dividing the maximum shear per inch
+in
+plywood by the area of contact per inch.
+For example, the shear stress on the area of
+contact
+is
+fe =f~=l
+(2:89)
+where
+/ fl = shear stress on the area of contact.
+/5 = the maximum shear stress in the plywood.
+/ = thickness of one web.
+d = depth of the flange.
+q = shear per inch in the plywood.
+The allowable stress is determined according to section 2.910.
+If, for example, the
+flange were of spruce and the web were of mahogany-yellowpoplar, the allowable stress
+would be one-third the value for spruce, or 283 pounds per square inch.
+2.92. Properties of Modified Wood.
+It
+is at times desirable to impart modified
+properties to wood for reinforcement at joints, bearing plates, and for other specific uses.
+
+--- PAGE 129 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+123
+Such modifications can be obtained by treating with synthetic resins, by compressing,
+or by a combination of treating and compressing.
+Investigations at the Forest Products Laboratory have produced several types of
+modified wood combinations, such as " impreg," " compreg," "semi-compreg," and " stay-
+pak," which are described in ANC Bulletin 19. When the resin is set within the structure
+by the application of heat prior to the application of assembly pressures, thus greatly
+limiting the compression of the wood, the material is called "impreg." When the treated
+wood
+is subjected to pressures in the range of 1,000 to 3,000 pounds per square inch
+prior to the setting of the resin, resulting in a product with a specific gravity of 1.2 to
+1.4, the material
+is called "compreg." Resin-treated wood with specific gravity values
+between that of impreg and compreg is known as "semi-compreg." Ordinary laminated
+wood or solid wood with no resin within the intimate structure when compressed under
+conditions that cause some flow of lignin is known as "staypak." It differs from material
+made according to conventional pressing methods in that the tendency to recover its
+original dimensions when exposed to swelling conditions has been practically eliminated.
+Some properties of parallel-laminated and cross-laminated modified wood made by
+the Forest Products Laboratory from 17 plies of
+J i6-inch rotary-cut yellow birch veneer
+are presented in tables 2-13 and 2-14, respectively. Average values resulting from the
+specified number of
+tests,
+together with maximum and minimum
+values,
+are given.
+Values for normal laminated wood (controls), impreg, semi-compreg, compreg, and stay-
+pak are presented. Conclusions drawn from these comparative tests must be regarded
+only as indicative, because the number of tests is limited.
+2.920. Detailed Test Data for Tables 2-13 and 2-14. Specimens for test were ob-
+tained from three sets of 24- by 24-inch panels, each made of 17 plies of X$-w.ch yellow
+birch veneer. Each set consisted of two panels of each of the five materials, one panel
+parallel-laminated and one cross-laminated. Panels of a set were formed by assembling
+corresponding plies of the panels from successive sheets of veneer as
+it came from the
+lathe. So far as possible, the veneer for each set was taken from a different log or bolt.
+Except as otherwise noted, tests were made on specimens with the original or formed
+surfaces of the material undisturbed. In general, an equal number of specimens was
+tested from each of the two principal grain directions, lengthwise and crosswise (0° and
+90°), namely, parallel and perpendicular, respectively, to the grain of parallel-laminated
+panels, and to the face grain of the cross-laminated panels.
+Tension parallel to grain (A, tables 2-13 and 2-14). Specimens were
+1 inch wide
+by panel thickness
+(t) by 24 inches long, shaped to have a 2 1 2-inch long central section
+yi inch wide. The taper followed a 90-inch radius on each edge.
+Tension perpendicular to grain and
+parallel to laminations
+(B,
+tables 2-13 and
+2-14).
+Specimens were 1 inch by
+(t) by 16 inches long, shaped to have a 2 1 "2-inch long
+central section
+J 2 inch wide for table 2-13 and
+3^t inch wide for table 2-14, with radii
+of 30 and 60 inches, respectively.
+Compression parallel to grain (C, tables 2-13 and 2-14) and perpendicular to grain
+and parallel to laminations (D, tables 2-13 and 2-14). Specimens were
+1 inch by
+(t)
+by 33^ to 4 inches long for the controls; impreg and semi-compreg specimen lengths were
+approximately 4t.
+Compreg specimens were
+1 inch by
+(t) by 1 inch long for maximum
+and proportional limit stresses, and 1 by
+(t) by 3^2 inches long for modulus-oi'-elasticity
+
+--- PAGE 131 ---
+STRENGTH OK WOOD AND PLYWOOD ELEMENTS
+125
+Si
+1
+302.9
+14.37
+4.8
+22 =
+3,990
+6,130
+367.4
+1839
+11.60
+3.9
+4,810
+6,370
+385.2
+*M8
+4
+12.72
+4.33
+33.7
+4.3
+29.4
+:
+^
+^
+c.
+c.
+5,010
+8,270
+358.8
+173.1
+6.74
+1.30
+1
+3,160
+6,780
+315.5
+136.8
+4.0
+.64
+S
+:
+4,070
+7,370
+333.4
+161.2
+5.40
+.97
+5
+CO
+O
+C.
+S
+i
+II
+l si
+j
+2
+i 2
+1
+i
+if
+i
+s- 8
+;
+t~
+«i
+:
+t>
+!
+;
+II
+1
+S
+1
+: §
+: S
+n k
+c-j
+oa
+O)
+2,580
+4,460
+235.8
+182.0
+2.58
+10.8
+§
+: s
+1,760
+2,640
+194.9
+98.7
+1.13
+5.6
+3
+:
+«
+CO
+2,030
+3,460
+217.0
+151.2
+1.97
+7.93
+3
+j
+•a
+NO
+CO
+j
+eq
+»
+a
+.
+o>
+V
+\
+j 1
+I
+I
+2,3?0
+2,850
+1
+5
+S
+I!
+:
+; I
+1
+1
+a 2
+£>
+CI
+CC
+psi psi
+,000
+psi
+,000
+psi
+)
+In.-lb.
+if
+notch
+Percent
+Percent
+III
+S 5
+"
+ill
+i
+pi
+£ 111!
+•S
+'o
+3
+li
+f
+I
+J
+I
+S S
+H
+=
+P
+
+--- PAGE 132 ---
+126
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+1
+1
+II
+= 1
+II
+11
+15
+S3
+o
+p
+SSS
+IS!
+ill
+SIS
+sp
+ITT
+TP'
+CO N
+SIS
+IIS
+II
+111
+SSS-
+o?
+«
+SSS
+a s -
+s" 3 3
+HI
+g § s
+5 « 3
+-6
+.1
+II
+I!
+§3
+d
+8 5F
+II
+1!
+iff
+III
+:!SS
+3 ,1
+582
+«-
+S3 N
+IP
+JWW
+* -
+IS 5
+SI
+IP
+='
+si
+~"
+IP
+§11
+» S -
+lis
+ilT
+11
+it
+If
+1
+51!
+.
+i
+s -
+III
+<P
+CO* rH
+I
+,1 |
+5 00 «
+lis
+III
+III
+IT
+IS
+II
+SI!
+SSS
+II!
+II!
+SI!
+in
+CO
+00 «
+ill
+III
+I
+i
+II
+li
+I!
+IT
+t-" of ~
+PIT
+«
+to
+-i
+111
+|SS
+™3 S
+SIS
+1H
+IIS
+SIS
+Si
+1!
+li
+is
+§1!
+S s B
+III
+IIS
+cd
+I»-
+IS
+1
+•8
+II
+II
+II
+III
+o> * «
+111
+» s «
+II!
+ill!
+SIS
+III
+ii
+IS
+TIT
+3 5 2
+III
+III
+IS
+IF
+Hi
+t
+If
+III
+a a I
+EI a
+III
+II
+III
+C II1
+!
+I
+I
+11
+{ill
+111
+iiii
+*S
+'S
+
+--- PAGE 133 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+
+--- PAGE 134 ---
+128
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+determinations.
+Staypak specimens were 1 inch by
+(t) by 2 and 4 inches long for pro-
+portional limit and modulus data, and 1 by (t) by 1 and 2 inches long for maximum stress.
+Compression perpendicular to laminations (E, tables 2-13 and 2-14).
+Specimens
+were
+1 by
+1 inch by panel thickness
+(t), except for compreg and staypak, which con-
+sisted of two thicknesses of material, each
+1 inch square, placed one upon the other.
+Deformations were measured between the
+fixed and movable heads
+of the
+testing
+machine.
+Static bending (F and G, tables 2-13 and 2-14).
+Specimens 1 inch wide by height
+(t) were tested as a simple beam with center loading on spans ranging from 14t to 16t.
+Shear parallel to grain and perpendicular to laminations (H, table 2-13).
+Notched
+specimens were 2 inches by
+(t) by 2 1 i inches
+(as illustrated in figure
+13 of A.S.T.M.
+specifications
+for
+tests of small
+clear
+timber specimens, Designation D143-27) with
+shearing surface 2 inches by
+(t).
+Specimens tested in the Johnson-type shear tool were
+1 inch by
+(t) by 3 inches (two 1-inch by
+(t) shearing surfaces).
+Modulus of rigidity tests
+(I,
+table 2-13 and H,
+table 2-14) were conducted on
+panels approximately 24 inches square by full thickness of the material, using the plate
+shear method developed by the Forest Products Laboratory for measuring the shearing
+moduli of wood, as described in Mimeograph No. 1301.
+Torsion tests (J, table 2-13 and I, table 2-14) were conducted on rectangular speci-
+mens of width 3t by thickness
+(t) by 16 to 24 inches long, gripped flatwise and with
+detrusion measuring
+device
+applied
+to
+their
+edges.
+Following
+tests on
+these,
+with
+torque kept within the proportional limit, specimens were cut to a width of 2t and the
+test repeated.
+Toughness (K, table 2-13 and J, table 2-14) specimens
+5
+% by
+(t) by 10 inches long
+with grain of parallel-laminated material and face grain of cross-laminated
+material
+parallel to length were tested over an 8-inch span on the Forest Products Laboratory
+toughness machine with plane of laminations parallel to direction of load.
+Impact
+(Izod type) specimens
+(L, table 2-13) had the grain lengthwise and the
+notch in an original surface.
+Some of the staypak specimens were
+less than
+inch
+thick, but the dimension from the base of the notch to the opposite face was standard.
+Water absorption (M, table 2-13) specimens were 1 by ? 8 by 3 inches. The grain was
+parallel to the 1-inch dimension. One face was an original surface sanded and the other
+surfaces were machined. Specimens were heated for 24 hours at 122° F., cooled, weighed,
+immersed in water at room temperature for 24 hours, and the percentage increase in
+weight during immersion calculated.
+Fabricated thickness changes (N, table 2-13).
+Equilibrium swelling and recovery
+from compression were determined from specimens }i inch by (t) by 2 inches long (grain
+parallel to the
+J s-inch dimension).
+Specimens were immersed in water at room tem-
+perature until equilibrium moisture content was reached, and the percentage increase
+in thickness (swelling plus recovery) calculated.
+The specimens were then oven-dried,
+measured, and percentage recovery and equilibrium swelling determined.
+
+--- PAGE 135 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+129
+REFERENCE FOR CHAPTER
+2
+(2-1)
+Elmendorf, A.
+1920.
+. data on the design op plywood for aircraft.
+N. A.C.A.
+Tech. Report 84.
+(Also
+Forest Products Laboratory Mimeo. 1302.)
+(2-2)
+Forest Products Laboratory
+1940.
+wood handbook.
+U. S. Dept. Agr. Unnumbered Publ.
+(Revised.)
+(2-3)
+1941.
+specific gravity-strength relations for wood.
+Forest
+Products
+Laboratory
+Mimeo. 1303.
+(2-4)
+1943.
+wood aircraft inspection and fabrication-.
+AXC-19.
+(2-5)
+Freas, A. D.
+1942.
+methods of computing strength and stiffness of plywood strips in bending
+Forest Products Laboratory Mimeo.
+1 304.
+(2-6)
+Jenkin, C. F.
+1920.
+REPORT ON MATERIALS USED IN AIRCRAFT AND AIRCRAFT ENGINES.
+(Gr. Brit.)
+Mu-
+nitions-Aircraft Production Department.
+Aeronautical Research Committee.
+(2-7)
+Lewis, W. C. and Dawley, E. R,
+1943.
+stiffeners in box beams and details of design.
+Supplement to: Design
+of Ply-
+wood Webs in Box Beams.
+Forest Products Laboratory Mimeo.
+1318A.
+1 2—8)
+Lewis, W. C; Heebink, T. B.; Cottlngham, W. S.; and Dawley, E. R.
+1943.
+buckling in shear webs of box and I-beams and the effect upon design criteria.
+Supplement to: Design
+of Plywood Webs
+in Box Beams.
+Forest Products Laboratory
+Mimeo.
+1318 B.
+(2-9)
+Liska, J. A.
+1942.
+TENTATIVE METHOD OF CALCULATING THE STRENGTH AND MODULUS OF ELASTICITY OF
+plywood in compression.
+Forest Products Laboratory Mimeo.
+1315.
+(2-10)
+Lundquist, E. E.; Kotanchik, J. N.; and Zender, G. W.
+1942.
+a study of the compressive strength of stiffened plywood panels.
+N. A.C.A.
+Advanced Tech. Note.
+(Restricted.)
+(2-11)
+March, H. W.
+1 941
+.
+SUMMARY OF FORMULAS FOR FLAT PLATES OF PLYWOOD UNDER UNIFORM OR CONCEN-
+TRATED LOADS.
+Forest Products Laboratory Mimeo. 1300.
+(Revised.
+(2-12)
+1942.
+BUCKLING OF FLAT PLY WOOD PLATES IN COMPRESSION, SHEAR, OR COMBINED COMPRES-
+SION and shear.
+Forest Products Laboratory Mimeo.
+1316.
+(2-13)
+1942.
+flat plates of ply wood under uniform or concentrated loads.
+Forest Prod-
+ucts Laboratory Mimeo. 1312.
+(2-14)
+1943.
+buckling of long, thin plywood cylinders in axial compression.
+Forest Prod-
+ucts Laboratory Mimeo. 1322 and supplements 1322-A and 1322-B.
+(2-15)
+Markwardt, L. J.
+1930.
+aircraft woods: their properties, selection, and characteristics.
+N. A.C.A.
+Tech. Report 354.
+(Also Forest Products Laboratory Mimeo. R1079.)
+(2-16)
+1938.
+FORM FACTORS AND METHODS OF CALCULATING THE STRENGTH OF WOODEN BEAMS.
+Forest Products Laboratory Mimeo. R1184.
+
+--- PAGE 136 ---
+130
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(2-17)
+Markwardt, L. J., and Wilson, T. R. C.
+1935.
+STRENGTH AND RELATED PROPERTIES OF WOODS GROWN IN THE UNITED STATES.
+U. S.
+Dept. Agr. Tech. Bull. 479.
+(2-18)
+Xewlin, J. A.
+1939.
+bearing strength of wood at an angle to the grain.
+Engineering News Record,
+May 11, 1939.
+(2-19)
+1940.
+formulas for columns with side loads and eccentricity.
+Building Standards
+Monthly, December, 1940.
+(2-20)
+Newlin,
+.1. A., and Gahagan, J. M.
+1930.
+tests of large timber columns and presentation of the forest products lab-
+oratory column formula.
+U. S. Dept. Agr. Tech. Bull. 167.
+(2-21)
+Newlin, J. A., and Trayer, G. W.
+1923.
+form factors of beams subjected to transverse loading only.
+N.A.C.A. Tech.
+Report 181.
+(Also Forest Products Laboratory Mimeo. 1310.)
+(2-22)
+1924.
+stresses in wood members subjected to combined column and beam action.
+N.A.C.A. Tech. Report 188.
+(Also Forest Products Laboratory Mimeo. 1311.)
+(2-23)
+1930.
+the design of airplane wing ribs.
+N.A.C.A. Tech. Report 345.
+(Also Forest
+Products Laboratory Mimeo.
+1307.)
+(2-24)
+Norris, C. B.
+1937.
+the technique of plywood.
+Hardwood Record, October 1937 to March 1938.
+(2-25)
+1943.
+the application of mohr's stress and strain circles to wood and plywood.
+Forest Products Laboratory Mimeo.
+1317.
+(2-26)
+Norris, C. B. and McKinnon, P. F.
+1943.
+compression tests.
+Supplement
+to: Compression,
+Tension, and Shear Tests on
+Yellowpoplar Plywood Panels of Sizes that do not Buckle with Tests made at Various
+Angles to the Face Grain.
+Forest Products Laboratory Mimeo. 1328 A.
+(2-27)
+Norris, C. B. and Voss, A. W.
+1943.
+effective width of thin plywood plates in compression with face grain at 0°
+and 90° to load.
+Forest Products Laboratory Mimeo.
+1316 E.
+(2-28)
+Trayer, G. W.
+1925.
+bearing strength of wood under steel aircraft bolts and washers and other
+factors influencing fitting design.
+N.A.C.A. Tech. Note 296.
+(2-29)
+1930.
+wood in aircraft construction.
+National Lumber Manufacturers Association.
+(2-30)
+1930.
+the design of plywood webs for airplane wing beams.
+N.A.C.A. Tech Bull. 344.
+(2-31)
+1932.
+the bearing strength of wood under bolts.
+U. S. Dept. Agr. Tech. Bull. 332.
+(2-32)
+Trayer, G. W., and March, H. W.
+1931.
+ELASTIC instability of members having sections common in aircraft construc-
+tion.
+N.A.C.A. Tech. Report 382.
+(2-33)
+Wilsox, T. R, C.
+1932.
+strength-moisture relations for wood.
+U. S. Dept. Agr. Tech. Bull. 282.
+
+--- PAGE 137 ---
+METHODS OF STRUCTURAL ANALYSIS
+131
+CHAPTER 3. METHODS OF STRUCTURAL ANALYSIS
+TABLE OF CONTENTS
+3.0 GENERAL
+133
+3.00
+Purpose
+133
+3.01
+Special Considerations in Static Test-
+ing of Structures
+133
+3.010
+Element Tests
+133
+3.01 1
+Complete Structures
+134
+3.01 10
+Design Allowances for Test Condi-
+tions
+134
+3.01 1 1
+Test Procedure
+135
+3.1 WINGS
+135
+3.10
+General
+135
+3.11
+Two-spar Wings with Independent
+Spars
+135
+3.110
+Spar Loadings
+135
+3.111
+Chord Loading
+138
+3.112
+Lift-truss Analysis
+140
+3.1120
+General
+140
+3.1121
+Lift Struts
+"
+140
+3.1122
+Jury Struts
+143
+3.1123
+Nonparallel Wires
+143
+3.1124
+Biplane Lift Trusses
+.
+.
+.'
+143
+3.1125
+Rigging Loads
+144
+3.113
+Drag-truss Analysis
+144
+3.1130
+Single Drag-truss Systems
+144
+3.1131
+Double Drag-truss Systems
+145
+3. 1 1 32
+Fixity of Drag Struts
+1 45
+3.1133
+Plywood Drag-truss Systems.
+.
+. .145
+3.1 14
+Spar Shears and Moments
+145
+3.1140
+Beam-column effects (Secondary
+bending)
+148
+3.1141
+Effects of Varying Axial Load and
+Moment of Inertia
+148
+3.115
+Internal and Allowable Stresses for
+Spars
+148
+3.1150
+General
+148
+3.1151
+Wood Spars
+149
+3.116
+Special Problems in the Analysis of
+Two-spar Wings
+150
+3.1 160
+Lateral Buckling of Spars
+150
+3.1161
+Ribs
+150
+3.1 162
+Fabric Attachment
+151
+3.12
+Two-spar Plywood Covered Wings
+. 151
+3.120
+Single Covering
+151
+3.121
+Box Type
+151
+3.13
+Reinforced Shell Wings
+151
+3.130
+General
+151
+3.131
+Computation of Loading Curves.
+153
+3.1310
+Loading Axis
+153
+3.131 1
+Loading Formulas
+153
+3. 1 32
+Computation < >f Shear, Bending Mo-
+ment, and Torsion
+155
+3.133
+Computation of Bending Stresses
+. 156
+3.1330
+Section Properties
+157
+3.1331
+Bending Stress Formulas
+161
+3.134
+Secondary Stresses in Bending Ele-
+ments
+163
+3.135
+Computation of Shear Flows and
+Stresses
+164
+3.1350
+General
+164
+3.1351
+Shear Flow Absorbed by Bending
+Elements
+164
+3.1352
+Shear Correction for Beam Taper 167
+3.1353
+Simple D Spar
+167
+3.1354
+Rational Shear Distribution
+169
+3.13540
+Single Cell—General Method.
+.
+. 169
+3.13541
+Two Cell—General Method
+171
+3.13542
+Two-Cell Four-Flange Wing
+.
+.
+. 176
+3.13543
+Shear Centers
+179
+3.136
+Ribs and Bulkheads
+180
+3.1360
+Normal Ribs
+180
+3.13600
+Rib-Crushing Loads
+181
+3.1361
+Bulkhead Ribs
+181
+3.137
+Miscellaneous Structural Problems 182
+3.1370
+Additional Bending and Shear
+Stresses due to Torsion
+182
+3.1371
+General Instability
+182
+3. 138
+Strength Determination
+182
+3.1380
+Buckling in Skin
+183
+3.1381
+Compression Elements
+183
+3.1382
+Stiffened Panels
+183
+3.1383
+Tension Elements
+185
+3.1384
+Shear Elements
+185
+3.2 FIXED TAIL SURFACES
+185
+3.3 MOVABLE CONTROL SURFACES
+. .185
+3.4 FUSELAGES
+186
+3.40
+General
+186
+3.41
+Four-longeron Type
+187
+3.42
+Reinforced-shell Type
+191
+3.421
+Stressed-skin Fuselages
+191
+3.422
+Computation of Bending Stresses
+. 191
+3.423
+Computation of Shearing Stresses 193
+3.43
+Pure-shell Type
+194
+3.431
+Monocoque shell Fuselages
+194
+3.44
+Miscellaneous Fuselage Analysis
+Problems
+195
+3.441
+Analysis of Seams
+196
+3.442
+Analysis of Frames and Rings
+.
+.
+. .196
+3.4421
+Main Frames
+196
+3.4422
+Intermediate Frames
+198
+3.443
+Effects of Cut-Outs
+198
+
+--- PAGE 138 ---
+132
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+3.444
+Secondary Structures Within the
+Fuselage
+198
+3.45
+Strength Determination
+198
+3.5 HULLS AND FLOATS
+199
+3.51
+Main Longitudinal Girder
+199
+3.52
+Bottom Plating
+199
+3.53
+Bottom Stringers
+200
+3.54
+Frames.
+201
+3.55
+Strength Determination
+201
+3.6 MISCELLANEOUS
+201
+References
+203
+
+--- PAGE 139 ---
+METHODS OF STRUCTURAL ANALYSIS
+3.0. GENERAL.
+3.00. Purpose.
+It
+is the purpose of the Methods of Structural Analysis portion
+of
+this bulletin to present acceptable procedures for use
+in determining the internal
+stresses resulting from the application of known external loads to wood and plywood
+aircraft structures.
+The basic design procedures that have been developed for use in
+analyzing metal structures are generally applicable to the problem of wood structures
+provided that suitable modifications are made to account for the differences in physical
+characteristics. The designer's attention
+is directed to existing text material covering
+the treatment of common stress-analysis problems not treated herein, and to the current
+preparation of an Army-Navy-Civil Bulletin, ANC-4 "Methods of Structural Analysis."
+It
+is to be emphasized that the analysis procedures described in this bulletin arc
+not presented as required procedures but represent suggested methods that are accept-
+able to the Army, Navy, and Civil Aeronautics Administration. The nature, magnitude,
+and distribution of the loads for which the airplane structure shall be designed are
+defined by the applicable specification, regulation, handbook, or bulletin of the procur-
+ing or certificating agency.
+Submission of a stress analysis, although such an analysis employs a method of
+procedure which is considered acceptable by the procuring or certificating agency, does
+not necessarily constitute satisfactory proof of adequate strength.
+The stress analysis
+should be supplemented by pertinent test data.
+Unless a structure conforms closely
+to a previously constructed type, the strength of which has been determined by test, a
+stress analysis is not considered as a sufficiently accurate and certain means of determin-
+ing its strength.
+Most desirable
+is a test of the complete structure under the critical
+design-loads.
+However, tests of certain component parts and of specimens employing
+generally typical construction and detail design features are of great assistance both in
+justifying allowable stresses and in proving analysis methods.
+In each individual case,
+the extent and nature of the structural test program required to substantiate the stress
+analysis is specified by the procuring or certificating agency.
+3.01.
+Special Considerations
+in
+Static Testing of
+Structures.
+Since the allow-
+able stress values given in Chapter 2, table 2-3, are based on a definite moisture content
+and method of load application, consideration should be given to these variables, both
+in using element tests to establish design allowable stresses and in designing structures
+to
+be
+statically
+tested
+as complete
+structures.
+Elements
+include
+simple
+structural
+members and details, such as panels, stiffened panels, or sections of spars.
+Complete
+structures include wing panels, center sections, fuselage,
+stabilizer, or other parts
+in-
+dividually or
+in combination.
+These two types
+of
+test
+will be discussed separately
+since they are treated differently.
+3.010.
+Element Tests. A comparison
+of the
+design
+values
+listed
+in
+table
+2-3
+with the results of standard
+tests at 12 percent moisture content
+(ref.
+2-17) shows
+that test results may be made approximately comparable to the design values by the
+133
+
+--- PAGE 140 ---
+134
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+following methods.
+Enough tests should be made to cover variability but the required
+number will be governed by various factors as discussed in the following.
+Case A. When the type of element and the mode of failure are such that the results
+of element tests can be directly related to the physical properties of coupons cut from
+the materials used in the elements, the results of element tests may be corrected by
+the ratio of the design values in table 2-3 to the test coupon values.
+Care should be
+take

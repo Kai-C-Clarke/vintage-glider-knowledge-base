@@ -1,0 +1,1012 @@
+urved
+to the shape of the wing, over each rib and applying pressure by tightening the screws.
+The device is most suitable for assemblies in which the rib spacing is comparatively
+large and the wing ribs heavy.
+Several types of gluing jigs employing heat and sometimes fluid pressure are
+being used to attach the skin to the framing members of wings and fuselages.
+Cross
+sections of two types, both utilizing fluid pressure and heat,
+are shown in figures
+5-61, B and C, and 5-62.
+The jigs shown in 5-61, B, and 5-62 employ an extruded
+rubber tube which exerts pressure and supplies heat from steam passing through
+the tube.
+Pure steam is used, and there is, hence, a definite relation between pressure
+and temperature corresponding to that given in steam tables.
+Ten pounds of steam
+pressure at approximately 240° F. is reported to have been used to set a cold-setting,
+urea-resin glue joint under a % 2-inch plywood skin in about 10 minutes.
+The jig
+illustrated in figure 5-61, C uses air pressure and an electrical strip heater.
+This
+arrangement provides individual control of pressure and temperature to any desired
+level.
+A strip-heater temperature of 200° F.
+is reported to have been used to set a
+cold-setting, urea-resin glue line beneath a % 2-meh plywood skin in about 12 minutes.
+RABBETED JO/NT
+A
+B
+
+--- PAGE 284 ---
+278
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+/JIG FRAME
+CAUL STRIP
+PLYWOOD SKIN
+PLYWOOD SHIN.
+METAL CLAMPING JIG
+EXTRUDED RUBBER
+TUBWG
+A
+AIR PRESSURE
+IN THIS SPACE
+HEAT RE5I5TANT
+RUBBER SHEET
+GLUED TO WOOD
+Figure 5-61.—Devices for applying gluing pressure and heat in covering wings.
+5.4714. Bag Pressure.
+Another method of applying gluing pressure
+to frame
+assemblies involves the use of rubber bags and pressures that can be obtained by
+drawing a vacuum on the bag.
+In
+this operation the
+entire
+skin, preformed
+to
+approximate shape,
+is fastened lightly in place over the frame, the bearing surfaces
+of which had been previously coated with glue.
+A series
+of
+slats somewhat resem-
+bling the arrangement in a roll-top desk is laid over the work, with the slats running
+at
+right angles to the wing ribs.
+The entire assembly
+is then inserted in a rubber
+bag, the end closed, and a vacuum drawn on the bag.
+Since the area of the bearing
+surface of the ribs is small compared to the total area of the wing, the vacuum pres-
+sure will be multiplied several times on the bearing surfaces of the ribs and the
+amount of vacuum must be regulated accordingly.
+Over the spars or other members
+that are parallel to the slats, however, the pressure in pounds per square inch may
+not exceed that indicated by the vacuum, and additional pressure from clamps out-
+side the bag may be necessary on these areas.
+The method is somewhat limited to
+constructions in which most of the
+framing members run in one direction and in
+which the bearing area of the frame
+is small compared to the total surface
+area.
+
+--- PAGE 285 ---
+PROCESSING AND FABRICATION
+279
+Figure 5-62.—Steam-heated pressure jig used to attach plywood skin to framing members.
+PART OF STATIONARY JIG
+XT
+Plywood
+WING NUT
+{L005EN TO APPLY PRESSURE.
+AT GLUE LINE)
+CAUL BLOCK
+'CALIBRATED
+COMPRESSION
+SPRING
+5TIFFENER
+GLUE LINE
+BASE OF STATIONARY JIG
+Figure
+5-63.—Spring-loaded clamping device.
+
+--- PAGE 286 ---
+280
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+i
+In applying the method it is essential, in order to prevent depressing the skin between
+ribs or other supports, that the slats be relatively
+stiff.
+5.4715. Precautions Against Uncontrolled Pressures and Heat.
+In some special
+secondary gluing operations it is necessary to guard against the application of high
+uncontrolled pressures.
+Small, softwood members can easily be crushed by excessive
+pressure.
+Figure 5-63 illustrates a means sometimes used
+to apply controlled pres-
+sure to such small parts, the force being applied by
+releasing a compression spring.
+This type of clamp has the further advantage that the pressure will be relatively un-
+affected by a slight shrinkage of the wood due
+to loss of moisture if the glue joint is
+set rapidly by the application of heat.
+All heated assembly-gluing jigs and special presses heated from one side only
+should be carefully checked before use, and at definite periods thereafter, to guarantee
+temperature conditions adequate
+to
+cure the
+glue.
+The most accurate and con-
+venient method of making this check is to insert thermocouples in the glue lines in
+question, being sure that the glue line farthest from the source of heat is checked.
+5.4716. Pressure Period.
+The gluing pressure should be maintained for at least
+4 hours at ordinary room conditions
+if cold-setting glues are being used.
+The pres-
+sure period may be decreased if equipment is available to raise the temperature during
+the curing period.
+If nail-strip gluing has been used and the nails are to be removed,
+it is probably desirable to allow 6 hours at ordinary room conditions before the joints
+are subjected to the stresses incident to removing the nails.
+5.4717.
+Final Conditioning.
+After
+the
+skinning
+operation
+is
+completed,
+the
+moisture added with the glue should be allowed to diffuse before the final sanding or
+surfacing preparatory to applying finish.
+Under normal room conditions, this will
+require 2 to 3 days, but the process may be accelerated by moderate heat so that an
+extended conditioning period may be unnecessary unless exceptional freedom from
+irregularities is essential.
+5.5. TEMPERATURE MEASUREMENT.
+5.50. General.
+For the measurement of temperatures, such as room or wet-
+and dry-bulb temperatures for humidity control, ordinary glass stem theremometers
+of good quality are entirely satisfactory as indicating instruments.
+The wick of a
+wet-bulb thermometer should be moistened with clean water
+(distilled
+if available)
+and whirled or held in a rapidly moving stream of air until the wet-bulb temperature
+reading has become constant.
+Wicks should be renewed before they become en-
+crusted with mineral deposits.
+Where room temperatures are
+critical, recording instruments are useful in ad-
+justing controllers and in providing a permanent record.
+Various types are avail-
+able, some of which can be moved from one department to another to check conditions
+within short periods of time.
+5.51. Thermocouples.
+A number of temperature measurements can be made
+most conveniently with thermocouples, which consist of fine wires of two different
+metals, usually copper and constantan, for temperature measurements in processing-
+wood.
+Constantan
+is a
+special
+alloy
+of very stable
+properties.
+When a loop
+is
+made of two such wires and the junctions of the wires are at different temperatures,
+an electromotive force
+is set up in the loop which
+is dependent upon the kinds of
+metal used and
+the
+difference
+in temperature between
+the two
+junctions.
+Dif-
+ferences in electromotive force, usually translated into a temperature scale, are ob-
+tained by a convenient portable potentiometer.
+Theimoeouplcs
+aie
+especially
+useful
+for making
+temperature measurements
+in places inaccessible
+by other methods,
+particularly
+in glue
+joints and the
+like.
+They may also be used to check temperatures in various parts of dry
+kilns.
+The
+actual temperature measurement may be made at some distance from the point at
+which the thermocouple
+is located.
+Leads from a number of thermocouples may
+be brought to a central switchboard for reading
+(fig. 5-64).
+
+--- PAGE 287 ---
+PROCESSING AND FABRICATION
+281
+Figure 5-64.—Multiple switching arrangement for reading thermocouples.
+The board may be enlarged to accommodate any
+number of thermocouples.
+
+--- PAGE 288 ---
+282
+AXC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Thermocouple wire is made from metals now difficult to obtain and since wartime
+uses of thermocouples have greatly increased, it is necessary to conserve the wire in every
+possible way.
+If a large number of thermocouples are to be read some distance away,
+a single or common constantan lead may be used for the whole group.
+Thermocouples
+can be made of fine wire (No. 30 or somewhat finer) and may be cutoff and left in the
+work without damage to woodworking tools or the mechanical strength of the parts
+being made.
+It may be obtained bare, enameled, or enameled and cotton covered.
+Long leads may be avoided by the use of the thermocouple extension connection
+shown in figure 5-65.
+This device not only conserves thermocouple wire but affords
+a rapid means of connecting the potentiometer to the thermocouple.
+It has been
+found advantageous to cement the two wires together by stretching 20 or 25 feet
+or more of wire between two points and cementing them together with a rapid-setting
+nitrocellulose glue such as ordinary household cement.
+The cement
+is placed in a
+folded paper and the wires passed through the cement.
+The wires are separated
+for a short distance at the ends and then passed through a previously perforated
+paper board as shown at A in figure 5-65 and twisted as shown at B.
+C and D are
+finished connections with the copper loop through the paper on one side and the con-
+stantan on the
+other.
+The wire covering
+is removed from
+the exposed wire by
+lightly filing.
+A small wood pin
+is placed under the exposed wire at T) merely to
+give
+it a little better elevation.
+An ordinary spring clip
+is used
+to make the con-
+nection as shown at E.
+The thermocouple wire is carried out to the jaws of the clip,
+wrapped closely around the ja ws which have been previously flattened and cemented
+together with nitrocellulose cement.
+After the cement has dried the inside faces
+of the jaws are filed to expose the copper and constantan.
+Both the connection and
+clip should be marked so that the latter may be properly attached.
+Since the wires
+are directly connected no error can be introduced by handling the clip.
+Most
+portable
+potentiometers
+are
+equipped
+with
+temperature-compensating
+devices which make unnecessary
+the
+use
+of a constant temperature
+at
+the
+cold
+junction.
+The use of these instruments is not
+difficult, but a few points should be
+borne in mind by those who have not had experience with them.
+1. The working voltage should be adjusted with the standard cell when measure-
+ments are
+to be made and thereafter at intervals frequent enough
+to maintain
+a,
+uniform working voltage.
+Instructions for making this adjustment usually accom-
+pany the instrument.
+2. The potentiometer should be used in a protected place where the surrounding
+temperature will be as uniform as possible.
+Radiant heat from hot presses, ovens,
+or direct sunlight should be avoided since the compensating device may not function
+accurately under such
+conditions.
+Likewise,
+if an
+instrument
+is
+taken from
+a
+location at one temperature to one at another temperature, the instrument should
+be allowed to come to the approximate temperature of the space before
+it is used.
+3. The covering and enamel on the wire should be carefully removed where the
+junction is to be made.
+This can be done easily by holding the wire in a clamp and
+pulling the ends through fine sandpaper, after which the wire ends should be wiped
+clean and twisted tightly together.
+For ordinary use the twisted tip will give a satis-
+factory contact;
+if the thermocouples are to be used a long time in an inaccessible
+place, however, they should be dipped in hot solder to make a permanent contact.
+A long twist is not necessary or desirable, as the temperature measured is that at the
+point where the two metals first come in direct contact outside of the loop.
+4. The thermocouple junction at which the temperature is to be measured should
+be placed in a critical position in the work and the leads carried out to a point where
+a connection can be made or to a central switch
+if a large number of measurements
+are to be made.
+5. Only the kinds of wire and the calibration for which the potentiometer
+is
+designed should be used with
+it.
+
+--- PAGE 289 ---
+PROCESSING AND FABRICATION
+283
+Figure 5-65.—Thermocouple connection extension to provide a rapid means of making connections for temperature readings.
+6. Where strip heaters are used the thermocouple junction should be in the glue
+joint and so arranged that the wires will not come in contact with the strip heaters.
+7.
+Surface temperatures may be measured by recessing the thermocouple into
+the surface and securing it in place by pressure or by means of a suitable adhesive.
+
+--- PAGE 290 ---
+284
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+8. The use of jacks and clips of different metals from the thermocouple wire for
+switching purposes will not introduce an error if both connections to the thermocouple
+wire are at the same temperature.
+If one end of a clip
+is connected closely to
+a
+thermocouple wire in a heated part, however, an error in the temperature reading
+will result.
+5.6. MACHINING,
+BENDING, AND OTHER WOODWORKING
+OPER-
+ATIONS.
+5.60. General.
+Among the important classes of properties that affect the general
+utility
+of any wood are
+its machining properties, which embrace
+all woodworking
+operations.
+In these, as in other classes of properties, different woods vary widely
+and a given wood may give good results in some
+operations,
+fair in others, and
+poor in
+still others.
+The "workability" of any wood, therefore, cannot be judged
+by one operation, but depends rather upon the summation of all of them.
+In any
+operation there are several factors, both in the wood itself and in the machine, that
+affect the results, and these results may be good or bad depending upon the condi-
+tions under which the work was done.
+Some woods machine well under a relatively
+wide range of conditions, while others are handicapped by the need of exacting tech-
+niques
+if good results are to be obtained (5-31).
+If the machining operation involves the preparation of a surface for gluing, the
+stock should be conditioned
+to
+the proper moisture content for gluing before the
+surface
+is machined
+(sec.
+5.28).
+The two pieces making up a scarf, for example,
+should be as nearly as possible at the same moisture content at the time of gluing; a
+variation of approximately 2 percent is the maximum permissible.
+Any machining
+that is done following gluing should be preceded by sufficient conditioning to obtain
+a uniformly distributed moisture content
+in the member that
+will approximately
+equal its average moisture content in service
+(sec. 5.010).
+Most of the machining operations required in fabricating aircraft parts can be
+carried
+out on equipment
+that
+is
+readily
+available
+in wood-working
+plants.
+In
+many instances, standard equipment can be used directly; in others,
+it can readily
+be adapted and supplemented by jigs and templates for the making of such parts as
+spars, ribs, wing-tip bows, and the like.
+Some operations, on the other hand, do require special procedures, either in the
+way of specialized equipment or special techniques in manufacture.
+Such operations
+are described in greater detail in the following paragraphs, and emphasis
+is placed
+upon the points requiring particular attention.
+5.61. Cutting Scarf Joints.
+The use of some means of joining wood together to
+form long, continuous members
+in the grain direction
+is necessary whenever the
+length desired
+is such that it exceeds that commercially available in a single piece,
+or is desirable from the standpoint of using short lengths of otherwise good material.
+This applies to either solid wood or plywood parts.
+The most satisfactory means for accomplishing this purpose,
+particularly for
+solid wood,
+is a properly made and glued scarf joint.
+Scarf joints have been suc-
+cessfully made at various slopes ranging from 20 to 1 to as steep as 8 to
+1.
+In general,
+other conditions being equal, the steeper the slope the less waste in the cutting of the
+scarf, but the more difficult
+its gluing and the weaker the resulting joint.
+5.62.
+Scarfing Solid Stock.
+The most important
+single item involved
+in the
+making of a scarf joint is the machining of the scarf surface.
+If the two scarf surfaces
+have the proper slope and are smooth, true, and accurately fitted, the gluing can be
+done without difficulty.
+If the surfaces are not accurately fitted, joints of the quality
+essential in aircraft cannot be expected.
+The slope of the scarf may depend on how highly the part is stressed, but a slope
+not steeper than
+1
+in 15 should be used for all stressed parts
+(sec. 2.410).
+The slope of grain with respect to the scarfed surfaces may be greatly increased
+or decreased if the material to be spliced is cross-grained, depending on whether the
+
+--- PAGE 291 ---
+PROCESSING AND FABRICATION
+285
+cut is made across or with the grain.
+All scarf cuts should be made in the general
+direction of the grain, as illustrated in figure 5-66, since the greater the angle the
+grain makes with the scarf the more difficult the surface is to glue
+(sec. 2.4111).
+The laminations in the solid wood members of aircraft usually requiring scarf
+joints are neither unusually thick nor wide; consequently, the scarfs can generally be
+prepared on some standard woodworking machine by the use of special jigs.
+Some
+of the most commonly used methods are described here.
+5.620.
+Planer.
+Figure 5-67 shows the cutting of a scarf joint on an ordinary
+single-head cabinet planer.
+As the stock passes through the planer it is guided and
+held at the proper angle by a heavy, three-part supporting block, preferably made of
+hardwood.
+The central portion of the block is horizontal on the bottom, beveled on
+the top to the desired slope, and is as wide as the material being scarfed.
+To prevent
+the stock from moving sidewise as
+it passes through the planer, two
+rails, equal in
+height
+to the greatest thickness of the beveled
+central portion,
+are bolted
+to
+it,
+forming a channel with a sloping bed.
+The bed of the planer is set low enough to allow the guide block barely to pass
+through.
+The material to be scarfed is laid on the beveled guide, as illustrated, and
+fed through the planer.
+By one or more
+trips, depending upon the thickness of
+the lamination and the power on the cutting head, an accurate scarf can be cut.
+To
+reduce the number of passes, the scarf may
+first be sawed
+to approximate shape
+(sec. 5.625).
+Any tendency of the stock to slide may be prevented by placing sand-
+paper ,'rosin, or small metal spurs on the beveled surface of the jig.
+The spurs may
+A
+INCORRECT
+B
+INCORRECT
+C
+CORRECT
+Figure 5-66.— Consideration of grain direction when making scarfing laminations with cross grain, the slope of grain in the lamina-
+tions being within the permissible limitations of specifications.
+Arrows indicate grain direction.
+simply be small nails partially driven and sharpened on the protruding end.
+It
+is
+important to place the piece in such a manner that its end coincides with the end of
+the sloping surface of the jig, so that the scarf may taper off to a feather edge.
+It is
+necessary to support the free ends of long pieces so that the work lies tightly against
+the slope of the jig and does not bow up, causing the slope of the cut to change.
+5.621. Shaper.
+If the stock to be scarfed is less than 5 inches wide and not too
+long, the operation may be carried out on a vertical spindle shaper equipped with
+straight knives
+(fig. 5-68).
+In this instance, the jig is arranged so that the guide
+runs against the collar of the shaper head and the piece being worked is held at the
+desired angle to the path of travel.
+The piece being scarfed is securely clamped to a
+jig cut to a large radius of curvature to prevent lifting of the end of the piece.
+As in
+the planer operation, the final cut should be light, movement
+(or slippage) of the
+piece with relation to the jig should be avoided, the piece should be placed to taper
+off to a feather edge, and the free ends of long pieces should be supported.
+5.622. Jointer.
+A hand-feed jointer having long tables may be used to produce
+accurate scarfs when equipped with the proper
+jig.
+One suggested type of jig
+is
+shown in figure 5-69, A.
+Here again it is important that the jig be equipped with
+proper and adequate clamps to hold the piece firmly in place.
+The scarf cut should
+be made in at least two trips over the head, the final one being very light.
+5.623. Tenoner.
+On thin, but relatively wide, material it has been suggested
+that a single-end tenoner may be quickly converted into a satisfactory machine for
+568338—44
+19
+
+--- PAGE 292 ---
+286
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5-67.—Cutting a scarf joint on an ordinary single-head cabinet planer.
+APPROXIMATELY
+30 FT RADIUS
+Figure 5-68.—Scarfing operation on a vertical spindle shaper.
+
+--- PAGE 293 ---
+PROCESSING AND FABRICATION
+287
+cutting scarf joints.
+A sketch of this scheme is shown in figure 5-G9, B, as applied
+to a tenoner having nontilting heads.
+If the head can be set at an angle, the piece
+may be held in a horizontal jig.
+Tenoners of this type have heads not longer than
+about 7 inches; therefore the maximum thickness of material on a 15 to 1 scarf would
+be about three-eighths inch.
+Since the travel of the cutters is across the grain of
+the wood, considerable care is required to produce a surface of the requisite smooth-
+ness.
+The spiral knives with which tenoner heads are equipped are advantageous
+in this respect.
+A "back-up" block may be necessary to prevent splintering as the
+knives leave the cut.
+5.624.
+Vertical Cutter-head Scarfing Machine.
+A
+special machine
+for cutting
+scarf joints on laminating stock
+is illustrated
+in figure
+5-70.
+The stock
+is held
+rigidly on a stationary vacuum bed while the cut is made with a high-speed traveling
+THIS PART OF J/6
+A
+LOWER TENONER HEAD
+B
+Figure 5-69.—Scarfing.
+A, jointer.
+Stock is clamped on inclined jig and passed over jointer head.
+Final pass is light, to produce
+straight cut; B, single-end tenoner adapted with beveled jig and hold-down bar for scarfing.
+cutter head.
+The cutter head produces a scarf cut that resembles a smoothly sawn
+surface.
+5.62 5. Saws.
+Scarf joints can, of course, be cut with saws, but to produce sawed
+surfaces that will form a good joint requires unusually good equipment, maintenance,
+and operation as well as careful inspection.
+The degree of care required to produce
+satisfactory gluing surfaces directly from a saw is not ordinarily maintained in pro-
+duction operations, and the average sawed surface is likely to be "fuzzy" and rough,
+with a considerable amount of torn fiber which tends to produce weak joints
+(sec.
+5.21).
+Sawing of the final gluing surfaces should be avoided wherever possible.
+5.63.
+Scarfing Plywood.
+Preparing scarf joints in plywood offers greater diffi-
+culties than in solid wood because some of the plies run at right angles to the direction
+of the cut.
+The pieces are too wide for most planers and the cutting, consequently,
+is usually done at right angles to the grain of the faces, adding to the difficulties of
+feathering
+off
+the
+scarf to
+a fine
+edge.
+Scarf joints
+in plywood accordingly
+are
+sometimes prepared with hand tools.
+The scarf cut, which should have a slope not
+steeper than
+1 in 12, may be made with a plane, electric sander, sandpaper block, wide
+
+--- PAGE 294 ---
+288
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5-70.—Vertical cutter-head scarfing machine.
+spokeshave, or scraper after first firmly clamping the plywood to a solid flat surface.
+In thick plywood, the rough cut
+is sometimes made with a table saw and the scarfed
+surface finished by hand.
+5.630. Hand Plane
+Scarfing Device
+for Thin Plywood and Veneer.
+A hand
+plane may be converted int o a manually operated scarfing tool by means of a suitable
+guide as illustrated in figure 5-71, A.
+For cutting across the grain, however,
+it
+is
+necessary to grind a slight back-bevel on the blade as indicated in figure 5-71, B.
+It is also important to grind a perfectly straight cutting edge at right angles to the
+side of the blade instead of the customary slightly curved cutting edge.
+This device
+operates most
+satisfactorily on
+one-sixteenth-
+to
+one-eighth-inch plywood.
+The
+maximum length of scarf is limited by the width of the blade, and seldom exceeds
+about 2% inches.
+A shorter scarf may be made by the proper adjustment of depth
+and angle of the blade
+(a and b respectively in
+fig. 5-71, A).
+The metal guides
+(c
+of fig. 5-71, A) between which the plane operates prevent lateral movement.
+5.631. Traveling Cutter-head Scarfing Machine.
+One type of scarfing machine
+which employs a traveling cutter head to cut scarfs on plywood panels
+is shown in
+
+--- PAGE 295 ---
+PROCESSING AND FABRICATION
+289
+figure 5-72.
+This is not
+a standard machine but was specially built, perhaps from
+the parts
+of a veneer
+jointer,
+to perform the scarfing operation.
+The maximum
+thickness of plywood which it will cut is determined by the length of the cutter head
+and the minimum thickness by the effectiveness of the hold-downs.
+These limits are
+probably about three-fourths and one-sixteenth inch respectively.
+5.632. Saw-scarfing Machines.
+Another special scarfing machine in which alarge
+heavy saw
+T cuts the scarf is shown in figure 5-73, A.
+This is also an adaptation of a
+B
+Figure 5-71.—Hand plane for scarfing thin plywood and veneer.
+.1, arrangement for cutting a scarf; B, detail of cutting angle.
+The hack-bevel of the plane hlade should make an angle of approximately 75° with the bed of the plane.
+veneer jointer.
+The limits of this machine are about the same as for the traveling
+cutter-head machine, and the accuracy and smoothness
+of the cut depend largely
+upon effective hold-clowns and proper saw condition.
+Frequent sharpening of the
+saw and constant attention to the surfaces produced are necessary to assure satis-
+factory surfaces for gluing.
+A heavy-duty, slow-speed, vertical-spindle shaper can be converted into a satis-
+factory scarfing machine for plywood as shown in the diagrammatic sketch, figure
+5-73, B.
+The knife collars are replaced by large stiffening collars for the saw.
+By
+
+--- PAGE 296 ---
+290
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+building an adequate sliding table of wood framing, the plywood can be guided past
+the saw.
+Adequate and effective hold-downs in front of and following the saw are
+important in obtaining successful results from this machine.
+Saws used for scarfing
+should be of heavy gage and it is advisable to side-joint the teeth lightly to assure
+smooth, uniformly cut surfaces.
+5.633. Sander-drum Scarfing Machine for Thin Plywood and Veneer.
+A
+narrow
+traveling sander drum can be used
+for
+scarfing plywood and veneer
+(fig.
+5-74).
+When properly designed,
+this type of machine
+is capable of making accurate scarf
+cuts on thin plywood and veneer at all angles of grain.
+Machines of this type have
+been used on plywood as thin as %
+o inch and on plastic sheets Xoo inch to % 6 inch in
+thickness.
+The
+practical upper limit
+of thickness
+is about
+}i
+inch.
+The proper
+grade of sandpaper to use depends on the thickness and species of wood or the type
+of plastic sheet to be scarfed, but in general the thinner panels require finer paper.
+HOLD-DOWN
+Figure 5-72.—Traveling cutter-head scarfing machine.
+In no case should felt or other soft back-up material be used on the drum under the
+sandpaper, as such material tends to produce rounded edges and inaccurate scarfs.
+The drum should be of some hard, stable material, such as metal or plastic.
+The
+use of any type of a sanding drum to make complete scarf cuts on relatively thick
+panels is impractical because of the large amounts of material that must be removed
+in the form of sander dust.
+If most of the material
+is removed by some type of
+cutter head or saw, however, the finishing cut may be done accurately on a sanding
+drum.
+5.634. Sander-drum Scarfer for Veneer Strips.
+Strips of thin veneer have been
+scarfed by the use of a small diameter sanding drum and a movable clamping
+jig,
+as indicated in figure 5-75.
+The accuracy of this type of cutting device depends on
+the flatness of the veneer and the precision of the drum and the alinement guides.
+5.635. Rotary Planer Scarfing Device.
+Another scarfing device which in princi-
+ple
+is quite similar to figure 5-75
+is shown in figure 5-76.
+The veneer or plywood
+being scarfed is passed under a small cutter head, sometimes called a "rotary planer."
+To insure that the end of the piece being cut
+is held down, an additional narrow
+hold-down
+is provided at the end.
+The extension illustrated in figure 5-76, B,
+is
+usually left on to protect the feather edge until the piece is ready for gluing, when
+it
+is easily broken off by hand.
+5.64. Routing of Spars.
+Frequently,
+solid or laminated spars are rectangular
+in cross section, or are merely beveled top and bottom, but to reduce weight, may
+be routed.
+Three types of routed spars
+(fig. 5-77)
+are commonly employed:
+a. Constant cross section, I or C in shape.
+b. Constant depth, but routed in portions of the length
+to form
+I- or
+C-shaped cross sections with full-width flanges.
+
+--- PAGE 297 ---
+PROCESSING AND FABRICATION
+291
+HOLD-DOWN
+BAR
+PL YWOOD-
+TABLE
+MOVABLE Of? FIXED
+VENEER -CUTTING
+SAW
+MOTOR MOUNTED ON
+INCLINED CARRIAGE
+MOVABL E OR FIXED
+SANDER DRUM
+PLYWOOD BED
+TRACK,
+Figure 5-74.—Sander-drum scarfing machine for thin plywood and veneer
+
+--- PAGE 298 ---
+292
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+I
+c. Variable depth, with or without webs partially cut away, as in
+(6).
+Type
+(a)
+is readily formed on a molder or shaper.
+Types
+(6) and
+(c)
+are,
+conveniently formed on a router, with one bit of the proper profile for the
+edges and another bit for removing the central portion of the cut-out.
+5.65. Beveling and
+Profiling
+Spars, Spar Flanges, and
+Similar
+Parts.
+During
+manufacture, spars, spar flanges, and similar parts are made slightly oversize, and
+SANDER DRUM
+APPROXIMATELY/ 3~ IN DIAMETER AND IZ'lONC-
+hl-avy Q
+_
+VENEER BEING SCARFED
+Figure 5-75.—Sander-drum scarfer for veneer.
+receive their finished shape—profile and bevels— in a final shaping operation which
+leaves them ready for the assembly of ribs or other contiguous parts.
+Two principal
+methods are employed:
+(1)
+Part
+stationary on
+jig
+table; cutting done by
+tools moving along
+edges.
+(2)
+Cutting tools stationary; part moved in frame past cutters.
+5.650. Spar Profiling with Band Saw and Shaper.
+The
+method
+in
+which
+the
+jig table
+is stationary
+is applicable to spars of
+all sizes, but
+is especially useful for
+.CHUCK Of DRILL PRESS
+OR MILLING MACHINE
+ROTARY PLANER
+'OLD-DOWN
+VENEER BEING
+SC ARFED
+01 OR LESS /N THICKNESS HERE
+Detail of finished cut
+Figure 5-76.—Rotary planer scarring machine for veneer and thin plywood.
+large members which are heavy and awkward to handle.
+These are clamped to a
+rigid
+stationary table whose top
+is a template
+of the shape required
+to form the
+profile of the spar.
+Cutting is accomplished by band saw and shaper, as shown in figures 5-78 and
+5-79.
+In both instances the tool is carried by two wheels running on a rail, as shown
+in the figures, and
+is guided by a wheel or collar running against the edge of the
+template.
+The weight of the tool keeps it in position while the operator moves
+it
+forward.
+An initial rough cut is made by the band saw, which cuts the profile and
+bevels the edges to approximate shape.
+The finishing cut is made by the shaper.
+The amount of bevel imparted to the edge of the spar depends upon the tilt of
+the cutting
+tool, which in turn depends upon the lateral position of the
+rail with
+respect to the template.
+If the rail is situated a generous distance below the level
+
+--- PAGE 299 ---
+PROCESSING AND FABRICATION
+293
+Fiovrf 5-78.—Rough cutting profile and hovels on spar hy band saw moving on template table and rail.
+
+--- PAGE 300 ---
+294
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+of the template, small deviations in its alinement have an inappreciable effect upon
+the bevel.
+Although
+this idea has been developed principally for profiling and beveling
+spars,
+it
+is evident that
+it could be adapted to performing the same operations on
+other parts, such as fuselage rings.
+5.651. Contour Planing of Spar Flanges.
+Spar flanges sometimes require ma-
+chining to specially curved shapes on the surfaces to winch filler blocks and spacers
+are later attached.
+This operation can be accomplished quickly and accurately on a
+specially built traveling-head contour planer.
+One design
+is shown in figure 5-80.
+Figure 5-79.—Finish-cutting profile and bevels on spar by shaper moving on same template table and rail illustrated in figure 5-78.
+The planer head passes lengthwise over the flange and cuts while moving in either
+direction.
+The supporting carriage rides on two straight ways, while the vertical
+movement of the cutter head is controlled by a roller running on a third track, which
+is contoured to produce the proper flange shape.
+5.652. Spar Profiling on a Jointer.
+Another method of spar profiling employs a
+jointer and a frame in which the spar is carried across the jointer head, imparting the
+proper bevel and profile to the top or bottom of the spar as it moves along.
+The frame consists essentially of two track bars, two
+fillers, end blocking, and
+bolts.
+The track bars are boards cut to the required shape and fitted with steel tracks
+approximately
+}i inch thick and 1 to 1 % inches wide.
+Track bars are clamped against
+the sides of the spar by bolts which pass through existing holes in the spar.
+Tapered
+
+--- PAGE 301 ---
+PROCESSING AND FABRICATION
+295
+fillers are placed between the spar and the track bars to maintain a constant distance
+between tracks.
+The method
+is illustrated in figure 5-81, which shows the frame
+assembled on the spar, sections through the assemblage at three points (fig. 5-81, B),
+and the assemblage in position on the jointer.
+Rollers or curved guide plates on which the steel tracks move are attached to the
+frame of the machine.
+Their height
+is adjustable so that they can be raised
+for
+roughing cuts and then lowered to a stop for the final finishing cut.
+In operation, the
+profiling assemblage
+is simply pushed from end to end past the jointer, which auto-
+Figure 5-80.—Traveling-head contour planer.
+matically cuts the proper bevels and tapers.
+The final curved
+cut
+at "D"
+is not
+included, but is later formed by hand.
+If for the final cut the guides are in a position concentric with the jointer head,
+the cut will be correct regardless of whether the spar is kept approximately level.
+With properly shaped and positioned track bars, constant or varying bevel can be
+cut.
+One set of track bars can be used to guide the cutting on both edges of the spar.
+5.653. Shaping,
+Beveling, and
+Profiling of Ribs, Wing Frames, and Fuselage
+Frames.
+Edges of ribs must be machined
+to produce the desired contour and
+a
+smooth, true surface* to which the skin may be fastened.
+If the jigs and operating
+conditions keep the parts well in line during the gluing of ribs, and if the structure is to
+be fabric-covered, a simple sanding of the outer surfaces of the ribs may be sufficient.
+
+--- PAGE 302 ---
+296
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5 -81

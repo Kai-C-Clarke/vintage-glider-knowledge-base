@@ -1,0 +1,1276 @@
+e slowly than the same thick-
+ness and construction on thin steel molds.
+The time required to mold the piece,
+therefore, is about twice as long as for the same construction on a thin steel mold.
+A variation of the wood mold construction that may be referred to as a "ply-
+wood-shell mold" is sometimes used on shapes such as that of a large nacelle.
+These
+molds
+5 are produced on a master mold of the usual cross-banded lumber.
+The shell
+mold itself is similar to the finished molded plywood article, only much thicker (% to
+\)t inches) depending upon its size and the degree of curvature.
+The face veneers of
+these molds are sometimes impregnated with resin which
+is cured at
+the time of
+bonding.
+Another construction that should produce a more stable mold involves the use of
+thick, resin-bonded plywood instead of solid wood stock in the body of the mold,
+with an impregnated skin of veneer bonded to the plywood base.
+The plywood
+should be laid so that its shrinking and swelling in thickness will introduce the least
+serious dimensional changes in the mold.
+Wood molds
+are almost always male
+in shape, which
+necessitates
+fastening
+the strips of veneer to the mold to hold them in place.
+This
+is readily done by
+means of staples or tacks that must later be removed.
+Wood molds are well adapted to the formation of a molded plywood skin and
+its bonding to stiffeners or bulkhead rings in a single operation.
+In this process
+the ribs are preformed by laminating or steaming to exact shape. 6
+They are in-
+serted in previously cut slots in the face of the mold before the veneer strips are
+tacked in place.
+The
+fit of the ribs in these slots is important.
+If the slot is too
+deep, the finished molded part will show a depression at this point and the glue bond
+between the skin and the rib may be questionable.
+If the slot is too shallow, the
+rib will project beyond the surface of the mold and a bulge will be produced in the
+skin.
+• A patent application on the details of one type of plywood shell mold
+is reported to have been made by John S. Barnes,
+Skaneateles, N. Y.
+6 It is reported that applications for patents have been made on details of a similar process by the Vidal Research Corporation.
+
+--- PAGE 239 ---
+PROCESSING AND FABRICATION
+233
+5.3201. Metal Molds.
+Metal molds are usually made of steel sheet or cast iron.
+Alloys having low melting points are also reported to be in limited use.
+Molds of
+single or very slight double curvature are made of sheet material one-tenth to one-
+fourth inch thick, while those of severe double curvature, such as
+for a propeller
+spinner, are cast.
+In most cases, metal molds are of the female type in which the
+strips of veneer are taped together or sprung in place between metal clips, as illus-
+trated
+in figure 5-26, thus eliminating the necessity of a tacking surface
+to which
+material can be stapled.
+Metal molds,
+particularly those
+of sheet metal, have the advantage
+of very
+rapid heat transfer.
+The rate of temperature rise in a molded plywood piece on a
+thin metal mold approaches that of plywood
+of the same thickness in
+a, hot press
+(table 5-14).
+The time in the pressure cylinder,
+therefore, can be approximated
+from the hot-press instructions for the particular glue being used by adding the press-
+ing times given in table 5-14 to the time required to bring the pressure cylinder up
+to operating temperature.
+Heavy cast metal molds heat more slowly
+than
+sheet
+metal molds but the heat transfer will probably he more rapid than for wood.
+The
+CLIP
+Figure 5-2C—Section through female metal mold illustrating clips for holding veneer strips in place.
+rapidity of heating for any kind of mold depends largely on the heating medium
+(sec. 5.343).
+Metal molds are very stable but those which are cast must be machined which
+makes them expensive and often difficult to obtain.
+Molds in continuous use may require cooling before they can be used for the
+next lay-up.
+This
+is particularly true of small metal molds of considerable thick-
+ness, and on this type cooling is usually done with cold water.
+Large molded pieces
+require a longer time for removal; therefore the mold may be sufficiently cooled
+before it is again ready for use.
+5.3202. Concrete Molds.
+If a concrete mold
+is used, a wood form must
+first
+be made to cast the concrete section.
+After this is done it
+is sometimes necessary
+to bond to the concrete a tacking surface of wood or possibly some other suitable
+material.
+Concrete molds have
+the advantage
+of being stable towards moisture
+but are excessively heavy and cumbersome to handle and are damaged somewhat
+by heat.
+5.3203. Resins.
+Some attempts have been made
+to use casting
+resins, and
+other materials which can be poured, in mold construction, but to date these mate-
+rials have been used mostly experimentally and have proved practicable in relatively
+few cases.
+
+--- PAGE 240 ---
+234
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.321. Bags or Blankets.
+The purpose of the bag is to provide a flexible imper-
+vious barrier between the fluid under pressure and the mold.
+The piece being molded
+is pressed between this flexible bag and the rigid surface of the mold and the full
+fluid pressure
+is applied at right angles to the surface of the bag regardless of the
+shape.
+The pressure at certain glue joints may be slightly less than the full fluid
+pressure by the amount necessary to shape the veneer or to force it into place.
+Bags are classified as full bags or half bags (blankets).
+A full bag is a complete
+envelope of impervious flexible material
+(fig. 5-25, A and C) clamped shut at one
+end or side and having a connection, usually called a bleeder, to allow the entrapped
+air to escape to the atmosphere.
+It may be completely closed, similar in principle
+to a basketball bladder
+(fig.
+5-25, B and D), having only a tube connection for
+inflation.
+A half bag, or blanket,
+is a sheet which normally
+fits the mold without
+wrinkling and
+is sealed by some temporary means to the edges
+of the mold
+(fig.
+not recommended
+recommended
+a-eold cellophane Over before sealing edges
+NOT RECOMMENDED
+RECOMMENDED
+B-/IRRANGE BAG ON FORM 50 THAT SEALED EDGE5
+ARE PLACED UNDER NO UNNECESSARY STRESS
+NOT RECOMMENDED
+RECOMMENDED
+C- ARRANGE SEALED EDGES
+SO THAT WATER CANNOT
+ACCUMULATE AT THE EDGE
+Figure
+5-27.—Suggestions for sealing cellophane bags.
+5-25, E).
+The bleeder may be attached to the mold or to the bag.
+Full bags are
+normally used over male molds and half bags are used on female molds.
+Because half bags do not support the weight of the mold, abrasive wear is less
+and their life greater than that of full bags.
+The use of fitted half bags is advised
+where production
+is high and they can be tightly sealed to the mold.
+The useful
+life of a bag depends on the type of material used in the bag, the
+heating medium used, the temperature of the cycle, the size of the bag, and the care
+used in handling.
+It may be as short as 10 hours or as long as 200 hours of operation.
+The type of bag to use and the material from which
+it
+is made depend largely
+on the molding process to be used, the temperature, and the heating medium.
+Most
+bag-molding
+operations
+at
+present
+require bags made
+of
+specially compounded
+natural or synthetic rubber, often reinforced with fabric.
+Due to the present scarcity of
+all rubber materials,
+efforts are being made to
+find
+substitutes and means
+of increasing the production
+of molded plywood per
+pound of bag material used.
+In
+tests at the Forest Products Laboratory certain
+polyvinylidene chloride, vinyl butyral resin, and cellophane films have shown con-
+siderable promise as bag-molding materials.
+Their characteristics and use limita-
+tions are shown in table 5-16.
+
+--- PAGE 242 ---
+236
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Half bags of cellophane
+7 have been successfully used with
+a hot-air cycle on
+thin plywood shell molds.
+Joints between the cellophane sheets can either be made
+with cellophane tape on regular cellophane, or by overlapping the edges and apply-
+ing a hot iron
+if the sheet material
+is of the self-sealing type.
+Several suggested
+methods for sealing cellophane bags are shown in figure 5-27.
+The life of a cello-
+phane bag
+is limited to one operation.
+The use of short-lived bag materials necessitates the frequent attachment of
+bleeder
+fittings.
+Figure 5-28
+illustrates
+a convenient metal
+bleeder
+fitting
+that
+has been used satisfactorily with substitute bag materials.
+Present information indicates
+that,
+in ordinary use on a
+steam-air
+cycle
+at
+temperatures of about 250° F., the life of a rubber bag is approximately 50 opera-
+NARROW radial
+Grooves on this face
+MATE RIAL'- BRA 55
+Figure
+5-28.—Metal bleeder connection designed for rapid attachment to bags.
+tions on a full unfitted bag.
+Repair of minor leaks, usually caused by rough han-
+dling, may be necessary during
+this period.
+The use of hot water or pure steam
+reduces oxidation and greatly
+increases
+the
+life
+of a
+bag.
+With
+a
+thick,
+fitted,
+half-bag assembly,
+considerably more than
+100
+operations may
+be
+expected
+in
+steam at 300° F.
+Whenever a steam-air mixture is used and the air is introduced under pressure
+from a compressor, an adequate after-cooler and
+air
+filter should be installed be-
+tween the compressor and the cylinder.
+It has been reported that
+if
+all traces of
+oil, either in the form of small drops or of vapor, are removed from the air, the bag
+life is considerably increased.
+Tests at the Forest Products Laboratory have indicated that synthetic rubber
+bags are generally more resistant to heat, both dry and wet, than natural rubber.
+7 An application' for a patent on the use
+of cellophane bags is reported to have been made by John S. Barnes, Skaneateles,
+N. Y.
+
+--- PAGE 243 ---
+PROCESSING AND FABRICATION
+237
+In these tests also, a steam-air mixture at 250° F. was found more damaging to all
+bag materials of rubber or synthetic rubber than pure steam at 300° F. or even
+320° F.
+"Where conditions permit a choice between these two heating mediums,
+it is advisable to use pure steam at 300° F.
+(52 pounds per square inch)
+to gain the
+advantage of a longer bag life and a shorter heating cycle.
+Normal rubber bag thicknesses are between one-thirty-second and one-eighth
+inch, depending upon the amount of reinforcing, the severity of handling, and the
+type of bag molding.
+The thinnest bag capable of withstanding the handling and
+mechanical wear
+is recommended.
+A thin bag has several advantages: probably
+most important is its more rapid heat transfer.
+By using thin bags, more molded
+plywood is turned out per pound of bag, provided the bag is strong enough to with-
+stand the handling.
+When thin bags are used, wrinkles in the bag are less likely
+to leave their marks on the bag side of the piece being molded.
+This
+is important
+with thin veneers, since a thick bag could easily produce an area of poor glue joint,
+as much as one-fourth inch wide and several inches long,
+as
+a result of reduced
+pressure under a fold.
+A practical guide, whenever bag wrinkles are likely to occur,
+is to use a bag slightly thinner than the face veneer.
+In all bag molding it is advisable to use a layer or two of paper, cloth, or canvas
+between the plywood being molded and the bag.
+This facilitates the "bleeding"
+of air and steam to the outside.
+It also prevents adherence of the glue squeeze-out
+to the bag.
+It is advisable to cover any sharp corners at the edges of the molded
+plywood piece with extra layers of canvas to prevent injury to the bag.
+Whenever a rubber bleeder hose is used, as in figure 5-25, C or E,
+it must not
+collapse and
+close when external pressure
+is exerted upon
+it during the molding
+cycle,
+if it
+is to
+fulfill
+its purpose.
+Collapse
+is difficult to observe due to the fact
+that, while the tube is collapsed, it is within the cylinder and not visible unless the
+cylinder has
+a
+glass observation window.
+Emission of
+a
+slight amount
+of air or
+steam from
+the
+bleeder does
+not
+guarantee
+that
+it
+is functioning properly.
+A
+flexible metal hose or
+a
+suitably reinforced rubber hose
+is recommended
+for the
+bleeder wherever this type of hose gives the necessary flexibility.
+In using the methods shown in figure 5-25, A and C, careful attention should
+be given the inside surface of the bleeder fitting in the bag.
+If this is very smooth
+and
+flat,
+it may make an almost airtight fit and stop the bleeder from functioning.
+Grooves in this fitting as shown in figure 5-28 or a piece of coarse burlap glued to it,
+will usually suffice.
+5.322. Pressure and Temperature Equipment.
+All
+pressure
+cylinders
+for
+use
+with bag molding should be hydraulically tested to a pressure of at least double the
+maximum working
+pressure
+used.
+An adequate
+safety
+valve
+should
+always
+be
+installed
+if the boiler or compressor pressure
+is in excess of the pressure at which
+the cylinder was tested.
+The sensitive elements placed within the pressure cylinder for controlling and
+recording conditions should be carefully installed.
+Heavily jacketed controls will
+be sluggish and therefore will not record the actual cylinder temperature during
+the rapid heating-up period.
+A jacketed thermometer was found
+in experiments
+at the Forest Products Laboratory to be about 20° to 30° F. below the reading on
+a bare thermocouple in heating a cylinder 2 feet in diameter and 6 feet long to 250° F.
+in 5 minutes, using a steam-air mixture.
+If temperature
+stratification
+exists
+in
+the
+cylinder,
+a
+temperature-recording
+bulb at the top of the cylinder may be 30° F. or more above the actual temperature
+at the bottom of the cylinder; provision for circulation should therefore always be
+made
+if
+possible.
+A good check on uniformity
+of temperature may be had by
+inserting bare thermocouples in the top and bottom of the cylinder.
+568338—44
+16
+
+--- PAGE 244 ---
+238
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+A large inlet for the heating medium
+is advisable, so that the cylinder can be
+brought up to the desired temperature and pressure in 5 minutes or less.
+Usually
+this rapid heating
+is advisable, which on large cylinders will mean high boiler and
+compressor capacity.
+5.33. Glues for Bag Molding.
+A
+list
+of
+current
+synthetic-resin glues with a
+tabulation of their principal characteristics, as related to use requirements, is given
+in table 4—1.
+Those that have been reported in successful use and that have been
+used
+satisfactorily
+in
+limited
+bag-molding
+experiments
+at
+the
+Forest
+Products
+Laboratory, with proper adjustment of heating cycle and other operating conditions,
+are
+indicated by
+a
+footnote
+reference.
+In
+selecting a glue and using
+it
+in bag-
+molding
+operations,
+however,
+close
+cooperation
+is urged between
+the
+user and
+the glue
+supplier
+to
+insure best
+results.
+The
+selection
+of glues
+for bag molding
+aircraft parts
+is limited by the requirements of the current aircraft specification on
+molded plywood.
+Parts to which bag molding is best adapted are either large or of severe double
+curvature
+or both and a long period
+(varying perhaps from
+1 to over 10 hours)
+is
+required
+to adjust the strips of veneer in place on or in the mold.
+During
+this
+period,
+a small amount of hand fitting with a plane or sandpaper block
+is usually
+necessary.
+These conditions require the use of a glue that
+is dry at the time of
+assembling and that permits a long assembly period.
+A satisfactory bag-molding
+glue should have an allowable assembly period of at least 30 hours to be adapted
+to bag-molding operations in general.
+It has been suggested previously that the cylinder temperature and pressure
+be brought up to operating conditions in 5 minutes or less
+(sec. 5.322), but in some
+cases, particularly where large cylinders are used, this
+is impossible to accomplish
+with the available boiler and compressor capacity.
+Under such conditions there
+is danger with some glues of pre-curing the outer glue lines before sufficient pressure
+is applied.
+The relation between
+the
+characteristics of the glue and the rate of
+pressure and temperature
+rise
+is critical and should be examined carefully.
+It is desirable in all bag molding of double-curvature parts with thermosetting
+glues to use a glue that passes through the fluid stage relatively slowly and while
+in
+this stage has a high degree
+of flow.
+This produces the
+effect of a lubricant
+between the adjacent plies of veneer and allows them to slip to their proper place,
+thus often avoiding wrinkles.
+Most of the glues in table 4-1 that are designated as
+bag molding
+glues have
+this
+property.
+Additional
+information on
+the
+slipping
+properties of these glues is given in reference 5-27 of section 5.35.
+In addition
+to the characteristics described above,
+it
+is important that glues
+for bag molding, in common with other aircraft uses, remain durable under service
+conditions.
+The properties
+of various types of glues have been described under
+section
+4.1.
+The
+phenolics and
+certain
+modified
+phenolics,
+fortified
+ureas, and
+thermoplastics meet bag-molding requirements reasonably well but vary in their
+resistance to severe exposure conditions.
+Current thermoplastic glues, which are
+otherwise well adapted to bag-molding processes, give evidence of slow flow at ele-
+vated temperatures, such as
+150°
+to
+160°
+F., and should not be used
+in
+aircraft
+parts.
+They
+are, however, often used
+in experimental work,
+particularly on the
+first few pieces and made on a mold having curvatures
+likely
+to cause
+trouble.
+They have a high degree of flow when plasticized by the heat in the molding cycle
+and if a wrinkle is formed in the molded part it can often be removed by a subsequent
+reheating.
+5.34. Bag-molding Technique.
+5.340.
+Size, Shape, Thickness, etc.
+In
+applying
+bag-molding
+technique
+it
+is
+necessary to study carefully the piece to be produced.
+This means a consideration
+of curvatures, the approximate thickness and number of plies, species, and arrange-
+ment of alternate plies.
+The curvature of the piece may determine the
+thickness
+
+--- PAGE 245 ---
+PROCESSING AND FABRICATION
+239
+of the veneers that can be used.
+Table 5-17
+will serve as a guide to the approxi-
+mate relation between the thickness of veneer and the minimum radius of curvature
+considered practical
+in bag molding.
+These ratios are only suggested minimums;
+the actual permissible minimums will vary with the species, the moisture content
+of the
+vereer, and
+the method
+of veneer
+cutting.
+The method
+of
+holding
+the
+veneer in place on the mold
+is usually the determining factor; therefore,
+it
+will be
+noted that the suggested ratios are well above those
+at which the veneer may be
+expected to break.
+Breaking radii are discussed in section 5.6830.
+Table 5—17.
+Approximate minimum
+ratio of radius of curvature to thickness of dry
+veneer for hag
+molding
+Angle
+between
+direction
+of
+grain and axis of curvature
+„
+,.
+Radius of curvature
+1
+Rat io=
+.
+.
+1 hickness of veneer
+90
+1(H) lo
+1
+50
+t o
+1
+1 As measured in the plane perpendicular to the axis of curvature.
+A few tests made on strips of plywood at 45° indicated that
+there was little or no difference between results obtained at 0° and 45°.
+5.341. Moisture Content.
+A moisture content of 8 to 12 percent in veneer used
+for bag molding is favorable and within this range any variations depend mainly on
+the glue being used.
+Variation in moisture content between the veneer sheets in
+any one assembly
+should
+not, however,
+exceed
+2
+percent.
+Change
+in moisture
+content during manufacture
+is often serious, since the veneer strips are cut to exact
+shape.
+If the width of the strips changes in the period between shaping and assem-
+bly
+considerable hand
+fitting
+will be
+required.
+The
+importance
+of
+dimensional
+stability depends on the shape and size of the molded part, but
+in extreme cases
+on larger parts some plants have found it advisable to control the relative humidity
+within ± 2 percent in the lay-up room and the rooms where veneer is stored.
+On
+other smaller parts or on parts made from narrow strips
+of veneer no
+control
+of
+moisture content, other than that required for the glue,
+is attempted.
+The bag-molding operation does not
+greatly change
+the moisture content
+of
+the veneer, unless leaks develop in the bag.
+Tests on small flat pieces indicate that
+the moisture loss during molding
+is less with wood molds than with metal molds.
+It
+is also less in both types of molds when no vacuum
+is maintained on the bag.
+Preliminary tests made on plywood molded in bags of suitable grades of cellophane
+indicate
+little or no change in moisture content of the veneer during the molding-
+cycle.
+In all the tests the moisture loss w
+ras considerably less in bag-molding than
+in hot-press operations on the same combination of species and glue.
+5.342. Assembling the Veneer.
+The degree of double curvature will determine
+the width of the
+individual
+strips
+of
+veneer.
+Naturally
+it
+is more economical
+of
+labor to use a few wide strips instead of many narrow ones, in order to reduce the
+number of necessary shaping operations to a minimum.
+On the other hand,
+if the
+strips are too wide, their edges will wrinkle as the fluid pressure on the bag presses
+the
+flat strips against the double-curved mold.
+On double-curvature molds, such
+as required for fuselages or bomber noses, the strips are usually between 2 and 8
+inches wide.
+The strips of veneer must be tapered or "tailored" very carefully to fit the mold
+so that a close joint
+is obtained between the adjacent strips
+(fig. 5-29).
+To deter-
+mine the exact shape of each strip the first lay-up is carefully done by hand and later
+disassembled, each strip being marked
+to designate
+its position on the mold.
+In
+production, this tailoring is usually done by first sawing the strips roughly to shape
+
+--- PAGE 246 ---
+240
+ANC BULLETIN- —WOOD AIRCRAFT INSPECTION AND FABRICATION
+Fioure 5-29.—Typical airplane spinner of molded plywood.
+(Abote) Exterior view; (below) interior view showing tailoring of
+strips.
+
+--- PAGE 247 ---
+PROCESSING AND FABRICATION
+241
+and then shaping them exactly on a vertical spindle shaper, using plywood or metal
+templates, each accommodating a stack of veneer strips approximately 2 inches high.
+Sometimes the pieces are sawed to final shape and then each edge is run through
+a special scarfing or feathering device consisting of a small sandpaper-lined drum
+and a hold-down.
+The strips are then spread with glue and laid on the mold so that
+the edges overlap one-fourth to one-half inch, depending upon the veneer thickness.
+As the veneer strips are assembled on the mold, they must be fastened or held in
+place.
+Fastening of veneer to metal molds is illustrated in figure 5-26.
+On wood
+molds this fastening
+is conveniently done by means of staples or tacks.
+The
+first
+layer of veneer is stapled directly to the wood mold and, as each successive layer is
+applied,
+the
+staples
+in
+the
+preceding one
+are removed.
+By
+this procedure
+the
+Figure
+5-30.—A training bomber fuselage molded on a wood mold by means of laying up veneer strips.
+finished molded piece
+(fig. 5-30) has no staples in it since those in the outer layer are
+removed after curing.
+The same principles of balanced construction that apply
+to
+flat plywood are
+applicable to molded plywood.
+For maximum resistance to warping
+all plywood
+should be symmetrical about the center plane
+of
+thickness.
+In
+this connection
+symmetry involves species, number of plies, thickness of plies, and direction of grain.
+In theory,
+a symmetrically constructed panel with alternate plies laid at 90°, with
+respect to direction of grain, would have maximum dimensional stability.
+In prac-
+tice, however, a construction with alternate plies at 90° to each other is often impos-
+sible in pieces of pronounced compound curvature.
+5.343. Heating Mediums.
+Heating mediums in current use are steam, steam-
+air mixtures, water, and air.
+Pure steam is often used when high temperatures are desired.
+In this cycle an
+exhaust valve
+is left partly open for a short period after the steam valve
+is opened
+so that the residual air is expelled.
+The steam-air mixture usually requires an
+air
+compressor
+in
+addition
+to
+a
+steam
+boiler.
+Some
+so-called steam
+cycles
+are
+in
+effect steam-air
+cycles
+as
+the
+
+--- PAGE 248 ---
+242
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+cylinder
+is
+sealed and
+charged with steam without
+discharging the
+residual
+air.
+Under these conditions the pressure and temperature of the charge will not agree
+with temperature-pressure tables for pure saturated steam.
+The use of hot water requires an auxiliary storage tank
+in which the water
+is
+heated and to which it is returned after use in the heating cycle.
+This tank is often
+mounted above the molding cylinder so that the hot water can be introduced rapidly
+by gravity through a large pipe.
+It
+is returned by means of a centrifugal pump.
+The pressure for the molding operation is applied by air.
+When air is used as a pressure and heating medium, heating
+is done by means
+of a steam jacket around the cylinder.
+Additional heat
+is sometimes supplied by
+steam
+coils within
+the
+cylinder
+or
+possibly by
+electric
+strip
+heaters.
+Extreme
+caution should be exercised when using electric heaters or any electric connection, as
+the combination of compressed hot air, combustible material, and a glowing heater
+within a cylinder is very dangerous.
+Each heating medium has certain practical limits of temperature.
+An attempt
+has been made at the Forest Products Laboratory to determine these limits from
+actual heating
+tests
+in which thermocouples were inserted in the cylinder and at
+various depths in a piece being molded on a wood mold to record the rise in tempera-
+ture.
+These limits as well as other practical limitations of 11 different techniques
+which have been or could be used in bag-molding plywood are presented in table
+5-18.
+5.3430. Notes Referring to Table 5-18.
+1. Natural and synthetic rubber give highest production bag
+life with pure
+steam; some grades of cellophane are usable for one cycle.
+Pressure is too low for
+general bag gluing below 260° F. (20 pounds per square inch at 260° F.); above 320°
+F. there
+is danger of overcuring the outer glue joint and bag deterioration
+is very
+rapid.
+2. Steam-air is more damaging to rubber than steam or hot water; some grades
+of cellophane are usable for one cycle.
+Circulation to avoid stratification is required,
+especially below 240° F.; severe oxidation of bag materials occurs above 280° F.
+3. Long bag life can be expected from hot water cycle as there is no oxidation;
+some grades
+of cellophane
+are usable
+for one
+cycle.
+Open-storage tank may be
+used below 212° F.; above 300° F. pure steam can ordinarily be used to advantage
+since the water must be kept under the same pressure as is required for steam.
+4. This is a very slow cycle due to low specific heat of air.
+Seventy-five pounds
+per square inch is suggested as maximum safe pressure.
+5. Carbon dioxide, nitrogen, or any other gas which will not support combustion
+or affect bag materials may be used.
+6. Mold
+is heated, and unheated air
+is used for pressure; therefore bag stays
+relatively cool throughout cycle.
+7. Same as
+6, except that inert gas
+is recommended
+to avoid danger of ex-
+plosion in case of spark or a short circuit in wiring system.
+8. Bag
+is expanded against work by means of steam.
+An adequate drain for
+condensate is required at the lowest spot in the bag.
+9. Same as 8, except that steam-air mixture
+is used.
+See note 2.
+10. Steam-heated mold
+is used; bag inflated by air pressure, therefore no drain
+connection necessary for bag.
+11. Same as 10 except that mold is heated electrically; inert gas is recommended
+for safety, although air may be used in some cases.
+
+--- PAGE 249 ---
+PROCESSING AND FABRICATION
+243
+sat
+2gS<
+£ = i
+IN
+S a 2
+—
+o
+Id
+o o
+QQ
+S a o
+is?
+COCO
+O O
+is
+o o
+© =5
+On
+PL, Ch
+—
+o o
+fe! ct
+o °
+OO
+CI
+» CN
+CO
+CN CO
+1
+Ao
+55
+-r *~
+CM
+n
+CO CN
+O
+e.s s
+c3 >
+cv «
+o o
+5 a
+a
+a
+S 3 ^
+~
+.O
+Cv
+Pi ™O CO
+=«
+a
+«
+Cv
+C5
+cu
+5 3
+.3 3
+S3 a
+- C3
+c
+53
+C3.C
+a-o"
+=
+a
+a
+a
+C3
+CS O
+cd cca*
+- - * - ~ a
+3 3 =-3 3 E
+-<<1
+<;<;
+5 «
+>>-S
+~
+cc
+— —
+« a I S ™
+&hoq
+W
+"a
+:
+;
+Sgoo
+3 c3~>^)
+MO
+io-T3
+ggdcj
+3
+fen
+c a
+fc- o
+sin
+S"£2 a
+-
+i
+at; 3
+c3 a
+2 aSS a
+^ 3 a—^J
+«Ia?3
+3 ^C*
+<U 3
+bc.S
+03
+Mill
+2---3~
+lllfe
+
+--- PAGE 250 ---
+244
+AXC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Hot
+air,
+besides being
+a very poor heating medium, produces
+results very
+largely dependent upon the amount of circulation in the cylinder.
+It is also difficult
+to determine separately the effect of radiation from the hot-jacketed cylinder walls
+or heater and the effect of convection.
+There
+is considerable interest of late, how-
+ever, in the use of air, for two reasons:
+first, leaks developing in bags do not damage
+the piece and the mold, as
+is likely with the steam or hot-water cycle; and, second,
+a few of the bag materials suggested as substitutes for rubber are not steam- or
+hot-water proof but are better adapted for use with air or some inert gas.
+SEC7IOH A-A
+SECTION B'3
+c
+Figure 5-31.—Suggested method of molding wing fillets.
+The use of air under high pressure and temperature conditions
+is exceedingly
+dangerous, and
+all known safety precautions and regulations should be observed.
+The compressor should always be equipped with an adequate aftercooler and
+oil-
+vapor
+filter.
+The lubricating
+oil in the compressor should have a high flash point
+so that a minimum of vapor is given off.
+All precautions should be taken to elimi-
+nate any sparks in a cylinder charged with hot air containing some
+oil vapor,
+as
+a dangerous explosion can result.
+5.344. Amount of Pressure.
+The pressures used in bag molding vary from a
+vacuum drawn on the bag to a maximum of about 120 pounds gage pressure per
+square inch.
+The bulk of the current bag molding is done at from 40 to 80 pounds
+per square inch.
+Vacuum alone produces insufficient pressure for most bag-molding
+operations and therefore is not recommended for aircraft plywood.
+
+--- PAGE 251 ---
+PROCESSING AND FABRICATION
+245
+5.345. Heating Cycle.
+The selection of a proper heating cycle to cure the glue
+and bond the veneer into the finished molded part
+is complicated by the fact that
+the synthetic resins do not have a definite temperature at which polymerization,
+or condensation,
+occurs.
+If a
+clearly defined temperature were required
+for the
+polymerization of any one adhesive, the proper heating cycle could be calculated
+(making certain assumptions and allowances for end heating, moisture content of
+the wood and mold, diffusivity of the bag materials,
+etc.) at any desired bag tem-
+perature.
+Polymerization of any synthetic resin of the thermosetting type, however,
+is influenced by both temperature and time of heating; therefore, any calculation of
+the temperature that exists at a given glue line within a structure is directly appli-
+cable only when the time-temperature conditions required to produce a good bond
+with the glue in use are known.
+As an example,
+a
+phenolic-resin
+film
+is reported
+to be completely cured
+in
+about one-half minute at 350° F. but requires about 10 minutes at 275° F.
+This
+suggests the development of temperature-time relationship factors for calculating
+the time required
+to
+cure completely each
+of the common
+synthetic-resin
+glues
+{5-23), but
+until some more satisfactory method
+is presented,
+the heating cycle
+can only be determined empirically.
+Table 4-1 does, however, indicate the suggested
+cylinder temperature
+to
+use
+for
+best
+results on some
+of
+the
+glues
+suitable
+for
+bag molding.
+The rate of heating of the veneer assembly on the mold also affects the length
+of the heating cycle selected.
+A difference
+in the rate
+of heating on thin metal
+molds as compared with thick wood molds has been indicated
+(sec. 5.3200).
+Maintaining uniform temperature
+in the
+cylinder throughout the
+cycle and
+avoiding
+stratification
+of the heating medium by means
+of adequate
+circulation
+in the cylinder are necessary to secure uniform rates of heating.
+Under any particular set of operating conditions, an occasional check of the
+actual temperature at the coolest glue line throughout the heating cycle is desirable.
+A satisfactory method
+of making
+this check
+is
+to use
+fine thermocouples,
+leads,
+and a potentiometer.
+Copper and eonstantan leads of No. 30 gage have been found
+satisfactory, and they may be embedded in the molded part without danger of
+injuring trimming equipment.
+Approximate temperature checks have
+also been made in some cases by the
+use of temperature-sensitive crayons or paints.
+The final check, of course,
+is the
+ability of the glue joints in the finished product to meet specification requirements.
+5.346. An Example of the Bag-molding of a Specific Product.
+Assume
+that
+it
+is desired to bag mold the wing fillets of a plane such as shown in outline form in
+figure 5-31, A.
+Lacking
+definite
+information
+such
+as
+drawings
+and
+specifications,
+certain
+assumptions will have to be made.
+This is probably an unstressed part and merely
+acts as a smooth, rounded
+fillet between the fuselage and upper wing surface to
+reduce turbulence in the air flow.
+It will also be assumed that the minimum radius
+of curvature
+is about 3 inches and that, when viewed from
+the
+top, the line ac
+is
+approximately straight.
+(1) Use requirements:
+Nonstressed—but scuffing,
+air action, and weather resistance demand at
+least %2-inch thickness of hardwood.
+Suggested
+construction:
+%2-inch
+rotary-cut yellow
+birch
+faces,
+^4-inch
+rotary-cut yellowpoplar core.
+Glue will be spread on both sides of core
+strips only.
+Strips of veneer laid at a +45° and —45° angle with the
+junction between the fairing and the fuselage.
+For additional abrasion
+resistance
+(if necessary) both faces may be precured resin-impregnated
+birch.
+
+--- PAGE 252 ---
+246
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+(2) Moisture resistance:
+Severe conditions, use hot-press, phenolic-resin glue or equivalent as pro-
+vided in current specification covering molded plywood for aircraft parts.
+(3) Degree of curvature:
+Width of strips to be determined by
+trial.
+Minimum radius of curvature
+is
+3
+inches,
+thus
+-=tt= 0.060-inch
+probable maximum
+thickness
+of
+50
+veneer.
+One thirty-second-inch yellow birch and K 4-inch yellowpoplar
+should bend nicely.
+(4) The mold: Examination of the shape in figure 5-31, A, reveals that if it
+is
+turned upside down and
+its mate from the right side placed beside it so
+that the line ac on each coincides, the pair can be molded in one operation
+as a single unit on a saddle-shaped male mold
+(fig. 5-31, B).
+Later the
+unit can be divided into two parts.
+By this selection, the side next to the mold, which will be the smoother
+side,
+is the side later exposed to the air stream.
+A wood mold will be used, probably built up of resin-bonded plywood
+laid
+flat and glued together.
+After shaping the mold, an impregnated
+birch skin of three plies of %2-ineh veneer will be bonded to
+it to provide
+a smooth tacking surface.
+The method shown
+in figure 5-25, C, will be used, as
+it
+is perhaps
+best suited to this shape of mold.
+(5) The bag: A full, reinforced synthetic-rubber bag }32-inch thick will be used
+over a wrapping of paper or cloth.
+The bag will

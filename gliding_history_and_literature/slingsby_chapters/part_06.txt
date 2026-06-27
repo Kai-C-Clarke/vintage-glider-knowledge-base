@@ -1,0 +1,771 @@
+n on 17 
+April 1937, at first with no problems. Philip Wills wrote 
+in glowing terms of the King Kite, which he still called 
+Hjordis 2, in Sailplane and Glider. He had done some 
+brief soaring flights in it and anticipated no trouble.
+Came the day of the spin test, about a month after 
+the first flight. Wills was aero-towed to 1370m (4,500ft) 
+and did a one-turn spin to the left from which he recov- 
+ered easily. The next, a fully developed spin to the 
+right, almost killed him. The King Kite would not 
+recover, even with the flaps in different positions. 
+Height was disappearing very quickly. Wills jettisoned 
+the cockpit canopy, undid his straps and jumped. He 
+was thrown violently back into the cockpit. Again he 
+heaved himself out against the centrifugal force and 
+was forced back. In desperation he flung himself even 
+more violently out and was dumped back again. 
+Fortunately his latest strenuous action had somehow 
+brought the King Kite out of the spin. It emerged half 
+inverted, without the canopy, the pilot without his 
+spectacles but with just enough height and presence of 
+mind to recover, make a shaky circuit and land.
+Explanations were not immediately forthcoming. 
+The competition was six weeks away. Hastily, a new, 
+taller rudder was made and fitted. Further tests estab- 
+lished that it was possible now to recover from a spin, 
+though it was still very easy to get into one. The proto- 
+type was taken to York aerodrome for aero-towed 
+launches and to be flown by the team members during 
+the last few days of May. An even larger rudder was 
+fitted. All three King Kites, with giant rudders, were 
+delivered and shipped to Germany late in June. The 
+team was made up to five aircraft by including the 
+Hjordis, which Wills decided to fly in preference to the 
+King Kite, and the Falcon III two-seater, to be flown by 
+Murray and Fox.
+The first take-off by a British sailplane on the first 
+day of the first International Championships was also 
+Willy Watt's first bungee launch. As soon as the rope 
+fell away he attempted a turn. The King Kite instantly 
+spun and hit the ground 50m (165ft) down the slope. 
+The worst fears of the British team were confirmed. 
+Fortunately Watt emerged from the wreckage unhurt, 
+having, he declared, landed on his toes.
+Watt continued to compete, taking over one of the 
+other King Kites, and achieved three distance flights 
+without further accident. On one day he flew in cloud 
+for a total of 90min. His extensive powered flying expe- 
+rience undoubtedly helped him in this. John Neilan 
+damaged the other King Kite in an unsuccessful 
+bungee launch, and it was repaired overnight by the 
+German workshops. A few days later, immediately 
+over the Wasserkuppe, he too discovered the King 
+Kite's propensity to spin. To the relief of his friends he
+recovered safely, though very low down, and contin- 
+ued undaunted on a cross-country flight. When her 
+turn came, Joan Price also made a good flight of 92km 
+(57 miles) without incident. Of the British pilots, Willy 
+Watt did the best in the final tally, totalling 460km (286 
+miles) in the ten days and placing twelfth out of 22 indi- 
+vidual entries, two places above Wills in the Hjordis. 
+The team returned thoughtfully to England. The 
+National Competitions were held in Derbyshire, start- 
+ing in late August. The King Kites had been expected to 
+enter, but they did not turn up. Wills, in Hjordis, won.
+In 1938 Slingsby, who had the two remaining King 
+Kites on his hands, invited Watt to fly one in the 
+National Competitions at Dunstable. It now had a new 
+type of cockpit canopy, faired to a smoother contour 
+than the original. On the second contest day Watt flew 
+140km (87 miles) to Wymondham, near Norwich. Later 
+in the week another flight found him working his way 
+carefully round the west side of London via 
+Brooklands and Woking to a landing in Kent for a pro- 
+jected distance of 122km (75 miles). Three others, 
+Christopher Nicholson, Philip Wills and Joan Price, 
+landed in Kent on this day but had flown east of 
+London. Watt came second to Nicholson in the final 
+results. The King Kites apparently did very little further 
+flying, if any, before the outbreak of the Second World 
+War. In the 1939 competitions Watt flew a Slingsby 
+Type 13, Petrel.
+What was wrong with the King Kite?
+According to an article, probably written in 
+Slingsby's own publicity office, 'the rush to complete 
+the machine resulted in wing jigging errors which were 
+repeated in all these prototypes' and the error was not 
+discovered for some considerable time. In 1965 
+Slingsby himself wrote 'Many years later I was making 
+an incidence check on a King Kite wing and discovered 
+to my surprise that instead of the three degrees "wash- 
+out" we had specified, the wings had two degrees 
+"wash in" hence the tendency to drop a wing and spin 
+at low speeds'. How such an error could occur has 
+never been explained. The original blueprints, which 
+survive, show 3.5° washout correctly.
+It was once suggested by Philip Wills in conversation 
+that the wings had been built-upside down. This could 
+not have been literally true. Possibly the unusual shape 
+of the NACA 23021 wing profile caused some confu- 
+sion. It undoubtedly puzzled ordinary glider pilots. 
+Sailplane published a photograph with the caption: 
+The wing root of Hjordis II, showing the bi-convex 
+wing section. By looking along it from one end, the 
+reader will see that it is not symmetrical.' To some it 
+might have seemed that, in the desperate hurry to get 
+the aircraft ready, wing ribs of the nearly symmetrical 
+section might have been put in the wrong way up, 
+perhaps as far out along the wing as the 'gull' bend in 
+the main spar. This could have caused the wing to 
+exhibit some very peculiar stalling behaviour. That the 
+profile was not actually symmetrical was visible in the 
+photograph, but because of the character of the NACA 
+five-digit camber it is not very easy to tell from a casual
+69
+
+--- PAGE 72 ---
+SLINGSBY SAILPLANES
+glance whether the root rib was the right way up. 
+Comparison of the photograph with a computer plot of 
+the 23021 section, however, indicates quite clearly that 
+it was not inverted. Moreover, the section changed 
+towards the tips progressively to an orthodox four- 
+digit cambered section which could not be, and was 
+not, mistaken. Another photograph of the wing assem- 
+bly shows clearly that the ribs were correct over the 
+outer panels at least. It is almost impossible to believe 
+that ribs could have been put into the wing upside 
+down. It is not much easier to accept that the main 
+wing jig was set up with the carefully designed change 
+of angles the wrong way round.
+The mystery remains. Slingsby admitted that a 
+fundamental mistake was made in his workshops, but 
+never said exactly how it happened. A highly promis- 
+ing prototype sailplane was doomed before it left the 
+factory, and two more were built with the same fault.
+During the Second World War the remaining King 
+Kites were impressed and occasionally flown by ATC 
+Officers at various stations. In 1946 one broke up in the 
+air, killing the pilot, The accident was attributed to glue 
+failure, probably as a result of storage in damp condi- 
+tions. The last King Kite, the one with the new-style 
+canopy flown by Watt in 19:58, was seen de-rigged in a 
+hangar at Bramcote Naval Air Station during the first 
+post-war British National Competitions in 1947. It 
+became the property of the RAF Gliding and Soaring 
+Association, but was scrapped at Detling in 1950.
+The story does not quite end there. The blueprints 
+were rescued from their damp storage place in the loft
+The King Kite being moved to the launch point at the Wasser- 
+kuppe in 1937. Behind is the Falcon 3. ( Wills collection)
+at the factory in 1978. David Jones, an enthusiastic 
+builder and restorer of sailplanes, was determined to 
+bring the King Kite back to life. With advice from Prof 
+Wortmann in Stuttgart, modern low-drag wing profiles 
+were chosen. Thoby Fisher, who as a teenager had 
+worked for Slingsby and who had done some of the 
+design work on the original Kirby Kite of 1935, helped 
+with restressing to modern requirements. A moulded 
+cockpit canopy was fitted, but otherwise, only minimal 
+changes were made. The new King Kite, not looking 
+much out of place at a modern gliding site, flew magnif- 
+icently and safely in 1983, 46 years late.
+King Kite data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Wing sections:
+Root
+Tip 
+Length o.a.
+Weights
+Tare 
+Flying 
+Wing loading
+15.5m (51ft) 
+13.6m2 (166.8ft2) 
+18
+N AC A 23021 
+NACA4312 
+6.297m (20ft Sin)
+195kg (4291b) 
+282kg (6201b) 
+20.7kg/m2 (4.241b/ft2)
+Performance
+Best glide ratio (estimate) 1:25
+7O
+
+--- PAGE 73 ---
+TYPE 9, KING KITE
+* * «
+* > 
+**
+Neilan chats with his crew on the Wasserkuppe landing 
+ground. ( Wills collection)
+Neilan in the cockpit of the King Kite. Note the old form of the 
+Slingsby logo; a golden eagle on a blue background with a 
+wreath. (Willscollection)
+71
+
+--- PAGE 74 ---
+SLINGSBY SAILPLANES
+The prototype King Kite before the test flights. (Wills 
+collection)
+The first modification to the rudder. (Wills collection)
+Moving a King Kite to the launch point at the Wasserkuppe. 
+( Wills collection)
+72
+
+--- PAGE 75 ---
+TYPE 9, KING KITE
+King Kite in flight. (Wills collection)
+David Jones's new King Kite in 1983, with entirely new wing 
+profiles but otherwise as close as possible to the original. 
+Behind are a Slingsby T-31 and other vintage sailplanes of 
+various types. (E. A.Hull)
+Wills (right) and Watt (left) rigging the King Kite with its new 
+canopy at Dunstable in 1938. ( Wills collection)
+
+--- PAGE 76 ---
+V
+Strut details 
+(Scale x 1.5)
+Wing root section 
+MAC A 4416
+CO
+CM
+--CJ
+to
+0)
+Early cockpit 
+canopy
+..-J£s
+Later struts, 
+steel tubes with 
+plywood fairing
+Early struts, 
+solid spruce
+Tip section 
+RAF 34 (Mod)
+Drawn by Martin Simons 1§91
+580
+Slingsby
+Type 12
+Gull
+
+--- PAGE 77 ---
+Type 12 and 15, 
+Kirby Gull
+The Slingsby Type 10 Kirby Kitten and Type 11 Kirby 
+Twin were small powered aeroplanes which Fred 
+Slingsby designed with the help of John Sproule and 
+Mungo Buxton. A good deal of work was done on the 
+airframes, but neither was completed. Sproule then 
+left to work for Airspeeds, and Slingsby, alone again in 
+his drawing office, laid out a new sailplane, his Type 12, 
+which he named Kirby Gull.
+Without the kind of government support that gliding 
+received in several European countries, it was vital that 
+any new product from the Yorkshire factory should be 
+inexpensive. It also had to cater for the needs of the 
+ordinary club glider pilot, whose experience was very 
+limited and who could not be expected to handle any 
+very large, fast and heavy aircraft. The market was not 
+ready for anything comparable to the 19m and 20m 
+sailplanes which dominated the international record 
+breaking and competition scene, yet something better 
+than the old Kirby Kite was needed now. The ability to 
+stay up in the lightest of slope lift and climb in weak 
+thermals remained important, but the need to fly fast 
+through sink, to 'penetrate' without losing height too 
+rapidly, was becoming equally significant.
+The Kirby Gull was a little over 15.33m (50ft) in span, 
+with a strut-braced gull wing mounted high on the fuse- 
+lage. The aspect ratio was 15.8. The most radical depar- 
+ture from Slingsby's previous practice was the 
+adoption of an American wing section, the NACA 4416, 
+which was tapered over the outboard panels to a 
+version of the RAF. 34 at the tip. Slingsby cautiously 
+tried out the NACA profile by having a special Kirby 
+Kite built with this section. (It was flying at Sutton 
+Bank early in March 1938, and stayed there all 
+summer.) Having established that the section behaved 
+as the wind tunnel tests from the USA indicated, he felt 
+confident that it would be suitable for the Gull. With 4 
+per cent camber it would be faster than the old 
+Gottingen 535 but not as extreme as the NACA five- 
+digit profiles used for the King Kite.
+Not yet understanding why the King Kite had 
+behaved so badly (the errors in construction had not 
+been detected), Slingsby reverted to an older policy for
+preventing tip stalling. The RAF. 34 section had a 
+slightly reflexed camber, 2 per cent at its maximum, 
+compared with the 4 per cent of the 4416. In Germany it 
+would have been normal to give such a wing six or 
+eight degrees of negative twist. The amount of 
+washout incorporated in the original Kirby Gull is 
+uncertain, since drawings exist which conflict slightly 
+but it was quite small, probably 2°. Slingsby was trying 
+to prevent the serious loss of efficiency at high speeds 
+associated with large washout angles, the outer wing 
+bending down as the angle of attack there became neg- 
+ative. It is possible that Slingsby changed this feature 
+after experience with the first two or three Gulls, 
+increasing the washout geometrically from the original 
+2° to 3.5° which became the advertised figure.
+Structurally, the wing was entirely orthodox, with a 
+laminated spruce mainspar curved gently to produce 
+the gull shape and a stressed-skin plywood leading 
+edge, stiffened with extra riblets to withstand torsion. 
+The spar was a box section over the inner part of the 
+wing, but changed to a C, with only one plywood web 
+further out. A diagonal member transferred the tor- 
+sional loads to the rear wing root fitting. Since the 
+single streamlined strut reduced the bending loads to 
+zero at the wing root, the fittings were of the simplest 
+and lightest kind. The leading edge, mainspar and rear 
+diagonal spar were each joined to the fuselage frames 
+with a single horizontal steel pin. The port and star- 
+board wings were not directly attached to one another, 
+the gap between them being closed by a rather elabo- 
+rate built-up plywood fairing after the controls had 
+been connected. A light spar attached to the rear of the 
+outer wing ribs carried the ailerons. There was no sec- 
+ondary spar inboard. Tapes were used to stiffen the ribs 
+laterally. The control surface hinges on the Gull were 
+much neater than those of the Kite. The aileron spar 
+was faired and stiffened with a D-section leading edge 
+of plywood, and the hinge line was shrouded, though 
+not totally sealed against air leakage through the wing.
+The fuselage was also orthodox, being a semi-mono- 
+coque shell supported by light longerons and cross- 
+frames with stouter mainframes to take wing, strut and
+75
+
+--- PAGE 78 ---
+SLINGSBY SAILPLANES
+landing loads.The cross-section was round backed 
+with a pointed keel. The cockpit was comfortable with 
+a well shaped seat and space for a back-type para- 
+chute. A small instrument panel, the rear of which was 
+accessible for making and inspecting connections, was 
+large enough for four instruments.
+Ha\ing seen the latest German techniques during his 
+visit to the international competitions in 1937, Slingsby 
+developed a contoured cockpit canopy. At this time, 
+small sheets of transparent plastic could be moulded 
+individually by hand into three-dimensional curves, but 
+the pulling or blowing of entire canopies was not yet 
+practicable. To build the canopy a wooden frame had to 
+be laminated on a form. Into this, 11 separate trape- 
+zoidal segments of plastic were fitted. Aerodynamically 
+the shape was excellent, with only small ridges at the 
+edges of the panels to disturb the airflow, but the view 
+from inside the cockpit was not good, being obstructed 
+in every direction by the rather wide wooden hoops. 
+Because of reflections on the front panel, which was at 
+a very oblique angle to the pilot's line of sight, and the 
+distortions caused by the moulding process, the view 
+directly ahead was very poor. There was only a small 
+round porthole at each side to allow clearer vision. The 
+view directly ahead became most important when 
+approaching to land, a lower standard of visibility at 
+this time was accepted by expert pilots for the sake of 
+improved performance. The main danger for them was 
+that of collision with another sailplane when circling 
+together in a thermal. When turning it was most neces- 
+sary to look out to the sides and above, and the Gull 
+canopy was not bad in this respect.
+There was no wheel, landings being made on a 
+rubber-sprung skid. A coupling for aero-tow and winch 
+launching was fitted just above the front skid mount- 
+ing, and there was an open bungee hook on the skid 
+plate itself. It was not usual at this time to mount a 
+winch launch release under the belly of a sailplane. 
+The tail unit followed usual practice, being con- 
+structed from wood and covered with fabric. It was not 
+strut-braced. The most serious and surprising omis- 
+sion from the original Kirby Gull was any form of 
+landing approach control. There were no spoilers, 
+flaps, or airbrakes.
+The prototype made its first flight in March 1938. 
+Satisfied with its behaviour by the end of the month, 
+Slingsby was allowing prospective customers to fly it 
+at Sutton Bank. One of the first to try it was Frank 
+Charles, who had bought the prototype Kite, but he did 
+not place an order for a Gull. (Probably at this time he 
+discussed \\ith Slingsby the type of sailplane he would 
+really like; the result was the Type 13 Petrel.) Slingsby 
+took the Gull to an Easter aero-towing meeting at 
+Ratcliffe aerodrome, Leicester. This, the first meeting 
+of its kind in Britain, was arranged jointly by the 
+London and the Derby & Lancashire gliding clubs. P. M. 
+Watt demonstrated the Gull, releasing from tow at 
+1,800m (6,000ft) and putting it through an acrobatic 
+routine including spins and recoveries on the way 
+down. It was bought on the spot by Dudley Hiscox,
+who completed a cross-country flight of 93km (58 
+miles) on the following day.
+The Gull was greeted with enthusiasm, and in the 
+preliminary lists for the forthcoming national competi- 
+tions four were entered. Three were completed in time, 
+one going to the Derby & Lanes Club, one to the 
+Yorkshire Club, and one to the Midland Club. In the 
+event only one, from Derby & Lanes, appeared in the 
+competition in July. It did well, though it made only 
+two cross-country flights.
+It was soon clear to all the new owners that some 
+improvements were necessary. After the first three or 
+four production Gulls, by the end of July 1938 spoilers 
+were introduced. At the same time the cockpit canopy 
+was redesigned. The wooden hoops holding the trans- 
+parent panels were reduced in width to make them less 
+obtrusive, and the front of the canopy was extended 
+forward as far as possible and the foremost central 
+segment was hinged at the leading edge so that the 
+pilot could lower it and obtain a direct, if rather 
+restricted, view ahead. An alternative type of strut was 
+introduced, a circular-section steel tube faired with a 
+built-up plywood case. In this form production contin- 
+ued. Five more were completed before the end of the 
+year. In the USA, Herman Kursawe built a Gull from 
+plans in 1942. This brought the total to ten.
+On 30 May 1939 the Yorkshire Club's Gull was 
+involved in a double fatal accident. On aero-tow at 
+Welburn, it got out of position soon after take-off and 
+rose too high. Probably the poor view ahead was partly 
+responsible, causing the glider pilot to lose sight of the 
+tug. The tow aeroplane was pulled tail-up into the 
+ground and the Gull's starboard wing broke. Both 
+pilots were killed.
+The Gull also acquired a reputation for spinning 
+easily, though it was as quick to recover as it was to 
+enter the spin. One pilot at the Derby & Lanes Club suf- 
+fered a broken winch cable in mid-launch, stalled and 
+spun, but recovered to land safely, all within the space 
+of about 120m (400ft).
+Providing the pilot was aware of the characteristics 
+of the Gull it proved easy to fly, responsive to the con- 
+trols and there was no doubt that its performance at 
+high speeds was a considerable advance on that of the 
+Kite.
+It had been an ambition among British glider pilots 
+for some years to soar across the Channel. There had 
+been crossings during 1931 by Lissant Beardmore, who 
+was aero-towed from Lympne, and by Robert Kronfeld, 
+who was twice launched to 3,000m (10,000ft) to glide 
+across in each direction. Neither had attempted any 
+soaring on these occasions. A prize offered in 1938 for 
+the first person to soar across had not been claimed. 
+Philip Wills and Christopher Nicholson on separate 
+occasions had come into sight of the opposite shore 
+and contemplated it, but had insufficient height to 
+glide over when they reached the coast.
+The opportunity came on 22 April 1939. Geoffrey 
+Stephenson in the Blue Gull was winch launched quite 
+late in the afternoon at Dunstable, in a strong north-
+76
+
+--- PAGE 79 ---
+TYPE 12, KIRBYGULL
+westerly wind. Not at first thinking of the Channel, he 
+made rapid progress, crossed the Thames, reached the 
+Medway at 900m (3,000ft) and arrived at Hawkinge, 
+near Folkestone, below 300m( 1,000ft), expecting to 
+land. A strong thermal over the aerodrome changed his 
+mind. He climbed swiftly to cloud base and continued 
+into the cumulus, gaining height at 360m/min 
+(l,200ft/min) to 1,800m (6,000ft), and from there set 
+course. Emerging from the cloud, Stephenson was 
+already offshore, and he flew on through sinking air to 
+arrive over the French coast a little east of Cap Gris- 
+Nez. He found no more thermals and landed at Le Wast, 
+16km (10 miles) inland, at 5.35 p.m., less than 3hr after 
+take-off. The distance was 204km (126 miles). The 
+flight was rightly greeted in the the press as an epic 
+achievement. It was 11 years before the feat was 
+repeated by two pilots on the same day in April 1950. 
+The exercise of getting the glider and its pilot back 
+home was almost equally meritorious, since author- 
+ities on both sides required documents which did not 
+exist. Anne Edmonds (later Welch), having a valid 
+passport, deserted her engagement party to join the 
+retrieving crew.
+In the National Competitions of July 1939 at 
+Camphill, three Kirby Gulls competed. The Blue Gull, 
+now sporting English and French flags painted on the 
+fuselage just below the leading edge of the wing, was 
+flown alternately by Stephenson and Donald Greig. 
+They were placed third in the final score sheet, beaten 
+only by Christopher Nicholson and Philip Wills, both 
+flying German aircraft.
+To those who had bought Gulls in the early days, 
+Slingsby offered a retrospective modification scheme, 
+but in the case of his first buyer, Dudley Hiscox, he 
+offered to exchange the aircraft for a new one. Late in 
+1938 Hiscox accepted the replacement. Adjacent 
+photographs published subsequently in Sailplane and 
+Glider showed the two aircraft. The new arrival was 
+now named Gull 1, because the Gull 2 (a two-seater) 
+was on the drawing board at Kirbymoorside. It also 
+bore Slingsby's new transfers instead of the old golden 
+eagle emblem.
+The prototype Kirby Gull was bought by the Sydney 
+Soaring Club, whose representative visited Dunstable 
+late in 1938. It was returned to the factory and brought 
+up to the new standard, with spoilers and an improved 
+canopy, and freshly painted light blue but with clear 
+doped fabric. The old golden eagle insignia was 
+replaced by the more modern Slingsby transfers. It is 
+probably not a coincidence that the Sydney Gull was 
+re-finished in the same colour as the cross-Channel 
+Gull. There was plenty of blue paint available.
+Gliding in Australia at this time was underdeveloped, 
+with scattered clubs surviving almost in isolation from 
+one another. There was no doubt that the potential for 
+cross-country flights was great, but little had been 
+achieved. The Sydney Soaring Club would now be 
+called a private-owner syndicate rather than a club, as 
+it had only four member's. Its base was at Camden, 
+south of the city. The Gull arrived there in April 1939
+complete with trailer. It was the most advanced 
+sailplane so far seen in Australia. The Gull attended the 
+first national gliding meeting ever held in Australia, at 
+Belmont in Victoria, during the last nine days of 1939. 
+From flat ground with launches by winch it made 
+several good local soaring flights in the hands of Martin 
+Warner and Norman Hyde, and a great many more brief 
+circuits. In 1940 soaring was forbidden in Britain, but 
+no such restriction applied in Australia. Back at 
+Camden, again from a winch launch, the Gull, flown by 
+Stephen Newbigin, broke the Australian Height record 
+on 27 January with a 2,370m (7,900ft) climb.
+Cross-country flying from Camden was greatly 
+restricted, because mountains and bush country 
+enclose Sydney on three sides, with the Pacific Ocean 
+on the fourth. At Easter 1940 the Sydney group decided 
+to explore the vast interior. An area of relatively flat 
+wheat and sheep farming country, exceeding Western 
+Europe in area, was available beyond the Great 
+Dividing Range. The sailplane was taken to Narromine, 
+beyond the Blue Mountains, 460km (285 miles) by road 
+from Sydney. A de Havilland Moth tow aeroplane 
+owned by Dr G. A. M. Heydon, a central figure in the 
+club, flew there to await the ground party's arrival. 
+There followed what was probably the world's first 
+soaring tour. Each day the sailplane was launched and 
+flew across-country as far as possible in any direction 
+the pilot found suitable. He would land in a large 
+paddock (field) or at an aerodrome. From there he tele- 
+phoned the others to announce his position. The Moth 
+and the trailer followed. On the next day another pilot 
+would be launched to land as far away as he could, and 
+the others would follow. In the four days of the Easter 
+weekend a total of 550km (340 miles) cross-country 
+soaring was done, and the height record was raised to 
+over 3,300m (11,000ft). With the outbreak of war in the 
+Pacific, soaring was suspended.
+In 1945 the Sydney Gull required re-covering with 
+new fabric. After this the group set off for a second 
+sailplane safari, starting at the Royal Australian Air 
+Force (RAAF) base at Parkes. Heydon's tow aeroplane 
+was now a Tiger Moth. After a day's practice flying, on 
+24 December Martin Warner flew 317km(197 miles) to 
+Jerilderie and reached 3,510m (11,700ft) on the way. 
+The flight would have qualified for the international 
+Gold C badge, but the barograph carried did not read 
+above 3,000m (10,000ft) so the claim was disallowed. 
+The next day, the Tiger Moth having arrived early in the 
+morning, Harry Ryan was launched in a hot northerly 
+wind, and to the astonishment of the air traffic con- 
+trollers landed shortly after 2 p.m. at Essendon, which 
+at that time was Melbourne's main airport. Ryan had 
+seen an airliner take-off shortly before he made his 
+own approach into a wind that almost equalled his 
+flying speed. The distance was 271km(168 miles), and 
+the newspapers made much of it. The Gull was 
+returned to Parkes by road and the tour continued, 
+with further flights by all the members of the club 
+investigating large areas of the plains north of Parkes. 
+The return to Sydney was made on 9 January 1946. A
+77
+
+--- PAGE 80 ---
+SLINGSBY SAILPLANES
+total of 925km (573 miles) cross-country soaring had 
+been achieved. Another tour with the Gull was under- 
+taken at the turn of the years 1947-48. Early in the 
+week, the Tiger Moth and also a de Havilland Dragon 
+airliner, tied down on the aerodrome, were blown over 
+and written off during a sudden storm. Fortunately a 
+substitute Tiger Moth was made available by the RAAF. 
+Successful experiments were made with a radio in the 
+glider, but this excursion was only partly successful, 
+the Gull being damaged after a few days in a ground- 
+looping incident on take-off.
+In Britain, soaring was permitted again only in 1946, 
+although there was an illegal meeting at Sutton Bank 
+during 1945. Most Gulls were impressed into military 
+senice during the war, but those that survived re- 
+emerged to serve with clubs and private owners.
+Also among the Gulls flying post-war was the 
+Slingsby Type 15 Gull 3, often called the Cantilever 
+Gull. The strut had been eliminated, and the main wing- 
+spars were suitably strengthened and the root fittings 
+redesigned to join the two main spars directly together 
+to carry the bending loads. The Type 15 had been under 
+construction at the outbreak of war and was com- 
+pleted and test flown during 1940. At this stage it was 
+finished in the usual clear dope and varnish but sported 
+RAF roundels. It gained a certificate of airworthiness 
+in 1941 and was then stored until 1944, when it was 
+bought by the famous racing driver Prince Bira of 
+Siam. Bira worked as an ATC gliding instructor, and 
+had opportunities to fly his Gull which were denied to 
+civilian pilots at this time. He flew it illegally during a 
+1945 Sutton Bank meeting. He had a special window 
+fitted behind the cockpit where there was a small 
+space between the wings. In this compartment he took 
+his Highland terrier dog Tichiboo, or Titch, who 
+accompanied him happily on all his flights.
+According to contemporary reports the Gull 3, 
+which Bira himself seems to have christened 
+Kittiwakc, was at least equal in performance to the 
+Olympia sailplanes which, from 1947, came to domi- 
+nate the British soaring movement. In terms of aero- 
+dynamic form, aspect ratio and wing profiles this was 
+probably the case, though no serious comparative 
+flight testing was ever done. The Gull 3 did not handle 
+quite so well as the Olympia, but it was felt by many 
+that Slingsby should have carried out his plans, 
+announced in January 1945, to market the type with a 
+revised cockpit canopy and landing wheel. If airbrakes 
+had been added too, it would certainly have been a 
+genuine competitor for the Olympia and could have 
+been on the market at least a year sooner.
+Apparently Bira crashed the Gull 3 badly, though the 
+circumstances are obscure. Possibly this was the acci- 
+dent which occurred when he was caught by unexpect- 
+edly rough air when landing in an awkward spot on 
+Dartmoor not far from his home at Bodmin. (By June 
+li 46 he, in company with Titch, was flying the Minimoa 
+which had belonged to Philip Wills. Bira eventually 
+replaced this with a Weihe.j The wreck of the Gull 3 
+was bought by Hawkridge Aircraft Ltd at Dunstable
+and rebuilt, emerging in dark blue with a moulded 
+cockpit canopy. It was then bought by members of the 
+Oxford Gliding Club at Weston-on-the-Green, but fell 
+out of use and was stored after 1971. After nearly '20 
+years it was rescued by Mike Beach and totally 
+restored, repainted in 'Bira Blue' to match the prince's 
+racing colours and, except when being flown resides 
+now at the Brooklands Museum, Weybridge, Surrey.
+Only one Type 12 Gull of the original ten remains in 
+service. This aircraft, BGA 378, was owned originally 
+by W. Coleman of the mustard manufacturing family, 
+but after his death in a wartime Hawker Hurricane 
+accident it passed to A. Binfield and was then sold to 
+the Derby & Lanes Gliding Club in 1949. It was flown in 
+the National Competitions that year, as was the cross- 
+Channel Gull, and BGA 378 flew also in the 1950 
+contest. Following an incident in flight, when the 
+cockpit canopy began to shed panels, this component 
+was rebuilt with a more orthodox transparent bubble 
+adapted from a General Aircraft Hotspur troop-trans- 
+port glider, which spoiled the lines of the fuselage but 
+gave the pilot a very much better view. The aircraft 
+changed hands several times subsequently, but was 
+never out of service for long. It has performed out- 
+standingly well in the Competition Enterprise series, 
+begun in 1974.
+A Gull 1 is on display in the Royal Scottish Museum, 
+Edinburgh, and the prototype, after serving with 
+various groups in Australia, is in a museum in Perth, 
+Western Australia. The American Gull is also still 
+extant and may be restored to flying condition. Finally, 
+a completely new Gull 3 has been built from the origi- 
+nal drawings. The project was begun by Mike Garnett, 
+and after his unexpected death it was taken over by a 
+small group at the Blackpool and Fylde Gliding Club. 
+With a moulded canopy and landing wheel, it was com- 
+pleted in 1992, after more than ten years' part-time 
+work.
+Kirby Gull data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Wing sections:
+Root
+Tip 
+Length o.a.
+Weights
+Tare 
+Flying 
+Wing loading
+15.33m (50ft 3%in) 
+14.86m2 (160ft2) 
+15.8
+NACA4416
+RAF. 34 (modified)
+6.61m (21ft 7in)
+172.5kg (3841b) 
+283.5kg(6241b) 
+19.1kg/nr(3.911b/ft2)
+Performance
+Best glide ratio (estimate) 1:24
+Gull 3: Similar, but tare weight approx. 190kg (4181b), 
+wing loading 20kg/m2 (4. lib/ft2).
+78
+
+--- PAGE 81 ---
+BGA378, with wheel, at the Derbyshire and Lancashire Club 
+site at Camphill in 1949, showing the club's blue and white 
+stripes on the rudder and the registration letters. Otherwise 
+the finish was clear dope and varnish. This Gull, with mod­ 
+ified cockpit canopy, still flies regularly. (M. Simons).
+Gerard O. Smith with the Derby and Lanes Club Gull, receiv­ 
+ing the Air League prize in 1938. The original form of cockpit 
+canopy is visible. (C. Brown)
+The Derbyshire and Lancashire Gliding Club's Kirby Gull, 
+BGA378, flying at the 1938 National Gliding Competitions at 
+Dunstable. This was the second Gull built. No spoilers were 
+fitted at this time. (C. Brown)
+
+--- PAGE 82 ---
+The prototype Gull flying at Gawler, the base of the Adelaide 
+Soaring Club, in South Australia, 1957. (Courtesy Adelaide 
+Advertiser)
+The modified prototype Gull soon after its arrival in Australia 
+in 1939. The cockpit canopy and spoilers were brought up to 
+the new standard before export. ( M. Waghorn)
+The London Gliding Club's Gull being manhandled outside 
+the hangar in 1950. It was withdrawn from use after 1964. 
+(M. Eacock)
+\
+
+--- PAGE 83 ---
+TYPE 12, KIRBY GULL
+Prince Bira with the fuselage of the only Gull 3, which was 
+named Kittiwake when he owned it. ( Wills collection)
+The restored Gull 3 on winch launch at Camphill, 
+Derbyshire. (M. Simons)
+The Gull 3 wing root fittings, showing how the main spars 
+were joined on the centreline with horizontal steel pins. 
+(M. Simons)
+81
+
+--- PAGE 84 ---
+SLINGSBY SAILPLANES
+The prototype Kirby Gull in its museum shelter in Perth, 
+West Australia. After several accidents, the front fuselage of 
+the Australian Gull was rebuilt, without drawings, by Harry 
+Schneider. (N. Wynne)
+The cross-Channel Gull, BGA 380, at the National Gliding 
+Championships at Camphill in August 1949. The tailplane 
+has not yet been rigged. (G. Stephenson)
+
+--- PAGE 85 ---
+The cross-Channel Gull at Dunstable in 1949 with its 
+registration letters added by law, to the disgust of the 
+owners. (M. Eacock)
+The restored Gull 3 at Booker (High Wycombe). Note the 
+small window between the wings for Titch's aerial kennel. 
+(M. Beach)
+Dudley Hiscox flying the prototype Kirby Gull at Dunstable 
+(C. Brown)
+
+--- PAGE 86 ---
+250'250310'320 34222

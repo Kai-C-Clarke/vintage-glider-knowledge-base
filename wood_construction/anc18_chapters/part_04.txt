@@ -1,0 +1,3356 @@
+:
+C=0 as/, and/2 =
+(2:39)
+ft=/sl as C and/,=0
+(2:40)
+The center of the stress circle is at the origin and can be drawn as shown in figure 2-24.
+This shows that the principal axis of stress is parallel to the grain direction.
+It also
+shows that
+fw = -fsi
+f,=f„
+f*» =
+(2:41)
+The resulting strains are obtained from equation (2:26)
+-^bt+ltf)
+e * =i - (ir+W,
+e"- =0
+(2:42)
+*sz
+fsz
+Figure 2-23.—Plywood in shear at 45° to the face grain direction.
+From equation (2:27)
+
+--- PAGE 64 ---
+58
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+<
+The resulting strain circle is shown in figure 2-25. The value of c is negative and there-
+fore the center of the circle lies to the left of the origin.
+Since esw = 0, the direction of ew ,
+and therefore the direction of the face grain,
+is parallel to the direction of the principal
+axis of stress.
+The modulus of rigidity at 45° to the grain direction {Gis)
+is defined as the shear
+stress divided by the shear deformation, or
+G iS =^-=—.
+j
+(2:45)
+We
+e
+~e~
+The associated direct strain
+For EW = E X ,
+e, =0, and the center of the strain circle coincides with the origin.
+Then
+which is the relation obtained for isotropic materials.
+I
+
+--- PAGE 65 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+59
+*2.56ll2. Experimental stress-strain data. Figure 2-26 presents stress-strain curves
+typical of those obtained in a few exploratory tests of plywood to which the stresses were
+applied at 45° to the face grain direction and in which the grain direction of alternate
+plies was at 90°. The types of specimen on which these curves were obtained are also
+indicated in figure 2-26.
+For experimental stress-strain curves, see reference 2-26.
+2.6. PLYWOOD STRUCTURAL ELEMENTS.
+The
+following
+formulas
+for
+strength of plywood elements are applicable only when
+elastic instability
+(buckling)
+is not involved, except in the case of column formulas.
+For cases involving buckling,
+see section 2.70.
+2.60. Elements
+(6 = 0° or 90°).
+2.600. Elements in compression (6 = 0° or 90°). When a plywood prism is sub-
+jected to a direct compression load, the relation between the internal stress (/cl) in any
+longitudinal ply and the average P/A stress is given by the following equations:
+Face grain parallel to applied load
+P/A
+&)
+(2:47,
+
+--- PAGE 66 ---
+(Nl OS U3d 97) S-S-JVIS-
+
+--- PAGE 67 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+61
+Face grain perpendicular to applied load
+PM
+(2:48,
+The allowable stresses at the proportional limit Fcpw and Fcvx, or the allowable ulti-
+mate stresses Fcuw and Feux are obtained from these equations, respectively, when the
+stress at the proportional limit FCP or the ultimate crushing stress Fcu from table 2-3,
+whichever is required, is substituted for/( L. When more than one species is used in the
+longitudinal plies, the species having the lowest ratio of F,. p/El and F,- u/El must be used
+in determining the correct allowables.
+For certain species and plywood constructions,
+the compression allowables may be obtained from table 2-9.
+*2.601. Elements in tension
+(6 = 0° or 90°).
+Under tension loads the fiber stress
+at proportional limit for wood is, in most cases, very close to its ultimate strength.
+This
+fact should be given careful consideration in the design of wood and plywood tension
+members, and stress concentrations should be avoided.
+An equalization of stresses for
+loads above the proportional limit cannot be assumed, as in the case of metal structures,
+since yielding will be closely followed by complete failure.
+The allowable ultimate tensile stress for a plywood strip (designated as F tUw when
+the face grain direction is parallel to the applied load, and Ftux when the face grain
+is
+perpendicular to the applied load) is equal to the sum of the strengths of the longitudinal
+plies divided by the total area of the cross section. The strength of any longitudinal ply
+is equal to its area multiplied by the modulus of rupture for the species of that ply as
+given in column 8 of table 2-3.
+For certain species and plywood constructions, the ten-
+sion allowables may be obtained from table 2-9.
+*2.602. Elements in shear (0 = 0° or 6 — 90°).
+The
+allowable
+ultimate
+stress
+Fswx of plywood elements subjected to shear is equal to the sum of the shear strengths
+of all plies divided by the total cross-sectional area. The shear strength of any individual
+ply in a direction parallel to that of its grain is the allowable shear stress parallel to the
+grain (column 14 of table 2-3) multiplied by the cross-sectional area of that ply.
+The
+shear strength of any ply in a direction perpendicular to that of its grain can be taken as
+1.5 times the allowable shear stress parallel to the grain (column 14 of table 2-3) multi-
+plied by the cross-sectional area of that ply.
+Thus, two allowable shear stresses will be
+obtained, one parallel to the face grain and one perpendicular to the face grain; but since
+shear stresses are always applied equally in these two directions, the lesser value of the
+two is the proper allowable stress to use. The ultimate shear stresses for certain species
+and plywood constructions both parallel and perpendicular to the direction of the face
+grain have been computed. The lesser of the two are given in column 20 of table 2-9.
+A few exploratory tests indicate that the shear values of table 2-9 are applicable
+to plywood made from veneers of approximately V nrinch thickness and that an increase
+in strength may be expected from plywood made of thinner veneers.
+This effect is being
+further investigated.
+2.61. Elements (6 = any angle).
+*2.6l0. Elements in compression (6 = any angle). Based upon the results of com-
+pression tests of a few species and constructions of plywood, the ultimate compressive
+stress may be given by
+
+--- PAGE 68 ---
+62
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Fcu6
+F cuw
+qq°
+cuw
+Fcux)
+(2:49)
+where
+6= angle between the face grain and the direction of the applied load in degrees.
+Fcu w = ultimate compressive strength of the plywood parallel to the face grain; from
+formula (2:47)
+Fcux = ultimate compressive strength of the plywood perpendicular to the face grain;
+from formula (2:48).
+*2.6ll. Elements in tension
+(0 = any angle). The ultimate tensile strength of ply-
+wood in this case is given by the formula:
+F tu9 =—
+1
+(2 :50)
+rcos 2
+6 "1 2
+,
+rsin*
+0~i 2
+. rsin 6 cos
+where: F tU w and F tux = ultimate tensile strength of plywood parallel and perpendicular"
+to the face grain direction, respectively, from section 2.601; and
+Fswx = ultimate shear strength of the plywood when the face grain direction is parallel
+and perpendicular to the shear stresses, from section 2.602.
+*2.6l2. Elements in shear (0 = any angle).
+The ultimate shear strength
+of ply-
+wood in this case is given by equations (2:51) and
+(2:52). When shear tends to place
+the face grain in tension, equation (2:51) should be used. When shear tends to place
+the face grain in compression, equation (2:52) should be used.
+When face grain is in tension
+y
+(2:51)
+-
+X
+When face grain is in compression
+v
+(2:52)
+For the special case of the face grain at 45° to the side of the panel, equations (2:51)
+and (2:52) reduce to
+
+--- PAGE 69 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+63
+(2:53)
+(2:54)
+*2.613. Elements
+in combined compression
+(or
+tension)
+and
+shear
+(0 = any
+angle). The condition for failure of plywood elements subjected to combined stresses
+in the plane of the plywood
+is given by the following equation.
+Formulas 2:50 to 2:54
+are special cases of this general equation.
+^)'+(/
+t)'+(fe)'-'
+where
+fw/F u, = ra,t\o of the internal tension or compression stress,
+parallel to the face
+grain, to the allowable tension or compression stress in the same direction.
+fx/F x = ratio of the internal tension or compression stress, perpendicular to the
+face grain, to the allowable tension or compression stress in the same
+direction.
+fs w x/Fs wx — ratio of the internal shear stress, parallel and perpendicular to the face
+grain, to the allowable shear stress in the same direction.
+In the use of equation 2 :55, it is necessary to first resolve the internal stresses into
+directions which are parallel and perpendicular to the face grain direction.
+In order to clarify the use which can be made of the combined loading equation 2:55,
+the complete derivation of equation 2:50
+is given.
+It
+is desired to find the allowable
+tensile stress of a plywood element which is loaded as shown in figure 2-27.
+Figure 2-27.—Orientation of plywood element for derivation of formula 2:50.
+
+--- PAGE 70 ---
+04
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Resolving stresses
+ftw=ft cos
+2
+6
+ft x =ft sin2
+fsw X =ft sin
+cos 6
+Substituting these terms in the combined loading equation
+the following is obtained:
+Vft
+cos1 6 1*
+|
+Vft sin2 8 V
+|
+Vft sin
+cos
+~|~
+1
+L
+P'tuw
+J
+[_
+Ftux
+J
+|_
+FIWX
+J
+Dividing through by /, and setting
+its value equal to the allowable tensile stress, F tu e,
+gives equation 2:50, or
+Ftu9 =
+(2:50)
+4
+cos2
+6
+2
+p sin2 6 "| *
+r sin
+cos 6 -| 8
+Equations 2:51 and 2:52 may be derived in exactly the same manner.
+Experiments
+indicate that equation 2:55
+is conservative in the case of compression at angles to the
+grain and that equation 2 :49 can be used.
+2.614. Elements in bending.
+The apparent moduli of elasticity {Efw and EfI )
+of
+plywood beams in bending are given by the general formulas in section 2.5. When all
+of the plies are of equal thickness and one species, these general formulas reduce to the
+following forms
+For rotary-cut veneer,
+3-ply;^=|(|+^)
+**HsK1+"s9
+(2:56)
+5-ply; 2^=J§ (^+99)
+Z^=J§ (»+"f=)
+(2:57)
+7-ply; Efw=^ (99 f+m)
+Efx=^ (90+144 f)
+(2:58.
+9-ply: Efu -^ (®44 %+^85
+)
+EfI=W9 {
+2^+^85
+( 2:59)
+For quarter-sliced veneer, Et/El should be replaced by Er/El
+(sec. 2.13).
+The bending stress in the extreme fiber of the outermost longitudinal ply is given by
+the following formulas:
+Face grain parallel to span
+'^mi (B
+(2:60)
+Face grain perpendicular to span
+^ =7^r(lt)
+cfor3-ply)
+•
+(2:61)
+
+--- PAGE 71 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+65
+'»=^(j7>Uother)
+(2:62)
+Mc'
+/El
+where
+c'= distance from neutral axis to extreme fiber of outermost longitudinal ply.
+£"/x = same as Efx except that outermost ply in tension
+is neglected. Efx may be
+used in place of E' fx in formula (2:62) with only slight error.
+El is taken for the species of the outermost longitudinal ply.
+The allowable bending stress at proportional limit
+(Fi,„) and the modulus of rupture
+in bending {F bu ) are given in table 2-3.
+**2.6140. Deflections. The deflection of plywood beams with face grain parallel or
+perpendicular to the span may be obtained by using Efw or Efx in the ordinary beam
+formulas.
+E'fx is used only for determining strengths in bending and not the deflection.
+For plywood beams with face grain at an angle 6 to the direction of the span, the effective
+modulus of elasticity to be used in the deflection formula is given by the equation
+E = Efw cos*Q+-£ sin2 6 cos2 V+E,x sin*
+6
+(2:63)
+o
+when
+(1) The loading is constant across the width of the beam at any point in its span.
+(2) The beam width
+is sufficient to cause the. deflection to be constant across the
+beam at any point in the span.
+(3) The beam is held so that
+it cannot leave the supports.
+There are no methods available by which the bending stresses in plywood beams
+may be calculated when the grain direction of the face plies is other than parallel or per-
+pendicular to the span.
+(ref. 2-24.)
+*2.6l5. Elements as columns.
+The
+allowable
+stresses
+for plywood
+columns
+are
+given by the following formulas:
+Long' columns
+p^_ 0.85
+ir
+Eju,
+££ace gram para llP l to length)
+(2:64)
+0.85
+7T
+* Efx (face grain perpendicular to length)
+(2:65)
+(L'/ 9 ) cr =3,55yJ
+E
+Fc u w
+or 3.55 yjy^- respectively
+Short columns
+'-'-['-i
+(2:66)
+where
+K = (L'/ P ) cr
+Fcu — Fcuw when face grain is parallel to length.
+= FCUX when face grain is perpendicular to length.
+
+--- PAGE 72 ---
+66
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+OS A
+£3
+a m s
+3 1
+3 1
+3 I
+5
+S
+°
+e5
+3
+S
+5
+S
+I
+!
+1
+S
+I
+S
+I
+of
+^'
+rq'
+*f
+^
+IIS
+s
+§
+I
+i
+§
+«
+_
+«
+P
+a s
+a i
+§
+I
+I
+!
+I
+!
+I
+!
+1
+!
+!
+!
+!
+I
+Oh
+I
+En
+f!
+3 i
+3 I
+I
+I
+!
+I
+I
+!
+I
+1
+S
+!
+I
+I
+!
+5
+S
+3
+i
+i
+!
+!
+S
+S
+a a
+I
+!
+I
+I
+!
+!
+!
+!
+4* .
+IP
+1
+I
+11111
+P1
+IT
+HA
+till
+ill
+Ml
+J»3!
+ST
+aJL
+IT!
+II.
+1
+1
+i
+'I
+1
+i
+S
+"2
+5
+g
+I
+1
+I
+8
+i
+i
+g
+S
+5
+3
+K
+5
+" 3
+3
+i
+5
+§
+i
+3
+5
+i
+i
+s
+s
+e
+s
+s
+2
+I
+i
+§
+§
+i
+I.
+i
+j
+I
+%
+8
+1
+i
+B
+1
+S
+lllllllllsliilll
+pq
+nacacQcn«pa«pq
+a
+«
+-g
+5
+b -a
+z - 5
+1
+I
+1
+I
+
+--- PAGE 73 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+67
+2,820
+3,080
+2,700
+2,350
+2,710
+2,460
+3,190
+3,520
+2,920
+3,070
+2,750
+2,260
+2,610
+2,440
+3,210
+3,420
+2.900
+3,0?0
+2,720
+2,260
+2,540
+2,400
+3,170
+2,120
+2,700
+2,140
+2,110
+2,190
+2,040
+2,870
+3,300
+2,400
+2,940
+2,360
+2,260
+2,440
+2,280
+3,100
+3,420
+2,510
+3,020
+2,400
+2,200
+2,540
+2,380
+3,170
+1,430
+1,160
+1,130
+1,110
+1,500
+1,300
+1,100
+1,810
+1,420
+1,200
+1,160
+1,140
+1,540
+1,300
+1,140
+1.S40
+1,420
+1,210
+1,170
+1.140
+1,500
+1.310
+1,150
+!
+!
+I
+§
+!
+§
+!
+7,270
+4,270
+5,440
+4,270
+4,550
+5,440
+4,270
+5,390
+§
+! III!
+!
+S
+9,300
+6,960
+6,960
+5,100
+6,960
+6,960
+6,900
+8,230
+8,230
+6,160
+6,160
+4,550
+6,160
+6.160
+6,110
+3
+S
+I
+I
+S
+I
+I
+s
+2,180
+2,930
+2,250
+2,320
+2.310
+2,130
+3,160
+3,600
+2,510
+3,340
+2,560
+2,610
+2,660
+2,400
+3,600
+3,810
+2,650
+3,530
+2,710
+2,610
+2,820
+2,610
+3,800
+4,480
+4,120
+4,020
+2,900
+3,340
+3,340
+4,440
+4,030
+3,990
+3,710
+3,590
+2,610
+2,980
+2,980
+4,000
+3,810
+3,770
+3,530
+3,401)
+2,610
+2,820
+2,820
+3,800
+1,640
+2,200
+1,690
+1,740
+1,730
+1,600
+2,530
+2,700
+1,880
+2,510
+1,920
+1,960
+1,850
+2,880
+2,860
+1,990
+2,650
+2,030
+1,960
+2,120
+1,900
+3,040
+3,360
+3,090
+3,020
+2,180
+2,500
+2,500
+3,550
+3,030
+3,000
+2,790
+2,700
+1,960
+2,240
+2,240
+3,200
+2,860
+2,830
+2,650
+2,550
+1,900
+2,120
+2,120
+3,040
+g
+i
+§
+1.
+I- § -3
+i
+g
+a
+g
+s
+§
+• i
+i
+1,020
+759
+752
+774
+747
+741
+747
+1,010
+1,200
+879
+857
+830
+877
+877
+1,190
+1,080
+1,070
+792
+766
+747
+784
+784
+1,070
+1,020
+1,010
+752
+725
+747
+741
+742
+1.010
+3
+641
+5
+053
+3
+929
+3.860
+4
+331
+3.393
+5.009
+11.307
+6
+951
+9
+397
+7
+325
+7
+340
+8
+402
+0.032
+9.310
+19.224
+11
+726
+15.704
+12
+254
+11
+287
+14.387
+11.277
+15
+569
+20
+60
+15.47
+15
+43
+11
+85
+15
+43
+15
+43
+15
+34
+30
+94
+30
+89
+23
+26
+23,16
+17.74
+23
+15
+23
+15
+23.06
+40
+46
+46
+38
+34.97
+34
+78
+27
+27
+34
+77
+34
+77
+34
+00
+§
+g
+|
+|
+8
+§
+1
+II
+I
+!
+§
+1
+6
+§
+I
+11
+783
+7
+731
+11.913
+8.080
+7
+442
+9
+302
+7
+430
+10,830
+12.63
+11
+.74
+11
+,71
+7.81
+9.98
+9.98
+10.67
+18.96
+18
+93
+17
+64
+17.57
+11
+70
+14
+97
+14.97
+16.04
+28
+47
+28.42
+26
+53
+26.38
+17.98
+22
+48
+22
+48
+24
+1
+S
+2
+«
+«
+=
+5
+B ISSSgiss
+I S
+3
+2
+S
+' 3
+£
+3
+g
+1581
+181
+183
+164
+137
+138
+244
+255
+206
+226
+230
+214
+185
+186
+305
+3BS83SS8.
+1,670
+1,190
+1,180
+1,190
+1,210
+1,210
+1,600
+1,600
+1,600
+1,140
+1,140
+1,140
+1,160
+1,100
+1,540
+1,570
+1.500
+1,120
+1,110
+1,140
+1,140
+1,140
+1,510
+.338
+.308
+.288'
+.275
+'
+.308
+.288
+.308
+.494
+.414
+.388
+.358
+.342
+.388
+.358
+.388
+.012
+.505
+.478
+.438
+.398
+.478
+.438
+.478
+illlllllilllH
+S1IIIII1 IISlSlsl
+Ilililllliilllli
+CO
+03
+03
+03
+CO
+03
+03
+03
+03
+CO
+03
+CQ
+CQ
+CQ
+CQ
+03
+03
+03
+O3O3
+03
+03CQ
+Diren-yeiiowpopiar
+Mahogany-mahogany
+Mahogany-yellowpoplar
+Yellowpoplar-yellowpoplar
+Sweetgum-sweetgum
+Douglas-fir-Douglas-fir
+Birch-birch
+Birch-yellowpoplar
+Mahogany-yellowpoplar
+Yellowpoplar-yellowpoplar
+Douglas-fir-Douglas-fir
+Birch-birch
+Birch-yellowpoplar
+Mahoganv-mahogany
+Mahogany-yellowpoplar
+li
+.100
+.100
+.100
+.100
+.100
+.100
+.100
+.125
+.125
+.125
+.125
+s
+g
+§
+|
+
+--- PAGE 75 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+69
+3.090
+2,330
+1
+Cl
+1
+Cl
+§
+co
+i
+CO
+1
+IN
+1
+CO
+I
+Ol
+1
+Ol
+CO
+2,810
+2.190
+1
+<M
+2
+oi
+|
+Ol
+I
+Ol
+i
+CO
+1
+i
+Ol
+I
+0-1
+1
+Ol
+2
+°.
+Ol
+1
+Ol
+I
+CO
+1,180
+1.130
+S
+l-H
+1
+1
+1
+i.
+s
+§
+§
+s
+s
+!
+I
+1
+CO
+I
+i
+CO
+1
+S
+I
+1
+I
+1
+-r
+1.
+i
+1
+uo
+6,610
+6,130
+1
+OS.
+§
+I
+1
+I
+SO
+f
+1
+2
+1
+§
+3,110
+2,350
+1
+CI
+s
+ci
+1
+I
+CO
+§
+co"
+1
+Cl
+1
+CO'
+1
+C-l
+|
+Ol
+g
+Ol
+"i
+Ol
+R
+co"
+3,940
+2,890
+!
+<M
+1
+CO
+|
+CI
+1
+-*<
+1
+CO
+I
+CO
+1
+CO
+1
+Cl
+1?
+cq"
+1
+Ol
+1
+of
+I
+CO
+2,340
+1,760
+O
+72
+I
+j
+OJ
+O
+1
+Cl
+i
+1
+I
+Cl
+1
+1
+Ol
+2,960
+2,160
+o
+Cl
+I
+1-
+Ol
+1
+CO
+I
+g
+».
+!d
+1
+CM
+1
+Cl
+1
+Ol
+I
+£
+i
+s
+§
+1
+K
+g
+i
+1
+1
+1
+i
+5
+1
+1
+g
+s
+I
+18.2
+14.2
+2
+o
+CO
+OS
+Si
+s
+s
+s
+a
+s
+S3
+g
+13.83
+9,39
+8
+«.
+o
+s
+2
+s
+SJ
+S
+s
+3
+ol
+2
+2
+s
+S
+S3
+c§
+S
+S3
+Si
+o
+CO
+S
+1
+1
+1
+I
+I
+I
+1
+S
+1
+I
+S
+I
+§
+s
+5
+2
+I
+I
+i
+1
+1
+!
+i
+s
+s
+2
+3
+1
+I
+1
+1
+s
+2
+i
+1
+1
+§
+s
+s
+1
+«
+PP
+fa
+fa
+pq
+fa
+pq
+fa
+PQ
+PQ
+fa
+pq
+fa
+pa
+fa
+PQ
+fa
+pq
+pq
+fa
+pq
+fa
+pq
+o
+=a
+£2 o
+fa
+
+--- PAGE 76 ---
+70
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+jl
+I
+1
+I
+I
+I-
+I
+I
+1
+S
+8
+I
+3
+S
+.5
+f'l
+5
+S
+!
+3
+!
+!
+§
+!
+I
+1
+I
+f!
+I
+!
+§
+I
+!
+1
+I
+!
+I
+I
+S
+!
+!
+i
+11 Hi
+All
+i
+I-
+1
+1
+§
+I
+g
+I
+i
+si
+iiiiiiiiiiiiiisiiiiiiiii
+i-Q
+CQ
+CQ
+CQ
+CQ
+CQ
+CQ
+CQ
+1
+§
+§
+s
+a
+s
+i
+§
+
+--- PAGE 77 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+71
+3,520
+2,670
+!
+!
+I
+I
+1
+!
+S3
+1
+!
+!
+1
+!
+s
+3
+3,310
+2,320
+1
+2,290
+1
+1
+s
+s
+S3
+1
+!
+1
+1
+!
+1
+1,820
+1,320
+!
+§
+s
+|
+s
+2
+2
+3
+1
+1
+1
+!-
+7,320
+4,180
+i
+4,180
+4,180
+1a
+§
+1
+B
+I
+«
+i
+!
+i
+2
+lO
+8,180
+7,220
+§
+5,820
+4,920
+1
+CD
+s
+§
+B
+1
+!
+I
+!
+1
+!
+2
+ui
+3,620
+2,450
+s
+2,490
+2,420
+1
+8
+cxf
+1
+o
+s
+1
+I
+!
+I
+1
+!
+!
+4,010
+3,470
+i
+2,750
+2,800
+1
+gM
+1
+c
+s
+1
+I
+2
+5
+1
+I
+I
+?
+2,720
+1,840
+i
+1,870
+1,820
+o
+O
+3
+1
+I
+1
+I
+1
+|
+s
+!
+1
+3,010
+2,600
+2,060
+2,100
+i
+1
+§
+si
+1
+o
+3
+I
+1
+i
+s
+S
+I
+s
+i
+5
+1
+£
+1
+S
+1
+a
+E
+2
+a
+«
+1
+|
+i
+s
+I
+1
+g
+g
+s
+!
+I
+a
+1
+a
+§
+S
+S3
+s
+s
+ss
+sg
+g-
+s
+105.0
+103.0
+to
+e
+77.6
+60.9
+s
+CD
+g
+2
+I
+=,
+s
+3
+5
+CO
+o
+s
+36.47
+23.88
+si
+24,31
+23
+53
+s
+S3
+2
+s
+s
+s
+S3
+S
+S3
+2
+s
+S3
+9
+S
+s
+s
+s
+S?
+S
+s
+g
+s
+s
+3
+s
+3
+s
+a
+1
+1
+1
+s
+1
+1
+I
+1
+1
+I
+I
+I
+1
+1
+1
+1
+1
+5
+g
+1
+§
+I
+I
+1
+1
+I
+I
+s
+1
+i
+1
+1
+1
+§
+g
+s
+s
+1
+1
+1
+1
+1
+s
+0.981
+.784
+g
+I
+1
+g
+i
+g
+1
+§
+1
+s
+§
+. |llll|l.|ll|ISi-|SilllS||l|l§l!fllilillilllllll Sill
+&.
+&.
+m
+fa
+PQ
+PQ
+&,
+fa
+m
+fa
+eq
+fa
+fa
+CO
+fa
+pa<
+fa
+CQ
+fa
+fa
+m
+fa
+CQ
+fa
+CQ
+fa
+Birch-yellowpoplar
+1
+-
+i
+i
+Yellowpoplar-yellowpoplar
+|
+Birch-birch
+Birch-yellowpoplar
+)
+Mahogany-yellowpoplar
+'
+Yellowpoplar-yellowpoplar
+|
+Sweetgum-yellow
+poplar
+1
+1
+S
+I
+1
+=*
+2
+2
+"5
+2
+<™
+2»
+2
+2
+
+--- PAGE 78 ---
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+!
+\§\sri
+3,470
+2,620
+3,040
+2,200
+2,290
+2,570
+2,280
+3,190
+1! i
+I
+3,370
+2,400
+2,980
+2,350
+2,240
+2,500
+2,310
+3,150
+1
+I
+1,830
+1,300
+1,210
+1,150
+1,130
+1,550
+1,240
+1,140
+Ultimate
+strength
+in
+1
+1
+8
+§
+§
+'
+S
+§
+1
+-
+i
+1
+-r'
+.re"
+#"
+«
+1
+I
+1
+I
+-S
+8
+i
+J
+1
+.re
+.c
+r»
+.re"
+.re
+.re'
+crushing
+strength
+s
+hi
+3,720
+2,580
+3,450
+2,010
+2,550
+2,760
+2,550
+3,720
+1
+3"
+as If
+1
+1
+1
+1
+1
+I
+sf
+M
+CO'
+N
+of
+5,!
+I
+S
+Fiber
+stress
+at!
+proportional
+1
+imit
+2,800
+1.930
+2,590
+1,960
+1,910
+2,070
+1,910
+2,970
+I
+2,930
+2,430
+2,700
+1,970
+2,010
+2,170
+?
+1
+"3
+J
+a
+1 M
+a
+65
+1.050
+927
+768
+751
+765
+759
+761
+1,040
+Static
+bending
+Moment
+for
+modulus
+of
+rupture
+ill
+S:
+Mi
+157.5
+93.4
+121.0
+94.6
+92.5
+117.9
+92.4
+120.0
+"i —
+& -
+o
+I
+n.-lb.
+per
+in.
+of
+width
+213.5
+211.6
+162.8
+159.U
+125.3
+159.8
+159.8
+161.4
+ii
+111
+In.-lb.
+per
+in.
+of
+width
+i
+1
+I
+1
+i 111
+iir
+1»
+g
+In.-lb!
+per
+in,
+of
+width
+130.8
+129.7
+123.5
+121.3
+82.6
+103.3
+103.3
+112.2
+i
+8
+s m
+f.
+i
+•
+i
+i
+,
+i
+i
+i
+N
+i
+a
+&?
+§
+1 &-s
+1
+S.I II
+11.
+s
+3
+1 M
+|
+|
+1
+S
+I
+' S
+" 8
+II
+m
+(15
+per-
+mois-
+ture)
+2
+1,480
+1.120
+1.155
+1.020
+.900
+1.155
+1.020
+1.155
+si
+s
+1 1 1 1 1 i i i i i I i 1 1 § i I i i I i 1 1 i
+«;E23pa=Qqa««
+1
+'o
+aw
+Nom-
+inal
+thick-
+ness
+—
+si
+>—
+.375
+.375
+.375
+.375
+.375
+.375
+.375
+.375
+«
+
+--- PAGE 79 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+73
+mum
+2§2g|gg|
+3 « £- «• S- s s s
+SSS999S9
+Ill-Ill!!
+IHISIH
+SSI I
+11111115
+N
+rH
+O)
+rH
+«
+II: 399 ii
+ci CO
+IlliiiSl
+•4
+^
+ooH«o;iflo:o
+CO
+of
+cm' of of « N
+of
+59393999
+99599999
+ii
+3 S 3393 5
+99555959
+SillllSi
+N-
+c^" J _J
+rH
+I
+II
+Ills!
+of of of Of
+CO'
+iiiiiisi
+n « n o o
+a x
+IBsrlSsss
+SISolsllS
+SSIlBlSi
+of of of
+of of of S
+3
+ol
+S" of of of of
+co'
+rH
+-h" rH
+rH
+rH*
+rn' rH
+rH
+rH
+-"
+rH
+-
+rH
+rH
+rH
+rH
+rH
+_
+II!I!!!I
+ISBSSSSi
+I- 1 1 1 ill:
+lisllll
+55595151
+51999991
+Slilllll
+IllllSiS
+leSSIIKS
+StSMISS
+Of rH
+Of
+rH'
+rH" rH
+rH
+of
+of of of -' -
+-h'
+rH
+- of
+III955I5
+i-SHSUl
+1 1 ! * i 1 1 s
+rH'
+rH' rH
+rH
+rH
+r-i
+rH
+rH
+OOOOOggO
+3 S S I 3 5 5 3
+2
+S? § 2
+o * "f o
+00
+CD
+CD
+10
+< IIS
+co
+of
+co" of of of
+of
+co"
+!!!!!-§!!
+Of of
+rn"
+rH- ,H
+rH
+of
+iiiiiiii
+rH"
+rH"
+missis
+1
+SSssISirl
+5SS33533
+pilllll
+2 533 HIS
+ggtsmg
+&H
+I
+3SSS3SS9
+11111111
+lilliili
+11111111
+co
+of of of of of of
+co"
+ISIS 5 111
+lllllglr!
+r-'
+I i g 1 1 g S
+3S335332
+llllllil
+lilliili
+
+--- PAGE 80 ---
+74
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+I
+1
+s
+Oh
+I
+a
+&3
+Ultimate
+strength
+in
+shear
+!
+1
+st{
+!!III!!S|I!1!SI!§
+i
+per
+sg.
+in.
+3,230
+2,510
+2,900
+2,190
+2,160
+2,400
+2,190
+3,060
+3,230
+2,510
+2,900
+2,190
+2,160
+2,400
+2,190
+3,060
+i
+1
+Lb.
+per
+sq.
+in,
+1,800
+1,370
+1,190
+1,140
+1,120
+1,530
+1,270
+1,130
+1,800
+1,370
+1,190
+1,140
+1,120
+1,530
+1,270
+1,130
+Ultimate
+strength
+in
+tension
+i
+OS
+Lb.
+per
+sq.
+in.
+7,050
+5,300
+5,270
+4,590
+4,140
+5,270
+4,590
+5,230
+§§§§!-!-! 9
+I
+00
+Lb.
+per
+sq.
+in.
+8,450
+6,130
+6,330
+5,420
+4,950
+6,330
+5,420
+6,270
+ISSSI-ilS
+]1
+strength
+i
+Lb.
+per
+sq.
+in.
+3,500
+2,750
+3,260
+2,400
+2,400
+2,590
+2,390
+3,510
+8S|||||2
+m
+<n" m* n" «
+«" 3 m
+1
+so
+Lb.
+per
+sq.
+in.
+4,130
+3,180
+3,800
+2,840
+2,830 Ill
+4,130
+3,180
+3,800
+2,840
+2,830
+3,060
+2,820
+4,090
+Compression
+Fiber
+stress
+at
+.1
+1
+&,
+Lb.
+per
+sq.
+in.
+2,630
+2,060
+2,440
+1,800
+1,800
+1,790
+2,810
+2,630
+2,060
+2,440
+1,800
+1,800
+1,940
+1,790
+2,810
+1
+&.
+s
+Lb.
+per
+sq.
+in.
+3,100
+2,390
+2,850
+2,130
+2,120
+2,290
+2,120
+3,270
+3,100
+2,390
+2,850
+2,130
+2,120
+2,290
+2,120
+3,270
+Modulus
+of
+CO
+IglllllS
+1,000
+lb.
+per
+sq.
+in.
+1,110
+910
+810
+811
+809
+803
+807
+1,090
+1,110
+910
+810
+811
+809
+803
+807
+1,090
+Moment
+for
+modulus
+of
+rupture
+it*
+s
+In.-lb.
+per
+in.
+of
+width
+779
+732
+604
+596
+457
+583
+584
+598
+§§133813
+Paral-
+lel
+3
+o
+In.-lb.
+per
+in.
+of
+width
+1,030
+955
+791
+795
+607
+774
+776
+785
+1,460
+1,350
+1,120
+1,120
+857
+1,090
+1,100
+1,110
+;ic
+bending
+Moment
+for
+fiber
+stress
+at
+[l
+e
+h
+In.-lb.
+per
+in.
+of
+width
+634
+585
+600
+603
+400
+501
+502
+546
+§S3§§SS£
+i
+5
+5
+j
+8
+IJi
+siiiiiis SUSHIS
+&
+CO
+1,000
+lb.
+per
+sq.
+in.
+1,160
+1,070
+840
+844
+848
+841
+843
+1,130
+§§133333
+3.96
+3.07
+3.09
+2.75
+2.56
+3.09
+2.75
+3.09
+j]
+CO
+=
+© iliiiii
+s
+s
+Birch-yellowpoplar
+Mahogany-mahogany
+Mahogany-yellowpoplar
+Yellowpoplar-yellowpoplar
+sweetgum-sweetgum
+Sweetgum-vellowpoplar
+Douglas-fir-Douglas-fir
+Birch-birch
+Birch-yellowpoplar
+Mahogany-mahogany
+Mahogany-yellowpoplar
+Yellowpoplar-yellowpoplar
+feweetgum-sweetgum
+Sweetgum-yellowpoplar
+1
+Nom-
+inal
+thick-
+ness
+4
+pill!!!
+2222222S
+SSS2SSSS
+11
+if
+1
+11
+I
+lit
+1
+llli
+'Sjj.3
+' CM ^ 8-2
+111
+I ill
+Ir
+Willi
+| 2
+J2 o
+o d
+:
+3
+•s
+If
+t!
+
+--- PAGE 81 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+75
+Table
+2-10.
+Budding constants for plywood 1
+THREE-PLY
+Shear
+Compression
+Face grain
+angle
+45°
+0°
+0°
+90°
+Face grain
+in
+tension
+Face grain
+in
+compression
+0°
+and
+90°
+90°
+45°
+Nominal
+thickness
+b'/a
+00
+b'/a
+CK.)
+oo
+b'/a
+(*.)
+oo
+b' /a
+b'/a
+b'/a
+(#c) 00
+b'/a
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+(7)
+(8)
+(9)
+(10)
+(id
+(12)
+(13)
+(14)
+Inch
+0.035
+.070
+.100
+.125
+.155
+.185
+60
+.80
+.75
+.88
+.94
+.95
+2.13
+1.79
+1.85
+1.70
+1.65
+1 .64
+2.05
+2. 11
+2
+10
+2
+13
+2.14
+2.14
+0.60
+.68
+.66
+.71
+.72
+.73
+. 57
+.78
+.73
+.87
+.93
+.94
+0.95
+1.06
+1
+03
+1
+10
+1
+12
+1
+13
+3.50
+3.34
+3.38
+3
+27
+3 22
+3 22
+1
+74
+1.72
+1.72
+1
+71
+1.70
+1.70
+1 88
+1
+62
+1
+67
+1.55
+1 50
+1 50
+6.71
+.82
+.80
+.87
+.89
+.90
+0.53
+.62
+.60
+.65
+.67
+.68
+0.86
+1 08
+1.03
+1
+17
+1.23
+1.24
+84
+.91
+.90
+.93
+.94
+.94
+FIVE-PLY
+160
+1
+25
+1 42
+2
+13
+.83
+1 29
+1
+26
+2 91
+1 66
+1
+31
+1 02
+.77
+1 49
+.97
+190
+1 35
+1 36
+2
+12
+.87
+1
+41
+1 30
+2 81
+1
+64
+1 26
+1 04
+.80
+1 56
+.98
+225
+1 37
+1 35
+2
+11
+.88
+1 43
+1
+31
+2 79
+1
+63
+1
+25
+1 05
+.81
+1
+57
+.98
+250
+1 30
+1 38
+2
+12
+.85
+1 35
+1 28
+2 86
+1 64
+1 28
+1 04
+.79
+1 53
+.98
+315
+1 29
+1
+39
+2
+12
+.85
+1 34
+1 28
+2 .87
+1
+65
+1
+29
+1 03
+.78
+1 52
+.98
+375
+1 48
+1 28
+2 08
+.92
+1
+57
+1
+36
+2 66
+1
+60
+1
+19
+1 .08
+.84
+1 64
+.99
+SEVEN-PLY
+(All plies oj equal thickness)
+Any
+I
+1.40
+|
+1.32
+|
+2.10
+\
+.89
+I
+1.46
+I
+1.32
+I
+2.75
+I
+1.62
+I
+1.23
+NINE-PLY
+(All plies oj equal thickness)
+Any
+|
+1.52
+|
+1.26
+|
+2.06
+|
+.94
+|
+1.63
+|
+1.37
+|
+2.60
+|
+1.59
+I
+1.17
+ELEVEN-PLY
+(All plies of equal thickness)
+Any
+|
+1.59
+I
+1.22
+|
+2.03
+|
+.96
+|
+1.72
+|
+1.40
+I
+2.52
+I
+1.58
+I
+1.14
+|
+1.10
+1.06
+1.09
+1.59
+.86
+I
+i.e
+1.70
+.99
+.99
+1 The buckling constants listed in this table correspond only to the plywood thicknesses and constructions listed in table
+2-9 that correspond to Army-Navy specification AN-NN-P-51 lb, (Plywood and Veneer; Aircraft Flat Panel). The values in
+this table were computed as follows: For each construction given in table 2-9 a value of
+—— was computed from col-
+Ef„. +Ef*
+umns 5 and 6 of table 2-9.
+These values for each thickness were averaged and the average values were used in entering figures
+2-37, 2-38, 2-39, and 2-40, from which the values of this table were obtained. For a more exact determination of these buckling
+constants or to determine the buckling constants of a plywood construction different from those specified in AN-NN-P-51 lb,
+see section 2.701.
+
+--- PAGE 82 ---
+76
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.7. FLAT RECTANGULAR PLYWOOD PANELS.
+2.70. Buckling Criteria.
+2.71. General.
+When buckling occurs in plywood
+panels at loads
+less than the
+required design loads, the resulting redistribution of stresses must be considered in the
+analysis of the structure. The buckling criteria in this section are based on mathematical
+analyses and are confirmed by experiments for stresses below the proportional limit.
+Visible buckling may occur at lower stresses than those indicated by these criteria, due
+to the imperfections and eccentric loadings which usually exist in structures.
+Experi-
+ments have indicated, however, that the redistribution of stresses due to buckling corre-
+sponds more closely to the degree of buckling indicated by these theoretical criteria than
+it does to visible buckling.
+These criteria can, therefore, be used in various parameters
+for plotting test results or design allowables against the degree of buckling, and to com-
+pute the degree of buckling in a structure.
+This is done in sections 2.72 and 2.760.
+Since the mathematical analyses are based on the assumption of elastic behavior,
+these criteria cannot be directly applied when the stresses are above proportional limit.
+The behavior at such stresses has been investigated experimentally for some cases, as
+described in sections 2.72 and 2.760.
+*2.710. Compression or shear. The critical buckling stress of flat rectangular ply-
+wood panels subjected to either uniform compression or uniform shear stresses is given
+by the following general formulas.
+El is for the species of the face plies, from table 2-3.
+Kc and Ks are factors depending on the type of loading, the dimensions of the panel,
+the edge-fixity conditions, and Poisson's ratio. Kc and K s are determined by the following
+methods.
+Let a be the width of a rectangular panel of infinite length of which a portion of
+finite length b is being considered.
+The mathematical treatment of buckling constants presented in this section has been
+based on the assumption that the compression load is always placed on the edge having
+dimension o.
+In a panel loaded only in shear a dimension of either edge may be taken
+(2:67)
+(2:68)
+where
+
+--- PAGE 83 ---
+STRENGTH OF N OOD AND PLYWOOD ELEMENTS
+77
+as a, and the panel shall be considered as a p = 0° ease when the face grain is perpendicular
+to the edge having dimension a and as a £=90
+o case when the face grain is parallel to
+the edge having dimension a.
+(Fig. 2-28.)
+/3=0°
+Figi re 2-28.— In panels loaded in shear, a may be a dimension of either edge.
+For
+(J = 0°, face grain
+is
+perpendicular to a; for
+(i = 90°, face grain
+is parallel to a.
+One method of obtaining A' s or Kc is by the use of figures 2-29 to 2-34 as explained
+in section 2.711.
+Approximate values of A s or K c suitable for ordinary purposes may be
+obtained by correcting As00
+or KcO0
+values in table 2-10 for panel size by means of
+b'
+b
+figures 2-35 or 2-36.
+In using these figures —
+is
+first obtained from table 2-10 and
+i ;
+b'
+computed.
+For a more exact determination of A s or Kc or to determine these buckling
+constants for a plywood construction different from those specified in AN-NN-P-511b
+or figures 2-29 to 2-34, calculate
+——
+in accordance with
+section
+2.52,
+read Ks0r
+or A(00 and b'/a from figures 2-37 to 2-40 and correct for panel size by means of figure
+2 35 or 2-36.
+**2.711. Combined compression
+(or tension) and
+shear.
+Panel edges simply
+supported.
+The analytical method
+of determining the
+critical buckling
+stresses
+for
+rectangular panels subjected to combined loadings
+is quite complicated, and only the
+graphical solutions for a few types
+of plywood construction are given in figures 2-29
+to 2-34.
+When the plywood construction being used is not the same as any of those illustrated,
+its buckling constants may be obtained by a straight line interpolation (or extrapolation),
+Efw
+on the basis of ———— , of the buckling constants for two plywood constructions whose
+E
+values of the ratio
+^— are
+fairly close to that of the plywood under consideration.
+V
+TP
+&fw+&fx
+The values of these ratios for the plywood constructions considered in figures 2-29 to
+2-34 may be calculated with sufficient accuracy by assuming Ay = 0.05 El-
+These figures apply to panels of infinite length and values of the buckling constants
+from the curves must be corrected for actual panel length.
+Values of the shear constant
+
+--- PAGE 84 ---
+78
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+iv s oo and the compression constant KcX
+are indicated on the vertical and horizontal
+axes, respectively. The points at which the curve crosses these axes give the values of
+A%oo or /Ceo at which buckling will just occur in a panel of infinite length in either pure
+shear or pure compression. The particular combination of stresses represented by each
+of the four quadrants
+is shown by the small stress sketches.
+Buckling will occur under
+these combined stresses whenever the location of a point Ks(Xl , Kc0o, lies on or outside
+the curve.
+The curve marked b'/a
+is the ratio of half the wave length
+(b') of a buckle in an
+infinitely long panel to its width (a).
+This ratio is to be used in conjunction with figures
+2-35 to 2-40 in obtaining the correction factors for panels of finite length to be applied
+to Ks0o.
+The curves in figures 2-29 to 2 34 marked y give the slope of the panel wrinkles with
+respect to the O-X axis indicated on the stress sketches.
+The procedure in the use of these figures
+is as follows:
+(1)
+From the analysis the shear stress (fs ) and the compression
+(/<.) or tension stress
+(
+fc) acting on a particular plywood panel will have been calculated.
+(2)
+Determine the ratio fs/fc and, on the figure giving the same plywood construc-
+tion and angle
+£}, draw a line through the origin having a slope (positive or negative)
+equal to this ratio. When the plywood construction is not the same as that given in the
+figures, this procedure for determining the buckling constant will have to be run through
+on the two most similar constructions and an interpolation of the results made on the
+basis of ——^
+:
+Efuj+Efx
+(3)
+The point at which the constructed
+line crosses the curve gives the
+critical
+buckling constants KsX and KcOD at which an infinitely long panel will just buckle when
+subjected to the same ratio of shear to compression that exists on the panel in question.
+(4)
+Read the value of b'/a for the point on the b'/a curve which
+is obtained by
+projecting horizontally from A' s0o determined in step
+(3).
+(5)
+From the panel dimensions compute b' and b/b'.
+(6)
+Figures 2-35 to 2-40 will give the ratio of Ks/KsX from which the value of
+Ks can be computed
+(A' s is always taken as positive).
+(7)
+The critical buckling shear stress (FScr ) may then be determined by equation
+2:68.
+This represents the maximum allowable shear stress which the panel in question
+can sustain without buckling when subjected simultaneously to a compressive stress
+equal to that given in step (1).
+
+--- PAGE 85 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+79
+-4
+SCALE fOR % AND T
+SCALCFOR % ItID 7
+(c)
+(JI
+?-PLY(ll)Q-- 30'
+2-P L Y (1:1)
+45'
+Figure 2-29.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+£1 = angle between lace grain and direction of applied stress.
+Two-ply construction.
+
+--- PAGE 86 ---
+80
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(tj
+If)
+Figure 2-29.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+(combined loading. Edges simply supported.
+(3 = angle between face grain and direction of applied stress.
+Two-ply construction,
+(continued)
+fa]
+(b)
+3-PL1 (I N)Q-0~
+3-PLY (l
+l l)/3*
+>i'
+Figure 2-30.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+(i = angle between face grain and direction of applied stress.
+Three-ply construction.
+
+--- PAGE 87 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+81
+Figure 2-30.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported,
+= angle between face grain and direction of applied stress.
+Three-ply construction,
+(continued)
+
+--- PAGE 88 ---
+82
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Figure 2-30.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported,
+p = angle between face grain and direction of applied stress.
+Three-ply construction,
+(continued)
+
+--- PAGE 89 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+83
+(kl
+Inn)
+3-PLY (l*:l)/3-45'
+3-PLY (l:2:i)/S=0"
+-I
+I,
+i
+SCALE FOB % OHO y
+-3
+r
+i|\
+f
+"
+~
+.
+-X
+0-
+-X
+— 1
+-5
+s
+I,
+4
+y
+'
+1
+0-
+—i
+- -3
+—4
+--S
+iCAlC FOI>%AKD~r
+(n)
+(PI
+3-PLY (l:Z i)/3- 75-
+3-PLY(lit)W
+Figure 2-30.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+(3 = angle between face grain and direction of applied stress.
+Three-ply construction,
+(continued)
+
+--- PAGE 90 ---
+84
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(a)
+3-ply(i z i)b-
+o-
+(b)
+— 3
+A 2
+s
+\
+Oi -f
+Milk
+1
+1
+Y
+<M-
+o
+i
+V
+1
+/
+T
+— z
+/
+l
+s
+3
+V-
+—
+-tOll
+JCAL £ FOR % AHO 7 y
+Figure 2-31.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading with edges clamped.
+@ = angle between face grain and direction of applied
+stress.
+Three-ply construction.
+
+--- PAGE 91 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+85
+Figure 2-31.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading with edges clamped.
+£ = angle between face grain and direction of applied
+stress.
+Five-ply construction,
+(continued)
+
+--- PAGE 92 ---
+86
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(C)
+(ct)
+5-PLY (l:N:l:l)a-30w
+5-PLY(MWOMST
+Figure 2-32.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+= angle between face grain and direction of applied stress.
+Five-ply construction.
+
+--- PAGE 93 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+87
+Figure 2-32.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+£ = angle between face grain and direction of applied stress.
+Five-ply construction,
+(continued)
+
+--- PAGE 94 ---
+88
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(k)
+cm)
+S-PLY (l&a&l)0-4£
+5-PLY(l:iW-l)0*
+60*
+Figure 2-32.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+= angle between face grain and direction of applied stress.
+Five-ply construction,
+(continued)
+
+--- PAGE 95 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+89
+r
+As
+Y
+X
+-j —
+Y
+<
+— /
+-f
+>
+X
+•5 -h
+•
+.'
+- -1
+X
+- -2
+Y\
+<
+Ce
+'-3
+*[
+|l
+-1
+d
+|
+--4
+I
+--5
+-10
+12
+scau roe % and j
+- J
+.
+Y
+1
+-»
+1
+0-
+V
+-f-
+m
+'
+1
+-5
+4
+-1
+Y,
+/
+-r'
+|L
+If
+/
+-3
+-•4
+\
+--S
+-/
+,,
+1
+i
+imc rm %/m 7
+i
+5-PLY{l 11 Zl)/3--
+15'
+S-PL

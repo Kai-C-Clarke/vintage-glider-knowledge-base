@@ -1,0 +1,2786 @@
+iber
+Mod-
+Mod-
+Work
+to
+sion
+strength
+Hard-
+Species
+stress
+ulus
+ulus
+to
+grain,
+perpen-
+parallel
+ness
+at pro-
+of
+of
+maxi-
+maxi-
+dicular
+to
+(side)
+por-
+rup-
+elas-
+mum
+mum
+to
+grain
+tional
+ture
+ticity
+load 2
+crushing
+grain
+limit
+strength
+(1)
+(2)
+(3)
+(4)
+(5)
+(6)
+_
+(7
+)
+(o)
+( '
+)
+H ardwoods: 3
+8.9
+0.4
+3.6
+1.8
+8.3
+6.8
+5.1
+4.1
+4.1
+3 5
+1 4
+.4
+4.7
+4.8
+2.9
+2.4
+Basswood, American
+6.8
+"i.O
+9 O
+2.6
+6.5
+6.6
+4.2
+4.2
+Beech, American
+6.0
+4 7
+1 R
+1 .0
+2.0
+6.2
+5.3
+3.8
+3.6
+6.4
+o.u
+9 Q
+1.2
+7.1
+7.2
+5.0
+3.6
+6.0
+4.8
+2.0
+1.7
+6.1
+5.6
+3.6
+3.3
+Cherry,
+black
+6.6
+3.6
+1.1
+1.0
+6.0
+5.5
+3.5
+3.1
+Cottonwood
+5.8
+4.1
+2.5
+.1
+6.6
+5.7
+2.6
+1.8
+Elm rock
+4.7
+3.8
+2.
+-
+.3
+5.3
+6.1
+3.5
+2.8
+Hickory (true hickories)
+4.9
+4.8
+2.8
+-
+.7
+5.9
+6.6
+3.9
+Khava ("African mahogany")
+3.2
+2.5
+1.6
+-
+.G
+3.2
+3.0
+.4
+3.1
+Mahogany
+2.6
+1.3
+.8
+-2.9
+2.5
+3.9
+1..
+Maple, sugar
+5.2
+4.4
+1 .4
+1.9
+5.7
+7.1
+3.9
+3.4
+Oak, commercial white ami red
+....
+4.6
+4.4
+2.4
+1.7
+5.9
+4.4
+3.5
+1.8
+Sweetgum
+.
+6.7
+4.7
+2.2
+1.5
+6.1
+5.4
+3.5
+2.4
+5.8
+3.7
+1.4
+-2.6
+4.8
+6.3
+1.0
+1.0
+Yellowpoplar
+5.0
+4.6
+2.7
+1.9
+6.7
+4.8
+3.3
+2.4
+Softwoods (conifers) ^
+4.6
+4.0
+1.6
+1.8
+4.9
+5.1
+1.7
+2.3
+4.5
+3.7
+1.8
+1.9
+5.5
+5.0
+1.7
+2.9
+Fir, noble
+5.1
+4.7
+1.9
+3.2
+6.1
+5.5
+2.3
+3.1
+Hemlock, western
+4.7
+3.4
+1.4
+.7
+5.0
+3.7
+2.5
+2.0
+3.4
+2.1
+1.8
+-1.4
+4.3
+4.0
+.4
+1.5
+Pine, eastern white
+5.6
+4.8
+2.0
+2.1
+5.7
+5.6
+2.2
+2.2
+Pine, red
+8.0
+5.7
+2.2
+4.7
+7.5
+7.2
+3.9
+4.5
+Pine, sugar
+4.4
+3.9
+2.1
+.1
+5.4
+4.4
+3.7
+1.9
+Tine, western white
+5.3
+5.1
+2.2
+4.8
+6.5
+5.2
+2.5
+1.5
+Redeedar, western
+4.3
+3.4
+1.6
+1.3
+5.1
+5.1
+1.6
+'
+2.3
+Spruce, red and Sitka
+4.7
+3.9
+1.7
+2.0
+5.3
+4.3
+2.6
+2.4
+5.8
+4.8
+1.9
+2.1
+6.5
+5.7
+3.7
+3.3
+White-cedar, northern
+5.4
+3.6
+1.8
+-1.5
+5.9
+2.3
+2.8
+3.0
+White-cedar, Port Orford
+5.7
+5.2
+1.6
+1.7
+6.2
+6.7
+2.2
+2.8
+1 Corrections to the strength properties should be made successively for each one percent change in moisture content
+until the total change has been covered.
+2 Negative values indicate a decrease in work to maximum load for a decrease in moisture content.
+3 For tension values see section 2.5411.
+explore the
+effect of rate of loading on the more important
+properties; to clarify the
+relations among rate of load application, duration of load, and strength; and to correlate
+these data with the load-time relations that may obtain
+in
+static testing and in
+air-
+plane flight.
+When tests of physical properties are made on additional species or on specially
+selected wood the results may be made comparable to those in table 2-3 by adjusting
+
+--- PAGE 24 ---
+18
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+-s
+c t
+.2 -
+M
+Oj
+cj
+cj
+QJ
+i-
+"
+tfl
+-S
+Jj
+*
+S
+"i
+& a ^ S -
+I
+0)
+* sail
+^3 ^
+- 3
+^
+o ^ ^
+o —
+"°
+"8
+O
+iO
+LO o
+C I
+00
+CO
+CO
+CO
+CO
+rH
+lO O
+O
+OS
+00
+CO
+<N
+CO
+C-l
+Ol
+CO
+'TIT'S uorpas sag
+'sjn^diu jo snjnpoui
+p3nba sb Tia^Bi utbj3 oj pipi-red q^Suaiis uoisuax
+ooooo
+ooooo
+cOQOt^CCi-O
+.-h O O
+rH
+l|>
+t^^-iCOOt-
+00 h
+oi
+N
+^h
+ooooo
+ooooo
+o o
+<tf
+CO
+lO
+CO
+o o
+o
+1—1
+CO
+00
+rH
+OS
+iH
+o o
+N
+CO
+O)
+01 h N
+ooooo
+CO
+LO
+CI
+t~-
+OS
+CN
+CN
+CO
+CO O
+OOOOO
+«C
+Ol N
+lO
+CO
+0) lO H © H
+O o
+o
+O
+rH
+CN
+>—
+rH
+rH
+CI
+CO
+o o o o o
+o o o o o
+•t o
+lo
+>o
+tO
+iO
+t$
+cc" o"
+ooooo
+ooooo
+O
+CO
+00 S
+CI
+to
+to
+t}T ni
+o o
+o o
+IS
+rH
+ooooo
+i-O
+CO
+*t ^
+ooooo
+'O
+00 O
+01 O
+t-*- ^ t-^ io
+os
+CO
+lO
+uQ
+CO*
+CO*
+o o
+0
+tN
+rH
+LO
+o o o
+o o o
+LO
+00
+lO
+o o o
+00 O M
+00
+CO
+CD
+£ 2
+CO
+OS
+CO
+xO
+(N
+i1
+*f
+co
+co
+co
+h N N
+-f
+[s
+O
+CO H
+t- N
+CO
+i-O
+OSh
+CM
+O
+CO
+oo
+t»
+o
+«
+JS
+-3
+cq
+OOOOO
+^
+!D lO
+O
+CO
+-f
+CN
+Tjn
+CO
+o o o o
+iO
+00
+CO
+C)
+00
+CO N
+CO
+1—
+1
+i-H
+o o
+CO
+CO
+00
+o o
+GO
+-f
+CN X
+o o o o o
+ooooo
+0^ 00
+CO
+CN_
+I-
+r-T
+-jT
+00"
+CN
+ooooo
+h
+lO CM
+00
+o o
+o o
+00
+CO
+o o o o o
+o o o o o
+o o O o o
+ooooo
+CO
+O! N
+Is-
+00
+CO
+000
+CD O O
+CN O
+CO
+CO
+00
+iO
+00" 10
+oT
+ft,
+10
+'
+£
+>
+00
+os
+co o
+a>
+N
+lO
+Oi
+rt
+O!
+O
+O) H
+IN
+LO
+co
+co n o a
+O
+CO
+CD
+rH
+10
+lO
+CO
+CO
+CO d N Q
+Ol
+CO
+CO
+CO
+CO ^
+00 o
+iC
+CD
+00 N
+lO
+*tf
+r-
+Ol
+lo o a
+CO
+CO
+1 5 §
+.3
+"a
+3
+:
+=
+9 -2
+:
+B
+fee
+3
+.
+'C
+c
+cq
+ill I
+I -a I
+J
+1 Sjd jj
+£ 1
+1
+— 3
+•3
+o
+£
+e
+CO
+O
+.2
+a
+£
+<!
+J3
+OS
+o 5
+ja a a
+- Il
+0.
+ftJ
+j=
+a
+3 g
+"S3:
+°9
+t.
+>Si S 3
+
+--- PAGE 25 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+19
+iQ
+<0
+iO
+iQ
+N
+i< S H
+00
+OS ©
+"111*3 uoi^oasaag
+-ajaidn.! jo snjnpoui
+i^nba su ua-fu; un?j3 o% ]9i[B.ind i]^3u3j^s uoisnsx
+o o o o
+co
+co ©
+cm
+t~~
+00 ©
+o o o o
+o o o o o
+00
+r-<
+C I
+CD
+CO
+rJH
+>0
+CO
+CO
+© O © O
+CO
+(O
+CO H
+H
+(N H
+O)
+© © © ©
+©
+ON ©
+00
+m a
+00
+© © ©
+Oi
+iO
+C)
+r-
+t- ©
+© ©
+t>- ©
+© © © © ©
+CO © ©
+CO
+CO
+r-
+oo ©
+co
+00 N
+>-i
+© © o ©
+•f
+-f
+CO h
+i-<
+<x>
+© © o ©
+©
+CI
+CO
+O CO h
+oo
+© © o
+N
+CO
+iO
+©
+00 ©
+© © © © ©
+00 ©
+00
+<-< w
+N O O
+00 N
+O O
+©
+<tf
+00
+00
+© © © ©
+© o © ©
+iO
+iO N
+iQ
+© © © O
+© © © o
+CO ©
+©_
+r-<
+O N m" iO
+© © © © ©
+© © © © ©
+00
+00 © ©
+CO
+TjT
+T^"
+co"
+LO
+iO
+00
+©
+© © © ©
+CM
+00 ©
+'O
+00
+CN
+t--
+CO
+t^* iO
+co"
+© © © ©
+-t< © ©
+CO
+©©©
+©©
+©©©©
+00 ©
+C)
+CM ©
+-*
+00
+CO
+,
+© © © ©
+© ©
+t--
+CO N
+CO
+00
+CM ©
+CM
+©©
+©
+o c
+© ©
+© ©
+Ttl
+TjH
+CO
+co
+>o
+CO
+-t
+© ©
+CO
+CM
+CM ^
+tO
+00
+t> H
+CO
+—
+-h
+©
+©
+oo
+oo
+oo
+co
+co
+CO
+00 ©
+t--
+CO M
+03 ^
+Ci
+CO O
+CO
+LO N
+CO
+CO
+o
+t>
+© o o ©
+CI
+i-t © ©
+(N H
+rf<
+CO
+o © © o
+© © ©
+CO
+CN
+CO h
+CO
+© © © © ©
+© ©
+t-H
+1—1 ©
+lQ O
+CO
+© ©
+CO ©
+©
+CO
+o © © ©
+© © © ©
+© © © ©
+© o © o
+O
+ifl
+iO
+t-
+o © © © o
+© © © © ©
+t-^
+t-__ © ©
+co_
+CO"
+CO"
+iH
+CO" ©"
+© o © ©
+© © © o
+G3 q w q
+•O N O
+CD
+© © © ©
+© © © o
+© © © © ©
+o o © o o
+© ©
+©
+CO
+© ©
+00
+1-H
+r»
+t--
+oo
+t>
+©
+CO ©
+CO
+©
+©
+oo
+© © ©
+©
+i>
+i>
+C)
+<-<
+IO
+00
+©
+CO
+CM ©
+CD
+CD N
+iO N
+© CO
+© ©
+i—i
+CM
+CO ©
+if)
+tJ<
+iO
+t)i
+CO ©
+00
+iO
+CM
+iO
+CO ^
+O
+CM
+CO
+CO
+CO
+CM
+CO
+CO © © ©
+1-H
+CM
+CO
+tJ«
+CM
+Tjl
+"tf
+CO
+CM ^
+rt
+CD
+O
+Ph
+3 *
+c
+o
+o
+3
+?
+8 Si £| =
+m m
+H (5 >h
+s 3
+s
+-d
+%
+®
+ft.
+03
+c3
+60 O
+03
+-o
+£
+i3 "S
+o
+d o
+Q E £
+£ S W
+«
+a,
+"
+e
+s
+a,
+"S
+g
+-3
+Cj
+O
+0)
+»
+ft
+1,
+s
+c
+c
+s
+c
+a,
+T3 £
+-a
+a)
+c
+(u
+e
+-p,
+.fH
+.in
+j
+Q. L>
+f,
+ft
+s,
+s,
+a,
+Kccis
+5
+-S O
+is
+
+--- PAGE 26 ---
+20
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+-
+g
+>
+g ^
+§
+© £
+*
+>
+$
+ft
+S
+"J x m i „
+-
+c
+a
+« n
+.S
+ft o
+p
+S "o
+£
+3 a
+cs
+Fh ts
+M
+5f
+*>
+o
+.2
+n
+3
+x
+5
+8
+°
+«
+c
+«>
+-
+te
+S —
+.2 »
+i
+c
+aj d » d
+3
+-5 X X! 2
+b
+^
+?
+o
+2,
+c
+cJ
+-g
+-3
+cr —
+a
+-11 §
+-g
+-s 2
+O
+C M
+jS
+fj ra
+£
+s
+a
+I
+<!
+o
+,§
+00
+&3
+C
+ft
+°
+s.
+j
+3 O
+3 h
+O
+a
+~
+* 5
+s s
+O X g
+ft
+73 ^
+§
+u
+S ^
+o
+,2 J
+>
+-2
+.3
+;
+.s
+c
+i
+-13
+"3
+•
+C
+73
+6
+73
+3
+C
+S
+*
+Is
+Z
+X
+a
+c3
+to
+ft
+33
+b
+s ~ x
+5
+CO
+«
+°
+p
+c
+c3
+ft
+5
+i-3
+5
+in M „_
+r. -3
+t>
+a
+S
+33
++^
+ft
+33
+o
+'ft
+.2
+p
+- X
+ft
+f-
+c
+X
+&<
+3
+cd
+.5
+C8 «
+5
+S
+k
+i
+xi
+-a
+4;
+is
+(A
+o
+73
+e
+I sl5 So
+P
+O
+§
+73
+O
+>
+XI
+^
+ft
+ft
+CO
+ft
+g d
+«
+« 3
+G
+ft
+Xi
+.5 * M
+^ o
+C
+S 73
+CD
+g
+a
+a
+"rt X
+c3
+g
+|
+« .2
+Is 3 J
+§ I £ $ | | 3
+5
+o
+P> 43
+£
+- M +=
+-f3
+75
+. -S
+>
+ft
+> 5
+c
+5 i
+- *
+O
+11
+ft
+CD
+CD
+H O
+3= X
+2
+-?
+n
+. t3 ^ «m *~
+ho d
+o
+<u
+3
+©
+J3 P
+a 5 * -C
+G
+CD
+ft
+*i
+2 —
+oi
+c
+5 i
+in
+o
+» ^
+•g —.
+C
+XI
+^,
+CD
+«i
+oi CO X!
+h
+3
+ft -
+S
+o 5 ,3
+t
+"
+O
+3
+3
+S
+w
+W
+n
+> o
+o
+- >
+o ~
+t,
+.S
+«>
+3
+CD
+o
+n
+-3 ^
+3
+7S
+p
+"4-
+" T3
+o
+-3
+ft
+2
+£
+-S
+73
+.t; -
+o £
+"
+ft
+«
+t*-
+3-' ^
+>
+a J
+° 'At
+'
+CD
+«
+a i:
+ft ^
+9 o -3
+73 -g
+5 a 71
+ft
+~ T-
+Cj'
+=
+C=9
+a
+3
+3=
+O
+™
+C3
+.s
+-a
+ft
+C
+oil
+ID ^
+"d
+^+3
+o
+S
+c
+C ^
+ft 33
+C
+73
+1=
+o
+ft
+o 03
+<
+73
+c
+c
+oS o
+a a
+*—
+ft
+o
+I
+>,
+o
+c
+.13
+is s| I
+o
+• a
+ft
+32
+ft
+2
+* m
+"
+o
+3
+ft X
+O
+r<
+c
+o
+ft —
+n
+2
+CO
+C5
+'Z
+O
+o
+u
++>
+C
+fin'?
+.«
+ft
+xT'
+I
+3
+ft 73
+;
+7:
+c
+ft
+c
+fcC
+'^3
+cS
+ft
+•
+C
+C
+-O
+'
+i3
+ft —
+o
+5
+°
+-5
+P
+B
+'§
+I I 8 ^
+S3 |l
+3 J
+§
+ft. S
+73
+5
+33
+.3=
+^5
+"3
+cS
+x3
+3 Q .§ O
+_g
+33 ^
+'5 O
+*
+I
+ft 3
+» * *
+p
+g
+« 1
+d
+73 X
+~
+C
+« 73 2
+3j ^
+o3
+-
+C
+&
+ft
+cc
+3
+X
+X>
+33
+-2 r
+s & .5
+-
+o
+-
+u
+ft o
+T
+ft ^
+C
+CD
+C
+O
+H —
+ft
+ft
+33
+1
+"33
+» X
+73
+1 P3 *
+S
+g. 8
+& -J 1
+1
+td
+d
+2 ^
+-C-
+C3
+ft
+«*
+h 5 -2 -
+3
+£
+cd -
+—
+o
+(-
+d
+O
+O
+03
+s-
+°
+M
+fj
+O
+S -g
+8
+§
+*
+& 73
+o
+b
+g "
+ft
+-8 s J
+aj
+O
+£
+eg
+H
+cj a ^
+^ as
+- 2 § 2 »
+-g
+S 1 £ °
+I
+CO
+QJ
+M
+ft £
+ft
+.S
+s
+S
+d < -3
+X
++^
+'d
+3^
+ft
+ft » -
+>
+o
+>
+* » -5
+c
+«
+O
+xl
+01
+So .2
+M
+ft —
+'
+"7
+K X
+»9
+a
+~ x
+ill
+ft
+XI
+5
+1
+u
+<u
+w
+O. > «
+•2
+.S -a
+a
+"2
+CO
+33
+C —
+O
+rO
+I o
+o c
+i m
+o
+-t-
+8
+IS
+CO
+ft,
+p
+!5
+c
+ft 35
+03
+8
+c
+ft
+t.
+>.« 5
+o.
+~
+CD
+s
+s
+•S <
+4
+1 5 &3
+2
+c
+s
+S
+^
+c
+-d
+I-
+_h£i
+S
+3
+^
+»*
+ft
+33
+03
+3* ^
+CS
+C3
+O S
+C M 73
+c
+o3
+C
+S E -a
+H
+«
+8 £
+>, M
+ft
+3
+!l!!f ?1
+.2
+*"
+"5
+S3
+ft
+"ft
+a
+S
+g
+CD
+tO
+ft
+ft
+73
+73
+3
+33"
+Xi
+33 33
+.ft,
+i
+ft
+<!
+ft
++j'cS
+ft73'ft
+cj'ft'ft
+ft
+73 '"-O^^fti^.S^
+s
+H
+8 w
+33
+S
+ft
+o
+o
+. a
+« S
+fin U
+"3 XI
++3
+33
+Q
+
+--- PAGE 27 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+21
+them to 15 percent moisture content
+(in accordance with table 2-2) together with the
+appropriate use of the factors described in the footnotes to table 2-3.
+For notes on acceptable procedures for static tests and the correction of test results,
+see
+sections
+2.12 and
+3.01.
+2.100. Supplemental notes.
+2.1000. Compression perpendicular to grain.
+Wood does not exhibit a
+definite
+ultimate strength in compression perpendicidar to the grain, particularly when the load
+is applied over only a part of the surface, as it is by
+fittings.
+Beyond the proportional
+limit the load continues to increase slowly until the deformation and crushing become
+so severe as to damage seriously the wood in other properties. A factor of
+1.33 was
+applied to average values of stress at proportional limit to get design values comparable
+to those for bending, compression parallel to grain, and shear as shown in table 2-3.
+2.1001. Compression parallel to grain.
+Available data indicate that the propor-
+tional limit for hardwoods
+is about 75 percent and for softwoods about 80 percent of
+the maximum crushing strength.
+Accordingly, design values for fiber stress at propor-
+tional
+limit were obtained by multiplying maximum
+crushing-strength
+values by
+a
+factor of 0.75 for hardwoods and 0.80 for softwoods.
+2.11. Notes on the Use of Values in Table 2-3.
+*2.110. Relation of design values in table 2-3 to slope of grain. The values given
+in table 2-3 apply for grain slopes as steep as the following:
+(a)
+For compression
+parallel
+to grain— 1
+in
+12.
+(£>)
+For bending and for tension parallel to grain— 1 in
+15. When material is used
+in which the steepest grain slope is steeper than the above limits, the design values of
+table 2-3 must be reduced according to the percentages in table 2-4.
+Table 2-4.
+Reduction in wood strength for various grain slopes.
+Corresponding design value, percent of value in table 2-3
+Static bonding
+Compression
+Tension
+Maximum slope of grain in the member
+parallel
+to
+parallel
+to
+grain
+grain
+Fiber stress
+Modulus
+Modulus of
+Maximum
+Modulus of
+at proportional
+of
+elasticity
+crushing
+rupture
+limit
+rupture
+strength
+1 in 15
+100
+100
+88
+100
+100
+1 in 12
+98
+97
+100
+85
+1 in 10
+87
+78
+91
+98
+75
+1 in 8
+78
+07
+84
+94
+60
+2.111. Tension parallel to grain.
+Relatively few data are available on the tensile
+strength of various species parallel to grain.
+In the absence of sufficient tensile-test
+data upon which to base tension design values, the values used in design for modulus
+of rupture are used also for tension.
+While it
+is recognized that this is somewhat con-
+servative, the pronounced effect of stress concentration, slope of grain (table 2-4) and
+other factors upon tensile strength makes the use of conservative values desirable.
+Pending further investigation of the effects of stress concentration at bolt holes,
+it is recommended that the stress in the area remaining to resist tension at the critical
+section through a
+bolt
+hole not exceed two-thirds the modulus
+of rupture
+in
+static
+
+--- PAGE 28 ---
+22
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+bending when cross-banded reinforcing plates are used; otherwise one-half the modulus
+of rupture shall not be exceeded.
+2.112. Tension perpendicular to grain.
+Values of strength of various species in
+tension perpendicular to grain have been included for use as a guide in estimating the
+adequacy of glued joints subjected to such stresses.
+For example, the joints between
+the upper wing skin and wing framework are subjected to tensile stresses perpendicular
+to the grain by reason of the lift forces exerted on the upper skin surface.
+Caution must be exercised in the use of these
+values, since
+little
+experience
+is
+available to serve as a guide in relating these design values to the average property.
+Considering the variability of this property, however, the possible discontinuity or lack
+of uniformity of glue joints, and the probable concentration of stress along the of edges
+such joints, the average test values for each species have been multiplied by a factor of
+0.5 to obtain the values given in table 2-3.
+2.12. Standard Test Procedures.
+2.120.
+Static bending. In the static-bending test, the resistance of a beam to slow-
+ly applied loads is measured.
+The beam is 2 by 2 inches in cross section and 30 inches
+long and is supported on roller bearings which rest on knife edges 28 inches apart.
+Load
+is applied at the center of the length through a hard maple block
+inches wide, having
+a compound curvature.
+The curvature has a radius of 3 inches over the central 2}/g
+inches of arc, and is joined by an arc of 2-inch radius on each side. The standard place-
+ment is wjth the annual rings of the specimen horizontal and the loading block bearing
+on the side of the piece nearest the pith. A constant rate of deflection
+(0.1 inch per
+minute)
+is maintained until the specimen
+fails. Load and
+deflection are read simul-
+taneously
+at
+suitable
+intervals.
+Figure 2-3
+(a) shows a diagrammatic sketch of the static-bending test set-up, and
+typical load-deflection curves for Sitka spruce and yellow birch.
+Data on a number of properties are obtained from this
+test.
+These are discussed
+as follows:
+2.1200. Modulus of elasticity (El). The modulus of elasticity is determined from
+the slope of the straight line portion of the graph, the steeper the line, the higher being
+the modulus.
+Modulus of elasticity is computed by
+P
+7.3
+p
+TZ
+483 J
+4S P 6#
+K
+'
+The standard static bending test is made under such conditions that shear deformations
+are responsible for approximately 10 percent of the deflection.
+Values of EL from tests
+made under such conditions and calculated by the formula shown do not, therefore,
+represent the true modulus of elasticity of the material, but an "apparent" modulus of
+elasticity.
+The use of these values of apparent modulus of elasticity in the usual formulas will
+give the deflection of simple beams of ordinary length with but little error.
+For I- and
+box beams, where more exact computations are desired, and formulas are used that take
+into account the effect of shear deformations, a "true" value of the modulus of elasticity
+is necessary and may be had by adding 10 percent to the values in table 2-3.
+
+--- PAGE 29 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+-MODULUS LINE
+^MAXIMUM
+LOAD
+SITKA
+SPRUCE
+MODULUS
+.
+^
+YELLOW
+LINE^i
+\
+/
+MAXIMUM^
+BIRCH
+f
+LOAD
+/"PROPORTIONAL
+/
+LIMIT
+TEST METHOD
+DEFLECT/ON (INCHES)
+(a) STA TIC
+BENDING
+^-MAXIMUM
+LOAD
+SITKA
+SPRUCE
+/
+PROPORTIONAL
+I
+LIMIT
+^-MAXIMUM LOAD
+YELLOW
+BIRCH
+/
+PROPORTIONAL
+~~~~
+I
+LIMIT
+TEST METHOD
+DEFORMATION
+(INCHES)
+(b) COMPRESSION
+PARALLEL
+TO GRAIN
+NO MAXIMUM
+LOAD OBTAINED
+\
+PROPORTIONAL
+SITKA
+\
+LIMIT
+SPRUCE
+NO MAXIMUM
+C
+LOAD OBTAINED
+/ ^PROPORTIONAL
+I
+LIMIT
+YELLOW
+BIRCH
+TEST METHOD
+DEFORMATION
+(INCHES)
+CO COMPRESSION PERPENDICULAR
+TO GRAIN
+Figure 2-3.—Standard test methods and typical load-deflection curves.
+
+--- PAGE 30 ---
+24
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.1201. Fiber stress at proportional limit (Fbp ).
+The plotted points from which
+the early portions of the curves of figure 2-3
+(a)
+were drawn
+lie approximately on a
+straight line, showing that the deflection is proportional to the load. As the test progresses
+however, this proportionality between load and deflection ceases to exist.
+The point
+at which this occurs is known as the proportional limit.
+The corresponding stress in the
+extreme fibers of the beam is known as "fiber stress at proportional limit."
+Fiber stress
+at proportional limit
+is computed by
+P P Lc
+1.5 P P L
+Fb*-
+4
+I~
+bd>
+(2 -2)
+2.1202. Modulus of rupture (Fh „).
+Modulus of rupture
+is computed by the same
+formula as was used in computing fiber stress at proportional limit, except that maxi-
+mum load is used in place of load at proportional limit.
+Since the formula used is based
+upon an assumption of linear variation of stress across the cross section of the beam,
+modulus of rupture is not truly a stress existing at time of rupture, but is useful in find-
+ing the load-carrying capacity of a beam.
+2.1203. Work to maximum load. The energy absorbed by the specimen up to the
+maximum load
+is represented by the area under the load-deflection curve from the
+origin to a vertical line through the abscissa representing the maximum deflection at
+which the maximum load is sustained.
+It is expressed, in table 2-3,
+in inch-pounds per
+cubic inch of specimen. Work to maximum load is computed by
+„ 7
+,
+,
+D
+area under curve to Pmax .
+,~
+Work to Pmax . =
+-^-^
+(2:3)
+2.121. Compression parallel to grain.
+In the compression-parallel-to-grain
+test,
+a 2- by 2- by 8-inch block
+is compressed in the direction of its length at a constant rate
+(0.024 inch per minute).
+The load
+is applied through a spherical bearing block, pref-
+erably of the suspended self-aligning type, to insure uniform distribution of stress.
+On
+some of the specimens, the load and the deformation in a 6-inch central gage length are
+read simultaneously until the proportional limit
+is passed.
+The
+test
+is discontinued
+when the maximum load is passed and the failure appears.
+Figure 2-3
+(b) shows a diagrammatic sketch of the test set-up, and typical load-
+deflection curves for Sitka spruce and yellow birch.
+Data on a number of properties
+are obtained from this test.
+These are discussed as follows:
+2.1210. Modulus of elasticity
+(£/,, ). The modulus of elasticity is determined from
+the slope of the straight-line portion of the graph, the steeper the
+line the higher the
+modulus. The modulus of elasticity is computed by
+K-
+i',;.
+<2:4)
+The value of the modulus of elasticity so determined corresponds to the "true"
+value of modulus of elasticity discussed under static bending.
+Values of the modulus of
+elasticity from compression-parallel-to-grain tests are not published but may be approxi-
+mated by adding 10 percent to the apparent values shown under static bending in table
+2-3.
+
+--- PAGE 31 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+25
+2.1211. Fiber stress at proportional limit (FCP )-
+The
+plotted points from which
+early portions of the curves of figure 2-3 (b) were drawn
+lie approximately on a straight
+line, showing that the deformation within the gage length
+is proportional to the load
+The point at which this proportionality ceases to exist
+is known as the proportional
+limit and the stress corresponding to the load at proportional limit
+is the fiber stress at
+proportional limit.
+It is calculated by
+Fc P = -f-
+(2:5)
+2.1212. Maximum crushing strength (FIU ). The maximum
+crushing
+strength
+is
+computed by the same formula as used in computing fiber stress at proportional limit ex-
+cept that maximum load is used in place of load at proportional limit.
+2.122. Compression perpendicular to grain.
+The specimen for the
+compression-
+perpendicular-to-grain test is 2 by 2 inches in cross section and 6 inches long.
+Pressure
+is applied through a steel plate 2 inches wide placed across the center of the specimen
+and at right angles to its length.
+Hence, the plate covers one-third of the surface. The
+standard placement of the specimen
+is with the growth rings vertical.
+The standard
+rate of descent of the movable head
+is 0.024 inch per minute.
+Simultaneous readings
+of load and compression are taken until the test is discontinued at 0.1-inch compression.
+Figure 2-3
+(c) shows a diagrammatic sketch of the test set-up, and typical load-
+deflection curves for Sitka spruce and yellow birch.
+The principal property determined
+is the stress at proportional limit
+(Fcpt) which
+is calculated by
+p
+_
+Load at proportional limit
+^.g
+cp
+Width of plate X width of specimen
+Tests indicate that the stress at proportional limit when the growth rings are placed
+horizontal does not
+differ greatly from that when
+the growth rings are vertical.
+For
+design purposes, therefore, the values of strength in compression perpendicular to grain
+as given in table 2-3 may be used regardless of ring placement.
+2.123. Shear parallel to grain (FSII ).
+The shear-parallel-to-grain
+test
+is made by
+applying force to a 2-by 2-inch lip projecting % inch from a block 2^2 inches long. The
+block is placed in a special tool having a plate that is seated on the lip and moved down-
+ward at a rate of 0.015 inch per minute. The specimen is supported at the base so that
+a J^-inch offset exists between the outer edge of the support and the inner edge of the
+loading plate.
+The shear tool has an adjustable seat in the plate to insure uniform lateral distri-
+bution
+of the load.
+Specimens are so cut that a radial surface of failure is obtained in
+some and a tangential surface of failure in others.
+The property obtained from the test
+is the maximum shearing strength parallel
+to grain.
+It is computed by
+(2:7)
+The value of Fsu as found when the surface of failure is in a tangential plane does
+not differ greatly from that found when the surface of failure
+is
+in a radial plane, and
+
+--- PAGE 32 ---
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+o'l
+i
+o
+-g
+^
+.
+!
+3
+§J 5
+S
+^
+co
+OS
+O
++^
+cj H
+«
+o
+o
+5 o
+1a ^
+S
+i
+C M
+2 T
+O
+03
+1
+a < 2
+rt S
+.
+|
+e.
+•
+. 3
+"3
+da
+a
+o, 13
+,5
+. &
+=
+o
+•* o
+m
+-c
+o>
+to
+^ « h
+to
+0000000000
+5^
+^
+3
+,
+O
+^ o
+ocooooooo
+Ti
+CO
+tN
+CO N
+tN
+CN
+CN
+£N
+OOOOOOOOO
+"
+<N
+O O
+X
+-t O
+<N
+'O
+O)
+CO
+iO
+OOOO
+OOOCOOOOO
+31 O
+00 N M
+O
+1—I
+CO
+?9
+OOOOOOOOO
+o o
+GO O
+i0 w
+iM
+iO
+CO
+H N
+CN N
+2=
+o o
+01
+CO
+'O m
+h
+O
+CO O N
+t^-OOeOb-OONrHtH
+-t<oo»0'OCN>-<xxai
+CO
+CN
+OS
+(N
+o
+»o
+lo o
+O
+01
+00
+CO —<
+-* o o
+>o
+CD
+•t
+h o m O C
+CO c -
+t-tLOO-f't'f'OfO
+oosOi-ir^ot^cc~
+CO
+CI
+C-l O)
+CO M
+TO M K
+03
+OOOO
+2 ~
+Pc;
+'3)
+OOOO
+CS
+00 N
+tO
+O
+CO O O O
+CO O X
+_
+x o
+>o
+iO
+00 s o
+w
+CO
+OOOr-HOOOO^-
+-
+tO' W N O
+iC N
+00
+C)
+i-O
+CO
+i-O
+-t
+CO
+CM
+'O
+30000003
+~ O
+-f
+<N O
+U M
+CO
+CN H
+-fOt^OXt-OX'-'r-eO
+O
+Ol
+CO c
+X X X
+CO
+<N
+CN
+Ol
+tN
+l> O
+t-HW^HCOXXXXCOX
+lO
+»0
+i-O
+CO
+CO
+CO
+CO
+CO
+<U
+Z>
+0>
+CJ
+o
+o
+o
+3
+3
+3
+3
+3
+o,
+a. a
+g.
+3
+3
+3
+.r
+.a
+.a
+.a
+<u
+OOO^-^-^+j+jIj
+DDQcyiflicSioiB
+3 a
+5
+£
+
+--- PAGE 33 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+27
+the two values have been combined to give the values shown in column 14 of table 2-3.
+2.124. Hardness.
+Hardness
+is measured by the load required to embed a 0.444-
+inch ball to one-half its diameter in the wood.
+(The diameter of the ball is such that its
+projected area is one square centimeter.) The rate of penetration of the ball is 0.25 inch
+per minute. Two penetrations are made on each end, two on a radial, and two on a
+tangential surface of the specimen. A special tool makes it easy to determine when the
+proper penetration
+of the ball has been reached.
+The accompanying load
+is recorded
+as
+the hardness
+value.
+Values of radial and tangential hardness as determined by the standard test have
+been averaged to give the values of side hardness in table 2-3.
+2.125. Tension perpendicular to grain (F, u r). The tension-perpendicular-to-grain
+test
+is made to determine the resistance of wood across the grain to slowly applied
+tensile loads. The test specimen is 2 by 2 inches in cross section, and 2^ inches in overall
+length, with a length at midheight of
+1 inch. The load is applied with special grips, the
+rate
+of movement of the movable head of the testing machine
+being
+0.25
+inch
+per
+minute. Some specimens are cut to give a radial and others to give a tangential surface
+of failure.
+The only property obtained from this test is the maximum tensile strength perpen-
+dicular to grain.
+It is calculated from the formula
+F tuT =^Y
+1
+<2:8)
+Tests indicate that the plane
+of
+failure being tangential or
+radial makes
+little
+difference in the strength in tension perpendicular to grain.
+Results from both types
+of specimens have, therefore, been combined to give the values shown in table 2-3.
+2.13.
+Elastic Properties Not Included in Table 2-3. Certain elastic properties use-
+ful in design are not included in table 2-3.
+The data in table 2-3 are, in general, based
+on large numbers of tests, while the data on the additional elastic properties are based on
+relatively few tests.
+Available data on these properties are included in table 2-5.
+2.130. Moduli of elasticity perpendicular to grain (Et, £/?). The modulus of elas-
+ticity of wood perpendicular to the grain is designated as Et when the direction is tangen-
+tial to the annual growth rings, and Er when the direction is radial to the annual growth
+rings.
+Tests have been made to evaluate these elastic properties for only a very few
+species
+(table 2-5), and, until further information is available,
+it is recommended that
+the ratios of Et/El and Er/El be taken as 0.045 and 0.085, respectively, for all species
+not listed in the tables.
+Values of El are given in table 2-3.
+*2.131. Moduli of rigidity (Glt, Glr, Grt)-
+The modulus of elasticity in shear,
+or the modulus of rigidity as it is called, must be associated with shear deformation in
+one of the three mutually perpendicular planes defined by the L, T, and R directions,
+and with shear stresses in the other two. The symbol for modulus of rigidity has sub-
+scripts denoting the plane of deformation.
+Thus the modulus of rigidity Glt refers to
+shear deformations in the LT plane resulting from shear stresses in the LR and RT
+planes.
+Values of these moduli for a few species are given in table 2-5. For other species
+not
+listed,
+it
+is recommended
+that
+the
+ratios
+Glt/El =0.05,
+Glr/El, = 0.06,
+and
+Grt/El = 0.01 be used in evaluating the various moduli of rigidity.
+
+--- PAGE 34 ---
+28
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+*2.132. Poisson's ratios
+(\x).
+The
+Poisson's ratio
+relating to the contraction
+in
+the T direction under a tensile stress acting in the L direction, and thus normal to the
+RT plane,
+is designated as
+[Ilt', V-lr, V-rt, ^rl,
+[ltr, and \xtl have similar significance,
+the first letter of the subscript in each relating to the direction of stress and the second
+to the direction of the lateral deformation.
+The two letters of the subscript may be
+interchanged without changing the meaning when G is considered but the same
+is not
+true for
+\x.
+Information on Poisson's ratios for wood
+is meager and values for only a
+few species are given in table 2-5.
+2.14.
+Stress-strain relations.
+(See section 2.56.)
+2.2. COLUMNS.
+2.20. Primary Failure.
+The allowable
+stresses for solid wood columns are given
+by the following formulas:
+Long columns
+10 ^
+.
+9
+(t)
+(2:9)
+L\
+V15EL
+Feu
+(-)
+=
+V
+p /cr
+Short columns (ref. 2-20)
+where:
+K = (-—)
+\
+a /cr
+These formulas are reproduced graphically in figure 2-4 for solid wood struts of a
+number of species.
+2.21. Local Buckling and Twisting Failure.
+The formulas given
+in section
+2.20
+do not apply when columns with thin outstanding flanges or low torsional rigidity are
+subject to local buckling or twisting failure.
+For such cases, the allowable stresses are
+given by the following formulas
+Local buckling (torsionally rigid columns)
+Fc = 0.07 EL (^)
+2
+psi (when p6)
+(2:11)
+Twisting failure (torsionally weak columns)
+F- = 0.044 EL (A' psi (when ^>5)
+(2:12)
+When the width-thickness ratio
+(b/t)
+of the outstanding flange
+is
+less than the
+values noted, the column formulas of section 2.20 should be used.
+Failure due to local
+buckling or twisting can occur only when the critical stress for these types of failure is
+less than the stress required to cause primary failure.
+For unconventional shapes, tests
+should be conducted to determine suitable column curves
+(ref. 2-32).
+
+--- PAGE 35 ---
+STRENGTH OP WOOD AND PLYWOOD ELEMENTS
+29
+o
+isd Ml SS3HIS NWniOD 319VM011V- 7J
+
+--- PAGE 36 ---
+30
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.22. Lateral Buckling.
+When subjected to
+axial compressive
+loads, beams
+will
+act as columns tending to
+fail through lateral buckling. The usual column formulas
+(2:9 and 2:10) will apply except that when two beams are interconnected by ribs so that
+they will deflect together (laterally), the total end load carried by both beams will be
+the sum of the critical end loads for the individual beams.
+The column lengths will usually be the length of a drag bay in a conventional wing.
+A restraint coefficient of 1.0 will be applicable unless the construction is such that addi-
+tional restraint is afforded by the leading edge or similar parts.
+Certain rules for such
+conditions will be found in the requirements of the certificating or procuring agencies.
+2.3. BEAMS.
+2.30. Form Factors. When other than solid rectangular cross sections are used for
+beams, (I-beams or box beams), the static-bending strength properties given
+in
+table
+2-3 must be multiplied by a "form factor" for design purposes. This form factor is the
+ratio of either the fiber stress at proportional limit or the modulus of rupture (in bending)
+of the particular section to the same property of a standard 2-inch square specimen
+of that material.
+The proportional limit form factor (FF P )
+is given by the formula:
+FF P = 0.58+0.42 (k
+(2:13)
+and the modulus of rupture form factor (FFU ) by the formula:
+FF U = 0.50+0.50 (K
+(2:14)
+where
+b' = tota web thickness
+b = total flange width (including any web(s))
+K = constant obtained from figure 2-5.
+Formulas 2:13 and 2:14 cannot be used to determine the form factors of sections
+in which the top and bottom edges of the beam are not perpendicular to the vertical
+axis of the beam. In such cases, it is first necessary to convert the section to an equivalent
+section whose height equals the mean height of the original section, and whose width
+and flange areas equal those of the original section, as shown in figure 2-5.
+The fact
+that the two beams of each pair shown in figure 2-5 developed
+practically the same
+maximum load in test demonstrates the validity of this conversion
+(ref. 2-16 and 2-21).
+Tests have indicated that the modulus of rupture which can be developed by a
+beam of rectangular cross section decreases with the
+height.
+Sufficient data are not
+available to permit exact evaluation of the reduction as the height increases, but where
+deep beams of rectangular cross section are to be used, thought should be given to the
+reduction of the value for modulus of rupture given in table 2-3.
+
+--- PAGE 37 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+31
+35
+5
+15
+ioo
+£=7.5£
+± = &33
+c
+d
+L-4.73
+± = 5.33
+o-Maximum load = 3200 lb.
+'*» f*"~^~i
+,
+f—
+£ = 4.73
+FFu= .86
+FFV = .74
+FFV ±= 357FFV± = 3.50
+FFV ± = 6.7/ FFV ±,6.76
+± = 9.88
+FFV = .68
+±= 10.40
+FFU =
+.65
+Figure
+2-5.—Form-factor curve and equivalent beam sections.
+
+--- PAGE 38 ---
+32
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.31. Torsional Instability.
+It
+Is
+possible
+for deep
+thin beams
+to
+fail through
+torsional instability at loads less than those indicated by the usual beam formula.
+Ref-
+erence 2-22 gives formulas for calculating the strength of such beams for various condi-
+tions of end restraint.
+However, in view of the difficulty of accurately evaluating the
+modulus of rigidity and end-fixity,
+it
+is always advisable to conduct static tests of a
+typical specimen.
+This will apply to cases in which the ratio of the moment of inertia
+about the horizontal axis to the moment of inertia about the vertical axis exceeds approxi-
+mately 25
+(ref. 2-21 and 2-22).
+2.32. Combined Loadings.
+2.320. General.
+Because of the variation of the strength properties of wood with
+the direction of loading with respect to the grain, no general rules for combined loadings
+can be presented,
+other than
+those
+for combined bending and compression given in
+section 2.321, and those for combined bending and tension given in section 2.322. When
+unusual loading combinations exist,
+static tests should be conducted to determine the
+desired information.
+2.321. Bending and compression.
+When
+subjected
+to
+combined
+bending and
+compression, the allowable stress for spruce, western hemlock, noble
+fir, and yellow-
+poplar beams can be determined from
+figure 2-6; that for Douglas-fir beams can be
+determined from figure 2-7. The charts are based on a method of analysis developed by
+the Forest Products Laboratory
+(ref. 2-22 and 2-29).
+The curves of figures 2-6 and 2-7 are based on the use of a second-power parabola
+for columns of intermediate length. The use of these curves has given acceptable results,
+but later data on columns under compressive loading only has demonstrated that the use
+of a fourth-power parabola for columns of intermediate length, as in figure 2-4,
+is per-
+missible. New combined-loading curves, based on the use of a fourth-power parabola
+will be presented in connection with other contemplated revisions.
+On these figures,
+the horizontal family of curves indicates the proportional limit under combined bending
+and compression, and the vertical family the effect of various slenderness ratios on bend-
+ing. The allowable stress, Fbc, under combined load is found as follows
+(1) For the cross section of the given beam, find the proportional limit in bending
+and the modulus of rupture from the ratios of compression-flange thickness to total
+depth and of web thickness to total width, locating points such as A and B.
+-
+(2)
+Project points A and B to the central line, obtaining such points as C and D.
+(3) Locate a point such as E, indicating the proportional limit of the given section
+under combined bending and compression.
+This point will be at the intersection of the
+curve of the "horizontal" family through C and the curve of the slenderness ratio cor-
+responding to the distance between points
+of
+inflection.
+(4) Draw ED.
+(5)
+Locate F on ED, with an abscissa equal to the computed ratio of bending to
+total stress. The ordinate of F represents the desired value of the allowable stress.
+The following rules should be observed in the use of figures 2-6 and 2-7:
+(1) The length to be used in computing the slenderness ratio, L/p should be de-
+termined as follows
+
+--- PAGE 39 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+33
+«o
+^
+"J
+
+--- PAGE 40 ---
+34
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(a)
+If there are no points of inflection between supports, L should be taken as the
+distance between supports.
+(6)
+If there are two points of inflection between supports, L should be taken as the
+distance between these points of inflection when calculating the allowable strength of
+any
+section
+included
+therein.
+(c) When calculating the allowable strength of a section between a point of in-
+flection and an intermediate support of a continuous beam, L should be taken as the
+distance between the points of inflection adjacent to the support on either side.
+(d) When investigating a section adjacent to an end support, L should be taken
+as twice the distance between the support and the adjacent point of inflection, except
+that
+it need not exceed the distance between supports.
+(2)
+In computing the value
+of
+p
+for
+use
+in
+determining the
+slenderness
+ratio,
+L/p, filler blocks should be neglected and, in the case of tapered spars, the average value
+should be used.
+(3)
+In computing the modulus of rupture and the proportional limit in bending,
+the properties of the section being investigated should be used.
+Filler blocks may be
+included in the section for this purpose. When computing the form factor of box spars,
+the total thicknesses of both webs should be used.
+2.322. Bending and tension. When tensile axial loads exist, the maximum com-
+puted stress on the tension flange should not exceed the modulus of rupture of a solid
+beam in pure bending.
+Unless the tensile load is relatively large, the compression flang

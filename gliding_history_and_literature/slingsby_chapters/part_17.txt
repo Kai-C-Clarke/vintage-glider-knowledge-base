@@ -1,0 +1,747 @@
+eavy, fast 
+aircraft, so-called 'lead sleds', had to struggle to keep 
+up while the lighter gliders made better progress 
+across-country. Even so, by British standards the HP- 
+14 was not a lightweight. The wing loading of 28kg/m2 
+(5.751b/ft~) was 20 per cent more than that of the Dart 
+17. The trend towards higher loadings with better wing 
+profiles was becoming accepted, and the new Schreder 
+design looked like a good compromise.
+Slingsby had decided to build metal sailplanes. With 
+its simple structure and ease of construction, it 
+seemed they could hardly do better than to undertake 
+the manufacture of the HP-14 under licence using, in 
+the first instance, kits supplied from America. It would 
+give them in the shortest possible time a product that 
+would be competitive in price and performance with 
+German, Swiss and Polish sailplanes, and they would 
+gain valuable experience with metal structures. It was 
+anticipated that, after the first few aircraft, all the nec­ 
+essary components would be made in England.
+An agreement was reached with Schreder and the 
+first two kits arrived at Kirbymoorside early in 1967, 
+Schreder himself coming too, to advise and supervise 
+the early stages of assembly. At the same time a third 
+kit went to Ken Fripp's Southdown Aero Services at 
+Lasham. The intention was to have the two Slingsby 
+aircraft completed in time for the British Nationals at 
+the end of May, Schreder to fly one hors conconrs and 
+John Williamson the other. The Southdown example 
+was being built for Peter Scott. No Slingsby type 
+number was allocated.
+The HP-14 with a span of 16.7m (.r>4.8ft), had a simple 
+tapered wing, using the Wortmann FX 61-163 profile 
+with a slight modification at the trailing edge as 
+explained below. A 16.3 per rent-thick wing, compared 
+with the 18 and even 20 per rent-thick profiles seen in
+229
+
+--- PAGE 232 ---
+SLINGSBY SAILPLANES
+previous Slingsby products, was claimed to be an 
+important advantage made possible only because of 
+the metal structure. The mainspar flanges were cut 
+from 1A inch thick 2024 T6 alloy. The large metal plates 
+were rolled to produce a slight chordwise curve con­ 
+forming to the wing profile. They then required cutting 
+longitudinally to produce the spar flanges, whereupon 
+the metal tended to spring into a curve. Straightening 
+required careful hand work with a ball pane hammer. 
+The pressed ribs were riveted in front and behind to 
+the spar webs. There was a light rear spar of C section. 
+The ailerons were hinged to the top flange of this spar, 
+the flaps to the bottom. The whole wing was skinned in 
+sheet metal with countersunk rivets. The 3.6m(12ft) 
+wide metal sheets for the skin had to be bent to 
+conform to the leading-edge radius. This was done by a 
+band of five or six persons with one edge of the sheet 
+under their feet (protected), pulling the other edge up 
+and over to make the initial bend. Then, with the aid of 
+a long, heavy plank of wood they stood or even jumped 
+up and down to tighten the bend until it was close 
+enough to the correct radius. Unlikely as it sounds, this 
+worked quite well.
+To the British pilots the most unusual feature of the 
+wing was that, instead of parallel ruler-type airbrakes, 
+flaps along the entire trailing edge of the wing inboard 
+of the ailerons were made to hinge down to 90°. For 
+landing, such flaps proved excellent. Having chosen a 
+field, the pilot could lower the flaps fully at a suitable 
+height on the final approach. The increase in drag was 
+very great. Airspeed was maintained by adopting a 
+steep attitude, about 4r>0 nose-down to maintain 50kt. 
+On Founding out, the speed rapidly decayed and a very 
+short landing run was the result. The proviso was that, 
+if the pilot was undershooting, it was dangerous to 
+raise the flaps suddenly to the neutral position because 
+this precipitated a sudden loss of lift and a very high 
+rate of descent. It was shown, however, that between 
+about 70° and full deflection the wing lift coefficient 
+hardly changed, whereas the drag varied considerably, 
+so a badly judged approach could be adjusted by 
+moving the flaps between 70° and 90 . In practice it 
+was easier to land an HP-14 in a small field than almost 
+any other comparable sailplane. By using flaps of this 
+kind the complications of housing airbrakes inside the 
+wing, with all the required cut-outs, seals, rods and 
+bellcranks to drive them, were avoided.
+For thermalling, the flaps could be lowered from 
+neutral slightly, allowing tighter turns, and for high­ 
+speed 'penetrating' dashes through sinking air to the 
+next thermal they could be raised 10° to reduce drag. 
+They were not interconnected with the ailerons, so 
+these remained in their normal position as the flaps 
+went up or down.
+Strictly the 61-1 (>3 profile has a slight concave cusp 
+on the underside at the rear, but to form this accurately 
+while preserving structural simplicity in the flaps and 
+ailerons was difficult. Schreder made the last few per 
+cent of the profile flat underneath. The control sur­ 
+faces could then be made in the easiest possible
+manner by twice folding appropriately sized metal 
+sheets and riveting the extreme trailing edges together 
+to form a triangular-section tube, with small riblets at 
+each end. The loss of performance was very slight. The 
+mainspars were joined on the aircraft centreline with 
+two large horizontal pins through inter-digitating 
+aluminium alloy fittings, and the fuselage was attached 
+by four further pins at the main and rear spars. The 
+flaps were driven from the extreme root end by a 
+torque tube carrying a triangular arm extension which 
+engaged inside the root of the flap as the wings were 
+rigged.
+The wings were attached at shoulder level to the 
+fuselage, which was very simple in outline, the only 
+double curvature in the skins being in the nose. The 
+rest was a conical metal tube of oval cross-section with 
+pressed formers and flush-riveted skins. The cockpit 
+canopy was also very simple, the most forward portion 
+being a curved sheet of transparent plastic. The rear 
+section, hinged at the side for access, was a simple 
+moulding. There was a large retracting main wheel and 
+a steerable tailwheel linked to the rudder pedals. The 
+control column was orthodox. The flaps were driven 
+by a rack and pinion with a large handle. Several full 
+turns of the handle were required to lower the flaps 
+fully, but all the necessary adjustments during the 
+landing approach could be done within one turn.
+Because of the very successful Austria and SHK 
+sailplanes, V tails were already familiar, but the stan­ 
+dard HP-14 tail areas looked very small by comparison 
+with the surfaces of the SHK. Recovery from inadver­ 
+tent spins had proved difficult in a few V-tailed gliders, 
+and the effectiveness of the small tail areas in a cross- 
+wind take-off also worried some pilots. Schreder was 
+entirely confident of his aircraft, but the first one from 
+Slingsby's after test flights was given much larger tail 
+surfaces. Linkage of the ruddervators with the controls 
+was, supposedly, automatic. For carriage by road the 
+two elements of the V tail, after disconnecting the 
+lower spar flanges from the fuselage cross-frame, were 
+raised to the vertical position and strapped together. 
+The elevator control linkage did not disengage when 
+this was done, so to rig the tail it was necessary only to 
+lower each surface and insert the bottom pins.
+The Slingsby aircraft had a powerful hydraulic 
+wheel brake operated by pushing with both feet 
+together on the rudder pedals. Also on the first 
+Slingsby HP-14, for various reasons, the flap rack and 
+pinion drive was not used, a simple lever being 
+adopted. With this arrangement the full 90° flap deflec­ 
+tion was not possible, and a 'one-shot' tail parachute 
+was fitted for landing. (The parachute was a standard 
+item of equipment from a Folland Gnat jet aircraft.) 
+This prevented the installation of the steering tail- 
+wheel. Schreder himself retained the original arrange­ 
+ment for the second Slingsby example.
+The first flight in Yorkshire was made in May 1967, 
+and John Williamson flew the HP-14 for the first time 
+only three days before he was due to use it in the 
+National Championships. Schreder's aircraft arrived
+23O
+
+--- PAGE 233 ---
+SLINGSBY SCHREDER HP-14
+even later. After flying Schreder's machine the day 
+before the competition began, Williamson had his flaps 
+hurriedly modified overnight to the standard rack-and- 
+pinion drive, and the tail parachute was removed. As a 
+result of this alteration, which required an all-night 
+working session by Geoff Bailey-Woods, there was a 
+desperate rush to get the HP-14 into its front-row posi­ 
+tion on the starting grid for the first competition take- 
+off. The crew were actually still rigging the V tail as the 
+aircraft was being towed out to the launch point. This 
+almost precipitated a serious accident. When the tail 
+surfaces were in the vertical position the controls did 
+not disengage, but as the HP-14 was rolling along, 
+rocking slightly from side to side and being rigged at 
+the same time, one of the surfaces was allowed to 
+move beyond the usual 'at rest' vertical alignment. The 
+ruddervator linkage became disengaged and did not re­ 
+engage as the surface was lowered and locked in flying 
+position. The standard cockpit check just before take- 
+off did not reveal the disconnection because the 
+surface moved normally, resting by its own weight 
+against the drive though it was not actually being 
+driven.
+Williamson, on tow, had no control and experienced 
+a wild ground loop, finding himself airborne and travel­ 
+ling sideways before skidding for 10m (30ft) along the 
+ground. It was a thoroughly ignominious and danger­ 
+ous start to the British contest career of the HP-14. 
+Fortunately only slight damage was done, the wingtip 
+skid plate being ripped off and a dent being made in the 
+nose. With the plate pop-riveted on again, the HP-14 
+was able to fly after all in the first contest task. After 
+this Williamson was very pleased with it. The weather 
+was not particularly good, only four days being scored 
+in the whole Championships. Williamson, by now 
+getting used to the sailplane, won the last day, but 
+placed 10th overall against the wooden opposition. 
+Schreder, hors concours, was placed 18th in the unfa­ 
+miliar British conditions.
+Later in the year Peter Scott took delivery of his own 
+HP-14 from Lasham and flew it competitively for the 
+first time at the London Regionals in August. In this 
+contest he came fourth, being beaten by some wooden 
+sailplanes (including Carr Withall's Skylark 4, Alf 
+Warminger's Dart 17 and a Ka 6E flown by the author). 
+The absolute performances were somewhat obscured 
+because handicapping factors were applied to the air­ 
+craft, but the HP-14 did not impress the assembled 
+pilots greatly. The ground crew found it troublesome to 
+rig and christened it the 'Iron Lady'. Scott won the 
+Western Regionals with his HP-14 in June the following 
+year.
+Problems now emerged with certification. To permit 
+an experimental aircraft to be flown in competitions by 
+experienced pilots was one thing, but to issue a general 
+type approval was another matter. By the end of 1967 
+the BGA Technical Committee reported not that the 
+certification was imminent, but that: This type is now 
+being developed into a definitive version and we will 
+soon be concerned with the certification'. No one
+doubted that the HP-14 was structurally sound and 
+strong, but this had to be proved, which meant there 
+had to be a good deal of calculation and paperwork. 
+Schreder himself relied mainly on experience and had 
+almost no figures to show. Both of the HP-14s built 
+from Schreder's kits were sent for sale to the USA, 
+where they were readily accepted under the official 
+'experimental' category there. The tail surfaces of 
+Williamson's example were replaced by the normal 
+smaller ones.
+Slingsby's aircraft division was now extremely busy 
+and perhaps overloaded. Production of the T-53 two- 
+seater and the Cameo V-Liner aerial hoarding were pro­ 
+ceeding. Tipsy Nipper light aeroplanes were being built 
+and kits for them sold. Replica S.E.SAs were being 
+made for filming, the Swallow sailplane was in produc­ 
+tion, the motorised Capstan was being developed and 
+two special versions of the Standard Class Dart 15, 
+with Wortmann wing profiles, were being built for the 
+next World Championships, scheduled for Poland in 
+June 1968. Alongside there was production of poly­ 
+ester/glass components for bathrooms.
+Also for Poland, Slingsby was committed to the pro­ 
+duction of two advanced sailplanes for the Open Class. 
+As most of the other pilots in this category would be 
+flying large glass sailplanes, the most obvious expedi­ 
+ent was to improve the performance of the HP-14 by 
+stretching the span to 18m. This could be achieved by 
+adding three extra rib bays to each tip, extending the 
+metal skins and adding glass-polyester wingtip mould­ 
+ings. This entailed removal of the aileron mass-bal­ 
+ances, which, on Schreder's original, had been 
+attached at the outermost end of the control surface, 
+outboard of the tip skid plate. To improve handling 
+with the larger span, the tail unit was redesigned with a 
+large vertical fin and rudder and an all-moving 
+tailplane. Changes to the rest of the aircraft were kept 
+to the minimum. Schreder actually fitted a pair of the 
+18m wings to his original HP-14 for this World 
+Championships.
+In Britain, unlike some other countries, it was legal 
+to fly in cloud providing the sailplane was suitably 
+certificated. Loss of control in blind flight was a well 
+recognised danger, the usual outcome being an 
+increasingly steep spiral dive with rapidly rising air­ 
+speed, very high g forces and serious structural col­ 
+lapse. It had been decided long before that a sailplane 
+approved for cloud flying must have airbrakes which, 
+when fully open, would restrict the airspeed to the 
+maximum permitted in rough air. It would be very diffi­ 
+cult to sell the HP-14C on the home market without a 
+cloud-flying airworthiness certificate. The flaps cer­ 
+tainly limited the speed once they were fully down, as 
+Williamson proved in his own test flying, but, if the air­ 
+speed was already high and rising, the effort required 
+from the pilot to get the flaps down to 90° was too 
+great, If the sailplane was genuinely going out of 
+control in cloud, the flap brakes would be useless.
+During the next months Slingsby worked on the III>- 
+14C to surmount this problem. Various expedients
+231
+
+--- PAGE 234 ---
+SLINGSBY SAILPLANES
+were tried, the addition of a simple bungee spring 
+proving very effective in reducing the loads for normal 
+approach and landing. To achieve full flap at high air­ 
+speeds a compressed-air system was devised. This 
+relied on a high-pressure air bottle which had to be 
+pumped up before take-off, and pneumatic jacks to 
+drive the flaps down against the aerodynamic resis­ 
+tance When the flaps were needed in an emergency 
+the pilot could release air to the jacks and the flaps 
+would go fully down at once. Enough pressure was put 
+into the bottle before take-off to allow this to be done 
+twice or thrice during any one flight. Checking the 
+pressure gauge was added to the pre-flight checklist. 
+Unfortunately, forcing the flaps down in this way at 
+high airspeeds proved too much for the light secondary 
+spar stmeture, and strengthening this member 
+involved more complications.
+The HP-14Cs were barely ready in time for Poland, 
+and the first one out of the workshop was found to be 
+virtually unflyable, unstable fore and aft and so touchy 
+in pitch that it required the pilot's constant attention to 
+prevent dangerous oscillations. It had to be rushed 
+back to the factory for modifications. What had been a 
+splendidly simple and easily maintained sailplane of 
+modest wingspan threatened now to become some­ 
+thing of a monster. The nose was lengthened and a 
+geared anti-balance tab was added to the elevator. This 
+increased the stick force per g enough to make the air­ 
+craft steady in high-speed flight, although the stick 
+loads could not be fully trimmed out at low speeds. 
+Nick Goodhart, the chosen pilot, made only one cross­ 
+country flight in it before the first contest day. His com­ 
+ments in print before the competition started were 
+guarded. The HP-14C, he said, had a veiy reasonable 
+performance, which was faint praise. The ailerons 
+were heavier than he liked, the rate of roll only ade­ 
+quate. With Goodharts weight in the cockpit the 
+sailplane was now neutrally stable in pitch. There was, 
+he pointed out, a good deal of development work still 
+to be done. Many adjustments had to be made in 
+Poland in the urgent days just before the competition 
+started. The other British entrant in this class, George 
+Burton, decided not to fly the HP-14C provided for him, 
+competing in a wooden SHK and coming a very cred­ 
+itable 7th. Goodhart struggled on to 16th place, which 
+was very good in the circumstances but not good 
+enough. Schreder came 21st.
+It was accepted that the performance of the 18m air­ 
+craft in relation to its price was good, but the technical 
+conclusions after this contest made sorrowful reading. 
+Frank living wrote: The moral for Slingsby's is that the 
+production aircraft must have better finishes and 
+improved details. .. compressed air for operating the 
+flaps at high speeds is simply not acceptable'. It was 
+becoming, said team manager Ann Welch, 'sadly 
+obvious that no longer could we fly British if we 
+wanted to have any chance of winning'.
+As well as some of Schreder's own kits shipped 
+directly or through Slingsby as agent, sales of several 
+IIP-14C kits had been made in advance of test flying.
+One went to Joe Provins in Yorkshire. The small 
+Sydney Soaring Club, a long-standing customer for 
+Slingsby products, and another group in New South 
+Wales ordered and paid for two HP-14C kits. There 
+were long, unexplained delays. Enough parts arrived at 
+last to enable construction to begin, but many neces­ 
+sary components were not delivered. When ordering 
+his kit, Provins had required a written assurance that a 
+BGA type approval and Certificate of Airworthiness for 
+the sailplane would be forthcoming. It was also the 
+rule in Australia that an imported sailplane could be 
+accepted by the Department of Civil Aviation (as it was 
+then called) only if type approval was granted in the 
+country of origin. Little progress towards certification 
+had been made. Having already been told after the 
+Polish experience that the type was not acceptable, 
+Slingsby were now legally required to bring the HP-14C 
+up to the necessary standard. Using the ex-Goodhart 
+aircraft, Geoff Bailey-Woods was given carte blanche 
+to do whatever was necessary. He removed the com­ 
+pressed-air system, redesigned the trimmer and air­ 
+brake drives and installed a drag parachute, carrying 
+out the test flights during October and November 1968.
+On Monday 18 November 1968 came the factory fire 
+described in the previous chapter. The HP-14C which 
+had been intended for George Burton to fly in Poland 
+was destroyed. All of the jigs and tooling and parts for 
+several more HP-14s were lost. The newly modified air­ 
+craft however, had been de-rigged and put in its trailer 
+outside the factory on the Saturday afternoon. After 
+flying it during the day, Bailey-Woods found the avail­ 
+able space rather scarce with the chairman's yacht and 
+private aeroplane inside, so countermanded the 
+instructions that had been given to the factory crew 
+and left it outside. It therefore survived.
+Provins continued work, but still lacked some parts 
+of his kit. The company cut up the remaining HP-14C to 
+obtain the missing components. Provins's aircraft was 
+completed and test flown by Bailey-Woods in June 
+1969, eventually being accepted by the BGA and regis­ 
+tered.
+Not so the two in Australia. The subsequent bank­ 
+ruptcy of the company left these customers without 
+many vital parts for wings and tails and no prospect of 
+the rest of the kits ever being delivered. They were 
+never recompensed. The two sailplanes were eventu­ 
+ally fitted with Schreder's own design of T-tail, the 
+required materials and parts being bought directly 
+from Ohio. The full 18m-span Slingsby wingtips were 
+retained. Permits to fly were eventually obtained after 
+long bureaucratic procedures.
+The NTew South Wales group's 18m span HP-14T 
+broke up in clear air at 2,400m (8,000ft) during the 
+Australian National Championships on 5 January 1972. 
+The pilot, Jan Coolhaas, who had been flying at a 
+moderate airspeed, saved himself by parachute. He had 
+heard a loud bang, and the HP-14 entered a steepening 
+spiral dive which he could not correct. After official 
+investigation the cause was attributed to wing-aileron 
+flutter which led quickly to fracture of the main fittings,
+232
+
+--- PAGE 235 ---
+SLINGSBY SCHREDER HP-14
+loss of control and complete disintegration of the wing. 
+The fittings that failed, forged by another company 
+under contract to Slingsby, were of a different design 
+from Schreder's and may have been defective. 
+Presumably the deletion of the aileron mass balance, 
+about which Schreder had never been happy, was also 
+partly responsible. The Sydney Soaring Club's HP-14T 
+also experienced flutter on a subsequent occasion, but 
+did not break up. This 18m aircraft was then cut down 
+to the original 16.7m span and the mass balances were 
+restored, after which it proved very satisfactory. This 
+machine and several other HP-14s in the USA and 
+others in Australia, some built from Schreder's kits or, 
+in one case, entirely from scratch, remain in service.
+HP-14 data
+As all of the homebuilders discovered, by the time 
+their sailplanes were finished and approved for flying 
+they were out of date and no longer competitive with 
+glass/plastic aircraft. The original HP-14 did not 
+achieve the claimed 40:1 glide ratio. Flight measure­ 
+ments published in the USA showed that a well-built 
+and carefully maintained HP-14T, even with slightly 
+extended wingspan of 17.4m, achieved a best glide 
+ratio of 1:36.3. This figure was exactly the same as best 
+glide measured for the old wooden Skylark 4, although 
+the metal aircraft achieved the figure at an 8kt faster 
+airspeed and was appreciably better than the Skylark 
+at speeds above 70kt. The 15m glass Libelle was better 
+than both of them.
+HP-14
+HP-14C
+Dimensions 
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o.a. 
+Wing sections: 
+Root
+Weights 
+Tare 
+Flying 
+Wing loading
+16.7m (54ft 9yzin)
+12.85m 2 (138.3ft2)
+21.6
+7.254m (23ft9/2in)
+Wortmann FX 61 -163 (modified) 
+Wortmann FX 61 -163 (modified)
+245kg (539lb) 
+362.9kg (800b) 
+28.1kg/m 2 (5.75lb/ft2)
+Dimensions
+Wingspan 
+18m (59ft OXan)
+Wing area 
+13.58m 2 (146.21 ft2)
+Aspect ratio 
+233
+Length o.a. 
+7.28m (23ft 10/zin)
+Wing sections, as for HP-14
+Weights 
+Tare 
+Flying 
+Wing loading
+290.3kg (64Gb)
+381kg(840lb)
+28.1kg/m 2 (5.75lb/ft2)
+The 18m-span HP-14C built from a Slingsby kit in New 
+South Wales. The parts for the T-tail had to be supplied by 
+Schreder in the USA. This flight was its last. The wing failed 
+and broke up in the air. (T. Neuman)
+The cockpit of the HP-14C. On the left is the pressure gauge 
+for the pneumatic flap operating system and the necessary 
+plumbing. The flap operating lever carried a button on the 
+top which, when depressed, released air to the rams. 
+(G. Bailey-Woods)
+Building an HP-14 was not as easy as it appeared, although, 
+as this picture shows, the wing structure was very simple. 
+This example was built entirely from scratch in Adelaide by 
+Harry and David Bache. (H. Bache)
+
+--- PAGE 236 ---
+r „ -*, 
+* j~
+Geoff Bailey-Woods prepares for take-off in the first 
+Slingsby-built HP-14. At this stage there seemed to be no 
+serious problems. (G. Bailey-Woods)
+The HP-14C under test with Bailey-Woods in the cockpit. 
+The aircraft proved a disappointment and production did not 
+proceed. (G. Bailey-Woods)
+
+--- PAGE 237 ---
+SLINGSBY SCHREDER HP-14
+The prototype Slingsby HP-14, built from a kit supplied by 
+Schreder. Here it has the original small V-tail. (G. Bailey- 
+Woods)
+The enlarged tail unit of the HP-14 as flown by John 
+Williamson in the National Championships. Incorrect rigging 
+caused a spectacular ground loop on the first attempted 
+take-off. (M. Simons)
+The instrument panel and cockpit of the second Australian 
+Slingsby HP-14C, from an incomplete kit. This was later cut 
+down to the original span after a wing flutter incident. 
+( T. Neuman)
+The Slingsby HP-14 at the British National Championships, 
+being towed out to the take-off point at Lasham. The tail sur­ 
+faces are greatly enlarged. (M. Simons)
+235
+
+--- PAGE 238 ---
+T 59G vertical 
+tail area
+in *k400-K400-K400*H400***400*K400*K400
+l«- 
+CO
+Typical instrument panel
+Oxygen
+Root section
+Wortmann FX 67 - K 17 
+(Flap 17%)
+T 59G wing 
+extensions
+T 59D series 2
+and T - 59G
+tail unit
+Horizontal tail
+area increased
+by 25%
+Rudder chord
+increased
+by 76 mm
+Fabric
+covering
+-*- 630
+T59A
+Kestrel 17
+wing
+Slingsby
+Type 59
+Tip section
+Wortmann FX 67 - K -15 
+(Flap 15%)
+Drawn by Martin Simons 1994
+
+--- PAGE 239 ---
+Type 59, Kestre
+The financial collapse in 1969, a few months after the 
+fire at the Slingsby factory, seemed likely to bring air­ 
+craft production at Kirbymoorside to an end. In receiv­ 
+ership for months, the factory was closed except for a 
+few maintenance staff.
+Sir Leonard Redshaw, chairman of the Vickers 
+Shipbuilding group based at Barrow-in-Furness, was a 
+keen glider pilot, and he had recognised that new 
+materials were likely to be important in shipbuilding as 
+well as in aviation. The Vickers Company, with a long 
+tradition of building submarines, had already made 
+some enquiries about the possibility of using GRP for 
+pressure hulls. In Britain very little research had been 
+done. There was no support from the Ministry of 
+Defence, and some very limited experience reported 
+from North America was discouraging. In aviation 
+there was nothing at any British university or technical 
+college that could be compared with the German 
+Akafliegs (Academic Flying Groups), whose theoret­ 
+ical design studies and research results were trans­ 
+lated into actual aircraft.
+Redshaw met Peter Scott, then Chairman of the 
+BGA, at Lasham. Scott had discarded the disappointing 
+all-metal HP-14 and was flying a German glass 
+sailplane, the 18m BS-1 originally designed by Bjorn 
+Stender of the Brunswick Akaflieg, now in production 
+and marketed by the Glasfliigel factory at Schlattstall 
+in Germany. In the Open Class British National 
+Championships that year most of the competitors flew 
+imported sailplanes, many of them of GRP construc­ 
+tion. Any aspiring champion was forced to look over­ 
+seas for a competitive aircraft, which Scott greatly 
+regretted.
+By now, experience with imported glass aircraft had 
+convinced British pilots and engineers that their 
+earlier hesitations over composite materials were 
+unjustified, providing the new aircraft were flown with 
+discretion. GRP sailplanes picked up speed very 
+quickly with small nose-down changes of trim, or if 
+camber-changing flaps were slightly raised there might 
+be no perceptible nose-down pitch at all. The glide 
+remained comparatively flat. This was a great advan­
+tage in cross-country racing but required care in moni­ 
+toring airspeeds. With much higher wing loadings and 
+the wing tanks or bags full of water ballast, on a good 
+soaring day the most efficient speed for flying through 
+sinking air to reach the next thermal might easily be 
+faster than the critical flutter speed.
+Out of the informal talk at Lasham came a meeting 
+later in the same week between Slingsby and Redshaw. 
+The Slingsby company records for the previous five 
+years were scrutinised. Among the papers Redshaw 
+came across a recent offer from Eugen Hanle, pro­ 
+prietor and chief engineer of the Glasfliigel Company, 
+for Slingsby to take on the manufacture of his Kestrel 
+under licence. Hanle had been one of the engineers pri­ 
+marily responsible for designing and building the very 
+first glass sailplane, the Phonix, in 1957, and the 
+Kestrel was in production and proving very successful. 
+(The author, living now in Australia, took delivery of 
+the 18th off the production line late in 1969.) With 
+Slingsby in receivership the offer could not be taken up 
+when it was first made, but Redshaw saw the possibil­ 
+ity of combining his two interests, submarines and 
+sailplanes, bringing both shipbuilding and glider 
+construction into the age of composite materials.
+After discussion, the Slingsby factory and all of its 
+assets were bought by Vickers. Redshaw took Bill 
+Slater, Jim Tucker and George Burton with him to see 
+Hanle. It was agreed after negotiation that if Slingsby 
+were to continue building gliders under Vickers owner­ 
+ship and control, Hanle would train some of the work­ 
+force in glass-plastic methods of construction and 
+either the Kestrel or the highly popular Standard 
+Libelle could be built at Kirbymoorside. One of the 
+conditions laid down by Hanle was that the Slingsby 
+works must be managed by a competition glider pilot 
+of international standing. Despite some success in 
+regional contests, Redshaw was not in this category. 
+Slingsby's would also be appointed agents for the 
+importation and sale in Britain of other Glasfliigel 
+sailplanes.
+Few people in Britain were qualified both as cham­ 
+pion glider pilots and aircraft engineers, but George
+237
+
+--- PAGE 240 ---
+SLINGSBY SAILPLANES
+Builon had won the nationals, had a secure place in the 
+British International Team and had an honours degree 
+in physics with flight research experience at 
+Farnborough and years in the electronics industry. It 
+seemed to Redshaw that he was ideal for the job, and 
+he was persuaded, at the age of 38, to change career 
+and become managing director of the new company, 
+now to be known once again as Slingsby Sailplanes 
+Ltd. Burton was already familiar with the Libelle, but 
+flew the Kestrel at Schlattstall. The Kestrel seemed to 
+have the better prospects for development and sales. It 
+was agreed that a core group of craftsmen from the 
+Slingsby factory should spend three months at the 
+Glasfliigel works to learn the basic techniques. The 
+agreement was signed in November 1969, and a few 
+weeks later the selected team travelled to Germany. 
+They succeeded in learning the necessary skills and 
+picked up some especially useful German phrases, too.
+Redshaw realised from the beginning that sailplane 
+manufacture could be only a part of the operation. 
+Research and eventually production of submarines 
+with glass-plastic pressure hulls, and other marine 
+applications of composite materials, had a high prior­ 
+ity (This led to the development of two-person sub­ 
+mersible craft for work with oil drilling rigs and in 
+deep-sea exploration, as well as other applications and 
+devices including marine oil spill cleaning systems.)
+The learning process began. How much sailplanes 
+had advanced became instantly apparent to anyone 
+who compared a Skylark 4, new in 1962, with the 
+Kestrel which first flew six years later. The Skylark was 
+a simple wooden aircraft with plywood skins, fabric 
+covering and a painted finish. Stick and rudder, air­ 
+brakes, elevator trimmer and tow release were the 
+only controls the pilot had to bother about. The 
+modern glass sailplane was a different proposition.
+The Kestrel was a complex 1 Tin-span aircraft with 
+Wortmann wing sections and an aspect ratio of 25. It 
+was known that departures from the correct wing 
+profile of one or two tenths of a millimetre (5-6 thou­ 
+sandths of an inch) were enough to disturb the bound­ 
+ary layer and cause a disproportionate increase in 
+profile drag. The wing was built from the outside 
+inwards, beginning in effect with the paint. Large 
+female moulds for the upper and lower skins had first 
+to be constructed to a degree of accuracy far beyond 
+anything in the old Slingsby company's experience. 
+Making the moulds themselves, from accurate forms 
+or 'plugs', was a time-consuming and expensive opera­ 
+tion. The moulds, one for the upper wing skin and one 
+for the lower, were highly polished and suitably treated 
+with parting agents before a white gel coat was applied 
+to make the outermost surface of the aircraft. White 
+was the preferred external colour, to reduce heat 
+absorption from the sun on hot days. With the gel coat 
+still soft, layers of alkali-free glass cloth of selected 
+weave and orientation, with the minimum required 
+amounts of cpoxy resin were laid up by hand with 
+rollers or brushes. The resin and glass were in mea­ 
+sured proportions of 40 of resin to 60 of glass. Too
+much resin did not increase strength and added a lot of 
+weight. Too little resulted in dry spots and weaknesses 
+in the laminations. The flanges of unidirectional glass 
+rovings for the very substantial mainspar and auxiliary 
+spars were laid in place, the rovings being wound 
+round the metal fittings at the root end to ensure struc­ 
+tural continuity. The outer skin in front of and behind 
+the spar was then overlaid by a layer of balsa wood 
+6mm thick in planks 75mm wide, lightly grooved longi­ 
+tudinally to permit them to bend to the aerofoil 
+section. (Later, expanded plastic foam or honeycomb 
+material was used for all glass sailplanes.)
+The filling layer was followed by more glass cloth, 
+completing the sandwich. A simple vacuum bag 
+system was used to ensure good bonding during the 
+subsequent curing process. There were very few cross­ 
+wise ribs in the wings. The spar webs and any neces­ 
+sary internal brackets, bearings and control pushrods, 
+and the boxes for the airbrakes, were built-in after 
+curing at this stage. The upper and lower shells were 
+then brought together and joined, the resulting wing 
+being virtually hollow with a mainspar and a light rear 
+spar to carry the flaps and ailerons. Temperature and 
+humidity were controlled throughout the laying-up and 
+the resin curing time. Post-cure tempering at 50°C 
+added a further 20 per cent to the compression 
+strength of the material. Some cleaning-up along the 
+glue lines, particularly along the leading edge of the 
+wing, was necessary, but otherwise the wings emerged 
+from the moulds ready for flight. Ailerons and flaps 
+were constructed in the same general fashion, and 
+were required to fit accurately with the minimum of 
+gaps and leakages at hinge lines.
+The Kestrel fuselage was also a shell made in female 
+moulds. It was of the pod and boom or 'club' shape. 
+Steel cross-tubes with spigots to fit into the wings were 
+bound into the glass structure. Laminar flow was pre­ 
+served as far as possible over the nose, but after transi­ 
+tion the cross-section contracted to reduce the area of 
+skin exposed to the en

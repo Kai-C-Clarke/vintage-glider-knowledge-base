@@ -1,0 +1,1459 @@
+Y(l*:?-i:l)/3-90'
+Figure 2-32.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+(3 = angle between face grain and direction of applied stress.
+Five-ply construction,
+(continued)
+(a)
+9-PLY (ill III
+I
+I l)6- 0'
+ii
+3
+s
+Y
+n
+4
+It
+7
+'
+Y
+II H
+'1
+11
+—
+/
+j
+'
+(1 M
+i
+1
+I,
+Z
+)-
+Y\
+--/
+-ih
+mm
+nltim
+\>
+."if
+X
+—z
+y
+1
+III
+4
+%
+—3
+9
+J
+1
+ill
+>
+—
+—5
+-10
+12
+scalc route, />nr> r
+(b)
+9-PLY(l
+1
+1
+1
+1
+1
+1 1
+15'
+Figure 2-33.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+^ = angle between face grain and direction of applied stress.
+Nine-ply construction.
+
+--- PAGE 96 ---
+90
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+'a
+(f)
+9-PLY(llillll.li)fi- to-
+<3-PLY (l I I l l-I l l
+75'
+Figuee 2-33.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading.
+Edges simply supported,
+(i = angle between face grain and direction of applied stress.
+Nine-ply construction,
+(continued)
+
+--- PAGE 97 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+91
+\
+— 4
+I
+iiiii
+I
+X
+*
+=ji
+^dl
+X-
+Y
+iR3l
+HIM
+\
+-
+mil
+— Z \
+—
+/
+X
+inn
+\
+J
+!
+1\m<
+J
+tm
+- 01
+Mill
+y
+--Z
+MM
+in
+Mil
+_
+1
+— Si- ~~
+y
+- -3
+- -4
+-/
+0,1
+2.
+SCALE FOB % AND r
+if)
+9-PlY thbl:l:l:l:IH;l)a*tO'
+-I
+.1
+2
+JCAl£ FOB % A/IP *
+(i)
+l-PlY(l:ll:l 1:1:1.1 l)a-4S'
+(h)
+9-PLY (l Z Z I 2 Z Z Z
+l)j3- »'
+\
+— 4
+Itttt
+l"M
+mi
+— J
+I
+—
+" Y
+)
+—
+6
+1
+<
+1
+1
+1
+t
+r L
+MM
+hh
+MM
+o
+(
+Hill
+- -3
+i(Alf
+FOB % 6HD
+(J)
+S Pit
+(i Z 1:2 Z Z Z Z l)a- 9°'
+Figure 2-33.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported. @ = angle between face grain and direction of applied stress.
+Nine-ply construction,
+(continued)
+
+--- PAGE 98 ---
+92
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Figure 2-34.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported.
+@ = angle between face grain and direction of applied stress.
+Infinite-ply construction.
+
+--- PAGE 99 ---
+Figure 2-34.—Curves of critical buckling constants for infinitely long rectangular plywood panels under
+combined loading. Edges simply supported,
+p = angle between face grain and direction of applied stress.
+Infinite-ply construction,
+(continued)
+
+--- PAGE 100 ---
+94
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+6
+9
+8
+7
+6
+5
+4-
+3
+2
+io\
+1——i
+r=
+I
+i
+i
+i
+i
+i
+i —
+i
+1
+1
+r
+O
+0.1
+01
+0.3
+OA
+0.5
+O.b
+0.7
+0.6
+<?.9
+1.0
+I.I
+1.2
+1.3
+IA
+1.5
+A
+b'
+Figure 2-35.—Corrections for panel size when
+(3 =0°, 45°, or 90° when the panel is subjected to shear stress.
+967b545Z
+10
+06
+0.4
+/
+/
+/
++
+s
+^^^^^
+N
+cy
+§r
+' /
+y
+f ///
+/'
+//.
+—v/y j
+firsts
+OZ
+04
+0.6
+OS
+10
+IZ
+1.4
+IA
+b
+T'
+Figure 2-36.—Corrections for panel size when panel
+is subjected to compression.
+(3=0° or 90° is a
+computed curve.
+(Ref. 2-12.)
+
+--- PAGE 101 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+95
+- rf
+V
+ass
+o.b as
+oi
+075
+a a
+oss
+o.9
+tm
+i.o
+Figure 2-37.—Buckling of infinitely long plates
+of symmetrical construction under uniform shear.
+Edges simply supported. The constant A's oo plot-
+Efw
+ted as a function of the ratio
+-.
+EfW -\-EfX
+z.o
+1.6
+1:6
+1.4
+1.
+%
+^J.O
+0.8
+O.i
+0.4
+0.2
+A.
+JU
+0.55
+0.6
+065
+0.1
+015
+0.8
+0.65
+0.9
+0.95
+1.0
+Lb*
+Figure 2-39.—Buckling of infinitely long plates
+of symmetrical construction under uniform com-
+pression. Edges simply supported. The constant
+E
+Kctx plotted as a function of the ratio
+-
+fx
+-FACt
+,.n> V IN,
+HI
+SI0H
+<
+OS
+OSS
+Qi
+0&f>
+07
+075
+08
+OSS
+0$
+09$
+iQ
+Figure 2-38.—Buckling of infinitely long plates
+of symmetrical construction under uniform shear.
+Edges simply supported. The constant b'/a plot-
+EfW
+ted as a function of the ratio
+.
+E/w -\-EfX
+2-V
+1.8
+16
+1.4
+II
+6
+Oi
+4
+2
+Efw+EJX
+OS
+055
+Ob
+065
+0.7
+75
+06
+06S
+09
+095
+W
+Figure 2-40.—Buckling of infinitely long plates
+of symmetrical construction under uniform com-
+pression. Edges simply supported. The constant
+EfW
+b'/a plotted as a function of the ratio
+.
+Efw +Efx
+
+--- PAGE 102 ---
+96
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.72. Allowable Shear in Plywood Webs.
+2.720. General. Beams are required to have a high strength-weight ratio and, there-
+fore, they are generally designed so that they will fail in shear at about the load which
+will cause bending failures. A higher strength-weight ratio
+is usually obtained
+if the
+beams fail in bending before shear failure can occur.
+Plywood when used as webs of beams is subjected to different stress conditions from
+those when it is used in simple shear frames.
+It is essential, therefore, that tests to deter-
+mine the strengths of shear webs be made upon specimen beams designed with flanges
+only sufficiently strong to hold the load at which shear failure
+is expected.
+Plywood
+webs tested in heavy shear frames with hinged corners will give shear strengths that are
+too high for direct application to beam design.
+In any case where buckling is obtained, the stiffeners must have adequate strength
+to resist the additional loads due to such buckling, and the webs must be fastened to
+the flanges in. such a manner as to overcome the tendency of the buckles in the web to
+project themselves into this fastening and cause premature failure.
+*2.721. Allowable shear stresses.
+The allowable shear stresses of plywood webs
+having the face grain direction at 0°, 45°, or 90° to the main beam axis may be obtained
+from figure 2-41.
+The direct use of figure 2-41 for any type of beam having 45° shear webs has been
+verified by numerous tests of I- and box-beams. A few exploratory tests of beams having
+0° and 90° plywood shear webs has indicated that the allowable ultimate shear stresses
+obtained for these constructions by using figure 2-41 are conservative.
+Until sufficient
+additional tests have been conducted to establish a more rational method of determining
+the allowable ultimate shear stress for plywood shear webs in which the face grain makes
+an angle of 0° or 90° to the longitudinal axis of the beam, values obtained from figure
+2-41 should be used.
+Plywood shear webs of 45° are more efficient than 0° or 90° webs.
+The designer is cautioned that box beams may fail at a load lower than that indi-
+cated by the strength of the webs as shown in figure 2-41, because of inadequate glue
+areas of webs at stiffeners or flanges.
+Such premature failures result from a separation
+of the web from the flanges or stiffeners.
+Additional information for guidance in stiffener
+design is presented in reference 2-7.
+Figure 2-41 contains a parameter a/b in the form of a family of curves. The a/b = l
+curve represents a spacing between stiffeners just equal to the clear depth between flanges.
+The curves below a/b = 1 should be used for the design of shear webs of beams whose
+stiffener spacing exceeds the clear distance between flanges.
+The upper set of curves
+should be used for the design of beams whose stiffener spacing is less than the clear dis-
+tance between flanges.
+Although, in a strict interpretation, the curves in figure 2-41 apply only to plywood
+webs of beams, it is believed that they may also be used to calculate the shear strength
+of other types of plywood shear panels (such as in wing skins, or fuselage coverings
+having little or no curvature) provided certain precautions are taken.
+If any edge of a
+panel
+is not rigidly restrained against movement in
+its own plane, the lowest curve
+(a/b = 0.2) should be used.
+An example of this may be a plywood panel in the wing
+
+--- PAGE 103 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+07
+covering at the inboard end of an outer panel where
+1 the end rib does not afford a rigid
+spanwise support to the edge of the panel. The shear strength of a panel that is rigidly
+restrained along all edges in its own plane may be determined by use of the o/h = 1.0
+curve. A panel whose edges are entirely within a larger plywood sheet, or a panel that
+is restrained on one or more sides by a heavy member, such as a beam-flange, and on
+all other sides by a continuation of the plywood, will fall in this group.
+Further tests and studies will be made to ascertain if these applications of the curves
+in figure 2-41 can be made in addition to its use for the design of plywood shear webs
+of beams.
+2.722. Use of figures 2-41 and 2-42. The abscissa of figure 2-41
+is the ratio a/a
+where « = either clear distance between flanges or clear distance between stiffeners
+(sec. 2.701).
+fl = the width of a hypothetical panel of length h which will buckle at a shearing
+stress of F»$.
+The procedure to be followed in the use of figures 2-41 and 2-42 is as follows:
+(1)
+Knowing the panel dimensions a,
+b, and
+t and the plywood species, read the
+values of Fs o, Ksoo
+, and b'/a from tables 2-9 and 2-10. For plywood species and construc-
+tions not listed in tables 2-9 and 2-10 Fsg may be calculated from equations in section
+2.612 and A~s0o and b'/a may be read from figures 2-37 and 2-38 once Efw and Efx are
+determined by test or from equations in section 2.52. KsX and b'/a may also be read
+from the intercepts of figures 2-29 and 2-34 if desired.
+(Sec. 2.702.)
+(2)
+Calculate a/6 and a/t.
+(3)
+Calculate b/b' and read KsO0 /Ks from figure 2-3.5.
+Calculate Ks.
+(4)
+From figure 2-42, read a/a
+as follows: (or a may be calculated from equation
+2:69 if preferred).
+(a)
+Draw line
+(1) connecting the appropriate El
+(for species of face
+plies),
+and F s q.
+(b)
+Pivot at scale (1)
+(2) and draw line
+(2) to the value of K s determined in
+the third step.
+(c)
+Pivot at scale
+(2)
+(3) and draw line
+(3)
+to the value of a/t found in the
+second step.
+(d)
+Read the value of a/a
+from the intercept on the a/a
+scale.
+(5)
+The allowable shear stress
+(F„) for the web can then be obtained hi terms of
+Ff/Fao from figure 2^41.
+(For a/a
+values greater than 4.0, the a/b curves may be ex-
+trapolated as straight lines to meet at a point corresponding to a/a a = 10 and Fs/Fse =0.2.
+
+--- PAGE 104 ---
+98
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+
+--- PAGE 105 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+99
+
+--- PAGE 106 ---
+100
+ANC BULLETIN—DESIGN OP WOOD AIRCRAFT STRUCTURES
+*2.72 3. Buckling of plywood shear webs.
+In connection with shear web tests on
+various types of beams,
+it was observed
+that
+for plywood webs in the a/a
+range of
+less than 1.2, buckling was of the inelastic type which often caused visible damage soon
+after buckling and sometimes just as the buckles appeared for those webs designed to
+fail in the neighborhood of Fs e- No accurate criteria can be presented at this time but
+the designer is cautioned to avoid the use of webs that may be damaged by buckling
+before the limit or yield stress
+is reached.
+The buckling curve established by these
+tests
+is shown in figure 2-41.
+Additional information on buckling of plywood shear
+webs is given in Forest Products Laboratory Mimeograph 1318-B
+(Ref. 2-8.)
+2.73. Lightening Holes. When the computed shear stress for a full depth web of
+practical
+design
+is
+relatively
+low, as
+in some rib
+designs, the efficiency, or strength-
+weight ratio, may be increased by the careful use of lightening holes and reinforcements.
+General
+theoretical
+or empirical methods
+for determining the strength
+of plywood
+webs with lightening holes are not available, and tests should, therefore, be made for
+specific cases.
+The
+effects of lightening holes
+in
+typical
+rib designs are discussed
+in
+N.A.C.A. Technical Report 345
+(ref. 2-23).
+*2.74.
+Torsional
+Strength and
+Rigidity
+of Box
+Spars.
+The maximum
+shear
+stresses in plywood webs
+for most
+types
+of box spars subjected
+to torsion may be
+calculated from the following formula:
+(2:70)
+b' t(C'-2b')
+where:
+t = thickness of one web.
+b'=mean width of spar (total width minus thickness of one web).
+C = average of the outside and inside periphery of the cross section.
+The
+allowable
+ultimate
+stress
+in
+torsion
+of plywood webs
+is determined
+as
+in
+section
+2.721.
+The torsional rigidity of box beams up to the proportional
+limit, or to the buckling
+stress (whichever is the lesser)
+is given by the formula:
+(i -±Gtb'
+T
+(C'-2b')*
+i2:71)
+2.7 5. Plywood Panels under Normal Loads.
+2.7 50. General.
+When
+rectangular plywood panels, which
+have
+the
+face grain
+direction
+parallel
+or perpendicular
+to the edges, are subjected
+to normal
+loads, the
+deflections and
+in some
+cases
+the
+stresses
+developed,
+are
+given by
+the
+following
+approximate formulas.
+If the maximum panel
+deflection exceeds about one-half
+its
+thickness, the formulas for large deflections will give results which are somewhat more
+accurate than those given by the formulas for small deflections.
+
+--- PAGE 107 ---
+STRENGTH OP WOOD AND PLYWOOD ELEMENT
+1(11
+2.751. Small deflections.
+(a) Uniform load— all edges
+s imply supporte*
+(2:72)
+where:
+\o = deflection at center of panel.
+p = load per unit area.
+a = width of plate,
+(short side)
+K, = constant from figure 2-43
+(a).
+The maximum bending moment at the center of the panel on a section perpendicular
+to side a may be obtained from figure 2-43
+(b). The maximum bending moment on a
+section perpendicular to side b is given by the same curve, provided a and b, and Ex and
+Eg
+are
+interchanged
+in
+the
+abscissa, and
+a
+is
+replaced by
+b
+in the
+ordinate. The
+corresponding stresses can be calculated from the formulas given
+in section 2.614.
+(b)
+Uniform load— all edges clamped.
+to = 0.031 A'„
+2 Eft
+(2:73)
+where:
+Ki= constant from figure 2-43
+(a).
+(c)
+Concentrated load at center— all edges simply supported.
+(2:74)
+where
+A's = constant from figure 2-43
+(a).
+2.752. Large deflections.
+(a) Uniform load—all edges simply supported.
+The relation between the load and deflection is given by the formula:
+p = K
+i EL w
+-j+A' 5 EL w as —
+(2:75)
+where
+Ki and K 5 are constants whose approximate values are given in table 2-11.
+EL is taken for the species of the face ply.
+
+--- PAGE 109 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+103
+The maximum bending moment at the center of the panel can be calculated from
+the following approximate formula provided the length of the panel exceeds
+its width
+by a moderate amount:
+M max . = Xi Ei Wo -p~2 (long narrow panels only)
+(2:76)
+where:
+X x = constant from figure 2-43
+(c).
+Although the edge support conditions are taken as simply supported,
+it is assumed
+that the panel length and width remain unchanged after the panel has been deflected.
+Therefore, in addition to the bending stress, there will be a direct tensile or membrane
+stress set up in the plane of the plywood, and the total stress in any ply will be the
+algebraic sum of the bending stress and direct stress in that ply. The maximum total
+stress will occur in the extreme fiber of the outermost ply having
+its grain direction
+perpendicular to the plane of the section upon which the moment was taken; the bend-
+ing stress being calculated from section 2.62, and the direct stress from section 2.601
+after first determining the average direct stress across the section from the formula:
+ftUi
+) = 2.55 E n (—)
+(long narrow panels only)
+(2:77)
+(b)
+Uniform load—all edges clamped.
+The load-deflection
+relation, formula 2:75,
+will also apply to
+this case provided
+Kg and Ki from table 2-11 are substituted for
+and K$, respectively. The maximum
+total stress may also be determined as outlined in
+(a) above, provided X2 from
+figure
+2-43
+(c) is substituted for Xi in formula 2:76.
+2.76.
+Stiffened Flat Plywood Panels.
+*2.760. Effective Widths in Compression. Because of the edge restraint afforded by
+the stiffeners in stiffened panels, the ultimate stress or the fiber stress at the proportional
+limit may be greater than the critical buckling stress of the sheet between stiffeners.
+For convenience it is assumed that the sheet, which is under a variable stress, can be
+replaced by effective widths acting in conjunction with the stiffeners at the same deforma-
+tion (but not necessarily the same stress). The remaining area of the sheet is considered
+as being ineffective. The total effective width of sheet for any stiffener is made up of
+increments w (measured from the outside edges of the stiffeners) plus the width of the
+stiffener (see sketch on
+fig. 2-44).
+
+--- PAGE 110 ---
+104
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Table 2—11.
+Values of constants in the approximate deflection formulas for plywood panels under normal
+loads 1
+Panel construction 2
+Uniform load all edges
+simply supported
+Uniform load all edges
+clamped
+(6 la)
+Ki
+Ke
+(b/a)
+K'i
+A'r
+3-ply,
+= 0°
+1
+1.5
+2.0
+>3.0
+>1
+(see (
+1.7
+.9
+. 5
+= 90°)
+5.9
+4.7
+4.7
+1.0
+2.0
+>3.0
+(see
+i
+3.6
+2.5
+» =90°)
+6.0
+7.0
+= 90°
+0.3
+13.3
+1.0
+>2.0
+1.0
+2
+>3
+1.0
+>2
+33.3
+32.0
+27.9
+19.2
+5-ply, 0=0°
+=90°
+1.0
+1.5
+>2.0
+1.0
+>1.5
+(see
+t
+2.4
+1.5
+6.2
+5.0
+= 90°)
+6.5
+6.0
+12.3
+10.0
+(see
+(
+8.3
+7.9
+28.7
+26.5
+1 =90°)
+8.2
+9.4
+17.7
+15.5
+1 The values given in this table are for spruce plywood, all plies of equal thickness, but they may also be considered
+applicable to plywood of other species and of the same constructions.
+For plywood made of more than five plies or of
+unequal ply thickness, the above table may be used as a rough guide in arbitrarily selecting values of these constants.
+-
+is the angle between the face grain direction and side b of the panel.
+LEGEND'
+A- AVERAGE STRESS IN PLATE AT PROPORTIONAL LIMIT -r PROPORTlONAL-LIMlT STRESS Of MATERIAL
+^ AT PROPORTIONAL-LIMIT STRESS. PACE GRAIN AT O'OR 90' TO LOAD
+3- AVERAGE STRESS IN PLATE AT MAXIMUM LOAD ~ MAMMUM STRESS Or MATERIAL =
+^J* AT ULTIMATE STRESS PACE GRAIN AT 0' OR 90' TO LOAD
+C- AVERAGE STRESS IN PLATE AT MAXIMUM LOAD - MAXIMUM STRESS OP MATERIAL
+'
+"
+' AT ULTIMATE
+STRESS
+PACE GRAIN AT 45° TO LOAD
+I
+Z
+3
+4-
+5
+b
+7
+8
+9
+PROPORTIONAL- LIMIT 5TRE55 OF MATERIAL t COMPUTED BUCKLING STRESS
+Figure 2-44.—Effective-width curves for flat plywood panels in compression.
+Ill the use of figure 2-44, the fiber stress at proportional limit, Fcp,
+is equal to FCPW
+when the face grain
+is parallel to the stiffeners, or Fcpx when the face grain
+is perpen-
+dicular to the stiffeners.
+These values may be obtained from table 2-9 or section 2.600.
+
+--- PAGE 111 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+105
+When the face grain
+is 45° to the
+stiffeners, Fepa may be taken as 0.55 Fcu4i , where
+Fcut $ is determined by section 2.610.
+The critical buckling stress F,w
+is determined bi-
+section 2.701. The procedure for determining effective widths depends upon the range
+of stresses under consideration, as follows:
+(1)
+For plywood stresses up to the critical buckling stress, the effective width ratio
+(2w/a) may be taken as equal to
+1 except when the critical buckling stress is near the
+proportional limit of the plywood.
+This proportional limit may be reached locally when
+the average stress is somewhat below the proportional-limit value because of nonuniform
+stress distribution across the panel.
+(2)
+Whenever the stress at the edge of the panel
+(in the plywood adjacent to the
+stiffener) exceeds the proportional limit for the plywood, the effective width is determined
+from the curves of figure 2-44, or by interpolating between them, depending upon the
+magnitude of the edge stress.
+(3)
+Whenever the stress at the edge of the panel
+is between the critical buckling
+stress of the panel and the stress at proportional limit for the plywood, the effective width
+is given by the formula:
+2w/a Jl~K)F
+F +mFdp-Fc,r )
+f2;781
+J\r, p
+" clT )
+where
+/v= value of 2w/a from curve in figure 2-44 at the ratio Frp/F0cr
+.
+f = any stress between F,w and Fcp .
+This formula does not apply when the critical buckling stress
+is near or above the
+stress at proportional limit.
+*2.76l
+Compressive strength. The strength of stiffened flat plywood panels may
+be determined by the following method when the stiffeners and their effective widths of
+sheet are assumed to act as columns. The effective width of sheet must first be deter-
+mined as mentioned in section 2.760 after which the following procedure may be used.
+The effective modulus of elasticity (£") of the composite section (stiffener plus effective
+sheet)
+is given by the formula:
+E, = Eb A p+ELe A, t
+A.
+where
+E b = E w for face grain parallel to stiffeners.
+= E X for face grain perpendicular to stiffeners.
+For 45° face grain, see section 2.5611.
+Elc pertains to the species of the stiffener.
+i4 P = area of effective panel.
+^4 S ( = area of stiffener.
+A=A P+ A sl .
+The effective moment of inertia (/') of the composite section is given by the formula
+:
+r= Y' Ip+W A
+" (x-tH)
+2+
+ir
+Mi
+(x~ v)2
+(2:80)
+
+--- PAGE 112 ---
+106
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+where
+Ei = Efw for face grain parallel to stiffeners.
+= Efx for face grain perpendicular to stiffeners.
+For 45° face grain use equation 2:63, section 2.6140.
+I r = I of effective panel about its own neutral axis.
+= (2w+b)tyi2.
+Is t = I of stiffener about its neutral axis.
+/= thickness of panel.
+d = depth of stiffener.
+y = distance from the neutral axis of the stiffener to the stiffener face away from
+the panel.
+x = distance from the neutral axis of the composite section to the stiffener face away
+from the panel.
+E b A p{d+-)+ELc A st y
+}
+=
+E b A p +E^,~A~~t
+The internal or calculated averag^stress over the composite section will be P/A,
+which should not exceed the allowable stress determined from the following formulas:
+Long Columns:
+10E'
+Fc= (L'uy
+psi
+(2:82)
+where
+L'=L/V~
+9 = V~T7~A
+(L'/9 ) cr = V 15E'/FCU
+F
+FCU = E' -—- when the stiffener is critical.
+E Lc
+F
+= E' -~- when the plywood
+is critical.
+£<&
+Fcu b = Fcuw when face grain is parallel to stiffeners.
+=FCU x when face grain is perpendicular to stiffeners.
+= Fcu q when face grain is at an angle to stiffeners.
+When the direction of column bowing is unknown, use the minimum value of Fcu
+determined for the plywood or the stiffener itself. When the direction of column bowing
+is known, the value of Fcu for the material on the inside of the curvature may be used.
+The value chosen for the fixity coefficient, c, depends on the behavior of the structure
+of which the panel is a part, or on the test set-up, as the case may be.
+See section 3.1382
+for typical values in structures.
+In carefully made flat-ended test panels, a
+fixity of
+c = 3.0 or more is usually developed.
+
+--- PAGE 113 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+107
+Short columns:
+ft-R.[i-|(0]p»-
+(MB)
+where:
+K = (L'/ 9 ) cr
+Fcu is same as for long columns when L'/ p approaches (L'/ p) (r . When L'/p is fairly-
+small, Fr„ should be taken as the minimum in the composite section in the longitudinal
+direction.
+This minimum may occur in the plywood or in the stiffener itself.
+*2.76l0. Modes of failure in stiffened panels. The procedure in section 2.761 for
+short columns assumes that a stiffened panel fails at the instant any longitudinal fiber
+of the composite section reaches its crushing stress, based on relative moduli of elas-
+ticity.
+Such composite constructions may actually develop an ultimate strength corre-
+sponding to this assumption, or higher or lower strengths, depending on several factors,
+some of which are discussed in the following.
+A possible mode of failure, which has been investigated for only one particular type
+of construction,
+is the premature separation of the plywood panel from
+its stiffeners
+occurring when the forces required to restrain the edges of the buckled panels become
+too great for the strength of the plywood or its attachment to the stiffeners.
+(Ref . 2-10.
+)
+A comparison of the results of this limited investigation with the method of section 2.761,
+however, shows the latter to be only slightly unconservative in the worst case.
+This
+comparison also indicates that section 2.761 may be conservative when separation
+is
+F
+F
+prevented and the ratio —— for the stiffeners is higher than —^-for the plywood.
+El c
+Eb
+Since no
+criteria suitable for general application are available for predicting the
+critical modes of failure,
+it is recommended that typical panels of each particular type
+of construction be tested.
+A more general investigation of this problem is now under way at the Forest Products
+Laboratory.
+*2.762. Bending. The maximum bending stress in stiffened plywood panels can be
+calculated from the following formula, when the face grain direction is 0° or 90° to the
+direction of the span:
+A ™£
+(2:84)
+where
+c' = distance from the neutral axis of the composite section to the extreme longitu-
+dinal fiber.
+El is taken for the species of the outermost longitudinal fiber.
+This maximum bending stress should not exceed the modulus of rupture of the ma-
+terial in which the maximum
+stress
+exists.
+If the
+stiffener
+is of an
+I or box
+section,
+the modulus of rupture must be corrected by a form factor as follows: When the load
+is applied so that the outer flange of the stiffener will
+fail in compression, the proper
+form factor to use is that for a beam having the same flange dimensions as the outer flange
+of the stiffener, and the same web thickness as the stiffener, but of a depth equal to 2x.
+If the load is applied so that the panel will fail in compression, the proper form factor
+
+--- PAGE 114 ---
+108
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+
+--- PAGE 115 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+109
+to use
+is that of a beam having flange dimensions equal to that of the effective sheet
+plus the flange of the stiffener adjacent to the panel, and a web thickness equal to that
+of the stiffener but a depth of 2{d+t— x).
+In either case no form factor need be used
+if the neutral axis lies within the compression flange.
+Formula 2:84 will apply to stiffened panels having the face grain direction 45° to
+the length of the stiffener
+if E', El, and
+/' are adjusted as indicated for the 45° com-
+pression case.
+2.8 CURVED PLYWOOD PANELS.
+**2.80. Buckling in Compression. No information other than the test
+results on
+a few types of plywood construction having the face grain parallel to the length can be
+given on the buckling of curved plywood panels in compression.
+The curves given
+in
+figure 2-45 represent the averages of the test results obtained on curved panels by the
+Hughes Aircraft Company on the plywood constructions noted.
+The actual const ruc-
+tions tested were essentially three-ply, with the veneers being laminated in the face,
+back, and core when the total number of veneers was greater than three.
+Large positive
+deviations from the curves were obtained when the panels did not buckle before the ulti-
+mate load was reached. For purposes of design,
+it is recommended that the values from
+the curves of figure 2-45 be divided by 1.15.
+Other tests indicate that when the width of a curved panel
+is greater than 30° of
+arc, the buckling stress is approximately the same as that of a complete cylinder of the
+same construction and radius of curvature, and may be computed as indicated in sec-
+tion 2.820.
+*2.81. Strength in Compression or Shear; or Combined Compression
+(or Ten-
+sion) and Shear.
+When
+failure by buckling does not occur, the ultimate strength of
+curved plywood panels subjected to compression or shear, or combined compression (or
+tension) and shear may be obtained by the method given in section 2.613.
+This method
+is applicable when the face grain direction is at any angle.
+-
+2.82. Circular thin-walled plywood cylinders. (Ref. 2 — 14).
+2.820. Compression with face grain parallel or perpendicular to the axis of the
+cylinder. The theoretical buckling stress for a long cylinder
+(to be modified for design
+as described later in the section)
+is given by the formula:
+F*r (theoretical) = k EL -
+(2:85)
+where
+El is for the species of the face plies.
+t = thickness of plywood
+r = radius of cylinder
+k is a buckling constant that is a function of
+„
+and is determined from figure
+ifj\-\-rLi
+2-46.
+In using figure 2-46, Ei is the flexural stiffness of the plywood in the direction
+parallel to the longitudinal axis of the cylinder.
+E\ is equal to Efu> when the face grain
+is longitudinal and is equal to Efx when the face grain is circumferential. Ei is the flex-
+ural stiffness of the plywood in the circumferential direction. E^ + Eo is equal to Erw+E fI .
+
+--- PAGE 116 ---
+110
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Figure 2-46.—Theoretical curve for long, thin plywood cylinders in axial compression. The ordinates
+represent k in the formula P=k E
+- where P is the buckling stress. The abscissas represent the
+ratio
+r
+E l
+- where E\ and Eo are the flexural stiffnesses of the plywood.
+Because of the steepness of the curve for k at the extreme right and left portions, it
+appears advisable to avoid, when possible, the use of types of plywood for which the ratio
+Ei
+is small or nearly equal to unity.
+E\-\-E%
+For use in design, the theoretical buckling stress must be modified as the propor-
+tional-limit stress
+is approached.
+This
+is accomplished by the use of figure 2-47. The
+proportional-limit stress used with this chart
+is the compressive proportional limit for
+the plywood in the direction of the cylinder axis and is determined from table 2-9 or
+from section 2.600. FCP = FCPW when the face grain is longitudinal. Fcp = Fcpx when the
+face grain
+is
+circumferential.
+The chart
+is entered along the abscissa with the ratio
+F,
+,, r (theoretical) /F cp . The design buckling stress, (F Ccr ),
+is then obtained by multiplying
+the ordinate by F cp .
+Tests indicate that an increase in strength may be expected when the ratio of length
+to radius is approximately one or less.
+This effect is being further investigated.
+Limited amounts of double curvature have negligible effect on buckling stress.
+
+--- PAGE 117 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+111
+0.1
+02
+0.3
+0.*
+OS
+06
+01
+08
+09
+10
+/./
+II
+/.3
+M
+IS
+IA
+U
+THEORETICAL BUCKLING
+STRE.5S (
+F
+cCJ. THEORETICAL)
+PROPORTIONAL LIMIT 5TP£5S
+\
+'
+Figure 2-47.—Design curve for long, thin-walled plywood cylinders.
+*2.821. Compression with 45° face grain. When the face grain is at an angle of
+45° to the cylinder axis, the theoretical buckling stress may be taken as the average of
+the theoretical buckling stresses obtained by assuming the face grain direction to be:
+(1)
+Parallel to the cylinder axis,
+(2) circumferential.
+In using figure 2-47, however, to
+obtain the design buckling stress, the proportional-limit value (Fcp) should be that for
+the plywood at 45° to the face grain. Frpii may be taken as 0.55 Fcui;„ where Fcui5
+is
+determined by section 2.610.
+2.822. Bending.
+For bending, the design buckling stress determined as for com-
+pression may be increased 10 percent.
+*2.82 3. Torsion. No data on buckling in torsion, suitable for general application,
+are yet available. The shear strength when buckling does not occur may be determined
+by section 2.612.
+2.824. Combined torsion and bending.
+When design buckling stresses for pure
+torsion and pure bending are available, cases of combined loading can be checked by
+the following interaction formula:
+(£) +
+Where
+f,t = applied torsional shear stress.
+fb= applied bending stress.
+Fslc1 =pure torsion design buckling stress
+F6cr = pure bending design buckling stress
+
+--- PAGE 118 ---
+112
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+WIDTH OF WOOD MLMBER IN INCHES
+1
+2
+3
+4
+5
+6
+7
+4i>8/0
+WIDTH OF WOOD MEMBERS IN INCHES
+Figure 2-48.—Bearing strength of bolts in spruce parallel to grain.
+
+--- PAGE 119 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+113
+WIDTH OF WOOD MEMBER IN INCHES
+12
+3
+4
+5
+6
+7
+BOL TS IN SPRUCE . SEE SEC TION 2.902FOR
+BEARING STRENGTH OR OTHER SPECIES. FOR
+!Hj[ |'i) ECCENTRIC LOADING (APPLIED ONLY ATONE END
+jjj] OFBOL T)DIVIDE LOAD FROM CURVES BY 2.
+BROKEN CURVES APPLY WHEN ALUMINUM-
+:| ALLOY BUSHINGS ARE USED (5LE SECTION 230$.
+i;:;lti!itniHm;t!iHi?i;;p;;;f;;;:i::::n;;;i;;;tfff
+'••
+20
+IB
+14
+10
+y
+I
+4
+6
+6
+10
+WIDTH OF WOOD MEMBER IN INCHES
+12
+14
+Figure 2-49.— Bearing strength of bolts in spruce perpendicular to grain
+
+--- PAGE 120 ---
+114
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.9. JOINTS.
+2.90. Bolted Joints.
+2.900. Bearing parallel and perpendicular to grain.
+In determining the
+sizes of
+solid steel aircraft bolts to be used in wood, the strength of the wood in bearing against
+the bolts can be obtained from the solid curves of figures 2-48 and 2-49.
+Broken curves
+are for use in determining bearing loads of aluminum bushings used in combination with
+steel bolts.
+(Sec. 2.906.)
+These curves give the allowable ultimate loads for standard
+aircraft bolts bearing in spruce, and applied concentric with the centerline of the member,
+that is, with the load divided equally between the two ends of the bolt. The allowable
+ultimate eccentric loads, that
+is, those applied at one end of the bolt only, are one-half
+the loads given by these curves.
+The value of bolt bearing stress at proportional limit when bearing perpendicular
+to the grain is affected to only a slight extent by the L/D ratio.
+In general, this value
+may be found with sufficient accuracy by dividing the ultimate bearing strength by 1.33
+for all L/D ratios
+(sec. 2.1000).
+When the bearing is parallel to the grain, however, the value of bolt bearing stress
+at the proportional limit varies considerably with the L/D ratio. The bearing stress at
+proportional limit then drops rapidly with an increase in L/D, becoming, at an L/D of 9,
+less than 50 percent of the bearing stress at proportional limit at an L/D of 1. The crush-
+ing stress of softwoods parallel to the grain is equal to 1.25 (1.33 for hardwoods) times
+the bearing stress at proportional limit, for L/D ratios from
+to
+1, and increases linearly
+to 1.7 times at an L/D of 12.
+This relation, or the factors by which the ultimate bearing
+loads parallel to the grain must be divided to obtain the bolt load at proportional limit,
+is given in figure 2-50.
+17
+\i Mi¥¥¥Win
+$ ^
+-
+-—.--7
+•
+•" t —
+-
+^ £
+::::
+VS
+<»:
+:t::
+::::
+J
+..
+.
+1 1
+;
+J^-
+t K
+....iinii
+[Et-
+::
+:
+::: -v^p-
+;
+:
+:
+<*"
+iiii
+ii'ii
+m
+*
+:
+.
+::
+1 ..Tintlga
+'T
+;
+- ^
+iilll#^
+1
+'
+""
+iif iiii^n
+^
+„
+5 £
+/./
+-
+:...|
+.'....:):. —
+1.0
+1—
+0/23
+- —
+-'
+--
+h
+}
+m. Ifmm Htrmmmmm
+r. •
+: r%
+;
+:
+if?;ii
+,,
+'
+,
+tt::
+':
+-t::
+:
+.
+:
+:
+:
+!
+.
+;
+!;!
+pi
+j
+<
+S
+6
+7
+a
+ttft::
+H—-
+'
+(tttt
+.
+::
+::
+M
+:
+9
+10
+r
+....
+-
+•! Milj
+.
+.. -f;
+II
+rr|||f If
+T ffiT +i+t -KH
+/2
+/J
+;j
+:B|
+:±U
+::::
+OF
+BEARING LENGTH + BOLT DIAMETER fL/p RATIO)
+Figure 2-50.—Variation of the ratio of ultimate bearing strength to bearing strength at proportional
+limit with L/D for bolts bearing parallel to grain.
+
+--- PAGE 121 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+115
+9
+liiiijiiiilHi ;[:;:. I::;;
+;::|:;-;
+r
+; ::::
+;:!; -U-u^ tin.
+'4
+'2
+'4
+'
+c4
+DIAMETER OF CIRCULAR PLATE IN INCHES
+Figure 2-51.—Bearing strength of steel washers in spruce—perpendicular to grain.
+Some designers may prefer to work in terms of bearing stress rather than bearing-
+load.
+Figures 2-52 and 2-53 show the ratio of ultimate bearing stress to ultimate com-
+pressive stress for bolts loaded parallel and perpendicular to the grain of the wood. The
+curves showing ultimate bearing stress parallel to the grain show two cut-offs, one for a
+ratio of ultimate stress to proportional limit stress of 1.5 and the other for a ratio of 1.7.
+The bolt load curves of figures 2-48 and 2-49 are based on the 1.7 cut-off.
+It is recom-
+mended that the 1.5 cut-off curve be used
+if no fitting factor is used in t

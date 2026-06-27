@@ -1,0 +1,1842 @@
+ INSPECTION AND FABRICATION
+CASEINS (COLD PRESSED)
+18
+30
+3k,
+4Z
+f6
+54
+T/ME OfEXPOSURE (MONTHS)
+60
+bb
+100
+- 50
+72
+Figure
+4-4. -Resistanca of plywood, glued with
+5 types of glues, when exposed to a repeating eycle of 2 days' soaking
+at room temperatures and 12 days' drying at 30 percent relative humidity and 80° F.
+in water
+
+--- PAGE 161 ---
+AIRCRAFT GLUES
+155
+glues,
+except
+phenol-formaldehyde, was
+associated
+with
+rapidly
+declining wood
+failure in
+all the exposures.
+4.13.
+Effect of Temperatures on Glues.
+Figure 4-3 shows the results obtained
+after exposure of plywood specimens glued with six types of glues to a repeating cycle
+consisting of 8 hours at 158° F. and 20 percent relative humidity and
+16 hours
+at
+80° F. and 65 percent relative humidity.
+The plywood was of the same type and
+was prepared and
+tested
+after exposure
+as described in section
+4.12.
+The
+joint
+strengths at various test periods are again shown as percentages of the original dry
+strength, and the estimated percentages of wood failure in the tested specimens are
+shown as vertical bars in each graph.
+The six types of glues shown in figure 4-3 represent three that were included in
+figure 4-2 and three additional types, namely, low-temperature phenol, hot-pressed
+melamine, and fortified urea (hot-pressed).
+The three types shown in both figures
+are: high-temperature phenol, cold-setting urea, and casein.
+The cold-setting urea
+resins
+of figure 4-3 met the requirements of Army-Navy Aeronautical Specification
+AN-G-8, whereas those in figure 1 4-2 may or may not have met its requirements.
+Cold-pressed ureas showed the largest decline in strength, dropping to approxi-
+mately
+one-half
+their
+original dry strength during
+9 months'
+exposure,
+and the
+decline in strength was associated with a reduction in wood failure, thereby indicating
+that the glue was affected more than the wood.
+The high- and low-temperature
+phenols, melamine, and casein glue,
+all showed a small reduction in dry strength
+a 10- to 15-percent drop in 6 months' time—but the percentages of wood failure were
+maintained, indicating that the small reduction in strength may be associated with
+factors other than the deterioration
+of the
+glue.
+The decline
+in strength
+of the
+fortified ureas was not as rapid as that of the cold-setting ureas.
+Similar plywood specimens glued with the six types of glues shown in figure 4-3
+were also exposed to three other temperature conditions:
+(1) continuous exposure to
+158° F. and 20 percent relative humidity,
+(2) continuous exposure to 158° F. and 60
+percent relative humidity, and
+(3) a cycle of 8 hours at —67° F. over dry ice and 16
+hours at 80° F. and 65 percent relative humidity.
+"When exposed continuously to
+158°
+F., the cold-pressed urea resins weakened even more rapidly than shown in
+figure 4-3, and the decline in strength was more pronounced
+at
+158° F. with
+60
+percent relative humidity than at 158° F. with 20 percent relative humidity.
+The
+casein, phenol, and melamine resins showed only a moderate decline in strength at
+the continuous high temperature exposures, while
+the
+effect on the
+fortified urea
+resin was more marked than is shown in figure 4-3.
+The exposure to the cycle in-
+volving a temperature
+of —67° F. showed no weakening effect on any
+of the six
+types of glues, and in most cases there was an increase in strength under exposures
+up to 6 months' time.
+4.14. Casein Glues with Preservatives.
+The
+test
+results shown
+in
+figures 4-2
+to 4-4
+for casein glue were obtained with an adhesive that contained no preserva-
+tives.
+Results of tests on casein glues containing suitable preservatives, however,
+show
+a
+marked
+improvement
+in
+durability
+under exposure
+to
+high humidity.
+Figure 4-5 shows the results of tests on casein glues containing two such preservatives,
+beta naphthol and creosote.
+It should be pointed out in connection with the results
+shown in figure 4-5 that by the end of 20 months considerable decay had developed
+in the wood
+of
+all shear specimens.
+Consequently, measurements made at longer
+exposure periods were more a measure of wood than of glue-joint quality.
+More re-
+cently developed preservatives, such as the chlorinated phenols and
+their sodium
+salts, show even higher effectiveness in preventing organic deterioration
+of casein
+glues under high humidity exposures, which are especially favorable for the growth of
+molds
+{4~4)-
+The improvement in mold resistance obtainable with preservatives
+such as pentachlorophenol
+is illustrated by the results shown in figure 4-6.
+These
+tests on plywood have not run long enough to determine the maximum period under
+
+--- PAGE 162 ---
+156
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+high humidity exposures for which pentachlorophenol and similarly effective
+pre-
+servatives will provide protection against molds and other forms of organic deteriora-
+tion.
+Further evidence on the effectiveness of pentachlorophenol as a casein glue
+preservative is furnished, however, by the results of the tests on laminated timbers
+(sec. 4.15).
+The addition of preservatives docs not appear to measurably affect the
+water resistance of casein glues.
+4.1 5. Exposure Tests on Laminated Beams.
+Results of tests on laminated beams
+exposed to high humidity and to the weather without protection confirm in general
+the order of durability of casein, phenol, and urea-resin glues as determined in ply-
+wood
+(sec.
+4.14).
+Douglas-fir and southern yellow pine beams,
+7 by 7 inches in
+cross section and
+6
+feet in length, and containing 9 laminations each, were glued
+TIME OF EXPOSURE (MO/VTHS)
+Figure 4-5.—Effect of preservatives in casein glue on durability of plywood joints exposed continuously to 95-99 percent relative
+humidity.
+Specimens tested upon removal from 95-99 percent humidity.
+Results for 2 glues averaged.
+with a casein glue (without preservative); a casein glue with the addition of 10 per-
+cent of pentachlorophenol; a low-temperature, phenolic-resin glue (pressed cold and
+later heated in a kiln at 150° F.); and a cold-setting, urea-resin glue.
+The beams
+were subjected in groups to continuous 97 percent relative humidity and
+all but
+those glued with preservative-treated casein were exposed to weathering.
+Specimens
+from all joints of all beams were tested before the exposures started, and tests were
+made on specimens taken from both ends of the beams at intervals up to 30 months.
+One end of each otherwise unpainted beam was kept coated to simulate conditions
+in the center portion.
+After 30 months of exposure, the joints made with the low-temperature phenol
+showed the highest joint strength and wood failure under both conditions
+of ex-
+posure.
+Under exposure to the high humidity, casein glue containing preservative
+showed almost as good results as the phenol but the casein without preservative had
+
+--- PAGE 163 ---
+AIRCRAFT GLUES
+157
+failed
+completely
+and
+the
+urea
+resin was
+severely weakened.
+Exposed
+to
+the
+weather, the urea-resin glue showed better performance than the casein glue with-
+out preservative.
+The continuous exposure to high relative humidity caused the
+casein without
+preservative and
+the
+urea-resin
+glues
+to weaken
+faster than
+did
+exposure to the weather.
+4.16. Summary of Properties.
+The properties of set glues
+of the various types
+are summarized below on the basis of existing information.
+4.160.
+Phenol-formaldehyde
+Glues.
+Phenolic-resin
+glues
+absorb
+less
+mois-
+ture from the air than does wood.
+Their strength in joints is equal to or greater
+than the strength
+of normal wood
+over wide ranges
+of moisture conditions and
+temperature.
+They are resistant to the attacks of micro-organisms and are highly
+durable under adverse exposure conditions.
+In general, well-made
+phenolic-resin
+joints are very difficult to destroy without destroying the wood itself.
+Phenolic-resin
+glues may be
+either
+acid
+or
+alkaline
+in
+reaction.
+Hot-press
+phenolic
+glues
+are
+usually
+nearly
+neutral
+in
+reaction,
+but
+the low-temperature
+phenolic
+glues
+contain
+either
+acidic
+or
+alkaline
+catalysts.
+Less
+information
+is
+available about the properties of the low-temperature phenolics in joints, but avail-
+able data indicate that they produce joints high in strength and in resistance to
+moisture and various temperatures,
+if properly cured.
+There are indications that
+568338—44
+11
+
+--- PAGE 164 ---
+158
+AXC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+highly acid phenols have an injurious effect on the wood and are less desirable in
+aircraft joints than the alkaline-catalyzed phenols.
+4.161. Melamine Glues.
+Melamine glues appear to be similar to phenols in all
+essential properties.
+4.162. Urea-formaldehyde Glues.
+Urea-formaldehyde glues are acid in reaction.
+When prepared for application, the cold-press urea resins arc higher in acidity than
+the hot-press urea
+resins, inasmuch as additional catalyst
+is added
+to produce a
+setting reaction at normal room temperatures.
+Urea-resin glues generally absorb
+more moisture from the air than do phenolic-resin glues.
+Wood joints well made
+with urea-resin glues are high
+in dry and wet strength at ordinary temperatures.
+Urea-resin glue joints will not withstand prolonged exposures to high temperatures;
+pronounced weakening of the
+joints occurs when exposed
+to
+water above about
+150° F. and a more gradual weakening occurs in dry air at 158° F.
+Joints made
+with urea-resin glue are less resistant under long exposure to dampness and to the
+weather than are joints made with phenolic-resin glues.
+4.163. Casein Glues.
+Casein glues are highly alkaline in reaction, and absorb
+high percentages of moisture from the
+air.
+Joints well made with casein glues are
+high in dry strength but the wet strength of such joints when saturated with water
+is less than half their dry strength.
+Casein glues show moderate resistance to hot
+water and good resistance to high dry temperatures.
+Casein glues without preserva-
+tives are not durable when exposed to relative humidities of 90 percent and higher
+but the addition of preservatives of suitable kinds and amounts increases their dura-
+bility under such conditions.
+'4.2. USE CHARACTERISTICS OF AIRCRAFT GLUES.
+4.20. General.
+The various operations involved in the production of aircraft
+require glues of different use characteristics.
+Assembly gluing operations require a
+glue that makes strong joints under pressures obtainable by nail gluing and fluid
+pressures.
+In nail gluing the skin to the fuselage or wing frame, this low pressure
+requirement may be combined with a requirement for a moderately long assembly
+time.
+In bag-molding operations, a long assembly life is often required and yet the
+glue must be quite fluid at some time during the pressing period.
+Gluing large sur-
+faces between rigid plates and
+cauls, such as wing beams and plywood, requires a
+glue that makes strong joints under high pressures needed to bring all surfaces into
+intimate contact, whereas bag molding with fluid pressures permits the use of glues
+of lower pressure characteristics.
+Many operations with existing equipment require
+cold-setting glues, while others permit the use of hot-setting
+glues.
+Fortunately,
+glues are available with characteristics that meet these various requirements reason-
+ably well.
+As an aid to the user of aircraft glues in the selection of glue types and brands
+of suitable characteristics and of those best adapted to specific operations, table 4-1
+has been prepared.
+The compilation of use characteristics has been prepared largely
+from the glue manufacturers' directions and instructions, the experience of users of
+the glues, and such test results as are available.
+The list
+is perhaps incomplete and
+is subject to change as some brands of glues are discontinued, others are modified,
+and new
+glues
+are developed and marketed.
+The
+inclusion
+of any glue
+in
+this
+list
+does not constitute an
+endorsement
+or
+assurance
+that
+it
+will meet
+current
+specifications
+
+--- PAGE 165 ---
+AIRCRAFT GLUES
+159
+I
+a>"S
+111!
+2
+2
+«
+S 2 2 2 2
+22
+22
+2
+32
+225:
+2
+22
+2
+22
+2
+22-22,
+-2
+S|
+Rgg
+2
+m
+1
+i§
+1
+i§§§
+II
+s
+mi
+88 §2 83; 5S
+i£S
+3
+8 £SSSS^2|
+si
+c2
+a
+3
+aaaaa^a^c
+a"
+S
+S
+P
+«
+PPPPPc!,p rt
+2 2 b
+32
+333
+aa
+aaa
+a
+pp
+tPt)
+1=
+If
+S3
+§
+11 5
+.s.a
+o
+ES
+~
+P
+111
+gp
+33
+1 1
+1
+11 1
+1 ill!!!!
+3
+SS
+C
+S3
+S
+SSSSS
+s
+s
+iiifiiillillilii
+If
+1
+Ik
+II
+III
+I II
+I
+si
+!
+11
+I
+I
+II
+l<
+II
+li
+3
+£3
+3
+33£f
+P
+nil ilium mii||j|.| H fiiflfjiiif
+a wowwwwww
+p
+OK
+ooW
+o
+PP
+k3
+PP
+I
+I Sjllll
+.
+I
+I mini
+1
+I iHIilJ
+2
+i?
+<o PQ« » » « n n
+.t; s .t: a a a a s
+
+--- PAGE 166 ---
+160
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+32°
+O .52
+o
+(2Sg
+oo
+1—1
+O c£> ^ 00
+W N N (N
+CN IQ >0
+so so
+IOM
+NO
+»C
+O
+CO CO
+CN tN
+O
+,
+- CI CI
+fe, CI C4
+3 a
+O
+S 6-
+a 3
+a
+o o o o
+I~ t~
+- _ ~ CN
+a a Si
+3 3 3o
+a a i"
+.5.3.3
+-f — —
+.
+CI CM
+r-i
+oo»c
+o o o o
+I- I- t- CO
+IllS
+aas~
+c 3 a
+s§g
+™
+iH
+CN
+CO
+o o o
+o o
+3 3
+CI CI
+AA
+CI cs
+A
+A
+O O
+CO CO
+oi
+CJ C)
+CN C^
+3^
+o o
+PP
+3 3~
+co
+.9.9™
+3
+a as
+.a
+2S a o _
+PPS
+£
+~
+3 3 3
+M
+:9§.9g
+1
+a s a|
+2
+- o o o
+P3
+EG CI CM <M t-
+a 3 o o o o
+3
+PPPP
+o-o a
+o o <^
+co co rf
+OOO
+PP.P,
+ppp
+CD
+CO
+CD
+GO
+3 3 3 3
+a a a a
+a a a a
+o o o o
+CI CI CI CI
+o o o o
+P.
+Z-. Z- o.
+.B w c w
+'
+CD
+CD
+.ays.
+CD
+lours
+ainul
+ninul
+ninul
+lours
+3 3
+o o
+U
+3
+.a
+s
+00 O O
+CM CM
+O CM
+CM t-
+fl D3
+CI CM
+CD
+o
+CO
+O O O
+o o
+O O
+o
+o
+P. P. Pi
+PPP
+P.O.
+PP
+P. —
+PP
+p.p
+Au
+T-J
+co
+. "J
+.
+6Q
+C3
+S of- o£
+a
+ii
+o
+o
+pp
+p
+3 3
+J
+o o
+-a J=
+3 3
+O O
+X O
+I
+H
+3 V s3
+I
+3 o
+.C 3 3 3
+O £
+.CP o
+OOO
+coco-3
+X-a-a-e
+•^i-H
+CO CO <N
+CMiOlCO
+03
+a
+gag
+^
+00 CM
+^3 CJ-a CD^
+2
+t. a > a
+o»S«>0
+OOGG
+CO
+"T3SB
+a
+of
+!
+.
+CO CO
+CO t— CO
+*
+co
+& 3
+r- e- —
+Ac
+o o
+i> o
+A"
+<])
+ai
+CD
+<1>
+CJ
++-i 0) +J
+CD
+C3a3c3
+c3o3
+c3
+o3 _q
+c3
+o3
+QJ
+CD
+£2
+!?
+5s
+Es
+o o
+PkPM
+o
+o
+rfj r0
+'C
+"3
+isgists
+E=!s 3
+o .a O O
+o O .55
+O
+OJ
+0)
+0J
+gSs
+Es
+ts
+.-OOO
+1-J Ph PU| PL,
+cu
+cv
+o>
+•O'O'O
+Es
+is
+Es
+OOO
+Cy
+CO
+Et
+E=
+o o
+P-,Ph
+ga
+O"
+w
+ra d
+CD
+(B,^,
+b h a
+cc ^cs a
+OJ
+co
+03
+' 5 « q
+S 2 S « S 3
+1 a
+cy
+CO
+p. p.''
+O O
+p.
+3 ooo
+a o a ooo
+w
+o
+_
+0.
+p. p.
+o 'o
+OO
+i P-— 333 S.ia
+1 s a § * £ a S'i I
+£ S~
+Es S 2 2 2
+Es § S §
+ts o0 £2
+is
+3oo
+c«OOOOPo3o^CJ30cO
+3 s a 3
+co £ ,o
+ftjol
+mop
+*T3 \
+CO
+CO
+J h
+I.
+2w
+3 o o
+a .as
+a^ssg
+CO O
+CO
+CO
+Es^^*i
+o P. o o
+P
+WW
+Oi
+CD
+CO
+o^ o
+&« &
+o-Q o
+C8
+CS
+° ° PP
+2« „7
+ccO,So
+05<:p
+flj
+CD
+1)
+03
+flJ
+^
+'x *B
+">5
+1
+o3
+c3
+c4
+><igS
+i
+1
+1 ^
+i
+i CN
+CM
+O
+CO
+CI
+< o"csQ
+r,-<P^co
+S .M y m
+ssS
+^
+c0
+CN
+CD
+£
+co
+co CD
+» mm a
+Melmac Melmae
+Penacolil
+X
+Hi
+Laux:
+SPhP* 3
+-}
+m
+03
+CD
+CD u
+-
+i
+;
+' 6 l
+B PQQS
+a a a a
+CO
+CO
+CO
+CO
+O O
+25»-
+(N IN CN
+I
+I
+I
+o e o
+H CN <N
+a a a
+ooo
+o o
+cC
+oS
+O —i
+f
+OO OO
+X X
+o o
+a d
+
+--- PAGE 167 ---
+AIRCRAFT GLUES
+CS
+10 >0 iO
+CN
+co
+CO co c©
+o o o
+t- * o
+_ tM CO
+a
+±
+3
+-3
+a
+-
+1
+iO iO 'O
+o o
+1
+4
+a
+~
+iCCO'O
+T V 7 V
+C© CO CO CO
+nu
+i
+a a I s
+s
+.s.a.s
+a s «
+c3 0,
+3
+ffi
+a.s «
+Cy
+CL V
+3 3 3
+g a c
+'a as
+is.
+S2S-S
+a a a™
+3
+£>
+5§S
+2j= o
+3 3 3=;
+O O O--
+M HH
+M
+CO
+iO
+"0
+o o n
+SOOOO
+CO
+a
+a
+O
++J
++r
+-2 3-2
+03
+ffj
+c3
+03
+tfl
+oS
+' O
+cS o
+cS
+"3 "3 '3
+'C'O'O
+T3'3-3*3
+ESS
+S
+fe
+fe 3.2.
+«
+a
+„3«it
+„ 3
+i « g 1 a s
+||
+.OJj-j-oa:;-^
+.T2-AIS o £s£
+•
+I o o o— 3 o :
+O
+3 co
+c OJ
+i-g
+as
+i„
+„
+OJ
+C3
+3"
+tg_ 3
+3
+CO
+,
+CO
+m
+o
+-
+Q
+o o
+O
+CJ
+CO
+co
+o o 2
+•-<
+i->
+CO CO ^
+CN
+CN
+eg
+2-2-2
+f
+§
+gag
+*
+if-
+o o c
+Fr<
+Eh UPP
+o s s
+«3 »C m
+aops
+.His
+« c c.a
+.as
+as
+c
+CD
+•a .a
+CO
++-)
+3 c
+*• 2
+..a
+2
+>>5
+=
+03 +- H o
+V
+rv
+O
+^fS.O <S
+to
+a C
+ca
+a>
+OT
+-a
+aa = *
+§
+a.a "3
+| ° Ph ° £ g
+J 5 In
+G
+"•^
+Si -3 5 £
+a 3 o §5 a
+a) a S a
+•
+a
+>;
+r/-i *->
+3 —
+"iS-Sit a
+i, -
+-
+C3
+03
+03
+0/
+111
+o£.a.a
+a £S^a.a
+'M s
+lap's
+o „ > »
+co a
+'IS S sis
+a" xl «?'2
+CJ n B a - -
+a * SB'S i"2
+—Tlx?
+CO "3 13
+a a a
+a
+03
+age
+".as
+.„ a
+g
+,
+tj) o> o
+s a<<0«
+3
+<n
+„ »
+CP O O
+
+--- PAGE 168 ---
+162
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION" AND FABRICATION
+4.21. Phenol-formaldehyde Type Glues.
+The phenol-formaldehyde
+glues may
+be classified or grouped on a number of characteristics such as hot-press and low-
+temperature types, film, powder and liquid forms, and kind of solvent.
+The film form of phenolic glue requires no preparation for use, and a single sheet
+is usually laid between the surfaces to be joined.
+Since the film does not add mois-
+ture to the wood,
+it is particularly well adapted to the gluing of thin veneers, such
+as
+Koo
+to y32
+inch.
+When a
+film glue
+is used, the moisture content of the stock
+must be
+closely
+controlled,
+usually between 8 and
+12
+percent.
+To obtain good
+joints with the film glue, the surface of the veneer should be smooth because the
+amount of glue applied cannot be increased to accommodate rough or poorly cut
+stock.
+For the film form, the assembly period (the time between applying the glue
+and pressing)
+is not critical and may vary over a wide range.
+The liquid forms of phenolic-resin glues, either water suspensions or nonaqueous
+solutions, can be advantageously applied to veneers by means of mechanical spread-
+ers with rubber-covered rolls in much the same way as casein glues are applied with
+grooved
+steel
+rolls.
+With
+the
+liquid-resin
+glues,
+the quantity
+of spread can be
+varied to suit operating requirements better than it can with the film type, and they
+are, therefore, preferred for some operations.
+The control of moisture in the wood
+is somewhat less exacting with the liquid forms of phenolic-resin glues than with
+the film forms, but some trouble with steam blisters may be expected in making hot-
+press plywood at high temperatures
+if the total moisture present in the assembly
+at the time of pressing is too high.
+Ordinarily, a moisture content of about 12 per-
+cent at the time of pressing
+is the maximum, above which a decided increase in
+blistering may be expected.
+For most hot -press,
+phenolic-resin glues, the coated
+veneers
+are allowed
+to dry under atmospheric
+or
+slightly elevated temperatures
+until in approximate equilibrium.
+The pressing may then be done immediately or
+delayed for several days.
+The platen temperatures for gluing with hot-press phenol-
+ic-resin glues of both the film and liquid forms are normally from 280° to 310° F.
+4.22. Low-temperature Phenolic-type Glues.
+Several
+phenolic
+and
+resorcinol
+resins and combinations of them have recently been developed, which set at tempera-
+tures substantially lower than those necessary for hot-press phenols.
+Some of them
+cure at temperatures of 150° to 200° F. and present indications are that glues of this
+type
+are, or soon
+will be, available that set at
+still lower temperatures.
+Because
+these glues cure at lower temperatures, the assembly period cannot be as long as that
+allowed for high-temperature glues.
+4.23. Melamine-formaldehyde Glues.
+Melamine glues are available in hot-press
+and low-temperature types, in him and powder forms, and as water- and alcohol-
+soluble materials.
+In general, their use characteristics are similar to those of the
+phenol-formaldehyde glues of the same type and form, except that temperatures re-
+quired for curing the hot-press melamines are usually somewhat lower than for hot-
+press phenols.
+4.24. Urea-resin Glues.
+Urea-resin glues are marketed either as dry powders
+or as water suspensions ordinarily containing 60 to 70 percent of solids.
+Most of
+those marketed as liquids may be used as received or after the addition of small
+amounts of catalyst, which increases the rate of setting.
+The dry-powder types are
+mixed with water to produce suspensions having concentrations approximately the
+same as those marketed as liquids.
+In general, urea-resin glues in powder form have a longer storage life than those
+in liquid form.
+Some urea-resin glues are formulated for use at room temperatures
+and others for hot-pressing operations.
+Urea-resin
+glues
+are most
+advantageously
+applied
+to wood by
+mechanical
+spreaders with rubber-covered rolls, although the consistency of the glue is such that
+it can be spread with a brush
+if desired
+
+--- PAGE 169 ---
+AIRCRAFT GLUES
+163
+Urea-resin
+glues
+are
+not
+particularly
+critical
+with
+respect
+to
+the
+moisture
+content of the wood at the time of gluing.
+The most desirable moisture content
+will ordinarily be governed by considerations other than its effect on the quality of
+the joint.
+When hot pressing with urea-resin glues at high temperatures, the same
+limitations on moisture contents must be observed, in order to avoid blistering, as
+with phenolic-resin glues.
+In hot pressing with high temperature setting urea-resin
+glues, the assembly periods are ordinarily not critical and may be varied over com-
+paratively wide limits—some of them, for example, for more than 24 hours.
+Urea-
+resin glues formulated for hot pressing set
+at temperatures somewhat below those
+required for phenolic-resin glues.
+Cold-setting, urea-resin glues are prepared and applied to wood in the same way
+as the hot-press, urea resins.
+The rate of setting of the cold urea resins at room
+temperatures is much slower, of course, than that in hot presses.
+The working life
+of the urea-resin mixtures and their rate of setting in the joints are dependent on the
+temperature of both the gluing room and the wood.
+In hot weather,
+it may be
+desirable to surround the glue container with a water bath in which cool water
+is
+circulated to maintain the temperature of the glue mixture at from 70° to 75° F.
+Joints made with cold-setting, urea-resin glues must be allowed to remain under
+pressure longer if the temperature is 70° F., for example, than if the gluing room and
+wood are at 90° F.
+The use of the cold-setting, urea-resin glues
+is prohibited by
+Specification AN-G-20 when the temperature of the wood or the gluing room
+is
+below 70° F.
+The assembly periods for cold-setting, urea resins are more limited than are
+those for hot-press, urea resins.
+4.25.
+"Fortified" Urea-resin Glues.
+Other urea-resin glues have been developed
+for special purposes.
+Some of these glues, for example, have been developed
+pri-
+marily to improve the resistance of urea-resin glue joints to boiling water.
+Other
+formulas have been developed primarily for the gluing of curved plywood by the
+bag-molding
+technique, and
+these
+glues
+are
+characterized
+by
+the
+property
+of
+permitting very long assembly periods, although some will set quickly at temperatures
+at or near 212° F.
+Such glues are sometimes marketed under the term
+"fortified
+urea-resin glues," the implication being that the resistance has been increased in some
+particular over that ordinarily associated with urea-resin glues.
+Other glues that
+may be
+classified under the term
+"fortified urea-resin glues"
+are marketed under
+names indicating their basic composition, of which the melamine-urea-resin glue
+is
+one example.
+4.26. Casein Glues.
+The use characteristics of casein glues have been reported
+in several publications
+(4~7,
+J+-6, 4-8) and
+are
+quite generally known
+to wood-
+workers.
+Their use over many years has generally resulted in good shop practices.
+In working life, assembly time, pressure, and rate of setting, at ordinary room tem-
+perature they are similar to cold-setting, urea resins and in general are subject to
+the same limitations and adapted to the same gluing operations. They do, however,
+set at temperatures lower than those at which the cold-setting, urea resins can be
+used.
+The addition of preservatives to casein glues may affect somewhat the con-
+sistency or viscosity of the glue mixture and the working life but, in general, the use
+characteristics of casein glues containing preservatives are similar to those of casein
+glues without preservatives.
+4.3. CONTROL OF GLUE QUALITY.
+4.30. General.
+Glues
+for use
+in
+aircraft should
+be
+systematically
+tested
+to
+insure that they conform to standard specifications and requirements before they are
+put in production.
+Thereafter, they should be checked sufficiently often to make
+certain that they have not deteriorated during storage or for some other reason do not
+come up to current requirements.
+
+--- PAGE 170 ---
+164
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Petail
+Test Specimen
+Section A
+SHEARING
+TOOL
+Figure 4-7.— Block shear joint test:
+(.Itocf) Test specimen and shear tool;
+(below) testing machine.
+
+--- PAGE 171 ---
+AIRCRAFT GLUES
+165
+The testing of casein and cold-setting resin glues and the requirements for their
+use in aircraft are covered by specifications as follows:
+Water-resistant casein glue:
+Federal Specification CG-456, July
+8,
+1941,
+and Navy Specification No. 52G8c, July
+1, 1932.
+Glue;
+water- and
+mold-resistant
+casein: Army
+Air Forces
+Specification
+No. 14122.
+Cold-setting resin glue: Army-Navy Aeronautical Specification No. AN-G-
+8, April 25, 1942.
+4.3 1. Joint Tests.
+It is not practical for the fabrica tor of aircraft to test the glue
+used by the plywood manufacturer in the production of plywood.
+The quality and
+kind of glue used in the production of the plywood can, however, be controlled within
+safe limits by tests on the finished plywood.
+The requirements for fiat plywood for
+use in the fabrication of structural or highly stressed parts of aircraft are covered by
+Army-Navy Aeronautical Specification No. AN-NN-P-511b, March
+19, 1943, and
+for molded
+plywood
+by Army-Navy
+Aeronautical
+Specification
+No. AN-P-43,
+March
+30,
+1943.
+These
+specifications limit the glues used
+to hot-press, thermo-
+setting, synthetic-resin types.
+The requirements for aircraft plywood and for casein and cold-setting resin glues
+in the foregoing specifications are based
+in part on results obtained in joint tests.
+Information on preparing the test material and making the tests is given in the pub-
+lished literature
+(4~8, 4~9) an(l
+is ample and readily available.
+Inasmuch as the
+block shear and plywood joint tests are currently used in Army-Navy Aeronautical
+specifications, and since most
+of the
+test data herein presented on glue properties
+and use are based on these
+tests, specimens and
+testing equipment are shown in
+figures 4-7 and 4-8, and the more important points of procedure
+are summarized
+below:
+4.32. Block Shear Joint Test.
+1. Use a wood of high density (hard maple of not less than 0.65 specific gravity
+is considered standard),
+of straight
+grain, and free from
+defects.
+Condition
+to a
+moisture content of about 7 percent.
+2. Cut the material into pieces about 1 by 2.5 by 12 inches, or of such other width
+and length as to provide at least four specimens of the dimensions shown in figure
+4-7.
+Surface the pieces smoothly to a uniform thickness and glue promptly after
+surfacing.
+3. Glue at least two joints for each test.
+4. Follow the manufacturer's directions carefully
+in mixing the glue.
+Weigh
+the component parts.
+5. Spread the glue evenly on one of the two pieces and apply pressure uniformly
+to the joint within the assembly period limitations of the specification.
+The quantity
+of the glue spread can be determined by weighing the pieces immediately before and
+after spreading.
+6. Apply a pressure of 150 to 200 pounds per square inch and leave the test blocks
+under pressure not less than 4 hours and condition them for 6 additional days at room
+temperature before testing.
+7. Cut the glued blocks into specimens of the form and dimensions shown in
+figure 4-7 and
+test on a universal testing machine equipped with a shearing tool
+illustrated in figure 4
+7.
+Apply the load to the specimens at 0.015 inch per minute,
+plus or minus 25 percent.
+8. Record
+for each specimen
+tested
+the breaking load and
+the approximate
+percentage of wood failure occurring over the glue-line area.
+Compute the breaking
+load in terms of pounds per square inch of glue-line area.
+4.33. Plywood Joint Test.
+1. Glue 3-ply panels with the grain of the face plies at right angles to that of the
+core.
+The veneer should be selected for firmness, straightness of grain, and freedom
+from defects (Xe-inch yellow birch
+is considered standard).
+
+--- PAGE 172 ---
+166
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+2. Each panel should be of a size sufficient to produce at least 10 specimens of
+the form and dimensions shown in figure 4-8.
+A panel measuring 4 inches with the
+grain and 12 inches across the grain of the faces is a convenient size for cutting the
+required number of specimens.
+3. Condition the veneer to a moisture content of about 7 percent.
+4. Follow the manufacturer's directions carefully in mixing the glue.
+5. Glue the plywood under carefully controlled conditions.
+6. Condition the panels after gluing in accordance with provisions
+of current
+specifications.
+7. From each panel cut
+10 specimens
+of the form and dimensions shown as
+specimen A or B in figure 4-8.
+Specimen A is used when face plies are thicker than
+0.047 inch and specimen B when face plies are 0.047 inch or less in thickness.
+Num-
+ber the specimens from each panel successively from
+1 to
+10.
+8. Test in the dry condition the odd-numbered specimens from each panel in a
+cement briquette
+testing machine equipped with special grips as shown in figure
+4
+8.
+Apply the load to the specimens at a rate between 600 and 1,000 pounds per
+minute.
+9. For wet
+tests, soak
+or otherwise expose
+the even-numbered specimens
+to
+moisture as specified, and while
+still wet test in the same manner as described in
+paragraph 8 above.
+10. Record for each specimen tested the breaking load and the approximate
+percentage of wood failure occurring in the test.
+4.34. Glue References.
+(4-1)
+Brotjse, D.
+1938.
+serviceability of glue joints.
+Forest Products Laboratory Mimeo. R1172,
+illus.
+1939.
+CONTRIBUTIONS
+OF SYNTHETIC
+RESINS TO IMPROVEMENT
+OF PLYWOOD
+PROP-
+ERTIES.
+Forest Products Laboratory Mimeo. R1212,
+illus.
+(4-2)
+(4-3)
+1938.
+CONTROLLED EXPOSURE
+TESTS ON BIRCH PLYWOOD
+INDICATE
+DURABILITY OF
+water-resistant
+glue
+joints.
+Forest
+Products
+Laboratory
+Mimeo.
+R1185, illus.
+(4-4) Kaufert, F. H., and Richards. C. A.
+1943.
+procedures for measuring the mold resistance of protein glues.
+Forest
+Products Laboratory Rev. Mimeo. 1344,
+illus.
+(4-5) Forest Products Laboratory
+1941.
+synthetic-resin glues.
+Forest Products Laboratory Mimeo.
+1336.
+(4-6)
+-
+1939.
+casein glues: their manufacture, preparation, and application.
+Forest
+Products Laboratory Mimeo. R280.
+(4-7) Truax, T. R.
+1929.
+the gluing of wood.
+U.
+S. Dept. Agr. Bull. 1500.
+78 pp.,
+illus.
+(4-8)
+1930.
+gluing wood in aircraft manufacture.
+Lt
+.
+S. Dept. Agr. Tech.
+Bull. 205,
+58 pp.,
+illus.
+(4-9)
+, Browne, F. L., and Brouse, D.
+1929.
+significance
+of
+mechanical
+wood-joint
+tests
+for
+the
+selection
+of
+woodworking glues.
+Forest Products Laboratory Mimeo. Rllll,
+illus.
+
+--- PAGE 173 ---
+AIRCRAFT GLUES
+167
+
+--- PAGE 175 ---
+CHAPTER
+5. PROCESSING AND FABRICATION
+5.0. SEASONING AND STORAGE OF LUMBER.
+5.01. General.
+The quantity
+of water
+in wood cut from
+a
+living
+tree may
+have a weight that
+is one-third
+to three times the oven-dry weight of the wood;
+a freshly cut log 16 feet long and 18 inches in diameter may have a liquid content
+of more than 100 gallons.
+Sap, which
+is principally water,
+is the lifeblood of a living tree; but after the
+tree
+is
+felled and converted into lumber most of
+this moisture must be removed
+before the material
+is suitable for use.
+The moisture present in wood has an influ-
+ence upon
+its
+strength and
+resistance
+to
+decay.
+Changes
+in moisture
+content
+cause changes
+in dimension
+(sec. 2.240).
+In the seasoning
+process,
+considerable
+shrinkage
+takes
+place,
+and
+precautions must be
+taken
+to
+prevent
+the
+unequal
+shrinkage
+stresses
+from
+causing
+defects,
+such
+as
+warping,
+checking,
+splitting,
+and case-hardening.
+The proper moisture content at the time of manufacture
+is
+that which is best suited for the conditions to which the material will be subjected
+during manufacture and, later, during use.
+Specifications for airplane parts define
+limits that are intended to cover this range, so that subsequent changes in moisture
+content
+will not be
+large enough
+to
+cause troublesome
+swelling and
+shrinkage.
+The
+final average moisture content allowed for propeller stock
+is lower than for
+other airplane parts.
+Propeller stock must be uniform
+in moisture content, both
+as
+to moisture
+distribution within each piece and
+as between the various pieces
+which make up the propeller.
+This condition
+is most likely to be attained when
+stock is dried to the moisture content specified.
+Details of how to determine the moisture content in wood are given in section
+2.21.
+5.010. The Moisture Content of Wood
+is Dependent Upon the Humidity and
+Temperature of the Surrounding Air.
+When wood
+is subjected to a constant tem-
+perature and relative humidity
+it will in time come to a definite moisture content,
+which
+is called the equilibrium moisture content (5-1).
+This relationship between
+the moisture content of wood and the surrounding atmospheric conditions is shown
+in figure 5-1
+for Sitka spruce, but
+is generally applicable
+to other species.
+Note
+that under constant temperature conditions the moisture content increases as the
+relative humidity increases, and that under constant relative humidity conditions
+the moisture content decreases as the temperature increases.
+In general, relative
+humidities are lower in the spring and summer than during the autumn and winter,
+and seasoned wood exposed to these changes in humidity will absorb or lose moisture
+accordingly.
+5.011. Geographical Variations in Relative Humidity.
+In addition to variations
+due to season, there is also a variation in relative humidity in different parts of the
+country
+as
+affected by
+altitude,
+proximity
+to
+the
+ocean,
+precipitation,
+or some
+comparatively local condition.
+Table 5-1 shows the relative humidity for a number
+of widely separated cities in the United States at different times of the year.
+Similar
+seasonal variations occur in other parts of the world.
+In tropical and subtropical
+areas, where long rainy seasons are followed by long dry spells, the spread of equi-
+librium moisture content between seasons may be considerable.
+Low equilibrium
+moisture content conditions may be
+expected
+in
+desert
+areas,
+while
+in Europe
+169
+
+--- PAGE 176 ---
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+
+--- PAGE 177 ---
+PROCESSING AND FABRICATION
+171
+generally the average equilibrium moisture content would be as high
+as, or higher
+than, that along the northeastern coast of the United States.
+The approximate equilibrium moisture content for wood can be estimated for
+any section of the country and for any season by noting the relative lnunidity given
+in table 5-1 and reading the corresponding moisture content from figure 5-1 at the
+particular temperature under consideration.
+In this figure the
+solid curved hues
+marked "RH" denote
+relative humidity, and
+the
+intersecting
+solid
+and
+dashed
+lines denote temperature.
+Table 5-1.-
+Relative humidities at different seasons in various parts of the United States
+1
+City
+Mean relative humidity in percent, based
+on daytime readings
+New York, N. Y
+Cleveland, Ohio
+Spokane, Wash
+Seattle, Wash
+Phoenix, Ariz
+San Diego, Calif
+San Francisco, Calif
+Denver, Colo
+Washington, D. C__
+El Paso, Tex
+Galveston, Tex
+Jacksonville, Fla
+Winter
+Spring
+Summer
+Autumn
+73
+70
+74
+75
+77
+72
+70
+74
+82
+61
+47
+67
+83
+73
+69
+81
+47
+32
+32
+41
+74
+78
+81
+78
+79
+79
+84
+80
+54
+51
+49
+46
+72
+69
+75
+76
+45
+27
+41
+46
+84
+82
+79
+78
+80
+74
+80
+83
+1 The relative humidities given here are based on daytime readings made by the U. S. Weather Bureau and'do not give the
+mean average humidity for 24-hour periods.
+The relative humidity during the night is usually much higher than during the day,
+and the equilibrium moisture content will follow t

@@ -1,0 +1,1255 @@
+(principally section
+2.9). The designer is referred, in general, to the many existing tests, technical papers,
+and publications which adequately handle such miscellaneous analysis problems.
+
+--- PAGE 209 ---
+METHODS OF STRUCTURAL ANALYSIS
+203
+REFERENCES FOR CHAPTER
+3
+(3-1)
+Akerman, J. D. and Stephens, B. C.
+1938.
+POLAR DIAGRAMS FOR SOLUTION OF AXIALLY LOADED BEAMS.
+Jour. Aero. Sci. July,1938
+(3-2)
+Cross, Hardy
+1930.
+the column analogy.
+Univ. of Illinois Eng. Exp. Sta. Bulletin 215.
+(3-3)
+1930.
+analysis of continuous frames by
+distributing
+fixed-end
+moments.
+Proc.
+A.S.C.E. May, 1930.
+(3-4)
+Erlandsen, O. and Mead, L.
+1942.
+a method of shear-lag analysis of box beams for axial stresses, shear stresses,
+and shear center.
+N.A.C.A. Advance Restricted Report.
+(3-5)
+Hatcher, Robert S.
+1937.
+rational shear analysis of box girders.
+Jour. Aero.
+Sci. April, 1937.
+(3-6)
+Ebner, Hans
+1934.
+torsional stresses in box beams with cross sections partially restrained
+against warping.
+N.A.C.A. Tech. Memo. 744.
+(3-7)
+Kuhn, Paul
+1935.
+ANALYSIS of two-spar CANTILEVER wings with SPECIAL REFERENCE TO TORSION
+and load transference.
+N.A.C.A. Tech. Rept. 508.
+(3-8)
+Kuhn, Paul
+1935.
+bending stresses due to torsion
+in cantilver box beams.
+n.a.c.a.
+tech.
+Note 530.
+(3-9)
+1938.
+APPROXIMATE STRESS ANALYSIS OF MULTI-STRINGER BEAMS WITH SHEAR DEFORMA-
+TION of the flanges.
+N.A.C.A. Tech. Rept. 636.
+1939.
+loads imposed on intermediate frames of stiffened shells.
+N.A.C.A. Tech.
+Note 687.
+1939.
+SOME elementary principles of shell stress analysis with notes on the use
+of the shear center.
+N.A.C.A. Tech. Note 691.
+(3-10)
+(3-11)
+(3-12)
+1942.
+a method of calculating bending stresses due to torsion.
+N.A.C.A. Advanced
+Technical Report. (Restricted)
+(3-13)
+Kuhn, P. and Chiarito, P.
+1941.
+lag
+in box beams,
+methods of
+analysis and experimental
+investigations.
+N.A.C.A. Tech. Note 739.
+(Restricted)
+(3-14)
+LUNDQUIST, E. AND SCHWARTZ, E. B.
+1942.
+A STUDY' OF GENERAL INSTABILITY OF BOX BEAMS WITH TRUSS TYPE RIBS.
+N.A.C.A.
+Tech. Note 866.
+(Restricted)
+(3-15)
+Niles, A. S. and Newell, J. S.
+1938.
+airplane structures.
+Second edition John Wiley and Sons,
+Inc.
+(3-16)
+Rowe, C. J.
+1924.
+application of the method OF least WORK TO redundant structures.
+A.C.I.C.
+495.
+(3-17)
+Schwartz, A. M. and Bogert, R.
+1935.
+ANALYSIS OF A STRUT WITH A SINGLE ELASTIC SUPPORT IN THE SPAN, WITH APPLICA-
+TIONS TO THE DESIGN OF AIRPLANE JURY'-STRUT SYSTEMS.
+N.A.C.A.
+Tech. Note
+529.
+(3-18)
+Shanley, P. R. and Cozzone, F. P.
+1941.
+unit method of beam analysis.
+Jour. Aero. Sci. April, 1941.
+(3-19)
+Wagner, H.
+1937.
+THE stress distribution in shell bodies and wings as an equilibrium problem.
+N.A.C.A. Tech. Memo. 817.
+
+--- PAGE 210 ---
+204
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+CHAPTER
+4. DETAIL STRUCTURAL DESIGN
+TABLE OF CONTENTS
+4.0 GENERAL
+205
+4.00
+Introduction
+205
+4.01
+Definitions
+205
+4.010 Solid Wood
+205
+4.011 Laminated Wood
+205
+4.012 Plywood
+205
+4.013 High-density material
+205
+4.1 PLYWOOD COVERING
+205
+4.10
+General
+205
+4.11
+Joints in the Covering
+205
+4.12
+Taper in Thicknessof the Covering .206
+4.13
+Behavior Under Tension Loads
+. .208
+4.14
+Behavior Under Shear Loads
+208
+4. 1 5
+Plywood Panel Size
+209
+4.16
+Cut-Outs
+210
+4.2 BEAMS
+210
+4.20
+Types of Beams
+210
+4.21
+Laminating of Beams and Beam
+Flanges
+213
+4.22
+Shear Webs
+213
+4.23
+Beam Stiffeners
+213
+4.24
+Blocking
+215
+4.25
+Scarf Joints in Beams
+215
+4.26
+Reinforcement of Sloping Grain
+. .215
+4.3
+RIBS
+216
+4.30
+Types of Ribs
+216
+4.31
+Special Purpose Ribs
+216
+4.32
+Attachment of Ribs to the
+Structure
+218
+4.4 FRAMES AND BULKHEADS
+220
+4.40
+Types of Frames and Bulkheads.
+. 220
+4.41
+Glue
+Area
+for
+Attachment
+of
+Plywood Covering
+220
+4.42
+Reinforcement
+for
+Concentrated
+Loads
+220
+4.5 STIFFENERS
+220
+4.50
+General
+220
+4.51
+Attachment of Stringers
+222
+4.52
+Attachment of Intercostals
+222
+4.6 GLUE JOINTS
+222
+4.60
+General
+222
+4.61
+Eccentricities
+222
+4.62
+Avoidance of End-Grain Joints.
+. .223
+4.63
+Gluing of Plywood Over Wood-
+Plywood Combinations
+224
+4.64
+Glui ng of High Density Material
+.224
+4.7 MECHANICAL JOINTS
+224
+4.70
+General
+224
+4.71
+Use of Bushings
+224
+4.72
+Use of High Density Material
+224
+4.73
+Mechanical Attachment of Ribs. .226
+4.74
+Attachment of Various Types of
+Fittings
+226
+4.75
+Use of Wood Screws, Rivets, Nails,
+and Self-Locking Nuts
+226
+4.8 MISCELLANEOUS DESIGN
+DETAILS
+227
+4.80
+Metal to Wood Connections
+227
+4.81
+Stress Concentrations
+227
+4.82
+Behavior of Dissimilar Materials
+Working Together
+228
+4.83
+Effects of Shrinkage
+228
+4.84
+Drainage and Ventilation
+229
+4.85
+Internal Finishing
+230
+4.86
+External Finishing
+231
+4.87
+Selection of Species
+232
+4.88
+Use of Standard Plywood
+232
+4.89
+Tests
+233
+4.9 EXAMPLES OF ACTUAL DESIGN
+DETAILS
+233
+
+--- PAGE 211 ---
+DETAIL STRUCTURAL DESIGN
+4.0. GENERAL.
+4.00. Introduction.
+Detail
+design
+practice
+is
+constantly changing and
+current
+good practice may at any time be obsoleted by some new treatment of a particular
+design problem.
+Therefore, the examples presented on the following pages represent
+only the current methods used in handling problems of design
+details.
+It should be
+remembered, however, that many of these methods have withstood the test of time,
+having been used since the first introduction of wood aircraft.
+4.01. Definitions. The following definitions explain a few general terms which are
+sometimes confused by the wood
+aircraft
+designer.
+Other terms requiring
+definition
+are explained as they appear in the text.
+4.010. Solid Wood.
+Solid wood or the adejctive "solid" used with such nouns as
+beam or spar refers to a member consisting of one piece of wood.
+4.011. Laminated Wood.
+Laminated wood
+is an assembly of two or more layers
+of wood which have been glued together with the grain of
+all layers or laminations
+approximately parallel.
+4.012. Plywood.
+Plywood
+is an assembled
+product
+of wood and glue
+that
+is
+usually made of an odd number of thin plies (veneers) with the grain of each layer at an
+angle of 90° with the adjacent ply or plies.
+4.013. High-Density Material. The term "high density material" as used through-
+out this chapter includes compreg or similar commercial products, heat stabilized wood,
+or any of the hardwood plywoods commonly used as bearing or reinforcement plates.
+4.1 PLYWOOD COVERING.
+4.10. General.
+Nearly all wood aircraft structures are covered with stressed ply-
+wood skin. The notable exceptions are control surfaces and the rear portion of lightly
+loaded wings.
+Shear stresses are almost always resisted by plywood skin, and in many
+cases, a portion of the bending and normal loads is also resisted by the plywood.
+4.1 1. Joints in the Covering.
+Lap, butt, and scarf joints are used for plywood skin.
+When plywood joints are made over relatively large wood members, such as beam
+flanges, it is desirable to use splice plates, often called aprons or apron strips, regardless
+of the type of joint.
+It is desirable to extend the splice plates beyond the edges of the
+flange so that the stress in the skin will be lowered gradually, thus reducing the effect
+of the stress concentration at this point.
+Splice plates
+(fig. 4-1) can be made to do
+double duty if they are scalloped corresponding to rib locations so that they- may act as
+gussets for the attachment of the ribs.
+Scarf joints are the most satisfactory type and should be used whenever possible.
+Scarf splices in plywood sheets should be made with a scarf slope not steeper than
+1
+in 12
+(fig. 4-2). Some manufacturers prefer to make scarf joints in such a way that the
+external feather edge of the scarf faces aft in order to avoid any possibility of the air-
+flow opening the
+joint.
+205
+
+--- PAGE 212 ---
+206
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Figure 4-1.—Use of Splice Plate.
+Acceptable
+Better
+Scarf Joint Made Directly Upon
+Scarf Joint Made
+Solid or Laminated Flange
+Upon Splice Plate
+Figure 4-2.—Scarf Splices.
+If butt joints
+(fig. 4-3) are made directly over solid or laminated wood members,
+as over a spar or spar flange, experience has indicated that there is a tendency to cause
+splitting of the spar or spar flange at the butt joint under relatively low stresses. A
+similar tendency toward cleavage
+exists where
+a plywood
+skin terminates over the
+middle of a wood member instead of at its far edge.
+Lap joints
+(fig.
+4-4)
+are not recommended because of the eccentric load placed
+upon the glue line.
+If this type
+is used
+it should be made parallel to the direction of
+airflow, only, for obvious aerodynamic reasons.
+4.12. Taper In Thickness of the Covering. Loads in the plywood covering usually
+vary from section to section. When this is so, structural efficiency may be increased by
+tapering the plywood skin in thickness so that the strength varies with the load as closely
+as possible
+(fig. 4-5). To taper plywood in thickness, plies should be added as dictated
+
+--- PAGE 213 ---
+DETAIL STRUCTURAL DESIGN
+207
+POOR
+POOR
+BETTER
+SKIN TERMINATES AT THE
+BUTT JOINT DIRECTLY OVER
+SPLICE PLATE
+15 GLUED TO
+MIDDLE OF THE FLANGE
+.
+SOLID OR LAMINATED WOOD
+THE FLANGE AND THE BUTT
+HA5 SAME EFFECT A5"A"
+JOINT
+15 MADE ONTOP OF IT
+Figure 4-3.—Butt Splices.
+A-A
+B-B
+Plan View of Wing Panel
+Lap Joint
+on a Rib at a
+Lap
+Joint Where
+It
+Chordwlse Station Between Beams
+Croesee Beam Flange
+Figure
+4-4.—Lap Splices.
+by increasing loads.
+In doing so, the plywood should always remain symmetrical.
+For
+example, plywood constructed of an odd number of
+plies of equal thickness can be
+tapered, and at the same time maintain its symmetry, by adding two plies at a time.
+This method is suitable for bag molding construction.
+Stress concentrations should be
+avoided by making the change in thickness gradual, either by feathering or by scalloping.
+In bag molding construction, the additional plies are often added internally so that the
+face and back are continuous.
+By Feathering
+By Soalloping
+Figure 4-5.—Tapering Plywood in Thickness.
+
+--- PAGE 214 ---
+208
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+When flat plywood is used, the usual method of tapering skin thickness is to splice
+two standard plywood
+sheets
+of
+different
+thicknesses
+at an appropriate
+rib
+station
+with a slope of scarf not steeper than
+1 in 12 as shown in figure 4-6.
+Figure
+4-6.—Scarfing Plywood of Different Thicknesses.
+4.13. Behavior Under Tension Loads.
+Because the proportional limit in tension
+and the ultimate tensile strength of wood are reached at approximately the same time,
+plywood skin loaded in tension must be designed very carefully.
+Observation of various
+static test articles has indicated that square-laid plywood (plywood laid so that face
+grain is parallel or perpendicular to the direction of the principal bending stresses) has a
+tendency to rupture in tension before the ultimate strength of the structure has been
+reached
+(fig.
+4-7).
+Diagonal plywood, however, seldom ruptures before some other
+structural member fails. The reason for this behavior is probably due partly to the fact
+that none of the fibers of the diagonal plywood are in pure tension. The failure under
+tension load at 45° to the grain is almost entirely a shear failure, and the fibers, which
+have a definite yield beyond the proportional limit in shear, may undergo enough in-
+ternal adjustment to permit the plywood to deflect with the structure until some other
+member becomes critically loaded.
+Square-laid plywood does not yield because some
+of its plies will fail in tension almost immediately after the proportional limit has been
+reached.
+This drawback of square-laid plywood becomes less important when the skin
+is designed to carry a greater proportion of the bending loads.
+For the limiting case of a
+shell structure without flanges, square-laid plywood
+is preferable.
+Rupture of the skin is also influenced by its relative distance from the neutral axis.
+If the beam or beams are located so that part of the skin is appreciably farther from the
+neutral axis than the beam flanges, the skin is more likely to have a premature failure
+than
+if the flanges are located at the greatest outer
+fiber distance.
+Such a condition
+is illustrated by wing spars placed at the 15 and 65 percent chordwise stations of a nor-
+mal airfoil.
+Where the spanwise plies of plywood covering are of a wood species different from
+the beam flanges, it is, of course, desirable that such plies have a ratio of ultimate tensile
+stress to modulus of elasticity equal to or greater than that of the beam flanges.
+4.14. Behavior Under Shear Loads.
+Diagonal plywood
+(face grain at 45° angle
+to the edge of the panel)
+is approximately five times
+stiffer in shear than square-laid
+plywood and somewhat stronger.
+When
+shear strength or stiffness
+is the controlling
+design consideration, diagonal plywood should be used
+(sec. 4.22).
+
+--- PAGE 215 ---
+DETAI Jj STRUCTURAL DESIGN
+209
+Figure 4-7.—Static Test Wing Showing Tension Failure of Plywood Covering.
+4.15. Plywood Panel Size.
+In certain cases the size of plywood panels is dictated
+by the magnitude of directly computable stresses.
+These occur,
+for example,
+in spar
+webs, D-tube nose skin, and fuselage side panels subjected to high shear.
+In many other
+cases, however, the design loads are insignificant.
+It then becomes necessary to choose
+combinations of skin thickness and panel size which will stand up under expected handling
+loads, have acceptable appearance, and aerodynamic smoothness.
+The typical values
+given in table 4-1 have been employed by experienced manufacturers.
+Table
+4-1.
+Typical panel sizes
+Material
+Thickness
+Panel Size
+Location
+Remarks
+Inch
+Mahogany, yellowpoplar core
+Do
+Do
+Do
+Do
+Do
+Do
+Mahogany
+Do
+Yellowpoplar
+Inch
+12 by 24 maximum
+by 10^
+10 by 12
+5 by 9
+11 by 20
+10 by II
+24 or 36 square
+7 by 14
+18 by 24
+14 by 36
+Wing skin.
+do
+do.
+Leading edge skin.
+Vertical fin
+Stabilizer
+Fuselage
+Leading edge skin
+.
+.
+.
+.
+Fuselage
+Wing aft of 50 percent
+chord.
+Spanwise face grain.
+Some curvature required.
+Spanwise face grain.
+Just aft of cabin.
+
+--- PAGE 216 ---
+210
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+4.16. Cut-Outs. When cut-outs are made in plywood skin for windows, inspection
+holes, doors, or other purposes, sharp corners should be avoided, and for all but small
+holes in low-stressed skin, a doubler should be glued to the skin around the cut-out.
+For some types of cut-outs a framework can be installed to carry the shear load and
+doublers need not be used
+(figs. 4-8, 4-9, and 4-10).
+Doubler
+A-A
+Poor
+Bett»r
+Figure 4-8.—Plywood Cut-Outs.
+Stop Nuts Riveted to Doubler
+Stop Nuts
+Set in Routed
+lftood Ring
+X
+Cover Plate
+Section A-A
+Section B-B
+Figure 4-9.—Two Methods of Attaching Inspection Hole Covers.
+4.2. BEAMS.
+4.20. Types of Beams.
+The types of beams shown in figure 4-11 have been used
+frequently as wing spars, control surface spars, floor beams and wing ribs.
+The terms
+"beam" and "spar" are often used interchangeably and both are used in this chapter.
+The wood-plywood beams (box-,
+I-, double I-, and C-) are generally more efficient
+load-carrying members than the plain wood types
+(plain rectangular and routed). A
+discussion of the relative merits of these various beam types
+is presented in succeeding
+paragraphs.
+The box beam is often preferred because of its flush faces which allow easy attach-
+ment of ribs
+(sec. 4.32). The interior of box beams must be finished, drained, and ven-
+tilated.
+Inspection of interiors
+is usually
+difficult.
+The shear load in a box beam
+is
+
+--- PAGE 217 ---
+Figure 4-10.—Methods of Carrying Torsion Loads Around Hinge Cut-Outs in Control Surfaces.
+
+--- PAGE 218 ---
+212
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+BOX
+*T
+DOUBLET
+*C"
+PLAIN RECTANGULAR
+ROUTED
+Figure 4-11.—Types of Beams.
+carried by two plywood webs. By checking shear web allowables by the method given
+in section 2.72,
+it will be seen that for the same panel size a plywood shear panel half
+the thickness of another will carry
+less than half the shear load which can be carried
+by the thicker panel.
+The preceding statement points to an outstanding advantage of the I-beam since
+its shear strength
+is furnished by a single shear web rather than the two webs required
+of a box or double I-beams.
+Also, the I-beam produces a more efficient connection be-
+tween the web and flange material than the box beam in cases where the web becomes
+buckled before the ultimate load
+is reached.
+This
+is because the clamping action on
+the webs tends to reduce the possibility of the tension component of the buckled web
+cleaving it away from the flange.
+The double I-beam
+is usually a box beam with external flanges added along that
+portion where the bending moments are greatest.
+This type allows a given flange area
+to be concentrated farther from the neutral axis than other types.
+The C-beam affords one flush face for the flush type of rib attachment but
+it
+is
+unstable under shear loading.
+C-beams are generally used only as auxiliary wing spars
+or control surface spars.
+Plain rectangular beams are generally used where the saving in weight of the wood-
+plywood types is not great enough to justify the accompanying increase in manufactur-
+ing trouble and
+cost.
+This
+is usually the case for small wing beams,
+control-surface
+beams, and beams that would require a great deal of blocking.
+
+--- PAGE 219 ---
+DETAIL STRUCTURAL DESIGN
+213
+Routed beams are somewhat lighter than the plain rectangular type for the same
+strength but not so
+light as wood-plywood
+types.
+Usually this small weight saving
+does not justify the increase in fabrication effort and cost.
+In determining the relative efficiency of any beam type,
+reduction
+in
+allowable
+modulus of rupture due to form factors must be considered.
+4.21. Laminating of Beams and Beam Flanges. Beam flanges and plain rectangu-
+lar and routed beams can be either solid or laminated. A detailed discussion of methods
+of laminating beams and beam flanges
+is presented in section 2.4 of ANC Bulletin
+19,
+Wood Aircraft Inspection and Fabrication
+(ref. 2-4).
+Since the tension strength of a wood member
+is more adversely affected by any
+type of defect than is any other strength property,
+it
+is recommended that all tension
+flanges be laminated in order to minimize the effect of small defects and to avoid the
+possibility of objectionable defects remaining hidden within a solid member of large
+cross section.
+4.22. Shear Webs.
+Although square-laid plywood has been used extensively
+as
+shear webs in the past, the present trend is to use diagonal plywood
+(fig. 4-12) because
+it is the more efficient shear carrying material
+(sec. 4.14).
+It is desirable to lay all diagonal plywood of an odd number of plies so that the face
+grain is at right angles to the direction of possible shear buckles.
+In this way the shear
+web will carry appreciably higher buckling and ultimate loads because plywood is much
+stiffer in bending in the direction of the face grain and offers greater resistance to buckling
+if laid with the face grain across the buckles
+(fig. 4-13).
+This effect is greatest for 3-ply
+material.
+Figure 4-14 illustrates various methods of splicing shear webs.
+If the splices are
+not made prior to the assembly of the web to the beam, blocking must be inserted at the
+splice locations to provide adequate backing for the pressure required to obtain a satis-
+factory glue joint.
+4.23. Beam Stiffeners.
+Shear webs should be reinforced by
+stiffeners at frequent
+intervals as the shear strength of the web depends partly upon stiffener spacing
+(fig.
+4-15).
+In addition to their function of stiffening the shear webs, the ability of beam
+stiffeners to act as flange spreaders
+is very important and care must be exercised to
+provide a snug
+fit between the ends of the stiffeners and the beam flanges.
+External
+stiffeners for box beams are inefficient because of their inability to act as flange spreaders.
+Stiffeners are usually placed at every rib location so that the web will be stiffened
+sufficiently to
+resist rib-assembly pressures.
+Square-laid Plywood
+Diagonal Plywood
+Figure 4-12.—Types of Shear Webs.
+
+--- PAGE 220 ---
+214
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+the lace
+ply of the web
+^
+Figure 4—13.—Orientation of face grain direction of diagonal plywood shear webs.
+Butt Joint with
+Simple Scarf Joint
+Diagonal Scarf Joint
+Splice Plate
+Figure 4-14.—Methods of Splicing Shear Webs
+-5tiffener of solid or laminated^— ladder type stiffener;
+^— ply wood web wfth corner
+wood; lightening holes are often
+wood vertical stiffeners
+blocks , holes are often
+drilled to reduce weight oh the
+are separated br "plywood cut in web to reduce
+piece may be routed
+strips
+weight
+Figure 4-15.—Typical Stiffeners for I and Box Beams.
+
+--- PAGE 221 ---
+DETAIL STRUCTURAL DESIGN
+215
+4.24. Blocking. Any blocking;, introduced for the purpose of carrying fitting loads
+(fig. 4-16), should be tapered as much as possible to avoid stress concentrations.
+It
+is
+desirable to include a few cross-banded laminations in
+all blocking in order to reduce
+the possibility of checking.
+Poor
+Better
+I
+o
+o
+!
+o
+i
+»
+o
+'
+o
+o
+Figure 4-16.—Bearing Blocks in Box Spar.
+4.5. SCARF-JOINTS IN BEAMS.
+The
+following
+requirements
+should
+be
+ob-
+served in specifying scarf joints in solid or laminated beams and beam flanges:
+1. The slope of all scarfs should be not steeper than 1 in 15. The proportion of end
+grain appearing on a scarfed surface is undesirably increased if the material to be spliced
+is somewhat cross-grained, and the scarf
+is made "across" rather than in the general
+direction of the grain
+(fig. 4-17).
+For this reason it is very desirable that the following
+note be added to all beam drawings showing scarf joints:
+Where cross grain loithin the specified acceptable limits is present, all scarf cuts should
+be made in the general direction of the grain slope.
+A
+/A/CORRECT
+8
+INCORRECT
+C
+CORRECT
+Figure 4-17.—Relationship Between Grain Slope and Scarf Slope.
+2.
+In laminated members the longitudinal distance between the nearest scarf tips
+in adjacent laminations
+shall be not
+less than
+10 times the thickness of the thicker
+lamination
+(fig. 4-18).
+In addition to the previously mentioned specific requirements,
+it
+is recommended
+that the number of scarf joints be limited as much as possible; the location be limited
+to the particular portion of a member where margins of safety are most adequate and
+stress concentrations
+are not
+serious; and
+special care be exercised
+to employ good
+technique in
+all the preparatory gluing, and pressing operations.
+4.26. Reinforcement of Sloping Grain.
+Where
+necessary
+tapering
+produces
+an
+angle between the grain and edge of the piece greater than the allowable slope for the
+
+--- PAGE 222 ---
+216
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+L
+I
+"t"
+is
+the thicknesB of the
+thicker lamination.
+1
+Figure 4-18.—Minimum Permissible Longitudinal Separation of Scarf Joints in Adjacent Laminations.
+particular species, the piece should be reinforced to prevent splitting by gluing plywood
+reinforcing plates to the faces
+(fig. 4-19).
+Figure 4-19.—Solid Wing Spar at Tip.
+4.3. RIBS.
+4.30. Types of Ribs.
+Rib design has changed very
+little for several years.
+See
+N.A.C.A. Technical Report 345
+(ref. 2-23).
+The more common types are the plywood
+web, the lightened plywood web, and the truss. The truss type is undoubtedly the most
+efficient, but lacks the simplicity of the other types.
+For fabric-covered wings the ribs are usually one piece with the cap strips con-
+tinuous across the spars.
+When plywood covering
+is used the
+ribs are usually con-
+structed in separate sections
+(fig. 4-20).
+Continuous gusset stiffen cap strips in the plane of the rib.
+This aids in preventing
+buckling and helps obtain better rib-skin glue joints where nail gluing
+is used because
+such a rib can
+resist the driving force of nails better than other types.
+Continuous
+gussets
+(fig. 4-21) are more easily handled than the many small separate gussets other-
+wise required.
+Any type of rib may be canted to increase the torsional rigidity of a structure such
+as a wood-framework, fabric-covered control surface
+(fig. 4-22).
+Diagonals loaded
+in compression are more satisfactory than diagonals loaded
+in
+tension since tension diagonals are more difficult to hold at the joints.
+4.31. Special Purpose Ribs.
+Where
+concentrated
+loads
+are
+introduced,
+as
+at
+landing gear or nacelle attachments, bulkhead-type
+ribs can be used
+to advantage.
+
+--- PAGE 223 ---
+DETAIL STRUCTURAL DESIGN
+217
+,—RIB CAP5 CONTINUOUS ACR055 5PAR5
+LIGHTENED
+PLYWOOD WLB
+TYPE.
+Figure 4-20.—Typical Wing Ribs.
+Figure 4-21.—Rib Employing Continuous Gussets.
+Figure 4-22.—Control Surface Employing Canted Ribs.
+
+--- PAGE 224 ---
+218
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+When this is the case, the rib acts as a chordwise beam, and the principles presented in
+section 4.2 will apply
+(fig. 4-23).
+B-i
+A—
+1
+Figure 4-23.—Special Purpose Ribs.
+4.32. Attachment of Ribs to the Structure.
+In general, ribs are glued to the adja-
+cent structure by means of corner blocks, plywood angles or gussets, or in special cases,
+by some mechanical means.
+These are all shown in detail in figures 4-24, 4-25, 4-26,
+4-27, 4-34, and 4-39.
+Figure 4-24.—Typical Rib Attachments to Flush Surface Beams.
+Although the attachment of ribs to I-beams may complicate the rib design, many
+engineers believe that the mechanical shear connection obtained by notching the ribs
+so that the end may be inserted between the I-beam flanges
+is an advantage since the
+shear connection
+is not dependent upon quality of the glue joint between the rib and
+
+--- PAGE 225 ---
+DETAIL STRUCTURAL DESIGN
+219
+the beam shear web.
+This type of connection
+is shown in figure 4-25. The rib vertical
+also acts as a stiffener for the beam shear web and as a flange spreader.
+LYWOOD PLATE
+THESE CORNER BLOCKS
+ARE OFTEN OMITTED
+CORNER BLOCK
+Figure 4-25.—Typical Rib Attachment to I-Beam.
+CORNER BLOCK EXERT5
+PRESSURE AGAINST BOTH
+THE BEAM AND THE RIB
+VERTICAL MEMBER
+\i_ MEMBER 15 GLUED
+TO THE BEAM BEFORE RIB ATTACHMENT
+TO ACT A5 A LOCATING FIXTURE
+Figure 4-26.—Use of Rib Vertical as Locating Fixture.
+
+--- PAGE 226 ---
+220
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+The end
+rib verticals
+of plywood web type
+ribs are sometimes preassembled to
+plain rectangular spars to act as locating members for rib-to-spar assembly.
+This
+is
+shown in figure 4-26.
+Preassembled locating corner blocks might also be used to ad-
+vantage in other types of rib-to-spar attachments
+if care is taken to provide sufficient
+backing for plywood webs to which corner blocks are being glued so that sufficient gluing
+pressure can be obtained.
+Canted ribs may be attached to beam members by beveling the ends of the ribs
+or by using corner blocks as shown in figure 4-27.
+Figure 4-27.—Typical Canted Rib to Spar Attachment
+4.4. FRAMES AND BULKHEADS.
+4.40 Types of Frames and Bulkheads.
+No one type of frame or bulkhead seems
+to be the best for all types of loading, but the laminated ring is probably the best type
+for use as an intermediate stiffening frame.
+Frames or bulkheads are usually made of
+formed laminated wood, cut or routed from plywood, or are a combination of the two
+(fig. 4-28).
+4.41. Glue Area for Attachment of Plywood Covering.
+Care must be taken when
+using the routed plywood type of bulkhead that the plywood edge provides sufficient
+gluing area for the skin.
+It is often necessary to glue solid wood to the face of the ring
+near its edge to provide additional gluing surface.
+This is illustrated in figure 4-29.
+4.42. Reinforcements for Concentrated Loads. When concentrated loads are car-
+ried into a frame it may be desirable to scarf in some high-density material and brace
+the frame with a plywood web or solid truss members.
+4.5. STIFFENERS.
+4.50. General. The terms "stringer," "stiffener," and "intercostal" are often used
+interchangeably.
+In the following
+discussion, "stringer"
+will
+refer to members con-
+tinuous through ribs and frames and "intercostal"
+will refer to members terminating
+at each rib or frame.
+The term "stiffener" will not be used, since both stringers and
+intercostals act as stiffeners.
+
+--- PAGE 227 ---
+DETAIL STRUCTURAL DESIGN
+Section A-A
+Figure 4-29.—Use of Glue Blocks with Routed Plywood Bulkhead.
+
+--- PAGE 228 ---
+222
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+4.51. Attachment of Stringers.
+Ribs or frames must be notched
+if stringers are
+used. A method of reinforcing these notches and fastening the stringers to the rib or
+frame is illustrated in figure 4-30. Attachments may also be made by one of the methods
+shown in figure 4-34.
+A'-i
+- R»inforeenant
+Figure 4-30.—Stringer Through Frame Joint.
+4.52. Attachment of Intercostals.
+All
+intercostals should be firmly attached
+to
+ribs or frames.
+Figure 4-31
+illustrates the undesirable practice of terminating inter-
+costals some distance from the rib or frame.
+This usually results in cleavage along the
+glue line starting at the free end of the intercostal.
+It
+is better to butt the stiffeners to
+the rib or frame and fasten them with saddle gussets as illustrated in figure 4-32 or by
+one of the attachments shown in figure 4-34.
+Figure 4-31.—Poor Method of Intercostal Attachment.
+Figure 4-32.—Acceptable Method of Intercostal Attachment.
+4.6. GLUE JOINTS.
+4.60. General.
+Glue joints should be used for
+all attachments of wood to wood
+unless concentrated loads, cleavage loads, or other considerations necessitate the use
+of mechanical connections.
+4.61.
+Eccentricities.
+Eccentricities and tension components should be avoided in
+glue joints by means of careful design.
+Figure 4-33 illustrates an example of an eccen-
+tricity and a method of avoiding
+it.
+
+--- PAGE 229 ---
+DETAIL STRUCTURAL DESIGN
+223
+Skin
+Frame
+1
+.— Frame should be thick enough
+to keep stresses
+In the glue
+P
+line
+low.
+Plywood Gusset.
+An alternate
+method
+is
+to carry an inside
+skin to the
+next
+frame,
+form-
+ing a symmetrical box structure.
+Figure 4-33.—Joint in a Shell Structure.
+4.62. Avoidance of End Grain Joints.
+End grain glue joints will carry no appre-
+ciable load.
+Strength is given to such a joint by using corner blocks or gussets as shown
+in figure 4-34.
+These sketches are typical of joints encountered in joining rib members,
+in attaching ribs to beams or intercostals to frames, or any other similar application.
+Square
+Triangular
+Corner Blocks
+Quarter-Round
+lywood gusset should
+lap far enough so that
+the
+glue area
+is
+suf-
+ficient
+to keep the
+stresses
+low.
+Plywood Angle
+Plywood Gusset
+Figure 4-34.—Typical Reinforcement of End Grain Joints.
+
+--- PAGE 230 ---
+224
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+4.63. Gluing of Plywood over Wood-Plywood Combinations.
+Many secondary
+glue joints must be made between plywood covering and wood-plywood structural mem-
+bers having plywood edges appearing on the surface to be glued. Wood-plywood beams
+or wing ribs employing continuous gussets are examples of such members. The plywood
+edge has a tendency to project above the surface thereby preventing contact between
+the plywood covering and the wood portion of the wood-plywood surface. This condition
+can be the result of differential shrinkage between the wood and plywood or may be
+caused by the surfacing machine having a different effect cutting across the grain of the
+plywood from cutting parallel to the grain of the wood.
+Figure 4-35 shows this condition
+and shows how it can be eliminated by beveling the edges of the plywood.
+Figure 4-35.—Beveling of Plywood Webs and Gussets.
+4.64. Gluing of High-Density Material.
+Better glue
+joints can be obtained
+be-
+tween a high-density material and a relatively soft wood
+if the surface of the high-
+density material is sanded before gluing. The purpose of sanding is to remove the glazed
+surface present on high-density material and present on some plywoods.
+Satisfactory
+compreg-to-compreg joints can be made
+if both surfaces are machined perfectly
+flat
+immediately prior to gluing.
+4.7. MECHANICAL JOINTS.
+4.70. General.
+Mechanical Joints in wood are usually limited to types employing
+aircraft bolts.
+Since bolts in wood can carry a much higher load parallel to the grain
+of the wood than across the grain, it is generally advantageous to design a fitting and its
+mating wood parts so that the loads on the bolts are parallel to the grain. The use of a
+pair of bolts on the same grain line, carrying loads perpendicular to the grain and oppo-
+sitely directed,
+is likely to increase the tendency to split. When a long row of bolts is
+used to join two parts of a structure, consideration should be given to the relative de-
+formation of the parts, as explained in section 4.82.
+4.71. Use of Bushings.
+Bushings are often used
+in wood to provide additional
+bearing area and to prevent crushing of the wood when bolts are tightened
+(fig. 4-36).
+When bolts of large L/D (length/diameter) ratio are used, or when bolts are used through
+a member having high-density plates on the faces, plug bushings may be used to advantage.
+4.72. Use of High-Density Material.
+Wherever highly concentrated loads are in-
+troduced, greater bearing strength can be obtained by scarfing-in high-density material
+(sec. 4.63). Some high density materials are quite sensitive to stress concentrations and
+the possibility of the serious effects of such stress concentrations should be considered
+when large loads must be carried through the high-density material.
+
+--- PAGE 231 ---
+DETAIL STRUCTURAL DESIGN
+225
+Through bushing made
+slightly shorter than
+the width of
+the beam.
+Throurh Bushing
+Plug Bushing
+Figure 4-36.—Types of Bushings.
+Wherever metal fittings are attached to wood members, it is generally advisable to
+reinforce the wood against crushing by the use of high-density bearing plates
+(fig. 4-37),
+and to use a coat of bitumastic or similar material between the wood and metal to guard
+against corrosion.
+Cross banding of these plates will help to prevent splitting of the solid
+wood member.
+1
+1
+:
+1
+if
+i
+i—
+i—
+l—
+OfiBBS
+High Density
+Material
+Metal Fitting
+Cross Banded Filler Block
+Figure 4-37.—Typical Wing Beam Attachment.
+
+--- PAGE 232 ---
+226
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+HIGH DENSITY
+BEARING PLATE
+Fioure 4-38.—Distribution of Crushing Loads.
+4.7 3. Mechanical Attachment of Ribs.
+When
+ribs carry heavy or concentrated
+loads it is sometimes desirable to insure their attachment by use of mechanical fastenings
+(fig. 4-39).
+TO
+TO THE! SPAR BY MEAN5 OF
+TO THE. SPAR BY MEAN5 OF
+METAL ANGLES.
+METAL CLIPS
+Figure 4-39.—Mechanical Attachment of Ribs.
+4.74. Attachment of Various Types of Fittings.
+Fittings should have wide
+base
+plates to prevent crushing at edges. Wood washers have a tendency to cone under tight-
+ening loads. Where possible,
+it is desirable to use washer plates for bolt groups, as illus-
+trated in figure 4-40, but if washers are used, a special type for wood, AN-970 or equiva-
+lent, are necessary to provide sufficient bearing area.
+Clamps around wood members should be constructed so that they can be tightened
+symmetrically
+(fig. 4-41).
+,
+4.7 5. Use of Wood Screws, Rivets, Nails, and Self-Locking Nuts. Wood screws
+and rivets are sometimes used for the attachment of secondary structure but should not
+be used in connecting p

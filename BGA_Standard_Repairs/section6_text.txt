@@ -1,0 +1,908 @@
+# BGA Standard Repairs Section 6 — Weighing
+# (OCR extracted)
+
+
+--- PAGE 1 ---
+SECTION 6
+
+THE WEIGHING OF GLIDERS
+By Cedric Vernon
+
+--- PAGE 3 ---
+() METHOD B = AFT WHEEL LOCATION
+REAR SUNG
+
+Section 6—Page J
+
+(UL) METHOD © = NORMAL WHEEL LOCATION
+REAR SLING |
+
+{4} METHOD B= AFT WHEEL LOCATION,
+NOSE SUPPORT
+
+Figd. ALTERNATIVE SUPPORT METHODS.
+
+(2) SINGLE BALANCE (u) Two BALANCES
+
+FIG 2. FORWARD SLING - ALTERNATIVE METHODS.
+
+DATUM
+ES
+
+Pho We
+
+Figs. LOADING DIAGRAM, SINGLE SEATER OR
+SDE BY Sie “Two SEATER
+
+F1G.4. LOADING DIAGRAM, TANDEM Two SEATER
+
+
+--- PAGE 4 ---
+Section 6—Page 2
+
+THE WEIGHING OF GLIDERS
+
+1, Introduction
+The paper has been written with the object of collecting together the major and, as far
+as possible, the minor points in both the theory and practice of glider weighing. It is
+hoped that it will prove helpful to those who have to carry out weighings, not only
+with respect to working out the answers, but in the way to tackle the actual job to obtain
+accurate and consistent results.
+
+In paragraphs 5 and 6, the necessary mathematical formulae are derived. The
+various symbols are defined when first introduced, and a complete list is also given at
+the end of the paper, but before the appendices, for handy reference,
+
+2. Object of Weighing .
+
+The object of weighing any glider is to determine the empty weight and C.G. position,
+and thence the loading limitations needed to ensure that the weight and C.G. of the
+loaded glider do not exceed the permissible limits. The latter will have been decided by
+the certificating authority in conjunction with the designer and the flight test group
+which does the flight tests. .
+
+The division of the total or all-up-weight into its two components empty weight
+and load is to a certain extent arbitrary, though clear enough. The empty weight is the
+weight of the airframe and all fixed instruments and equipment including oxygen and
+radio if fitted. The load is the pilot plus all loose equipment that is likely to vary between
+one flight and another, i.e. parachute, loose cushions, maps, food and drink. Ballast
+attached more-or-less permanently to the structure is usually counted in the empty
+weight, but any ballast which is regularly moved, removed or refitted according to
+whether the machine is to be flown by a light or heavy pilot is generally better regarded
+as load. Such things as barograph and camera may be considered as empty weight or
+load .as desired—it does not matter which so long as they are not forgotten, and so
+Jong as the weight records in the aircraft Jog-book make it clear.
+
+3. Importance of Correct Weight and C.G.
+The importance of the all-up-weight limitation is obvious enough. The glider is designed -
+to have a specified safety factor over the loads arising in manoeuvres of a specified
+severity. The loads in many of the design manoeuvres vary with weight, the variation
+being in some cases rather greater than that of direct Proportion. Any increase in weight
+above the permitted maximum therefore eats into the sal ety factor in such manoeuvtes,
+The importance of the C.G. limits is that the C.G. Position affects some of the
+flying characteristics, With the C.G. in front of the forwar limit, the up elevator power
+may be insufficient for landing or for aerobatics, and if no trimmer is fitted an undue
+pull force on the stick may be required even at normal low speeds, Strength factors are
+also affected though usually only to a small degree. With the C.G. aft of the aft limit,
+the down elevator power may be inadequate for recovery from stalls or cable breaks,
+longitudinal stability will be reduced and may become negative, and stalling and spinning
+behaviour may be adversely affected. In this case strength is not usually critical. Put
+briefly, if the C.G. is too far forward the glider may be tiring to fly and difficult to land,
+and if the C.G. is too far aft it may be not only difficult to fly but dangerous.
+
+4. Weighing Methods
+Broadly, the weighing process consists of supporting the glider effectively at two points,
+one of which is in front of the C.G. and the other behind it, and noting the reactions
+at the supports and the distances of the latter from the datum to which C.G, positions
+are to be related. In some cases (see 4.4 below) use of a false datum may have to be made,
+There are two main methods of support:
+A— By front and rear hanging balances or scales—see Fig. I{a). :
+B — By a platform scale under the main wheel and a rear (or in some cases a
+forward) support—see Figs. 1(b) to (d).
+
+
+--- PAGE 5 ---
+Section 6—Page J
+
+In method A, the front support may be a single spring balance with a bridle or a
+pair of balances with an open loop, as shown in Fig. 2(a) and 2(b) respectively. Arrange-
+ment (b) may be essential for two-seaters in order that the load may be coped with by
+the 400 Ib, balances normally used by gliding clubs. Where the load is small.enough,
+as with most single seaters, arrangement (a) is usually used and can yield satisfactory
+results, but arrangement (b) is recommended for all cases if an extra balance is available,
+as it confers lateral constraint and so prevents undue rolling about—wing-tip holding
+is eliminated.
+
+In method B, the secondary support depends on the location of the main wheel.
+* If the latter is ahead of the empty C.G., as usual, there can be a rear sling as in Method
+A—Fig. 1(b). If the wheel is aft of the empty C.G., two arrangements are possible.
+Either a rear sling can be used, with some jury ballast hung below it to give a positive
+load, i.e. to prevent the tail from rising—Fig. 1(c)—or a nose support, as in Fig. 1(d),
+In Fig. I, the secondary support is shown as a sling in cases (a), (b) and (c), and as
+a small platform scale in case (d). If desired, a platform scale could equally well be used
+in cases (a) and (b), say under the tail skid, or a sling in case (d). The calculations are
+not affected by which type of secondary support is chosen, Case (c) also could be adapted
+to use a platform scale for the secondary support, but would then have complications,
+and the proper thing to do if the wheel is aft and it is desired to use platform scales for
+both supports is to use case (d).
+
+For platform-type secondary supports, bathroom scales have sometimes been used,
+but should be employed only if it is quite certain that they are in good condition and
+if they are calibrated by means of known weights at two levels bracketting the scale
+reading required.
+
+4.1, Method A—Front and Rear Slings :
+
+For the highest accuracy in finding the C.G, position the front sling should be
+as close to the C.G. as possible, or more correctly the ratio of the distance between
+CG. and rear sling to the distance between C.G. and front sling should be as
+large as possible. This is most nearly achieved when the front sling is placed
+adjacent 10 the wing leading edge, and this is what is recommended where it is
+
+racticable.
+
+P When the glider is suspended, the slings should be as nearly vertical as possible.
+Now if one sling is not vertical, the horizontal component of its load must be
+balanced by an equal and opposite horizontal component of the load in the other;
+the latter cannot therefore be vertical either. Hence, if the first sling is vertical,
+there is no horizontal component of load, and the other sling must be vertical also.
+Therefore it is only necessary to check the verticality of one sling, and since if the
+slings are inclined the one carrying the smaller load will be at the larger angle to
+the vertical, i.e. the one in which the error is easier to detect, this is the one to check.
+Normally this will be the rear sling. It is usually satisfactory to take a sight against
+a suitable girder or brick wall, but if there is any doubt a plumb line should be used.
+
+The slings should, of course, be so placed round the fuselage as to eliminate or
+minimise any squeezing loads which might cause damage, i.e, should be at or at
+least close to a frame, and the front sling may have to be a little forward of the
+leading edge for this reason. If a single balance is used for the front sling a spreader
+bar above the fuselage will be required. Normally the canopy will be fitted, and the
+spreader must be suitably secured to the sling to prevent it from slipping down and
+causing damage. If the canopy is removed the spreader can rest on the longerons.
+Jf necessary a spreader can be used under the fuselage also, and since this one will ~
+be subjected to considerable bending loads it must be of ample strength.
+
+Where the slings are of coarse rope or wire, as is often the case, suitable felt or
+rag padding should be used to protect the finish of the glider.
+
+If the rear support is a sling it must be checked for verticality as described.
+If it is a bathroom scale, it must be packed as necessary to ensure that the platform
+is level; in this case the front support must be checked for verticality.
+
+--- PAGE 6 ---
+Section 6—Poge ¢
+
+4.2. Method B—Platform Scale .
+
+With this method, there is less to say about the support details. The platform
+must, of course, be properly level and free in action. If a wheel brake is fitted to
+the glider, it must be off and free if the rear support provides fore and aft constraint,
+or an error in C.G. position may be introduced due to the torque; if there is no such
+constraint the point is immaterial because no torque can be reacted.
+
+Ona few aircraft, the empty C.G. is ahead of the wheel. In such cases, if method
+B is to be used, either suitable ballast will have to be secured under the rear sling
+to ensure a positive rear-support load, and allowed for in the calculations, or a
+nose support must be used. .
+
+If the glider has no wheel but only a skid, a suitable fulcrum bar must be placed
+between the skid and the platform, located at or adjacent to a strong-point and as
+near the C.G. as practicable. Unless a suitable load-spreader is used, the fulcrum
+should not be too sharp-edged, or the skid may be damaged, but should have a
+radius of say a quarter to half an inch. In this skid case, the rear support must be
+free horizontally to avoid the possibility of error due to friction torque,
+
+4.3. Precautions Applicable to both Methods
+
+Whichever method of support is used, there are certain additional precautions
+to be taken. First, the glider should be in the standard empty condition or as near
+to this as is possible, both in the intetests of accuracy and to minimise subsequent
+calculation. Secondly, unless the day is absolutely still the hangar doors should be
+closed or mose or less closed to eliminate wind loads. Thirdly, except when three
+balances are used a wing-tip holder will usually be required to prevent lateral
+rocking while the balances are being read, and it is essential that he holds the wing
+lightly between finger and thumb at the angle of bank which corresponds to zero
+load, which in general will not be 0 degrees since it will depend on the precise
+way in which the glider sits in the sling. Fourthly, the aircraft should be supported
+approximately at the correct attitude.
+
+The last point needs some amplification. The correct attitude is normally speci-
+fied by the manufacturers. For old gliders the information may not be available,
+and in such cases a sensible-looking attitude should be used; it is recommended
+that the wing lower surface, from spar to trailing-edge at or near the root, should
+be horizontal, Fortunately the vertical position of a glider C.G. is usually similar
+to the vertical position of the datum point, and this means that any error in attitude
+only affects the horizontal C.G. distance by a simple cosine factor and for such
+cases an accuracy of 2° to 3° is sufficient. Where the datum point is not the wing
+leading edge the above may not apply and the attitude should be set up as accurately
+as possible,
+
+4.4, Taking the Readings
+
+The glider having been supported -by one of the methods described, and it
+having been ensured that it is free but steady (if it is not free, the readings may be
+false, and if it is not steady they will be variable), the actual measurements may .
+be taken.
+
+Balance readings should be noted to the nearest half pound—the weight will
+not be stable to such a limit or anywhere near it, but the C.G. is sensitive to quite
+small errors in the secondary support load.
+
+Distances should be taken from the centres of the supports, and averages
+taken of the values measured on the port and starboard sides of the glider. Where
+platform scales are used, fine chalk marks must be made on the platform surface
+on both sides of the wheel, at the feet of plumb-bobs from the datum point (again
+on both sides) and from the rear or nose support as applicable, In this case, the
+averaging must be done by marking off the centres of the lines joining each pair of
+chalk marks after the glider has been moved out of the way. The three centres
+should be collinear, and the measurements made along the line joining them. The
+
+
+--- PAGE 7 ---
+Section 6—Page 5
+
+distance from the front sling or main wheel to the datum should be correct to
+0-05 in. if possible, certainly to 0-1 in., but the distance between the two supports
+need only be accurate to 0-5 in. as a rule.
+
+On many gliders the datum taken is the leading edge at the wing root. On
+these gliders the measurements can be made directly without difficulty; when using
+platform scales for the main support the plumb-lines, of cotton or thin string, are
+simply draped over the wing. Where some other datum is used, e.g. the spar, it is
+often more convenient to take measurements from the leading edge as usual, and
+then (removing the canopy if necessary) to make a separate measurement of the
+distance between the leading edge and the specified datum. The support distances
+may then be corrected appropriately.
+
+After the glider has been moved, the zero readings of all balances or scales
+past be noted—they are subtracted from the previous readings to obtain the actual
+loads.
+
+5, Calculation of Empty Weight and C.G. Position
+This consists of two parts:
+
+(a) The calculation in the condition as weighed.
+
+(b): The correction to the standard empty condition.
+
+As indicated above, the glider should preferably be weighed in the standard empty
+condition, i.e. with all the fixed instruments and equipment in position and all load
+items removed, In many cases this will be so, and in such cases step (b) is unnecessary,
+
+It is recommended that the weight be expressed to the nearest pound and the C.G.
+to the nearest 0-1 in. or at the best 0-05 in. Any greater precision is quite unjustified
+either by experimental accuracy or, for wooden machines, the stability of the moisture
+content of the timber. :
+
+5.1. Empty Condition as Weighed
+There are four different configurations as illustrated in Fig. 1, according to the
+precise method used for supporting the glider, but the symbols can be the same in
+all four, with one exception as noted.
+Let F = front support load.
+R = rear support load.
+J = weight of jury ballast.
+E = empty weight, as weighed.
+a = distance frora front sling to datum (in Method A), or from platform
+load to datum (in Method B including its variations).
+1 = distance from front support to rear support,
+x, = distance of empty C.G., as weighed, aft of datum.
+
+Note that when using method B, ais taken from the platform support position
+irrespective of whether the platform is the front support (the usual case) or the rear
+support (as in the case of the empty C.G, being ahead of the wheel).
+
+The formulae are however slightly different in the various configurations, and
+it is important not to mix them up.
+
+Method A—Fig. \(a)
+
+By vertical forces E=F+R
+By moments about F E(at+x)=R1
+whence x =Rl-a=Il_R —a@ naa, 1
+E » (F+R)
+Method B
+Normal case with C.G. aft of wheel, or aft of skid support—Fig. 1(6)
+By vertical forces E=F4-R
+By moments about F E(x,—a)=Rl
+whence M=Rita=1 Ro +a aan, 2
+
+E (F+R)
+
+
+--- PAGE 8 ---
+Section 6—Page 6
+
+C.G. ahead of wheel, jury ballast at rear sling—Fig. 1(c)
+
+By vertical forces E=F+R—J
+By moments about F E (a—x.)=(J—R) |
+whence x, =a—-{(J-—-R) l=a-—-(J-R) Is, 3
+
+J:
+E (F+I-R)
+Alternatively J may be treated as an item of load and deducted by the micthod
+given in 5.2 below. .
+C.G. ahead of wheel, glider supported at nose—Fig. 1(d).
++
+
+By vertical forces E=F.
+By moments about RE (a—x.)=F I -
+whence x =a-Fl=a—_ Fo ob ae 4
+E (F+R)
+
+A set of worked examples is given in Appendix 1.
+
+5.2. Correction to Standard Empty Condition
+If the glider is weighed in the standard empty condition, the weight and C.G,
+position as weighed are also the corrected or standard values. If, however, some
+equipment is missing (e.g. one or more instruments removed for calibration) or
+some removable load is present (e.g. parachute left in) the correction is made as
+- follows:
+Each item or group of items is weighed, and the distance of its C.G. from the
+datum point is measured. :
+Let E' and x! be the weight and C.G. position as weighed, and
+E and x, be the corrected or standard values.
+Let w, w, etc.=weights of missing or surplus items.
+X1, %; etc. =distance of missing or surplus items from datum point, +-ve
+if aft of it and —ve if in front.
+Then by vertical forces:
+E=E'+w, etc. for missing items
+—w, etc. for surplus items
+and by moments about the datum: .
+Ex,=E' x'4+-w, x, ete. for missing items
+—w,x, ete. for surplus items
+Then x, is found by dividing E into the total moment.
+A worked example is giver in Appendix 2.
+
+6. Loading Limitations :
+The calculations differ to some extent according to the number and layout of the seats
+in the glider. There are two cases: :
+
+(1). Single-seater and side-by-side two-seaters. These are taken together because
+there is only one cockpit C.G, and hence a single set of formulae is applicable
+to both. . :
+
+if the seat and/or seat back is adjustable in position fore and aft, the
+cockpit C.G. is different for each position. For the highest accuracy account
+should be taken of this. To do so means making calculations for all the seat
+positions and placarding the several answers. In the ordinary case, however,
+it is sufficiently accurate to take one mean, or slightly aft position—say, the
+middle one of three equally spaced, or the third from the front of four equally
+spaced,
+
+(2) Tandem two-seaters. These have two cockpit loads to be considered, and the
+two cockpit C.G’s. are different. This introduces additional terms in the
+formulae and the limits for the load in one cockpit depend on the load in the
+other. Thus it is necessary to determine the maximum and minimum loads in
+one cockpit for a series of loads in the other. Normally the rear cockpit is
+
+
+--- PAGE 9 ---
+Sectloa (—Page 7
+
+near the C.G, of the loaded aircraft, and for this reason it is convenient to
+take the rear cockpit load as the independent variable, i.e. to take arbitrary
+values for this and then calculate the corresponding front cockpit load limits,
+
+The methods of calculating the maximum and minimum cockpit loads, and the
+derivation of the formulae, are as follows.
+
+For convenience in use, all distances are defined so that they are represented by
+positive numbers in the normal case, and the equations written accordingly. Where a
+distance is measured in the reverse direction (e.g. cockpit C.G. aft of datum instead of
+in front) it must be written as a minus quantity.
+
+6.1. Single-Seaters and Side-by-Side Two-Seaters
+The minimum cockpit load is governed solely by the aft C.G, limit and hence
+only a moment sum is required.
+. Let P = cockpit load.
+x,= distance of cockpit C.G. ahead of datum.
+x,= forward C.G. limit, aft of datum.
+x,= aft C.G. limit, aft of datum.
+and other symbols be as before.
+By moments about the C.G. (aft limit):
+P (x,+%,) = E (xx) .
+P= E (x,—x.)
+
+(+) seed
+
+The maximum cockpit load may be governed by the maximum all-up-weight
+or by the forward C.G. limit according to the case; a weight sum and a moment
+sum are therefore required. There are two methods of arranging these.
+
+The usual method is first to determine the maximum from the all-up and empty
+yreights, and then to check whether, with the resulting load, the C.G. is within
+imits, * :
+Let W = total weight of loaded aircraft.
+
+% = distance aft of datum of C.G, of loaded aircraft.
+By weight difference: P=W~-E © ses 6
+Then by moments about the datum point:
+
+Wz =Ex,—P x,
+we RS LEMP) ae 1
+
+W
+
+P is found from equation 6 and used in equation 7. If the X so obtained is
+within limits, ie. between x, and x,, the result is valid and the above value of P is
+the answer. If X is not within limits, i.e. is less than x;, if x, is positive, or numerically
+more than x, if x, is negative, then the C.G. is the governing factor and not the all-up
+weight. In this event, it is necessary to proceed further in a similar manner to that for
+minimum load case.
+
+By moments about the C.G. (forward limit): -
+P(x, +%) = E(x)
+P=E(%—
+(+>) 18
+
+The value of P found from equation 8 is then the required maximum load.
+
+The second method is to use equation 6 as before, and then equation 8 instead
+of equation 7. This procedure gives two values of P, respectively one due to weight
+and the other due to C.G. The smaller of these is the required value. Just occasion-
+ally the two will be equal, which means that both factors are limiting simultaneously,
+
+This second method is strongly recommended. For one thing, the answer is
+always obtained from two sums instead of sometimes two and sometimes three.
+Secondly the whole process (of finding both maximum and minimum loads)
+requires only one type of moment sum instead of two.
+
+--- PAGE 10 ---
+Section 6—Page &
+
+A complete worked example, including both methods for the maximum cock-
+pit load, is given in Appendix 3.
+
+6.2. Tandem Two-seaters
+In this case, as indicated above, there are additional terms to be taken into
+account. .
+Let P,= front cockpit load.
+P, = rear cockpit load.
+x, = distance of front cockpit C.G. ahead of datum.
+X= distance of rear cockpit C.G. ahead of datum
+and other symbols be as before.
+c ote minimum front cockpit loads are, as before, governed solely by the aft
+.G. limit.
+By moments about the C.G. (aft limit): ‘
+Py (Xp + Xa) +P, Ope + x.) = E (X— x.)
+we Py = E (Xe — Xe) —P, Op + Xe)
+CA re 9
+
+P, should be worked out for P, = 0, 100, 120, 140, etc. Ib. up to 240 Ib. or
+until the resulting P, becomes 100 lb, or so, whichever occurs first.
+
+The maximum front cockpit loads may, as before, be governed by the maxi-
+mum all-up-weight or by the forward C.G. limit; the governing factor may vary
+with rear cockpit load. Only the second, recommended, method is given in this
+case.
+
+By weight difference: P, = W—E—P, severe lO
+
+By moments about the C.G. (forward limit): .
+
+Py yp +4) + Pr pe +X) == E He — 34)
+Pp= EO —xX)—P, +X)
+Oy + 2%) eee
+
+P, should be worked out, as above, for P, = 0, 100, 120, 140 ete. 1b. up to
+240 Ib. or, in this case, until the resulting P, either rises to 240 Ib. or so or falls to
+100 Ib. or so, Usually it will not vary greatly and will be between these two extreme
+values, :
+
+If most or all of the maximum values of P, do come outside one of the above
+extremes, the fact may be an indication that the balance of the aircraft is unsatis-
+factory. If P, is too high, the aircraft is likely to be tai] heavy—this can be judged
+finally by the minimum values of P;—-and some nose ballast is required. if P; is
+
+. too low, the aircraft is nose heavy and some tail ballast is required. Ih either of
+these events, new values of E and x, including the ballast must be determined—this
+can conveniently be done by the method of 5.2—and the maximum and minimum
+cockpit loads calculated afresh. The process must be repeated as required until
+satisfactory results are obtained. .
+
+Two worked examples are given in Appendix 3.
+
+6.3. Overall Limitation
+
+The maximum cockpit load as calculated may in some circumstances be very
+large—this frequently happens for the front cockpit of a tandem two-seater for
+low values of rear cockpit load. In such cases, an overall limitation of say 240 Ib.
+should be taken, as greater values might result in excessive local structure loads,
+Greater values should only be quoted, if required, with the agreement of the
+manufacturers of the machine.
+
+6.4. Datum Point other than Leading Edge
+
+The equations given above are theoretically applicable for any datum point,
+minus signs being used when forward-defined distances are aft and vice yersa. In
+practice two methods can be used.
+
+
+--- PAGE 11 ---
+Section 6—Page 9
+
+A diagram corresponding to Fig. 3 or 4 can be drawn and the appropriate
+equations written down. There is no need to go into algebra—with the aid of the
+diagram and common sense they can be written straight away as numbers. This is
+precisely equivalent to the above use of minus signs, but is less likely to result in
+mistakes.
+
+Alternatively, the C,G. limits and cockpit C.G,(s) may be converted to the
+leading edge datum using the measured difference (see para. 4.4), the empty C.G.
+measured from that datum as usual, and all the calculations made in the standard
+manner, In this case also a diagram should be drawn, to facilitate making the
+conversion. .
+
+LIST OF SYMBOLS
+distance from front sling to datum, or from platform load to datum.
+
+a _
+E — empty weight. .
+
+E' — empty weight as weighed, when different from that for the standard condition.
+F — front support load.
+
+J —— weight of jury ballast.
+
+I — distance from front support to rear support.
+
+P — cockpit load (both sides for side-by-side two-seaters),
+
+P, — _ front cockpit load, for tandem two-seaters.
+
+P, — rear cockpit load, for tandem two-seaters.
+
+R — rear support load,
+
+W  — total or all-up-weight.
+
+w, ete weight of missing or surplus equipment items.
+
+x — distance of C.G. from datum point, +-ve aft, unless otherwise stated.
+
+x — loaded or all-up C.G.
+
+x, — aft CG. limit.
+
+Xe — empty C.G.
+
+xt — empty C.G. as weighed, when different from that for the standard condition.
+x,  — forward CG, limit.
+
+x, — cockpitloadC.G.  .
+
+Xy  —~- front cockpit load C.G., for tandem two-seaters.
+
+Xe  — rear cockpit load C.G., for tandem two-seaters.
+
+x ete. — C.G. of missing or surplus equipment items.
+
+APPENDIX 1
+
+Worked Examples—Empty Condition as Weighed
+
+The following examples all apply to a mythical glider having a given empty weight and
+C.G. position, with either normal or aft wheel location, taking each of the four support
+configurations in turn. The datum point is the wing root leading edge.
+
+Method A—Front and Rear Slings—Fig. \(a)
+
+Front sling reading .. a = 7 7 . -. 359 Ib.
+Front sling zero... . we an on . on . 4 Ib.
+Rear sling reading .. a . . a . = . 91 Ib.
+Rear sling zeros. set ae 7 o sews “ 1 lb,
+Front sling abead of datum =a .. . ve ee . . 0-5 in.
+Front sling to rear sling: =/ .. an os . os ~.  133-5in.
+Then F = 359-—4 = 355 1b.
+R= 9-1 = 90 Ib.
+2. B= 355 +90 = 445 ]b.
+And x,= (133-5 x 90)—0°5
+445
+== 27-0—-0:5 = 26:5 in.
+
+--- PAGE 12 ---
+Sectlon 6—Page 10
+
+Method B—Platform Scales
+(1) Normal wheel location, rear sting—Fig, 10)
+
+Platform scale reading . . 7 ve ss 404-5 Ib.
+Platform scale zero . . . oe . an . 2 Ib.
+Rear sling reading . . a o . an . an 43-5 Ib.
+Rear sling zero + . an 7 a a . 7 1 Ib,
+Main wheel aft of datum =a .. a . . an . 15-2 in.
+Main wheel to rear sling = / «» U8 in.
+Then F = 404-5—2 == 402-5 Ib.
+R= 43:5—1 = - 42-5Ib,
+E= 402-5 + 42:5 = 445 Ib,
+and “= (118 x 42:5) + 15-2
+445
+= 11:3 + 15-2 = 26-5 in.
+(2) Aft wheel location, rear sling and j Jury ballast—Fig. ie)
+Platform scale reading. . «+» 462 Ib.
+Platform scale zero .. 7" an . an oe an . 2 Ib.
+Rear sling reading= R. a a tees a 8 jb.
+Rear sling zero, inc. jury ballast = as 2. oe seen . 23 |b.
+Main wheel aft of datum == a .. . . se . se 30-0 in.
+Main wheel to rear sting =/ o 7 a oe -» 103 in.
+Then F = 462 — = 460 Ib.
+J—-R= 38 = 15 |b.
+E= 460—15 = 445 Ib.
+and x,= 30-0—(103 x_15)
+445
+= 300—35 = 26°5 in,
+(3) Aft wheel location, nose support—Fig, 1
+Platform scale reading . a . . +. 250°5 Ib,
+Platform scale zero . we . . an . an 2 Ib.
+Nose support redding o a . . . -» 201 Ib,
+Nose support zero .. . ie . . . . 4-5 Ib.
+Main wheel aft ofdatum=a |. . . os os . 30-0 in.
+Main wheel to nose sling=/ oo a . os an 79-5 in,
+Then F = 20] —4:5 an a . o ss 196-5 Ib.
+R= 250-5—2 = 248-5 Ib.
+E = 1965 + 248-5 = 445 Ib.
+and x,== 30-0—(79:5 x1 ue 2
+= 30 0—3-5 = 26-5 in.
+
+APPENDIX 2
+
+Worked Example—Empty Weight and C.G. Corrected for Equipment State
+The glider of Appendix 1 weighed with 2 Ib. of instruments missing from position 30 in.
+ahead of datum, and parachute weighing 20 Ib. in position 6 in. ahead of datum.
+
+E' = 463 Ib.
+xt = 25-35 in. aft of datum
+ThenE = 463—24 20 == 445 Ib.
+Ex,= (463 x 25: 3) X 30) + (20 x 6)
+= 11740—60
+=: 11800 iin,
+
+xX == 11800 + 445 = 26-Sin.
+
+
+--- PAGE 13 ---
+Section 6—Poge 11
+
+Note that both the correction terms have changed sign in the moments—this is because
+the x values are negative since the items are both ahead of the C.G.
+In practice, the process might be tabulated, thus:
+
+Weight Arm Moment, Ib.in.
+
+Item Ib. in, For'd. Aft
+As weighed. . . ve 463 +25+35 11740
+
+Add instruments .. . 2 —30 60
+Deduct parachute .. +. 20 —6 120
+1) 11860
+Empty weight .. v.45 +26°5 11800
+APPENDIX 3
+Worked Examples—Maximum and Minimum Cockpit Loads
+Single-Seater -
+
+The glider of Appendix 1 has maximum permissible all-up weight of 670 lb, and forward
+and aft C.G. limits of 12 in. and 17-2 in. aft of datum respectively. The cockpit C.G. is
+12 in. ahead of the datum.
+
+The minimum cockpit load, by equation 5, is
+
+445 x (26-5 —17-2) = 445 x 93 1421.
+(12 +17.2) 29.2
+
+The maximum cockpit load, from weight considerations, by equation 6 is
+670 = 2 . oe
+
+_ = . os a oe 32
+Checking the validity of this by equation 7 yields
+x ae (445 06 5 235 x 12) "
+“670 ,
+= 1 (11800 — 2700)
+670
+=13-8in .. oe os » 33
+
+which is within limits. The value 225 Ib. is therefore valid.
+Bi Alternatively, the maximum cockpit load from C.G, considerations, by equation
+is: ‘ .
+
+445 x (26-5—12) = 445 x 145 = 2681. ww ke
+
+(12 +12) 4
+and the final maximum cockpit load is the lower of the values at 3.2 and 3.4, viz. 225 Ib.
+
+Tandem Two-Seater
+A mythical glider of this class, having a swept-forward wing, has the following:
+‘aximum permissible weight = 1100 Ib.
+
+Empty weight = 710 Ib.
+
+C.G, limits = 5-2 to 1-0 in. ahead of datum
+Empty C.G. = 10-3 in, aft of datum
+
+Front cockpit C.G. = 45 in. ahead of datum
+
+Rear cockpit C.G. 3 in. ahead of datum
+
+Datum point is wing leading edge at junction with fuselage.
+In this example, x, = —5-2 and x, = —1-0 since both C.G. limits are ahead of
+the datum, and not aft as in their definitions as positive numbers.
+The minimum front cockpit load, by equation 9, is:
+710 (10-3 + 1-0) —P, (—1-0-+- 3)
+(45 —1-0)
+= 182---0-046P, .. > o an a a . we BE
+The maximum front cockpit load from C.G. considerations, by equation 11, is:
+710 (10-3 + 5-2) —P, (—S-2 + 3)
+(45 5-2)
+=2764-0-055P,  .. . an an os ve . + 3.6
+
+
+--- PAGE 14 ---
+Section 6—~Page 12
+
+The maximum front cockpit load from weight co:
+1100 —710 —P, = 390 —P, .
+
+The tabulation now follows, thus:
+
+nsiderations, by equation 10, is:
+
+5 6
+
+T 2 3 4
+
+P, 0-046 P, Min. P; 0-055 P, Max. P, Ib.
+1b, Ib, Ib, 1b, C.G.| Weight
+
+0 0 182 0 27 —
+100 4 178 6 282, —
+120 5 177 7 —)Jo
+140 6 176 8 — | 250
+160 7 175 9 — | 230
+180 8 174 10 — | 210
+200 9 173 Il — |} 190
+220 10 172 12 — | 170
+240 ll 171 13 289 | 150
+
+In the table:
+
+Col. 1 is the arbitrary values of P, as in para. 6.2.
+Col. 2 is Col. | multiplied by 0-046 from equation 3.5.
+Col. 3 is 182 from equation 3.5 minus Col. 2.
+Col. 4 is Col. 1 multiplied by 0-055 from equation 3.6.
+Col. 5 is 276 from equation 3.6 plus Col. 4.
+Col. 6 is 390 from equation 3.7 minus Col. 1.
+
+In this example, the maximum front cockpit loads are governed b
+overall limit for rear cockpit loads of 140 Ib. or less, and by all-up wei
+
+the 240 Ib.
+t for greater
+
+rear cockpit loads. For 220 and 240 Ib. rear cockpit load, the maximum front cockpit
+load is fess than the minimum. This is obviously invalid, and it means that the rear
+cockpit load must be limited to the value for which maximum and minimum front
+cockpit loads are equal; by inspection this is 218 lb.
+
+The limitations card should therefoie read:
+Rear cockpit load
+
+0 Ib.
+100 tb.
+120 Ib.
+140 Ib.
+160 Ib.
+180 Ib.
+200 Ib.
+218 Ib.
+
+Another mythical glider of this class,
+
+Maximum permissible weight
+Empty weight .. .
+
+C.G, limits
+
+Empty CG.
+
+Front cockpit CG.
+Rear cockpit C.G.
+Datum point is wing-root
+
+Front cockpit load
+
+Max.
+
+240 Ib.
+240 Ib.
+240 Ib.
+240 Ib.
+230 Ib,
+- 210 Ib.
+190 Ib.
+172 Ib.
+
+leading edge.
+
+Min.
+182 Ib.
+178 Ib.
+177 Ib.
+176 tb.
+175 tb.
+174 Ib.
+173 Ib.
+172 Ib,
+
+, having a straight wing, has the following:
+
+1180 Ib.
+780 Ib.
+
+14 to 18-5 in. aft of datum
+
+32-2 in. aft of datum
+40 in. ahead of datum
+5 in. aft of datum
+
+In this example x,, == —S in., since the rear cockpit C.G. is aft of the datum, and
+
+not ahead as in the definition as a positive number.
+
+
+--- PAGE 15 ---
+Section 6—Page 13
+
+The minimum front cockpit load, by equation 9, is:
+780 (32:2 — 18-5) — P, (18:5 —5)
+(40 + 18-5)
+= 182—0-23 P, oe +e os . . oe an ». 3.8
+The maximum front cockpit load from C.G. considerations, by equation 11, is:
+780 (32:2 — 14) — P, (14 — 5)
+(40 + 14)
+=263—0:166P,  .. oe oe . . an a 39
+The maximum front cockpit load from weight considerations, by equation 10, is:
+1180 —~ 780 — P, = 400 —P, . = rn . .. 3.10
+The tabulation now follows, thus:
+
+1 2 3 4 5 6
+Pp, 0-23 P, Min. P; 0:166 P, Max. P; 1b.
+Ib, 1b. 1b. Ib. C.G. |Weight
+0 0 182 0 263 | —
+100 23 159 17 246 | —
+120 28 154 . 20 243 | —
+140 32 150 23 240 | —
+160 37 145 27 236 |. 240
+180 4 141 30 233 | 220
+200 46 136 33 230 | 200
+220 51 131 37 226 | 180
+240 55 127 40 223 | 160
+
+Col. | is the arbitrary values of P, as in para. 6.2.
+
+Col. 2 is Col. 1 multiplied by 0:23 from equation 3.8.
+
+Col, 3 is 182 from equation 3.8 minus Col. 2.
+
+Col. 4 is Col. 1 multiplied by 0-134 from equation 3.9.
+
+Col: 5 is 303 from equation 3.9 minus Col. 4.
+
+Col. 6 is 400 from equation 3.10 minus Col. 1. :
+
+In this example, the maximum front cockpit loads are governed by the 240 Ib.
+overall limit for rear cockpit loads up to 140 Ib., by C.G. for 160 1b. and by weight for
+180 Ib. or more. The limitations card should therefore read:
+
+Rear cockpit load Front cockpit load
+Max. Min.
+
+0 Ib. 240 Ib. 182 Ib.
+100 Ib. 240 Ib, 159 Ib.
+120 Ib. 240 Ib. 154 Ib.
+140 Ib. 240 Ib. 150 Ib.
+160 Ib. - 236 Ib. 145 Ib.
+180 Ib. 220 Ib. 141 Ib.
+200 Ib. 200 Ib. 136 Ib.
+220 Ib. 180 Ib. 131 Ib.
+
+240 Ib. 160 Ib. 127 Ib.

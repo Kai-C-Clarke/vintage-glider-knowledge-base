@@ -1,0 +1,1275 @@
+od prior to
+testing.
+Where the cold-setting glues are coated on wood parts and left exposed to the
+atmosphere
+(open assembly)
+the allowable assembly time
+is reduced by approxi-
+mately
+one-half,
+as compared with
+closed assembly
+periods.
+In
+table
+5-12
+are
+given approximate ranges in assembly times, which are recommended as a guide in
+using cold-setting glues under open and closed assemblies, and for given ranges of
+temperature and gluing pressure.
+Since most gluing operations involve both open and closed assembly, the allow-
+able interval between the start of spreading and the time final pressure
+is
+i cached
+I
+
+--- PAGE 213 ---
+PROCESSING AND FABRICATION
+207
+will usually fall between the limits for closed and open assembly (table 5-12).
+The
+allowable limits for any operation can be estimated from the general relationship
+that one minute of open assembly is equivalent to two minutes of closed assembly.
+Permissible assembly times vary grea tly for hot-press glues of different types and
+specific formulations, with maximum allowable limits ranging from approximately
+20
+minutes
+to many
+days.
+Manufacturers'
+instructions
+should
+be
+followed,
+if
+reliable shop experience or
+test data
+are not
+available,
+for any
+specific adhesive.
+Table
+4-1, however, shows estimated assembly
+life
+for a number
+of commercial
+brands of glues.
+5.2 5. Use of Pressure.
+The
+application
+of
+adequate
+and
+well-distributed
+gluing pressure
+is one of the most important factors in producing consistently good
+joints.
+Pressure on the joint during the eai-ly stages of setting
+is required for best
+results in practically
+all types and forms of gluing.
+The functions of pressure in-
+clude spreading of
+the
+glue
+to form
+a continuous
+film between
+the wood
+layers,
+forcing air from the joint
+, bringing the wood surfaces into intimate contact with the
+glue, and holding them in this position while the glue sets.
+Table
+5-12.
+Range in recommended assembly lime for cold-setting glues
+1
+Kind of glue
+Cold-setting urea resins
+Do
+Do
+Do
+Casein
+Do
+Do
+Do
+Tempera-
+ture of
+room and
+wood
+°F.
+70-90
+70-90
+70-90
+70-90
+70-90
+70-90
+70-90
+70-90
+(lining pressures
+Lb. per sq.
+in.
+100 to 200
+100 to 200
+75 and less
+75 and less
+100 to 200
+100 to 200
+75 and less
+75 and less
+Manner of
+assembly
+Allowable
+assembly
+time
+Minutes
+Closed
+Up to 20
+Open
+Up to 10
+Closed
+Up to 15
+Open.
+Up to
+8
+Closed
+Up to 20
+Open
+—
+Up to 10
+Closed
+Up to 15
+Open
+Up to
+8
+1 The recommended assembly times for the conditions specified are applicable
+for glues which meet current specifications;
+though it is recognized that some specific brands and formulations will permit somewhat longer assembly times than those recom-
+mended herein;
+also,
+it is assumed that customary mixtures of the glues and recommended spreads will be used.
+When double
+spreading is practiced the permissible assembly periods may be increased by 25 percent.
+The best results in gluing are obtained when the pressuie
+is distributed uni-
+formly over the entire joint area.
+Fluid pressure, such as
+is used in bag-molding
+processes with thin veneeis, most nearly accomplishes this result.
+The application
+of similar amounts of pressure at numerous and regularly spaced points over the
+joint
+area,
+as
+in nail-gluing, approaches
+this
+condition, but with thin layers
+the
+pressures
+at and between
+the
+points
+of
+application may
+still vary
+considerably.
+Cauls, blocks, and strips are frequently used between the pressure members and the
+layers being glued,
+to distribute the load from the point of contact to other parts
+not directly under the load.
+This
+is particularly necessary where thin layers are
+glued and the points of pressure application are some distance apart.
+Obviously,
+such pressure distributing members must be
+true and even or they do not
+fulfill
+their purpose.
+Nonuniform gluing pressure commonly results in weak and strong areas in the
+same
+joint.
+The principal causes of unequal pressure on joints
+are:
+(1)
+irregular
+surfaces of the pieces being glued,
+(2) unequal dimensions of stock,
+(3) warped stock,
+(4) improper spacing of the pressure-bearing members, and
+(5) deformation, deflec-
+tion, and other imperfections in press, clamps, or other pressing equipment.
+
+--- PAGE 214 ---
+208
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.250. Amount of Pressure.
+Tlio amount of pressure required to produce strong
+joints varies over a wide range.
+This is illustrated by the application of pressure by
+such methods as nail gluing, where the pressures obtained are usually low, and at the
+other extreme the use of jack screws and hydraulic presses, by means of which very
+high pressures may be obtained.
+The range of pressures involved in aircraft assem-
+bly operations may vary from about 10 to 250 pounds per square inch.
+Species of
+high crushing strength require and withstand higher gluing pressures than woods of
+low strength.
+The successful use of light pressures presupposes that the wood sur-
+faces are true and accurate as to
+fit or that the}^ deform readily under small loads.
+The minimum pressure permissible for any assembly
+is one that
+will insure
+close
+contact of the wood surfaces and hold the members in close contact until the glue has
+set.
+Insufficient pressure and poorly machined wood surfaces usually result in the
+production of thick glue lines, which are objectionable and should be carefully guarded
+against.
+The pressure necessary to insure close contact between surfaces depends on
+the viscosity of the glue and the thickness or stiffness of the members.
+It is very difficult to measure the viscosity of a glue mixture after it is spread on
+wood surfaces.
+At the time of pressing, however, a glue of the proper consistency
+will flow sufficiently under the gluing pressure to show a line of glue at the joint edge.
+The absence of "squeeze-out" at the joint edge usually indicates a dried joint
+(fig.
+5-8,
+C).
+If, on the other hand, there
+is excessive glue flow from the
+joints, and
+spreads have not been heavy, starved joints may result
+(fig. 5-8, B).
+The resin film
+glues constitute an exception to these general considerations.
+The resin film glues
+undoubtedly flow within the
+joints but rarely show a
+line
+of squeeze-out
+at the
+edges.
+The absence of squeeze-out with the film glues
+is probably accounted for by
+the small amount of glue present (sec. 5.23).
+In addition to the viscosity of the glue at the time of pressing, the pressure
+required to bring the wood surfaces into intimate contact and the crushing strength
+of the species affect the amount of gluing pressure that should be applied.
+Recom-
+mended pressures for gluing thick laminations or for gluing between metal platens,
+thick cauls, and other rigid surfaces are substantially higher than where fluid pressure
+or thin members are used.
+Recommended
+pressures
+for
+specific
+aircraft
+gluing
+operations
+are
+given
+in
+section 5.4.
+5.251. Methods of Applying Pressure.
+The
+methods
+employed
+in
+applying
+pressure to joints in aircraft gluing operations range from the insertion of brads, nails,
+and screws to the use of hydraulic and
+electric power presses.
+Most flat aircraft
+plywood is glued on power presses equipped with gages, so that the amount of pres-
+sure applied can be accurately determined and controlled
+(fig. 5-14).
+Likewise, in
+fluid-pressure operations the amount of pressure can be controlled.
+The amount of
+pressure applied by hand devices, however, is not so readily determined.
+In figure 5-15 are illustrated some of the more common means of applying pres-
+sure to glue joints by hand.
+Nail gluing
+(fig. 5-15, A) is still used rather extensively
+in the gluing of ribs and in the application of plywood skins to the wing, control
+surfaces, and fuselage frames, although it is being replaced with pressure jigs designed
+for specific parts and operations (sec. 5.4).
+The spring clamp
+(fig. 5-15, B) has been
+used for the gluing of small, narrow joints and the eccentric clamp when gluing rein-
+forcing blocks in place. Wood clamps and C-clamps
+(fig. 5-15, D and E) are exten-
+sively used to glue spars, spar flanges, reinforcing blocks, and bow ends.
+The larger
+laminated members, such as spars and propellers, are usually pressed under jack-
+screws
+(fig. 5-15, F) mounted on frames, where several are used on the same joint.
+The bar clamp
+(fig. 5-15, G) is useful when gluing pieces edge to edge.
+The amount of pressure that can be applied with the different devices illustrated
+in figure 5-15 varies greatly.
+The amount applied by a single brad may be only a
+matter of pounds, whereas several tons can be applied by jacksorews.
+The spring
+
+--- PAGE 215 ---
+PROCESSING AND
+FABRICATION
+209
+Figure 5-14.—Hydraulic, fi-opening, hot-plate press used in the manufacture of Hut plywood.
+and eccentric types of clamps of the usual
+sizes likewise are limited to relatively
+small loads.
+Calculations of the approximate amounts of pressure applied by them
+may be made, since the load and force applied are related to the distances from the
+fulcrum of the clamp to the points of application.
+Tests made on devices D, E, F,
+and G of figure 5-15 have, provided the data shown in table 5-13, which may serve
+as a guide in the use of similar pressure equipment.
+
+--- PAGE 216 ---
+210
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5-15.- -Hand devices used in applying pressure to glue joints: A
+, brads, screws, or nails; B, spring clamp; C, eccentric
+clamp; D, wood clamp; E, C-clamp; F, jackscrews; 0, bar clamp.
+
+--- PAGE 217 ---
+PROCESSING AND FABRICATION
+211
+The approximate loads applied by screws of square threads may he calculated
+from the formula: ^«(H)4
+fl(lf
+where F is the force applied to the lever in pounds.
+L is the length of the lever arm in inches.
+W is the total load in pounds.
+7? is the mean radius of the screw in inches.
+D
+is the mean diameter of the screw in inches=}-» (diameter at root+ outside
+diameter)
+.
+K is the pitch of thread in inches.
+/ is the coefficient of friction (may he assumed as 0.20).
+T is 3.1416= 22/7 approximately."
+Table 5-13.
+Pressure data on screw clamps and other devices used in gluing
+Equipment tested
+Force
+applied
+Length of
+lever arm
+Pitch of
+screw
+Diameter
+of screw
+Total
+load
+1
+Coefficient
+of friction
+Pounds
+Inches
+Inches
+Pounds
+Jackscrew
+_
+1 170.
+37
+%
+33, 850
+2 0. 1978
+Do
+1 170.
+18
+Vz
+l 5/io
+16, 350
+2
+. 1997
+Do
+i 170.
+31
+2^16
+16, 720
+-\ 2000
+Do
+1 140.
+7
+%
+%
+7, 500
+2
+. 2498
+C-clamp
+2 70.
+1%
+v%
+9/l6
+1, 585
+l 20
+Do
+2 69. 5
+3
+9/l6
+2, 700
+3
+. 20
+Do
+2 70. 2
+2
+%
+%
+1, 370
+3
+. 20
+Bar clamp
+2 79. 9
+2%
+%
+2, 810
+3
+. 20
+Wood clamp
+4
+.
+_
+.
+2 71. 3
+y*
+Vu
+%
+4 720
+3. 20
+1 Measured in test.
+2 Calculated from the formula given in section 5.251.
+3 Assumed from results of previous tests.
+4 Metal screws with V-type threads; hence calculation from formula is only approximate.
+Trie pressure developed by the wood
+clamp was measured with the work in approximately the position shown in figure 5-15.
+With the work closer to the screws a
+considerably greater load may be developed.
+In using screws, the control of the amount of pressure involves a determination
+of the force applied.
+This will vary with individuals and,
+therefore, the use of a
+torque-indicating wrench or a lever arm which shows the force applied
+is recom-
+mended
+(fig. 5-16, B).
+In experimental gluing, the amount of pressure applied by
+screws can be measured by a hydraulic device, illustrated in use and plan in figures
+5-16, A, and 5-17.
+The same device can be used for checking pressures in industrial
+operations, but
+it
+is not so well suited
+for continuous use
+in production and
+the
+torque-indicating wrench
+is preferable where adapted.
+Various jigs have been developed for the assembly of various parts of aircraft
+and
+the
+application
+of
+pressure
+in
+gluing by
+either screws
+or hydraulic and
+air
+methods.
+A common fault in the design of jigs
+is that they are too light to carry
+the loads involved.
+It
+is recommended that the jigs be designed to carry at least
+250 pounds per square inch over the entire gluing area in order to provide a reason-
+able factor of safety for the possible gluing of high density species where 200 pounds
+per square inch will be required.
+Where
+fluid pressure
+is employed, by means of
+hydraulic jacks or by liquid or air applied to the platen area, the loads are relatively
+easily determined from the unit pressure and the effective area to which the fluid
+pressure
+is applied.
+More detailed information on the application of pressures in
+specific operations is given under section 5.4.
+
+--- PAGE 218 ---
+212
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 6-16.—Instruments used in measuring loads applied by jackscrews; A, compressometer; B, torque wrench.
+
+--- PAGE 219 ---
+PROCESSING AND
+FABRICATION
+213
+5.252. Duration of Pressure.
+Joints
+should
+be
+retained
+under
+pressure
+at
+least until they have sufficient strength to withstand the internal stresses tending to
+separate the wood pieces.
+It
+is safe to assume that, under favorable gluing condi-
+Top
+v/ew
+Q.U arten
+sect ton.
+Figure 5-17.—Detailed drawing of compressometer; used to measure loads applied
+l>y jaekscrews.
+tions, this stage will be reached in from 2 to 7 hours with cold-setting glues, according
+to the thickness and absorptive power of the wood.
+In hot-pressing operations, the
+duration of pressure may range from a few minutes to one-half hour or more, de-
+pending on
+thickness
+of material,
+temperature, and
+kind
+of glue and wood.
+A
+
+--- PAGE 220 ---
+214
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+pressing period beyond the minimum
+is advisable and
+is usually provided for in
+directives and gluing recommendations.
+The rate at which the joints gain initial strength
+is the principal factor deter-
+mining the length of time in the press.
+Joints made with cold-setting glues increase
+in strength mainly as a result of chemical action and the drying of the glue layer,
+and drying in turn is affected by several factors.
+The quickest release of pressure is
+possible when a fast-setting glue, a thin spread, and warm, dry, thick layers of wood
+are glued in a warm room.
+The rate at which glues set
+is illustrated and discussed
+under section 5.262.
+5.26. Gluing Temperature.
+Temperatures
+in
+the
+gluing
+operation should be
+controlled within recognized limits, which are governed largely by the characteristics
+TEMPERA TURE ('Fj
+Figure 5-18.—Representative working-life curves for cold-setting, urea-resin glues.
+The minimum (emperaturc at which cold-
+setting, urea-resin glues should be used is 70° F.
+of the glues.
+Temperature affects the working life of the glue solution,
+the permis-
+sible assembly period, the rate of setting of the glue, and the conditioning of the
+glued stock.
+5.260.
+Effect on Working Life of Mixed Glues.
+An
+increase
+in temperature
+sharply curtails the working life of cold-setting, urea-resin glues.
+This class of glues
+forms gels and sets as a result of chemical action and loss of water.
+The chemical
+reaction will accelerate when the temperature rises.
+As a rough approximation, an
+increase of 10° F. in the temperature of the glue solution will reduce the working life
+by
+one-half.
+Figure 5-18
+illustrates,
+for several
+different
+cold-setting,
+urea-resin
+glues, variations in working life that result from changes in temperature. A current
+Army-Navy Aeronautical specification (AN-G-8)
+limits the working
+life of cold-
+setting, urea-resin glues within the range of 2 to 8 hours at 70° F., but it is obvious from
+figure 5-18 that the temperature effect will
+still be present and must be recognized
+
+--- PAGE 221 ---
+PROCESSING AND
+FABRICATION
+215
+by the user if he
+is to avoid inconvenience.
+It
+is suggested that the user of a cold-
+setting, urea-resin glue either obtain from the manufacturer of the glue information
+on the working life at different temperatures, or develop tins information for himself
+before the glue is used to avoid unnecessary waste and the inconvenience of cleaning
+equipment in which the glue has set.
+As mentioned elsewhere,
+it may be found ad-
+visable to keep the glue pot in a bath of cool water around 70° F. to prolong the
+working life of the mixture during hot weather.
+The effect of temperature on the working life of casein glues
+is somewhat less
+marked than for cold-setting, urea-resin glues.
+As a general rule, a rise of some 20° F.
+is required to reduce the working life by one-half.
+In the average operation, where
+the glue
+is mixed at least twice each day, the user will ordinarily have no trouble
+with the casein glues that meet current specifications (Navy 52G8c, C-G-456, and
+Army Air Forces 14122).
+In hot weather, however,
+it may be advisable to observe
+some precautions, such as arranging to mix 3 or 4 batches of glue instead of 2 for
+each 8-hour shift.
+Limitations on the use of casein glues at lower temperatures are
+not very important, and the lower limit of the temperature of the glue room will
+probably be governed more by the comfort of the workers than by the characteristics
+of the casein glue.
+The temperature changes involved under average operating conditions do not
+materially affect the working
+life of most hot-setting glues.
+However, these glues
+will thicken appreciably
+in the glue pot and on mechanical spreaders because of
+evaporation of solvent which is accelerated somewhat at higher temperatures.
+The
+working life of the resin-film glues
+is a matter of months under average operating
+conditions, but
+it is advisable to store them in cool dry places.
+5.261.
+Effect on Assembly Period.
+The effect of the temperature of the gluing
+room and stock on the permissible assembly periods
+for casein and
+cold-setting,
+synthetic-resin glues
+is not critical.
+The desirable assembly period for these glues
+is limited largely by the initial thickening and drying that result from diffusion of
+the water into the wood or from evaporation.
+It is recognized that chemical reac-
+tions proceed more rapidly at elevated temperatures, but this
+is not so important
+as the rate of drying in limiting the assembly period.
+When the surfaces are laid
+together
+immediately
+after
+spreading
+(closed
+assembly),
+evaporation
+is
+greatly
+reduced and diffusion of water into the wood
+is the controlling factor.
+The rate of
+diffusion increases with the temperature of the wood, but the effect is not pronounced
+within the limits ordinarily prevailing in cold-gluing operations.
+Consequently,
+if
+the assembly period
+is adjusted within conservative limits, up to 20 minutes
+(table
+5-12),
+it
+is usually unnecessary
+to make adjustments in assembly periods to com-
+pensate for changes in the temperature of the gluing room.
+If the operation is one in
+which the surfaces, after spreading, are exposed to the
+air (open assembly), both
+evaporation and
+diffusion increase with temperature.
+Again, however,
+if the
+as-
+sembly period
+is adjusted within conservative limits
+(table 5-12) further adjust-
+ments to compensate for changes in the temperature of the gluing room are ordi-
+narily unnecessary.
+The assembly periods are not so
+critical for glues that require the application
+of heat to effect their setting.
+Assembly periods for these glues vary from as little
+as Y2 hour to several days or longer.
+For the high-temperature phenol, urea, and
+melamine formaldehyde
+glues
+it
+is
+usually recommended
+that
+sufficient time be
+permitted to elapse, between spreading and hot pressing, to permit evaporation of
+the solvent.
+For some low-temperature phenolic glues the pressure should be ap-
+plied before the solvent has evaporated and for such glues the assembly time is more
+limited.
+5.262.
+Effect on Rate of Setting in Joints.
+Temperature has a pronounced effect
+on the rate of setting of the glue and the rate of increase of joint strength.
+With
+both
+casein and
+cold-setting resin
+glues,
+the
+initial
+thickening
+that governs
+the
+
+--- PAGE 222 ---
+216
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+assembly period is due largely to loss of water, but the final setting and the develop-
+ment of the strength and water resistance of the joint depend likewise on chemical
+changes in the glue, and both the chemical changes and the diffusion of water are
+accelerated by increasing temperature.
+Figure 5-19, A, illustrates the rate of increase in the strength of joints made with
+a
+cold-setting,
+urea-resin
+glue on
+/4-inch
+thick laminations
+of sugar
+maple
+and
+Sitka spruce with temperatures of the room and stock maintained at 75° F.
+During
+the initial period, the joints in the two species increased at about the same rate, but
+after 4 hours the rates showed increasing divergence.
+At the end of 4 hours, the
+strength of the
+joints was over
+1,000 pounds per square inch,
+at which time the
+gluing pressure could have been removed without damage.
+Figure 5-19, B, shows
+the same data plotted with each test point expressed as a percentage of the
+final
+J
+6
+9
+IZ
+IS
+It
+Zl
+Z4
+5
+6
+)
+II
+IS
+IS
+II
+14
+C
+PRESSURE PERIOD (HOURS)
+D
+PRESSURE PERIOD (HOURS)
+Figure 5-19.— Rate of increase in strength of joints made with cold-setting urea-resin and casein glues.
+strength after 7 days of conditioning.
+At the end of 4 hours, for example, the joints
+in Sitka spruce had reached something over 80 percent of their final strength, while
+the joints in sugar maple had attained only about 40 percent of their final strength,
+yet the joints in sugar maple actually tested stronger at this period than the joints
+in Sitka spruce
+(fig. 5-19, A).
+This
+is because the shear strength of the maple is
+so much higher than that of the spruce.
+Figure 5-19,
+C, shows similar data for joints made with casein glue with the
+glue, room, and wood at 70° F.
+The rate of increase is obviously somewhat more
+rapid than that for the joints made with a cold-setting, urea-resin glue at 75° F.
+At the end of 3 hours, for example, casein-glue joints in Sitka spruce reached about
+75 percent of their final value, while joints made with the resin glue reached about
+65 percent.
+Over the same period, casein-glue joints in sugar maple reached some-
+thing over 55 percent of their final strength and the resin-glue joints attained 30
+percent of their final strength.
+A pressing period of 4 hours
+is considered suitable
+
+--- PAGE 223 ---
+PROCESSING AND FABRICATION
+217
+for
+either
+casein
+or
+cold-set ting,
+urea-resin
+joints.
+The
+cold-setting,
+urea-resin
+glues do not set satisfactorily at temperatures below 70° F., and they should not be
+used on wood or in rooms at lower temperatures.
+Casein glues, on the other hand,
+will set at temperatures considerably lower than 70° F. but their rate of setting
+is
+greatly decreased.
+When casein glues are used at temperatures lower than 70° F.,
+the joints should be kept under pressure for longer periods than are recommended
+for 70° F. and above.
+A comparison of figures 5-19, B, and 5-19, D, illustrates the change in rate of
+increase
+in joint strength when the temperature of the gluing room and stock was
+increased from 75°
+to 90° F.
+At the end of the fourth hour,
+the resin
+joints
+in
+maple at 90° F. had reached over 90 percent of their final strength as compared to
+about 40 percent when the room and wood were at 75° F.
+This would correspond
+to actual test values of about 2,700 and 1,200 pounds per square inch, respectively.
+These data indicate that the gluing pressure can be removed after 2 hours at 90° F.
+just as safely as after 4 hours at 75° F.
+Similar experiments carried out on birch plywood instead of laminated blocks
+have shown very similar
+trends in rate of increase
+in cold-setting, urea-resin and
+casein glue joints, with one additional point that
+is worth noting.
+The wet strength,
+as measured by testing after soaking in water for 48 hours,
+increases much more
+slowly than the dry strength; the casein-glue joints conditioned at room tempera-
+tures being particularly slow in developing their wet strength.
+This fact emphasizes
+the necessity for an extended conditioning period, at ordinary room conditions, before
+testing for water resistance.
+This point is of importance to those who have occasion
+to test glues rather than to those who use glues as a regular
+part
+of commercial
+production.
+5.263. Use of Higher Temperatures.
+In many gluing operations, temperatures
+in excess of room conditions are required to set the glue or employed to reduce the
+time required for setting the usual cold-setting glues.
+Elevated temperatures are
+utilized in hot-pressing flat plywood, in bag molding, and in various assembly gluing
+operations to effect the cure or set of the glue in the shortest practical time.
+In these
+operations, the glues are spread and the assemblies laid up at ordinary room tempera-
+tures, but later heated by being placed in heated rooms, hot presses, autoclaves, or
+special assembly jigs heated by steam, hot air, electricity, or other means.
+All such
+operations involve the problem of heat transfer through the wood to the glue line
+as well
+as the temperature and time required
+to cure the glue properly.
+In
+all
+assembly gluing operations carried on at elevated temperatures, provisions should be
+made to prevent excessive drying of the wood during the heating period.
+Proper
+humidification
+of rooms
+is
+essential
+if assemblies are
+placed
+in heated rooms
+or
+chambers to accelerate or effect the cure of glues.
+Determination of the temperature and
+time of
+heating required
+to obtain
+a
+satisfactory cure of the glue in joints is complicated because of the number of factors
+involved.
+In addition to the factors affecting the rate of penetration of heat through
+wood,
+{5-12), the problem
+is further complicated by
+the fact that
+the
+curing of
+synthetic-resin and casein glues does not take place at one exact temperature, but
+rather over a range of temperatures which differ for the different glues and for various
+formulations of the same type of glue.
+One resin glue, for example, may cure in 3
+minutes at 300° F., in 6 minutes at 280° F., or in 20 minutes at 260° F.
+Other resins
+of the same basic type may cure as rapidly at the higher temperatures but fail to
+give satisfactory bonds when cured more slowly at lower temperatures or may even
+have an entirely different range of curing temperatures.
+In view of the complications involved,
+the manufacturer's recommendations
+should
+be obtained on
+the
+time-temperature
+curing
+relations
+of
+the
+glue under
+consideration.
+These recommendations should then be checked by joint tests on each
+glue line in the assembly to see that
+all joints are receiving sufficient heat
+to cure
+
+--- PAGE 224 ---
+218
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+them effectively.
+The recommendations may be checked further against the funda-
+mental data on heat transfer (5-12) to see that the temperature conditions at the
+glue lines are those expected or preferably by taking thermocouple measurements of
+the temperatures actually obtained.
+The main reliance, however, should be placed
+on tests of joint quality in the assembly.
+5.2630. Time-temperature Curing Relations of High-temperature Resin Glues.
+Approximate pressing periods for the glues
+classified in table 4-1
+as high-tempera-
+ture phenols, when used
+in conventional hot presses, without cauls, are given in
+table 5-14.
+The use of cold cauls with the veneer assembly will increase the required
+pressing period.
+This information is intended to serve as a rough guide and should
+be checked with manufacturer's recommendations and tests of joint strength.
+It
+is
+recognized that the recommended pressing periods tend to be slightly longer than the
+minimum time required to cure the majority of the glues belonging to this class, but
+the table
+is intended as a general guide and not as a fixed minimum recommenda-
+tion.
+The schedules suggested in table 5-14 will not produce temperatures at the
+centers of thick panels equal to those at the centers of thin panels.
+Consequently,
+the suggested periods
+will not correspond exactly
+to data
+derived
+directly
+from
+fundamental heat-transfer equations.
+It
+is believed, however, that the use of the
+schedules
+will lead
+to
+the production of good
+joints,
+provided other gluing con-
+ditions are properly controlled.
+When used in hot presses with platen temperatures of 255° to 265° F., other glues
+that
+set
+at high temperatures, such as melamine formaldehyde,
+hot-setting urea
+formaldehyde, and fortified urea formaldehyde, which can be cured at temperatures
+of about 240° F. or slightly above, will set in approximately the same periods given
+for the respective assemblies in table 5-14.
+In every case, however, the recommenda-
+tions of the manufacturer should be obtained and the glue-joint quality determined
+by tests.
+Table
+5-14.
+Approximate pressing time for the gluing of panels with phenolic-resin
+glues when the
+platen temperatures are 300° to 310° F.
+Total
+thickness
+No ply thicker than
+Mo inch
+Core=
+J 4 inch
+Core= M inch
+Depth to
+farthest
+glue line
+Pressing
+time
+Depth of
+farthest,
+glue line
+Pressing
+time
+Depth to
+farthest
+gluo line
+Pressing
+time
+Inch
+Me
+%2
+%
+Me
+M
+Me
+%
+Me
+Vi
+Me
+Ms
+M
+Ms
+l
+Inch
+y«*
+Ms
+y3 2
+Ms
+Mo
+Mo
+%2
+Me
+Ml4
+M
+%2
+U/3 2
+13/Z2
+Mo
+Minutes
+5
+5
+5
+5
+5
+6
+7
+8
+9
+10
+1
+1
+13
+16
+19
+25
+Inch
+Minutes
+Inch
+Minutes
+Me
+%2
+Ms
+%2
+Me
+M
+Me
+Ms
+6
+7
+8
+9
+10
+11
+14
+17
+24
+YZ2
+Me
+%
+Me
+M
+6
+8
+10
+14
+21
+
+--- PAGE 225 ---
+PROCESSING AND
+FABRICATION
+219
+5.2631.
+Time-temperature
+Relations of Low-temperature
+Phenols.
+The
+low-
+temperature
+phenol-formaldehyde
+glues
+are
+relatively
+new
+and
+informa-
+tion on
+their time-temperature curing requirements
+is incomplete and inadequate.
+On the basis of existing information, however, it appears that they do not cure satis-
+factorily at temperatures below about 150° F.
+At temperatures of 140° to 200° F.,
+the rate of cure
+is slow and long curing periods are required
+to
+insure high
+joint
+strength, such as:
+16 hours at 140° F., 6 hours at 180° F., and 2 hours at 200° F.
+At temperatures above 200° F. these glues cure more rapidly.
+At a glue-line tem-
+perature of 240° F., one low-temperature phenol was found
+to cure
+sufficiently
+in
+10 minutes to develop the full dry strength of 3-ply,
+/( 6-inch yellow birch plywood.
+At a glue-line temperature of 260° F., the same glue developed the full dry strength
+of the birch plywood in 5 minutes.
+The time required for the glue lines to reach the
+temperatures
+of 240° F. and 260° F. was about 4 minutes.
+At 280° F.
+the
+full
+strength of the birch plywood was developed in the time required to heat the glue
+line to this temperature.
+5.2632. The Rate of Setting of Cold-setting, Urea-resin Glues at Elevated Temper-
+atures.
+The rate of setting of cold-setting, urea-resin glues can be increased over
+that shown in figure 5-19 by the use of higher temperatures.
+Tests on a cold-setting
+urea-resin glue in 3-ply, %6-inch yellow birch plywood indicated that the time re-
+quired to set the glue sufficiently to give a dry joint strength of 300 pounds per square
+inch decreases by approximately one-half for each 10° F. rise in temperature at the
+glue
+line.
+The same general relationship held for the heating periods required to
+develop
+50 percent wood
+failure
+in
+the shear specimens.
+This degree
+of curing
+represents some 60 to 80 percent of the final joint strength but
+, with the cold-setting,
+urea-resin glues, final curing would ultimately occur at ordinary room temperatures.
+To achieve this state of cure required that the glue line be at 120° F. for 32 minutes,
+at 150° F. for 4 minutes, or at 180° F. for 15 seconds, after allowing a period of ap-
+proximately
+1/4 minutes for the glue line to reach the platen temperature.
+The time
+required for the glue lines to reach 200° and 220° F. was sufficient to set the glue
+fully.
+The rapid rate of setting at the higher temperature emphasizes the danger of
+precuring that exists when the cold-setting, urea-resin glues are used in hot presses
+and heated assembly jigs.
+Their use at elevated temperatures should be limited to
+quick-closing single-opening hot presses and other pressure
+devices
+in which the
+required pressure can be reached in
+a few seconds.
+In addition to the danger of
+precuring that exists when cold-setting, urea resins are cured at temperatures above
+200°
+F., there
+is some question concerning the
+effect of such temperatures on the
+glue.
+From
+the
+evidence
+available,
+it
+appears
+that
+their glue-line temperatures
+should not exceed 200° F.
+Whenever the cold-setting, urea
+resins are used at ele-
+vated temperatures, the manufacturer should be consulted and recommendations
+obtained on the maximum permissible heating temperatures.
+5.2633. The Rate of Setting of Casein Glues at Elevated Temperatures.
+The rate
+of setting of casein glues
+is likewise accelerated at elevated temperatures, but to a
+lesser extent than in the case of the cold-setting urea resins.
+Tests on a commercial
+casein glue indicated that a joint strength of 300 pounds per square inch was obtained
+in 3-ply,
+Xe-inch yellow birch plywood with the glue line at
+120° F. for about 45
+minutes, at 150° F. for 30 minutes, at 180° F.
+for
+11
+minutes, at 200° F. for 7Y2
+minutes, and at 220° F. for 4 minutes.
+These times, of course, do not include the
+period of about 1% minutes needed to heat the glue line to the desired temperature.
+The time required to reach a shear strength of about 300 pounds per square inch was
+approximately halved for each 25° to 30° F. rise in temperature within the range of
+120° to 220° F.
+5.264.
+Electrostatic Heating.
+If wood
+is
+placed
+in
+an
+electrical
+field which
+oscillates at the frequencies used in the short-wave broadcasting range or higher,
+
+--- PAGE 226 ---
+220
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5-20.—High-frequency heating.
+.4, Curved frame part being pressed and heated; B, jigs with electrodes for gluing glider
+seat, (a) exterior jig,
+(ft) interior jig; O, (a) glider seat held in jigs while being glued,
+(ft) finishe 1 seat.
+
+--- PAGE 227 ---
+PROCESSING AND
+FABRICATION
+221
+heating occurs throughout the mass, thus making it possible to introduce heat at a
+rate dependent on the material to be heated and the capacity of the equipment avail-
+able.
+The advantage of this method in contrast to heating by conduction is obvious.
+Although this method has been introduced only recently into the woodworking
+industry in the United States,
+it
+is now gaining favor in the aircraft industry for
+rapid setting of the class of adhesives known as "cold setting," and in the curing of
+thermosetting glues.
+It appears to be especially well adapted to the gluing of thick
+laminated or plywood members, such as propellers, spars, or bearing blocks, with
+either thermosetting or thermoplastic
+glues,
+especially where the usual hot-plate
+methods are time consuming or impractical.
+The process has already been demon-
+strated on a practical scale and is in limited commercial use for the manufacture of
+plywood.
+It is now used in the gluing of compreg, the preheating of treated material
+that is to be compressed, and the gluing of airplane spars and other airplane parts.
+The electrostatic heating apparatus is similar to that used in short-wave broad-
+casting, except that, instead of radiating the energy into space, the equipment is so
+designed that the energy is c

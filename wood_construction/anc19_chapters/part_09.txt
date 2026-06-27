@@ -1,0 +1,1437 @@
+mmersion.
+Moisture
+tranfusion
+through wood
+under
+relative humidity gradient.
+Weathering
+Chemical resistance
+To acids
+To alkalies
+To organic solvents
+Resistance to attack by
+Wood-destroying fungi
+Termites
+Electrical resistance
+At 30 percent relative humidity
+At 90 percent relative humidity
+Heat conductivity
+Fire resistance
+Finishing:
+Painting
+Lacquer finishes
+Strength
+Compared with normal wood
+Much smaller.
+25 to 40 percent as much.
+25 to 40 percent as much.
+Slightly less.
+4 to 8 percent as rapid.
+Vastly improved.
+High.
+Moderate to low.
+High.
+Higher
+than
+nondurable
+woods,
+on
+basis
+of
+2-year exposure
+to
+conditions under which
+untreated sapwood
+controls decayed badly
+in 6 months.
+High, on same basis as above.
+2 to 10 times.
+Specific resistance 10 13 ohms.
+1,000
+to
+10,000
+times.
+Specific
+resistance
+2 x 10 10 to 2 x 10 11 ohms.
+Approximately 7 percent higher.
+Inappreciably
+different.
+Weight
+loss only
+in
+direct
+proportion
+to
+resin
+content.
+(Pre-
+liminary
+tests
+indicate
+that
+ammonium
+phosphate
+can
+be
+incorporated
+with
+resin
+at time
+of treatment,
+fixing the
+salt in the
+structure and
+giving
+appreciably
+increased
+fire resistance.)
+Few
+tests
+made
+confined
+to
+white
+house
+paints.
+After
+4
+years'
+exposure,
+impreg
+panels with no primer superior to
+controls
+with
+no
+primer,
+as
+good
+as
+controls
+with
+primer.
+Showed
+no
+loss
+of
+paint
+film.
+Some alligatoring.
+No data.
+Only compressive properties improved.
+Compreg is made from dry, resin-treated plies either with or without the use of
+additional glue.
+The resin treatments which give the poorest distribution of resin
+throughout the structure in general give sufficient resin on the surface for bonding.
+Naturally dense veneer that is thoroughly treated with a stabilizing resin will, under
+some conditions, require the use of additional glue to obtain optimum shear strength
+between plies.
+The pressure required for compression will vary with the species, the degree of
+compression
+desired, and the nature of the
+treating
+resin.
+Stabilizing
+resinoids,
+which enter the cell-wall structure, plasticize the wood prior to setting of the resin to
+an extent sufficient to permit compression under considerably lower pressures than
+are needed
+for wood containing appreciably preformed
+resin.
+Pressures ranging
+from about 250 to 3,000 pounds per square inch are used for making a product rang-
+ing in specific gravity from 1.0 to
+1.4.
+Because of the prohibitive time necessary
+to heat the center of the material
+properly, compreg can be economically made by the conventional method of pressing
+
+--- PAGE 149 ---
+MODIFIED WOOD
+143
+between heated hot plates only up to thicknesses of about 2 inches.
+Compreg up to
+6 inches in thickness has been made by the electrostatic heating method, by which
+heat
+is generated throughout the specimen.
+Blocks 6 inches thick have also been
+made by a preheating process.
+By this method the separate plies, when ready for
+assembly, are heated in racks in a kiln, or in a continuous drier, to 230° F. for 10
+minutes, then rapidly piled and rushed to the press.
+Practically no cooling of the
+center of the pile occurs while this is being done, and the sides can be rapidly reheated.
+The treated plies are very plastic at this temperature, and uniform compression of
+all the plies occurs simultaneously.
+By this method it is only necessary to add suffi-
+cient heat to raise the temperature 20° F. when stabilizing resins are used.
+At 250°
+F.
+the exothermic resin-forming reaction becomes sufficiently intense to raise the
+temperature automatically to the desired temperature of 290° to 300° F.
+Thick compreg can also be made up by gluing thinner panels together.
+Compreg
+can be glued to
+itself, to impreg, or to ordinary wood only after the surface glaze
+is
+removed by sanding or milling (sec. 5.2721).
+Satisfactory joints have been obtained
+with cold-setting phenolic and urea glues and with thermoplastic glues. A means of
+gluing compreg more readily
+is given in section 3.33.
+Mechanically
+the dimensionally stable and
+less
+stable forms
+of compreg
+are
+practically identical except for notched impact strength.
+The thorough distribution
+of resin throughout the structure seems to increase the notch sensitivity of the wood
+to some extent.
+Low-resin-content, nonstabilized forms of compreg are also more
+easily glued than the higher-resin-content forms.
+For uses where notch sensitivity is
+more critical than moisture resistance, the less stable forms of compreg may be prefer-
+able; but for most uses the stable types are to be preferred.
+As the mechanical properties of compreg are less dependent upon the species
+from which it is made than are those of impreg, a broad range of species can be used.
+The chief species limitation in making compreg, as with impreg,.
+is the choice of read-
+ily treatable woods.
+Woods with extremely contrasty grain (marked
+differences in
+density between springwood and summerwood) should be avoided, as
+it
+is
+difficult
+to make compressed surfaces that are free from raised grain from such material.
+For details of manufacture of the dimensionally stable
+type of compreg, see
+Forest Products Laboratory Restricted Mimeograph No. 1381
+(3-5).
+The specific gravity of compreg can vary
+all the way from
+that of impreg to
+about
+1.4.
+In general, the high
+specific gravity material
+is referred
+to when the
+specific gravity is not given.
+Other properties of compreg, both the stabilized Forest Products
+Laboratory
+form and an unstabilized form, are given in table 3-4.
+A comparison of the moisture-
+absorption and swelling characteristics of Forest Products Laboratory compreg and
+unstabilized compreg for varying immersion periods
+is given in table 3-5.
+Table 3-4.
+Properties of compreg
+(stabilized and
+unstabilized forms) compared with normal wood
+Property
+Stabilized form
+1 compared with normal wood
+Unstabilized form com-
+pared with normal wood
+Moisture:
+Rate of moisture ab-
+sorption and swel-
+ling and shrinking.
+Equilibrium
+adsorption
+of water vapor.
+Equilibrium swelling and
+shrinking.
+Considerably less than for impreg as well as
+for normal wood.
+See table 3-5.
+Laminated spruce specimens, 0.4 x 2.5 x 2.5
+inches, immersed
+in
+water, absorbed
+0.5
+percent moisture in
+1 day,
+1.2 percent in
+4 days, 1.8 percent in 7 days.
+25 to 40 percent as much.
+Actual adsorp-
+tion 5 to 10 percent
+.
+Same as impreg at right angles to direction
+of pressing.
+Considerably
+less.
+See
+table 3-5.
+About the same.
+Equilibrium swelling (in-
+cluding recovery from
+Forest Products Laboratory compreg.
+
+--- PAGE 150 ---
+144
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Table 3-4.
+Properties of compreg {stabilized and unstabili zed forms) compared with normal wood—Con.
+Property
+Equilibrium swelling and
+shrinking.
+Moisture
+transfusion
+through
+wood
+under
+relative humidity gra-
+dient.
+Chemical resistance:
+To acids
+To alkalies
+To organic solvents..
+Decay resistance
+Electrical
+resistance
+(D.
+C).
+Heat conductivity..
+Fire resistance
+Finishing
+Lacquers and enamels
+Machining
+Stabilized form
+1 compared with normal wood
+Greater in direction of pressing by the multi-
+ple factor (Sp. gr. of compreg divided by
+that of impreg).
+Equilibrium swelling in thickness direction:
+5 to 10 percent.
+2 to 5 percent as rapid
+High
+Moderate to low
+High
+At least as good as impreg
+Similar to impreg.
+Approaches equilibrium
+conditions more slowly.
+Practically the same as
+for wood
+of same
+specific gravity
+2 2.0 B.
+t.
+u. per hr. per
+sq. ft. per inch per °F. (5.8 C. G. S. units)
+for sp. gr. 1.35.
+About the same as
+for wood
+of the same
+specific gravity.
+Has naturally hard, smooth, water-resistant
+faces which cannot be improved by ap-
+plied clear finishes.
+Can be sanded and
+buffed on cut surfaces to give finish simi-
+lar to that of original faces.
+Both one sprayed coat of a yellow lacquer
+and a yellow enamel used by the Army for
+painting insignia on metal airplanes has
+stood up well to weather exposure for over
+1 year.
+With suitable tools, can be cut and worked
+much more easily than metals.
+Saws and
+tools for softer metals like brass seem most
+satisfactory.
+Lower tool speeds than for
+normal wood are desirable.
+Unstabilized
+form
+com-
+pared with normal w
+rood
+compression) in thick-
+ness
+direction.
+Low
+resin
+content: 40
+to
+60
+percent.
+High
+resin
+content:
+20
+to
+25 percent.
+No data.
+No data.
+No data.
+No data.
+No data.
+No
+data,
+as
+electrical
+conductivity is a func-
+tion of adsorbed mois-
+ture,
+very
+little
+im-
+provement
+would
+be
+expected.
+No
+data,
+should
+be
+similar
+to
+stabilized
+form.
+No data, should be sim-
+ilar to stabilized form.
+Has naturally
+hard,
+smooth
+faces.
+Clear
+finishes improve water
+resistance.
+No data.
+Similar to stabilized.
+1 Forest Products Laboratory compreg.
+* Mech. Eng. 03(10)734 (1941).
+Table
+3-5.
+Moisture
+absorption
+and
+swelling
+on
+water immersion
+of dimensionally
+stabilized,
+parallel-lam inated compreg and an unstabilized form of parallel-laminated compreg, both made from
+maple and containing approximately SO percent resin.
+Specimens %-inch long in fiber direction
+Time in
+Water
+Moisture absorption
+Swelling in thickness
+Stabilized
+form
+Unstabilized
+form
+Stabilized
+form
+Unstabilized
+form
+Days
+4
+11
+30
+60
+I'ercent
+Percent
+Percent
+0. 7
+1. 5
+3. 7
+5. 4
+Percent
+3. 9
+8. 6
+19. 9
+21. 6
+0. 8
+3. 7
+5. 6
+5.
+20. 6
+22. 9
+
+--- PAGE 151 ---
+MODIFIED WOOD
+145
+3.33. Combinations of Compressed and Uncompressed Wood.
+When veneer is
+treated with a dimension-stabilizing resin,
+it
+is possible to combine
+it with cured
+impreg or untreated veneer in a single assembly-and-compression operation so that
+the treated, uncured plies become compressed while the treated and cured plies or
+the untreated
+plies remain virtually uncompressed.
+This
+is
+possible because the
+resin-forming constituents within the cell walls of wood greatly plasticize the wood,
+prior
+to
+the
+setting
+of
+the
+resin,
+at
+hot-pressing
+temperatures.
+For
+example,
+treated spruce, Douglas-fir, and Cottonwood will compress to about half their original
+thickness under
+a pressure
+of 250 pounds
+per square
+inch.
+The
+dry,
+untreated
+plies and the treated precured plies under these conditions will, in general, compress
+less than
+10 percent.
+In
+this way plywood with hard,
+densified faces and a core
+of practically normal density can be made which has improved finish and superior
+mechanical, water-resistant, and dec ay-resistant properties.
+By this same technique, compreg can be made up with only partially compressed
+faces of either impreg or ordinary wood.
+These, in turn, can be glued as described
+under the heading "Impreg."
+No extensive tests have as yet been made on the various combinations of these
+materials.
+Plywood with
+either impreg
+or
+stabilized compreg
+faces on untreated
+cores
+showed weather-resistance properties almost
+as good
+as those
+of the impreg and
+compreg alone.
+Thermal cycles and water soaking and drying cycles did not break
+the bond between the dissimilar materials when made by the recommended methods.
+Decay tests
+at the Forest Products Laboratory on plywood with impreg faces
+on ordinary wood cores indicated that when the cores were exposed they were sub-
+ject to attack by both fungus and
+termites.
+When the edges were protected by
+dipping the assembled panels in a phenolic-resin glue diluted slightly with alcohol,
+decay of the cores was reduced.
+No strength tests have as yet been made.
+It should be possible, however, to
+estimate the values of the combined materials from the properties and distribution
+of the component parts.
+3-34.
+Possible Uses for Impreg and Compreg.
+Because
+of the improved prop-
+erties of these two materials over ordinary wood, they show promise for a number
+of aeronautical uses.
+Plywood with either impreg or thin stabilized compreg faces might be used to
+advantage for various skin surfaces because
+of
+its improved dimensional stability,
+decay resistance, and natural finish.
+Such superior skin surfaces are already being
+used on various control parts to some extent by one
+aircraft company.
+Because
+of the fact that veneer treated with a stabilizing resin is more plastic at hot-pressing
+temperatures than ordinary plywood,
+it may have definite advantages for molding
+by rubber-pad and bag-molding processes.
+The use of impreg and stabilized compreg in the making of housings for sensi-
+tive electrical control equipment looks promising because of the low electrical con-
+ductivity of impreg in contrast to ordinary wood at high relative humidities.
+Compreg shows promise for use as a die mold material; for spar plates; for vari-
+ous fastenings which can be improved by the use of a material with greater tensile,
+compressive, and shear strengths than those of normal wood; for the shanks of air-
+plane
+propellers and even for the entire blade; for landing wheels, nonstructural
+controls,
+chart
+cases,
+etc.
+All
+the
+enumerated
+possible
+uses
+are
+now
+being
+investigated.
+The compreg use that has been carried farthest
+is that for airplane propellers.
+The less dimensionally stable forms of compreg have been extensively used for the
+shanks of airplane propellers in Europe.
+Recently, two different complete compreg
+blades carved from blanks and one molded complete stabilized compreg ground-test
+blade have been approved by the Army and are now in production.
+The molded
+
+--- PAGE 152 ---
+146
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+blade was made from resin-treated, uncompressed, uncured blanks of wood, the plies
+of which were assembled with a phenolic glue under conditions such that the glue
+set only partially.
+These were carved to the desired width and shape, but with a
+thickness 1% to 2% times that
+of the finished product.
+When the carved blanks,
+which had been balanced in the uncompressed form, were heated and compressed
+in a mold, the bonding glue was replasticized, and bonded the treated plies together
+after they were compressed to the final dimensions to produce a joint stronger than
+the wood.
+The chief advantages of this process are that the wood
+is more readily
+carved in the uncompressed, uncured state, and
+less wood and resin are wasted.
+This general procedure
+is also being commercially applied to the molding of aerial
+masts, and could be applied to a great number of different articles.
+3.35. Impreg and Compreg References.
+(3-1)
+Stamm, Alfred
+J., and Seborg, R. M.
+1936.
+MINIMIZING
+WOOD
+SHRINKAGE
+AND
+SWELLING,
+TREATING
+WITH
+SYNTHETIC
+resin-forming
+materials.
+Forest Products Laboratory Mimeo. R1110.
+1938.
+THE antishrink treatment of wood with synthetic resin-forming mate-
+rials AMD ITS APPLICATION IN MAKING SUPERIOR PLYWOOD.
+Forest Products
+Laboratory Mimeo. R1213.
+1941.
+resin-treated, laminated, compressed wood.
+Forest Products Laboratory
+Mimeo. R1268.
+1941.
+FOREST
+PRODUCTS
+LABORATORY
+RESIN-TREATED
+WOOD
+(iMPREG).
+Forest
+Products Laboratory Mimeo. No. 1380, Restricted.
+(3-2)
+(3-3)
+(3-4)
+(3-5)
+1942.
+FOREST
+PRODUCTS
+LABORATORY
+RESIN-TREATED,
+LAMINATED,
+COMPRESSED
+wood
+(compreg).
+Forest
+Products
+Laboratory
+Mimeo.
+No.
+1381,
+Re-
+stricted.
+(3-6)
+Seborg, R. M., and Stamm, Alfred
+J.
+1942.
+effect
+of
+resin treatment and
+compression upon the
+properties
+of
+wood.
+Forest Products Laboratory Mimeo. No. 1383, Restricted.
+(3-7)
+Burr, Horace
+K., and Stamm, Alfred
+J.
+1943.
+comparison
+of
+commercial
+water-soluble phenol-formaldehyde resin-
+Oids
+for
+wood
+impregnation.
+Forest
+Products
+Laboratory
+Mimeo.
+No. 1384, Restricted.
+(3-8) Weatherwax, Richard C, and Stamm, Alfred
+J.
+1943.
+the electrical resistivity of resin-treated wood (impreg and compreg),
+hydrolyzed-wood
+sheet
+(hydroxylin)
+,
+and
+laminated
+resin-treated
+paper (papreg).
+Forest Products Laboratory Mimeo. No. 1385, Restricted.
+(3-9)
+Millett, M. A., Seborg, R. M., and Stamm, Alfred J.
+1943.
+influence
+of manufacturing
+variables on the
+impact
+resistance
+of
+resin-treated
+wood.
+Forest
+Products
+Laboratory
+Mimeo.
+No.
+1386,
+Restricted.
+3.4. HEAT-STABILIZED, COMPRESSED WOOD (STAYPAK).
+3.40. General.
+Ordinary densified wood, which is made by compressing heated
+wood, usually in the form of sheets of veneer coated with a synthetic-resin bonding
+agent, has excellent strength properties.
+It tends, however, to return to its original
+uncompressed
+state when
+subjected
+to
+swelling
+conditions,
+recovering
+50
+to
+60
+percent
+of
+the bulk
+lost
+in
+compression.
+This material
+is
+customarily made
+of
+veneer conditioned to about 6 percent moisture content and is compressed at about
+300° F. under pressures ranging from 2,000 to 3,000 pounds per square inch.
+The Forest Products Laboratory has shown
+that, by
+increasing the
+original
+moisture content of the veneer to 9 to 12 percent and the temperature to 350° F.,
+a material
+is produced which, when soaked in water, recovers only about 5
+to 10
+percent
+of
+the
+bulk
+lost
+under
+compression.
+The Laboratory
+has
+termed
+this
+product "staypak."
+This large reduction
+is presumably due
+to the fact that the
+lignin of the wood flows sufficiently under these conditions
+to relieve the internal
+stresses caused by the compression.
+Because of the higher moisture content, the
+wood
+is more plastic when under compression and hence can be compressed to a
+specific gravity of 1.38 at pressures of 1,500 to 1,800 pounds per square inch.
+
+--- PAGE 153 ---
+MODIFIED WOOD
+147
+Heat-stabilized, compressed wood is darker in color than normal densified wood.
+Although the equilibrium swelling has not been materially reduced, swelling occurs
+so slowly, due to the tendency of the material to remain compressed, that
+it will
+readily meet the water-adsorption requirements of the Army Air Forces Specifica-
+tion for Compreg, No.
+150(55.
+The strength properties of heat-stabilized, compressed wood, except for shear
+at right angles to the direction of compression, are equal to or higher than those
+of compreg.
+The property that
+is improved
+to the greatest extent
+is the impact
+strength.
+Heat-stabilized, compressed wood made at the Forest Products Labora-
+tory from birch, maple, eottonwood, and sweetgum had Izod values ranging from
+10 to 14 foot-pounds per inch of notch in contrast to values for compreg ranging
+from
+3
+to 8 foot-pounds per inch of notch.
+The average modulus of rupture for
+the four species was 37,000 pounds per square inch (Army Air Forces Specification
+No. 15065 for compreg requires 35,000), and the average modulus of elasticity in
+bending was 4,100,000 pounds per square inch (Army Air Forces Specification No.
+15065 for eompreg requires 2,700,000).
+The average compressive strength parallel
+to the grain
+for
+the
+four species was 20,200 pounds per square
+inch, which just
+exceeds
+the Army Air Forces
+Specification
+for compreg.
+The shearing strength
+parallel to the grain and in the direction of compression of the wood
+will readily
+meet the Army Air Forces Specification of 5,000 pounds per square inch, using the
+cylindrical double-shear
+test.
+Of the four species investigated, maple alone gave
+shear values parallel to the grain and at right angles to the direction of compression
+that would
+consistently meet the
+specifications.
+Values
+as low
+as 2,000 pounds
+per square inch (half of the values specified for compreg) were obtained with cotton-
+wood and sweetgum.
+Birch gives border-line values.
+Heat-stabilized, compressed wood can be made from
+solid wood
+as
+well
+as
+from veneer, thus avoiding the use of critical resins.
+The properties, as determined
+in limited tests, appear to be similar to those for the material made from veneer.
+Heat-stabilized, compressed wood
+is
+easier
+to
+glue than
+stabilized compreg,
+because
+it has no glossy, resinous surface and absorbs solvents somewhat
+better.
+Excellent joints were obtained in tests with several different synthetic resin
+glues.
+Experiments are under way in an attempt to substitute heat-stabilized, com-
+pressed wood made from maple or birch for unstabilized forms of compreg and, in
+some instances, for stabilized compreg.
+Tests are also under way to determine
+its
+suitability for propellers.
+For uses where the shear at right angles to the direction
+of compression is not highly critical, heat-stabilized wood made from the less critical
+species may be suitable.
+3.5. HIGH-STRENGTH LAMINATED PAPER PLASTIC (PAPREG).
+3.50. General.
+Papreg
+is a laminated paper plastic of high tensile strength and
+high modulus of elasticity developed at the Forest Products Laboratory.
+It can be
+made to have more than twice the tensile strength and more than one and one-half
+times
+the modulus
+of
+elasticity
+of
+the
+best
+conventional paper laminates.
+The
+plastic can be produced under low molding pressures and therefore has possibilities
+of use in large applications such as monocoque aircraft construction.
+Papreg
+is composed of laminations of special papers impregnated and molded
+with phenol-formaldehyde
+resins.
+The pulps
+that have been found
+suitable
+are
+those in which the wood has been digested just sufficiently to produce a well-fiberized
+pulp.
+The paper
+is made with high tensile strength in at least one direction, high
+density, and high absorbency.
+The highest
+tensile strength
+in the
+plastic
+is ob-
+tained when the paper
+is parallel laminated; that
+is, with the sheets laid parallel in
+the direction of their highest tensile strength.
+The tensile strength and modulus of
+elasticity in tension of cross-laminated plastic are about 80 percent of those prop-
+erties
+in parallel-laminated
+plastic
+(tested
+in the grain
+direction).
+Parallel-lami-
+nated plastic
+is, of course, highly anisotropic, whereas the cross-laminated material
+
+--- PAGE 154 ---
+148
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+is more
+nearly
+isotropic
+and,
+for
+this
+reason, may
+be
+better adapted
+to some
+applications.
+The minimum requirements (Federal Specification L-P-406, Organic Plastics)
+for parallel-laminated papreg,
+tested
+in the grain
+(fiber)
+direction,
+are a
+tensile
+strength of 35,000 pounds per square inch and a modulus of elasticity in tension of
+3,000,000 pounds per square inch.
+The specific gravity
+is about
+1.4 and the water
+absorption 2 to 5 percent.
+In general, the strength values, with respect to normal
+temperature, range from an increase of about 15 percent at —65° F. to a decrease
+of about 20 percent at 158° F.
+Although the smooth surface does not require the
+involved finishing and coating that metal and wood need, a low-gloss, highly pig-
+mented surface can be readily obtained,
+if desired, by incorporating the pigment in
+the resin used in impregnating the surface laminations.
+The moisture and decay
+resistance are reasonably acceptable.
+Papreg can be molded
+in moderate double curvature forms without
+special
+treatment.
+Slight taper and gage variations are readily fabricated to produce mem-
+bers of uniform strength,
+as
+in cantilever beams.
+The material
+is subject
+to
+die
+and bag molding at pressures as low as 75 pounds per square inch.
+L-sections with
+an internal radius of curvature as low as one-sixteenth inch have been bag-molded
+with no loss in strength hi the bent zone.
+Partially precured panels can be laid up
+and molded like veneer by bag-molding methods.
+High-strength tubes have been
+made under conditions such that the wrapping pressure was sufficient for molding.
+Papreg can be satisfactorily glued by a number of cold-setting, low-temperature, and
+hot-press glues.
+For data on the strength and related properties of papreg, see Forest Products
+Laboratory Restricted Mimeograph No. 1319.
+3.6. COMBINATION MATERIALS.
+3.60. General.
+Combinations achieved by gluing together low- and high-den-
+sity materials such as balsa with plywood, and plywood, balsa, or other low-density
+materials with compreg, papreg, and impreg, result in products with special charac-
+teristics which are useful
+in aircraft.
+Such combinations may be achieved as
+flat or curved panels by bonding be-
+tween platens of a hydraulic press, molding with fluid pressure, or pressing by other
+conventional methods.
+There
+is no fixed relationship between the position of the
+high- and low-density layers in any combination.
+A common practice
+is to employ
+thin, high-density layers on the surface and a relatively thick, low-density material
+in the center of a panel (commonly referred to as sandwich construction), but this
+is only one of several possible arrangements, and others will probably be developed
+to meet specific requirements in the future.
+The combination may be achieved by bonding the materials with either hot- or
+cold-setting glues, depending upon the exposure, types of material, and methods of
+fabrication.
+Papreg can be formed from resin-impregnated paper by hot-pressing
+in
+the
+same operation during which
+it
+is bonded to the lower density core.
+For example,
+an assembly consisting of sheets of veneer with glue between and layers of uncured
+resin-impregnated paper on top and bottom can be subjected to heat and pressure
+so that, when withdrawn from the press,
+it will be in the form of a plywood panel
+surfaced with papreg.
+
+--- PAGE 155 ---
+CHAPTER 4. AIRCRAFT GLUES
+4.0. KINDS.
+4.00.
+General.
+Synthetic-resin and
+casein
+glues
+are the two kinds
+of
+glue
+now in use for aircraft gluing.
+Animal glue and blood-albumin glue were formerly
+used to some extent but are no longer employed.
+4.01.
+Synthetic-resin Glues.
+The
+development
+of
+synthetic-resin
+glues
+for
+wood
+(4-5) has provided bonding materials
+superior
+in a number
+of important
+properties
+to those formerly used in
+aircraft.
+Most uses
+in
+aircraft require glues
+that
+retain
+their strength and
+durability under moist
+conditions and even
+after
+exposure to water.
+In these properties the synthetic-resin glues arc outstanding
+{4-2, 4-3).
+The best-known and most commonly used synthetic-resin glues are the phenol-
+formaldehyde and
+urea-formaldehyde
+types.
+There
+are
+also
+synthetic-resin
+ad-
+hesives of the melamine, resorcinol, and polyvinyl ester type, but they are not yet
+so widely used.
+Some of these resins may be combined with each other or with
+other materials to form glues of somewhat different basic characteristics than those
+made from a single resin
+if such materials are compatible.
+Examples of such com-
+binations are urea and melamine, urea and resorcinol, phenol and resorcinol, and
+phenol and dried blood.
+Insoluble materials, such as walnut-shell
+flour or wood
+flour, are often added to the resins to give better working characteristics and joint
+forming properties.
+As a result
+of this practice,
+there are resin glues containing
+varying amounts
+of other materials, some
+of which
+are
+variously
+referred
+to
+as
+"fortified,"
+"modified,"
+or "extended."
+Synthetic-resin
+glues may
+be
+classified
+as
+thermosetting
+or
+thermoplastic.
+The phenol, urea, melamine, and resorcinol resins belong to the thermosetting class,
+and once the condensation reaction, which
+is hastened by heating,
+is complete, no
+subsequent softening occurs even though the temperature
+is increased beyond the
+original setting temperature.
+Synthetic resins of the thermoplastic
+class, such as
+the
+vinyl
+acetate
+or
+butyrate, soften whenever
+the temperature
+is raised above
+the softening range that is characteristic of each particular type of resin.
+A thermo-
+plastic resin must be first heated and then cooled under pressure in using it as an ad-
+hesive.
+Glues of the strictly thermoplastic type are not recommended for the gluing
+of wood aircraft parts.
+Variations in the raw materials, the details of processing, and added materials,
+such as catalysts and fillers, produce synthetic-resin glues of different characteristics,
+form, and properties.
+There are thus a number of resin glues available of varying
+use characteristics.
+A common
+characteristic of the thermosetting resin glues
+is
+that they are only partly "polymerized" during manufacture and a further reaction
+is necessary to set or "cure" them.
+Synthetic-resin glues may be marketed in the form of dry film, dry powder,
+suspension, in water, or nonaqueous solution.
+A number of them are formulated
+for hot pressing, during which the high temperatures soften the resin to an adhesive
+condition and complete the setting reaction.
+Cold-setting resins now in common
+use are mainly of the urea-resin type and contain a catalyst which accelerates the
+chemical reaction and results in the setting of the glue at ordinary room tempera-
+tures.
+Other resin glues, which set at intermediate temperatures, are formulated
+from
+phenols, melamines,
+or combinations
+of
+resins.
+Considerable progress has
+been made toward the development of phenol, resorcinol, and melamine type glues
+that will set at somewhat lower temperatures, the aim being the perfection of glues
+149
+
+--- PAGE 156 ---
+150
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+that will set at room temperature or slightly above and which will be more durable
+than the present cold-setting resins and casein glues.
+4.02. Casein
+Glues.
+The
+forms,
+characteristics,
+and
+properties
+of
+water-
+resistant
+casein
+glues have remained
+substantially
+the
+same
+for many
+years
+except for the addition of preservatives {4-6).
+The dried casein of milk is the basic
+constitutent of this class of glues.
+It is combined with alkalies or alkali-producing
+chemicals which, when mixed with water,
+dissolve the
+casein.
+The addition
+of
+50
+bO
+70
+RELATIVE HUMIDITY (PERCENT)
+Figure 4-1.—Approximate equilibrium moisture content of cured glue films at various relative humidities at 80° F.
+lime or other materials causes the glue to set and later retain a part of its strength,
+even when saturated with water.
+Casein glues for use in aircraft should contain
+suitable preservatives to make the set glue resistant to molds and other deteriorating
+organisms.
+Most casein glues are sold in powder form ready to be mixed with water. They
+are mixed and
+applied
+at
+ordinary room
+temperatures.
+Casein
+glues
+are used
+much in
+aircraft repair and
+to some extent
+in assembly
+gluing, but have been
+largely replaced in original fabrication of aircraft parts by synthetic-resin glues that
+set at low temperatures.
+They have been in use for many years and the details
+of their preparations and application are generally well known
+{4-8).
+
+--- PAGE 157 ---
+AIRCRAFT GLUES
+151
+4.1. PROPERTIES OF AIRCRAFT GLUES.
+4.10. General.
+The properties of the glues used in aircraft construction vary
+widely.
+Specific information on these properties has been obtained at the Forest
+Products Laboratory in large part from tests of joints and wood assemblies.
+It
+is
+difficult to interpret the various properties of glues as dry films or solids in terms
+of their properties and performance in wood joints.
+The data herein presented on
+properties of glues are accordingly based mainly on joint and assembly
+tests.
+4.11. Resistance of Glues to Moisture and Temperature Effects.
+The
+tendency
+of glues
+to absorb moisture from the atmosphere
+is usually associated with their
+wet
+strength
+or water
+resistance.
+Figure
+4-1
+shows
+the
+approximate
+moisture
+equilibrium of the films of several types of glues when exposed at 80° F. to different
+relative humidities.
+These data are in general related to the strength of the glues
+in wood joints, in that those glues having a high moisture equilibrium are normally
+low in wet strength.
+4.12.
+Effect of Moisture on Glues.
+The
+resistance
+of
+different
+types
+of
+syn-
+thetic-resin glues and of casein glue, without toxics, in plywood joints after exposuie
+to severe moisture and temperature
+conditions,
+is
+illustrated
+in
+figures
+4-2,
+4-3,
+and 4
+4.
+The plywood was made of 3
+plies of
+/i6-inch birch veneer.
+The glues
+were
+prepared and
+applied
+in
+accordance
+with
+manufacturers'
+directions.
+The
+plywood after pressing was conditioned to equilibrium with
+a relative humidity of
+65 percent and 80° F. temperature and then cut into shear specimens.
+A part of
+the specimens fiom each panel were tested dry and a part wet after soaking in water
+at room temperatures
+for 48 hours.
+The remaining specimens were
+divided
+into
+groups,
+subjected
+to
+prolonged
+exposure
+at
+different
+conditions,
+and
+tested
+at
+various intervals during exposure.
+The
+joint strengths
+of the specimens,
+tested
+dry
+after various exposure
+periods,
+are shown
+as percentages
+of the original dry
+strength.
+Specimens subjected to cyclic exposures involving moisture were tested
+after the dry portion of the cycle.
+The estimated percentages of wood failure in the
+tested specimens are shown as vertical bars in each graph.
+Figure 4-2 shows the results obtained after exposure of the plywood specimens
+to a repeating cycle consisting of 2 weeks at 97 percent relative humidity and S0° F.
+and 2 weeks at 30 percent relative humidity and 80° F.
+Of the five types of glues
+involved, only the phenol-formaldehyde retained most of its original strength under
+prolonged exposure, and the uniformly high wood failure in the tested joints through-
+out the 6-year exposure indicates that the glue had not deteriorated more rapidly
+than the wood.
+In
+all the other types
+of glues used,
+the
+declining wood
+failure
+with exposure indicates a more rapid deterioration in the glue than in the wood.
+Other specimens from the same plywood panels were tested after exposure
+to
+(1) a repeating cycle of 2 days' soaking in water at room temperatures and 12 days'
+drying at 30 percent relative humidity and 80° F.
+(fig. 4-4),
+(2) continuous 97 per-
+cent relative humidity and 80°
+F., and
+(3) continuous soaking
+in water at room
+temperatures.
+The order of the five types of glues with respect to durability under
+these three exposures was approximately the same as that shown for alternate high-
+and low-humidity exposure in figure 4-2.
+In the continuous soaking and the alter-
+nate soaking and drying exposures,
+the plywood glued with
+urea
+resins showed
+less rapid deterioration than in the high-humidity exposures.
+The casein glues like-
+wise withstood continuous soaking and alternate soaking and drying exposures some-
+what better than continuous or
+cyclic exposuies
+to high humidities.
+Continuous
+exposure
+to 97 percent relative humidity weakened the casein glue without
+toxic
+more rapidly and the urea-resin glues at about the same rate
+as the cycle of high
+and low humidity
+(fig. 4-2).
+The vinyl-ester or thermoplastic-glued plywood was
+weakened more rapidly in the continuous soaking tests than
+in
+the
+high-humidity
+exposures
+and
+more
+rapidly
+in
+cycles
+involving
+wetting and
+drying
+than
+in
+exposures to continuous high humidity or soaking.
+The declining strength
+of
+all
+
+--- PAGE 158 ---
+152
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+PHENOLS
+(HOT-PRESSED)
+CASEINS (COLD-PRESSED)
+{W/THOUT PRESERVATIVE)
+18
+Z4
+30
+3b —
+i
+42
+T"
+48
+54
+i
+60 —
+i
+bb
+TIME OF EXPOSURE (MO/VTHS)
+-100
+-50
+72
+FicuREr4-2.—Resistance of plywood, glued with 5 types of glues, when exposed to a repeating cycle consisting of 2 weeks in t)7
+percent relative humidity and 80° F., followed by 2 weeks in 30 percent relative humidity and 80° F.
+
+--- PAGE 159 ---
+AIRCRAFT GLUES
+153
+ao
+CO
+40-
+20-
+PHENOLt) (LOW-TEMPERA TORE)
+ALKALINE. TYPE
+<?
+4
+b
+TIME OF EXPOSURE. {MONTHS)
+Fiourk 4-3.—Resistance of plywood, glued with 6 types of glues, when exposed to a repeating cycle consisting of 8 hours at 158° F.
+and 20 percent relative humidity, followed by 16 hours at 80° F. and 65 percent relative humidity.
+
+--- PAGE 160 ---
+154
+ANC BULLETIN —WOOD AIRCRAFT

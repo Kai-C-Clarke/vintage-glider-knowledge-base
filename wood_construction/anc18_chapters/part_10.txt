@@ -1,0 +1,883 @@
+In determining the optimum effectiveness
+of the compression plywood material,
+it
+is emphasized that the total load carried by the material would be approximately
+limited to the buckling load rather than being proportional to the total load upon the
+section.
+If
+it
+is considered permissible for the subject panel to buckle at the design
+load, the effective thickness for use in computing section properties may be taken as
+approximately
+t
+\ —-\ (—Y defined in figure 3-24.
+If
+it remains unbuckled the cor-
+\Fj\yJ
+,E \
+responding effective thickness may be taken as
+t yj^
+J.
+The applicable procedure must
+be checked by computing the actual stress in the plating and comparing
+it with F Ccr
+.
+The resultant external applied loads on the section in question should be resolved into
+(1)
+Vertical shear (in plane of symmetry).
+(2) Transverse shear (at reference point determined by
+fig. 3-23).
+(3) Moment about each of the principal section axes.
+(4) Torque about reference
+axis
+(for example, the intersection with the plane of
+symmetry of the transverse reference axis defined by fig. 3-23).
+The plywood panels (sides, top, and bottom) can be considered to carry the shear upon
+the section, both that due to the vertical and transverse loads and that resulting from
+torsion. When the flange material is concentrated in the longerons, the shear intensity
+(pounds per inch run) can be considered constant between adjacent flanges. The shear
+intensity, and thus the shear stress, may then be determined by figure 3-23 without
+the use of the shear center.
+Such center may be determined,
+if desired, by the methods
+of reference 3-11.
+Calculations made in connection with the application of the thin-shell
+theory, developed primarily for use with isotropic metal materials, should be modified
+to account for variations in the modulus of rigidity (G) for the various wood panels as
+affected by wood species, direction of grain, relative thickness and arrangement of plies,
+according to the methods described in chapter 2.
+If the shell thickness, curvature, and frame spacing are such that the buckling
+stresses will not be exceeded under conditions of maximum oading, the section properties
+may be calculated usfhg the
+full shell area as modified to correspond to equivalent
+longeron material, that is, the proportionate amount of effective shell material, in terms
+E
+of longeron material,
+is equal to — as previously described. When
+the
+section
+prop.
+E,
+erties are thus calculated on the basis of longeron material, the bending stress in the
+longerons is determined in the usual manner.
+U=^
+(3:59)
+Where yi
+is the distance of the longeron material from the neutral axis.
+The bending
+stress in the plywood material, however,
+is determined as
+(3:60)
+Where yi is the distance of the subject material from the neutral axis.
+The possible variety of assumptions made to facilitate analysis can be considerable
+and
+will,
+to a large extent, be determined by the individual
+details
+of the problem
+together with the designer's experience, judgment, and discretion.
+An adequate sup-
+
+--- PAGE 197 ---
+METHODS OF STRUCTURAL ANALYSIS
+191
+plementary static-test program is required, and it is also essential that the assumptions
+used in converting the test data into allowable loads and stresses be duplicated in the
+stress analysis of the flight article.
+3.42. Reinforced-Shell Type.
+This type of construction
+is very broad in nature
+and covers the field extending from the longeron type with large longerons and thin
+shell to the type approaching the pure shell, that is, small longitudinals and thick shell.
+3.421. Stressed-skin fuselages.
+Stressed-skin fuselages usually are structures of
+the reinforced-shell, single-cell type, and the basic methods of wing analysis, as described
+in section 3.13 generally can be applied directly to the analysis of such fuselage struc-
+tures.
+Due to variations of the type of loading and certain other structural problems,
+however, it is considered advisable to review the fuselage analysis problem as a separate
+subject.
+Unless a fuselage of this nature conforms closely to a previously-constructed type,
+the strength of which has been determined by test, a stress analysis
+is not considered
+as a sufficiently accurate means of determining its strength. The stress analysis should
+be supplemented by pertinent
+test data.
+Whenever
+possible,
+it
+is
+desirable to
+test
+the entire fuselage for bending and torsion, but tests of certain component parts may
+be acceptable in conjunction with a stress analysis.
+3.422. Computation of bending stresses.
+Prior to computing the bending stresses,
+it
+is necessary to compute the fuselage-section properties.
+As was previously recom-
+mended in section 3.13,
+it
+is considered advisable to make a sketch of the fuselage
+section
+considered.
+This
+sketch should indicate
+all
+of the material assumed
+to be
+effective.
+Figure 3-25 is a sketch of a fuselage cross section of the subject type.
+On the tension side of the fuselage the skin material may be assumed to be acting
+as discussed in the following, while, on the compression side, only the effective width
+of skin
+(section 2.76) adjacent to the stiffener should be assumed to be acting.
+In
+general, the modulus of elasticity of the plywood plating will differ from that of the
+stiffener material.
+Account of this fact must be taken in calculating the section prop-
+erties.
+This may be done by converting the actual area of the plating on the tension
+side into that of equivalent stiffener material, either in terms of equivalent thickness
+or equivalent widths—the latter being somewhat analogous to the effective width as
+used on the compression side.
+The geometrical shape of the section contour together
+with the arrangement and spacing of stiffener material
+will dictate which method of
+treatment
+is analytically simpler or more accurate. The proportionate effectiveness of
+E,
+the
+plating
+material
+in
+tension may be taken
+as — as
+described
+previously under
+section
+3.42.
+E*
+Proper account
+for wood
+species, plywood grain attitude and arrangement, and
+veneer thicknesses should be taken into account according to the procedures described
+under section 2.76. The determination of bending stresses by means of the
+formula
+implies the assumption
+of plane
+sections remaining plane
+sections.
+Hence,
+the
+cal-
+culated stresses in the plating material, as based upon section properties determined
+by conversion of plating material into equivalent stiffener material, must also be modified
+E
+in the ratio — . The resulting corrected stresses in the plating must be compared with
+
+--- PAGE 198 ---
+192
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+ILLUSTRATING
+TREATMENT OF MATERIAL
+EFFECTIVE
+IN 3 ENDING
+A 30UT
+X-X AXIS
+Figure 3-25.—Reinforced shell fuselage.
+the allowable
+tensile
+stresses
+in the
+plating material as described
+in section 3.1383.
+Such a check should always be made of plywood material adjacent to highly stressed
+stiffener
+material, even where the
+contribution
+of such plywood material has been
+completely neglected in the determination of section properties.
+In order to account
+for the effect of shear on the effective widths for stiffeners on the side of the fuselage,
+it
+is advisable to compute the effective widths for all stiffeners on the compression side
+on the basis of a panel edge stress corresponding to the allowable stress of the stiffener,
+rather than the actual stress to which
+it may be subjected.
+It
+is customary to assign
+to each stiffener and adjacent skin an item number.
+Prior to actual computations, the
+designer should make an estimate of the neutral axis location, thereby dividing the
+elements into those on the compression side and those on the tension side.
+After the
+location of the true centroid of the section has been determined, the designer will be
+able to check the accuracy of his original assumptions as to neutral-axis location.
+It usually will be found that no corrections for axis location are necessary
+if the
+final axis is located relatively close to the one originally assumed. A procedure similar to
+that described in section 3.1330
+will be found convenient for computing the section
+properties.
+Distances and moments originally are taken from some conveniently
+lo-
+cated reference axis. The sum of moments about the reference axis, after being divided
+by the sum of the areas in the section, gives the location of the neutral axis of the sec-
+
+--- PAGE 199 ---
+METHODS OF STRUCTURAL ANALYSIS
+193
+tion.
+Distances of the items from the neutral axis are then determined.
+The sum of
+the products of the areas located on either side of the neutral axis multiplied by the
+distances to the neutral axis is equal to the static moment of the section about the neutral
+axis, Q, and the sum of second moments of all of the elements of the section is equal to
+the moment of inertia of the section,
+I.
+Where the
+axial loads produce appreciable
+values of bending moments on the fuselage, these moments should be included in the
+bending moment, M, which is used to obtain the axial stresses due to bending.
+Critical stresses commonly are assumed to occur at the
+stiffeners located farthest
+away from the neutral axis on the compressive side, and the stresses in these stiffeners
+resulting from bending are computed by the
+equation, M being the critical moment
+at the section and y being the distance of the stiffener from the neutral axis.
+Although the bending theory indicates that the outermost
+fibers are the
+critical
+ones, it will often be found that stiffeners located near the top or bottom, on the shoulders
+of the section, are the ones which are liable to fail during tests
+if the skin buckles in
+shear.
+Such stiffeners usually are subjected to comparatively large direct stresses due
+to bending and, at the same time, may act as the stiffeners of the tension-field shear
+material transmitting the shearing stresses to the outermost
+stiffeners.
+Unless these
+stiffeners are of sufficiently large proportions to
+resist the bending loads imposed by
+the tension-field
+effects,
+failures
+of these
+stiffeners may occur
+at
+loads smaller than
+anticipated.
+3.42 3. Computation of shearing stresses.
+The
+bending
+material
+in
+fuselage
+sections usually
+is distributed
+in such a manner that under symmetrical loadings
+it
+may be safely assumed that each side carries half of the vertical shear load, and the cor-
+.
+.
+VQ
+responding shearing stress, fs , at any point is equal to
+, where V = the shear force act-
+2tl
+ing on the section, Q = static moment about the neutral axis of the areas located between
+the outermost fibers and a horizontal line through the point under consideration, / =
+moment of inertia of the section, and
+/ = thickness of the skin at the point under con-
+sideration.
+The sum
+value, Qx
+(table
+3-5),
+should be used
+for determining the maximum
+shearing stresses that occur at the neutral axis of the fuselage.
+Although these methods
+pertain to the analysis of the fuselage for a shear load applied in a vertical direction,
+similar methods can be employed for a shear load applied horizontally, such as a side
+load on the vertical tail.
+If the structure
+is not too unsymmetrical about a horizontal
+plane, the shear center for application of the horizontal load may be estimated, using
+overlapping assumptions.
+If a more exact
+solution
+of shear
+distribution
+is
+desired,
+the methods of section 3.135 may be used. The total shear stress (or intensity)
+at any
+section
+is that obtained from the
+superposition of
+the component
+shear stresses
+(or
+intensities) resulting from vertical loads, transverse loads, and torsion.
+Although the fuselage structure as a whole should be checked for the shear distribu-
+tion as determined in the foregoing,
+it
+is recommended that certain sections of the
+fuselage be checked for other types of shear stress distribution that may be more in line
+with the actual load application.
+At the point of wing attachment to the fuselage, for
+example, very large loads are transmitted to the fuselage frame through the attachment
+
+--- PAGE 200 ---
+194
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+fitting.
+It
+is reasonable to assume that high shearing stresses will be present near this
+fitting, gradually tapering to the extremity of the frame.
+Although this assumption
+is
+not in agreement with the conventional bending theory,
+it
+is recommended that
+it be
+considered in design to allow for probable shear concentrations.
+T
+Torsional shear stresses can be computed by the conventional formula /„ =
+%A t
+and should be combined with the stresses due to direct shear. The tendency of tension
+fields to sag the stiffeners also should be considered.
+Because similarity seldom exists
+between the geometric properties of different airplane structures,
+it
+is difficult to draw
+conclusions from one
+design as
+to the allowable shear
+stresses to be used for other
+designs.
+It is usually necessary, therefore, to conduct panel tests on representative curved
+shear panels.
+3.43. Pure-Shell Type. By definition, the pure shell or monocoque type of structure
+incorporates no longitudinal stiffening members. Hence, the ultimate strength of such a
+structure may be taken as the critical buckling strength of its elements.
+As described
+in chapter 2, the buckling strength of a plywood panel may be estimated from its thick-
+ness, frame or
+stiffener spacing, wood
+species, arrangement of
+plies, and curvature.
+It
+is generally desirable that no portion of the structure become buckled prior to the
+application of the design load.
+In such a case,
+in. the calculation of section properties,
+the material may be considered
+fully effective and the stresses determined according
+to the fundamentals of mechanics.
+In a section such as shown in figure 3-26B, however, certain portions may become
+buckled at low loads without materially affecting the final load-carrying capacity of the
+total section.
+This may be exemplified by the buckling of flat panels on the compres-
+sion side while the major portion of the total flange material
+is unbuckled by reason
+of its difference in curvature or thickness.
+It is generally satisfactorily conservative
+to omit the buckled material from consideration.
+Such, a partially buckled structure
+must, of course, be adequately stiffened by frames.
+3.431. Monocoque-shell fuselages.
+The
+basic
+principles
+of
+the
+design
+of
+thin-
+walled cylinders, as discussed in ANC-5 sections 1.63 and 1.64 can be applied to the
+design of monocoque fuselages. The monocoque portion of the fuselage structure usually
+is restricted to certain sections of the fuselage, such as the tail portion.
+In the center
+and
+in the forward portions of the fuselage, the reinforced-shell type of construction,
+which is more suited to the region where cut-outs are present, generally is used.
+Careful
+attention should be given to that part of the fuselage structure where two types of con-
+struction join.
+Adequate length and attachment of the reinforcing members to the shell
+should be provided.
+At the points where the monocoque section stops at
+cut-outs,
+transfer of the load from monocoque portion to the stiffeners around the cut-out should
+be investigated carefully.
+(Ref . 3-19.
+)
+Tests of monocoque fuselages have demonstrated that the strength
+is dependent
+to some extent on the smoothness of the plating.
+The designer should, therefore, be
+certain that the methods of assembly of monocoque fuselages in the shop will produce
+a satisfactory product. Where small margins of safety are present and when the effects of
+load concentrations have not been taken into account conservatively, strength tests
+should be carried
+to the full ultimate-load values, because the type of
+failure in this
+type of structure usually
+is elastic, and the appearance of the structure under proof
+
+--- PAGE 201 ---
+METHODS OF STRUCTURAL ANALYSIS
+195
+Y
+A. UNBUCKLED
+(FULLY EFFECTIVE)
+UNBUCKLED
+B.
+PARTIALLY BUCKLED
+Figure 3-26.—Pure shell-type fuselage.
+load may be no indication of the ability of the structure to carry the required ultimate
+loads.
+3.44. Miscellaneous Fuselage Analysis Problems.
+Each
+new
+type
+of
+fuselage
+may present a new set of problems which has not occurred in other types.
+It is recom-
+
+--- PAGE 202 ---
+196
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+mended, therefore, that every new type of fuselage be tested at least to the critical ulti-
+mate loads to determine the presence of possible stress concentrations and other effects
+which could have been overlooked in the most careful design.
+Some of the analysis
+problems which are somewhat common to all types of fuselages are discussed in the fol-
+lowing
+sections.
+3.441. Analysis of seams.
+The allowable loads of the seams should be computed
+and compared with the loads imposed by direct tensile stresses, by shear stresses, by any
+tension field effects of the shear stresses, and by combined stresses due to the action of
+all these stresses.
+3.442. Analysis of frames and rings.
+The analysis of the fuselage frames consti-
+tutes a separate problem. Many manufacturers have adopted certain standard methods
+of frame analysis, which, although not necessarily mathematically rigorous for the types
+of the structures considered, have produced satisfactory designs. A general discussion
+of some of these methods is given.
+3.4421. Main frames.
+Main frames are primarily for the purpose of distributing
+into the fuselage such concentrated loads as the loads from wings,
+tail
+surfaces, or
+landing gear, and those resulting from the local support of items of mass.
+Main-frame
+structures usually are of the redundant type and their analysis is based on the principles
+of least work and related or equivalent methods such as strain energy, column analogy,
+moment distribution, or joint relaxation (ref. 3-2 and 3-3).
+Figures 3-27 A, B, and C show a fuselage main frame under a symmetrical loading
+condition. The loads from the wing (or landing gear) are shown applied at the applicable
+fittings and are resisted by shear forces in the fuselage skin. To agree with the elementary
+bending theory, these shear intensities should be distributed so as to conform to the
+or — values of the fuselage section, as applicable, giving a distribution of shear
+forces of the type shown in figure 3-27 A or B.
+Some designers take into account the
+fact that, due to concentration of load where the frame is attached to the wing, the shear
+is carried mostly by the adjacent fuselage skin and the shear resistance of the skin
+is
+reduced arbitrarily, somewhat in proportion to its distance from the point of concentrated
+load application.
+This would yield a shear force distribution of the type shown in figure
+3-27 C.
+In such cases, the fuselage skin should also be checked for the high stresses
+indicated.
+The
+ordinary method of frame analysis
+is
+strictly applicable to frames the de-
+flections of which are not restricted by the fuselage skin.
+Actually, the frame deflections
+may become quite pronounced and
+the outward
+deflections
+are
+resisted by double-
+curvature effects in the fuselage skin or by the support of adjacent frames.
+This action
+of the skin
+is equivalent to an introduction of inward-acting loads resisting the frame
+bending and hence to a reduction of frame stresses to smaller values than those indicated
+by an analysis based upon shear distributions as described. The present development of
+the theory does not indicate quantitatively just what allowance can be made for this
+reduction of stresses.
+It is recommended, therefore, that the frame analysis be conducted
+by the methods similar to the ones indicated.
+Where
+relatively deep frames
+are used,
+the moments induced by the wing
+de-
+flections may become important and should, therefore, be analyzed.
+
+--- PAGE 203 ---
+METHODS OF STRUCTURAL ANALYSIS
+197
+ft: * ^
+IS
+»U
+<v ^
+cj 5
+>*- ^
+^
+*
+9c
+=c o ^
+5r ^ ^
+<m y>
+^
+—
+
+--- PAGE 204 ---
+198
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+3.4422. Intermediate frames.
+Intermediate frames are provided
+to
+preserve the
+shape
+of the
+fuselage
+structure, to reduce the column
+length
+of the
+stiffeners, and
+to prevent failure of the structure due to general instability.
+They are subjected to
+several types of loading; such
+as, those due to tension
+fields in the skin, to fuselage
+bending, to transfer of shear to the fuselage plating. Many of these loads are compara-
+tively small and often tend to balance each other.
+For these reasons the design of
+intermediate frames is often based on the experience of the designer or on semiempirical
+methods.
+In the case of large airplanes, however, it becomes of considerable importance
+to design frames of this type to provide suitable stiffness for the prevention of general
+instability.
+3.443.
+Effects of cut-outs.
+Effects of cut-outs usually are allowed for by omitting
+the bending material affected by the cut-out from the computation of the section prop-
+erties.
+For shearing stress computations in the location of regularly spaced cut-outs,
+such as windows, the shear stress in the skin between cut-outs may be taken as equal
+to that computed on the assumption that no cut-outs are present and then increasing
+this value by the ratio of distance between cut-out centerlines to the distance between
+the cut-outs.
+Such treatment, although quite arbitrary, has served satisfactorily with
+metal material.
+Because of the inherent lack of ductility in wood and
+its inability to
+deform
+plastically and redistribute
+stresses adjacent to
+local concentrations such as
+cut-outs, the incorporation of large calculated margins of safety is recommended in such
+locations.
+In case of large openings, such as the cabin door cut-outs, allowance for bending
+stress redistribution usually is made by modifying the section properties by omitting the
+material affected by the cut-out.
+For computation of the shearing stresses,
+it may be
+assumed that the direct shear load is carried through that side of the fuselage not con-
+taining the cut-out.
+The couple
+resulting from
+this unsymmetrical reaction in way
+of the cut-out can be assumed to be resisted by a shear couple consisting of equal and
+oppositely directed transverse reactions in the top and the bottom of the fuselage. The
+redistribution of the shear
+stress,
+as assumed, can be achieved best
+if bulkheads are
+provided on both sides of the door.
+Where only one main bulkhead
+is provided
+(at
+only one end of the cut-out ) shear redistribution on the other side of the cut-out must
+be accomplished by the frame under the flooring and by the intermediate frames.
+Refer-
+ence 3-19 describes the basic theory and recommended methods of determining the
+shear distribution in the plating about cut-outs, and also the corresponding effect of the
+cut-outs upon the loads in the stringers and frames.
+3.444. Secondary structures within the fuselage.
+Often the designer is faced with
+the problem of existence of a secondary beam structure inside the main fuselage or hull
+structure. This secondary structure may consist of keels or keelsons in a flying-boat hull,
+or of the floor supporting structure or nose-wheel retracting tunnel in a fuselage.
+If this
+type of structure is analyzed separately under the specified local loads alone, the stress
+distribution may not correspond to the distribution that will be obtained with it acting
+in conjunction with the rest of the fuselage structure. The designer should make certain
+that the combined effects of the two structures are in agreement and that the action of
+the structure as a whole is consistent with expected deformations.
+3.45. Strength Determination.
+The strength
+of the structure
+is determined by
+comparison of the calculated internal loads and stresses with the allowables obtained
+
+--- PAGE 205 ---
+METHODS OF STRUCTURAL ANALYSIS
+199
+either from tests or from the information given in chapter 2.
+The determination of the
+strength of shell structures, including reinforced shells,
+is presented in detail in section
+3.138.
+3.5 HULLS AND FLOATS.
+The analysis of hulls and floats may be treated in a
+manner similar to that used with fuselage structures, the chief difference being in the
+manner in which the major external loads are applied, that
+is, by direct contact with
+the water in the form of normal pressures.
+Fundamentally,
+hull and float structures
+consist of
+(1) Bottom plating—that, in contact with the water,
+is loaded by the normal pres-
+sures developed in landing, take-off, or buoyancy, and transfers such loads to the
+(2) Bottom
+stringers—that support
+the
+plating and
+transfer the
+plating
+loading
+to the supporting
+(3 ) Frames—that in turn carry the water loads through to the
+(4) Main longitudinal girder—or general structure.
+Consideration
+is given to the
+fact that water causes concentrated
+local loads on
+float and hull bottoms that may
+reach intensities considerably above the average loading and may be applied at different
+times and for different durations to
+different portions of the bottom structure.
+For
+these reasons the strength requirements for design of the bottom plating are specified
+as more severe than those for stringer design.
+The bottom stringer strength require-
+ments are, in turn, more severe than those for complete frame design.
+The specified
+loads as applicable to the design of the general structure are in general of lesser local
+intensities but are consistent with the design airplane accelerations and total reactions.
+3.51. Main Longitudinal Girder.
+This structure may consist of a centerline truss
+or bulkhead girder to which the frames, deck, side and bottom plating are attached.
+Or, the deck,
+side, and bottom plating and stringers plus other longitudinal material
+connecting to, and capable of acting with, the skin plating and stringers may be con-
+sidered as a reinforced shell which comprises the longitudinal girder.
+In such a structure
+the frames not only serve to transmit the water loads to the general structure, but pro-
+vide the transverse and circumferential stiffening for the shell. The effective longitudinal
+members ordinarily considered to take the bending loads consist of: keel, bottom string-
+ers,
+keelson,
+chine, deck, and stiffeners.
+The effective shear material consists of side,
+deck, and bottom plating. The analysis assumptions, calculation of section properties,
+and determination of normal and shearing stresses applicable to the longitudinal girders
+are in general as described under section 3.4 for fuselage analysis.
+3.52. Bottom Plating. Thin plating, when subjected to sufficient normal pressures
+will either rupture or deflect excessively and take a permanent set.
+In hulls and floats
+this latter effect is known as "wash boarding," and in an acceptable structure should not
+be allowed to occur at loads below those corresponding to yield-point loads.
+For this
+reason the design criteria established by the procuring or certificating agency in general
+consists of specification of certain design-bottom-pressure loadings in conjunction with
+the permissible permanent deformations at the specified pressure loadings.
+Permanent-
+deformation is measured at the center of the plating panel, between stringers and relative
+to the stringers, in a direction normal to the plane of the plating.
+The analytical determination of bottom-plating stresses and deflections
+is exceed-
+ingly difficult of accurate attainment, and the problem of design calculation methods,
+including the basis for allowable stresses, hence lends itself most readily to treatment by
+
+--- PAGE 206 ---
+200
+ANC BULLETIN—DESIGN OE WOOD AIRCRAFT STRUCTURES
+testing procedures.
+Test panels representative of
+(1) the plating species, thickness and
+plywood type,
+(2) the stringer spacing, frame spacing, and panel aspect ratio, and
+(3)
+method of edge support and type of edge restraint should be tested under normal pres-
+sures, and the applicable strength
+criteria (ultimate strength, arbitrary or true yield,
+and permanent deformation) determined.
+Test data may be interpreted and converted
+in light of the calculation procedures described in chapter
+2.
+In such a treatment, two of the influential factors that determine the calculated
+stresses and
+deflections are
+(1) type of edge support, and
+(2) aspect ratio of panel.
+Clamped or fixed edges assume the plating to be restrained from any rotation at the
+edges, the neutral plane of the plywood maintaining zero slope.
+In simply supported
+edges, conversely, a possibility of rotation of the neutral plane of the plywood at the
+edge
+is implied.
+The plates actually encountered in the design of floats and hulls
+lie
+somewhere between fixed and supported edges and may be considered as elastically
+restrained. The maximum stress in a plate with fixed edges occurs at the long edges,
+whereas it occurs in the middle of a plate with simply supported edges.
+It follows from
+this that a slight deflection or twist of the fixed edges of a plate will decrease the stress
+close to the edges where it is a maximum and increase it near the middle where it was,
+however, originally much less. Bottom stringers are not ordinarily very stiff torsionally
+and constitute a type of support bordering upon the simply supported edge.
+On the
+other hand, keel, keelson, and chine members are necessarily quite stiff torsionally, as
+well as laterally, in that they must be well gusseted to adjacent frames and, forming
+the edge of the plate panels, must be stiff enough to prevent lateral deflections.
+Hence,
+the analytical treatment under both
+limiting conditions of edge support should give
+considerable guidance in design.
+The ratio of frame spacing to stringer spacing ordinarily exceeds 3.0 and hence, the
+aspect ratio of the plating panels for use in design can usually be taken as infinite.
+3.5 3. Bottom Stringers.
+As previously mentioned, the bottom stringers serve to
+transfer the bottom plating normal loads to the transverse frames. They may be con-
+sidered in general as continuous beams supported at the frames with a running load per
+unit of length equal to the stringer spacing times the intensity of bottom pressure.
+Under the ordinary conditions of uniform pressure, frame and stringer spacings, the
+symmetry of loading would permit the consideration of the stringer as a uniformly loaded
+continuous beam over fixed supports.
+This would lead to a design bending moment in
+the stringer:
+where W = stringer transverse loading, in pounds per inch
+and L = support spacing, in inches.
+The extreme probability of loadings other than symmetrical and the
+finitely
+elastic
+nature of the support restraint leads to the use of the more conservative specification
+of the design bending moment as
+(3:61)
+10
+(3:62)
+When the conditions of loading are definitely different from these assumptions (that
+is,
+when the pressure varies, when the stringer is not continuous, or when the support has
+
+--- PAGE 207 ---
+METHODS OF STRUCTURAL ANALYSIS
+201
+unusual restraint characteristics) the stringer should of course, be designed to the local
+conditions
+specifically
+applicable.
+It is rational to consider a portion of the plating adjacent to a stringer as effectively
+contributing to the section properties of the stringer.
+It
+is important that the same
+assumptions as to plating effectiveness be used in converting test data into allowable
+stresses as is used in the analysis of the flight article under the specified loads.
+As
+well
+as being analyzed
+for the
+specified design bottom-pressure
+loading,
+the
+plating and stringer combination should be checked for the conditions in which
+it
+is
+both subjected to direct water loads and also forms a part of the effective flange material
+of the general longitudinal girder structure.
+In such conditions, the stresses resulting
+from the bottom pressures consistent with the loadings on the general structure are
+superimposed upon the stresses incurred as a portion of the flanges of the general structure.
+3.54. Frames.
+Hull and
+float frame design
+differs from ordinary fuselage frame
+design principally in the nature of the applied loads which result from direct water
+pressures.
+Each frame is considered to take the bottom loadings applied to the plating
+and stringer combination structure in the area adjacent to the frame.
+Such loaded area
+extends approximately one-half of the frame spacing to both sides.
+The bottom loads
+are usually transmitted from the stringers directly to the frame in the area between the
+chines.
+The assumptions as to the nature and magnitude of the balancing reactions in
+the form of shear in the side and deck plating may be patterned after those used in
+fuselage frame design.
+In almost all instances, frame analysis involves the problem of the application of
+the fundamental methods of least work and in this respect may be treated in a manner
+similar to that employed with analogous fuselage frames.
+The probability of unsym-
+metrical loading applications on V-bottom hulls and floats in take-off and landing
+is
+quite high. For this reason the procuring or certificating agency specifies in all instances
+certain unsymmetrical
+design-loading
+conditions.
+Such
+loading conditions are
+often
+critical for the design of frames, and hence the analysis of frames loaded in this manner
+should be given the utmost care and consideration.
+3.5 5. Strength Determination.
+The strength
+of the
+structure
+is determined by
+comparison of the calculated internal loads and stresses with the allowables obtained
+either from tests or from the information given in chapter 2. The determination of the
+strength of shell structures, including reinforced shells,
+is presented in detail in section
+3.138.
+3.6. MISCELLANEOUS.
+Treatment of the wing, fuselage, hull,
+tail, and control
+surfaces does not complete the stress analysis of the airplane structure.
+In airplanes of
+wood construction, however,
+it
+is considered that these same structural components
+constitute nearly all of those in which the use of wood is significant and in the analysis
+of which the physical properties of wood will enter as an important factor.
+Hence, for
+such reasons and as explained in section 3.00, treatment of the detailed analysis problems
+related to the remaining important airplane structural components will not be included
+herein.
+Such components would include, for example, landing gear, engine mount, con-
+trol systems, fittings, and joints. The determination of the design load applied to each
+individual wood structural element of a joint (mechanical joint or glue joint), or fitting
+attachment, may be determined by basic principles of mechanics and machine design.
+Where
+it would significantly affect the distribution of the design load, the nonisotropic
+
+--- PAGE 208 ---
+202
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+nature of wood, which results in the strength and elastic characteristics being dependent
+upon the relation between the directions of the load and of the grain, should be taken
+into account by a rational treatment or provided for by conservative arbitrary assump-
+tions. The design load thus determined for such an element should be compared with
+the allowable load defined by the applicable portions of chapter 2 

@@ -1,0 +1,1175 @@
+OH OF SHEAR FLOW E<JOATKKS
+Figube 3-19.—Rational shear flow—single cell.
+
+--- PAGE 179 ---
+METHODS OF STRUCTUKAL ANALYSIS
+173
+Fioure 3-20.—Conventions for stiffened-D nose section.
+solution of these equations, and the remaining flows computed by successively adding
+or subtracting the shear flows absorbed by the bending elements.
+The notation
+is
+il-
+lustrated in figure 3-21, where the following symbols are additional to those described
+in section 3.13540 for single cells.
+qm = shear flow in main web.
+qf = shear flow in first shear element (numbered 0) of front web.
+s
+,
+s,, ss ,
+.
+.
+.
+s„, are lengths of shear elements.
+Co, c,, o,
+.
+.
+. c„, are elastic constants of the shear elements.
+c=— , where
+t e
+is the effective thickness of the shear element, that
+is:
+t e = t, X—
+,
+tl
+G
+where
+tt
+is
+the
+geometrical
+thickness
+of
+the element,
+G,, the shear modulus of the
+element, and G the shear modulus of the material considered basic for the section (section
+2.52).
+If a particular element
+is expected to buckle appreciably in shear, the value of
+Gj should be reduced accordingly.
+A F = enclosed area of front cell.
+A r = enclosed area of rear cell.
+A =A F+A B
+.
+n
+y
+= summation of quantities for elements 1 through », where n = l, 2, 3, etc.
+1
+N = number of upper flange of main web.
+M = number of lower flange of main web.
+Subscripts f and r refer to front and rear cells, respectively.
+Shear flow in any shmr element (see derivation for single cell).
+Front cell:
+^
+q.nF = qf+l
+A 9 „
+(3:27)
+1
+
+--- PAGE 181 ---
+METHODS OF STRUCTURAL ANALYSIS
+175
+Torque about point 0.
+T
+v
+y
+A„q n , which
+from diagram (b), figure 3-21,
+N-l
+= q-A+ qmAR+y
+(A n >
+A9„)
+1
+=--- (External torque)
+qfA+q mA K =~-)
+(A„ ;
+\q n )
+AR
+M,
+1
+1
+1
+N-l
+n
+^-f^~^l_ (A„>__A,J
+(3:29)
+which may be written in the form
+Xgqf+.YBqm = Z2
+(3:30)
+Where X2 , Y
+and Z 2 are numerical constants, and q} and q m are unknown quantities.
+Consistent deformations.
+The angle of twist
+6
+is the same for front and rear cells.
+Therefore,
+'=^^—4:
+(3:31)
+for each cell, where the summation is taken entirely around the cell.
+(fig. 3-15).
+1
+2G% = -.— >
+qc
+(3:32)
+G is taken out of the summation sign as a constant, since all elements are reduced
+to a common basic shear modulus by«use of effective thicknesses.
+Therefore:
+A p
+A p
+qc=-j-
+qc
+R
+q c = R )
+qc, which
+is
+from diagram
+(b) of figure 3-21:
+M —
+1
+M-l
+n
+N-
+1
+N-l
+n
+qfy
+cn+y
+(c n y
+h.qn) — qmcm =Rq,
+cn+R )
+(cn )
+Aq n )
+1
+M
+M
+1
+N —
+1
++ Kqmy
+c„ + Rq,„c m
+(3:33)
+M
+
+--- PAGE 182 ---
+176
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+or
+M-l
+N-l
+N-l
+N-l
+n
+9/0
+c n — Fty
+c„) — qm
+(em +~Rcm+Ry__
+c„)=R~y
+(cn )
+Aq n )
+IT
+M
+~M~
+~~M~~
+T~~
+M-l
+n
+(c„>
+Aq„)
+(3:34)
+1
+1
+which may be written in the form
+X lfJr+Y,q m = Z,
+(3:35)
+The quantities qf and qm are then determined by solving equation (3:30) and 3:35)
+simultaneously.
+The summation terms
+in these equations may be computed in a form
+similar to table 3-7.
+3.13542. Two-cell, four-flange wing.
+If
+it
+is assumed for this type of wing
+(fig.
+3-22) that the skin and web members carry shear only, the general equations given in
+section 3. 13541 can be written in the following form
+.
+M
+3__
+n
+Qr+-f 9m =jj—j >
+"
+(A n y
+A<?„)
+(3:36)
+8
+.3
+3
+n
+q,{Co-R)
+f„)-q m
+(cm + Rc m + R,y
+CB)=#>
+(c„>
+-
+Aq n )
+(3:37)
+/
+/
+1
+These equations may be expressed as follows
+X£qf+Ygqm = Zs
+(3:38)
+X 1 qf+Y,qm = Z 1
+(3:39)
+where:
+X, = l
+(3:40)
+Y, = ^f
+(3:41)
+M t
+1
+'
+z?=M~i>
+{An >- _ A«->
+(3:42)
+X,=c a -Ry
+c n
+f3:43)
+V, ^-(c m + Rcm+Ry
+c„)
+(3:44)
+
+--- PAGE 184 ---
+178
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+*' =R >
+(c»>
+Aqn)
+(3:45)
+1
+i
+Then, solving (3:38) and (3:39) simultaneously,
+I±Jt±
+(3:46)
+SHEAR FLOWS SHOWN
+IN ASSUMED
+POSITIVE
+DIRECTION
+Sb' = + 100,000 pounds.
+&' = - 10,000 pounds.
+M t = - 500,000 inch-pounds.
+Aq values, as listed in table 3-7 (determined by sec. 3.1351
+(2)
+)
+S,
+t e, and A values as listed in table 3-7.
+-4^ = 2,288 square inches.
+= 2,912 square inches.
+A =5,200 square inches.
+Shear flow values, obtained by substitution of the summations from table 3-7 in
+equations (3:40) to (3:47) are as follows:
+qf= 154.3 pounds per inch.
+q m =2,140.4 pounds per inch.
+The remaining shear flow values are then determined from equations
+(3-27) and
+(3:28):
+
+--- PAGE 185 ---
+METHODS OF STRUCTURAL ANALYSIS
+179
+q, = — 89 pounds per inch.
+q,— —548.1 pounds per inch.
+g,, = 36.8 pounds per inch.
+3.13543. Shear centers.
+For some purposes,
+it is desirable to determine the shear
+center of a wing section. As derived herein, the shear center is defined as the point on a
+wing section at which the application of a shear load will produce no twist in a differential
+length of the structure beyond the section. A point so determined is a true shear center
+for the wing as a whole only
+if the wing
+is of constant section throughout the span, or
+tapers in a manner so that all sections are geometrically similar.
+In the following formulas, symbols not expressly defined are the same as in sections
+3.13540 and 3.13541.
+(a) Single cell. Assume that a V load of value P has been applied to the section and
+the values of frqiov the bending elements computed according to section 3. 1351
+Twist = 6 =
+= SAG /
+qc
+(3:48)
+qc is found by inspection of figure 3-19 and equation (3 :25), resulting in
+N — l
+N-l
+n
+C n + /
+\
+(3:49)
+1
+1
+J
+Equation (3 :49) is solved for the value of qm which will produce no twist
+N-l
+n
+(Cn
+1
+1
+N-l-
+(3 :50)
+cm+
+Cn
+1
+Let x = the horizontal distance from the origin
+to the load P for the condition of
+no twist.
+(That
+is, x = distance to shear center).
+Since Px =M t , x may be determined
+from equation (3:26), as follows:
+N-l
+n_
+(3:51)
+Pr
+1
+q "'
+2A
+A
+(A n y
+\q n )
+1
+2A
+P
+N-l
+qm + A
+{An
+a 9 „:
+(3:52)
+where qm is from equation (3:50) and other terms are computed as in table 3-6.
+The vertical location of the shear center may be determined,
+if desired, by applying
+a drag load and proceeding as has been shown.
+(b)
+Two-cell.
+It is assumed that a V load of value P has been applied at the shear
+
+--- PAGE 186 ---
+180
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+center which
+is at an unknown horizontal distance x from the origin 0, and that ^q
+values corresponding to load P have been computed for the bending elements.
+Since the
+twist of both cells is zero:
+1
+0/, = O = -j->
+qc
+(3:53)
+R
+6« =0=^->
+qc
+(3:54)
+Substituting for y
+qc, according to section 3.13541:
+M—l
+M-l
+n
+'y=0 = g/>
+c n -qm cm+y
+(c„>
+Aqn)
+(3:55)
+11
+N-l
+N-l
+N-l
+n
+6«=0 = 9/>
+t- „+(/„,
+(
+_c n+cm)+)
+(c n )
+Aq n )
+(3:56)
+M
+M
+M
+1
+Solving equations (3:55) and 3:56) simultaneously for (//and q,„ will give the values neces-
+sary for the condition of no twist.
+Since Px is the torsional moment about the origin 0,
+this moment and the value of x may be found from the derivation of equation (3:29),
+as follows:
+M
+P
+M-l
+n
+-l=-^ = qfA + qn AR+y
+(A n y
+Aq n
+(3:57)
+1
+1
+where the values of gyand qm arc from equations (3:55) and 3:56).
+The vertical location
+of the shear center may be determined, if desired, by applying a drag load and proceeding
+as in the foregoing.
+3.136. Ribs and bulkheads.
+3.1360. Normal ribs. Normal
+ribs
+(those subjected
+primarily
+to
+airloads),
+in a
+shell wing, receive the airloads from adjacent skin and stiffeners and redistribute them
+to the various shear elements of the wing section.
+The strength of such ribs is always
+proven by strength tests, but a picture of the stress distribution is useful in rib design
+and m devising suitable test set-ups.
+The required airloads, distributed in accordance
+with the airfoil chordwise pressure distribution, may be considered as the applied loads
+on the rib, and the shear flows applied by the rib to the various wing section shear ele-
+ments, oppositely directed, as the reactions.
+Such shear flows may be determined by
+performing computations similar to those
+for the shear flow
+distribution
+(using the
+section method, sec. 3.1351
+(2)
+), after resolving the airloads into resultant forces and
+a moment, at a convenient reference point.
+These conditions may be simulated
+in a
+test by constructing a short spnawise
+section of the wing in which the test rib at one end forms the loading bulkhead, while a
+bulkhead at the opposite end supports the whole section. The spanwise length, and the
+
+--- PAGE 187 ---
+METHODS OF STK U( TUKAL ANALYSIS
+181
+attachment of stiffeners and skin to the support bulkhead, should be such that the rib
+loads are not transmitted directly to the support bulkhead by these elements acting as
+cantilever beams.
+Normal ribs are also subject to a variety of secondary loads, for example: Loads
+resulting from their function as compression elements when the skin buckles into diagon-
+al-tension fields due to shear; and loads resulting from the axial forces in stiffeners and
+skin while the wing is deflected in bending.
+3.13600. Rib-Crushing Loads.
+Compressive forces
+in the upper surface material
+of the wing, while it is curved upward by bending deflections, produce downward acting
+loads in the ribs, while the tensile forces in the lower surface produce upward
+loads,
+thus subjecting the ribs to compression or crushing in the vertical direction.
+Where an
+appreciable portion of the wing-bending material is distributed in the form of skin and
+stiffeners remote from the beam webs, the rib-crushing loads should be investigated by
+methods such as reference 3-10 or the following
+PL
+PLM
+w=-r=-eT
+(3:58)
+where
+if = vertical crushing load on rib flange, in pounds per inch of chord.
+P = spanwise axial load: in wing surface material due to bending,
+in pounds per
+inch of chord, at given point on wing section.
+L = rib spacing, inch.
+R = radius of curvature of wing due to bending.
+M = bending moment on wing section.
+(Mb from section 3.1331 may be used as
+an approximation.)
+/= moment
+of inertia
+of wing
+section.
+(I x from
+table 3-5 may be used
+as an
+approximation.)
+E = basic modulus of elasticity used in computing section properties.
+(Sec. 3.1330.
+)
+3.1361. Bulkhead ribs.
+Bulkhead
+ribs
+are
+described
+as
+those
+that
+distribute
+loads of appreciable magnitude, other than air loads, to the wing-section shear elements;
+for example, fuselage, landing gear, and fuel tank reactions.
+Such loads, as well as the
+airloads, may be considered as external loads applied to the rib, and the shear flows
+applied by the rib to the shear elements, oppositely directed, as the reactions.
+Here,
+however, one or more of the conditions required by the shear-flow theory
+(sec. 3.135)
+will generally be violated.
+For example, a larger amount of shear may be absorbed by
+the elements nearest a concentrated load, depending on their rigidity relative to that of
+the bulkhead.
+Conservative overlapping assumptions should therefore be made.
+Bulkhead
+ribs may also perform the function
+of redistributing shear among the
+shear elements of a wing wherever some of these elements are discontinued or bending
+elements redistributed.
+The shear flows from the outboard wing section may then be
+considered as the applied loads on the rib, and the shear flows applied to the inboard
+section, oppositely directed, as the reactions.
+Likewise,
+at a
+rib where any wing element
+carrying an
+appreciable
+axial
+load
+changes direction, the axial loads in the inboard and outboard portions of such an ele-
+ment should be resolved into components
+parallel and perpendicular to the plane of
+
+--- PAGE 188 ---
+182
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+the rib. The resultant of the components in the plane of the rib may then be considered
+as a load applied to the rib, with reactions supplied by the wing-section shear elements
+as described previously.
+As a result of the bulkhead analysis, it may be necessary to revise the shear distri-
+bution determined in the general shear analysis
+(sec. 3.135) for local conditions.
+3.137. Miscellaneous structural problems.
+3.1370. Additional bending and shear stresses due to torsion. The corner flanges
+of a box beam are theoretically free from axial (bending) stresses under a pure torque
+loading,
+if the cross sections are free to "warp" as the box twists.
+However, in a shell
+wing where more than one beam is continuous through the fuselage, either directly or
+through an equivalent structure, bending stresses will be induced in the corner flanges
+since the opposing action of the opposite wing will restrain the root sections from warp-
+ing.
+Additional shear in the short sides of the box is also induced at restrained sections.
+In wings not subjected to unusual torque loads and in which the torque cells are
+continuous and enclose a large part of the sectional area of a reasonably thick wing,
+the bending stresses at the root due to torsion should be small compared to the total
+bending stresses for the loading conditions producing maximum bending in the wing.
+Analytical methods for computing the bending
+stress due to torsion
+in various
+types of box wings are described in references 3-8 and 3-12.
+Where the shear rigidity
+of one wall of a box wing
+is greatly reduced by a cut-out, the wing torsion should be
+assumed to be carried as differential bending in the spars in the region of the cut-out.
+Rational solution of the general case is given in reference 3-6.
+Wings in which the torsional stiffness of the torque cells is relatively small because
+of the small enclosed area or because of many large cut-outs may be conservatively
+designed as independent spar wings. The effect of the torque cell in relieving the critically
+loaded spar by transferring part of the load to the other spars may, however, be esti-
+mated according to reference 3-7.
+3.1371. General instability.
+Reference to section 3.1381 shows that the column
+length of spanwise stiffeners
+is generally taken equal to the rib spacing.
+Such an as-
+sumption is valid only when the ribs act as rigid lateral restraints for the stiffeners at
+the points of intersection.
+If the ribs lack rigidity in their own planes,
+allowing the
+stiffeners to deflect laterally, the axial compressive loads in the stiffeners tend to further
+increase such deflections because of the resulting eccentricities.
+If the rib rigidity
+is
+too low relative to the axial stiffener (or skin) compressive loads, a state of equilibrium
+will not be reached, and the ribs and stiffeners will collapse simultaneously.
+In con-
+ventional wings with full depth ribs, the condition described above, known as general
+instability usually need not be considered.
+If shallow ribs
+(at tank bays and wheel
+wells) or truss-type ribs having shallow flanges are used in wings where a large part of
+the bending compressive loads are carried in surface material remote from the wing
+beams, analysis or tests for this condition should be made
+(ref. 3-14).
+3.138. Strength determination.
+The analytical determination of the strength of
+the structure is based on a comparison between the computed internal stresses, and the
+allowable stresses obtained by static test or calculated from the material properties by
+methods such as those of chapter 2.
+In order that the computed margins of safety so
+obtained may represent the strength of the structure with respect to the specified ex-
+ternal loads, as accurately as possible,
+all conditions and assumptions on which both
+
+--- PAGE 189 ---
+METHODS OF STRUCTURAL ANALYSIS
+183
+the internal and allowable stresses are based should be reviewed, and any necessary
+adjustments or allowances made, prior to the final comparison showing the margins of
+safety.
+Such allowances may be made by arbitrarily increasing the originally computed
+internal stresses or decreasing the allowable stresses, in the light of the review.
+Some of the factors to be considered in the strength determination are discussed
+under the following subsections.
+3.1380. Buckling in skin.
+For a structure
+in which
+the major
+portion
+of
+the
+compressive loads due to bending are intended to be resisted by the skin, with the
+shape
+being
+maintained
+by
+comparatively
+light
+reinforcing
+structure,
+the
+critical
+buckling and ultimate stresses for the skin, whichever
+is lower, should be considered
+as the allowable stress. When buckling does not occur, the ultimate allowable stresses
+may be computed by the methods of sections 2.60 and 2.61.
+The criteria of sections
+2.70, 2.80, and 2.82 may be used as guides in predicting the occurrence or nonoccurrence
+of buckling, but the strength of such structures should be substantiated by static tests
+of the complete structure, or of a closely similar structure,
+to ultimate load, because
+of the uncertainties of buckling phenomena.
+For
+structures
+in which the supporting and
+stiffening members
+are
+capable
+of
+withstanding a major portion of the compressive loads, buckling of the skin does not
+necessarily result in failure, as discussed in the following subsections on stiffened panels
+and shear elements.
+Sharply curved skin panels have much higher
+critical buckling
+stresses than
+flat panels of the same dimensions, but failure in curved panels usually
+occurs immediately after buckling begins.
+3.1381. Compression elements.
+Where
+secondary
+stresses,
+such
+as
+those
+de-
+scribed in sections 3.1330
+(5), 3.134, and 3.1370 have not already been taken into ac-
+count, a reasonable increase in internal stresses should be assumed for critical elements
+affected thereby.
+Although wood will yield slightly in compression, tending to relieve
+the highly stressed fibers, elements which have undergone some crushing in compres-
+sion may fail at unexpectedly low tensile stresses when the load is reversed.
+When light spanwise stiffeners are used to reduce the size of the skin panels rather
+than to resist the wing bending loads, they need not be designed to withstand the stresses
+which would be assigned to them as isolated structural elements by the bending theory,
+provided that such stiffeners are designed to accommodate themselves to the spanwise
+shortening of the compression side of the wing without
+failing.
+At locations remote
+from the spars, this can be accomplished by making the stiffeners sufficiently flexible
+so that they can bow between the ribs without failing.
+Such stiffeners may tend to
+separate from the skin, however, unless special precautions are taken.
+At locations
+adjacent to highly stressed spar flanges this accommodation may be obtained by using
+a cross section and material such that local crippling and crushing failure will not occur.
+3.1382. Stiffened panels.
+In
+structures where
+the
+skin
+is expected
+to
+buckle
+below ultimate load and the reinforcing structure
+is designed accordingly, the allow-
+able compressive stresses may be obtained from section 2.76 or from tests on stiffened
+panels.
+(a)
+Effective widths.
+In both the allowable and the internal stress computations,
+an effective width strip of skin adjacent to each stringer
+is assumed fully effective in
+compression.
+The width
+is
+often
+selected
+arbitrarily, and
+it
+is sometimes assumed
+that the value selected makes little difference so long as the value used in the section-
+
+--- PAGE 190 ---
+184
+AN (J BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+properties computations
+is consistent with that used
+in computing allowable stresses
+from the total load supported by a test panel
+This assumption would be true
+if the
+upper and lower bending material of the wing consisted only of two symmetrical panels
+(with the same effective widths in tension as compression) but it may lead to some error
+if the bending material is not structurally symmetrical and the usual methods of com-
+puting section properties are used.
+Therefore, for structures in which the skin carries
+a considerable portion of the bending load, the effective widths should be determined
+as accurately as possible, either by theoretical methods, such as those of section 2.760,
+or by accurate strain-gage measurements on the test panels. The effective width, 2w,
+of plywood panels,
+is usually expressed as a strip that
+is considered to act at a stress
+corresponding to that of the unbuckled plywood at the same deformation as the stiffener.
+(Sec. 2.760.)
+The effective width of metal panels
+is usually expressed as a strip acting
+at the same
+stress as the
+stiffener.
+The basis for the effective widths indicated
+in a
+particular analysis should, therefore, be clearly stated.
+(b)
+Allowable
+compressive
+stresses.
+In
+determining
+the
+allowable
+compressive
+stress, the various possible modes of failure discussed in section 2.7610 should be con-
+sidered.
+When the allowable
+stress
+is computed by section 2.761, the stiffener plus
+effective width of skin is considered as one composite element having an effective mod-
+ulus of elasticity E'.
+This procedure was arranged to facilitate checking the stress in
+any ply or fiber of either plywood or stiffener.
+Such a composite element may be con-
+sidered as one item in the section-properties computations
+(sec. 3.1330), where
+e t
+will
+E'
+equal —
+basic.
+The computed
+internal
+stress,
+/,
+for comparison with the allowable
+E
+will then be
+: / =/' X e, where /'
+is the
+fictitious basic-modulus stress obtained by the
+bending formulas in section 3.1331, and
+e
+is the total element effectiveness factor in
+accordance with section 3.1330
+(5).
+When the ribs are sufficiently rigid in their own planes
+(sec. 3.1371)
+the column
+length of the stiffened panels
+is taken as equal to the rib spacing.
+In regard to the
+column-fixity coefficient to be used in conjunction with this column length,
+it is noted
+that typical structures show a general tendency to bow inward in the bays between
+ribs, but a few bays will tend to bow outward.
+Where one bay bows in and the next
+out, a fixity of approximately c = 1.0
+is developed, depending on the rotational fixity
+furnished by the ribs and the degree of buckling and plate or curvature effect of the
+skin. A value of c = 1.5 may be assumed if the stringers are fixed to ribs having appre-
+ciable bending
+stiffness
+in
+a
+vertical plane
+parallel to the
+stringers.
+Higher values
+should not be used in design unless substantiated by tests on a complete structure.
+In flat-ended-panel
+tests,
+a value
+of
+c = 3.0 or more
+is usually developed.
+The
+results of such tests must therefore be corrected to the fixity value used in the design
+of the structure.
+(c) Combined stresses. A convenient method of considering the effects of combined
+compression and shear in stiffened panels is the stress ratio or interaction curve method,
+that
+is, R m +Ra
+n = 1.0, where R c is based on the allowable compressive stress discussed
+in paragraph (b), and R s is based on the strength of the panel in pure shear.
+The exponents m and n may be assumed equal to 2.0 for panels which are sub-
+stantially flat, but not more than 1.0 for sharply curved panels, such as in D-nose spars,
+unless
+tests are made under combined loads
+to determine
+points on the interaction
+
+--- PAGE 191 ---
+METHODS OF STRUCTURAL ANALYSIS
+185
+curve.
+For D-nose
+spars,
+tests
+to ultimate
+load should be made.
+A portion
+of the
+spar of sufficient length to eliminate end effects, may be used in such tests.
+3.1383. Tension elements.
+Tension elements of wood yield very little, compared
+to metals, before reaching their ultimate strength.
+Unaccounted-for secondary stresses
+or unconservative assumptions in the stress analysis are therefore likely to cause fail-
+ures.
+Since the plywood skin, stiffeners, and spar flanges on the tension side of a wing
+may not reach their ultimate strengths at the same time, the stresses in each element
+should be determined and compared with the corresponding allowables.
+For plywood
+having the face grain parallel or perpendicular to the spanwise direction, the modulus
+of
+elasticity
+for
+use
+in determining
+section
+properties and
+internal
+stresses may be
+obtained from section 2.52, or table 2-9, and the allowable tensile stress from section
+2.601, and table 2-9.
+For plywood having the face grain at an angle to the spanwise
+direction, the spanwise modulus of elasticity may be obtained from section 2.56.
+For
+the special case of plywood with face grain at 45° to the span, the value of E may be
+obtained
+as
+described
+in
+section
+2.56110.
+The
+allowable
+tensile
+stress
+for such 45°
+plywood may be obtained from section 2.611 and table 2-9.
+When the plywood on the tension side does not buckle due to shear, which is usually
+the case on a wing
+(sec.
+2.702), the condition for failure under combined tension and
+shear may be determined by stress ratios in accordance with section 2.613.
+3.1384. Shear elements. When the shear flow, q, has been determined, the internal
+shear stress is obtained by dividing q by the actual thickness of the element, even though
+an effective thickness based on relative moduli of rigidity was used in the shear dis-
+tribution analysis.
+The allowable shear stress values given by section 2.72 are directly
+applicable to beam webs and allow for the effects of the beam bending stresses near the
+flanges.
+These allowable shear stresses should also be applicable to substantially flat wing-
+skin panels in the same
+range
+with
+respect
+to
+buckling.
+The
+ultimate
+strength
+of
+curved panels in shear must at present be obtained from tests on specific structures as
+described in section 3.1382 (c), since buckling usually precipitates failure.
+3.2 FIXED TAIL SURFACES.
+The procedures applicable
+for use
+in the
+stress
+analysis of fixed
+tail surfaces
+(fin and
+stabilizer)
+are analogous to those described
+in
+section 3.1 for the analysis of wings. The nature of the applied loads is necessarily similar
+in that the source
+is principally aerodynamic and the spanwise and chordwise distribu-
+tions of the same are similar to those over wing
+surfaces.
+The loads resulting from
+inertia effects require a consideration similar to that employed in the analysis of wings.
+The dependence
+of the applicable type
+of analysis upon the structural arrangement
+of the material is also similar to that encountered with wings and this consideration is
+treated in section 3.1. The strength of the structure is determined by comparison of the
+calculated internal loads and stresses with the allowables which are obtained either from
+tests or from the information given in chapter 2. The determination of the strength of
+shell structures, including reinforced shells, is presented in detail in section 2.138.
+3.3. MOVABLE CONTROL SURFACES. The movable control surfaces are ordi-
+narily comprised of the ailerons, elevator, and rudder.
+The analysis of each of these
+surfaces
+is fundamentally the same basic problem.
+Each movable surface consists of
+an airfoil free to rotate about a hinge axis fixed on the supporting structure except as
+restrained by the control system at its attachment point (control horn). The essential
+
+--- PAGE 192 ---
+186
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+structure is made up of the
+(1)
+Airfoil surface (fabric or plywood plating) upon which the air forces act and are
+transmitted through
+(2) Surface attachment means (lacing, nails, or glue) to the
+(3)
+Ribs. The ribs transfer the air loads through shear and bending to the
+(4) Main beam and
+(5)
+Torque tubes.
+The beam and torque tube are supported by the fixed surface
+structure at the
+(6) Hinges where the transverse shear is transmitted to the fixed surface. The torque
+tube carries the torque resulting from the air loads and hinge support reactions to the
+(7) Horn, where it is balanced by the control system reactions.
+A satisfactory analysis should include a check of the plating material (fabric, ply-
+wood) under the imposed design pressure loading.
+Unit pressure loadings, consistent
+in magnitude with those encountered over deflected control surfaces should be considered
+in such a check. The strength of the surface attachments should be checked in combina-
+tion with that of the surface material itself. The most satisfactory method of determining
+the strength of such structural items is by "blow-off tests" of panels representing the type
+of construction employed (simulating rib spacing, surface attachments) when subjected
+to test pressures representing the design loadings.
+Critical surface pressures are usually
+negative (tending to blow the surface outward).
+Ribs may be considered as cantilever beams supported at the main beam or torque
+tube and supporting the pressure loading over the area extending approximately midway
+to adjacent ribs. Here again static tests of representative" structures constitute the pre-
+ferred basis for proof of satisfactory strength.
+The main beam and torque tube should be checked under the shear, bending, and
+torsional loads resulting from the rib loadings, and the reactions at the hinge supports
+and the control horn. When the main beam or torque tube is continuous over three or
+more hinge supports, the deflection of the fixed surface or wing under flight loads should
+be taken into account by introducing suitable deflections of the supports into the three
+moment equations or by conservative overlapping assumptions.
+Irregularities and dis-
+continuities of such structures are often encountered because of the cut-outs necessary
+for the control surface hinges.
+Care should be exercised to provide adequate strength
+and rigidity in way of such cut-outs by means of proper reinforcing and by use of con-
+servative assumptions both as to stresses developed and stresses allowed.
+This
+is es-
+pecially necessary in wood structures because of the inherent inability of wood to equalize
+stress concentrations through considerable plastic deformation.
+3.4 FUSELAGES.
+3.40. General.
+Most of the commonly-used types of wood fuselage construction
+fall within one of the following:
+( 1 ) Four-longeron type.
+(2) Reinforced shell (semimonocoque) type.
+(3) . Pure shell (monocoque) type.
+Examples of these types are included in the sketches shown herein under the pertinent
+subheadings.
+A
+particular airplane fuselage need not necessarily be confined to one
+type of construction but may employ any applicable combination.
+For example, the
+
+--- PAGE 193 ---
+METHODS OF STRUCTURAL ANALYSIS
+187
+stiffened-shell type may revert to the four-longeron type in way of large cut-outs such as
+cockpit openings, or bomb bays.
+3.41. Four-Longeron Type. The treatment of the four-longeron type is somewhat
+analogous to that of the D-section and single-cell shells as described in section 3.13 with
+the additional simplification that results from the inherent symmetry of the typical
+fuselage section.
+In both, the material effective in bending is concentrated into a small
+number of locations and the section properties for use in a bending analysis may be
+calculated in the normal manner as based upon such an assumption. The plywood shell
+material will actually contribute in some indeterminate extent to the bending strength
+of such four-longeron-type sections as are illustrated in figures 3-23 and 3-24. However,
+it is probable that, on the compression side, this contribution will be limited to approxi-
+mately that corresponding to the buckling load for the plywood panels as determined
+from the transverse frame spacing, panel thickness, species, arrangement of plies, and
+curvature according to the methods described in chapter 2.
+In this type of construction,
+the unit deformation corresponding to the maximum design stress in the longerons very
+probably exceeds by far that corresponding to the buckling stress of the adjacent plywood
+material and of that farther removed from the neutral axis.
+Also, without curvature
+and without longitudinal stringers between longerons and the smaller plywood panel
+expanses and greater buckling stresses resulting therefrom, the design shearing stress
+in the sides of the four-longeron-type section
+will also probably exceed the buckling
+values by a considerable amount.
+Both of these tendencies lead to the conclusion that it is satisfactorily conservative
+to neglect the contribution of the plywood shell to the bending properties in cases where
+the buckling stresses of such shell material
+is considerably exceeded by the longeron
+stresses and shear web stresses calculated on the basis of zero contribution
+(fig. 3-23).
+In any event, the optimum contribution of the shell material that could be expected
+would be that corresponding, on the compression side, to the buckling stress of the panels
+and, on the tension side, full effectiveness.
+In this connection, the designer's attention
+is directed to the existing knowledge of the behavior of thin panels subsequent to buck-
+ling. With flat panels and panels of slight curvature (that
+is, those in which the con-
+tribution of curvature to the buckling load is not significant) a load approximately equal
+to the buckling load
+is maintained after buckling.
+With thick plates of considerable
+curvature (that is, those in which the contribution of curvature to the buckling load
+is
+appreciable) the load tends to drop off after buckling.
+In such panels, rupture is also
+much more likely to result at buckling.
+For these reasons, it is desirable that under the
+ultimate design loads, the stresses resulting in such a portion of a compression flange
+do not exceed the critical buckling stresses. On the tension side, the contribution of the
+plating should be taken as that corresponding to an equivalent area of the plywood
+flange in terms of the longeron material
+(fig. 3-24).
+For purposes of calculation, the
+equivalent effective area (or thickness) of the tension plywood flange would be equal to
+t X— where
+t = plywood thickness, E, = modulus of elasticity of longeron material in a
+E,
+direction normal to the section, and
+modulus of elasticity of plywood material in a
+direction normal
+to the
+section.
+These
+definitions
+are
+different from
+those used
+in
+chapter
+2.
+
+--- PAGE 194 ---
+188
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+A.
+ILLUSTRA TIN6 SHEA/? INTENSITIES
+DUE TO VERTICAL LOAD
+REJLH
+SHEAR INTENSITY
+due
+to V load
+r
+- V
+B.
+ILLUSTRATING SHEAR INTENSITIES
+DUE TO SIDE LOAD
+-A^LOtidtkOH Af£A)
+[L0N6ERON
+AfiEA)
+n
+= SLA,b,+A?h>
+']
+.
+5
+ZI
+ft
+z
+- SAz bt
+4
+h
+21
+h
+SHEAR
+INTENSITY DUE TO
+TDROVE
+Q,
+= J—
+fr
+2A
+RESULTANT SHEAR INTENSITY
+a, = a + a
++ a
+Hv
+5s
+OT
+BENCHNG STRESS
+fk = ~
+-
+NOMENCLATURE
+S= SIDE LOAD (TRANSVERSE SHEAP) AT SECTION
+V = VERTICAL LOAD (VERTICAL SHEAR) AT SECTION
+r= TORQUE ABOUT INTERSECTION OF REF. AXIS WITH PLANE OF SYMMETRY OF SECTION
+%
+= SHEAR INTENSITY (LBS. PER INCH RUN)
+M= BENDING MOMENT ABOUT N. A. AT SECTION (+ M CAUSES COMPRESSION IN
+UPPER AND R.H.
+FLANGE! MATERIAL - LOOKING FORWARD)
+1= MOMENT OF INERT/A ABOUT N.A. OF EFFECTIVE BENDING AREA
+A= AREA ENCLOSED
+BY SHELL
+x= DISTANCE OF BENDING MATERIAL FROM
+Y-Y N-A.
+y = DISTANCE OF BENDING MATERIAL FROM /-X N-A.
+Figure 3-23.—Four-longeron fuselage—plating ineffective in bending.
+
+--- PAGE 195 ---
+METHODS OK STRUCTURAL ANALYSIS
+189
+COMPRESSION
+j/.
+SIDE
+TENSION
+SIDE
+*£ct.xiL
+if BUCKLED AT DESIGN LOAD
+t A
+IF UNBUCKLED AT DESIGN LOAD
+IHEFFtCllve
+A.
+PARTIALLY BUCKLED SHELL
+Y
+B. UNBUCKLED
+SHELL
+Fcr
+= PANEL BUCKLING STRESS
+F = LONGERON ALLOWABLE STRESS
+Ez
+- MODULUS Of ELASTICITY OF PLYWOOD NORMAL
+TO SECTION
+E, = Modulus of elasticity of longeron normal to section
+Figure 3-24.—Four-longeron fuselage—plating effective in bending.
+
+--- PAGE 196 ---
+190
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES

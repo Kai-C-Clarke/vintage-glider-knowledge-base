@@ -1,0 +1,1187 @@
+plar.
+(Total thickness 0.162
+inch.)
+Face grain 90°
+(circumferential) to mandrel.
+Bent
+to 1-inch radius through an angle of 90°.
+
+--- PAGE 318 ---
+312
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Under some bending conditions, plywood of 5 plies is less susceptible to fracture
+than 3-ply material
+of similar thickness probably because each ply
+is somewhat
+thinner.
+The thickness of veneer is important, particularly that of the face veneer.
+In preforming plywood by any wetting and drying technique, there is a certain
+amount of spring-back, for which allowance must be made
+if accuracy
+is desired.
+Spring-back depends on thickness, moisture content,
+temperature, bending time,
+ratio of radius to thickness, and other factors.
+As an allowance for spring-back,
+some operators bend soaked plywood on heated forms having a radius of curvature
+about 20 percent less than the desired radius of the bend.
+5.69. Woodworking References.
+(5-31)
+Davis, E. M.
+1942.
+MACHINING AND RELATED CHARACTERISTICS OF SOUTHERN HARDWOODS.
+U.
+S.
+Dept. Agric. Tech. Bull. No. 824, 42 pp.
+(5-32)
+Wilson, T. R. C.
+1941.
+WOOD
+BENDING!
+WITH APPENDIX ON APPARATUS
+FOR BENDING
+BOAT
+RIBS.
+Forest Products Laboratory Mimeo. R966.
+(5-33)
+Norris, Charles B.
+1939.
+INTERPRETING THE DEFORMATIONS and stresses met in MOLDING PANELS
+OF
+compound curvature.
+Hardwood Record, May
+1939, pp. 7-16,
+illus.
+5.7. FINISHING WOOD IN AIRCRAFT. 9
+5.70. General.
+Aircraft specifications for the Army or Navy usually require
+that all exposed surfaces of wood, either interior or exterior, be finished with a pro-
+tective coating.
+Exterior surfaces are those that are exposed to the weather and to
+view from outside the craft.
+Interior surfaces may be further subdivided into those
+seen by occupants of the craft, such as the interiors of fuselage compartments, and
+those ordinarily remaining entirely unseen, such as interiors of wings, hollow spars,
+stabilizers, ailerons, flaps, rudder, and closed portions of fuselage and nacelles.
+Areas
+of contact between wood and metal may also be considered interior surfaces requiring
+finish.
+The plans and specifications of the prime contractor indicate in
+detail where
+finish is to be applied, what finish is to be used, the number of coats, how it is to be
+applied, and other points about the finishing procedure.
+Alternates may be per-
+mitted subject to the approval of the prime contractor, who
+is in turn subject to
+the specifications or the specific approval of the military authorities.
+Specifications
+for finishing materials and finishing systems should, of course, conform to current
+Army, Navy,
+or Federal
+specifications wherever such Government
+specifications
+are applicable. The specification of finishing materials by trade brand or manufac-
+turer's code number
+is meaningless
+unless
+the products have been competently
+tested for conformity to Government or other authoritative specifications.
+5.71. Requirements of Finishes.
+The surface of wood
+is vascular and moder-
+ately absorptive
+of
+liquids.
+Wood
+surfaces,
+therefore, must be rendered nonab-
+sorptive by applying sealer or primer, which penetrates only far enough to close the
+openings in the surface, before a uniform coating of finish can be spread over the
+surface (5-54).
+Hardwoods with pores as large as those in birch require wood filler
+applied by wiping across the grain of the wood to plug the large pores.
+If a finish
+with mirror-like smoothness
+is required, wood of any kind usually must be coated
+with sanding surfacer, part of which
+is sanded away after
+it has dried, to yield a
+perfectly smooth surface for the application of enamel or lacquer enamel.
+To be durable, wood
+finishes must remain somewhat plastic throughout their
+useful
+life so that they can accommodate themselves to the changes in shape and
+dimensions of the
+surface.
+The required degree of plasticity usually runs counter
+to the desire for speed in drying and hardness of coating; plasticity
+is provided by
+drying oils or soft resins, whereas fast drying and hardness come from hard resins
+or cellulose esters.
+• A more detailed discussion of the subject has been prepared by the Forest Products Laboratory
+for restricted circulation
+in
+Mimeograph No. 1396, Finishing Wood in Aircraft (S-57).
+
+--- PAGE 319 ---
+PROCESSING AND FABRICATION
+313
+Aircraft
+finishes should be
+as
+fast
+in
+application
+as
+is
+consistent with
+their
+primary objectives.
+The number of finishing operations should be held
+to a mini-
+mum and the over-all time required for drying should be as short as possible either
+by reason of the limited number of coats applied or because of fast drying of each
+coat.
+Although wood finishes cannot be baked to speed drying, the process can be
+speeded by forced drying at temperatures up to 150° F. with sufficient humidification
+to avoid undue loss of moisture from the wood.
+Finishing systems when dry should add as little weight to aircraft as is consistent
+with the attainment of their primary objectives.
+The primary objective of interior finishes
+is
+to afford protection of the wood
+against serious change in moisture content when exposed for a limited time to damp
+air or to water that gains access to closed spaces by condensation or by penetration
+of rain, mist, or fog through joints, vent holes, bullet holes, or imperfections in the
+covering.
+Coatings on contact areas between wood and metal protect the metal
+against corrosion from moisture in the wood.
+Interior finishes must retain their protectiveness for the life of the aircraft and
+throughout the great range in temperature to which the craft may be subjected in
+service.
+They need not be capable of withstanding exposure
+to
+the weather,
+in-
+cluding sunshine, for any such length of time.
+The primary objectives of exterior finishes are protection of the wood against
+weathering, sufficient smoothness of surface to minimize skin resistance during flight,
+suitable appearance, and enough durability
+to retain these properties
+for several
+years of full exposure to the weather at all altitudes of flight even in the most severe
+climates.
+The finish should be easy to keep clean and should wear in such a way
+that it can be renewed when necessary with minimum increase in the weight of coating:.
+Appearance is important from a military, not a civilian point of view.
+Combat
+and task craft require a dull surface, free from gloss, of a color chosen for camouflage.
+Training planes may have semigloss or gloss finishes of bright color when so specified
+by the procuring agency.
+The appearance of interior finishes is unimportant except
+for those visible to occupants of the craft, for which a dull surface and subdued color
+are desirable.
+Finishes do not preserve wood against decay and do not prevent blue stain in
+sapwood.
+Decay and blue stain develop only when wood is exposed to dampness for
+some time,
+a condition under which protective coatings are low in protectiveness.
+Even if toxic substances are added to sealers and finishes they do not prevent fungus
+attack because they do not penetrate far enough into the wood.
+Water repellents
+containing toxics are moderately effective against decay and blue stain when applied
+in such manner that deep penetration and good absorption are obtained but the
+water repellents are poor sealers and are not high in protectiveness.
+5.72.
+Protective Power of Wood Finishes.
+When unprotected wood is exposed
+alternately to dampness and dryness, such as to rain and sunshine, the portions of
+the wood near the surface change in moisture content more rapidly and more widely
+than do the interior portions.
+Such unequal distribution of moisture within pieces
+of wood sets up internal stresses that are responsible for such processes of weathering
+as grain-raising, cupping, warping, checking, and softening and disintegration of the
+surface.
+Protective finishes guard against weathering by retarding the rate at which
+moisture passes through them, either into or out of the wood surface,
+to such an
+extent that a reasonably uniform distribution of the moisture within the pieces of
+wood
+is always maintained and internal stresses are thereby avoided.
+A finish entirely impermeable to moisture has not yet been found (5-55, 5-60).
+Moreover, no
+finish
+alters the fiber-saturation point or the swelling coefficient of
+wood.
+Figure 5-95 shows the effects of a series of finishes ranging from very low
+to high protectiveness on the moisture content of matched specimens of % 2 -inch,
+3-ply,
+aircraft
+plywood
+(conforming
+to
+x\rmy-Navy
+Aeronautical
+Specification
+
+--- PAGE 320 ---
+314
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+AN-NN-P-51 lb), uncoated and coated on
+all surfaces
+with
+the
+various
+finishes.
+The specimens were brought to constant weight
+in 65 percent relative humidity at
+80° F., then placed in 97 percent relative humidity at 80° F. for weighings at intervals
+during 42 days, and finally returned to 65 percent relative humidity for weighings
+during another 42 days.
+When exposed to 97 percent relative humidity, uncoated
+specimens and specimens with
+finishes
+of low protectiveness reached equilibrium
+close to the fiber-saturation point within little more than 10 days, whereas specimens
+with highly
+protective
+coatings required 90 days
+or more
+to reach
+equilibrium.
+Very similar curves are obtained if swelling is measured instead of moisture content.
+On return
+to 65 percent humidity, those finishes that retarded absorption to the
+greatest extent
+likewise retarded drying most
+effectively.
+After equal periods of
+TIME.
+{DAY5)
+Fioitre 5-95.—Average absorption of moisture and drying of 3-ply, %2-inch aircraft plywood when protected with six basically
+different finishes.
+The water-repellent finish consisted of 1 dip for 3 minutes and weighed 0.002 lb. per sq. ft.; the sealer was
+made of phenolic resin at
+gal. length in tung oil and 30 percent nonvolatile with 2 dips for 5 seconds each and weighed
+0.007 lb
+per sq. ft.; the camouflage enamel was placed over the above sealer and consisted of 1 dip in each and weighed 0.045
+lb. per sq. ft.; the varnish was made of phenolic resin at 33 gal. length in oil and 60 percent nonvolatile with 3 dips for 5 seconds
+each and weighed 0.032 lb. per sq. ft.; the gloss enamel was made with chrome yellow in phenolic resin varnish with
+2 dipped
+coats over 1 dip in the above sealer and weighed 0.047 lb. per sq. ft.; the aluminum enamel consisted of 3 dipped coats of alu-
+minum pigment in the above varnish and weighed 0.038 lb. per sq. ft.
+absorption and drying (42 days) all specimens retained more than their initial mois-
+ture content and the extra moisture retained increased with the protectiveness of
+the finish.
+The protect ive power of finishes is conveniently expressed in terms of moisture
+excluding
+effectiveness,
+represented by
+the symbol E,
+for an
+arbitrarily chosen
+time of exposure to dampness under standardized conditions.
+Using the data of
+figure 5-95, 7 days is a suitable time of exposure.
+In 7 days the specimens coated
+with aluminum
+finish
+gained
+3.1
+percent whereas
+the unfinished but
+otherwise
+similar specimens
+gained
+14.5
+percent
+moisture.
+The
+finish
+therefore
+excluded
+14.5— 3.1 = 11.4 percent moisture, which
+is
+79
+percent
+of the absorption by
+the
+unfinished specimens.
+The moisture-excluding effectiveness of the aluminum finish
+was therefore 79 percent.
+The moisture-excluding
+effectiveness has
+relative
+significance
+for comparing
+finishes when tested under standardized conditions, but the absolute values of E
+vary with the test conditions.
+For example, using the data of figure 5-95, E for the
+aluminum finish was 90,
+85,
+79,
+56, and 37 after exposure for 2,
+4,
+7, 21, and 42
+
+--- PAGE 321 ---
+PROCESSING AND FABRICATION
+315
+days
+respectively.
+In
+general,
+effectiveness
+decreases
+as
+the
+time
+of
+exposure
+increases, eventually becoming
+zero.
+For the aluminum paint
+in figure 5-95 on
+different kinds of % 2-inch plywood after exposure for
+7 days, E was 75 on yellow
+poplar, 77 on Douglas-fir, 77 on mahogany-on-yellowpoplar,
+79 on
+spruce, and 83
+percent on birch.
+On sapwood E is usually higher than on heartwood of the same
+species.
+On spruce specimens of differing dimensions, E after 7 days' exposure for
+the aluminum finish was 27 percent on edge-grain veneer }32-inch thick, 43 percent
+on flat-grain veneer of the same thickness, 79 percent on the
+/32-inch plywood re-
+ported in figure 5-95, 91 percent on solid spruce % by 4 by 8 inches in size with the
+grain parallel to the 8-inch dimension, 93 percent on solid spruce 1% by
+\){ by 11
+inches in size with the grain parallel to the 11-inch dimension, and 96 percent on solid
+spruce % by 4 by 8 inches in size with the grain parallel to the %-inch dimension
+(4
+by 8 inch surfaces end grain wood).
+Army-Navy Aeronautical
+Specification AN-S-17
+for wood
+sealer
+prescribes
+a test for "water permeability" in which
+%z- by
+1- by
+3-inch
+pieces
+of
+birch
+ply-
+wood finished with two coats of the sealer are immersed in water for 6 hours and
+their increase in weight determined.
+Acceptable sealer must not permit more than
+an 0.35-gram increase.
+An unfinished specimen absorbs about
+1 gram
+of water,
+hence the minimum admissible moisture-excluding effectiveness is 65 percent.
+When
+the sealer presented in figure 5-95 with an E after 7 days of 10 percent, is tested by
+the method of AN-S-17, about 0.14 gram of water is admitted, corresponding to an
+E of
+86
+percent.
+Finishes afford much greater protection against
+brief exposure
+to water than they do against longer exposure to damp
+air.
+The difference
+is due
+partly to the shorter time of exposure and largely to the fact that unprotected wood
+takes up free water in addition to fiber moisture, whereas well-protected wood ab-
+sorbs only fiber moisture.
+The six finishes presented in figure 5-95 represent six basically different types
+of finish.
+The representative chosen for each type stands near the top in moisture-
+excluding effectiveness among finishes of its type.
+1. Deeply penetrating
+finishes,
+such
+as
+water-repellant
+preservatives,
+afford
+relatively low moisture-excluding effectiveness.
+These products are usually applied
+by dipping once for not less than 3 minutes and their primary purpose
+is to carry
+toxicants into
+the wood
+as deeply
+as can be accomplished by
+brief, nonpressure
+treatment.
+Representative
+specifications
+for
+water-repellent
+preservatives
+are
+Army Ordnance HOMB ES No. 680a Class 638 Type 2 and Navy Bureau of Ships
+52W 5 (INT).
+2.
+Slightly penetrating finishes that form
+little or no coating over the surface
+of the wood, such as sealers, are even lower in moisture-excluding effectiveness than
+the better water-repellent preservatives when only one application
+is made, but a
+second application often results in somewhat higher effectiveness than
+is obtained
+with repellents.
+The sealers are designed primarily to render the surface of wood
+nonabsorptive for the liquids in coating materials applied subsequently, but two or
+more applications of sealer are used also as a moderately protective finish for sur-
+faces
+not
+exposed
+to
+the
+weather.
+Representative
+specifications
+for
+sealer
+are
+Army-Navy
+Aeronautical AN-S-17
+and Army Ordnance HOMB ES
+No.
+680a
+Class 638 Type
+1.
+3. Coatings of a porous nature, such as the lusterless camouflage enamels and
+camouflage lacquers, do not provide much moisture-excluding effectiveness.
+The
+data
+of figure 5-95 indicate that a coat of camouflage enamel weighing approxi-
+mately 0.04 pound per square foot offers less resistance to moisture movement than
+an application of phenolic-resin sealer weighing less than one-tenth as much.
+The
+sanding surfacer used in some exterior finishing systems likewise forms porous coat-
+ings of low moisture-excluding effectiveness.
+
+--- PAGE 322 ---
+316
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+4.
+Coatings of a nonporous nature, such
+as spar varnish, when so applied as
+to form a film of appreciable thickness (0.001 to 0.003 inch) over the surface of wood,
+achieve reasonably high moisture-excluding effectiveness.
+5. Pigmented coatings of a nonporous nature, such as semigloss or gloss enamel,
+have
+materially
+higher
+moisture-excluding
+effectiveness
+than
+otherwise
+similar
+coatings without pigments.
+6. Aluminized
+coatings, which
+are pigmented with aluminum
+in
+the form of
+thin flakes, are capable of attaining very high moisture-excluding effectiveness even
+in thin coatings of light weight.
+For full effectiveness, however, at least one alumi-
+nized coat should be a priming coat or an undercoat, that is, it should be sandwiched
+between the wood and succeeding coats
+or between
+coats.
+When the
+final coat
+only is aluminized the moisture-excluding effectiveness sometimes is no greater than
+that obtainable with the clear vehicle without the aluminum.
+The data
+of
+figure 5-95 show
+that high moisture-excluding
+effectiveness
+is
+obtainable only from continuous, nonporous, moisture-resistant coatings of
+appre-
+ciable
+thickness over the surface
+of wood.
+Penetrating finishes afford relatively
+little protection although perhaps enough
+for some purposes.
+It
+is
+also evident
+that finishes retard drying of wood in the same order that they retard absorption.
+If wood
+is exposed to cycles of alternate dampness and dryness in which the dry
+periods are shorter than the damp periods, highly protective coatings may hold
+it
+at higher moisture contents than it would have if left uncoated.
+Figure 5-96 is indicative of changes in moisture content of the woodwork within
+the wings of aircraft that may be expected when planes are parked in the open in a
+climate like that of Madison, Wis., and the vent holes are allowed to become clogged
+with dirt or paint or are not so located as to drain promptly after rain water gains
+entrance during storms.
+The experiments were made
+in "dummy wings" {5-58)
+that had previously been used during the summer to study the temperatures attained
+in hot, sunny weather
+(sec. 5.74).
+Some of the glued joints between plywood skins
+and framework deteriorated during the summer and fall to such an extent that, by
+winter, water from rain or melting snow gained access to the interior of the dummy
+wings.
+Although most of the. water admitted drained promptly through vent holes,
+enough was retained to humidify the air for some time after such entrance.
+All test specimens for moisture determinations were at 6.5 percent moisture con-
+tent on November 14, 1942, when they were placed within the dummy wings.
+Speci-
+mens were of two sizes, ^-inch spruce veneer and %- by % 6-inch spruce sticks repre-
+sentative of the braces and caps
+of
+aircraft ribs
+of
+truss construction.
+By early
+January 1943
+the unfinished veneer reached 21 percent moisture content and the
+unfinished brace 19 percent, after which they gradually dried out again to roughly 12
+percent by the end of April except that at four times, once each in February and
+March and twice in April, there were sudden, overnight upward surges in moisture
+content.
+Each surge immediately followed heavy snowfall or rain.
+Protection of
+the veneer with two coats of sealer did not measurably alter the January maximum
+of 21 percent moisture content, which was approached gradually, but it did cut the
+sudden upward surges following storms nearly in half.
+Even the higher degree of
+protection afforded by aluminized sealer failed to keep the veneer from exceeding 19
+percent moisture content in early January.
+Protective finishes were somewhat more
+effective on the larger pieces of wood representative of braces, but even the aluminized
+sealer permitted a range in moisture content from
+less than 6 percent in August
+(5-57) to nearly 16 percent in January.
+The data illustrate the fact that protective
+finishes are not very effective in minimizing changes in moisture content that progress
+slowly over a considerable period
+of time although they may be highly
+effective
+against rapid
+fluctuations,
+such
+as
+the
+entrance
+of water dming storms.
+Even
+against rapid fluctuations, however, two coats of aircraft sealer make a finish rather
+low in protection.
+
+--- PAGE 323 ---
+PROCESSING AND FABRICATION
+317
+Experiments in wings from Anson bombers at Madison
+in
+the
+fall and winter
+of 1943 and January of 1944 revealed a maximum moisture content
+of unfinished
+%8-inch veneers of yellow birch that did not exceed
+17 percent except in one place
+near a leak in the top skin where the moisture content reached 22 percent.
+Un-
+finished specimens of spruce 1% by
+1/2 by
+11 inches in size attained a maximum of
+14.5 percent moisture content except near the leaky top skin, where a maximum of 21
+percent was attained.
+Each Anson wing contained 185 vent holes
+in
+the bottom
+skin so placed
+that water entering the wing drained out
+as promptly as
+possible.
+15
+22
+29
+6
+13
+20
+27
+3
+10
+17
+24
+31
+7
+14
+21
+28
+7
+14
+21
+28
+4
+II
+18
+2S
+2
+1942 NOVEMBER
+DECEMBER
+JANUARY 1943
+FEBRUARY
+MARCH
+APRIL
+MAY
+TIME.
+(AUTUMN, WINTER, SPRING CONDITIONS)
+WEIGHED
+DAILY EXCEPT SUNDAY AT 8 O'CLOCK C.W.T.
+Figure 5-96.—Change in moisture content of unfinished and finished wood placed within dummy aircraft wings at Madison, Wis.
+The wood consisted of spruce veneer !:i_>-inch thick and 3 s- by $4 6-inch spruce braces: for each wood size there were one unfin-
+ished specimen, one specimen finished with two coats of clear sealer, and one specimen finished with two coats of aluminized
+sealer.
+Tbe studies made in the dummy wings and Anson wings indicate that keeping the
+top skins of aircraft wings tight against the weather and the bottom skins adequately
+vented does more toward keeping the moisture content within safe limits than can be
+accomplished with protective finishes of the kinds now used for aircraft interiors.
+5.73.
+Effect of Finish on Smoothness of Surface.
+For
+best
+aerodynamic
+per-
+formance, exterior surfaces should be as smooth as possible {5-59).
+With suitable
+finishing systems, wood may be given
+a
+surface
+of mirror-like smoothness.
+To
+that end the large pores of such hardwoods as birch and mahogany must be filled
+and, to level the surface irregularities of all woods,
+it
+is necessary to apply sanding
+surfacer and
+to sand
+it smooth before applying
+the
+finishing enamel
+or lacquer.
+The sanding surfacer, which
+is a coating very rich
+in pigment and
+therefore rela-
+tively heavy, makes up approximately half of the
+total thickness of coating
+(fig.
+568338—44
+21
+
+--- PAGE 324 ---
+318
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+5-97).
+For
+that
+reason,
+finishes
+of maximum smoothness
+are
+relatively heavy,
+usually approximately 0.05 pound per square foot or even more.
+They are
+also
+laborious in application, inclined to crack and chip badly when they wear out, and
+are little
+if any better in protective power and durability than an otherwise similar
+finish from which the sanding surfacer has been omitted and the weight reduced to
+0.025 to 0.03 pound per square foot.
+The tendency at present, therefore, is to leave
+out sanding surfacers and to accept the somewhat rougher finish, often still revealing
+the grain pattern of the wood, that results.
+Finishes of mirror-like smoothness are necessarily glossy, reflecting light specu-
+larly.
+On task and combat craft, where camouflage
+is required, some sacrifice of
+smoothness must be made to obtain lusterless finishes that
+reflect light diffusely.
+5.74. Absorption of Heat by Finishes.
+Stagnant or nearly stagnant air spaces
+enclosed by thin skins, such as occur in the wings of aircraft, may become heated
+when exposed directly to sunshine.
+The rise in temperature
+is greatest on cloudless
+f
+-*'-'•-''
+FILLER-.
+'
+SURFACER
+rPORE THAT ESCAPED FILLING
+/- FILLER —\
+v-YELLOW ENAMEL
+fz -INCH THICK
+Figure 5-97.—Photomicrograph of a cross section through a typical enamel finish with filler and surfacer on mahogany-yellow
+poplar plywood.
+The sample was taken from an Army training plane after it had been in service some months.
+days with little or no wind when the sun is closest to the zenith and the plane stands
+so that the surface
+is most nearly normal to the direction of the sun's rays.
+If all
+of
+these
+factors
+are
+constant,
+the
+rise
+in temperature depends
+to
+a considerable
+extent on the absorptiveness of the exterior finish for infrared radiation from the
+sun.
+White enamel or lacquer reflects most of the radiant energy of sunshine and
+therefore tends to keep the surface cooler than
+it would be with any other finish.
+Clear finishes, such as varnish, transmit most of the radiation, much of which is then
+reflected by the surface of the wood, so that the heating effect is relatively moderate.
+Black
+finishes made with carbon pigments
+absorb
+nearly
+all
+the
+radiation and
+thereby give rise to maximum heating of the surface.
+Colored finishes
+fall some-
+where between white and black, according to the proportion of the radiation, particu-
+larly the infrared radiation, that they reflect.
+As a rule, the darker the color, the
+less
+radiation
+reflected and
+the more
+absorbed;
+hence,
+the
+colors
+preferred
+for
+camouflage, which are dark, tend to cause marked warming of surfaces.
+Certain colored pigments that are highly absorptive of portions of visible light
+are
+reasonably
+highly
+reflective
+for
+infrared
+radiation.
+Finishes made
+carefully
+
+--- PAGE 325 ---
+PROCESSING AND FABRICATION
+319
+with such pigments may be dark in color and yet fairly highly reflective for infrared
+radiation.
+Ordinary
+olive drab camouflage enamel,
+for example, has a rating of
+approximately 10 percent for reflection of infrared radiation, but enamel of the same
+color can be made with a rating of 50 percent reflection.
+Observations were made at Madison, Wis.,
+in the dummy wings described in
+Forest Products Laboratory Mimeo. No. 1343B (5-58).
+During July 1942 with an
+olive-drab, camouflage-enamel exterior finish of 10 percent infrared reflectance, the
+maximum temperatures recorded on a clear,
+still day when the outside temperature
+in the shade was approximately 85° F. were as follows:
+Tempera-
+Position in wing
+lure °F.
+Upper surface of plywood
+ISO
+Outer glue line in upper plywood skin
+.
+180
+Midpoints of air space between upper and lower skins
+170
+Glue line in lower plywood skin
+130
+Late in August 1942 the following comparison of temperatures in the enclosed
+air space was obtained when the exteriors of the plywood skins were finished with
+enamels of differing infrared reflectance and the outside temperature in the shade
+was 90° F.
+Temperature
+Enclosed air space in wing
+°F.
+Glossy yellow enamel of 80 percent reflectance
+. __
+129
+Camouflage olive drab enamel of 50 percent reflectance
+133
+Camouflage olive drab enamel of 10 percent reflectance
+138
+Camouflage blue enamel of 5 percent reflectance
+146
+Starting earl}' in July 1943, similar studies of temperatures were undertaken at
+Madison, Wisconsin, and at Tucson, Arizona,
+in wings from Anson bomber planes
+finished with
+a brown enamel
+of
+10 percent infrared
+reflectance; meanwhile,
+the
+observations
+in
+the "dummy wings"
+were
+continued.
+Approximately
+the same
+maximum temperatures are developed in the real wings and in the "dummy wings"
+under similar conditions.
+The highest temperature observed
+in the Anson wings
+was
+179°
+F.
+at Madison and 215°
+F.
+at Tucson, but
+at Madison
+it
+is believed
+that
+still higher temperatures will be attained before the experiments are concluded.
+5.75. Materials for Aircraft Finishing.
+The materials commonly used
+for
+air-
+craft finishing are broadly classified into three general types, namely, dopes, lacquers,
+and oleoresinous products.
+Dopes are fabric finishes, and should be used on wood
+only
+in
+conjunction with
+fabric
+coverings.
+Lacquers and oleoresinous products,
+when properly made
+for the purpose,
+are suitable
+for finishing directly on wood
+surfaces.
+In general, lacquers should not be combined with nonlacquers in a finishing
+system.
+It
+is frequent practice, however,
+to apply an oleoresinous sealer to bare
+wood as the first operation in a lacquer system
+; with that exception it is poor practice
+to alternate lacquers and oleoresinous products in building a finish on wood.
+5.750. Dope.
+Dope
+is essentially a solution of cellulose ester of high-viscosity
+grade together with
+a
+small proportion
+of plasticizer in suitable organic solvents
+and
+volatile
+thinners.
+This makes
+clear dope, which forms transparent coatings
+that are usually nearly
+colorless.
+To make opaque coatings of any desired color,
+including white and
+black,
+the necessary pigments are incorporated, making
+pig-
+mented dope.
+The cellulose ester most widely used
+for aircraft dopes
+is cellulose
+nitrate (nitrocellulose) but cellulose acetate-butyrate is also used.
+Dopes made with
+the latter are less inflammable than the cellulose nitrate dopes.
+A primary function
+of dope
+is to tauten
+fabric, which
+it does because the dope solidifies when only a
+portion of the solvents and thinners has evaporated and then
+shrinks
+materially
+as the rest of the drying takes place.
+The high-viscosity grades of cellulose ester
+impart the desired degree of such shrinkage in drying but the high viscosity requires
+a very large proportion of solvents and thinners to make dopes of suitable consistency
+for brushing or spraying.
+In consequence, the nonvolatile content of dopes is very
+
+--- PAGE 326 ---
+320
+AJSTC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+low, which means that the film formed on the surface when a single application of
+dope has dried
+is very thin.
+For that reason, finishing systems with dope usually
+require at least six or eight applications to produce a coating of satisfactory thickness.
+On the other hand, dope dries rapidly, hence many coats can be applied within a
+relatively short time.
+There
+are three recent developments
+in making and handling dope
+that
+are
+directed toward reducing
+the number
+of applications
+of dope required
+to attach
+and finish fabric.
+In the
+first the fabric
+is "predoped"; that
+is, the manufacturer
+of dope impregnates
+the
+fabric with
+clear dope by means of special
+equipment.
+The predoped fabric
+is then shipped
+to the
+aircraft maker, who can
+then
+apply
+and
+finish
+it with fewer additional applications of dope.
+The
+predoped fabric
+is
+stiffer and harder to apply on surfaces with double curvature than is undoped fabric.
+To retain sufficient flexibility, predoped fabric often requires shipment and storage
+in airtight containers to keep
+it from drying out too much.
+The second development
+is "hot spraying."
+When dope is heated and applied
+at 170° to 180° F. by means of specially designed spraying equipment, the dope can
+be made with nearly twice the usual nonvolatile content, so that one hot coat ac-
+complishes as much as two coats of unhealed dope.
+The process, however, requires
+greater skill and more careful attention of the operator.
+The third development
+is the use of dope emulsion, which consists of specially
+formulated dope or lacquer emulsified in water.
+Such emulsions contain twice the
+usual content of nonvolatile and yet have a consistency suitable
+for brushing or
+spraying
+without
+being
+heated.
+The
+emulsion
+dopes
+or
+emulsion
+lacquers
+are
+proposed
+for attaching fabric to scaled plywood and then scaling the fabric to make
+it ready for final coats of pigmented dope, lacquer enamel, or oleoresinous enamel.
+The emulsion dopes facilitate the attachment of fabric even on surfaces with sharp
+double curvature because the water makes fabric very flexible.
+Dope
+is low in moisture-excluding effectiveness and therefore does not make a
+very satisfactory protective coating for wood.
+5.751. Lacquer.
+Lacquer
+is
+essentially
+a
+solution
+of
+cellulose
+ester
+of low-
+viscosity grade, together with plasticizer and resin in suitable organic solvents and
+volatile thinners.
+Pigments are incorporated in the clear lacquer to make lacquer
+enamels.
+Use of a low-viscosity grade of cellulose ester and addition of resin permit
+more than twice as much nonvolatile in lacquer as there is in dope, so that one appli-
+cation of lacquer accomplishes as much as two applications of dope in building film
+thickness.
+Most lacquers are made with cellulose nitrate, but some are made with
+cellulose acetate-butyrate.
+The aircraft lacquers generally contain more resin than
+cellulose ester, and the resin commonly used is one or a mixture of the alkyd (glycerol
+phthalate)
+resins,
+in which
+case
+the
+resin may
+serve
+also
+as
+a
+plasticizer.
+The
+lacquers take somewhat longer to dry than the dopes but are fast-drying materials
+nevertheless.
+In moisture-excluding
+effectiveness, the lacquers are much superior
+to the dopes and,
+if applied in coatings of equal thickness, may be nearly as good as
+some
+of the oleoresinous products.
+As a
+rule, however, lacquers
+are
+applied
+in
+somewhat
+thinner
+coatings than
+the
+corresponding
+oleoresinous
+finishes
+and,
+so
+applied, furnish somewhat less protection for wood.
+5.7 52. Oleoresinous Products.
+The oleoresinous products when unpigmented
+are commonly
+called
+varnishes and when pigments
+are
+incorporated
+are
+called
+enamels.
+Varnish consists of resin blended with drying oil by heat according to a
+suitable cooking schedule and
+then, when the product has partly
+cooled, adding
+enough
+volatile
+thinner
+to produce
+the
+correct
+viscosity
+for
+application.
+Much
+less volatile thinner is required for this purpose than is the case with lacquers, hence
+oleoresionous products
+usually
+contain
+a much
+higher proportion
+of nonvolatile
+than lacquers do.
+With some of the synthetic resins, particularly the alkyds, the
+drying
+oil
+is incorporated during the manufacture of the resin and the "resins" so
+
+--- PAGE 327 ---
+PROCESSING AND FABRICATION
+321
+produced, which should properly be called varnishes, may he mixed with one another
+and thinned to make varnishes of the
+desired
+characteristics.
+Most
+oleoresinous
+finishes for aircraft are made with either alkyd or phenolic resins or with combinations
+of the two known as phenol-modified alkyd resins.
+For
+the drying
+oil,
+tung
+oil
+is highly
+desired
+because
+it makes
+fast-drying
+varnishes,
+particularly
+in
+conjunction with
+the
+phenolic
+resins,
+but
+the
+limited
+availability of tung oil during wartime makes
+it necessary to use dehydrated castor
+oil, oiticica oil, and specially treated linseed oils to a considerable extent.
+The rate
+of drying and other properties of varnish depend also on the proportions of resin and
+drying
+oil.
+Varnishes are called "long
+in
+oil" or "short
+in oil" according as they
+are made with much or little
+oil for a given amount of resin.
+More specifically, a
+varnish
+is of "10-gallon length in oil"
+if
+it
+is made with
+10 gallons of drying oil to
+100 pounds of resin, "20-gallon length"
+if there are 20 gallons of oil per 100 pounds
+of
+resin, and so
+on.
+In
+general, a varnish
+dries
+faster and has better moisture-
+excluding effectiveness the shorter
+it is in
+oil, but when too short it lacks plasticity
+and
+durability.
+The length
+in
+oil,
+therefore,
+is commonly adjusted
+to
+give
+the
+fastest drying consistent with the required degree of durability for the use to which
+it is to be put.
+If unduly fast drying is demanded,
+it can be attained only by sacri-
+ficing durability.
+According to their function in finishing s

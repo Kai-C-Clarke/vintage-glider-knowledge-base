@@ -1,0 +1,1346 @@
+ystems, the aircraft finishing materials
+for wood
+surfaces, whether
+of lacquer or oleoresinous
+type,
+include
+sealer, wood
+filler, sanding surfacer, enamel, and camouflage enamel.
+5.7 53.
+Sealer.
+Oleoresinous sealers are usually fast-drying, short oil varnishes
+of
+relatively low
+nonvolatile
+content.
+They
+are
+designed
+to
+sink
+into
+the
+cell
+cavities near the surface of wood and harden there without penetrating farther into
+the wood.
+Their function
+is to seal the surface against penetration of the liquids in
+coatings
+to
+be
+applied
+subsequently.
+Army-Navy
+Aeronautical
+Specification
+AN-S-17
+(for sealer) and AN-C-83
+(for protective coatings) require that the non-
+volatile content be not less than 30 percent by weight but permit thinning the first
+coat to 18 percent.
+Since even 30 percent
+is too low to accomplish thorough seal-
+ing of most woods, two coats of sealer are sometimes applied before putting on other
+coatings.
+On
+interior
+surfaces, two
+applications
+of sealer
+are commonly
+specified
+as
+a
+complete finishing system deemed
+to have
+sufficient moisture-excluding
+effective-
+ness for the purpose.
+In such cases, the second application of sealer functions as a
+very thin coat of varnish.
+Better protection would be obtained with slight added
+weight by using spar varnish of higher nonvolatile content (Army-Navy Aeronautical
+Specification AN-TT-Y-118) instead of sealer for the second coat.
+Sealers are comparatively new products in wood finishing for which there
+is at
+present a good deal of overenthusiasm leading to inadvisable substitution of sealer
+where varnish
+is the efficient material to use.
+Sealer may properly be considered a
+material for forming a "coating" within the surface of wood, but
+it is not adequately
+designed for forming
+a
+true coating over the surface.
+When
+a continuous unpig-
+mented coating of appreciable thickness over a surface
+is required, varnish
+is the
+efficient oleoresinous material to use.
+One application
+of varnish
+is then roughly
+equivalent to two applications of sealer.
+Whenever more than a single application
+of sealer
+is specified, either the sealer
+is inadequately formulated to accomplish its
+purpose efficiently or sealer
+is being used where varnish would be a more suitable
+choice.
+Sealers may be clear—that is, without pigments—or they may contain moderate
+proportions of such pigments as
+silica and magnesium
+silicate
+(liquid wood
+filler,
+described
+farther
+on,
+contains
+larger proportions
+of
+pigments).
+The pigmented
+sealers tend to be somewhat more effective than the clear sealers, both
+in sealing
+and in moisture-excluding effectiveness, but they are slightly heavier and less con-
+
+--- PAGE 328 ---
+322
+ANC BULLETIN—WOOD A1KCRAFT INSPECTION AND FABRICATION
+venient for application by dipping because the pigments tend to
+settle in the dip
+tank.
+According to specification AN-S-17, the first application of sealer on bare wood
+may be by brushing, dipping, or roll-coating but not by spraying.
+For the second
+application on interior surfaces, the sealer may be applied by spraying, brushing, or
+dipping.
+Specification
+AN-S-17
+describes
+both
+clear
+sealers
+and
+"pigmented
+sealers," but by "pigmented sealer"
+it means liquid wood filler.
+5.754. Wood Filler.
+Wood
+filler
+is
+essentially a highly pigmented
+sealer de-
+signed to fill and level off the large pores in hardwoods having pores as large or larger
+than those in birch.
+The pigments are commonly silica and magnesium silicate or
+similar pigments of low opacity.
+Filler may be furnished in the consistency of paste
+to be thinned before application or it may be furnished ready for application.
+Filler
+may be applied by brushing, spraying, or mopping; but in any case, after much of the
+volatile has evaporated but before the rest has hardened, it is wiped with rag, burlap,
+or moss across the grain of the wood to pack the iarge pores and remove any excess.
+Filler when used should be applied to bare wood before any other finishing ma-
+terial
+is put on.
+A good
+filler, properly applied, serves both as sealer and
+filler;
+nevertheless, a clear sealer is sometimes applied before or after wood
+filler.
+Applica-
+tion of sealer before
+filler interferes with proper packing of the
+filler into the large
+pores of the wood and therefore is not considered good practice.
+If sealer is used at
+all in conjunction with the filler, the filler should be applied first and the sealer after-
+ward.
+Specification AN-S-17
+covers
+liquid wood
+filler
+(ready
+for
+application).
+Federal Specification TT-F-336a covers paste wood
+filler.
+5.755. Sanding
+Surfacer.
+If a finish
+of mirrorlike smoothness
+is required on
+wood,
+it
+is necessary to apply a coating of substantial thickness that can be sanded
+soon after
+it
+is dry
+to provide a perfectly level foundation for enamel or lacquer
+enamel.
+Ease of sanding is achieved by making sanding surfacers with a very high
+proportion of pigments so that the coating, as soon as the volatile thinner evaporates,
+is somewhat porous and spongy.
+The pigments used, such
+as magnesium silicate
+and china clay, are largely of low opacity, but enough opaque pigment, such as tita-
+nium
+dioxide,
+is commomy incorporated
+to
+give
+the coating good
+opacity.
+For
+aircraft uses, sanding surfacers are usually either white or gray in color.
+Army Air
+Forces Specification 14115 covers "Surfacer; Aircraft (for wood)."
+Inclusion of surfacer in a finishing system adds materially to the weight of coat-
+ing without proportionately improving either the protective value or the durability.
+The film of surfacer is too porous to contribute much protection, and it
+is inclined to
+become brittle as the finish ages.
+5.7 56. Patching Putties.
+Patching putties are
+essentially surfacers put up
+in
+putty consistency for application with a putty knife or with the fingers to
+fill and
+level any holes, cracks, or other blemishes in the surface.
+The nail holes left after
+strip-nail
+gluing,
+for
+example,
+unless
+satisfactorily
+filled
+with wood
+filler, must
+usually be puttied before finishing enamel is applied.
+5.757. Enamel.
+Although pigmented sealer, wood
+filler, and
+sanding surfacer
+are really forms of enamel, the term "enamel" when not otherwise qualified is usually
+reserved for the product used for the final coat
+(finish coat) of a finishing system.
+Enamels may be gloss, semigloss, or lusterless.
+The lusterless enamels for aircraft
+and other war material are called camouflage enamels.
+The gloss enamels contain
+only enough pigment,
+chiefly
+or
+entirely opaque pigment, to give them adequate
+hiding power and color and good working properties.
+The coating left after appli-
+cation and escape of the volatile thinners contains enough drying
+oil and resin to
+fill all interstices between pigment particles and, in addition, to leave a film of clear
+material over the surface, which provides the high degree of gloss.
+The semigloss
+enamels contain more pigment, some
+of which
+is usually pigment
+of low opacity
+(extending pigment) so that the dried coating contains barely enough drying oil and
+
+--- PAGE 329 ---
+PROCESSING AND FABRICATION
+323
+rosin to
+fill the interstices between particles of pigment.
+The camouflage enamels
+contain still larger proportions of pigment, largely pigments of low opacity, so that
+the dried coating contains
+insufficient
+oil and resin
+to
+fill the
+interstices between
+particles
+of
+pigment,
+and
+the
+surface
+is
+therefore
+left
+slightly
+rough.
+Light
+is
+reflected
+diffusely rather than specularly from such a surface, making the surface
+lusterless, but the coating
+itself
+is necessarily somewhat
+porous and spongy and
+allows moisture to pass through
+it too readily to provide appreciable protection for
+wood.
+The relative proportions by volume of volatile ingredients,
+v; nonvolatile ingre-
+dients, l-v; pigment, p, and the ratio of pigments to nonvolatile ingredients, p/(l—v),
+differ among camouflage enamel,
+gloss enamel,
+gloss
+lacquer
+enamel,
+and
+gloss-
+pigmented dope as indicated by the representative data in table 5-19.
+Table 5-19.
+Relative proportions by volume of ingredient per gallon of product ready for application
+foi
+4 finishes
+Finisli
+Volume of ingredient per gallon of product
+ready for application
+Rat id
+p/(l-»)
+Volatile sol-
+vents and
+thinners
+V
+Total non-
+volatile (pig-
+ment, drying
+oil and resin)
+(i~i>)
+Pigment
+P
+Camouflage enamel.
+Gloss enamel
+Gloss lacquer enamel _
+Gloss pigmented dope
+Gallon
+0. 50
+:S
+. 90
+Gallon
+0. 50
+. 50
+. 25
+. 10
+Gallon
+0. 30
+. 10
+. 04
+. 01
+0. 60
+. 20
+. 16
+. 10
+5.76.
+Aircraft Finishing Systems.
+Although
+the
+Forest
+Products
+Laboratory
+has developed basic
+principles of wood finishing in many
+fields
+(5-56),
+it has not
+studied aircraft finishing long enough
+to make its own recommendations of suitable
+systems.
+Accordingly, the systems described herein are those set forth as minimum
+requirements
+in Army-Navy
+Aeronautical
+Specification AN-C-83.
+Although
+a
+number of optional finishing systems are authorized by Specification AN-C-83,
+it is
+provided that only one system may be used
+for
+a given
+class
+of surfaces
+of any
+specific model of aircraft.
+5.760.
+Interior System A.
+For
+interior surfaces not exposed
+to view, such
+as
+interior surfaces of wings, the minimum finish now specified consists of two applica-
+tions of sealer conforming to Army-Navy Aeronautical Specification AN—S-17.
+Operation
+1: Apply by brushing or dipping
+1 coat of sealer and allow
+to dry for not less than 6 hours at room temperature or not less than 30
+minutes
+at
+130°
+to
+150°
+F.
+The
+sealer may be thinned
+with
+aromatic
+naphtha, Type
+I, Grade
+B,
+of Specification AN-VV-N-96.
+The surface
+must not be sanded after the sealer has dried.
+Operation
+2: Apply
+"by any
+commercial method
+producing
+a
+wet
+film"
+1 coat of sealer.
+Any thinning of the sealer must be the "minimum
+consistent with the method of application/'
+If drying
+is at room temper-
+ature, the work is ready to handle in not more than 6 hours; if dried at 130°
+to 150° F.,
+it
+is ready to handle in 30 minutes.
+Wood filler is not required.
+
+--- PAGE 330 ---
+324
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+(
+The weight added by application of Interior System A should be not less than
+1.5 nor more than 3.0 ounces per square yard (0.01 to 0.021 pound per square foot).
+Even the minimum represents more generous application of sealer than has been the
+practice of some aircraft manufacturers.
+5.761.
+Interior System B.
+The
+degree
+of
+protection
+afforded by System
+A,
+even when applied
+at the maximum weight,
+is not great.
+For extra protection on
+such surfaces as wheel wells and surfaces of hulls below the floor boards, the mini-
+mum acceptable finish is System B, as follows:
+Operations
+1 and 2: Same as in System A.
+Operation 3: Apply another coat of sealer as in Operation 2.
+Operation
+4: Mix
+12
+to
+16 ounces of aluminum paste conforming to
+Specification AN-TT-A-461 with one gallon of sealer.
+Apply
+1 coat of
+the mixture by brushing, spraying, or dipping.
+The same time
+is allowed
+for drying as for Operation 2.
+5.762.
+Interior Surfaces Exposed to View.
+The minimum finishing systems for
+interior surfaces exposed to view are the same as those specified for exterior surfaces
+when not covered with fabric except that on interior surfaces the application of wood
+filler on woods with large
+pores, such
+as mahogany,
+is optional, not mandatory.
+There are, however, a number of options, and
+it
+is not necessary to select the same
+option for both the
+interior exposed surfaces and the exterior surfaces of a given
+model
+of aircraft.
+Interior exposed surfaces, for example, may be finished with a
+lacquer system, whereas an enamel system or a fabric and dope system maybe used
+on the exterior surfaces.
+The weight added by application of finish
+to interior exposed surfaces should
+he not less than 3.0 nor more than 7.5 ounces per square yard (0.021 to 0.052 pound
+per square foot).
+5.763. Areas of Contact Between Metal and Wood.
+Areas
+of
+contact between
+metal and wood
+should
+be
+protected
+with
+varnish
+conforming
+to
+Specification
+AN-TT Y-118,
+with
+aluminized
+bituminous
+paint
+conforming
+to
+Specification
+AN-P-31, or with other materials approved by the procuring agency.
+The number
+of coats is not provided in Specification AN-C-83, but at least two coats of varnish
+are
+necessary
+to
+afford much
+protection,
+though
+one
+heavy coat
+of aluminized
+bituminous paint may suffice.
+Bituminous paint, however, may not be used where
+surfaces may come in contact with gasoline, with additional paint coatings, or with
+personnel.
+5.764. Exterior System C (Enamel).
+The minimum system for exterior surfaces
+when not covered with fabric and when
+it is desired to use oleoresinous enamel
+for
+the finish
+coat
+consists
+of System A plus one coat
+of enamel.
+The enamel must
+conform
+to
+Specification AN E-3
+in the color required by
+the procuring agency
+when a gloss finish
+is specified and
+to Specification AN-E-7
+in the required color
+when camouflage finish is specified.
+Operations 1 and 2: Same as in System A.
+Operation 3: Apply by spraying or brushing
+1 coat of enamel.
+The
+enamel may be thinned as required for good application with not more than
+one-fourth its volume of mineral spirits conforming to Federal Specification
+TT-T-291 for gloss enamel, or of aromatic naphtha, Type
+I, Grade B, of
+Specification AN-VV-N-96
+for camouflage enamel.
+Gioss enamel
+dries
+at room temperature within
+18 hours, camouflage enamel within
+1 hour.
+Some gloss enamels dry at 130° to 150° F. within 2 hours.
+On woods with pores larger than those in birch, such as mahogany, System C is
+unacceptable because
+it does not make the surface smooth enough.
+Either of two
+optional modifications must be followed.
+Under the
+first option, a coat of liquid
+wood
+filler may be applied "in addition to the two sealer coats."
+The normal place
+to apply filler is prior to Operation
+1, but Specification AN-C-83 permits the appli-
+cation of filler and sealer in any sequence approved by the procuring agency.
+Under
+
+--- PAGE 331 ---
+PROCESSING AND FABRICATION
+325
+the second option, sanding surfacer may be applied between Operations 2 and
+3.
+The Specification provides that "when surfacer
+is used
+the processing shall be
+so
+controlled
+as to leave a minimum
+thickness of
+the surfacer consistent with accept-
+able smoothness."
+5.765. Exterior System D (Lacquer Enamel).
+When lacquer enamel
+is used for
+the finishing coats, the minimum system requires that two coats of lacquer enamel be
+used
+to replace the one coat of oleoresinous enamel
+in System C.
+Gloss lacquer
+enamel
+must
+comply
+with
+Specification AN-TT-L
+51
+and
+camouflage
+lacquer
+enamel with AN-L-21.
+Operations 1 and 2: Same as in System A.
+Operation 3: Apply by spraying
+1 coat of lacquer enamel. The lacquer
+enamel may be thinned with not more than
+half
+its volume of lacquer
+thinner conforming to Specification AN-TT-T-256.
+At least 40 minutes
+should
+be
+allowed
+for
+drying.
+The
+surface may
+then
+be sandpapered
+lightly
+if necessary.
+Operation 4: Apply by spraying
+1 coat of lacquer enamel.
+The lacquer
+enamel may
+be thinned with not more than
+half
+its volume
+of lacquer
+thinner conforming to Specification AN-TT-T-256.
+At
+least 40 minutes
+should be allowed for drying.
+On woods with pores larger than those in birch, System D requires one of the
+two optional procedures already described
+in connection with System C, namely,
+use of liquid wood filler or of sanding surfacer in addition to the two coats of sealer in
+order to obtain a smoother surface.
+The weight added by application of finishing System C or D should be not less
+than 3.0 nor more than 7.5 ounces per square yard (0.021 to 0.052 pound per square
+foot).
+The upper limit should be approached only if sanding surfacer is used.
+5.766. System E for Floats and Hulls.
+Specification
+AN-C-83
+provides
+that
+"exterior surfaces of floats and hulls belowr a line 12 inches above the full load water
+line
+shall
+be
+finished with
+4
+coats
+of
+sealer and
+a
+hull-bottom
+finish system
+as
+specified by the procuring agency."
+5.767. Fabric Covering Over Plywood.
+The practice of covering exterior sur-
+faces
+of plywood
+with
+fabric and
+then
+finishing with dope
+offers
+the
+following
+advantages:
+1.
+It
+follows
+a
+finishing
+procedure
+with which most
+aircraft
+manufacturers
+have had long experience and for which their plants are adequately equipped.
+2. Edges of plywood and joints between face veneers or sheets of plywood can
+be covered smoothly with
+little danger of premature cracking of the finish at the
+edges or over the joints.
+3. Any checking that develops in faces of plywood usually remains concealed.
+4.
+Presence of the fabric imparts greater resistance of the finish to abrasion, for
+example, by sand thrown up during landing and take-off.
+5. When finish must be renewed, the old fabric and dope can be stripped
+off
+completely so that new finish can be applied without increase in weight.
+The chief disadvantages of the fabric and dope finish are excessive weight, the
+1ow
+t degree of protection furnished for the wood, and comparatively low durability.
+Specification AN-C-83 includes the requirements of cotton fabric for covering
+plywood where no portion of the loading is carried by the fabric.
+Predoped fabric is
+permitted, in which case
+it must be applied in accordance with the directions of the
+manufacturer.
+5.768.
+Finishing
+System
+F
+(Fabric
+and
+Cellulose-nitrate Dope).
+Operations
+specified for applying fabric and cellulose-nitrate dope are:
+Operations
+1 and 2: Apply two coats of sealer over the plywood as in
+System A.
+Operation 3: Apply by brushing or spraying
+1 coat of dope conforming
+to Specification AN-TT-D
+514.
+Thin the dope as required with thinner
+
+--- PAGE 332 ---
+326
+ANC BULLETIN" —WOOD AIRCRAFT INSPECTION AND FABRICATION
+conforming
+to
+Specification AN-TT-T-256.
+The dope may be
+colored
+slightly
+as a guide
+in application, provided that
+it
+is not made opaque.
+Allow
+1 hour for drying.
+Operation 4: Repeat Operation
+3.
+Operation 5: Lay the fabric in place and, if desired, tack it lightly.
+Set
+it in place by brushing in one direction with dope thinner or with thinned
+dope
+("pull-over solution").
+Release any
+air bubbles imprisoned under
+the fabric by puncturing with pins if necessary.
+Allow
+1 hour for drying.
+Operation 6: Apply by brushing
+1 coat of uncolored dope (Specification
+AN-TT-D-514)
+thinned
+as
+required
+to wet
+the
+fabric
+thoroughly and
+produce maximum adhesion.
+Allow
+1 hour for drying.
+Operation
+7: Apply fabric tape over
+all unstitched
+fabric joints and
+over
+all exposed nail and screw heads.
+Lay the tape on wet dope and
+cement in place with thinned dope.
+Allow
+1 hour for drying.
+Operation 8: Repeat operation 6, except that the dope may be applied
+by either spraying or brushing.
+Operation
+.9: Repeat Operation 8.
+Operation 10 (optional): Sand lightly with paper not coarser than No.
+280
+if necessary to smooth out the nap of the fabric.
+Operation 11: Apply by spraying or brushing
+1 coat of pigmented dope
+of the color and degree of gloss specified by the procuring agency.
+For
+spraying, the dope may be thinned with not more than its own volume of
+thinner conforming
+to
+Specification AN-TT-T-256.
+For
+brushing,
+the
+thinner must not exceed one-fourth the volume of the dope.
+Allow
+1 hour
+for drying.
+Operation 12: Repeat Operation
+11.
+The dope for Operations 11 and 12 may be, as specified by the procuring agency,
+gloss pigmented dope conforming to Specification AN-TT-D-554, aluminized dope
+conforming
+to
+Specification AN-TT-D-551,
+or
+camouflage dope
+conforming
+to
+Specification AN-D-8.
+The aluminized dope
+is supplied as a clear vehicle to be
+mixed on
+the job
+as
+follows: Add approximately
+12
+ounces
+of aluminum
+paste
+conforming
+to Specification AN-TT-A-461
+to
+1 pint of the clear dope,
+stir thor-
+oughly, then add enough clear dope to bring the total volume to
+1 gallon, and finally
+thin as described in Operation
+11.
+5.769. Finishing System G (Fabric and Cellulose-acetate-butyrate Dope).
+Operations
+1
+to 7: Same
+as
+in System
+F,
+both
+as
+to
+materials and
+procedure.
+Operation 8: Apply by spraying or brushing
+1 coat of clear butyrate
+dope conforming to Specification AN-D-1.
+The dope may be thinned as
+required
+for good
+application,
+using thinner conforming to
+Specification
+AN-TT-T-256.
+Allow
+1 hour for drying.
+Operation 9: Repeat Operation 8.
+Operation
+10
+(optional): Sand
+lightly
+with paper
+not
+coarser
+than
+No. 280 if necessary to smooth the nap of the fabric.
+Operation 11: Apply by spraying
+or brushing
+1
+coat
+of pigmented
+butyrate dope conforming to Specification AN-D-2 if the procuring agency
+requires gloss finish or Specification AN-D-3 if camouflage finish is required.
+The dope may be thinned as necessary for good application.
+Allow
+1 hour
+for drying.
+Operation 12: Repeat Operation 11.
+The weight added by finishing System F or G should be not less than 4.5 nor
+morejthan 7.0 ounces per square yard (0.031 to 0.052 pound per square foot) exclusive
+
+--- PAGE 333 ---
+PROCESSING AND FABRICATION
+327
+of the fabric, which weighs not more than 3.5 ounces per square yard (0.024 pound
+per square foot) in addition.
+5.7690.
+Insignia. The application of insignia after the exterior finish has been
+otherwise completed
+is described in Specification AN-1-9.
+5.77. Methods of Applying Finishes.
+As a rule,
+all major finishing operations
+that involve application of large quantities of finishing materials should be performed
+in a finishing room separated from the rest of the factory and used only for finishing
+operations.
+The room should be maintained
+in
+a neat and orderly manner, with
+particular care to keep it free from dust and to minimize fire hazards.
+Good ventila-
+tion is essential.
+Oleoresinous finishes require oxygen from the air for drying, and
+lacquers and dopes demand movement of air ample to carry
+oft' the large volume of
+solvents and thinners given off as they dry.
+Accumulation of such vapors constitutes
+both a
+fire and a health hazard.
+Positive ventilation by forced draft,
+sufficient
+to
+effect at least 15 complete changes of air per hour, is highly desirable if not essential
+in finishing rooms in which much dope or lacquer is applied.
+Incoming air should be
+freed from dust by passing
+it through cheesecloth, very fine mesh screen, or other
+suitable filters.
+The temperature of the finishing room should not be lower than 70° F. and should
+be held as uniform as practicable.
+Finishing materials become heavier in viscosity
+at lower temperatures and thinner at higher temperatures.
+Although some adjust-
+ment can be made by altering the proportion of thinner, uniform temperature pro-
+motes uniform application and uniform rate of drying of finishing materials.
+The
+optimum relative humidity in the finishing room is approximately 60 percent.
+At 70°
+F. this tends to hold wood in the range of 10 to 12 percent moisture content, and
+under such conditions
+finishes dry
+satisfactorily.
+If the relative humidity
+is too
+high, coating's tend to remain tacky for a long time and dopes and lacquers may be
+damaged by
+"water
+blushing"
+during
+application.
+(Blushing
+is
+a
+condition
+of
+whitening of a coating caused either by a separation of some of the vehicle constitu-
+ents or by droplets of water emulsified in the coating before it has dried.)
+In
+the winter season,
+air conditioning
+of the
+finishing room can be
+accom-
+plished easily and economically by heating the incoming air to 70° F. and raising
+its
+relative humidity
+to
+60 percent by means
+of steam
+jets
+or other convenient
+devices.
+Under summer conditions, however, cooling and dehumidification of the
+large volume of air required present serious
+difficulties,
+especially
+in places where
+cold water in large volume is unavailable.
+In spite of its difficulties, air conditioning
+during summer weather is exceedingly helpful in regions where the relative humidity
+may rise much above 60 percent, because blushing may then prevent all application
+of dope or lacquer until the weather changes.
+Where there
+is no provision for de-
+humidification and
+difficulty
+with
+blushing
+arises,
+the
+relative humidity can be
+lowered by raising the temperature of the finishing room
+still higher insofar as that
+is practicable.
+Spraying is the principal method used to apply aircraft finishes, but for certain
+operations brushing is believed to give better results or is more convenient, and for
+still others dipping
+is practiced.
+Less frequently used methods are
+roll coating in
+equipment much like glue spreaders, mopping on with rags or suitable applicators
+(sealers and
+fillers), wiping
+off with rags or other material
+(fillers and sometimes
+sealers), and knifing with putty knife or spatula (surfacers and putties).
+5.770. Spraying.
+Spraying
+is a rapid method of application especially effective
+when applying very fast-drying products on large surfaces.
+Spraying can be done
+only
+in spray booths
+or spray rooms equipped
+to
+exhaust
+the mist and fumes;
+hence the work must be brought
+to
+the spray booth.
+In most
+States
+there
+are
+detailed
+laws
+governing equipment and
+safety
+precautions
+for
+industrial
+spray
+finishing.
+Technical details about the equipment needed for specific operations are
+
+--- PAGE 334 ---
+328
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRIC ATION
+obtainable from
+manufacturers
+of spray
+equipment.
+For
+liot
+spraying,
+special
+equipment
+is required.
+Typical spray booths for aircraft finishing are shown in figures 5-98 and 5-99.
+5.771. Brushing.
+Brushing is used for small jobs along the assembly line where
+it
+is more convenient to bring the finishing materials to the part than to take the
+part to a spray booth.
+A few operations
+are better done by brushing than by spraying.
+The
+first
+coat or two of dope are usually brushed on fabric, because the pressure of the brush
+on
+the
+fabric
+brings about
+better penetration and
+helps
+to
+release
+air bubbles.
+Figure 5-98.—Typical spray booth for finishing aircraft parts by spraying.
+The operator wears a mask for
+protection against paint mist.
+Many finishers believe that sealers and fillers can be applied on wood more effectively
+by brushing than by spraying, but this view
+is not accepted everywhere.
+5.772. Dipping.
+Dipping is a method of rapid application that permits appli-
+cation of finish to interior parts inaccessible to brush or spray.
+Figure 5-100 shows
+a plywood-covered wing section being dipped in sealer to finish
+all of the interior
+surfaces and
+seal the outside surfaces
+in a
+single operation.
+After each dip the
+excess sealer
+is wiped from the outside surfaces with rags wetted with thinner.
+Figure 5-101 shows the dipping of a wing section that
+is to be subsequently
+covered with
+fabric.
+The surfaces
+in
+this case might be
+accessible
+for spraying,
+but dipping is faster and insures more certain penetration of the finish into pockets
+like those formed between rib caps, diagonal braces, and gussets.
+The tank shown in figure 5-100 holds 2,000 gallons of sealer, the composition
+of which must be checked frequently to restore thinners gradually lost by evapora-
+tion and
+to avoid
+"livering"
+(coagulation forming
+a
+jelly)
+of sealer that remains
+
+--- PAGE 335 ---
+PROCESSING AND FABRICATION
+329
+in the tank long enough
+to become
+seriously
+oxidized.
+Pigmented products
+are
+more
+difficult
+to apply by dipping than are clear products because
+the pigments
+tend to settle, making
+it necessary to provide agitation to keep them in suspension.
+5.773. Forced Drying.
+Drying time can often be greatly reduced by raising
+the temperature moderately.
+A typical oleoresinous exterior finishing system, con-
+sisting of sealer, surfacer, and 2 coats of gloss enamel, which requires 23 hours of
+drying time at 70° F., can be dried in 4% hours in the forced drying room shown in
+figure 5-102
+at
+a temperature of
+130°
+F. and a relative humidity of 30
+percent.
+hold in place with masking tape.
+Where the work progresses through the finishing room on dollies such as that shown
+in figure 5-103,
+it
+is not difficult to make use of forced drying.
+For wood finishing, drying-room temperatures are limited.
+A too sudden
+in-
+crease in temperature may cause blistering of coatings resulting from expansion of
+the
+air in the wood and
+excessive drying
+of
+the wood, which must be avoided.
+Humidification of the drying room prevents inordinate drying of the wood but,
+if
+the relative humidity control
+is set too high, cold wood entering the drying room is
+far below the dew-point temperature and water therefore condenses upon
+it to the
+detriment
+of the
+finish.
+At
+130°
+F.,
+a relative humidity of 65 percent would be
+needed to keep wood at 10 percent moisture content; but the clew point is then 114°
+F., far above the temperature of the finishing room and the temperature of finished
+parts
+entering
+the
+drying room from
+the
+finishing room.
+Serious
+condensation
+
+--- PAGE 336 ---
+330
+ANC BULLETIN
+WOOD AIRCRAFT INSPECTION AND FABRICATION
+therefore
+occurs.
+Experience
+has shown
+that
+130°
+F.
+and
+30
+percent
+relative
+humidity
+in the drying room are suitable provided that the temperature
+of the
+finishing room and of the finished parts
+is not allowed to drop below 70° F.
+Al-
+though the dew point for 130° F. and 30 percent relative humidity falls at 88° F.
+the finished surfaces evidently reach that temperature before condensation takes
+place.
+Under the conditions in question the wood loses less than 2 percent of
+its
+moisture during forced drying of a system that requires 4% hours.
+Figure 5-100.—Dipping tank set in floor of finishing room holding about 2,000 gallons of varnish sealer in which plywood-covered
+wing sections are dipped twice to finish all interior surfaces and seal the outside surfaces.
+5.78. Special Problems Arising from Construction Procedures.
+Several
+special
+problems
+of
+finishing
+arise
+from
+necessary
+procedures
+in
+the
+manufacture
+of
+aircraft.
+5.780. Finishing Surfaces Inaccessible After Assembling.
+The interior surfaces
+of plywood-covered wing sections are usually inaccessible after the plywood cover-
+ing has been glued on both sides, yet Specification AN-C-83 requires that
+all of
+the
+interior
+surfaces
+including
+the
+inside
+faces
+of the plywood
+covering
+receive
+protective
+finish.
+One method
+of complying with these requirements
+is
+to complete
+all gluing
+before any
+finish has been applied and then
+to apply the required two coats of
+sealer by dipping the wing as shown in figure 5-100.
+The vent holes in the bottom
+skin, inspection ports, and lightening holes admit sealer within the wing, allow the
+enclosed air to escape, and then permit excess sealer to drain out after lifting the
+
+--- PAGE 337 ---
+PROCESSING AND FABRICATION
+331
+wing from the dip tank.
+A variation of the method
+is to hold the wing in a suit-
+able device for rocking and rotating
+it, pour an abundance of sealer inside through
+a convenient opening, slosh the sealer around inside until
+all surfaces are believed
+coated, and then drain out the excess
+sealer.
+Neither procedure admits
+of ade-
+quate inspection of the interior surfaces after finishing to see that no areas have
+been skipped and no puddles of excess material have been left
+behind.
+Another method of meeting the requirements of Specification AN-C-83
+is to
+complete the assembly to the point at which the plywood skin has been glued on
+Figure 5-101.—Dipping tank set in floor of finishing room showing method of finishing woodwork of wing section later to be
+covered with fabric as seen in figure 5-103.
+Note drain rack in background.
+the top or the bottom of the wing and the second skin has been cut and fitted ac-
+curately but has not yet been glued down.
+All glue lines for attaching the second
+skin must then be
+located, marked
+off, and protected from contamination with
+finish either by covering them temporarily with masking tape or by special care in
+applying finish.
+Finish may then be applied to all interior surfaces except the glue
+lines and allowed
+to
+dry.
+The masking
+tape,
+if used,
+is then removed and the
+second skin
+is carefully glued in place.
+This procedure obviously is slow and labo-
+rious and fails to apply protective finish at the edges of glue lines between rib and
+spar caps and the second skin.
+Any creeping of finish into glue lines or inaccuracy
+in locating and adjusting glue lines may produce weak glue joints.
+Another varia-
+tion of the procedure that permits somewhat
+faster production
+is
+to assemble to
+the point at which one skin has been glued in place, apply finish to the interior sur-
+faces of the assembled portion and let it dry, cut and
+fit the second skin, spread glue
+
+--- PAGE 338 ---
+Figure 5-102.—Typical drying room for forced drying of aircraft finishes at 130° F. dry bulb, 97° F. wet bulb
+(30 percent relative humidity).
+
+--- PAGE 339 ---
+PROCESSING AND FABRICATION
+333
+on the rib caps and spar caps, place the skin in position just long enough for some
+of the wet glue to cling to the skin to mark the glue lines, remove the skin and ap-
+ply interior finish by hand, and then complete the gluing while the interior finish
+is
+still wet.
+This procedure encourages contamination of the glue with sealer, admits
+of one coat only of sealer on the second skin, and prolongs the assembly time to the
+point at which the glued joints are of doubtful quality.
+Some sealers are much more nearly gluable than heretofore considered possible,
+particularly when
+the gluing
+is done with low-temperature,
+phenolic-resin
+glues.
+No sealer has yet been found, however, that the Forest Products Laboratory consid-
+ers
+reliably
+gluable
+for
+aircraft
+purposes.
+Efforts have been made to use resin
+Fioure 5-108.— Fabric-covered wing section after applying clear dope.
+The clear dope contains a little bine dye for identification
+in the factory.
+Note the dolly on which the wing section
+is moved through the. various steps in finishing.
+glues for the dual purpose of providing protective finish for interior surfaces and
+gluing plywood skins in place.
+Some resin glues when thinned and applied as ply-
+wood coatings weighing 0.02 to 0.03 pound per square foot afford sufficient moisture-
+excluding effectiveness to meet that requirement of Specification AN-S-17 and leave
+a surface that can be glued firmly; but the interior finishes so produced are brittle
+and inclined
+to craze.
+A practice followed for some time in the construction of some Canadian and
+British airplanes but not admissible under Specification AN-C-83
+is
+to apply no
+finish whatever to the interior surfaces of top skins.
+In manufacture, the bottom
+skin is glued to the frame first, after which protective finish can be applied readily
+to the inside of the bottom skin and to the ribs and spars for a distance approxi-
+mately two-thirds of the way toward the top.
+The top skin, with no finish at
+all,
+568338—44
+22
+
+--- PAGE 340 ---
+334
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+is then glued in position.
+Since any free water that gets into enclosed spaees'will
+drain down over the bottom surface to the vent holes and the top skin is repeatedly
+warmed and dried by exposure to sunshine, this procedure offers a reasonable com-
+promise by supplying protective finish at those points where it may be most useful
+and avoiding the bottle-neck in assembly imposed by the re

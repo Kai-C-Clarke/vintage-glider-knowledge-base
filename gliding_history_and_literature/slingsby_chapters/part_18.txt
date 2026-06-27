@@ -1,0 +1,801 @@
+suing turbulent boundary layer. 
+The cockpit canopy was a transparent moulding cut 
+into two pieces, the forward part secured to the fuse­ 
+lage and the rear part removable and with a frame of 
+glass rovings. It had to fit very accurately and conform 
+to the aerodynamic contour. The fin was built as part of 
+the fuselage shell. The main landing wheel was retract­ 
+able, but the tailwheel was not. The T tailplane, built in 
+much the same way as the rest, gained efficiency 
+because of its high position clear of the wing wake.
+Flaps were coupled to the ailerons to change the wing 
+camber for slow and high airspeeds. By means of a 
+separate handle, the flaps drooped to 35° independently 
+of the ailerons for landing. Airbrakes were operated by 
+the usual lever, but a drogue parachute housed in a 
+compartment at the base of the rudder could be 
+deployed as well. Inside the wing leading edge there 
+were large bags to carry water ballast, with a knob in the 
+cockpit behind the pilot's head, reached by some mild 
+contortions, for jettisoning the water before landing or 
+when the thermals became weak. To reduce the likeli-
+238
+
+--- PAGE 241 ---
+TYPE 59, KESTREL
+hood of pilot-induced oscillations at high speeds, the 
+stick worked with a parallel action linkage giving a fore 
+and aft motion. A particularly good feature was the ele­ 
+vator trim control, which was mounted on the stick with 
+a self-acy usting spring. The pilot needed only to hold t he 
+stick in the desired position, press a small button with a 
+finger, and the trim was set.
+Rigging the Kestrel was easy, although the wings 
+were heavy. The system was based on that of the 
+Libelle. One wing had a forked spar end which the 
+other undivided spar fitted into, steel spigot extensions 
+mating with self-aligning sockets in the opposite wing. 
+As the wings were pulled together, using an ingenious 
+but very simple lever, they simultaneously picked up 
+the spigots on the tubular steel fuselage cross- 
+members. The assembly was completed by inserting a 
+horizontal locking pin which passed right through the 
+spar fork on the centreline. Brake and flap linkages 
+were automatic as the wings went on, but the ailerons 
+had to be connected and checked by hand. The 
+tailplane was slotted into place, picking up elevator 
+control spigots automatically, and locked on with a 
+spring-loaded pin set into the fin leading edge.
+Joining up the plumbing and filling with ballast 
+became a normal ritual unless the weather was obvi­ 
+ously very poor. The drogue parachute was supposed 
+to be repacked before each flight. Small cameras 
+loaded with fresh film for photographing turning 
+points in competition races, badge flights or record 
+attempts were fastened to a small bracket on the 
+cockpit side and arranged so that the wingtip would 
+always appear in the picture.
+Before getting into the cockpit it was wise to make 
+sure the wings were clean, as the crushed bodies of 
+insects on the leading edge caused a very noticeable 
+loss of performance. Nothing could be done about 
+insects picked up during flight. (In-flight wing wipers 
+had not yet been invented. They do exist now.) 
+Raindrops on the wing had an effect like opening small 
+airbrakes. Rudder pedals could be adjusted and the 
+seat back repositioned in flight, and cushions under 
+the thighs could be inflated or deflated by small hand- 
+pumps. Depending on the type of instrumentation and 
+radio, and whether oxygen breathing equipment was 
+carried, the pilot might be confronted by some 20 or 30 
+items of varying importance to be checked before take- 
+off. Written checklists became necessary rather than 
+the simple mnemonics used hitherto.
+During the take-off roll it was best to set the flaps to 
+a slight negative position which improved aileron 
+response at low speeds while the tailwheel was still on 
+the ground to keep straight. As full control became 
+available, lowering the flaps slightly allowed the 
+sailplane to lift off. Handling in the air was good. The 
+Kestrel was stable in pitch and there was no tendency 
+to drop a wing in a stall or slow turn. Continuous spins 
+were possible only at the aft e.g. limit with ailerons 
+held into the spin, recovery requiring less than a full 
+turn. Spinning deliberately was not encouraged, as the 
+airspeed during the recovery might exceed the safe
+maximum and the airbrakes were not large enough to 
+keep the airspeed within limits in a dive, especially if 
+the tanks were full of water. The parachute brake 
+would have been sufficiently effective, but once 
+deployed could not be retracted. It was possible to 
+jettison it, but this would probably result in losing it 
+entirely. Control forces were relatively light, although 
+the rate of roll was not high. Aerobatics were not 
+approved because of the danger of a badly executed 
+manoeuvre causing excess airspeed.
+Getting such an aircraft safely down in an outlanding 
+required good standards of airmanship and judgement. 
+The retractable wheel had to be lowered and the 
+ballast dumped. Landing with the water still on board 
+was not advisable because of the likelihood of greater 
+shock loads on the undercarriage and the extended 
+ground run after touchdown, though it could be done 
+with care on a smooth surface. When dumping the 
+water it poured out through the wheel well, taking a 
+little less than 2min to empty completely. With full flap 
+and even without the drogue, touchdown airspeed was 
+about 35kt, slow enough to land in quite small spaces.
+The best glide ratio was measured at 1:41, compared 
+with the Skylark's 36. Much more importantly, with flaps 
+slightly raised it was reasonable to fly the Kestrel 
+between thermals at airspeeds above 80kt, at which 
+speed the glide ratio was still about 1:25. This glide ratio 
+at high airspeed was superior to the maximum achieved 
+by many of the better 'pre-laminar-flow' sailplanes at half 
+the speed. In the final stages of arace with some margin of 
+height to spare, the Kestrel could be flown safely at 1 lOkt 
+or even up to 135kt, which was the permitted maximum. 
+Such fast finishes with the water streaming out and 
+leaving a visible trail behind were not at all unusual.
+From the beginning the Kestrel was criticised by 
+some pilots because it was said not to climb very well 
+in weak thermals. The most influential of these critics 
+was George Moffat in the USA, who carried out some 
+comparative flying of one of the early Glasfliigel 
+Kestrels against his own Cirrus. In a widely-read article 
+in the magazine Soaring, early in 1970, he complained 
+that the Kestrel was too heavy and that the rate of roll 
+was too slow. Other pilots disagreed, although it was 
+true that in flight at low airspeeds the pilot could hear 
+noise suggestive of airflow separation behind the 
+cockpit. It seemed that the contraction of the fuselage 
+cross-section might have been overdone slightly, but in 
+competition the Kestrel climbed well enough, even 
+with full ballast. Some damage was done to sales 
+prospects by these reports even before Slingsby's 
+products came on to the market.
+In August 1970 the first Kestrel built at Slingsby 
+emerged to fly, followed by the second early in 
+December. These were in most respects identical to 
+the Glasfliigel product. Hanle had changed the cockpit 
+canopy to hinge just behind the pilot's head and lift up. 
+(The original canopy was longer and lifted off com­ 
+pletely for access to the cockpit and wing roots.) A 
+matt black shield was added in front of the instrument, 
+console to prevent internal reflections on the front
+239
+
+--- PAGE 242 ---
+SLINGSBY SAILPLANES
+canopy, \\1ien the aircraft, works number 1722, had 
+passed its preliminary test flights, a camera which 
+could be operated from the cockpit was fitted to the 
+fin. Its field of view included the wing root junction 
+with the fuselage. Wool tufts were fixed all over this 
+area and Geoff Bailey-Woods, the company test pilot, 
+was instructed to fly at low speeds and take photo­ 
+graphs. The results were surprising. The wool tufts 
+indicated an area extending from the fuselage junction 
+for about a metre outwards along the span in which the 
+air on the surface was proceeding in a circle, some of 
+the tufts pointing in a direction opposite to that of the 
+main stream. Glasfliigel were informed at once, and 
+technical departments in both factories tried to work 
+out a solution. Hanle had the advantage of having Dr F. 
+X. Wortmann of Stuttgart University as a consultant, 
+and most modern sailplanes at this time used 
+Wortmann wing profiles. With access to a research 
+wind tunnel, Wortmann and his colleague Dieter 
+Althaus developed a large fillet at the wing root junc­ 
+tion which, by reducing the rate at which the combined 
+cross-sectional area of the wing/fuselage was reduced, 
+effectively cured the problem.
+The airbrakes, which in the Glasfliigel version had 
+opened above and below the wing, were changed to 
+emerge from the top surface only. Some other small 
+improvements were made in the cockpit, in particular 
+the addition of a removable tray covering the spar junc­ 
+tion under the rear of the canopy. On this was mounted 
+an adjustable headrest, radio and batteries, and extra 
+instruments, such as a barograph. The original type of 
+lift-off extended canopy was reintroduced. The flaps 
+were coupled to the ailerons to improve the rate of roll 
+(as well as the ailerons being coupled to the flaps for 
+camber changing). The company now felt confident 
+enough to begin production, and the first five 17m 
+Slingsby Kestrels were ready in April 11)71.
+Vet before these first few Kestrels were being fin­ 
+ished at Kirbymoorside even better sailplanes had 
+appeared, George Burton took an experimental 19m 
+version, the T-59B, to the World Championships at 
+Marfa, Texas, in June 1970. This was an ordinary 
+Glasfliigel Kestrel with an extra metre of wing spliced 
+on to each tip. It was permitted to fly under experi­ 
+mental licence in the USA. Burton came fourth. The 
+Glasfliigel Kestrel (i()4, a 22m development, was there 
+too, and so was the prototype 22m Nimbus from 
+Schempp-Hirth, with which which (ieorge Moffat won 
+the contest despite some serious handling difficulties. 
+As Slingsby himself had said years before, there is no 
+substitute for span, and these new aircraft had a 5m 
+advantage. Good though the Kestrel 17 was, it could 
+not compete with this new generation of monsters. 
+Development would not stand still. It was announced 
+that after the first five, no more of the 17m Kestrels 
+would be produced at Kirbymoorside. Hanle was 
+therefore free to reintroduce Kestrel 17 production in 
+Germany, which he did. A total of 12!) were built, plus 
+()01 of the Standard Libelles.
+Work on a l!»m Slingsby Kestrel had already begun,
+and it was intended that production would be under 
+way by the end of 1971. The span was extended by 
+adding half a metre at the root and half a metre at the 
+tip of each wing. After a good deal of research and 
+testing under Tucker's direction, a carbonfibre spar 
+was made and used in the wing of the prototype 
+Kestrel 19, the T-59C. This flew in May 1971, only three 
+weeks before Burton was to compete with it in the 
+British National Championships. He came second, and 
+in the Coupe d'Europe at Angers in France in July he 
+took third place, beaten by a Kestrel 17 and an ASW 12, 
+partly because the flaps of the T-59 were not yet prop­ 
+erly adjusted and various other minor problems had 
+been discovered.
+So far as known, this was the first time any aircraft in 
+the world had used carbonfibre for an important struc­ 
+tural member. It was an important step. The new spar 
+was much stiffer and stronger than the glass one, 
+although it was very much more expensive. For a time 
+it appeared that Slingsby had not only caught up with 
+developments in their field but had begun once again to 
+lead the way, although other sailplane manufacturers 
+were not far behind. A consequence of the carbon spar 
+was that the greatly increased wing stiffness in 
+bending gave the pilot a much harder ride in rough air. 
+This also created problems with the root end fittings, 
+which began to show signs of metal fatigue and had to 
+be replaced. Cost prevented the immediate adoption of 
+carbon for production 19m Kestrels.
+The T-59C was used for development and test work 
+during the rest of the summer. Some longitudinal 
+stability problems were overcome by introducing a 
+small, sharp cusp on the trailing edge of the elevator. 
+An inescapable increase in stick forces was only partly 
+alleviated by the use of stronger springs in the trimmer 
+control circuit. Production did not start until this and 
+other minor difficulties had been sorted out.
+The prototype Kestrel 19 with glass spars did not fly 
+until September 1971, and it was the end of the year 
+before Slingsby was able to advertise that 'after three 
+years of development, all the bugs arc4 out of it and its 
+performance is the equal of any super ship on the 
+market'. Support for this claim came with summer in 
+the southern hemisphere, when a Kestrel 19 flown by 
+Ingo 
+Renner 
+won 
+the 
+Australian 
+National 
+Championships held over the New Year period.
+Depending 
+on 
+whether 
+the 
+Certificate 
+of 
+Airworthiness was issued by the BGA or the Civil 
+Aviation Authority (both bodies were empowered to 
+issue the certificate), the Kestrel 19 was known as 
+either the T-59D (BGA) or T-59K (('AA).
+The wings of the original 17m Kestrel were heavy. The 
+19m wings weighed 93kg (2051b) each, totalling 60 per 
+cent of the bare structural weight. With maximum load, 
+instrument s, batteries, pilot and water ballast the gross 
+weight was 472kg (l,0401b). The old Skylark 4, with an 
+all-up weight of 376kg (8301b), had a maximum wing 
+loading of 23.35kg/m2 (4.5Glb/ft2). The Kestrel 19 fully 
+laden reached 36.9kg/m2 (7.51b/ft2) and was already 
+beginning to seem too light for good soaring weather.
+24O
+
+--- PAGE 243 ---
+TYPE 59, KESTREL
+By the time of the British National Championships in 
+May-June 1972, Kestrel 19s were coming out of the 
+factory regularly. Six were flown in the championships, 
+John Delafield flying one to win after six hard days.
+Other minor changes were introduced at various 
+stages during production. An anti-balance tab was 
+included on the elevator to allow removal of the cusp 
+and reduce stick forces. A 10 per cent larger, lighter 
+rudder was required to help control of the extended 
+wing in yaw. The weight reduction was achieved by 
+cutting away much of the glass cloth skin and covering 
+with fabric. Rudders on 'Open Class' sailplanes with 
+their huge spans and short fuselages have never been 
+adequate, and in this respect the Kestrel 19 was no 
+different from the rest.
+Eight Slingsby Kestrel 19s, including Burton's with 
+the carbon spar, flew at the World Championships in 
+Yugoslavia in July 1972. As well as the British, the 
+Australian, Czech, Canadian, New Zealand and 
+Japanese pilots flew the T-59. They met competition 
+from the latest Nimbus (which won, flown by Goran Ax 
+of Sweden), the ASW 17 and the Polish Jantar 2. Nick 
+Goodhart came 4th and Burton 6th. This championship 
+was greatly affected by a series of very bad thunder­ 
+storms. A Hungarian pilot was killed by a lightning 
+strike in cloud, a Canadian in a bad weather landing 
+accident, and there was a mid-air collision from which 
+the pilots saved themselves by parachute. An 
+Australian pilot was arrested by a village policeman 
+after landing too close to the Albanian border, and 
+several others had cameras, parachutes and other 
+equipment stolen from their cockpits.
+In September 1972, Dick Georgeson in New Zealand 
+broke the world out-and-return record in his Kestrel 
+19, flying in lee waves generated by a north west wind 
+over the Southern Alps. The total distance was 
+1001.94km (623 miles). It was the first time a sailplane 
+had flown more than 1,000 km round a predeclared 
+task. (The record was broken a month later in the USA, 
+and again there two days later.)
+In May 1973 Fred Slingsby died, aged nearly 80. He 
+was greatly mourned. Although he had little active role 
+in the company after his retirement in 1964, he had 
+never lost interest. In 40 years he saw gliding progress 
+from the days of crude primary training gliders and the 
+strut and wire braced open cockpit British Falcon, 
+built in his Scarborough furniture factory, to an era of 
+giant spans, water ballast, sophisticated aerodynam­ 
+ics, complicated electronic instruments, extraordinary 
+new materials and methods of construction. He was 
+instrumental in reviving the company when it had 
+seemed doomed in 1969.
+When the performance of the Kestrel 19 was mea­ 
+sured by an independent test group the best glide was 
+found to be 1:44. New, bigger German production 
+sailplanes by this time were getting close to and even 
+exceeding 1:50. They had the advantage of extra span 
+but they also achieved better standards of accuracy in 
+the wing surfaces.
+It was recognised internationally that the trend to
+huge spans in the unrestricted or 'Open' class was 
+getting out of hand. A 29m two-seat sailplane, the 
+Brunswick Akaflieg SB-10, was already flying in 1972 
+with a best glide of 1:53. It broke world records in the 
+following year. (The SB-10 was not the largest 
+sailplane ever built. The Austria of 1931, flown by 
+Robert Kronfeld, spanned 30m.) In an attempt to check 
+rising costs, it was announced that at the next World 
+Championships, to be held at Waikerie in Australia in 
+January 1974, a special cup would be awarded for the 
+best score by a sailplane of 19m span or less. This, it 
+was hoped, would give manufacturers something to 
+aim for which would not be financially crippling for 
+pilots, although it was soon pointed out that a 19m 
+sailplane made entirely from carbon would cost more 
+than a larger aircraft using glass. The Kestrel 19 flown 
+by the Austrian pilot Hammerle won the cup when the 
+time came, but it was almost by default. His position 
+overall was 9th. There was only one other modern 
+sailplane design of 19m span contending, the Polish 
+Jantar 1. Interest in the 19m cup faded.
+The 1975 British Championships in May/June were 
+dominated by Kestrels, eight coming in the top ten and 
+George Lee winning. The run of excellent competition 
+results continued through the season, but by June 1975 
+all outstanding orders for the T-59 had been met and 
+the company announced that it would wait for at least 
+five more orders before re-establishing production of 
+the type. It seems that the five orders never material­ 
+ised. In 1975 Hanle was killed in a light aeroplane acci­ 
+dent 
+and 
+his 
+company 
+was 
+absorbed 
+by 
+Schempp-Hirth. There were no prospects of any new 
+agreements in that quarter.
+The Kestrel 19 had been successful, with exports all 
+over the world, including Italy and South Africa. Three 
+had even gone to Germany, nine to the USA, three to 
+New Zealand and six to Australia. More than 90 were 
+built, one being sold incomplete for finishing by the 
+owner. More than 40 were still registered in Britain in 
+1994. But in the end there was no apparent financial 
+profit. What had been gained was experience in the use 
+of composite materials.
+At Waikerie, George Burton had announced the 
+development of a 22m Kestrel, the T-59G. This was to 
+be achieved ingeniously by adding a 1.5m root exten­ 
+sion piece on each side, producing a four-piece wing. 
+Owners would be able to buy a conversion kit. The root 
+sections would plug into the existing fuselage, and 
+would in turn accept the old 19m wings without any 
+alteration. A 25 per cent bigger tailplane was required, 
+but no further changes would be necessary. It proved 
+less easy than expected to make the conversion. The 
+undercarriage had to be strengthened, the rear fuse­ 
+lage skins required extra laminations of glass cloth, 
+and the area of the vertical tail had to be increased by 
+35 per cent. This was done by adding 75mm of chord to 
+the rudder and extending the fin area above the 
+tailplane.
+When it came to test flights, the handling of the T- 
+59G was fairly satisfactory, but no one seemed inter-
+241
+
+--- PAGE 244 ---
+SLINGSBY SAILPLANES
+ested in what pilots probably thought of as a 22m 
+sailplane cobbled together. The wing stubs and fin 
+extension were scrapped and the aircraft was sold as a 
+19m Kestrel. The increased rudder and tailplane areas 
+and stronger rear fuselage were incorporated in the 
+last few Kestrel 19s off the production line.
+It was now decided to develop an entirely new 22m 
+Kestrel, the T-59H. This, advertised late in 1975, had the 
+wing in four pieces, but the division now came out­ 
+board of the airbrakes. A carbon spar was used. The 
+fuselage was extended behind the main wing junction 
+by 750mm, allowing the standard tail to be retained. A 
+stronger landing gear was incorporated. A first batch 
+of three was planned, but problems arose when the 
+prototype was test-flown. The company test pilot was 
+now Norrie Grove, an ex-RAF pilot. All went well until 
+the time came to prove the aircraft to a flight speed up 
+to 169kt. This was to allow a reasonable safety margin 
+over and above the permitted maximum speed which 
+would be placarded in the cockpit. When Grove 
+reached 140kt he reported that something drastic hap­ 
+pened which prevented him from going faster.
+The Kestrel was taken to Lasham for further tests. 
+George Burton, who had flown for five years at the 
+RAE had no idea what was wrong and decided, without 
+any extra instrumentation or preliminary calculations, 
+to do the tests himself. After a tow to 1,800m (6,000ft) 
+he rashly accelerated in a steep dive. At 140kt the wing 
+fluttered so violently that he had difficulty holding the 
+stick, but he succeeded in gradually pulling out of the 
+dive and, with everything still apparently working, flew 
+gingerly back to Lasham to land safely. Inspection 
+revealed considerable damage to the flaps, and the 
+glider was hurriedly de-rigged and taken back to the 
+factory.
+Two 22m Kestrels were taken to the 1976 World 
+Championships, one, registered G-BDWZ, to be flown 
+carefully in the contest by the Irish pilot Jeremy 
+Bryson. The other, G-BDZG, delayed by the repair 
+work, arrived late in the fortnight for demonstration 
+and flying by prospective customers. A safe limiting 
+speed was imposed, but an over-exuberant pilot 
+allowed the Kestrel demonstrator to exceed the limit in 
+a fast run over the aerodrome. At about 135m(450ft) 
+there was a loud noise and the alarmed watchers on 
+the ground saw the wings \ibrating so violently that 
+they seemed to disappear in a blur. The pilot managed 
+to slow down and land safely, white-faced and severely 
+shaken.
+The RAE was consulted by Slingsby's technical 
+department. The flutter, which involved wingtip deflec­ 
+tions of about 30cm up and down, was symmetrical 
+and had two nodes. That is, the fuselage and the inner 
+wing moved up and down \iolently as the tip panels, 
+out of phase, moved down and up with, at some point 
+along the wing between root and tip, a node or cross­ 
+over point which moved neither up nor down as the 
+wing distorted on either side of it. (The Akaflieg stu­ 
+dents at Brunswick in 1970 had already researched and 
+filmed spectacular, continuous but damped asymmet­
+ric flutter in their 22m SB 9. They went on to extend the 
+span to 29m in the SB 10.)
+The problem with the T-59H was lack of torsional 
+stiffness in the wing. At the time carbonfibre cloth was 
+not available, so the wing skin was of conventional 
+glass cloth and foam sandwich. This did not give suffi­ 
+cient torsional rigidity to match the bending stiffness 
+of the carbon spar. The two completed 22m Kestrels 
+were given a severely restricted maximum speed of 
+105kt and were sold at reduced price. No attempt was 
+made to build any more.
+The only Slingsby product competing at the World 
+Championships in Finland in 1976 was the lone Irish 
+pilot Bryson's Kestrel 22. He had taken delivery of this 
+unproven aircraft only two days before leaving for the 
+contest, and did not do well. (On return to Ireland he 
+and his syndicate partners made some outstanding 
+height climbs in this aircraft.) Ironically, George Lee, 
+the Kestrel 19 British champion of 1975, won the 1976 
+World Championships flying a German ASW 17 from 
+Schleichers. George Burton, chosen by the BGA to 
+compete in the 15m Standard Class, had no suitable 
+British sailplane to fly and selected a Finnish Pik 20 to 
+take third place.
+Both of the Kestrel 22s survive and in 1994 were 
+flown regularly: Bryson's aircraft, BGA 2470, is based 
+at Cambridge after changes of ownership and the 
+other, BGA 2481, is at Crowland. Tests by the owners, 
+among whom is Peter Bisgood, an experienced test 
+pilot, have demonstrated flutter-free airspeeds up to 
+135kt. The maximum permitted speed was therefore 
+raised to 125kt. The rate of roll of these large aircraft is 
+relatively slow, but they perform well and have given 
+good service. The total of all marks of Kestrel built at 
+Kirbymoorside was 105, including the five original 
+Kestrel 17s and the Kestrel 22s.
+The development costs of the Kestrel 22 were 
+carried by Vickers Shipbuilding division as a research 
+project. Under Sir Leonard Redshaw's protection, the 
+true financial situation of the aeronautical part of the 
+business was not made immediately obvious to the 
+parent company's accountants, but at the end of 1975 
+Vickers had regrouped and Slingsby Sailplanes 
+became Vickers-Slingsby, a division of Vickers 
+Offshore Engineering. What the future held was again 
+very doubtful. It was advertised that Slingsby's involve­ 
+ment in gliding would continue, but it now represented 
+a much smaller part of the business. How much 
+smaller soon became apparent. For months the 
+company's advertisements offered only gliding instru­ 
+ments and accessories from stock. Sailplane produc­ 
+tion ceased, and it was uncertain that it would ever 
+begin again.
+242
+
+--- PAGE 245 ---
+Root section
+WortmannFX67-K-17 
+(Flap 17%)
+Section
+Wortmann
+FX67-K-15
+(Flap 15%)
+10 S
+CO 
+00
+CO 
+CD
+Slingsby 
+Type 59 H 
+Kestrel 22
+Tip section
+Wortmann FX 67-K-15 
+(Flap 15%)
+Drawn by Martin Simons 1995
+
+--- PAGE 246 ---
+The first T-59A 17m Kestrel built by Slingsby prepares for 
+take-off with Geoff Bailey-Woods as test pilot. The short 
+canopy, with rear hinge, was introduced by Glasflugel but 
+was changed to the older, long canopy on the Slingsby 
+Kestrel 19. (G. Bailey-Woods)
+Type 59 Kestrel 17 data 
+Dimensions 
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o.a. 
+Wing sections 
+Root
+Tip
+17.00m (55.78ft) 
+11.6m 2 (123.8ft2) 
+25.1 
+6.72m (22ft)
+Wortmann FX 67-K-17 (17 per cent
+flap)
+Wortmann FX 67-K-15 (15 per cent
+flap)
+Weights 
+Tare 
+Flying 
+Ballasted 
+Wing loading
+210kg(463b) 
+350kg (772b) 
+400kg (882b)
+30.3kg/m2 (6.2b/ft2) to 36.8kg/m2 
+(7.54b/ft2)
+Flap movement: up max 8°, down (normal) 12°,
+(landing) 35°.
+The instrument panel and cockpit of the T-59A, 17m Kestrel. 
+On the left side of the cockpit are the flap and airbrake 
+levers, the canopy latch, ventilator and drogue parachute 
+deploy handle. On the right cockpit wall are the under­ 
+carriage retracting handle, seat back adjustment, canopy 
+latch and ventilator. On the central console, left to right are 
+the tow release below the landing flap handle, canopy de- 
+mister and drogue jettison handle, with rudder pedal adjust­ 
+ment below. On the stick are the radio transmit button, 
+elevator trimmer and wheel brake. On the seat, hand pumps 
+for inflatable seat cushion. The water ballast tap is behind 
+the pilot's head. (G. Bailey-Woods)
+T-59D Kestrel 19
+Dimensions
+Wingspan 
+19m (55.5ft)
+Wing area 
+12,80m2 (138.5ft2)
+Aspect ratio 
+282
+Length o.a. 
+6.72m (22ft)
+Wing sections, as for T-59
+Weights
+Tare 
+295kg (650b) 
+Flying 
+400kg (880b) 
+Ballasted 
+426kg (940b) 
+Wing loading (max)33k^m2 (6.78b/ft2)
+T-59H Kestrel 22 
+Dimensions 
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o.a.
+22m (72.18ft)
+15.44m2 (166.2ft2)
+3135
+7.80m (25.6ft)
+Wing sections, as for T-59
+Weights
+Tare 
+390kg (860b) 
+Flying 
+559kg (1,232b) 
+Ballasted 
+659kg (1,450b) 
+Wing loading (max)4Z65kg/m2 (8.74b/ft2)
+244
+
+--- PAGE 247 ---
+George Burton releasing water ballast in the Kestrel 19 at 
+the World Championships at Waikerie in 1974. (M. Simons)
+The smooth front lines of the Kestrel were designed to pre­ 
+serve the laminar boundary layer as far as possible. 
+(G. Bailey-Woods)
+Wool-tuft tests on the Kestrel 17 revealed serious flow 
+separation on the fuselage and wing roots at low flight 
+speeds. Apart from general turbulence close to the fuselage, 
+the tufts show a definite circular pattern over the wing, 
+extending for about a metre. Pilots could hear the dis­ 
+turbance from the cockpit. At higher airspeeds the problem 
+vanished. (G. Burton)
+Canadian pilot Richard Mamini in a Kestrel 19 landing at the 
+World Championships, Waikerie in 1974 (M. Simons)
+The central fittings of the Kestrel 17, showing the inter­ 
+locking spars and one of the tubular steel cross-members 
+picking up on the wing roots. The ballast tap and plumbing 
+are also visible. (M. Simons)
+
+--- PAGE 248 ---
+George Burton flying the prototype Slingsby Kestrel 17 with 
+the new wing root fairings
+The Kestrel 19 showing the wing-root fairing developed to 
+cure the low-speed flow problem. (M. Simons)
+A Kestrel 19 showing the tray mounted over the wing roots to 
+carry batteries and barograph. (M. Simons)
+246
+
+--- PAGE 249 ---
+TYPE 59, KESTREL
+The Austrian pilot, Hammerle, won the 19m World Cup in his 
+Kestrel 19 at Waikerie in 1974. (M. Simons)
+The Glasflugel 604, a 22m version of the Kestrel, flown by 
+Bert Zegels at the 1974 World Championships at Waikerie. 
+(M. Simons)
+247
+
+--- PAGE 250 ---
+Fuselage 
+datum
+Retracting tailwheel
+Fin section 
+Wortmann FX-71-L-150/30
+Tailplane section
+Wortmann 
+FX71 -L-150/20
+Sport Vega
+Non retracting 
+main wheel
+Brakes only. 
+No flap
+8deg 
+Scale x 3
+Air brake
+Lifting handle
+Tip section
+Wortmann
+FX-67-K-150
+Non retracting tailwheel
+Slingsby T - 65 
+Vega
+Drawn by Martin Simons 1994 ©
+
+--- PAGE 251 ---
+T-65, Vega
+The Standard Class is dead,' wrote Mogens Petersen, a 
+former chairman of the Danish Gliding Union, late in 
+1975. Though his opinion proved false in the long run, 
+it was shared by many in the gliding movement at the 
+time. The Standard Class of competition sailplanes had 
+been established by the CIW (gliding commission of 
+the Federation Aeronautique Internationale) in the 
+1950s. The original formula was straightforward. The 
+span was limited to 15m, and there had to be speed-lim­ 
+iting airbrakes, a non-retractable landing wheel, no 
+wing flaps, no water ballast tanks and no complica­ 
+tions. The outstanding exemplar was Rudolf Kaiser's 
+design, the Ka 6. No other sailplane since the old 
+Grunau Baby has ever been produced in such quanti­ 
+ties.
+Bit by bit the rules were eroded. To save drag, under­ 
+carriages in some designs were so deeply buried in the 
+belly of the fuselage that they caused poor take-off 
+behaviour and gave inadequate protection from 
+damage in field landings on rough ground. Retracting 
+wheels were safer, caused less drag and were only a 
+little more expensive. The Standard Class specification 
+was changed. Such aircraft as the Standard Libelle and 
+the Standard Cirrus resulted; glass-plastic aircraft with 
+excellent performance, cheaper than the huge Open 
+Class types and very popular. Then water ballast was 
+permitted. Existing sailplanes could be adapted 
+without too much cost, and the advantages in opera­ 
+tional flexibility were worthwhile. There were few pro­ 
+tests.
+The next relaxation came close to destroying the 
+Standard Class concept altogether. It was argued 
+vigorously by some designers that simple trailing-edge 
+flaps that could be lowered to 90°, as used on Richard 
+Schreder's HP-14, were simpler and cheaper than air­ 
+brakes. This was true. Housing the usual vertical paral­ 
+lel-ruler type of brakes in the wings created many 
+structural difficulties. Brake boxes and skin dis­ 
+continuities in the wings created stress concentra­ 
+tions. Opening, closing and locking brakes shut 
+required quite complicated mechanism, and sealing 
+them properly against air leakages when closed was
+difficult. When the brakes were open the lift load distri­ 
+bution changed markedly, throwing more load on to 
+the outer wing panels. The CIW changed the rules 
+again to permit flaps, providing they were not coupled 
+with the ailerons to change the camber across the 
+whole wingspan. The idea was that they should be 
+used only as brakes, but there was no way the 
+Commission could prevent a pilot using the flaps to 
+vary the wing camber in flight, gaining some aero­ 
+dynamic advantage both in the climb and in high-speed 
+glides.
+In the 1974 World Championships, held at Waikerie 
+in Australia, Helmut Reichmann of Germany flew the 
+LS-2 with flaps conforming to the new rules. In this 
+sailplane the ailerons were truncated to a bare 
+minimum, allowing the flaps to extend over most of the 
+span. The rules had nothing to say about this. Handling 
+during the slow phases of take-off and landing verged 
+on dangerous, and the rate of roll was poor, but 
+Reichmann won the championship by a small margin 
+over Ingo Renner in a Standard Cirrus. Ironically, on 
+the 11th and last day, at the start of which Renner was 
+leading, the Cirrus developed a problem with its air­ 
+brakes, which would not lock closed properly. This 
+delayed and slowed Renner down enough to let 
+Reichmann and the LS-2 take the title.
+It seemed that all of the older Standard Class 
+sailplanes were now uncompetitive. Aspiring champi­ 
+ons would have to replace their aircraft with brutes 
+like the LS-2. There were even suggestions that aile­ 
+rons could be dispensed with altogether, to be 
+replaced by wingtip spoilers for lateral control. Flaps 
+then could extend from root to tip. The whole idea of 
+the Standard Class originally was to produce a safe, 
+practical and relatively inexpensive sailplane with a 
+good enough performance for distance flights and 
+competitions with other aircraft of similar per­ 
+formance. Reichmann himself made the point that the 
+repeated rule changes had done serious harm.
+The CIW thought again. At the delegates' meeting in 
+March 1975 the Standard (lass rules were put back to 
+where they had been, but at the same time an entirely
+249
+
+--- PAGE 252 ---
+SLINGSBY SAILPLANES
+new class, the unrestricted lorn or, as it was immedi­ 
+ately termed in illogical popular parlance, the Racing 
+Class, was announced. (Illogical because all modem 
+gliding competitions are races.) It was believed that 
+the unrestricted 15m class would become most 
+popular, surpassing even the Open Class in prestige. 
+What might emerge in the way of complications and 
+expensive machinery remained to be seen. The new 
+rules were to take effect after the next World 
+Championships in June 1976.
+George Burton was full of enthusiasm for the

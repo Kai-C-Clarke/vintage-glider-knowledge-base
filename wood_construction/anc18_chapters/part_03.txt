@@ -1,0 +1,1140 @@
+e
+should also be checked, using the modulus of rupture corrected for form factor.
+2.33. Shear Webs.
+See section 2.72.
+2.34. Beam Section Efficiency.
+In order to obtain the maximum bending efficiency
+of
+either
+I- or box beams, the unequal flange dimensions can be determined by
+first
+designing a symmetrical beam of equal flanges.
+The amount of material to be trans-
+ferred from the tension side to the compression side, keeping the total cross-sectional
+area, height and width constant,
+is given by the following equation
+(ref. 2-21)
+x
+Abh 2-VA
+2b 2h4 -4:AIs bhwD
+2wDbh
+(2:15)
+where
+A = total area of the cross section
+b = total width
+h = total depth
+w = width of flange
+D = clear distance between flanges
+Is = moment of inertia of the symmetrical section
+x = thickness to be taken from tension flange and
+added to compression flange.
+In using this equation, the following procedure is to be followed
+(a) Determine the section modulus required.
+
+--- PAGE 41 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+35
+Nl
+OS" if3d
+ff7 JO SaNVMOHl Nl **J fttiflS 319VM0nV
+
+--- PAGE 42 ---
+36
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(b)
+Determine the sizes of flanges of equal size to give the required section modulus.
+(c)
+Using equation
+(2:15), compute the thickness
+of material to be transferred
+from the tension flange to the compression flange.
+The procedure thus far will result
+in a section modulus greater than required. To obtain a beam of the required section
+modulus, either
+(d) or
+(e) may be followed.
+(d)
+Calculate the ratio of depth of tension flange to compression flange and design
+a section having flanges with this ratio and the required section modulus, or
+(e) Carry out steps
+(a),
+(6), and
+(c) starting with a symmetrical section having a
+section modulus less than that required until an unsymmetrical section having the re-
+quired
+section modulus
+is
+obtained.
+(/) Beams designed according to the foregoing procedure should always be checked
+for adequacy of glue area between webs and tension
+flange.
+This consideration may
+govern the thickness of the tension flange.
+2.4. TORSION.
+2.40. General.
+The torsional deformation of wood
+is related to the three moduli
+of rigidity, Glt, Glr, and Grt- When a member is twisted about an axis parallel to the
+grain, Grt
+is not involved; when twisted about an axis radial to the grain direction,
+Glt is not involved; when twisted about an axis tangential to the grain direction, Glr
+is not involved. No general relationship has been found for the relative magnitudes of
+GLr, Glt, and GRT .
+(Table 2-5).
+2.41. Torsional Properties.
+The "mean modulus of rigidity"
+(G) taken as
+V\?> of
+El, may be safely used in the standard formulas for computing the torsional rigidities
+and internal shear stresses of solid wood members twisted about an axis parallel to the
+grain direction.
+Torsion formulas for a number of simple sections are given in table 2-6.
+For solid-wood members the allowable ultimate torsional shear stress (Fst ) may be taken
+as the allowable shear stress parallel to the grain (column 14 in table 2-3) multiplied by
+1.18
+that
+is, Fs( = 1.18 Fsu .
+The allowable torsional shear stress at the proportional
+limit may be taken as two-thirds of F st .
+The torsional strength and rigidity of box
+beams having plywood webs are given in section 2.74.
+T\ble
+2-6.
+Formulas for torsion on symmetrical sections
+Section
+Angle of twist in radians
+Maximum shear stress
+Circular tube
+Circle.
+Ellipse
+fs =—
+at ends of short diameter.
+nab 2
+TD
+G 7ra =&3
+Rectangle 3
+Square'2
+fs =—-
+(approx.)
+fs = ^
+V5a-\-9b)
+a(
+. jjjjdpoint of long side.
+1 2a =major axis:
+2b =minor axis,
+2 2a =side of square.
+3 2a = long side, 2b = short side.
+
+--- PAGE 43 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+37
+2.5. BASIC STRENGTH AND ELASTIC PROPERTIES OF PLYWOOD.
+2.50. General.
+Plywood is usually made with an odd number of sheets or plies of
+veneer with the grain direction of adjacent plies at right angles.
+Depending upon the
+method by which the veneer is cut,
+it
+is known as rotary-cut, sliced, or sawed veneer.
+Generally, the construction is symmetrical
+; that is, plies of the same species, thickness,
+and grain direction are placed in pairs at equal distances from the central ply.
+Lack of
+symmetry results in twisting and warping of the finished panel. The disparity between
+the properties of wood in directions parallel to and across the grain is reduced by reason
+of the arrangement of the material in plywood. By placing some of the material with
+its strong direction (parallel to grain) at right angles to the remainder, the strengths in
+the two directions become more or less equalized.
+Since shrinkage of wood in the longi-
+tudinal direction
+is practically negligible, the transverse shrinkage of each ply
+is
+re-
+strained by the adjacent plies.
+Thus, the shrinking and swelling of plywood for a given
+change in moisture content is less than for solid wood.
+fa) Ptywooo
+fe) sr/?A/A/
+(cjr stress
+Figure 2-8.—Three-ply plywood beam in bending.
+Table 2-7.
+Veneer species for aircraft plywood
+Group
+I
+(high density)
+1 ' 2
+Group
+II (medium
+density) 2
+Group III (low density) 5
+American beech
+Birch (Alaska and paper)
+Basswood
+Birch (sweet and yellow)
+Khaya species (so-called "African mahogany")
+Yellowpoplar
+Maple
+(.hard)
+Southern magnolia
+Port Orford white-cedar
+Pecan
+Mahogany (from tropical America)
+Spruce (red, Sitka, and white)
+Maple (soft)
+(quarter-sliced)
+Sweetgum
+Ponderosa pine (quarter-sliced)
+Water tupelo
+Sugar pine
+Black walnut
+Noble
+fir (quarter-sliced)
+Douglas-fir (quarter-sliced)
+Western hemlock (quarter-sliced)
+American elm (quarter-sliced)
+Redwood (quarter-sliced)
+Sycamore
+1 Where hardness, resistance to abrasion, and high strength of fastening are desired, Group
+I woods should be used
+for face stock.
+2 Where finish is desired, or where the plywood is to be steamed and bent into a form in which it is to remain, species
+of Group I and II should be used.
+3 Group III species are used principally for core stock and cross-banding.
+However, where high bending strength or
+freedom from buckling at minimum weight is desired, plywood made entirely from species of Group III is recommended.
+
+--- PAGE 44 ---
+38
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+The tendency of plywood to
+split
+is considerably
+less than for
+solid wood
+as a
+result of the cross-banded construction.
+While many woods are cut into veneer, those
+species which have been approved for use in aircraft plywood are listed in table 2-7.
+2.51. Analysis of Plywood Strength Properties.
+The analysis of the strength and
+elastic properties of plywood
+is complicated by the fact that the elastic moduli of ad-
+jacent layers are different.
+This
+is illustrated in figure 2-8 for bending of a three-ply
+panel.
+Assuming that strain
+is proportional to distance from the neutral axis, stresses
+on contiguous sides of a glue joint will be different by reason of the difference in the
+modulus of elasticity in adjacent layers.
+This results in a distribution of stress across
+the cross section as shown in figure 2-8
+(c).
+Similar irregular stress distribution will be
+obtained for plywood subjected to other types of loading.
+From this
+it may be seen that the strength and elastic properties of plywood are
+dependent not only upon the strength of the material and the dimensions of the mem-
+f/:2:/j
+j-^zr^/.y.vj
+s-/=>i y^/;2. 2:2:/)
+s-pl y (/:/:/:/:/)
+Figure 2-9.—Typical plywood constructions.
+Arrows indicate grain direction of each ply.
+
+--- PAGE 45 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+39
+ber, as for a solid piece, but also upon the number of plies, their relative thickness, and
+the species used in the individual
+plies.
+In addition, plywood may be used with the
+direction of the face plies at angles other than 0° or 90° to the direction of principal
+stress and, in special cases, the grain direction of adjacent plies may be oriented at angles
+other than 90°.
+In general, plywood for aircraft use has the grain direction (the longitudinal direc-
+tion) of adjacent plies at right angles. The strength and elastic properties of the plywood
+are dependent upon the properties of solid wood along and across the grain as illustrated
+in figure 2-9.
+Considerable information (table 2-3) on the properties of wood parallel to the grain
+is available, but the data on properties across-the-grain are
+less
+complete.
+Sufficient
+data are available, however, so that the elastic properties of wood in the two directions
+can be related with reasonable accuracy to the plywood properties. On this basis formulas
+are given which will enable the designer, knowing the number, relative thickness and
+species of plies, to compute the properties of plywood from the data given in table 2-3.
+The formulas given are only for plywood having the grain direction of adjacent plies
+at right angles and are applicable only to certain directions of stress. The limitations
+on the angle between the face grain and the direction of principal stress have been noted
+in each section.
+The formulas are intended for use only in these cases, and the inter-
+polation must not be used to obtain values for intermediate angles unless
+specific
+in-
+formation on these angles
+is given.
+Computed values of certain of the strength and
+elastic properties for many of the commonly used species and constructions of plywood
+are given in section 2.540.
+2.52. Basic Formulas.
+For purposes of discussion, plywood structural shapes may
+be conveniently separated into two groups : (a) elements acting as prisms, columns, and
+beams, and (b) panels. The fundamental difference between these two groups is that, in
+group
+(a) the plywood is supported or restrained only on two opposite edges, while in
+group (b) the plywood is supported or restrained on more than two edges.
+It is essential
+that this fundamental difference between the two groups be kept in mind during the
+application of the formulas2 given here and in later sections.
+(1) The effective moduli of elasticity of plywood in tension or compression are
+Ea—measured parallel to side a for panels (sec. 2.710)
+Eb—measured perpendicular to side a for panels
+(sec. 2.710)
+Ew—measured parallel to (with) the face grain
+Ex—measured
+perpendicular
+to
+(across)
+the
+face
+grain
+and are determined as
+! When computing the various moduli of elasticity ior plywood of balanced construction and
+all plies of the same
+species, the following relationship
+will be found helpful:
+EL +E T = Ea +Eb =E 1 +Es =E w +Es=Efw +EfI
+If the veneers are quarter-sliced rather than rotary-cut, the term Ex should be replaced by Er.
+tl
+(2:16)
+
+--- PAGE 46 ---
+40
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+where
+A = total cross section area.
+Ai = axea, of
+i' h ply.
+E; = modulus of elasticity of
+ply measured in the same direction as the perti-
+nent desired E
+(as E a , Eb, Ew , or E x ). The value of Ei
+is equal to
+1.1 El
+(table 2-3), or Et, or Er, (table 2-5) as applicable.
+(2) The effective moduli of elasticity of plywood in bending are
+Ei—measured parallel to side a for panels.
+Ei—measured perpendicular to side a for panels.
+Efw—measured parallel to (with) the face grain,
+/^-—measured perpendicular to
+(across) the face grain and
+are determined as
+i =n
+=y\
+Ei h
+(2:17)
+/_
+i = l
+Where
+Er—as defined under (1).
+7= moment of inertia of the total cross section about the centerline, measured
+in the same direction as the pertinent desired E (namely, E x , E2, Efw , or Efx ).
+7,= moment of inertia of the i'
+h ply about the neutral axis of the same total cross
+section.
+For symmetrically constructed plywood, the neutral axis to be used
+in determining I{ will be the centerline of the cross section. For unsymmetrical
+plywood constructions, the neutral axis is usually not the centerline of the
+geometrical section.
+In this case the distance from this neutral axis to the
+extreme compression fiber is given by the equation:
+AiEid
+(2:18)
+AiEi
+i = l~
+% = n
+\/
+i = 1
+i = n
+\/
+where
+c, = distance from the extreme compression fiber to the center of the i
+th ply.
+(3)
+In calculating the bending strength (not stiffness) of plywood strips in bending
+having the face grain direction perpendicular to the span, a modulus E'fx , similar to
+Efx is to be used.
+For plywood made of five or more plies, the use of Efx for E'fx in
+strength calculations will result in but relatively small error. The value of E'fx may be
+calculated in the same manner as that used in calculating Efx except that the effect of
+the outer ply on the tension side is neglected. The location of the neutral axes used in
+calculating Efx and E'fx will be different. The value of E'fx may also be calculated from
+the following formula:
+
+--- PAGE 47 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+41
+E'^E fx+^ (c'-^+^-^r- (C^) 2
+(2.19;
+where:
+" tE x
+1
+l, Ei
+c =
+tE r
+1
+tf Et
+= distance from neutral axis to extreme
+fiber
+of the outermost longitudinal
+ply.
+Et pertains to the species of the face ply.
+*(4) The modulus of rigidity (modulus of elasticity in shear) of solid wood involves
+the sheer moduli Glt, Glr, and Gut-
+As mentioned in section 2.131, little information is available on this elastic property,
+and a "mean" modulus of ridigity
+is ordinarily used for wood.
+Similarly for plywood,
+a value of modulus of rigidity based on the "mean" modulus of rigidity for solid wood
+may be used.
+For plywood (all plies the same species) having the face grain parallel or perpendicu-
+lar to the direction of principal shearing stress, the modulus of rigidity may be taken
+the same as for solid wood.
+For plywood having the face grain at 45° to the direction
+of principal shearing stress, the modulus of rigidity may be taken as five times the "mean"
+modulus of rigidity for solid wood (sec. 2.41).
+Thus, the modulus of rigidity for 45° ply-
+wood
+is approximately % of the bending modulus of elasticity parallel to the grain of
+solid wood (sec. 2.56) as given in table 2-3.
+The theoretical treatment of the elastic properties of plywood involves the moduli
+of rigidity Gwx and Gfwx. The apparent modulus of rigidity in the plane of the plywood is
+i = n
+Gwx =-\
+CnU
+(2:20)
+/
+i = l
+where the summation is taken over all plies in a section perpendicular to either the a or b
+directions using the modulus of rigidity in each ply in the wx plane.
+When the plywood is made of a single species of wood,
+Gwx = Glt for rotary-cut veneer.
+G wx = Glr for quarter-sliced veneer
+The apparent modulus of rigidity of plywood for use
+in formulas involving the
+bending of plywood plates into double curvature is
+i = n
+G/wx=—
+y
+QL+t^Gi
+(2:21)
+/
+i=l
+where yi = distance from the neutral axis to the center of the i
+th ply.
+*(5)
+Poisson's ration
+((x).
+Although there
+is very
+little information available on
+the values of Poisson's ratios for plywood, a brief summary of their significance is given.
+
+--- PAGE 48 ---
+42
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+The effective Poisson's ratio of plywood in tension or compression (no flexure)
+is the
+ratio of the contraction along the x direction to extension along the w direction due to
+tensile stress acting in the w direction and thus normal to the xt plane, or
+i = n
+^•* = 7"p~/
+U{Ex)i ([kwx)i
+(2:22)
+tE*
+i = l
+modulus of elasticity of the i' h ply in the x direction.
+Poisson's ratio of contraction along the x direction to extension in the w
+direction due to a tensile stress acting in the w direction and thus normal
+to the xt plane of the
+i
+th ply.
+i =n
+i = l
+If all plies are of the same species of rotary-cut veneer
+\x wx = El v-tl/E x
+\j. Xw=El
+\>-tl/Ew
+If all plies are of the same species of quarter-sliced veneer
+\>.wx = El v-rl/E x
+^ tu =El v-rl/Ew
+These formulas give close approximations of the apparent Poisson's ratios in these
+two directions when the stress
+is simple tension or compression.
+For more accurate
+formulas than 2 :22 and 2 :23 see reference 2-25.
+For Poisson's ratio at an angle to the
+grain see section 2.56.
+*2.5 3. Approximate Methods for Calculating Plywood Strengths. Table 2-8 gives
+some approximate methods of calculating the various strength properties of plywood.
+These simplified methods will be found very useful in obtaining estimates on the strength
+of plywood, but cannot be relied upon to give results which are comparable to those
+obtained with the more accurate methods.
+2.54. Moisture-Strength Relations for Plywood.
+2.540. General. The design values given in the plywood strength-property tables
+2-9 and 2-10 were calculated from the strength properties of solid wood as given in
+table 2-3.
+Adjustment factors by which strength properties of solid wood may be corrected
+for moisture content are shown in table 2-2.
+For plywood, moisture corrections are
+dependent on many variable factors, such as grain direction, combinations of species,
+and relative thicknesses of plies in each direction, so that any rational method of cor-
+rection is quite laborious.
+An approximate method for making moisture corrections to
+plywood
+is given in the succeeding sections.
+2.541. Approximate
+methods
+for making
+moisture
+corrections
+for plywood
+strength properties.
+A
+limited number
+of compression, bending, and shear tests of
+spruce and
+Douglas-fir plywood
+of
+a few
+constructions
+at
+moisture
+content
+values
+where
+(E x)i =
+(|*wz)« =
+Similarly
+
+--- PAGE 49 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+43
+ranging approximately from 6 to
+15 percent has indicated that use of the following
+simplified methods of correcting plywood strength properties will be satisfactory.
+2.5410. Moisture corrections for plywood compressive strength
+(0° or 90° to
+face grain direction).
+Moisture adjustments to the compressive strength of plywood,
+either parallel or perpendicular to the face grain direction, may be made by direct use of
+the correction constants given in column
+(6) of table 2-2.
+When more than one species is used in the plywood, the correction constant should
+be taken for that species having its grain direction parallel to the applied load.
+When plies of two species have their grain direction parallel to the applied load, the
+plywood correction constant should be determined by taking the mean value of the cor-
+rection constants for the two species based on the relative areas of the longitudinal plies
+of each.
+*2.54ll. Moisture correction
+for plywood
+tensile strength
+(0° or 90° to face
+grain direction).
+Data on the effect of moisture on the tensile strength of plywood
+are lacking.
+Limited data indicate that the effect on the tensile strength of wood is about
+one-third as great as on modulus of rupture. The suggested procedure for adjusting the
+tensile strength of plywood
+is to follow that for compressive strength as given in the
+preceding section, using one-third of the correction factors given for modulus of rupture
+in column 3 of table 2-2.
+*2.5412. Moisture corrections for plywood shear strength
+(0° or 90°
+to
+face
+grain direction).
+Moisture adjustments
+to the shear strength
+of plywood,
+either
+parallel or perpendicular to the face grain direction, Fswx , may be made by direct use
+of empirical correction constants equal to those given in column
+(8)
+of table 2-2 for
+shear.
+The use of such moisture adjustment to the shear strength of plywood
+is not
+applicable when a moisture content of less than 7 percent is involved.
+When more than one species is used, the correction constant should be determined
+on the basis of the relative areas of each species, considering all plies.
+2.5413. Moisture corrections for plywood compressive strength
+(any angle to
+face grain direction). The compression strength of plywood at any moisture content,
+and at any angle to the face grain direction, may be found by use of equation 2:19 after
+first correcting the compression terms Fcuw and Fcux in accordance with section 2.5410.
+2.5414. Moisture corrections for plywood
+tensile strength
+(any angle to face
+grain direction).
+The tension strength of plywood at any moisture content, and at any
+angle to the face grain direction, may be found by use of equation 2:50 after first cor-
+recting the tension terms Ftuw and F tux in accordance with section 2.5411, and the shear
+term Fswx in accordance with section 2.5412.
+2.5415. Moisture corrections for plywood shear strength (any angle to face grain
+direction). The shear strength of plywood at any nioisture content, and at any angle
+to the face grain direction, may be found by use of equations 2:51 or 2:52 after
+first
+correcting the various terms in these equations by the methods outlined in the foregoing
+sections.
+2.55.
+Specific Gravity-Strength Relations for Plywood.
+As
+in
+solid
+wood,
+the
+strength and elastic properties of plywood increase with an increase in specific gravity.
+The magnitude of this strength increase, however, cannot be determined by the same
+convenient exponential equation given in table 2-1.
+
+--- PAGE 50 ---
+44
+ANC BULLETIN—DESIGN OF "WOOD AIRCRAFT STRUCTURES
+Table 2-8.
+Approximate methods jor calculating the strength and stiffness oj plywood1
+Property
+Direction of stress with respect
+to direction of face grain
+Portion of cross-sectional area
+to be considered
+Allowables expressed as
+proportion of strength values
+given in table 2-3
+Ultimate tensile.
+Ultimate compressive
+Shear
+Shear in plane of plies
+Parallel
+(FfUW )
+or
+perpen
+dicular (F tUl )
+±45°
+Parallel
+(Fcmu)
+or
+perpen
+dicular (FCT, X )
+±45" {Fcuas")
+Parallel or perpendicular (F^^)
+±45°
+.
+.'
+Parallel, perpendicular, or + 45"
+Load in bending.
+Parallel or perpendicular-.
+Deflection in bending
+Parallel or perpendicular
+Deformation
+in
+ten-
+sion or compression.
+Bearing at right angles
+to plane of plywood.
+Parallel or perpendicular
+.
+Parallel plies 2 only
+Full cross-sectional area
+Parallel plies 2 only
+Full cross-sectional area
+Full cross-sectional area
+Full cross-sectional area
+Joints between ribs, spars, etc.
+and continuous stressed ply-
+wood coverings;
+joints be-
+tween webs (plywood) and
+flanges of I- and box-beams;
+joints between
+ribs,
+spars,
+etc., and stressed plywood
+panels when plywood
+ter-
+minates at joint—use shear
+area over support.
+Bending moment M=KfI/c'
+where I = moment of inertia
+computed on basis of par-
+allel plies only; c' =distance
+from neutral
+axis to outer
+fiber of outermost ply hav-
+ing its grain in direction of
+span; K = 1.50 for three-ply
+plywood
+having
+grain
+of
+outer plies perpendicular to
+span, if =0.85 for
+all other
+plywood.
+Deflection may be calculated
+by the usual formulas, tak-
+ing as the moment of inertia
+that
+of
+the
+parallel
+plies
+plus
+1/20 that of the per-
+pendicular plies. (Whenface
+plies are parallel, the calcu-
+lation may
+be
+simplified,
+with but little error, by tak-
+ing the moment of inertia as
+that
+of
+the
+parallel
+plies
+only).
+Parallel plies 2 only
+Loaded area
+.
+Modulus of rupture.
+One-fourth modulus of rupture.
+Maximum crushing strength or
+fiber
+stress
+at
+proportional
+limit, as required.
+One-third maximum
+crushing
+strength
+or
+one-third
+fiber
+stress at proportional
+limit,
+as required.
+1.18 times the shearing strength
+parallel to grain.
+2.35 times theshearing strength
+parallel to grain.
+One-third the shearing strength
+parallel
+to
+grain
+for
+the
+weakest species.
+Modulus
+of
+rupture
+or
+fiber
+stress at proportional
+limit,
+as required.
+Modulus of elasticity.
+Modulus of elasticity.
+Compression
+perpendicular
+to
+grain.
+• 1 These simplified strength calculations are to be used only as a rough guide in preliminary design work, and are not
+acceptable for final design when the results obtained differ considerably from those obtained by the more accurate methods
+given in this bulletin.
+2 By "parallel plies"
+is meant those plies whose grain direction
+is parallel to the direction of principal stress.
+
+--- PAGE 51 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+45
+In the manufacture of plywood, no requirements have been set up to control the
+specific gravity of the individual veneers and consequently there is no assurance that the
+final plywood specific gravity will fall within a certain range.
+The "weight per square
+foot" column in table 2-9 for various plywood constructions has been based on the
+average specific gravity values for wood listed in table 2-3.
+The strength properties for a piece of plywood are merely the composite strengths
+of each individual veneer in the direction being considered.
+Therefore, to make a ra-
+tional specific gravity correction to plywood strength test data,
+it is first necessary to
+determine the specific gravity of each individual veneer and then correct its strength
+properties to correspond to the average specific gravity value given in table 2-3 for that
+species. To do this, of course,
+is impractical and the problem is further complicated by
+the effect of glue impregnation.
+When substantiating the strength of a plywood structure, or when establishing de-
+sign values from static tests, the weight per square foot of the plywood used in the
+specimens should be near the values given in table 2-9 to minimize the effect of high
+or low specific gravity values.
+2.56. Stress-Strain Relations forWood and Plywood. When stresses are applied to
+wood or plywood in a direction at an angle to the grain, the resulting strains are quite
+different from those obtained in isotropic materials.
+Mohr's stress-and-strain circles are
+a means of showing, graphically, the relation of stress or strain in one direction to the stress
+Figure 2-10.—General stress distribution in plywood.
+
+--- PAGE 52 ---
+46
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+or strain in any other direction and are an aid in the visualization and evaluation of these
+relations. Reference 2-25 treats extensively the general problem of the use of Mohr's
+circles in connection with wood and plywood. However, only a limited general treatment
+is presented herein, together with a few specific examples of calculated Mohr's-circle
+constants and of the use of the Mohr's
+circle in determining the elastic properties of
+45° plywood.
+2.560. Derivation of general stress-strain relations for plywood.
+In
+this section
+is presented the general method of analysis that is applicable both to simple stress (either
+direct tension, compression, or shear acting independently) and also to combinations of
+stresses.
+2.5600. Obtaining strains from given stresses.
+Assume a stress distribution in a
+piece of plywood as shown upon the outer square in figure 2-10
+(direction of arrows
+indicates positive direction).
+The stress
+circle can be drawn by use of the following
+equations as shown in figure 2-11, and the stresses parallel and perpendicular to the
+face-grain direction can be determined.
+/
+(2:24)
+R =V (/i-C)
+2 +(/sl )
+2
+(2:25)
+D'*ECTI0H
+NORMAL
+STRESS
++
+C
++
+Figure 2-11.—Stress circle for stresses shown in figure 2-10.
+
+--- PAGE 53 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+47
+The strains parallel and perpendicular to the face-grain direction can be found by
+use of the equations
+—p*.
+ex =J§
+w~V.«,
+esw =j^-
+(2:26)
+Ihw
+&x
+& x
+&w
+^(Ju
+where
+[x wx and
+y. xw are given by equations 2:22 and 2:23, respectively.
+The strain circle can then be drawn, by the following equations, as shown in figure
+2-12 and the strains in any direction can be determined.
+c=|(ew +ex)
+(2:27)
+r =V (ew-c) 2+(eswy
+(2:28)
+Thus, curves similar to those in figures 2-16 to 2-19 can be constructed by assuming a
+stress of 1 pound per square inch to be applied at various angles to the face-grain direction
+and solving for the values of c and r for each of these angles.
+Figure 2-12.—Strain circle resulting from equation (2:26).
+
+--- PAGE 54 ---
+48
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+2.5601. Obtaining stresses from given strains.
+The foregoing process can be
+re-
+versed
+if strains are given and stresses required.
+For this purpose strains are usually-
+measured in the three directions shown in figure 2-13. The strain circle can be drawn,
+by use of the following equations, as shown in figure 2-14, and the strains parallel and
+perpendicular to the face grain can be found.
+Figure 2-13.—Directions of measured strains.
+Figure 2-14.—Strain circle for measured strains.
+
+--- PAGE 55 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+49
+c = ^(C'+c^)
+e,,=e8—c
+r = y/(e, — c)W(e»,.2)
+(2:29)
+The stresses parallel and perpendicular to the face-grain direction can be obtained
+from the following equations:
+fw-&w j_ ( ——
+s
+fx = I!i x
+, ——
+fsw = 2G wz esw
+(2:30)
+The stress circle can then be drawn, by the use of the following equations, as shown
+in figure 2-15, and the stress at any angle to the face grain direction may be found:
+C=~ (U+fx)
+(2:31)
+R = V(U-Cy+(faw )*
+(2:32)
+/SHEAR STRESS
+\
+NORMAL
+ISTRL55
+v —rr~
++
+c
+Figure 2-15.—Stress circle resulting from equations (2:30).
+2.561.
+Stress-strain relations for specific cases.
+*2.56lO. Stress-and-strain-circle constants. Stress-and-strain-circle constants have
+been calculated for unit stress (1 pound per square inch) for plywood made of four differ-
+ent species and having constructions incorporating various ratios of areas of plies running
+in one direction, to total plywood area.
+These are plotted in figures 2-16 to 2-19 and
+
+--- PAGE 56 ---
+50
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+have been calculated by use of the elastic constants that were obtained experimentally
+by Jenkin
+(ref. 2-6) and which are presented in the
+first four lines of table 2-5.
+The
+designer may, by the use of the general relations derived in section 2.540 (or in reference
+UNIT OF TENSILE STRESS - ROTARY %
+• 60'/.
+UNIT OF TENSILE STRESS- ROTARY £ • SOX
+Figure 2-16.—Strain circle constants for rotary-cut plywood subjected to tension or compression.
+
+--- PAGE 57 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+51
+2-25) and elastic-constant data obtained from table 2-5 or section 2.13, calculate the
+stress-and-strain-circle constants applicable to any particular plywood construction.
+Figures 2-16 and 2-17 cover simple tension in the plane of plywood made of rotary-
+Figure 2-17.—Strain circle constants for sliced plywood subjected to tension or compression.
+
+--- PAGE 58 ---
+52
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+I
+t M
+WALNUT
+'0'
+10'
+20'
+JO'
+40'
+SO'
+60'
+70'
+SO'
+90-
+$
+WIT OF TENSILE AND COMPRESSIVE STRESSES - ROTARY
+C
+10'
+iO'
+30'
+40'
+SO'
+60"
+70'
+SO'
+90"
+6
+UNIT OF TENSILE AND COMPRESSIVE STRESSES - ROTARY £ -SO'/.
+UNIT OF TENSILE AND COMPRESSIVE STRESSES - ROTARY
+Figure 2-18.—Strain circle constants
+V
+10'
+20'
+JO'
+to'
+SO'
+60'
+70'
+so'
+sor"
+UNIT OF TENSILE AND COMPRESSIVE STRESSES ~ ROTARY
+30%
+1*
+.
+1
+——
+1
+1
+1
+!
+6
+0'
+10'
+10'
+30
+40
+SO
+60'
+70'
+60
+«T
+S
+UNIT OF TENSILE AND COMPRESSIVE STRESSES - ROTARY yf'lOZ
+10'
+To'
+30'
+W
+60'
+TO'
+SO'
+30,
+I
+UNIT OF TENSILE AND COMPRESSIVE STRESSES - ROTARY ^ -SOX
+rotary-cut plywood subjected to shear.
+
+--- PAGE 59 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+53
+Figure 2-19.—Strain circle constants for sliced plywood subjected to shear.
+
+--- PAGE 60 ---
+54
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+cut and sliced veneers, respectively.
+Figures 2-18 and 2-19 cover tension in one direction
+and equal compression in a direction 90° to the tension, for plywood made of rotary-cut
+and sliced veneer, respectively. The combined action of these two stresses is equivalent
+to a shear stress equal to the tensile stress and acting at an angle of 45° to it.
+Each curve sheet applies to a group of plywood constructions in which all the plies
+are of the same species and the cross-sectional area of all the plies running in one direction
+is a certain fraction of the total cross-sectional area of the panel.
+This fraction is denoted
+by
+upon the individual curve sheets.
+The curve sheets contain curves for spruce,
+mahogany, ash, and walnut, computed from the elastic constants for these species given
+in the first four lines of table 2-5. When the same curve applies to two different species,
+a line is used denoting one species and the curve labeled with the first letter of the other.
+The curves apply only to the simple stress noted above but they can be combined
+for more complicated stress by the usual method of combining strain circles when an
+isotropic material is considered.
+The curves are not accurate at angles 0° and 90° to the grain, and for these angles,
+the methods given in section 2.6 should be used.
+In the use of figures 2-16 to 2-19:
+-
+6 = angle3 between direction of face grain and the principal axis of tension measured
+positively counterclockwise from the grain direction to the axis.
+<j> = angle 3 between direction of face grain and the principal axis of extension measured
+positively counterclockwise from the grain direction to the axis.
+r = radius of strain circle.
+c = distance between the origin and the center of the strain circle.
+2.5611. Stress-strain
+relations
+in plywood
+at 45° to
+face grain
+direction.
+In
+this section are presented the specific applications of the general stress-strain relations
+given in section 2.560 to plywood loaded at 45° to the face grain.
+J
+f,
+Figure 2-20.—Plywood in tension at 45° to the face grain direction.
+s When
+becomes less than 50 percent, the same figures may be used provided the angles 6 and
+<J> are taken 90° to
+A
+the face grain: that is, the plies of predominant thickness should always be considered as the face plies.
+
+--- PAGE 61 ---
+STRENGTH OP WOOD AND PLYWOOD ELEMENTS
+55
+2.56110. Tension at 45° to face grain.
+This case
+is shown in figure 2-20.
+Equations (2:24) and (2:25) yield:
+C=gfrfoTft =0
+(2.33)
+R=-ft ioTftl =0
+(2:34)
+From this the stress circle can be drawn, as shown in figure 2-21.
+The circle passes through the origin, since C = R, and
+t -It
+t -It
+t
+-It
+(2.35)
+JW~^Jl
+Jx—qJ1
+JSW—^Jt
+Acting parallel to the face grain is/„ and/SJ., and/SU) acts at right angles to these two.
+The strains in these directions can be obtained from equation (2:26).
+Figure 2-21.—Stress circle for plywood in tension at 45° to the face grain direction.
+
+--- PAGE 62 ---
+56
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+From these, the strain circle can be drawn, as shown in figure 2-22.
+Figure 2-22 is
+not based upon actual quantitative values applicable to any particular plywood con-
+struction, but upon the general assumption that Ew >E X (ew <e x ). For this general case,
+the principal axis of strain is not parallel to the direction of the tensile stress.
+SHEAR STRAIN
+Figure 2-22.—Strain circle for plywood in tension at 45° to the face grain direction.
+The modulus of elasticity at 45° to the direction of the face grain is defined as the
+ratio of a tensile (or compressive) stress in this direction to the strain in this direction
+which the stress produces, hence
+4
+(2:37)
+Ea5=—-=-
+Ci
+~E7
+J_
+(Aw
+1
+G-wx
+with an associated shear strain
+i=ei Kai (A
+L)
+A
+\ E x
+E w )
+Values of Gwx can be calculated from equation 2:20.
+Values of
+y.wx ,
+\x. xw can be calculated
+from equations 2:22 and 2:23 and notes thereunder.
+Where E X = EW (as in balanced construction of one species):
+2EW
+E 1.5—'
+Eu
+and ea i —0
+(2:38)
+
+--- PAGE 63 ---
+STRENGTH OF WOOD AND PLYWOOD ELEMENTS
+57
+i
+In a balanced construction the equation Eis =-^r, where c and
+r are obtained from
+figures 2-16 through 2-19, may also be used to obtain E,
+if>
+.
+2.56111. Shear at 45° to the face grain.
+This case is shown in figure 2-23. Equa-
+tions (2:24) and (2:25) yield

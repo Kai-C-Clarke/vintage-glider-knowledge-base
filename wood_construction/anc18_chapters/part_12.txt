@@ -1,0 +1,583 @@
+rimary members. Wood screws have been successfully used to
+prevent cleavage
+of plywood skin from
+stringers
+in some
+skin-stringer
+applications.
+Nails should never be used in aircraft to carry structural loads.
+Self-locking nuts
+of approved types
+designed
+for use with wood and plywood
+structures are preferable to plate or anchor nuts. When the latter type is used, however,
+attachment may be made to the structure with wood screws or rivets provided that
+care is taken not to reduce the strength of load-carrying members.
+Riveting through
+wood is always questionable because of the danger of crushing the wood under the rivet
+heads and the possibility of bending the shank while bucking the rivet.
+Also, there
+is
+
+--- PAGE 233 ---
+DETAIL STRUCTURAL DESIGN
+227
+Figure 4-41.—Installation of Clamp Fittings.
+no way of tightening the joint when dimensional changes from shrinkage occur.
+4.8. MISCELLANEOUS DESIGN DETAILS.
+4.80. Metal to Wood Connections.
+Metal to wood connections are complicated
+by an inherent weakness of all untreated wood—low shear and bearing strength.
+Sec-
+tions 4.6 and 4.7 present various methods of minimizing this drawback.
+Another way of improving the efficiency of wood structures is to keep the number
+of joints to a minimum.
+For example, when other design considerations will permit, a
+one-piece wood wing is desirable; when this is not permissible, the wing joint should be
+placed as far outboard as possible so that the fitting loads will be low.
+4.81.
+Stress Concentrations.
+Since wood in tension has practically no elongation
+between the proportional limit and the ultimate strength, there is little of the "internal
+adjustment" common
+to metal
+structures.
+Stress
+concentrations,
+therefore, become
+more critical and, for efficient design, must be held to a minimum. The fact that com-
+preg and similar materials are very sensitive to stress concentrations should be carefully
+considered when
+these
+materials
+are
+used.
+
+--- PAGE 234 ---
+228
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+4.82. Behavior of Dissimilar Materials Working Together.
+When
+materials
+of
+differing
+rigidities, such as normal wood, compreg, or metal
+fittings, are fastened to-
+gether for a considerable distance and are under high stress, consideration should be
+given to the fact that the fastening causes the total deformation of all materials to be the
+same. A typical example is a long metal strap bolted to a wood spar flange for the pur-
+pose of taking the load out of the wood at a wing joint.
+In order that the load be uni-
+formly distributed among the bolts, the ratio of the stress to the modulus of elasticity
+should be the same for both materials at every point.
+This may be approximated in
+practical structures by tapering the straps and the wood in such a manner that the
+average stress in each
+(over the length of the fastening)
+divided by
+its modulus
+of
+elasticity gives the same ratio.
+When splicing high-density materials to wood, or in dropping off bearing plates,
+the slope of the scarf should be less steep than the slope allowed for normal wood.
+4.83.
+Effects of Shrinkage.
+When
+the moisture
+content
+of a
+piece
+of wood
+is
+lowered
+its dimensions
+decrease.
+The dimensional change
+is greatest in a tangential
+direction (across the fibers and parallel to the growth rings), somewhat less in a radial
+direction (across the fibers and perpendicular to the growth rings), and is negligible in a
+longitudinal direction (parallel to the fibers).
+For this reason a flat-grained board will
+have a greater change
+in width
+for a given moisture
+content change than an edge-
+grained board. Flat-grained boards also have a greater tendency to warp than do edge-
+grained boards.
+These dimensional changes can have several deleterious effects upon a wood structure
+and the designer must study each case to determine which effects are most harmful,
+and which are the most satisfactory methods of minimizing them.
+Loosening of fittings
+and wire bracing are common
+results of
+shrinkage.
+Checking
+or
+splitting
+of wood
+members frequently occurs when shrinkage takes place in members that are restrained
+against dimensional change.
+Restraint is sometimes given by metal fittings and quite
+often by plywood reinforcements since plywood shrinkage is roughly only 1/20 of cross
+grain shrinkage of solid wood.
+A few of the methods of minimizing these shrinkage effects are:
+1. Use bushings that are slightly short so that when the wood member shrinks
+the bushings do not protrude and the
+fittings may be tightened
+firmly against the
+member
+(fig. 4-36).
+2.
+Place the wood so that the more important face, in regard to maintaining dimen-
+sion,
+is edge-grained.
+For example, solid spars are required to be edge-grained on their
+vertical face so that the change in depth is a minimum.
+Figure 4-42.—Protection Against Splitting.
+
+--- PAGE 235 ---
+I
+DETAIL STRUCTURAL DESIGN
+229
+3. Wood members can be reinforced against checking or
+splitting by means
+of
+plywood inserts or cross bolts
+(fig. 4-42).
+Care should be taken to avoid constructions
+that introduce cleavage (cross-grain) loads when shrinkage occurs.
+4. Plywood face
+plates should be dropped
+off gradually either by feathering or
+by shaping so that the cleavage loads at the edge of the plywood are minimized when
+shrinkage occurs
+(fig. 4-43).
+fEATHERED END7
+SPADED END 7
+4.84. Drainage and Ventilation.
+Wood
+structures must be adequately drained
+to insure a normal length of service life.
+This applies to box spar sections as well as all
+low portions of wings and fuselages.
+The usual method
+is to drain each compartment
+separately as illustrated in figure 4-44.
+Another acceptable method
+is to drain from
+one compartment to another until the lowest compartment
+is reached, or structural
+requirements prohibit further internal drainage, before drainage holes to the exterior
+are bored.
+This method
+is illustrated in figure 4-45.
+:l/4 inch holes drilled
+at
+the
+low points of all compartments
+Figure 4-44.—Drainage Diagram of Wing, Direct Method.
+Service
+experience
+indicates
+that
+drainage
+holes
+for
+individual
+compartments
+should be not
+less than one-quarter inch
+in diameter, with three-eighths inch being
+preferable.
+Drainage holes to the exterior used with the internal drainage system should
+probably be somewhat larger.
+If the internal drainage system
+is used
+it
+is suggested
+
+--- PAGE 236 ---
+230
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+A- A
+1/2 inch holes drilled at
+the low
+point
+of
+the
+lowest compartments -
+Figure 4-45.—Drainage Diagram of Wing, Internal Method.
+that the inter-compartment drainage holes be inspected after the internal
+finish has
+been applied to make sure that the finish has not clogged the internal drain holes.
+This
+will necessitate attaching the top skin last.
+Drain holes are usually drilled from the external surface so that the splintering
+does not mar the external finish.
+After drilling drain holes, all splinters should be care-
+fully removed from the inner surface, and the edges of the holes should be sanded
+lightly and protected by the application of several coats of spar varnish.
+It is common
+practice, in order to avoid damage to structural members by the drill, to drill drainage
+holes an appreciable distance from the low corner of a compartment.
+This practice
+must be avoided and some method of insuring proper location of drain holes at the
+actual low points must be developed by the aircraft manufacturer that will not only
+prevent damage
+to
+the framework but
+will
+also
+provide complete
+drainage
+of the
+structure.
+It
+is, therefore, recommended that proof of the adequacy of the drainage system
+chosen be demonstrated by setting up the structure, with the top cover removed, in a
+position corresponding to its attitude when the airplane is resting on the ground.
+Water
+is then poured into the structure and the actual performance of the drainage system
+observed.
+Careful design to prevent entry of water into the structure
+is equally important.
+Careful location of all openings and use of boots and gaskets should be considered.
+If
+interiors do happen to get wet, good ventilation
+will accelerate the drying.
+Marine
+grommets have been suggested for use with external drain holes in wing, tail, and control
+surfaces.
+This type of grommet produces a suction or scavenging action in flight and
+also protects the holes themselves from direct splash during taxiing on wet or muddy
+fields.
+Periodic inspection and cleaning of drainage holes covered with marine grommets,
+however, may be difficult.
+4.8 5.
+Internal Finishing.
+It is recognized that applying finish to the inner surfaces
+
+--- PAGE 237 ---
+DETAIL STRUCTURAL DESIGN
+231
+of the closing panels of plywood-covered structures
+is a
+difficult problem.
+The usual
+method, other than dipping,
+is to mask off the locations of secondary glue areas prior
+to the application of finish to the surface, for wood coated with a protective finish can-
+not be glued.
+This
+is a time-consuming operation, and after the plywood covering
+is
+finally fitted into place, the film of finish usually stops short of the intersection lines
+between the plywood covering and framework.
+These are the very places where the
+finish is needed most if water does accumulate in the interior.
+Wood-rotting organisms can act only
+if the moisture content of the wood is above
+approximately 20 to 25 percent.
+Although finishes will not prevent moisture content
+changes in wood, they will retard such changes so that the wood moisture content will
+not
+follow the rapid changes
+in atmospheric
+conditions but only the more gradual
+changes.
+Therefore,
+if wood members are finished, dangerously high moisture contents
+will be reached in wood aircraft structures only when parts are in contact with standing
+water since atmospheric conditions that produce high moisture contents are generally
+of relatively short duration, except in extreme climates such as the
+tropics, and the
+retarding effect of the finish may be expected to prevent the wood from attaining a
+high moisture content within this short period.
+In view of the foregoing discussion,
+it is suggested that consideration be given to
+the following method
+of finishing the inner surfaces
+of plywood-covered assemblies.
+Since any free water would be in contact with the lower skin almost entirely, the lower
+wing covering and control surface coverings should be attached to the framework prior
+to the upper covering.
+In this way, finish can be applied thoroughly to the lower cover-
+ing and adjacent framework quite easily after the assembly gluing operation has been
+completed.
+Since gaps in the finish on the upper covering along framework members
+are not so harmful as they would be on the inner surfaces of the lower covering, wider
+masking strips may be used over secondary glue areas on the upper covering at the time
+of applying the internal finish, thereby reducing the chance of finished surfaces falling-
+over framework members.
+Some method of accurately registering the covering should
+be used.
+4.86. External Finishing.
+Two types of external
+finish for plywood covered
+air-
+craft have been used successfully, the direct-to-plywood finish and the fabric-covered
+plywood
+finish.
+There
+is
+little difference in weight between the two systems because
+the weight of the fabric
+is offset by the difference in weight between the finishes used
+in the two systems.
+Direct-to-plywood finishes have a tendency to check wherever a glue joint appears
+on the surface.
+Checking of the finish
+is also apt to occur when the grain of the wood
+tends to raise, as in those softwoods having appreciable contrast between spring and
+summerwood, such as
+Douglas-fir.
+Fabric-covered
+finishes do not check from
+these
+causes.
+Light airplane fabric of the type specified in AN-C-83
+is the usual material used
+for the fabric-covered plywood finish system.
+The fabric provides a better protection
+from the abrasive action of stones, sand, and other objects kicked up while taxiing
+than does the direct-to-plywood finish.
+Observation of wood airplanes in service has revealed that plywood or fiber plates
+glued over exposed end grain may act as a moisture trap rather than as a moisture
+barrier.
+Several coats of brushed-in aluminized spar varnish are believed to give a much
+
+--- PAGE 238 ---
+232
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+more
+satisfactory
+protection
+to
+exposed
+end
+grain.
+Exposed end
+grain
+should be
+interpreted to include exposed feathered surfaces.
+4.87. Selection of Species.
+Properties other than the usually listed strength and
+elastic
+properties should
+also be
+considered when
+selecting a wood
+for any
+specific
+purpose.
+For example, birch and maple are relatively difficult to glue; yellowpoplar
+has lower resistance to shock than spruce; Douglas-fir is low in cleavage strength.
+4.88. Use of Standard Plywood.
+From a maintenance viewpoint
+it
+is
+desirable
+FUSELAGE PANEL
+FUSELAGE NOSE SECTION
+Figure 4-46.—Fuselage Framework.
+
+--- PAGE 239 ---
+DETAIL STRUCTURAL DESIGN
+233
+to use only standard plywoods for design so that too great a variety of types will not
+need to be carried in stock.
+Table 2 9 lists many of the more common constructions.
+If one of these is used, the formulas in chapter 2 can be used with greater ease because
+many of the basic parameters and strength values are given in this table.
+Two-ply
+diagonal plywood is considered a special construction by most plywood manufacturers
+and has the disadvantage of tending to warp because of its unsymmetrical construction.
+4.89. Tests.
+Quite often, time and effort may be saved by the use of simple tests
+in the early stages of the design of complex joints.
+4.9. EXAMPLES OF ACTUAL DESIGN DETAILS.
+On the following pages several sketches and photographs are presented to show
+how various manufacturers have treated
+details encountered
+in the design of wood
+aircraft. No effort has been made to label these sketches as either good or poor practice.
+They are merely presented to show what the industry has done when confronted with
+specific problems
+(figs. 4-46 through 4-63).
+
+--- PAGE 240 ---
+234
+ANC BULLETIN—DESTGN OF WOOD AIRCRAFT STRUCTURES
+?0UTED SPRUCE
+- MAHOGANY- POPLAR
+PLYWOOD
+-DRAINAGE AND VENTILATION
+1
+HOLES
+FIN BEAM
+WALNUT- POPLAR
+PLYWOOD PLATE5
+AIRPLANE
+WING
+BEAM
+SHOWING BLOCKING AND
+PLATING AT LOCATION
+OF APPLICATION
+OF CONCENTRATED
+LOAD5
+Figure 4-47.—Examples of Beams.
+
+--- PAGE 241 ---
+DETAIL STRUCTURAL DESIGN
+235
+End
+Doaljrn.
+Th«
+following changes
+from the
+orlglaaJ. design were Incorpora-
+ted.
+1. Bearing
+bloolta Item
+1 removed.
+2.
+Faoo
+plat©
+item 6 added.
+S.
+find
+aeotlon of item
+3 outout
+and
+apruoe wedges
+Item
+6 in-
+stalled with.jgreln porpindi-
+oular
+to
+thfj spir
+axi o
+Failure ooourrai
+to
+indicated
+B,
+-
+10,100 f
+U.
+-
+7600 #
+BJ1
+-
+183,063 in. lb*.
+3rd Design.
+The following ohengea from the
+2nd design were incorporated
+1* Tertioel grain ipruoe wedges
+Item
+6 eliminated.
+2. Hotel
+straps added*
+3.
+Bolt and bearing plates added*
+Loaded tot
+B,
+«=
+21,400
+Hp
+«' 16,100
+B.H
+-
+367,676
+in.
+lbs*
+without failure.
+HITERIAL BOTES
+@
+J" Mapl*
+(7^
+1/8"- 3 Ply Mahogany
+(Tlj
+1" Spruoe
+(T^
+i"- 46°- 4 Ply Mahogany
+fs«)
+4 Ply Mahogany
+^—^
+(Faoe Grain Parallel to Spar Axis)
+(7l)
+Sprue* * (Grain Perpandloula* to Spar Axis)
+Figure 4-48.—Cantilever Wood Spar at Fuselage Attachment.
+
+--- PAGE 243 ---
+DETAIL STRUCTURAL DESIGN
+237
+Figure 4-50.—Spar Details at Root Section and Fuselage Attachment.
+
+--- PAGE 244 ---
+238
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Figure 4-51.—Further Spar Details at Root Section and Fuselage Attachment.
+
+--- PAGE 245 ---
+DETAIL STRUCTURAL DESIGN
+230
+
+--- PAGE 246 ---
+Figure 4-54.—Method of Double Drag Bracing.
+
+--- PAGE 247 ---
+DETAIL STRUCTURAL DESIGN
+241
+Figure 4-55.—Attachment of Flap Hinge.
+
+--- PAGE 248 ---
+242
+ANC BULLETIN—DESIGN OP WOOD AIRCRAFT STRUCTURES
+Figure 4-56.—Attachment of Empennage.
+
+--- PAGE 249 ---
+DETAIL STRUCTURAL DESIGN
+243
+<m
+****
+1
+9 PLY
+mah - poplar
+1 Plywo
+S,TCA/0/V F ~ F
+Figure 4-57.—Reinforced Fuselage Frame.
+
+--- PAGE 250 ---
+244
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+
+--- PAGE 251 ---
+DETAIL STRUCTURAL DESIGN
+245
+r— METAL TORQUE. TUBE
+Figure 4-60.—Example of Elevator Torque Tube Attachment to Control Surface.
+
+--- PAGE 252 ---
+246
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+MUST
+BE. FLUSH
+(FIRLWALL INSTALLATION)
+Figure 4-62.—Typical Fuselage Joint or Engine Mount Attachment.
+
+--- PAGE 254 ---
+I
+I
+
+--- PAGE 255 ---
+MEMORANDUM
+
+--- PAGE 256 ---
+1
+MEMORANDUM
+
+--- PAGE 257 ---
+MEMORANDUM
+
+--- PAGE 258 ---
+MEMORANDUM

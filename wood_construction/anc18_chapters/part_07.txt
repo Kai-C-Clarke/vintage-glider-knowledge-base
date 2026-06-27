@@ -1,0 +1,1142 @@
+n that the elements and the coupons are tested at a slow rate, at the same moisture
+content, and under approximately the same time-loading
+conditions.
+The
+test
+ele-
+ment should be made of matched materials; for example
+all stiffeners in a stiffened
+panel should be made from the same stock.
+Case B. When
+it
+is not practicable to correct element tests by means
+of related
+tests on coupons, the following procedure may be employed:
+(1) A sufficient number of tests should be made to establish a reasonably reliable
+average considering the variability of the materials.
+Fewer tests will be required and
+the scatter of related tests will be reduced if the test results are corrected to the average
+specific gravity values listed in table 2-3 by the methods of section 2.01.
+For the same
+reason,
+it
+is desirable to use material of approximately average specific gravity in test
+specimens.
+(2) The strength should be adjusted to 12 percent moisture by factors from table
+2-2 appropriate to the primary mode of failure.
+Should failure occur in glued or bolted
+fastenings, however, no upward adjustments should be made.
+It should be recognized
+that moisture adjustments are subject to error and should, therefore, be avoided when-
+ever
+possible by conditioning
+test specimens
+to approximately
+12 percent moisture
+content.
+(3)
+In element tests
+it
+will usually be possible to arrange the test procedure so
+that errors due to rate and duration of load will be negligible in comparison with other
+experimental errors, for example:
+(a)
+If the maximum load is supported for 15 seconds or more, such as in tests
+where the load
+is added by weight increments,
+corrections for rate and duration of
+load are unnecessary.
+(b)
+If the speciment
+is loaded at a rate of strain such that the time from zero
+load to failure
+is more than 2 minutes when the testing machine
+is operated contin-
+uously, corrections are unnecessary.
+Thus,
+if the first stopping point
+is 25 percent of
+the expected ultimate load and the machine takes Yi minute to reach this load, the
+rate of strain is sufficiently low.
+The time to failure after passing the limit load should be not more than 5 minutes
+if possible
+(slower loading
+results in lower ultimate loads)
+since upward corrections
+of test values, because of long duration, are considered inadvisable.
+(4) After correction of the average test results for moisture, a correction factor
+to allow for variability should be applied as follows:
+(a)
+0.94 when the failure is principally the result of compression, tension, or
+bending stresses, or shear in 45° plywood.
+(b)
+0.80 when the failure
+is principally due to shear stresses parallel to the
+grain.
+3.011. Complete Structures.
+3.0110. Design Allowances
+for Test Conditions. When
+a
+complete
+structure
+
+--- PAGE 141 ---
+METHODS OF STRUCTURAL ANALYSIS
+135
+is static tested, it is not usually possible to make the test under the conditions on which
+the design values of table 2-3 are based.
+Therefore, if the purpose of the test is to prove
+the strength of the entire structure at a specified ultimate load regardless of test con-
+ditions (which is usually the case in order to prove joints and fittings)
+it is recommended
+that the designer investigate the effects of probable test conditions prior to designing
+the structure on the basis of table 2-3.
+If it appears that the probable test conditions will cause the strength in the test
+to be less than that corresponding to design values in table 2-3, suitable margins of
+safety should be incorporated during the design.
+3.0111. Test Procedure.
+In complex composite structures the effects of moisture
+content on over-all strength are uncertain.
+Changes in wood strength may be offset
+by stress concentration effects.
+It
+is, therefore, desirable that complete structures be
+conditioned as closely as possible to 12 percent moisture content at the time of testing.
+To minimize effects of rate and duration of load, the time to failure after passing
+limit load should be less than 15 minutes if possible.
+The ultimate load should be sustained without failure for at least 15 seconds,
+in
+order to insure the test being comparable to design values in regard to time effects.
+The above procedure may be varied depending upon the purpose of the test.
+Agree-
+ment should be reached with the procuring or certificating agency regarding the test
+procedures and methods of correction,
+if any, prior to conducting major tests.
+3.1. WINGS.
+3.10.
+General.
+Because
+of the
+basic
+differences
+in
+their
+structural
+behavior,
+separate stress analysis procedures are outlined for the following general types of wing
+structures
+(a) Two-spar wings with independent spars.
+(b)
+Reinforced shell wings.
+3.11. Two-Spar Wings with Independent Spars. The methods of analysis pre-
+sented under this heading are based on the assumption that the spars
+deflect inde-
+pendently in bending.
+Such methods are particularly applicable to two-spar fabric-
+covered wings with drag bracing in a single plane. They may also be applied to two-
+spar wings having drag bracing in two planes.
+In such cases, the effect of the torsional
+rigidity resulting from the double drag bracing, tending to equalize the deflections of
+the two spars,
+is usually neglected but may be taken into account by the methods of
+reference 3-7.
+3.110. Spar loadings.
+The
+following method
+of determining the running loads
+on the spars has been developed to simplify the calculations required and to provide
+for certain features which cannot be accounted
+for
+in a
+less general method.
+It
+is
+equivalent to assuming that the resultant air and inertia loads at each section are divided
+between the spars as though the ribs were simple beams and the spars furnished the
+reactions.
+Frequently, certain items are constant over the span; then the computations
+are considerably simplified.
+The net running load on each spar, in pounds per inch run, can be obtained from
+the following equations
+(3:1)
+
+--- PAGE 142 ---
+136
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Vr= \{CN (a-f) -
+C
+Ma } q+>he iH)
+C
+1446
+(3:2)
+where
+y/ = net running load on front spar, in pounds per inch
+yr = net running load on rear spar, in pounds per inch
+a > °> /> 3> and T are shown in figure 3-1 and are all expressed as fractions of the chord
+at the station in question. The value of a must agree with the value on which C Ma
+is based.
+q = dynamic pressure for the condition being investigated.
+Cm and C
+u
+a are the airfoil normal force and moment
+coefficients, respectively, at
+the section in question.
+C is the wing chord, in inches.
+e is the average unit weight of the wing, in pounds per square foot, over the chord
+at the station in question. It should be computed or estimated for each area included
+between the wing stations investigated,
+unless the unit wing weight
+is substantially
+constant, in which case a constant value may be assumed. By properly correlating the
+values of e and j, the effects of local weights, such as fuel tanks and nacelles, can be
+directly accounted for.
+n 2 is the net limit-load factor representing the inertia effect of the whole airplane
+acting at the center of gravity. The inertia load always acts in a direction opposite
+to the net air load. For positively accelerated conditions n% will always be negative, and
+vice versa. Its value and sign are obtained in the balancing of the airplane.
+Figure 3—1.—Unit section of a conventional 2-spar wing.
+All vectors are shown in positive sense.
+If it is desired to compute the airloading and inertia loadings separately, formulas
+(3:1) and (3:2) may be modified by omitting terms containing « 2 for the airloading, and
+omitting terms containing q for the inertia loading. Then the inertia loading, shear,
+and moment curves need be computed for only one condition (say, n 2 = 1.0), the values
+for any other condition being obtained by multiplying by the proper load factor.
+
+--- PAGE 143 ---
+METHODS OF STRUCTURAL ANALYSIS
+137
+The computations required
+in using the preceding method are outlined
+in tables
+3-1 and 3-2, in a form which is convenient for making calculations and for checking.
+Table 3-1.
+Computation of net unit loadings (constants)
+Stations Along Span
+1
+Distance from root,
+inches
+2
+C'/l44 - (chord in inches) /144
+S
+f ,
+fraction of chord
+4
+j.
+n
+ti
+M
+5
+b - r - f -<3)-(D
+6
+a, fraction of chord (a.c.)
+7
+i,
+'
+8
+e
+unit wing wt.,
+lbs/sq.ft.*
+9
+r
+- a =0-®
+10
+a -
+f «dMD
+11
+r -
+j -0-(7)
+12
+i
+-
+f -®-(D
+15
+C/144 b =®/(f)
+* Those values will depend on the amount of disposable
+load carried in the wing.
+The following modifications and notes apply to tables 3-1 and 3-2:
+(a) When the curvature of the wing tip prevents the spars from extending to the
+extreme tip of the wing, the effect of the tip loads on the spar can easily be accounted
+for by extending the spars to the extreme span as hypothetical members.
+In such cases,
+the dimension / will become negative, as the leading edge will lie behind the hypothetical
+front spar.
+(b) The local values of CN , item 14, are determined from the design values of CN
+in accordance with the proper span-distribution curve.
+(c) Item 15 provides for a variation in the local value of Cm- When a design value
+of center-of-pressure coefficient
+is specified, the value of Cm should be determined by
+the following equation, using item numbers from tables 3-1 and 3-2.
+C',/o =©[©-rP']
+(3:3)
+(d) When conditions with deflected flaps are investigated, the value of Cmq over
+the flap portion should be properly modified.
+For most
+conditions, C M<1
+will have a
+constant value over the span.
+
+--- PAGE 144 ---
+138
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Table 3-2.
+Computation of net unit loading* (variables)
+CONDITION
+q
+°»l(»to)
+C«
+or C.P1
+at
+(Refer also to Table 3-4)
+Cjj^ "
+(variatior. with
+span)
+Cj^ (variation irtth span)
+©
+* ©
+©
+* ©
+©
+x
+q
+Be
+X ® x @
+@
+* ©
+yf
+- (20)
+x ©)
+,
+lbs/lnoh
+Distanoe b from root
+©
+x
+(g)
+©
+- ©
+(23)
+x
+q
+x ® x @
+©
+* @
+y
+-
+(26)
+x
+(lo)
+,
+lba/lnoh
+C c
+(variation nrlth span)
+©
+X
+q
+©
+* ®
+y
+«
+(3l)
+x ©»
+Ib./laoh
+(e) The gross running loads on the wing structure can be obtained by assuming
+e to be zero; then, items ©, ®, and ® become
+zero, yf becomes © X®, y r becomes
+® X @, and yc becomes ® X ©.
+3.111. Chord loading.
+The net chord loading,
+in pounds per inch
+run, can be
+determined from the following equation
+[Ccq+nx2fi\ C
+Vc=-
+144
+(3:4)
+where
+yc = running chord load, in pounds per inch.
+C c = airfoil chord force coefficient at each station. The proper sign should be retained
+throughout t he computations.
+n T 2 = net limit chord-load factor approximately representing the inertia effect of the
+whole airplane in the chord direction. The value and sign are obtained in the balancing
+of the airplane. When C c is negative, n x i will be positive.
+
+--- PAGE 146 ---
+140
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+q, e, and C are the same as in section 3.110.
+The computations for obtaining the chord load are outlined in table 3-2, items 28
+to 32. The following points should be noted
+(a) The value of Cc , item 28, usually can be assumed to be constant over the span.
+The only variation required is in the case of partial-span wing flaps or similar devices.
+(6) The relative location of the wing spars and drag truss will affect the drag-truss
+loading produced by the chord and normal air forces. This can easily be accounted for by
+correcting the value of C c .
+(Sec. 3.1121).
+It is often necessary to consider the local loads produced by the propeller thrust
+and by the drag of items attached to the wing. The drag of nacelles built into the wing is
+usually so small that it safely can be neglected. The drag of independent nacelles and that
+of wing-tip floats can be computed by using a rational drag coefficient or drag area in
+conjunction with the design speed.
+In general, the effects of nacelles or floats can be com-
+puted separately and added to the loads obtained in the design conditions.
+3.112.
+Lift-truss analysis.
+3.1120. General.
+In
+considering a
+lift-truss system
+for
+either a monoplane
+or
+a biplane and, in the subsequent investigation of the drag-truss system, due attention
+should be given to all the force components which will be applied to the attachment
+points by the lift truss.
+3.1121.
+Lift struts.
+Consider the strut-braced monoplane wing shown
+in
+figure
+3-2.
+The spars in the figure are shown perpendicular to the basic wing chord
+(the
+reference line for normal and chord loads is the M.A.C. of the wing).
+If the spars are
+not perpendicular to the chord reference
+line, the resultant of the chord and normal
+loads should be resolved into components parallel and normal to the spar, as shown in
+figure 3-3a.
+Also, in the general case, the drag truss will not be perpendicular to the spar
+face. This angularity should be considered
+(fig. 3-3b), unless it is of small order, which
+would result in a negligible correction.
+The vertical reactions on the front and rear spars from the lift struts may be de-
+termined by taking moments about point C
+(fig. 3-2) of all the external loads on the
+M, f
+Mr
+spars
+(sec.
+3.114). Then R,=
+; and R r =
+, where M,.f and Mrr are the moments
+g
+about the spar-root attachment, point C, of the front and rear spars, respectively.
+The strut and spar axial loads may be determined by graphical or analytical methods
+on the basis of the truss A B C, if the fitting is eccentric to the neutral axis of the spar.
+If the graphical method is used, the correction for angularity of the strut to the V-H
+plane should not be overlooked.
+The strut loads also can be determined by the following formula, which includes the
+correction for angularity:
+i M
+true length
+,„
+_ N
+Strut load =-rX
+^—rjl
+#1,
+v u
+i
+^3:5 ^
+n
+projected length in V-H plane
+After the loads in the struts have been determined, the axial load in each spar is:
+(strut load) X (—). and the chord component acting on
+the
+wing from
+each
+strut
+is:
+D
+(strut load
+) X (—
+)
+
+--- PAGE 147 ---
+METHODS OF STRUCTURAL ANALYSIS
+141
+(a) DRAG TRUSS PERPENDICULAR TO SPAR FACE
+C'<!
+(b) DRAG TRUSS NOT PERPENDICULAR TO SPAR FACE
+Figure 3-3.—Resolution of forces into components acting on spars and drag truss.
+
+--- PAGE 148 ---
+142
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+
+--- PAGE 149 ---
+METHODS OF STRUCTURAL ANALYSIS
+143
+When an eccentricity,
+e, in the root fitting exists, the chord loads and reactions will
+act in a plane which generally is not parallel to the line AC. The effect of the eccentricity
+is to modify the vertical reactions at the strut point and root. The increment of reaction
+R he
+to be added or subtracted is: AR =—-
+(fig. 3-4d).
+Then, the total vertical reaction
+component at the strut point is R+ AR.
+It
+is, at once, apparent that the value of the
+drag-truss reaction, R h ,
+is a function of the strut load
+(fig. 3-4c); therefore,
+if extreme
+accuracy is desired, it becomes necessary to solve for the reactions on the lift and drag
+truss by means of simultaneous equations which include expressions for all the unknowns
+involved.
+The reactions may also be determined by trial and error with comparable
+results if sufficient trials are made.
+However, unless the value of AR is in excess of 2
+percent of R, it is considered satisfactory to assume that the total reaction is R+ AR.
+3.1 122. Jury struts.
+In computing the compressive strength of lift struts which are
+braced by a jury strut attached to the wing,
+it is usually satisfactory to assume that a
+pin-ended joint exists in the lift strut at the point of attachment of the jury strut. The
+jury strut itself should be investigated for loads imposed by the deflection of the main
+wing structure.
+An approximate solution based on relative deflections
+is satisfactory,
+if the jury strut
+is conservatively designed to withstand vibration of the
+lift
+strut.
+When the jury strut is considered as a point of support in the wing-spar analysis, rational
+analysis of the entire structure should be made.
+(ref. 3-17).
+3.1123. Nonparallel wires. When two or more wires are attached to a common
+point on the wing, but are not parallel, the distribution of load between the wires may be
+determined by least work or equivalent methods. The following approximate equations
+may be used for determining the load distribution between wires, provided the loads so
+obtained are increased 25 per cent.
+B =beam component of load to be carried at the joint.
+P
+{ =load in wire
+1.
+P2 = load in wire 2.
+Vi= vertical length component of wire
+1.
+V 2 = vertical length component of wire 2.
+A i and A 2 represent the areas of the respective wires.
+Li and L 2 represent the lengths of the respective wires.
+The chord components of the air loads and the unbalanced chord components of
+the loads in interplane struts and lift wires at their point of attachment to the wing should
+then be assumed to be carried entirely by the internal drag truss.
+3.1124. Biplane lift trusses.
+In biplanes that have two complete
+lift-truss and
+drag-truss systems interconnected by an N strut, a twisting moment applied to the wing
+cellule will be resisted in an indeterminate manner, as each pair of trusses can supply a
+(3:6)
+(3:7)
+where
+
+--- PAGE 150 ---
+144
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+resisting couple.
+An exact solution involving the method of least work, or a similar
+method, can be used to determine the load distribution
+(ref.
+3-16). For simplicity,
+however, it may be assumed first that all the external normal loads and torsional forces
+about the aerodynamic center of the cellule are resisted by the
+lift trusses.
+This as-
+sumption is usually conservative for the lift trusses, but does not adequately cover the
+possible loading conditions for the drag trusses. A second condition should therefore be
+investigated by assuming that a relatively large portion (approximately 75 percent)
+of the torsional forces about the aerodynamic center of the cellule are resisted by the drag
+trusses.
+In the case of a singlo-lift-truss biplane, the drag trusses must, of course, resist
+the entire moment of the air forces with respect to the plane of the lift truss.
+3.1125.
+Rigging
+loads.
+Wire-braced
+structures
+should
+be
+designed
+for
+the
+rigging loads
+specified by the procuring or
+certificating agency.
+Sometimes
+it may
+be necessary to combine the rigging loads with internal loads from flight or landing
+conditions.
+The effects of initial rigging loads on the final internal loads are difficult to pre-
+dict, but, in certain cases, may be serious enough to warrant some investigation.
+In
+this connection, methods based on least work or deflection theory offer the only exact
+solution.
+Approximate methods,
+however,
+are
+satisfactory
+if based on
+rational
+as-
+sumptions.
+As an example,
+if a certain counter-wire will not become slack before the
+ultimate load
+is reached, the analysis can be conducted by assuming that the wire
+is
+replaced by a force acting in addition to the external air forces. The residual load from
+the counterwire can be assumed to be a certain percentage of the rated load and will,
+of course, be less than the initial rigging load.
+3.113. Drag-truss analysis.
+3.1130.
+Single
+drag-truss
+systems.
+Single
+drag-truss
+systems
+are
+employed
+in strut- or wire-braced wings where the ratio of the span of the overhang to the mean
+chord
+is not excessive.
+The requirements of the specific agency involved should be
+reviewed in regard to the upper limit on this value above which double-drag bracing
+is required.
+An example of a conventional drag truss is shown in figure 3-4 for a strut-braced
+monoplane wing.
+The chord loading, C, in pounds per inch run
+(fig. 3-4
+(a)) may be
+distributed to the panel points of the truss (b) as concentrated loads
+1, 2, 3, 4, etc.
+In
+addition to the chord loads due to air load, the lift struts also apply loads in the chord
+plane.
+In section 3.1121, the method of determining the chord components was given.
+These components are shown in figure 3-4
+(c), assuming that the wing
+is so loaded
+that the lift struts are subjected to tensile loads.
+If items of concentrated weight, such
+as fuel tanks and landing gear, were not accounted for when the running chord load
+was computed in table 3-2, the resultant inertia loads from these items of weight should
+be applied to the drag truss.
+In figure 3-4
+(d) are shown
+all the loads and
+reactions
+acting on the drag truss.
+The loads in the drag-truss members may now be determined by graphical or
+analytical methods.
+Exact division of the drag reaction, RD , on the truss
+is generally
+indeterminate, insofar as the front and rear root-spar attachments are concerned.
+In
+general, overlapping assumptions should be made, or the drag reaction conservatively
+assumed to be resisted entirely by one root
+fitting.
+Occasionally, the drag reaction
+may be divided equally between the front and rear root-spar fittings
+if they have ap-
+
+--- PAGE 151 ---
+METHODS OF STRUCTURAL ANALYSIS
+145
+proximately the same rigidity in the drag direction.
+3.1131.
+Double drag-truss systems. A double drag truss
+is employed in canti-
+lever wings or braced wings where it is necessary to provide additional torsional rigidity
+outboard of the strut point. The investigation of double-drag trusses follows the same
+line of procedure outlined in section 3.1130.
+The design of the double truss is usually
+dictated by
+torsional
+rigidity
+requirements
+rather than by the
+actual
+design
+loads
+applied to the structure.
+In showing compliance with requirements
+in which the upper drag wire in one
+bay and the lower drag wire in the adjacent bay are assumed in action (the remaining
+wires in these two bays assumed to be out of action), the loads on the strut take the
+form shown in figure 3-5. R wu and
+A',,,; represent the wire force components along the
+drag strut.
+In general,
+it will be necessary to balance these components in the drag
+direction by a reaction, Rw i —Rwu \ then, taking moments about a convenient point,
+the vertical couple force R c may be determined.
+Having the forces and reactions on
+the drag strut, the internal forces readily may be determined.
+[Components Along Drag Strut
+"[Emm Wires
+V
+Section A-
+Figure 3-5.—Double drag truss—two drag; wires in action.
+3.1132.
+Fixity of drag struts. Drag struts should be assumed to have an end-fixity
+coefficient of
+1.0, except
+in
+cases of unusually
+rigid
+restraint,
+in which a
+coefficient
+of 1.5 may be used.
+3.1133.
+Plywood
+drag-truss
+systems.
+In
+a
+two-spar,
+plywood-covered
+wing,
+the plywood covering, together with the drag struts, is usually depended upon to carry
+the chord shear.
+Section 3.12 gives methods of analysis of this type of structure.
+3.114. Spar shears and moments. The fundamental principles of statics should
+be employed in the determination of wing-spar shears and bending moments.
+Before
+proceeding with the detailed determination of these items,
+it
+is essential, in order to
+avoid errors, that all the external loads and reactions be determined for the spar.
+The primary bending moments
+at various stations on a cantilever spar may be
+
+--- PAGE 152 ---
+146
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+determined conveniently by the equation
+Mx=M 1 ±Six£
+Fa
+(3:8)
+where Mi and S x are the moment and shear at station 1
+; x, the distance between station
+1 and x; and >
+Fa, the sum of the moments about station x of all the loads acting
+between the stations.
+It will be found desirable to prepare a table similar to the one
+shown in figure 3-6 to facilitate the computations.
+If the distances between the var-
+ious stations are relatively small, the center of gravities,
+a, of the trapezoidal loadings
+f
+'
+1"1
+»
+n 2
+(
+n
+/
+/
+dl—
+*a3-»
+d2-^
+d3 -^
+<-»!-»
+d4
+,
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+Section Distance
+from
+Root
+Distance
+between
+Sections
+d
+Load
+per in.
+w
+Average
+load
+per in.
+wa
+Load
+between
+Sections
+F
+Arm to
+centroid
+(1)*
+a
+Moment
+11'
+•
+Fa
+Shear
+S
+- £F
+Moment
+H" • Sd
+Moment
+at
+Section
+4
+d4
+w4
+d4-dj
+w4*w3
+2
+Item ®
+X
+Item
+(|)
+(1)*
+l
+(2)*
+F4-3
+x a}
+"*~
+U
+3
+d 5
+w3
+F4-3
+<
+d3-d2
+Wj+Wg
+2
+Item ©
+X
+Item
+(5)
+a2
+F3-2
+(3)»
+S3 X
+(ds-d2)
+2
+dg
+w2
+F4-3+
+F3-2
+d2-dx
+w2*w l
+2
+Item
+(3)
+X
+Item ©
+a3
+F2-1
+x a3
+1
+dl
+wl
+F4-3
++
+F3-2
+F2-1
+"0
+1
+NOTES
+(1) The center of gravity of a trapezoidal loading may be determined by the formula x
+= 2+R
+e
+3(1*R)
+where R
+h2
+;
+then a\
+-
+x(d4-dj)
+hx
+(3)
+Sj,
+Sg etc.
+is shear at stations
+3,
+2,
+etc.
+(Item 9)
+T
+h2
+;
+:
+T
+1
+c
+Figure 3-6.—Determination of shears and bending moments.
+
+--- PAGE 153 ---
+METHODS OF STRUCTURAL ANALYSIS
+147
+(«)
+BINDING MOMENT and SHEAR DIAORAM - CAHTHEVZR gPAR
+STRUT LOAD
+»v
+Figure 3-7.— (a) Bending moment and shear diagram—cantilever spar,
+(b) Bending moment and shear
+diagram—braced spar.
+
+--- PAGE 154 ---
+148
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+may be assumed to
+lie midway between the stations with negligible error and slightly
+conservative results.
+If concentrated loads exist at points on the span, the table may
+be modified easily to account for these loads.
+The case of an externally braced spar may be handled in a manner similar to that
+for the cantilever spar, insofar as the determination of the shears and moments out-
+board of the strut and the moment at the root due to external loads are concerned.
+The root moment required in section 3.121 to determine the lift-strut reactions may be
+obtained conveniently by the foregoing procedure.
+The general form of the moment and shear curves is shown in figure 3-7,
+(a) and
+(6), for braced and cantilever spars.
+It always is desirable to plot the bending moment
+and shear curves as a general check of the computations and to facilitate the investi-
+gation of stations along the span not covered in figure 3-6.
+3.1140. Beam-column effects. (Secondary bending).
+In
+connection
+with
+the
+bending moment and shear curves for a braced spar inboard of the strut point, where the
+spar is loaded as a beam and a column simultaneously, the effects of secondary bending
+should be taken into account by use of the "precise" equations or the "polar diagram"
+method.
+The solution of the beam-column problem
+is covered extensively in several
+textbooks relative to airplane structures, and, therefore, will not be covered here
+(refs.
+3-1, 3-15). It is necessary, however, to base such computations on ultimate loads rather
+than on limit loads,
+in order to maintain the required factor of safety.
+Continuous
+spars having three or more supports should be investigated by means
+of the three-
+moment equation or other methods leading to equivalent results.
+3.1141.
+Effects of varying axial load and moment of inertia.
+The drag-truss bays
+of a braced wing usually are shorter than the lift-truss bay, as indicated in figure 3-4.
+The axial loads in the spars due to the chord loading, therefore, vary along the span.
+Although the "precise" equations for a beam-column assume a constant value of axial
+load in the beam,
+it
+is generally satisfactory to determine a weighted value of axial
+load for use in determining the "precise" bending moment
+.
+Referring to figure 3-8:
+U _1
+J
+\ Li + Po L2+P3 L3
+'
+-
+L^U+U
+<
+(3:9)
+where Pc is the weighted axial load due to chord loading, and P h P%, and P 3 are the spar
+axial loads in the drag bays 1, 2, and 3. The total axial load in the spar is
+p,=p s + p c
+(3:10)
+where P s is the spar axial-load component from the lift strut or wire.
+Generally, the moment of inertia, I, also varies along the span and a weighted value
+of / may be determined for use in the "precise" equations, as follows:
+T _1 1 L\-\-p2 L2+/3 L3
+.
+where 1 1, 1 2, and 7 3 are the moments of inertia in bays 1, 2, and 3.
+If the " polar diagram"
+method is used, the actual variation can be taken into account.
+3.115. Internal and allowable stresses for spars.
+3.1150. General.
+The allowable stresses for spars may be found in section 2.3.
+In beams subjected to combined bending and compression, the margin of safety computed
+
+--- PAGE 155 ---
+METHODS OF STRUCTURAL ANALYSIS
+149
+r
+W-lb.per
+In.
+<
+<
+L2
+> ,
+L
+5
+>
+Figure 3-8.— Distribution of forces on wood spar section.
+by a simple comparison
+of the
+internal and allowable
+stresses may be meaningless,
+particularly when the beam-column
+is approaching the
+critical buckling point.
+True
+margins of safety may,
+therefore, be determined only by successive approximations.
+For example,
+if a spar is rechecked after increasing all external loads and moments by
+10 per cent, and still found satisfactory, the true margin of safety is at least 10 per cent.
+3.1151. Wood spars. In general, a spar will be subject to bending, axial (tension
+or compression), and shear stresses. The total stress due to bending and axial load may
+be computed by the usual expression:
+f,=^+|
+,3:12,
+where M includes secondary bending.
+In computing the section properties of a wood
+spar, the following points are worthy of attention.
+Consider the spar section shown
+in figure 3-9.
+(a) Where the two vertical faces of the spar are of different depths, the average
+depth of the section may be used, as shown by h.
+(b)
+If the webs are plywood, only those
+plies
+parallel to the spar axis and one-
+quarter of those plies at 45° may be used in the computation of A and / of the sections.
+These are approximate rules to allow for the difference in modulus of elasticity of the ply-
+wood and the solid wood.
+If the plywood webs are neglected entirely, the computation
+of the section properties is simplified and the results are more conservative.
+(c) When investigating a section, such as A—A in figure 3-9, the full section should
+be considered effective only if the glue area is sufficient to develop the full strength of
+the side plates.
+In general, the distance a should not be less than 10 times or 15 times
+the thickness of a side plate for softwoods and hardwoods, respectively. The reinforcing
+blocks should be beveled, as shown, to prevent stress concentration which may lead to
+consequent failure in the glued joint at the edge of the reinforcement.
+(d)
+Filler blocks may likewise be used in computing the section properties, provided
+the length of the blocks and their glue area to webs and flanges is sufficient to develop the
+required bending stresses.
+(e) In the detailed investigation of a spar section, the reduction in strength due to
+bolt holes should be considered when computing the section properties.
+In computing
+
+--- PAGE 156 ---
+t
+150
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+the area, moment of inertia, etc., of wood spars pierced by bolts, the diameter of the bolt
+hole should be assumed greater than the actual diameter by the amount specified by the
+procuring or certificating agency.
+In computing the properties of section A-A
+(fig. 3-9),
+it should be assumed that
+all the bolt holes pass through the section, because failure
+might actually occur along the line u-v.
+Section A-A
+SOLID SPAR
+Figure 3-9.—Wood spar section.
+The longitudinal shear stress in the web of a spar may be obtained from the ex-
+pression
+:
+SQ
+b'l
+(3:13)
+In the determination of Q, for spars with plywood webs, the recommendations in
+(6)
+should be followed.
+However, the value of b' in the expression should be the total web
+thickness.
+For tapered spars, the shear stress may be reduced to allow for the effects
+of taper in accordance with section 3.1352.
+3.116.
+Special problems in the analysis of two-spar wings.
+3.1 160.
+Lateral buckling of spars.
+For conventional two-spar wings, the strength
+of the spars against
+lateral buckling may be determined by considering the sum of
+the
+axial loads in both spars to be resisted by the spars acting together.
+The total
+allowable column strength of both spars is the sum of the column strengths of each spar
+acting as a column the length of a drag bay.
+Fabric wing covering may be assumed to
+increase the fixity coefficient to
+1.5. When further stiffened by plywood or metal lead-
+ing-edge covering extending over both surfaces forward of the front spar, the fixity coeffi-
+cient may be assumed to be 3.0.
+3.1 161.
+Ribs. Analytical investigation of a rib generally is not acceptable as proof
+of the structure.
+In some cases, however, a rib may be substantiated by analysis when
+another rib of similar design has been analyzed, and subsequently strength-tested.
+In
+
+--- PAGE 157 ---
+METHODS OF STRUCTURAL ANALYSIS
+151
+general,
+it may be desirable
+to analyze a
+rib
+in order to determine the approximate
+sizes of the members.
+3.1162.
+Fabric attachment. Although the fabric-attaching method usually
+is not
+stress analyzed,
+it
+is,
+of course, important that the rib-lacing strength and spacing
+be such that the load will be adequately transmitted to the ribs. The specifications of the
+procurement or certificating agency in regard to lacing-cord strength and spacing should
+be followed.
+Unconventional fabric-attachment methods should be substantiated by
+static tests or equivalent means to the satisfaction of the agency involved.
+3.12. Two-spar Plywood Covered Wings.
+3.120. Single covering. Two-spar wings covered with plywood on only one surface
+(upper or lower) should be considered as independent spar wings, in accordance with
+section 3.11, and the plywood covering designed to carry the chordwise sheer loads with
+the ribs functioning as stiffeners and load distribution members.
+The center of shear
+resistance of the plywood covering may be eccentric to the applied drag load (fig. 3-15 b).
+The resulting torque will then be resisted by a couple consisting of up-and-down forces
+on the two spars.
+3.12 1. Box type. Two-spar wings with both upper and lower surfaces covered with
+plywood, forming a closed box, should be treated as shell wings in accordance with section
+3.13.
+3.13. Reinforced Shell Wings.
+3.130. General.
+The types of wing structure considered under this heading are
+those in which the outside covering or skin, together with any supporting stiffeners,
+resists a substantial portion of the wing torsion and some of the bending.
+Various types
+of shell wings may be classified according to:
+the number of
+vertical shear webs,
+or
+number of "cells" into which these webs divide the wing section; whether the spanwise
+material is concentrated mainly at the shear webs or distributed around the periphery
+of the section- as longitudinal stiffeners; whether the skin
+is "thin" so that
+it buckles
+appreciably at ultimate load, or "thick" so that it does not buckle appreciably.
+Typical
+shell wing sections are shown in figure 3-10.
+In shell wings the distributed airloads normal to the surface are carried to the ribs
+by the skin and its stiffeners. The ribs maintain the shape of the section and transmit
+the airloads from the skin to the vertical shear webs or to other portions of the skin
+such as the leading edge, which are capable of carrying vertical shear. Main or "bulk-
+head" ribs perform similar functions for concentrated loads, such as those due to nacelle
+landing gear, and fuselage reactions.
+The vertical shear from the ribs is carried to the
+wing reaction points by the shear webs and portions of the skin. The shear in these ele-
+ments creates axial bending stresses in the beam flange material. When comparatively
+stiff spanwise stiffeners are used, they also act as effective flange material, receiving their
+axial loads from the webs through

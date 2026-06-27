@@ -1,0 +1,1222 @@
+ not be formed, but will
+be generously large, so that stretching
+is unnecessary.
+A vacuum
+will
+be drawn on the bag after the mold
+is inserted, to check for leaks and
+to inspect the folds in the bag.
+This vacuum will be maintained until the
+cylinder pressure is applied, to avoid any shifting of the bag and reforming
+of bag wrinkles.
+After the cylinder is sealed, air pressure of approximately 15 pounds
+per square inch will be applied; then the temperature and pressure will
+be adjusted by
+the admission
+of pure steam and venting
+to obtain a
+temperature
+of 300°
+F. and
+a pressure
+of 52 pounds per square inch
+within a period of 5 minutes or less.
+(6) Heating cycle: The mold is small and contains no large flat spots, therefore
+the temperature
+rise
+at
+all
+points
+will be somewhat more rapid than
+usual.
+Using a high-temperature phenolic glue and a cylinder temperature
+of 300° F., a satisfactory cure should be obtained in a total of 15 minutes.
+5.347. Suggestions on Bag-molding Technique.
+One type of curved part, which
+requires special attention in production, is the U-shaped cross section (two essentially
+flat and parallel sides connected by a curve of small radius).
+Examples of this shape
+are
+the leading edges
+of wings and
+of
+vertical
+stabilizers.
+When attempting
+to
+make these U-shaped pieces on a male mold, wrinkles often result at the point
+of
+greatest curvature.
+Regardless of how tightly the veneer is wrapped by hand and
+attached to the mold, the fluid pressure will tend to press it more firmly to the mold.
+Since fluid pressure is exerted at right angles to the surface, the total force exerted
+on the sides is greater than that exerted on the end.
+The force on the end tending to
+overcome the frictional resistance under the sides causes a wrinkle to be formed in
+the curved part.
+Several
+special techniques have been developed
+for eliminating these
+wrinkles,
+one 8 of which is illustrated in figure 5-32.
+For simplicity, a single curved piece having
+parallel flat sides 8 inches long connected by a curve of 2-inch radius
+is illustrated.
+8 It is reported that a patent application on a somewhat similar technique has been made by the Vidal Research Corporation.
+
+--- PAGE 253 ---
+PROCESSING AND FABRICATION
+247
+Triangular strips %-inch high are attached to the mold about 2 inches beyond the
+end of the piece being molded.
+The relation between these dimensions has been
+found to be important in obtaining good results.
+A piece of heavy canvas, or any
+other strong,
+flexible, nonelastic material,
+is tacked or otherwise attached
+to the
+mold at A after being tightly wrapped around the assembly.
+The whole assembly
+is then put in a thin, reinforced, full bag and pressure and heat applied, as illustrated
+in figure 5-25, C.
+As the fluid pressure is applied, the canvas puts additional force
+on the curved portion and at the same time prevents full force from being exerted
+on the flat surfaces.
+As full pressure is reached, the canvas has assumed the position
+shown in the dotted lines and full fluid pressure
+is then applied to the flat surfaces,
+L
+\
+!
+i
+i
+i
+1
+i
+j
+J
+TOP
+VIEW
+Figure 5-32.—A method Tor molding U-shaped sections.
+while the curved portion has full fluid pressure plus the additional pressure from the
+tension in the canvas.
+Removal of most if not all the staples attaching the flat sides to the mold before
+pressing facilitates the slipping of these sides and it is reported that, in some cases,
+the use of the triangular strips
+is then unnecessary.
+5.3470.
+Tubular Members.
+Tubular members
+of molded plywood
+are
+also
+difficult
+to mold,
+although
+here
+again
+only
+single curvature
+exists.
+The
+cross
+section of these parts may be circular, elliptical, or any other closed shape.
+Figure
+5-33 shows a short section of a cylindrical member such as
+is sometimes used for
+air
+ducts.
+These members have been bag molded by
+several methods,
+usually
+involving the use of accurate metal molds.
+The fundamental problem
+is the same
+in all; namely, to secure a very close fit between the veneer strips or sheets and the
+mold.
+If this is not accomplished, the fluid pressure will produce defects as it forces
+the veneer tightly against the mold.
+In tubular members, as in compound-curvature pieces, a +45° and —45° angle
+of grain
+to
+axis
+of curvature causes the least
+difficulty in assembly.
+A sheet of
+veneer in width 2.22 times the diameter of the cylinder, wound helically around the
+
+--- PAGE 254 ---
+248
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+mold so that the opposite edges touch,
+will produce an angle
+of 45° between
+its
+edges and
+the
+axis.
+Successive
+strips wound
+in
+opposite
+rotation make
+a con-
+struction having a 90° angle between alternate
+plies.
+Butt
+joints
+parallel
+to the
+grain are usually made between adjacent strips.
+On long cylinders
+it
+is necessary
+to scarf joint and glue the strips end to end to secure the required length of material.
+A common method of making these cylindrical members
+is to wrap the strips
+around a thin metal cylindrical mold,
+taping them in position.
+The bag
+is
+also
+tubular but somewhat larger than the mold
+so
+that
+it may be slipped over
+the
+assembly and clamped to the mold near each end.
+The bleeder may be attached
+to either the mold or the bag.
+The process
+is sometimes reversed and the veneers assembled within the cylin-
+drical mold.
+In
+this process the bag
+is inserted inside the mold and
+inflated
+to
+produce pressure, a process somewhat similar to figure 5-25, B and D.
+Figure 5-33.—Short section of tubular-molded plywood.
+If it is necessary to use the 0° to 90° assembly of veneers, the 90° material (grain
+around the bend) should be scarfed at the ends.
+In long tubular members
+it may
+also be necessary to make scarf joints in the 0° material.
+In all tubular work the veneer sheets must be very flat and plate redrying before
+laying-up
+is often necessary.
+Any cupping of veneer caused by glues containing
+water must be
+avoided;
+therefore, an
+alcohol- soluble glue
+or a dry-sheet glue
+is
+generally used.
+5.3471. Bag Leaks.
+Obviously,
+all precautions should be taken
+to avoid the
+occurrence
+of leaks in the bags used in bag molding.
+In
+spite
+of
+this, leaks
+will
+occasionally
+occur on account
+of
+the natural
+deterioration
+of
+the bag
+material.
+How long a bag can be used before it must be discarded is a question that can only
+be answered by balancing the cost of repairing leaks and the value of molded parts
+
+--- PAGE 255 ---
+PROCESSING AND FABRICATION
+249
+ruined by the leaks against the cost of a new bag.
+As an aid in arriving at
+the
+answer,
+it is suggested that a record be kept of the performance of each bag or type
+of bag.
+A summary of these records will indicate tbe optimum point at which the
+bag should be discarded, and will also show which type of bag
+is giving the best
+service.
+Conditions other than material deterioration that cause early bag failure
+are,
+in nearly all cases, traceable to improper handling.
+The actual leak is usually caused
+by any one of the following and may be accelerated by slight deterioration of the
+material:
+1. Tear due to rough handling.
+2. Hole from abrasion due to sliding of a heavy mold on the bag.
+3. Rupture of bag from concentrated load.
+4. Rupture of bag by fluid pressure over unsupported area.
+5. Tear caused by shrinkage
+of reinforcing
+fabric, due
+in turn
+to seepage
+of
+water through outer coating of rubber, allowing fabric to get wet.
+6. Improper sealing of the bag.
+Some bag leaks develop during the heating
+cycle, and when the leak occurs
+after the glue has set the molded part may often be salvaged.
+It should, however,
+be carefully inspected
+to determine whether the glue bond
+is satisfactory.
+Parts
+which are only partially wet are sometimes thoroughly soaked and dried to remove
+local distortions.
+This treatment also reveals the presence of poor glue bonds.
+Any bag that has shown evidence of leaks should immediately be removed from
+production and examined.
+This
+is often done by inflating the bag and painting
+it
+with a soap solution.
+The leak will be revealed by bubbling of the soap film.
+5.35. Bag-molded Plywood References.
+(5-19) Anonymous.
+1942.
+molding plastic-plywood.
+Mod. Plastics 19 (11): 46-49, 112, 114, 116,
+illus.
+(5-20)
+1942.
+MOULDED AIRCRAFT UNITS'.
+USE OF RESIN-BONDED PLYWOOD AS A STRUCTURAL
+material:
+a survey of prooress.
+Aircraft Prod. 4
+(4): 312-315,
+illus.
+(5-21)
+1943.
+moulded plywood
+aircraft components.
+Timber
+of Canada
+3
+(10):
+15,
+38-39,
+illus.
+(5-22)
+Barnes, John S.
+1943.
+making plywood with multidirectional pressure.
+Mech.
+Engirt. 65
+(1):
+17-20,
+illus.
+(5-23)
+Bryant, A. R.
+1942.
+the bonding
+of teco film glue
+in plywood.
+Forest
+Products
+Research
+Laboratory.
+Unnumbered Pamphlet.
+(London.)
+(5-24)
+Chase, Herbert.
+1943.
+duramold speeds stabilizer production.
+Aviation
+42
+(6):
+150-151,
+153,
+316, 319-320,
+illus.
+(5-25)
+Fairchild, Sherman M.
+1943.
+details of duramold fabrication.
+Aero Digest 42
+(2)
+:
+232, 235,
+illus.
+(5-26) Hawthorne, Randolph.
+1941.
+molding the langley airplane:
+a new plastic bonded plywood plane.
+Aviation 40 (11):
+75-76,
+154,
+156,
+illus.
+(5-27) Heebink, Bruce G., and Fleischer, Herbert O.
+1943.
+TESTS TO DETERMINE THE SLIPPING PROPERTIES
+OF BAG-MOLDING GLUES
+IN THE
+fluid stage.
+Forest Products Laboratory Mimeo. No.
+1350, Restricted.
+(5-28)
+Marhoefer, L.
+J.
+1942.
+design considerations for plywood structures.
+Aviat ion 4 1
+( 1 1 )
+:
+114-117,
+340; (12):
+146-149, 314,
+illus.
+(5-29)
+Miller, Eugene
+1942.
+the vidal process for molded structures.
+Aviation 41
+(10)
+:
+124-127,299,
+illus.
+(5-30)
+Perry, T. D.
+1943.
+flexible pressure in veneer and plywood work:
+the modern method of
+making curved
+i lywood.
+Wood Products 48
+(6): 32-34,
+36,
+38,
+40,
+59,
+illus.
+
+--- PAGE 256 ---
+250
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+5.4. GLUING AND ASSEMBLY OPERATIONS.
+5.40. General.
+Current practices
+in
+the
+fabrication
+of wood
+aircraft
+parts
+and
+their assembly into the
+finished plane are by no means standardized in the
+industry, and many departures from or variations of the procedures set forth herein
+are to be found.
+Most of the processes described, however, have been observed
+in actual commercial practice.
+In each of the assembly gluing operations discussed,
+the various methods and practices described are believed
+to conform reasonably
+closely to the detailed recommendations given in section 5.2.
+The following gluing
+conditions and limitations apply generally
+to
+all assembly gluing operations and
+should be followed, unless otherwise specifically excepted under the description of
+each operation.
+5.400. Moisture Content of Wood.
+Wood
+pieces,
+parts,
+and
+subassemblies
+should have a moisture content of between 8 and
+12 percent for assembly gluing
+operations, except for special constructions made from thin plies or laminations by
+cold-press gluing.
+Because of the moisture added by cold-setting glues when used
+with thin material,
+a moisture content
+of
+5
+to
+8 percent
+is recommended
+if the
+stock
+is one-eighth inch or
+less
+in
+thickness
+(sec.
+5.20).
+Within
+either range
+of
+moisture content recommended, the members in any one assembly should not vary
+by more than 2 percent in moisture content.
+5.401. Preparation of Gluing Surfaces.
+After
+the stock has been conditioned
+to the required moisture content, and immediately before gluing, all surfaces should
+be machined smooth and
+true and accurately
+fitted as discussed in sections
+5.21
+and
+5.6.
+An interval of more than 8 hours between final surfacing and gluing
+is
+undesirable.
+Specification AN-P-15a requires a lapse not to exceed 4 hours between
+surfacing and gluing.
+5.402. Preparation of Glue for Use.
+Manufacturers' recommendations
+should
+be followed for mixing glues.
+The proportion of all ingredients shall be determined
+be weight
+.
+Glues should be thoroughly mixed to an easily spreadable consistency
+and mixtures that become difficult to spread should be discarded.
+Colored paper
+cups are being used for dispensing cold-setting glues as an aid in assuring that the
+glue used is fresh and of satisfactory consistency.
+For example,
+if the glue is mixed
+twice daily, the morning mix may be placed in green cups and the afternoon mix
+placed in red cups; all glue used in the morning would thus be from green cups and
+all used in the afternoon from red cups.
+5.403. Glue Spread.
+The glue mixture should be applied uniformly to
+either
+or both of the surfaces being joined
+(sec. 5.23).
+Double spreading is recommended
+for the gluing of scarf joints or when certain unfavorable gluing conditions, such as
+long assembly periods or rough wood surfaces, are encountered.
+Under these con-
+ditions, the total amount of glue applied should be increased about 25 percent
+(sec.
+5.23).
+5.404. Assembly Periods.
+When gluing conditions permit closed assembly and
+application of adequate gluing pressure,
+the assembly time should not exceed 20
+minutes with
+cold-setting
+glues.
+Open
+assembly
+periods
+should
+not
+exceed
+10
+minutes at temperatures of 70° to 90° F.
+When pressures of less than 75 pounds
+per square inch are used, as in nail gluing, closed and open assembly periods should
+not exceed 15 and 8 minutes, respectively (sec. 5.24 and table 5-12).
+5.405. Gluing Pressures.
+The amount of pressure needed for satisfactory glu-
+ing depends to a large extent upon the uniformity of its application.
+When applied
+between rigid surfaces, as when stiff cauls are used to distribute the pressure uni-
+formly, gluing pressures of 100 to 250 pounds per square inch, depending on the
+density and crushing resistance of the species, are recommended
+(sec. 5.25).
+When
+gluing high-density species to those of low density, the recommendations for the
+low-density species govern the maximum gluing pressure that should be applied.
+Nail gluing
+is always associated with relatively low and undetermined pressures.
+
+--- PAGE 257 ---
+PROCESSING AND FABRICATION
+251
+Nail gluing- should be limited to thin members, as when plywood skins which deform
+readily under small pressures are glued to supporting structures.
+It
+is considered
+questionable to use nails to apply gluing pressure
+if the thinnest member exceeds
+one-eighth inch in thickness and nail gluing should not be used if the thinnest mem-
+ber exceeds one-fourth inch in thickness.
+When fluid pressure
+is applied directly
+against the part being assembled, somewhat lower pressures are permissible because
+the
+pressures
+are uniform and
+are
+applied
+at
+right
+angles
+to
+the
+surface.
+The
+structural strength
+of the assembly
+will often
+limit the maximum
+pressure,
+but
+within
+these
+limitations
+the
+nearest
+practical
+approach
+to
+the
+recommended
+pressures should
+be used.
+5.406. Pressure Period.
+Stock
+glued
+with
+cold-setting
+glues
+should remain
+under pressure at least 4 hours at 70° F. or 2 hours at 90° F., but a longer pressing
+period
+is desirable
+(sec.
+5.262).
+Cold-setting, urea-resin glues should not be used
+on wood or in a room that is below 70° F.
+At elevated temperatures the pressing
+period can be appreciably shortened for assemblies glued with either the cold-setting,
+urea-resin or casein glues
+(sec. 5.263).
+5.407. Conditioning Period.
+Following the gluing operation, the stock should
+be conditioned for a sufficient time to ensure the development
+of the full strength
+B-
+TOO MUCH OVERLAP
+C-
+INCORRECT
+Figure 5-34.— (.1) Correct, (B) acceptable but wasteful, and (C) incorrect methods'of aligning scarf joints for gluing.
+of the joint and
+to permit the moisture added by the glue to be removed or dis-
+tributed throughout the wood.
+The type and duration of the conditioning treat-
+ment needed are considered under specific, gluing operations
+(sec. 5.28).
+5.41. Gluing of Scarf Joints.
+The requirements
+of scarfed
+surfaces for gluing
+and the methods used in producing them are described under sections 2.4 and 5.6.
+5.410. Scarf Joints in Solid Stock.
+After the
+surface has been prepared with
+the
+required
+slope,
+the
+gluing
+operation
+itself
+should
+follow
+the
+fundamental
+principles discussed
+earlier, with one or two additional precautions.
+5.4100. Prevention of Slippage.
+In the gluing of scarf joints, probably the most
+important single consideration is to prevent end slippage.
+Effort should be made to
+keep the parts in proper alignment
+, as illustrated by figure 5-34, A. A small amount
+of overlap as illustrated is desirable and insures that the joint will receive adequate
+pressure.
+If the members slip excessively endwise during the pressing operation, a
+condition will exist
+as illustrated in figure 5-34, C.
+When the members are in this
+position, the joint will not receive sufficient and uniform pressure, and erratic joint
+strengths may be expected.
+The condition illustrated by figure 5-34, B,
+is to be
+preferred to C.
+In case the members are in a position illustrated by figure 5-34, B,
+it is possible that the scarf joint will receive higher pressure than intended and some
+crushing may result, but very probably the quality
+of the glue joint
+will not be
+
+--- PAGE 258 ---
+252
+ANC BULLETIN —WOOD AIRCRAFT INSPECTION AND FABRICATION
+adversely affected.
+It
+is important to provide some method, such as blocking or
+clamping the ends of the members, to prevent end slippage.
+Blocking or clamping
+should
+also be arranged to minimize side slippage and thus prevent unnecessary
+waste of material.
+Wood pins of small diameter driven into drilled holes are some-
+times used to prevent end and side slippage.
+These pins have an advantage over
+nails, sometimes used for the same purpose, in that they can be left in and do not
+interfere with subsequent machining operations.
+5.4101. Glues.
+In gluing scarf joints with cold-setting glues, it is recommended
+that the glue mixtures contain about 10 percent less water than is normal for side-
+grain gluing.
+Both contact surfaces should be coated and the maximum pressures
+permitted by the species should be used.
+For the dense, porous hardwoods, particu-
+larly when the maximum permissible slope
+is approached, sizing of the scarfed sur-
+faces with a thin glue mixture
+prior to gluing
+is helpful
+in preventing excessive
+penetration
+(sec. 5.271).
+In thick stock, the choice of glues is usually limited by operating considerations
+to cold-setting, urea resins, or casein glues (sec. 4.2).
+If the stock is thin, hot-setting,
+synthetic-resin glues may be used, provided heat can be applied to set the glue.
+Where satisfactory
+electrostatic heating equipment
+is
+available, hot-setting resins
+can be used on thick stock as well as on thin stock
+(sec. 5.264).
+5.4102. Gluing Operation.
+In
+the
+gluing
+operation,
+proper
+control
+of
+the
+fundamental gluing factors described in chapter 4 and section 5.40 should be ob-
+served.
+After removal from the press, stock of different thicknesses should be con-
+ditioned for 3 to 7 days at ordinary room conditions or for
+1 to 3 days in a kiln or
+room at 100° to 120° F., with humidity controlled to maintain the moisture content
+of the stock within the range of 8 to 12 percent
+(sec. 5.28).
+Pressure can be exerted by any mechanism that will apply a load of the desired
+magnitude uniformity over the joint area.
+Screw presses of conventional design are
+frequently used
+(fig. 5-35).
+The number of scarf joints pressed simultaneously in
+the same device should be limited in order that alignment may be maintained and
+an even clisti'ibution of pressure insured.
+If the members are thin and the operation is carried out in a hot press, a few
+of the details of the gluing operation just described will, of course, be changed to fit
+the adhesive.
+With hot-pressing adhesives, the assembly period can ordinarily be
+considerably longer, and the gluing operation will involve a loss rather than a gain
+in moisture.
+The time in the press will be greatly shortened, but a conditioning
+period should follow the gluing, just as in the case of cold-setting glues.
+The same
+precautions involved in securing an accurate fit of the surfaces and preventing end-
+wise slippage are recommended as in cold pressing.
+The use of dry glues reduces
+somewhat the danger of end slippage.
+Some operators have found
+it practical to
+use electric strip heaters between scarf joints in a cold press, either to accelerate the
+setting of the cold-setting glues or to provide a means of curing hot-setting glues
+where lamination thicknesses permit.
+5.411.
+Scarf Joints in Plywood.
+After the scarf joints
+in plywood have been
+machined, they should be glued as described in sections 5.271 and 5.40.
+Figure 5-36
+sbows a special narrow, multiple-opening hot press for gluing scarf joints in plywood.
+The extensions are for supporting the plywood and also may be used as clamp sup-
+ports to prevent end slippage.
+In hot-press gluing of scarf joints with liquid glues
+of low viscosity, two applications of glue to both of the contact surfaces are often
+made.
+Several minutes are allowed to elapse between the two applications of glue.
+Other than the points mentioned, the gluing of scarf joints in plywood follows
+the same basic procedure as does gluing of scarf joints in solid stock.
+5.412.
+Serrated, Finger, and Stepped Scarf Joints.
+Various
+designs
+of
+joints,
+such as serrated, finger, and stepped, may also be considered as examples of scarf
+joints.
+As a general rule, they are difficult to machine accurately and to glue with
+
+--- PAGE 259 ---
+PROCESSING AND FABRICATION
+253
+Figure 5-35.—Screw press used in gluing scarf joints.
+In presses of this type some provision should be made to prevent end
+slippage (sec. 5.4100).
+Figure 5-36.—Special narrow, multiple-opening hot press used for gluing scarf joints in plywood.
+568338—44
+17
+
+--- PAGE 260 ---
+254
+AXC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+assurance of producing
+joints
+of high and uniform
+quality.
+Consequently, they
+find
+little use in aircraft construction, and are not recommended.
+5.42. Gluing
+Straight
+Laminated
+Members.
+The laminating
+of
+flat,
+straight
+members, such as spars and spar flanges,
+is a simple gluing operation complicated
+only by the large size of some of the members produced.
+The species involved are
+chiefly spruce and other light-weight wood.
+The large pieces, of course, require the
+use of gluing presses of corresponding size and often machine glue spreaders to speed
+the operation and stay within permissible time limits for the assembly period.
+5.420. Glues.
+The
+thickness and
+size
+of most laminated members preclude
+the use of hot-setting glues except where heated rooms with controlled humidity or
+electrostatic heating equipment are available (sec. 5.264).
+Consequently, the choice
+of glues is generally limited to those of the cold-setting types.
+The glues used should
+Figure
+5-37.—A type of screw press used in gluing flat laminated stock.
+conform
+to
+the current
+issue
+of the Army and Navy
+specification
+covering
+the
+type of glue
+selected.
+5.421. Presses and Clamps.
+The most common method
+of
+applying
+gluing
+pressures in gluing laminated members
+is by means of screw presses as illustrated
+in figure 5-37.
+The major problem in using this type of equipment
+is to insure an
+adequate but not excessive pressure.
+The load applied by a screw may be mesaured
+by the use of a compressometer, by means of a torque wrench
+(fig. 5-16), or may be
+approximated by
+calculation
+(sec.
+5.251).
+Occasionally, presses are used that are similar in basic design to the screw press
+illustrated, but with the pressure applied by means of hydraulic jacks equipped with
+pressure-indicating
+dials.
+With equipment
+of
+this
+design,
+the
+pressures can be
+measured and controlled more conveniently than with a screw press.
+The travel
+of the head of the jack, however,
+is ordinarily more limited than the travel of a
+screw, and more time will be spent in blocking
+if members of different thicknesses
+
+--- PAGE 261 ---
+PROCESSING AND FABRICATION
+255
+arc to bo glued in the same press.
+Further, the number of hydraulic jacks in a press
+will usually be small compared with the number of screws in a press of the same size.
+Consequently, the caul boards must be considerably heavier to insure adequate dis-
+tribution
+of
+pressure.
+Laminated members whose depths vary throughout their length can be pro-
+duced by the use of shorter laminations at the thicker sections.
+On construction
+of this type, the continuous laminations should always be on the side most highly
+stressed
+in
+tension.
+Gluing
+of such
+assemblies
+is accomplished with "stepped"
+cauls.
+Each step in the caul should be accurately coordinated with the thickness
+of the corresponding lamination.
+As a further precaution,
+it
+is advisable
+to
+line
+the stepped caul with a uniform thickness of felt or rubber securely glued in place.
+Waxed paper or cellophane should be used against
+this surface to prevent its being-
+covered with glue.
+In the application of pressure to laminated members it
+is ad-
+visable to work from the center towards the ends or from one end.
+This procedure
+allows the laminations to slip into place.
+Where enough laminated members of one thickness are required
+to
+justify a
+special press, one can be constructed that makes use of hydraulic or
+air pressure
+distributed over the
+entire platen
+area.
+In
+a, press of this type, a diaphragm
+is
+placed below the bottom platen.
+The diaphragm may consist of fire hose closed
+at one end and attached to air pressure equipment at the other.
+The stock to be
+glued is laid between the platens and the gluing pressure
+is applied by air pressure
+on the diaphragm or hose.
+In a press of this design, the travel of the head is limited
+and it
+is suitable for the gluing of stock of only one thickness.
+Some commercial
+hot presses make use of the same principle and attain greater flexibility by providing
+for movement of the head of the press.
+In such a press,
+the platens are closed
+mechanically
+and
+only
+the
+gluing
+pressure,
+accomplished
+with
+relatively
+small
+movement,
+is
+exerted by
+the diaphragm.
+5.422. Final Conditioning.
+If the laminations are three-eighths inch or thicker,
+the stock, after removal from the press, should be conditioned for 3
+to 7 days at
+ordinary room conditions, or for 1 to 3 days at 100° to 120° F. (with humidity control)
+before final surfacing operations.
+The joints will be strong enough to permit initial
+machine work in 2 days at ordinary conditions.
+If the laminations are one-eighth
+inch or thinner and glued with casein glue, the conditioning period should be
+ex-
+tended to
+1 to 3 weeks when stored in ordinary room conditions or 4 to 12 days in a
+kiln at a temperature of about 120° F., depending on the size of the member.
+For
+conditioning other constructions see section 5.28.
+5.43. Gluing Curved Laminated Members.
+In the preparation of curved, lami-
+nated parts, the bending and gluing are usually done hi one operation.
+After the
+glue
+is set, the laminated construction will retain essentially the curvature of the
+form.
+Examples
+of laminated
+parts frequently found
+in
+aircraft work
+are spar
+flanges, bow ends for wing
+tips, bulkhead
+rings, gas-tank supports, and whig rib
+caps in highly stressed sections.
+In gluing curved, laminated parts, the fundamentals of the operation are the
+same as in gluing flat laminations.
+5.430. Methods of Applying Pressure.
+The
+application
+of gluing pressure
+to
+curved members
+is usually more complicated than in the case of flat laminations.
+If the curvature is only moderate, possibly the easiest way to apply gluing pressure
+is by means of simple male and female forms prepared from wood blocks (fig. 5-38, A).
+When loaded, such forms can be laid
+in screw or hydraulic presses and pressure
+applied just as in gluing flat stock.
+If many small curved items of the same design
+are to be made, it may be convenient to prepare a series of forms and use them in a
+hydraulic press as illustrated in figure 5-39.
+Another laminating
+press, employing
+electric
+strip heaters
+to
+accelerate
+the
+setting
+of the
+glue,
+is
+illustrated
+in figure 5-38,
+C.
+The force
+is applied
+to the
+
+--- PAGE 262 ---
+256
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+movable form by screws, C-clamps, or hydraulic pistons.
+A piece
+of
+thin, high-
+carbon steel 0.005 to 0.010 inch thick is attached to the inside surfaces of both forms.
+It is advisable to use a sheet of felt or rubber on one form to compensate for inac-
+curacies in the fit of parts.
+To facilitate uniform heating, the strip heater must be
+B
+STATI O/VARY FORM
+LAMINATED MEMBER
+LOW-VOLTAGE- L INE
+c
+Figurj. 5-38.—Diagrams of apparatus used in gluing curved laminated members.
+uniform,
+in
+cross
+section.
+The
+electrical energy necessary
+to produce the desired
+temperature in the strip heater will depend on several variables, such as size, shape,
+and construction of forms, but a power consumption of about
+\}{ watts per square
+inch of heater strip has been found to be generally applicable.
+A voltage of less
+than 30
+is advisable for the safety of the operators.
+Power
+is usually supplied by
+a step-down transformer in series with a variable voltage transformer or by a welding
+machine.
+In use, the jig is loaded and pressure applied before the power is turned on.
+
+--- PAGE 263 ---
+PROCESSING AND FABRICATION
+257
+FIGURE 5-39.—Forming curved plywood parts in quantities by cold-pressing technique.
+
+--- PAGE 264 ---
+258
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+In
+gluing
+curved,
+laminated members
+whose
+depth
+varies
+throughout
+the
+length, the use of step cauls permits the use of shorter laminations at the thicker
+sections.
+The same precautions apply
+to both curved and
+straight members
+of
+this type
+(sec. 5.421).
+A horizontal laminating press which can easily be adapted
+to curved, stepped cauls is illustrated in figure 5-40.
+As the curvature of the members becomes greater,
+it will be found more and
+more
+difficult
+to secure uniform
+distribution
+of pressure by the use
+of only the
+simple male and female forms.
+If the curve
+is circular or nearly so,
+it
+is possible
+to use tension bands of metal around a male form, in which case the radially acting
+pressure in pounds per lineal inch of length in direction of the axis of curvature is
+equal to the tension per inch of width on the strap
+(in pounds) divided by the radius
+of the circle
+(in inches).
+If one part of the member is curved and the other nearly
+straight,
+it will be
+difficult
+to use tension bands alone, because the pressures will
+Figure 5-40.—Horizontal laminating press.
+then be very low on the straight portion.
+One method of overcoming this difficulty
+is shown in figure 5-38, B, in which a
+fire hose has been laid between the tension
+band and the work.
+The fire hose is closed at one end and connected to air pressure
+at the other.
+In its use, the laminations are spread and laid in place and the tension
+band tightened.
+Air
+is then admitted into the hose.
+If the shape deviates much
+from
+circular,
+or
+if there
+are straight portions,
+it may be necessary
+to interpose
+filler blocks between the hose and the tension band because, with fluid pressure in the
+hose, the band tends to assume a circular shape.
+It is apparent that the setting of
+resin glues could be accelerated
+if warm water instead of air were used in the hose.
+The male form can also be made in such a way that hand clamps may be attached
+around the circumference.
+With a jig of this description, the work
+is laid on the
+form with a caul of wood or metal over the last lamination and clamped to the form
+by means of the hand clamps.
+While such a jig or form
+is simple to make, more
+time
+to clamp up the work
+will be required than with the air-pressure type and
+probably the pressure will not be so evenly distributed.
+If the laminated member is a complete ring, as, for example, a complete bulkhead
+ring, the manufacturing difficulties are considerably increased.
+One method consists
+in using a continuous lamination wound spirally around a form with the gluing pres-
+
+--- PAGE 265 ---
+PROCESSING AND FABRICATION
+259
+sure applied by tension of the lamination alone or aided by
+belt
+pressure.
+This
+method is illustrated in figure 5-41 on a closed member of circular shape.
+Applica-
+tion of this method requires that the veneer first be spliced end to end by means of
+scarf joints until a sufficient length is provided to form the complete ring.
+It would
+be possible to manufacture much tlie same product by laminating the rings in half
+sections and later joining pairs of half sections with scarf joints.
+5.431. Radius of Curvature.
+Precise data on the minimum curvatures to which
+veneers of different thicknesses and species can be bent are not
+available, but the
+information contained under section 5.68
+is suggested as a guide.
+5.432. Time Under Pressure.
+Conservative
+practice
+suggests
+that
+the
+time
+under pressure should
+be extended somewhat beyond the minimum suggested for
+flat gluing.
+5.433. Final Conditioning.
+Curved, laminated members should be given a final
+conditioning treatment similar to that recommended for straight laminated members
+(sec. 5.422).
+5.44. Assembly and Gluing of Ribs.
+The size and number of ribs to be made
+will have considerable bearing on the choice of the procedure in construction.
+A few
+ribs of one size and shape can probably be produced most easily and economically by
+Figure 5-41.—Method of gluing a laminated member in the form of a complete ring.
+nail gluing, although in such cases many are glued in simple
+jigs with the gluing
+pressures applied by hand clamps.
+For mass production of ribs, the more elaborate
+jigs will probably prove most useful.
+Ribs of the control surfaces, ailerons, stabil-
+izers, elevators, and rudders are usually smaller and their construction often simpler
+in design than that for wings (sec. 5.46).
+In place of braces, a single sheet of plywood,
+with or without lightening holes, may be used as web, and cap strips glued to one or
+both sides to form a channel or an I-section.
+On the other extreme, ribs in the center
+section, particularly in larger aircraft, may have cap strips whose cross section is such
+that laminated construction must be used to provide the proper size and bending
+properties.
+The general methods described here, however, should prove suitable,
+and the general principles applying to the use of the glues and conditioning practice
+after gluing will apply.
+5.440. Cold-press Gluing.
+5.4400. Nail Gluing.
+The most commonly used method of wing-rib construc-
+tion provides that the cap strips and braces be laid in a jig so designed that the strips
+and braces are held by blocking in their proper positions
+(fig. 5-42).
+Small plywood
+gusset plates, often triangular in plan and about 2 inches in their longest dimension,
+are then spread with glue and nailed in place.
+The nail spacing and nail size vary
+according to the size of the cap strips and braces.
+When the cap strips are approx-
+imately % by % inch and the gusset plates are %2-ineh plywood, %-inch No. 20 nails
+
+--- PAGE 266 ---
+260
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Figure 5-42.— Constructing wing ribs by nail gluing.
+spaced about % inch apart are suggested.
+The surfaces of the cap strips and braces
+should be true and smooth, and the nails should be driven home snugly.
+An adequate amount of glue should be spread over the joint area

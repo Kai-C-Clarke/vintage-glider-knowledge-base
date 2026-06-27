@@ -1,0 +1,1351 @@
+ume for the entire cross section depends upon the
+species and conditions under which the tree grew.
+Trees with much more moisture
+in the sapwood may contain more water in proportion to their volume ha the top
+logs because these generally contain a larger proportion of sapwood.
+On the other
+hand,
+trees
+in which the moisture
+distribution
+is more nearly uniform
+as a rule
+contain more water per unit volume or weight in the butt logs.
+Green butt logs
+of sugar pine, western larch, redwood, and western redcedar often
+sink in
+water,
+although the upper logs float.
+It
+is a common
+belief that
+trees contain more moisture during the growing
+season, when the sap
+is said to be "up," than in the fall and winter when the sap
+is said to be "down."
+This belief has no foundation in fact.
+Tests made in the
+United States and Canada show that trees cut in the winter contain fully as much
+water as
+trees
+cut
+in the summer.
+Tests made in the tropics indicate as much or
+more moisture
+in
+trees before
+the rainy season than immediately
+after the rainy
+season.
+The sapwood of living trees often contains more than 100 percent of moisture,
+and trees have been found in which the moisture content was over 300 percent of
+the dry weight.
+In such cases the cell walls are fully saturated, and the cell cavities
+are almost filled with water.
+In the heartwood of some green conifers the moisture
+content is as low as 30 percent.
+There
+is a maximum amount of moisture which wood of any specific gravity
+can hold.
+For example,
+if a piece
+of wood could have a
+specific gravity
+of
+1.5
+(actually such wood does not exist)
+it would contain no air space and would be all
+wood substance so that there could be no room for moisture; a piece of wood with
+a specific gravity (based on oven-dry weight and green volume) of 0.40 could hold
+a maximum of 185 percent moisture, based on the dry weight of the wood.
+The moisture content of seasoned wood
+is dependent upon the humidity and
+temperature of the surrounding
+air as discussed under "Seasoning and Storage of
+Lumber"
+(sec. 5.0).
+2.211. Moisture Content Determination.
+Two
+methods
+of
+making
+moisture
+content determinations for wood are recognized:
+(!) by determination based upon
+the drying of a sample in an oven and
+(2) by means of electric moisture meters.
+They
+are not interchangeable, but they do complement one
+another,
+since each
+has a distinct field of usefulness not covered by the other.
+An accurate determination of the moisture content of a test section of wood
+can be made by
+the oven-dry method,
+regardless
+of
+original
+moisture
+content,
+moisture
+distribution,
+size,
+species,
+density,
+or
+temperature
+of
+the
+stock
+being
+tested.
+On the other hand,
+it means cutting into and causing waste of a part of
+the original board or plank and 24 hours or more for drying before the moisture
+content can be determined.
+Since the moisture content will vary between pieces
+in a given lot or shipment, a number of tests by either method must be made to
+obtain an average.
+Such an average can be in error to whatever extent the tests
+made did not fully represent the total
+lot.
+Intelligent selection of test pieces and
+a suitable number of samples will minimize such error.
+2.2110. Oven-dry Method.
+The
+moisture content
+of wood by
+the oven-dry
+method is determined as follows:
+
+--- PAGE 63 ---
+WOOD
+57
+1.
+Select a representative sample of the material.
+2. Immediately after sawing, remove
+all loose splinters and weigh the sample.
+3. Put sample in an oven maintained at a temperature of 212° to 221° F. (100° to
+105° C.) and dry until constant weight is attained.
+4. Reweigh the sample to obtain the oven-dry weight.
+5. Divide the loss in weight by the oven-dry weight and multiply the result by 100
+to get the percentage of moisture in the
+original sample.
+Tims,
+(W—D)
+Percentage moisture =
+^— 100,
+whereW= original weight as found under 2 above,
+D= oven-dry weight as found under 4 above.
+First Step:
+If possible, the sample should be taken at least 2 feet from one end
+of the piece.
+Wood gives off or takes on moisture more rapidly from the end grain
+than from side grain; as a result, there may be considerable difference between the
+moisture content at the end and elsewhere in a
+stick.
+For this reason, a sample
+from within about a foot of the end of a long board may not be representative.
+Short pieces of wood dry out much more rapidly than longer ones.
+In order
+to reduce the time required for drying,
+therefore, the length of the sample in the
+direction of the grain should usually be about
+1 inch.
+With material
+1 square inch
+or less in cross-sectional area, however, a sample more than
+1 inch long is generally
+desirable, and the length in this case may be chosen so as to give the sample a vol-
+ume of 2 or more cubic inches.
+The other dimensions may be equal to the cross
+section of the board from which the sample is taken.
+Second Step:
+It
+is important that the weight be taken immediately after the
+sample
+is cut,
+for the material
+is subject to moisture changes on exposure to the
+air.
+The degree and rapidity of changes are dependent on the moisture content of
+the piece and the air conditions to which it is exposed.
+In order to insure good results, the weights should be correct to within at least
+one-half of
+1 percent.
+The metric system of weights
+is very convenient
+in making moisture determi-
+nations.
+The kind of scales to be used and the size of smallest graduation necessary to
+insure the specified accuracy will depend on the weight, and consequently the size,
+of the sample and kind
+of wood.
+Small spring postal
+scales reading
+to one-half
+ounce are not suitable for accurate weighing of small moisture samples.
+Third Step: When placed in the oven for drying, the samples shoud be open-
+piled to allow free access of air to each piece.
+The oven should have some ventila-
+tion, thus allowing the evaporated moisture to escape.
+A thermometer should be
+provided by which
+the temperature can be
+ascertained
+at any
+time.
+Excessive
+temperatures or excessive periods in the drying oven will cause distillation of the
+wood, and erroneous results will be obtained.
+Ordinarily, in the case of low-density
+woods, 12 hours' oven drying
+is sufficient, while high-density woods may require 48
+hours' oven drying.
+Fourth Step: As
+in the case
+of the
+first weight taken,
+it
+is essential that the
+sample be weighed immediately after being removed from the oven.
+Fifth Step: A typical example
+of the computation necessary for determining
+the percentage of moisture
+is:
+A 2- by 2- by 1-inch sample of air-dry Sitka spruce weighed 30.8 grains.
+The
+sample
+after oven-drying weighed 27.5 grams.
+Find the moisture content of the
+sample.
+p
+<
+(30.8-27.5)
+330
+19
+Percentage moisture =-
+-X 100 ~^-z=y^-
+27.5
+li. 5
+
+--- PAGE 64 ---
+58
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+2.2111. Electric Moisture Meters.
+Electric moisture meters give an instanta-
+neous moisture content reading, based on the effect of the moisture on the electrical
+resistance or capacity of the piece.
+The values are affected by a number of factors,
+such as density,
+species, temperature, moisture distribution, and thickness of ma-
+terial.
+The presence
+of glue
+or paint may
+affect the accuracy.
+Many moisture
+meters are limited to readings covering a moisture-content range between 7 and 25
+percent.
+Moisture meters
+will not
+satisfactorily serve in place
+of kiln samples used in
+dry kilns for guidance of kiln operation.
+However, the work of an inspector charged
+with the control of moisture
+in wood may be greatly facilitated and the value of
+his judgment enhanced by
+the
+use
+of
+electrical
+moisture-indicating instruments.
+These instruments give instantaneous readings and are sufficiently accurate for the
+control of moisture content of materials being processed, or purchased under mois-
+ture content specifications.
+Since such materials are generally of a single species,
+the necessary corrections can be made
+for species and for temperatures, approxi-
+mately between 30° and
+100°
+F.,
+thus greatly simplifying the procedure.
+Occa-
+sional check readings should be made
+against
+stock
+of the same shipments and
+species where the moisture content has been determined by the oven-dry method.
+Such check readings should preferably be made before cutting on the same section
+used to determine moisture content by the oven-dry method.
+It
+is not
+to be ex-
+pected that the moisture-meter readings will agree absolutely in each case with the
+oven-dry determination.
+When differences occur, the oven-drying tests should be
+resorted to and should take precedence over the meter readings.
+The following example indicates how a moisture meter might be used: A given
+lot of airplane spruce
+is
+to be taken from the storage piles into the cut-up room.
+The specification limits the moisture content to a range of 1% percent above and
+below the average and states the average acceptable.
+Oven-dry tests are made of a
+number of pieces, and moisture-meter tests are made on the same pieces.
+The first
+test may indicate a moisture content of 9 percent, and the meter may indicate 10
+percent after corrections for species and density have been made.
+It may be as-
+sumed that
+all other material of the same
+species,
+density, and moisture content
+would give the same reading on the meter.
+The inspector may correct for the dif-
+ference between the two methods of moisture determination and continue with the
+meter method to check as many pieces as are necessary, even all pieces under some
+conditions,
+discarding
+all material
+that
+did
+not
+fall within the acceptable range.
+All material not acceptable could be returned to the storage shed for further con-
+ditioning.
+Moisture meters would be valuable also
+in checking the moisture con-
+tent of air-dry stock before shipment from the mill.
+The electrical-resistance type is generally supplied with a range of measurement
+of 7 to 25 percent, although some meters have special scales extending to about 60
+percent.
+Measurements made within the higher range are not
+, however, so accurate
+as those made at from 7 to 25 percent.
+Fortunately, most measurements needed are
+between 7 and 25 percent, and the higher range is used only in special cases.
+Measurements of electrical resistance with a portable meter become very
+dif-
+ficult to make at moisture content values below 7 percent because of the high elec-
+trical resistance of dry wood.
+The electrical resistance of wood varies with species
+and temperatures, and corrections should be applied for these variables.
+Instruments which measure the electrical capacity of wood may also be used for
+determining variations in moisture content.
+In this case, a high frequency field
+is
+created by the instrument adjacent to the electrode.
+Materials introduced into this
+electrical field absorb energy and affect the flow of current in the circuit
+.
+This change
+is shown by a meter which may contain a calibra tion for a single species, or an arbi-
+trary scale may be used which can be converted into moisture content readings from
+tables supplied by the manufacturer.
+Variations in the density of the wood affect
+
+--- PAGE 65 ---
+WOOD
+59
+the accuracy of the capacity-type instrument, so that the instrument should not be
+used indiscriminately on species of unknown calibration.
+The following conditions should be observed in making moisture content tests
+electrically:
+(1) Follow the written instructions of the manufacturer of the moisture meter.
+(2) Apply corrections for species, temperature, or density when necessary.
+(3) Measurements should be made at several points on the faces of the boards.
+(4) No measurements should be made on the end of lumber.
+(5) Moisture content values should not be assumed when calibrations have not
+been made.
+(6) Drive needle points
+full depth and with the current
+flow
+parallel
+to the
+grain.
+(7)
+Plate electrodes, such as on capacitance type meters, should not be used
+on rough lumber.
+(8) Measurements should not be made on lumber which has been subjected to
+surface wetting, such as rain or fog.
+(9) Measurements above 100° F. or below 30° F. are not recommended because
+of lack of satisfactory temperature-correction data.
+(10)
+If the needle points cause splitting of veneers, disregard the readings.
+(11) Moisture content measurements with needle electrodes on plywood should
+be regarded as approximate, since glue lines containing electrolytes are likely to show
+moisture-content values that are too high.
+(12) The use of moisture meters on material thicker than
+1 inch should be per-
+mitted
+if contact points are driven to a depth equal to one-fifth of the thickness of
+the material.
+(13)
+If a moisture meter does not function properly, it should be returned to the
+manufacturer for recalibration.
+2.22. Rings per Inch.
+Kings per inch, or its inverse, the width or thickness of
+growth rings, is a measure of the rate of diameter growth of the tree.
+Rings per inch
+is not in any species a definite criterion of strength.
+Specifications for aircraft woods
+include requirements for a minimum number of rings per inch in order to decrease the
+probability of low strength values in coniferous species and the likelihood of objec-
+tionable warping in either hardwoods or softwoods and to promote uniformity in
+the material
+(sec.
+2.414).
+Material below the required minimum
+specific gravity
+and having low strength values is more likely to be found among pieces of coniferous
+species with a number of rings per inch below the specified minimum or, regardless
+of
+species, among
+pieces with an
+exceptionally large number
+of
+rings per
+inch.
+Rejection of material on the basis of the number
+of rings per inch
+is somewhat
+arbitrary, because
+it does not always reflect the strength of the piece.
+Rings per inch should be measured at the end of a piece of wood and in a radial
+direction.
+Measurement or count on a longitudinal surface
+is accurate only when
+the surface
+is truly radial or edge grained.
+2.2 3. Amount of Summerwood.
+The inspector should not use the amount of
+summerwood as a sole criterion for acceptance or rejection of airplane material.
+In some
+species
+the proportion
+of summerwood
+is indicative
+of the
+specific
+gravity and therefore of the strength.
+This is particularly true of southern yellow
+pine and
+Douglas-fir.
+After some
+practice
+the
+inspector
+will
+be
+able,
+through
+observation of the proportion of summerwood, to form a fairly good idea of whether
+any particular piece is considerably below, considerably above, or near the required
+specific
+gravity.
+The proportion
+of summerwood,
+however,
+is not
+a
+sufficiently
+accurate indicator of strength to permit its use as the sole criterion for the acceptance
+or rejection of airplane material.
+For example, a piece of wood may contain a large
+percentage of summerwood and show a good weight but yet may be brash because
+of such defects as compression wood, compression failures, and decay.
+Also sum-
+
+--- PAGE 66 ---
+60
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+mcrwood
+itself may be of variable density, though such differences are not easily
+recognized.
+2.24. Shrinkage of Wood.
+Wood,
+like many
+other
+materials,
+shrinks
+as
+it
+loses moisture and swells as it absorbs moisture.
+While wood in its green condition as it comes from the tree may contain water
+ranging in quantity from 30
+to 250 percent, based on the weight of the oven- dry
+wood, the removal of only the last 25 or 30 percent of this moisture content has the
+effect of shrinking the wood on drying out; and since wood in service is never totally
+dry,
+the
+possible shrinkage
+effect
+falls within a relatively narrow range.
+Water
+is held in the wood in two distinct ways—imbibed water in the walls of the wood
+[ Figure
+2-15.—Effects of radial and tangential shrinkage on the shape of various sections in drying from the green condition.
+cells and free water in the cell cavities.
+When wood begins to dry, the free water
+leaves
+first,
+followed by
+the imbibed
+water.
+The
+fiber-saturation point
+is
+that
+condition in which
+all the free water has been removed but
+all the imbibed water
+remains; for most woods this point is between 25 and 30 percent moisture content.
+Wood changes size with moisture content only below the fiber-saturation point.
+Since, in seasoning green wood, the surface dries more rapidly than the interior and
+reaches the fiber-saturation point first, shrinkage may start while the average mois-
+ture content
+is considerably above the fiber saturation point.
+Wood shrinks most
+in the direction of the annual growth rings
+(tangentially), about one-half to two-
+thirds as much across these rings (radially), and very little, as a rule, along the grain
+(longitudinally).
+The joint effects of radial and tangential shrinkage on the shape
+of various sections in drying from the green condition are illustrated in figure 2-45.
+When a board is excessively cross-grained the lengthwise shrinkage is a combination
+of crosswise and longitudinal shrinkage, resulting in a greater shortening than would
+occur in a straight-grained piece.
+Shrinkage
+is usually expressed as a percentage
+of the green dimensions, which represent the natural size
+of the piece.
+Table 2-8
+
+--- PAGE 67 ---
+WOOD
+61
+gives the range in shrinkage
+in
+different
+directions for most of the commercially
+important native species.
+Table
+2-8.
+Range in average shrinkage of a number of native species of wood
+Direction of shrinkage
+From green to
+oven-dry condi-
+tion
+From green to
+air-dry condition
+(12- to 15-percent
+moisture content)
+Tangential
+.
+-
+-
+Percent of green size
+4. 3-14.
+2. 0-
+8. 5
+.1-
+.2
+7.
+21.
+Percent of green size
+2.
+1
+-
+7.
+1.
+-
+4. 2
+. 05-
+. 10
+3. 5 -10. 5
+Radial- .
+. _
+. .
+-
+-
+— —
+Longitudinal
+_
+Volumetric.-
+.
+_
+-
+Shrinkage in drying is proportional to the moisture lost below the fiber-satura-
+tion point.
+Approximately one-half the
+total shrinkage possible has occurred
+in
+SITKA SPRUCE.
+ii
+u
+\o
+\
+\
+\
+\ -\
+\ r
+A
+\
+\
+\
+k
+\
+\ V
+*
+O
+10
+Z0
+30
+40
+SO
+60
+MOISTURE CONTENT(PERCENT)
+Figure 2-46.- Moisture content-shrinkage relation in Sitka spruce lumber.
+wood seasoned
+to an
+air-dry condition
+(12-
+to
+15-percent moisture content) and
+about three-fourths in lumber kiln dried to a moisture content of about
+7 percent.
+Hence,
+if wood
+is
+properly
+seasoned,
+manufactured,
+and
+installed
+at a moisture
+content in accord with its service conditions, there is every prospect
+of satisfactory
+performance without serious changes in size or distortion of section.
+In general the heavier species of wood shrink more across the grain than
+the
+lighter ones.
+Heavier pieces also shrink more than lighter pieces of the same species.
+When shrinkage
+is more of a factor than hardness or strength, a lightweight species
+should be chosen.
+When both hardness or strength and low shrinkage are very
+important, then an exceptional species, such as black locust, should be chosen.
+The average tangential, radial, and volumetric shrinkages for individual species
+dried to an air-dry, kiln-dry, or oven-dry condition are given
+in table 2-9.
+568338—44
+5
+
+--- PAGE 68 ---
+62
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+
+--- PAGE 69 ---
+WOOD
+OOiOiHtOiCOININOiOO>OONOOWOH(M
+OlMOOffiClHOMCKC-tO'fOC'NOJO
+so od ©
+"5 od «c> to
+ift i> irf tJ< t>
+to to
+S>NONOQ0I0Ha0KO0iKTl<NiQO<0
+rfrtOi0O<OOO(NCO00MON0)'t-tO
+0!NNONtD-HNOW'tON»INOn-l<
+r-
+Si
+"5 *
+QQ
+o o-<
+sPh
+.
+_
+(-
+„ ^
+1
+\ u £ *
+«
+a>
+1
+1
+o3
+aj T3
+oj rr
+-
+i
+1 >rj -o ®
+/J
+u : 5 o
+a) ?
+Ph Ph W Ph an !> IS-
+1!
+o a
+•™o
+lb
+O
+S3
+a cms
+s -
+C3
+a;
+a)
+vi o «S
+d
+3
+,
+a o
+S
+a
+is
+S
+3
+a> .5*gsb
+2 «£a
+-c -c
+'- 5 5 S x
+'
+o ^
+-C
+-
+5 = « Sf* IS
+M m pa £ o 3 a £
+O O H o o o
+fO £
+Q>
+Q>
+W W tjjObObjDWjCJjCuL
+.ex: > £ > > > >
+
+--- PAGE 70 ---
+64
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Theoretically the normal moisture-content-shrinkage relation may be considered
+a direct one, from zero shrinkage at the fiber-saturation point to maximum shrinkage
+at zero moisture content.
+Actually, however, some shrinkage takes place before
+the average moisture content reaches the fiber-saturation point and the relationship
+in lumber of commercial size
+is somewhat similar to the curves in figure 2-46.
+For
+practical
+use,
+a
+straight-line
+relation may be assumed without appreciable
+error.
+The
+curves represent
+average
+values, and
+the shrinkage
+of an individual board
+may, of course, be above or below the amount indicated.
+Changes in moisture content in seasoned wood, such as those caused by seasonal
+variation
+in relative humidity, produce changes in dimension proportional
+to the
+moisture-content changes.
+For example, assume that a piece of flat-sawed Sitka
+spruce board
+at
+12
+percent moisture content
+loses
+5
+percent
+of moisture.
+The
+shrinkage curve (marked "tangential") indicates that from the green condition to
+7-percent moisture
+content
+the
+shrinkage
+in width would
+be, approximately, 5%
+percent
+; and to 12-percent moisture content, would be 4% percent.
+The difference
+of iy4 percent indicates the shrinkage in width of the board because of the 5-percent
+loss in moisture.
+These curves represent average values, and the shrinkage of an
+individual board may be below
+or above
+the
+indicated amount.
+2.240.
+Effects
+of Change
+of Moisture
+Content on
+Curved Wood
+Members.
+Changes in moisture content with accompanying shrinkage or swelling, cause curved
+wood members
+(a) to increase or decrease in curvature
+if they are free to do so, or
+(b) to be subjected to internal stress
+if they are so held that the curvature cannot
+change.
+These phenomena are perhaps most readily understood by a considera-
+tion of what happens when moisture changes take place in a continuous circular
+ring formed by laminating.
+When moisture
+is
+lost the
+radial dimension,
+being
+across the
+grain,
+tends
+to
+decrease, whereas the inner and outer circumferences,
+being in the direction of the grain, have only an extremely small tendency to shrink.
+Consequently, the difference between the two circumferences remains too great for
+the decreased radial dimension.
+The result is a tension stress in the radial direction
+(across
+the grain
+of the wood), which tends
+to shorten the outer circumference,
+causing compressive
+stress along
+it, and
+at the same time tends
+to lengthen the
+inner
+circumference,
+causing
+tension
+stress.
+Conversely,
+increase
+in
+moisture
+content
+results
+in
+radial
+swelling, which
+causes
+radial
+compression;
+tension,
+or
+stretching, along the outer circumference; and compression along the inner circum-
+ference.
+If the radial shrinkage or swelling is uniform around the circular ring, the stresses
+mentioned above will also be uniform around
+it and there will be no tendency for
+the shape
+to change.
+A ring that
+is other than circular or that varies in radial
+thickness may be expected to change shape.
+With any type
+of curved member, other than
+a continuous ring formed by
+two concentric
+circles and
+in which the grain runs circumferentially, a change in
+moisture content will tend to cause a change of shape.
+Loss
+of moisture and
+the accompanying shrinkage tends
+to make
+the usual
+curved piece more sharply curved and to increase the angle between the ends of the
+piece.
+Swelling has the opposite effect
+(fig. 2-47).
+In either case, the percentage
+change of angle in members that are not restrained
+is approximately the same as
+the percentage change
+in
+the
+radial dimension
+of the
+piece.
+Thus,
+if a curved
+member has a central angle of 100°, radial shrinkage of
+1 percent will change the
+angle to 101° and swelling of 10 percent will change it to 99°.
+These effects of shrinkage account for the common observations of the change
+of shape of curved wood members.
+Ordinarily, the changes that will occur cannot
+be accurately predicted, and it is consequently necessary either to make such pieces
+oversize and provide for machining at the time of assembly into a structure or to
+depend on springing the member into place.
+
+--- PAGE 71 ---
+WOOD
+65
+Since shrinkage and swelling arc least in the direction of the width of an edge-
+grained face, laminations of a curved laminated member should be flat-grained on
+their curved faces to make the member edge-grained on its noncurved faces, so that
+shrinkage and swelling in the direction of the radius of the curve, and the resultant
+stresses,
+will be minimized.
+Thus solid stock which has been bent sufficiently to upset the fibers considerably
+on the concave side has a stronger tendency
+to straighten on absorbing moisture
+than laminated stock
+of the same
+total radial thickness because the upset fibers
+tend to straighten out lengthwise on absorption of moisture.
+Figure 2-47.—Changes in curved wood member caused by shrinkage and swelling.
+Not drawn to scale.
+2.3. DEFECTS AND BLEMISHES.
+2.30. General.
+A defect
+is any irregularity occurring in wood that may lower
+its strength.
+A blemish
+is anything, not necessarily a defect, marring the appear-
+ance of the wood.
+The
+following
+is
+a
+discussion
+of
+the nature and
+occurrence
+of
+defects and
+blemishes
+in
+aircraft lumber.
+Some
+of
+the
+defects here
+described
+are common,
+whereas others seldom occur in aircraft lumber or occur only in one or two species,
+and are recorded here mainly to afford reference in the event they are encountered
+by inspectors.
+The extent to which defects and blemishes are permissible in air-
+craft parts is given in section 2.4.
+The frequency with which
+the more important defects and blemishes occur in
+nine softwoods that are in current or prospective use for aircraft
+is shown in table
+2-10, which
+is based on a study of commercial lumber made at a number of repre-
+sentative
+mills.
+These data apply
+to
+the quality
+of lumber from which
+aircraft
+stock would necessarily be obtained, but most of
+this quality would
+fall short of
+aircraft
+specifications because
+of
+excessive
+cross grain
+or other
+defects.
+Defects
+would necessarily be relatively small in lumber grades of C and better, but, even so,
+some would be too large to meet aircraft specifications.
+
+--- PAGE 72 ---
+66
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Table
+2-10.
+Frequency of defects in present and prospective aircraft softwoods
+[Based on lumher of C and Bettor quality except as noted]
+Species
+Sitka spruce
+Douglas-fir (coast type)
+Western hemlock
+White fir>_
+_
+Western larch
+Sugar pine
+Western white pine
+Ponderosa pine
+Redwood
+2
+Percent of pieces in which the following defects occurred:
+Pitch
+pock-
+ets
+14
+33
+10
+8
+ti
+10
+1
+Pitch
+streaks
+24
+28
+6
+6
+(33
+Pitch
+5
+L0
+27
+7
+Knots
+17
+8
+6
+66
+35
+15
+45
+24
+12
+Worm
+holes
+10
+4
+1
+Bark
+pock-
+ets
+26
+2
+Dark
+streak
+76
+27
+Season
+checks
+4
+10
+19
+39
+3
+20
+14
+5
+Stain
+Blue
+Brown
+1
+4
+21
+1 Averaee for D and Better Inland Empire white fir and C and Better California white fir.
+• Average for A Finish and B Finish- no C or D Finish made.
+2.301. Knots.
+A knot is the base of a limb embedded in the tree trunk.
+Nor-
+mally a knot starts at the pith and increases in diameter from the pith outward as
+1
+!
+mam
+WW
+t
+3
+Figure 2-48.— Intergrown round knots in yellow pine.
+
+--- PAGE 73 ---
+WOOD
+G7
+long as the limb
+is alive.
+Occasionally, knots start at some distance from the pith
+as a result of the development of adventitious shoots.
+As long as a limb remains alive, its fibers interlace with those of the tree trunk,
+producing an intergrown knot
+(fig. 2-48).
+Many of the lower limbs die, however,
+Figure 2-49.—Above: An encased knot (hemlock).
+Below: A spike knot, intergrown for most of its length (yellow pine).
+after a longer or shorter time as a result of shading, or other causes, but they may not
+break off for many years thereafter.
+After the death of a limb, the wood formed in
+the tree trunk makes no further connection with
+it but grows around
+it, producing
+an encased knot, which may be either loose, so that it will drop out, or tight, so that
+it is held in position when the trunk is sawed into lumber
+(fig. 2-49).
+When lumber
+
+--- PAGE 74 ---
+68
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+dries, the knots shrink more than the surrounding wood, thereby becoming checked
+or loosened.
+Eventually, the dead limb breaks off, the stub heals over, and the distortion of
+grain
+in successive growth layers becomes less and less with increasing diameter of
+the trunk, until finally clear wood with normal grain is produced in the area covering
+the knot.
+A knot cut through transversely
+is known as a round knot, one cut through
+obliquely
+is known as an oval knot, and one cut through lengthwise
+is known as a
+spike knot
+(figs. 2-48 and 2-49).
+A sound, tight knot is solid across its face, fully as
+hard as the surrounding wood, shows no signs of decay, and is so fixed by growth or
+position that it will firmly retain its place in the piece.
+Only knots of this charrcter
+Figure 2-50.—Method of measuring a knot.
+Only the actual diameter, A, is measured.
+Bottom, a board with a knot shown in
+cross section.
+are permitted in airplane stock.
+In the sizes allowed in aircraft stock, intergrown
+knots are necessarily tight and encased knots may be tight.
+Knots are objectionable on account of the distortion and, in encased knots, the
+discontinuity of the grain which they produce, thereby weakening the wood, causing
+irregular shrinkage, and making the machining more difficult; when loose they are
+likely to drop out; in resinous species pitch often exudes more freely from knots
+than from the clear wood; and
+in
+all woods knots are considered as marring the
+appearance of the lumber unless painted.
+In measuring a knot, a question frequently arises as to whether only the knot
+itself or the more
+or
+less
+distorted
+grain immediately surrounding
+it should be
+included
+in
+the measurement.
+This
+distinction
+is
+plainly shown
+in
+figure
+2-50.
+The knot proper, A, measured % inch, as compared with % inch for the total area,
+B, which included a surrounding zone where the grain met the surface at an angle
+of about 45°.
+The method of measurement, therefore, would often determine the
+acceptability of the piece.
+The correct method is to measure only the knot proper,
+
+--- PAGE 75 ---
+WOOD
+69
+Figure 2-51.—Typical break in diagonal-grained specimen (Douglas-fir).
+as at A, because the exact boundaries of the knot can be determined more accurately
+as a rule than the boundaries of the surrounding 45° wood and because admissible
+knot sizes are intended to apply only to the knot itself.
+Figure 2-50 also shows a
+cross section of a knot of equal size as seen on the edge grain; in this view the change
+in direction of the rings as they approach the knot is plainly seen.
+2.302. Cross Grain.
+Cross gram in wood means that the fibers are not parallel
+with the major axis of the piece.
+Cross grain
+is objectionable when excessive because
+it reduces
+strength, may
+cause warping
+in
+drying, and makes
+it
+difficult
+to
+surface wood
+smoothly when
+planing against the grain.
+
+--- PAGE 76 ---
+70
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+Cross grain may be either of two major types, namely, diagonal grain
+(fig. 2-51)
+or spiral grain
+(fig. 2-52), or a combination of the two.
+2.3020. Diagonal Grain.
+Diagonal
+grain
+is
+deviation
+of
+the
+plane
+of
+the
+annual rings from parallelism with the longitudinal axis of a piece of wood.
+It
+is
+due
+to such natural causes as crook,
+bulges, butt
+swell, pitch and bark pockets,
+blister grain, some types of curly grain, healing over of knots and injuries, and to
+Figure 2-52.—Typical break in spiral-grained specimen (Sitka spruce).
+the common practice of sawing tapered logs parallel to the pith instead of to the
+bark.
+Slope of grain
+is usually expressed as the number of units in which a deviation
+of one
+unit
+occurs.
+(The
+smaller the number
+of units
+in which unit deviation
+occurs, the steeper is the slope.
+Thus,
+1 in 16 is a steeper slope than
+1 in 18.)
+For convenience, the slope of grain in the radial plane, no matter what its cause,
+is usually spoken of as diagonal grain.
+Since diagonal grain
+is usually more easily
+
+--- PAGE 77 ---
+WOOD
+71
+detected than
+spiral
+grain, examination should
+first be made
+for diagonal
+grain.
+If its slope
+is steeper than permissible, an examination for spiral grain need not be
+made.
+2.3021.
+Spiral Grain.
+Due
+to an unknown cause, the fibers in some trees are
+not vertical but follow a spiral course similar to the stripes on a barber pole or a
+stick of candy.
+Spiral grain in peeled posts, poles, or tree trunks
+is evidenced by
+inclined rather than vertical season checks, as in the dead tree to the left in figure
+2
+53.
+The spiral
+is more often right-handed,
+as in a right-hand screw thread,
+in
+the
+tree.
+Ordinarily, the steepness of the spiral decreases from the bark toward
+the pith of the tree but this
+is not universally true.
+Also, the slope of the spiral
+Figure 2-53.—Straight grain and right-hand spiral indicated by direction of seasoning checks in dead tree trunks.
+sometimes
+fluctuates,
+especially near the butt
+of the
+tree,
+so
+that
+a block
+split
+radially will show a ruffled or fluted appearance as in figure 2-54.
+Truly
+straight-grained lumber
+cannot
+be
+produced
+from
+spiral-grained
+trees,
+but with wide flat-sawn boards or cants sawed some distance from the
+pith, the
+slope of the spiral can be reduced by proper attention
+in edging and ripping such
+pieces into smaller ones.
+On the other hand, false or artificial spiral grain
+is pro-
+duced when straight-grained timber
+is not cut parallel to the fibers as seen on the
+tangenital surface.
+Superficially,
+it has the appearance of natural spiral grain and
+should
+be
+similarly
+regarded.
+It
+can sometimes
+be
+distinguished
+from
+natural
+spiral grain, however, by the
+fact that the slope does not change from one
+side
+to the other and,
+therefore, when the piece
+is split radially the
+split surface will
+be
+flat, whereas
+in
+naturally
+spiral-grained wood,
+the changing
+direction
+of the
+spiral may cause the split surface to be twisted.
+When spiral grain
+is present, the principal evidence on a radial surface of a piece
+is the tendency for the surface to be chipped in planing and for a splinter raised by
+a knife point to run into the piece instead of tearing out to a uniform depth.
+
+--- PAGE 78 ---
+72
+ANC BULLETIN—WOOD AIRCRAFT INSPECTION AND FABRICATION
+The principal indicators of the fiber direction on
+a truly tangential (plain-sawed
+or flat-grained) surface are checks,
+pores,
+resin ducts
+(fine,
+brownish lines
+in the
+pines,
+spruces,
+Douglas-fir, and
+tamarack), wood rays
+(most
+conspicuous
+in
+the
+oaks), the course taken by a scribe used as described later in this section, the direc-
+tion in which a free flowing ink or dye spreads, the course taken by a narrow strip
+lifted by a knife point or turn
+out, and the surface
+splits formed when
+a sharp
+pointed
+tool, such as a
+chisel,
+is pushed into the piece and subjected
+to a prying
+action.
+The scribe test consists in drawing a sharply pointed
+steel scribe in the direction
+in which the grain seems to run.
+Enough pressure must be applied so that the point
+will penetrate the wood slightly and freedom of lateral movement must be enough to
+allow the point to follow the grain.
+When properly used, the scribe test is one of the
+best methods for determining the direction in which the grain runs on a surface of a
+piece of wood if slight scra

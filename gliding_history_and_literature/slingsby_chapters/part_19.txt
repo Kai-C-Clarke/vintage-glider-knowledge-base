@@ -1,0 +1,575 @@
+ new 
+class. In the 11)76 World Championships he flew the 
+Finnish designed Pik 20 (with flaps as permitted under 
+the 11)74 rules) to third place in the Standard Class, and 
+beat many of the large Open Class sailplanes when 
+flying against them on the same courses. He broke the 
+world record for distance over a triangular course with 
+a flight of 720km (446 miles). Immediately after return­ 
+ing from Finland he made a proposal to his chairman, 
+Sir Leonard Redshaw, for the design of a new 15m 
+sailplane using a carbonfibre spar and new combined 
+flap-airbrakes which he had outlined in talks with the 
+Glasfliigel company the previous year. (This ingenious 
+flap design was incorporated in the Cilasfliigel 
+Mosquito.) The fuselage would be based on the 
+Kestrel, but without the excessive waisting which had 
+caused so much aerodynamic trouble. Redshaw, now 
+in his last year before retirement, agreed funding of 
+£250,000 for the project. The technical department 
+estimated the aircraft would be ready for test flying 
+within one year.
+Slingsby's accordingly announced the Type-65 Vega. 
+Deliveries were promised for June 1977. More capital 
+was invested in tooling than for any other British 
+sailplane, in an effort to keep the labour costs down.
+During 1976 a whole new crop of 15m Racing Class 
+sailplanes appeared. They were based on the old 
+breed, often using the same fuselages and tail units but 
+with new wing profiles and flaps, ailerons coupled. The 
+Mosquito and LS-3 (a much more sensible design than 
+the LS-2) were German, and from Finland came the 
+PIK 20D, which had a carbon fibre spar. All of these 
+were available before the end of the year. The ASW 20 
+from Schleicher came on the market in 1977, and the 
+Grob Speed Astir, the Glaser-Dirks DG 200 and the 
+Schempp-Hirth Mini Nimbus soon followed.
+The Slingsby Vega was the first sailplane ever to be 
+designed from the outset for a carbonfibre main wing 
+spar, stronger and stiffer yet lighter than glass. The PIK 
+20D had inherited a 17 per cent thick wing root from 
+the 20B, so was not taking full advantage of the new 
+material. The Vega wing was 15 per cent thick through­ 
+out. The Wort maim profiles were similar to those of the 
+Kestrel and all the other contest sailplanes of the 
+period. Balsa wood was no longer used for the filling of 
+the sandwich skins, having been replaced by plastic 
+foam. There were, of course, flaps with ailerons 
+coupled to vary the camber across the whole span.
+For landing, the entire trailing edge inboard of the 
+ailerons, earning the flaps, pivoted to present nearly
+vertical airbrake surfaces both above and below the 
+wing. In normal flight the flaps could be moved inde­ 
+pendently for slow and fast flying. Burton had his own 
+ideas about the mechanism, but had long arguments 
+with the company's technical director and was finally 
+convinced that the loads did not have balanced paths 
+through the structure. An acceptable solution was 
+found but it was complicated and seemed likely to 
+create maintenance problems in the future.
+Pilots were used to having two separate levers; one 
+for the flap, another for the brakes. In the Vega one 
+lever operated both controls. In the forward position 
+the flaps could be drooped or raised as required for 
+general flying. For landing, the lever was brought back 
+through a gate and the full brake was available. The 
+system gave some trouble in the prototype and was 
+modified several times. In the final arrangement the 
+flap settings were varied by moving the lever in a rotary 
+sense, a spring-loaded latch holding them in any 
+desired position. For opening the brakes the lever was 
+pulled fully back. From the pilot's viewpoint the 
+system worked well.
+An interesting point was that the glass skin on the 
+upper side of the flap-brake was continuous, forming a 
+perfect seal. As the flaps were moved up or down 
+through their range of 8° either side of central, the 
+glass skin adjacent to the hinges flexed. The only 
+visible discontinuity in the wing surface was at the 
+forward edge of the brakes.
+Provision was made for 100kg (2201b) of water 
+ballast in plastic bags inside the wings, as had become 
+normal practice. The amount of ballast permitted in 
+the Vega was subsequently increased to 160kg (3521b), 
+about the weight of two extra pilots.
+The fuselage front end and cockpit were based 
+closely on the Kestrel. Indeed, the moulds were made 
+from the same plug, but the somewhat too sudden 
+contraction of the cross-section aft was smoothed out, 
+avoiding flow separation. The canopy was in one piece, 
+pivoted at the front and held open, when required, by a 
+gas strut. An inflatable pneumatic seal, pumped up 
+with a small hand bellows after closing the canopy, 
+was provided. The landing wheel was large, also 
+coming from the Kestrel and giving more ground clear­ 
+ance and a higher ground angle of attack than any of 
+the other 15m sailplanes. The fin and T tailplane used 
+the latest rather thick but low-drag symmetrical pro­ 
+files developed by Wortmann for such applications. 
+The tailplane junction with the fin was particularly 
+neat, a small section of the fin being permanently 
+attached and faired to the tailplane so that there was 
+no gap or leakage at the junction. A neat fairing closed 
+the place at the top of the rudder where, on most other 
+sailplanes, there was an awkward air trap. A little drag 
+was saved by making the tailwheel retractable.
+There were many other good features of detail. 
+George Burton wrote and said on many occasions that 
+there could be no vast margin in performance over the 
+rival racing class aircraft, all of which were using 
+similar wings, similar fuselages and of course had the
+250
+
+--- PAGE 253 ---
+T-65, VEGA
+same span. The combined effect of all the small 
+improvements would make the difference. At the same 
+time the cockpit was slightly larger and the tailplane a 
+little greater in area, so the Vega would be more 
+comfortable to sit in for long flights and more stable.
+'Vega is cleana', 'safa', 'lighta', a 'betta glida', the 
+advertisements said. Everything about the new 
+sailplane looked good, and about 50 were ordered even 
+before the prototype had flown. Vega was 'a generation 
+ahead of its competitors', or was expected to be so 
+when in production. The first flight took place early in 
+June 1977, the month in which customers had origi­ 
+nally been led to expect delivery.
+Sir Leonard Redshaw retired and a new chairman 
+took charge of Vickers-Slingsby.
+Flight certification had to be completed and a lot 
+remained to be done after the preliminary air tests. At 
+the most forward position of the e.g. elevator authority 
+was lacking. Further modifications of the flap-brake 
+system proved necessary. Burton felt that everything 
+must be completely right before he could deliver 
+sailplanes to waiting customers, but the technical 
+department of the company was greatly preoccupied 
+and there were delays. The first production batch, it 
+was now said, would be ready in the spring of 1978.
+Most of the work going on at Vickers-Slingsby at this 
+time was to do with marine engineering. The last of 
+four miniature glass-plastic submarines was approach­ 
+ing completion, a one-man deep-sea diving apparatus 
+was under development, and there was much going on 
+in associated electronics. Equipment for naval 
+minesweepers ranging from washbasins to engine 
+mountings was being made. A gondola for a small 
+airship was built and an order for 15 wooden T-61 
+(Scheibe Falke) motor-gliders for the ATC was filled.
+As a result of a bargain between British Aerospace 
+and the Romanian Government, the BAG One-Eleven 
+airliner was to be built under licence by the ICA air­ 
+craft factory at Brasov and motor-gliders and 
+sailplanes produced by ICA were to be sold in the UK. 
+Vickers asked Slingsby to undertake this agency. 
+Although the price was low, the IS-28M2 motor-glider, 
+shown at Farnborough, was not easy to handle in a 
+crosswind take-off and Burton was not impressed. The 
+IS-28 and 29 Brasov all-metal sailplanes proved quite 
+popular and, coming from a state subsidised factory, 
+were offered at a good price on the British market.
+The Vega, it seemed, was in danger of being 
+squeezed out of the Slingsby works altogether. In 
+March 1978 there was still only one complete, with a 
+few pre-production fuselage shells waiting for wings 
+and tails. Derek Piggott flew the prototype a few times 
+briefly and reported favourably though cautiously.
+The World Championships, held every two years, are 
+important occasions for sailplane manufacturers to 
+demonstrate their wares and to have them thoroughly 
+tested under severe conditions. On the ground, quick 
+rigging and de-rigging after outlandings are necessary, 
+and aerial racing goes on in all the variety of weather 
+conditions that can appear during a couple of weeks.
+In July 1978 the great meeting was at Chateauroux in 
+France. The Racing Class contest was won by Helmut 
+Reichmann, flying a very special aircraft from the 
+Brunswick Akaflieg. The SB 11 had huge flaps which 
+not only changed the camber but also increased the 
+total wing area for soaring and retracted entirely for 
+high-speed flight, It was an expensive, heavy aircraft 
+and not easy to fly. It looked as if the rulemakers had 
+once again created a monster. Reichmann himself 
+wrote afterwards that the CIW needed to think yet 
+again.
+The Vega was at last said to be ready, but not for 
+contest flying, and the British team could not use it. 
+The second off the production line was brought to 
+Chateauroux only for demonstration. There were signs 
+of hasty preparation. Unlike the other sailplanes, 
+which had the usual moulded gelcoat exterior, the 
+Vega had an acrylic spray-painted finish. In places 
+there were paint runs that had not been rubbed down, 
+which, whether or not they had any important effect on 
+the boundary layer, did not impress those who 
+inspected the aircraft. The ailerons hinge gap was 
+unsealed. The Vega was flown by a good many people 
+and was well liked on the whole, though the rate of roll 
+was rather less than desirable, the unsealed ailerons 
+feeling rather spongy. It was difficult to assess all- 
+round performance while the competing aircraft were 
+far away on task, but as one of those who tried it 
+remarked, 'with the proverbial ha'porth of tar it should 
+be a very good ship'. For much of the fortnight the Vega 
+was left tied down outside. It was hard to avoid con­ 
+cluding that the Vickers-Slingsby company was not 
+very interested in what happened to it. The Vega was 
+now well over a year late in reaching production and 
+the market was melting away.
+Meanwhile, George Burton had taken the first proto­ 
+type to important competitions at Hahnweide in 
+Germany, and in June, at the invitation of Slingsby's 
+American agent Duane Sprague, he agreed to fly at the 
+US Nationals. Delays in preparing his Vega for this 
+event were such that the sailplane had to be air­ 
+freighted to San Francisco. From there, arrangements 
+for Sprague to crew for him having fallen apart, Burton 
+by himself was obliged to tow the glider in its trailer to 
+Ephrata in Washington State. He was further delayed 
+for two days by long arguments with his new company 
+chairman over the transatlantic telephone. Too late for 
+the start of the competition and without a proper crew, 
+he nevertheless flew some of the tasks against the 
+latest German aircraft. On one occasion he beat 
+George Moffatt, the eventual winner in an ASW 20, 
+round a 300km triangle, so the Vega was obviously a 
+good performer, but there was criticism from the 
+knowledgeable Americans of the smoothness and 
+finish of the wings. The good results were attributed to 
+Burton's well recognised skill, not to the Vega.
+After these experiences Burton was forced to admit 
+that the Vega was about 3 per cent worse in the glide 
+than the ASW-20 and LS-3. Standards of wing profile 
+accuracy at Kirbymoorside were not yet good enough.
+251
+
+--- PAGE 254 ---
+SLINGSBY SAILPLANES
+There was no other explanation for the apparent dis­ 
+advantage in performance, for, as he had said before, 
+there was little difference on paper between any of the 
+Racing Class sailplanes at this time.
+Soon after his return to Kirbymoorside, Burton pre­ 
+sented the works manager with a copy of the German 
+specification for the waviness of sailplane wing sur­ 
+faces. His staff apparently knew something that he had 
+not yet been told. The manager bluntly remarked that 
+there was no intention of trying to meet such stan­ 
+dards. It was clear that Burton s time at Slingsby was at 
+an end. On 13 September 1978, after a final very brief 
+interview with the chairman, he left the company. 
+Nobody in the gliding movement was very surprised. 
+Burton felt he had been made a scapegoat for produc­ 
+tion delays and defects in the Vega for which he was 
+not responsible. His position was filled by Jim Tucker, 
+a graduate aeronautical engineer who had joined 
+Slingsby's in 1967, and had been technical director and 
+lately marketing director of the offshore engineering 
+division.
+Outstanding orders for the Vega had not been met, 
+but full production began at last and faithful promises 
+of delivery in 11)79 seemed likely to be kept. Late in 
+April an open day was held at Slingsby, 'designed to 
+repair the company's reputation with the UK soaring 
+movement, which had become somewhat tattered 
+during the three years of delays and disappointments 
+from when the Vega was first announced'. Three Vegas 
+were made available for flying and 17 had already been 
+delivered to buyers, five of these in the I'SA. They were 
+coming off the line at the rate of one a week. But, with 
+rather ominous implications, Tucker said: 'as long as 
+our aerospace activities continue to be profitable, 
+there is no cause for winding them up'.
+On the same occasion it was announced that there 
+was to be a simplified, cheaper version, the Sport Vega, 
+with flaps deleted and fixed undercarriage. Production 
+capacity for 48 Racing Class and 12 Sport Class Vegas 
+per year existed. A self-launching Vega was also pro­ 
+jected. Interest revived, but in mid-1979 there came yet 
+another change of ownership. Vickers at this time had 
+an overdraft of more than £11 million and was under 
+pressure from corporate shareholders to reduce it. 
+Interest in acquiring the Kirbymoorside factory was 
+shown by a company providing diving services to the 
+North Sea oil industry, for whom Slingsby had made 
+submarine equipment. The development costs of the 
+Vega were set off against taxation and the company 
+was sold, to be renamed Slingsby Engineering Ltd.
+During 197! > there were competitions in Europe and 
+the USA in which the Vega was able to show its paces. 
+The reports coming from the pilots were not especially 
+enthusiastic. Wally Scott, a former American cham­ 
+pion, said h<> found that the Vega would climb well but 
+lost to the German aircraft in the faster glides, which 
+Burton had admitted a year before. Scott admired 
+many of the smaller features, and it was agreed that the 
+aircraft handled well and was comfortable and very 
+pleasiint to fly. Scott concluded: The Vega may prove
+to be the most costly 15m ship of the lot, but ... it may 
+be well worth it'. It was not at all clear what benefits 
+the customer would gain by paying more. The contem­ 
+porary German Racing Class sailplanes were also 
+comfortable, handled well and performed slightly 
+better. Scott welcomed the news that more ballast 
+would be permitted in the Vega, which might produce 
+the extra performance needed at high speed, but the 
+fundamental problem of the wing surface accuracy 
+was not addressed.
+Very bad news came in August, Baar Selen, a Dutch 
+pilot who had won the Standard Class championship at 
+Chateauroux, entered his new Vega in competitions at 
+Rieti in Italy. Flying at 120kt in moderately calm air, the 
+Vega broke up. Selen used his parachute and escaped 
+unhurt. There followed an intense technical investiga­ 
+tion. The stressing calculations were checked and re- 
+checked and Vega wings were subjected to renewed 
+mechanical testing up to the ultimate negative and pos­ 
+itive bending and under torsional loads equivalent to 
+flight at 150kt. The first distressing discovery was that 
+a batch of the steel wing root spigots, supplied to 
+Slingsby by a subcontractor, had not been correctly 
+heat treated, and these failed during the tests. All Vegas 
+were grounded until those with faulty steel were 
+found. The spigots were replaced at the expense of the 
+contractor, who admitted liability.
+But the spigots were not the cause of Selen s acci­ 
+dent. The port wing had broken off about a metre out­ 
+board of the fuselage; the carbon spar itself had failed. 
+More testing was done, and many spars were made and 
+loaded without failures. Photographs were taken and 
+eventually published showing a Vega wing on test bent 
+like an archer's bow at full draw without breaking. At 
+the end of all this it was still not entirely clear why the 
+accident happened, although there was a suspicion 
+that the aircraft had been overstressed during earlier 
+stages of the day's racing, flying too fast in rough air. 
+George Burton himself subsequently wondered if the 
+the cause was, after all, wing flutter. The combination 
+of a very stiff carbon spar with more elastic glass skins, 
+as on the Kestrel 22, might have been responsible. 
+More computing at last suggested that some slight rein­ 
+forcement of the mainspar was sufficient. All existing 
+Vegas were so modified and there was no further 
+trouble.
+Such a series of events coming after years of frustra­ 
+tions and delays did not help the Vega's reputation. It 
+was not a cheap sailplane, and it had no measurable 
+advantage, indeed some small deficiency, in per­ 
+formance. Production continued on a very limited 
+scale to satisfy those few orders that had not been can­ 
+celled.
+The Sport Vega prototype made its first flight in the 
+spring of 1980, and was warmly praised by Derek 
+Piggott after he had flown it. It was, he said, the best 
+thing for many years, a relatively simple aircraft with 
+excellent handling and robust construction, low main­ 
+tenance costs and with a satisfactory performance for 
+club flying and minor competitions, but there were
+252
+
+--- PAGE 255 ---
+T-65, VEGA
+plenty of rivals in the market for this type of aircraft.
+The total of all Vegas and Sport Vegas built was 70. 
+From an accountant's viewpoint, a minimum of 100 
+might have represented the break-even point. The 
+company now was taking another direction. A further 
+order for 25 T-61E Venture powered gliders came from 
+the ATC, and an agreement was reached for building, 
+under licence, the Foumier RF 6, a French two-seat 
+light aeroplane. This entered production in 1981. Soon 
+it was completely redesigned for fibre-reinforced 
+plastic materials, and as the T-67 Firefly became an out­ 
+standingly successful product, in its latest form still in 
+production in 1995 and exported widely. Slingsby 
+Aircraft Ltd, after yet another name change, at last 
+reaped the rewards of the experience gained with the 
+new materials.
+In 1982 it was announced that Slingsby was ceasing 
+all glider production. It was not surprising news, 
+although it was very sad. The gliding side of the busi­ 
+ness had made no profits since the late 1960s. The 
+home market was said to be too small to support a 
+local company in this very specialised business. An 
+influx of cheap gliders from state-owned factories in 
+Eastern Europe was also blamed, but it was not 
+Romanian, Polish or Czechoslovakian manufacturers 
+who captured the international market for high-perfor­ 
+mance sailplanes. In the affluent west there were 
+plenty of pilots willing to pay high prices for per­ 
+formance gains of one or two percent. It was German 
+factories and young men trained in the Akafliegs of 
+German universities who prevailed, and in 1996 they 
+still do so.
+T-65 Vega data
+Dimensions 
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o.a. 
+Wing sections 
+Root
+Tip
+15.00m (49.2ft) 
+10.05m2 (108.2ft2) 
+2Z4 
+6.72m (22ft)
+Wortmann FX 67-K-15 (15 per cent
+flap)
+Wortmann FX 67-K-15 (15 per cent
+flap)
+Weights 
+Tare 
+Flying 
+Ballasted 
+Wing loading
+236kg (520b) 
+331kg(730b) 
+508kg (1,120b)
+30.5kg/m2 (6.2b/ft2) to 50.5kg/m2 
+(10.35b/ft2) 
+Flap movement: up max. 8°, down (normal) 8 °.
+Sport Vega
+Dimensions
+As for Vega but no flaps, no water ballast, non-retract­ 
+ing wheel.
+Weights 
+Tare 
+Flying 
+Wing loading
+236kg (520b) 
+354kg (780b) 
+352kg/m2 (7.2b/ft2)
+The Sport Vega cockpit. (M. Simons)
+Apart from the lively paintwork, representing the constella­ 
+tion Lyra, with Vega its brightest member, this photograph 
+shows the lifting handle and non-retracting tailwheel of the 
+Sport Vega. (M. Simons)
+253
+
+--- PAGE 256 ---
+The Vega prototype in flight. The fuselage was particularly 
+clean, with both main and tailwheels retracted. (Vickers- 
+Slingsby)
+The Vega at Chateauroux in 1978. (M. Simons)
+A Sport Vega at Lasham in 1992. (M. Simons)
+
+--- PAGE 257 ---
+T-65, VEGA
+The Vega prototype flown by Derek Piggott
+
+--- PAGE 258 ---
+References
+Books
+Airborne Forces Experimental Establishment Report
+G48, Departmental Note N. :37 
+Ash, A., Gliding in Australia (Hudson, Melbourne,
+Ash well Cooke, J. R., Motorless Flight (J. Hamilton,
+London, 19:32) 
+B.G.A. No 1 Test group, Handling tests of a Kite 2
+glider 10.11.51 
+Butler, P., British Gliders (Merseyside Aviation
+Society, 1970, second ed. 1975) 
+Gumming, M., The Powerless Ones (Muller, London,
+1966) 
+Devlin, Gerald M. Silent Wings (W. H. Alien, London,
+1985) 
+Ellison, 
+N., 
+British 
+Gliders 
+and 
+Sailplanes
+1922-1970 (A& C. Black, London, 1971) 
+Flanders, L. H. & Carr, C. F., Gliding and Motorless
+Flight (Pitman, London, 1930) 
+Geen, F, The ABC of Gliding (Alien & Unwin,
+London, 1952) 
+Goodyear, H. R. R., Gliding 1931 Yearbook (Dorset
+Gliding Club, 1931) 
+Heydon, G. A. M., Flights in NSW with Slingsby Gull
+(typescript), 1945. 
+Lippisch, A., Bin Dreieck Fliegt (Motorbuch Verlag,
+Stuttgart, 1976) 
+Ministry of Aircraft Production Ref. Non. Res/Acft.
+7771/RDT2(d) Specification No. TX8/45 
+Ministry of Supply AFEE Report T-65 
+Mrazek, J. E., Fighting Gliders of World War II
+(Robert Hale Ltd., London, 1977) 
+( KSTIV The World's Sailplanes Vol. 1 1958, Vol. 2 1963 
+Piggott, Derek, Delta Papa (Pelham Books, London,
+1977) 
+Riedel, 
+P. Uber Sonnige Weiten (Motorbuch,
+Stuttgart, 1985) 
+Schweizer, Paul, Wings Like Eagles, (Smithsonian
+I nst. Press. 1988) 
+Scott, Peter, The Eye of the Wind (Hodder &
+Stoughton, London, 1961) 
+Simons. 
+M. The 
+World's Vintage 
+Sailplanes
+(Kookaburra, Melbourne, 1086)
+Slingsby, F. N. in The Gliding Book (Eds Serjeant &
+Watson, Kaye, London, 1965) 
+Stamer, F. & Lippisch, A., Gliding and Sailplaning
+(Lane, London, 1930) 
+Thetford, O, Aircraft of the Fighting Powers Vol.
+VII, Harborough, Leicester, 1946) 
+Wills, P. A., On Being a Bird (Max Parrish, London,
+1953)
+Welch, Ann, Happy to Fly (Murray, London, 1983) 
+Wood, Alan, History of the World's Glider Forces
+(Patrick Stephens, Northants, 1990) 
+Wright, L. The Wooden Sword (Elek Books, London,
+1967)
+Periodicals
+Aero pi ft ne Monthly
+The Aeroplane
+Aircraft Engineering
+Australian Gliding
+Flight
+Flight International
+Gliding 1950-55, thereafter Sailplane and Gliding
+Gliding Kiwi
+OSTIV Publications
+Sailplane and Glider 1931-1955 thereafter Sailplane
+a}id Gliding 
+Sailplane and Gliding 
+Soaring (USA)
+Journal of the Royal Aeronautical Society 
+VGCNews
+Personal communications
+Harry Bache, Geoff Bailey-Woods, G. Bromley, R. 
+Burns, George Burton, D. Carswell, Chris Coxon, 
+Michael Eacock, Anthony Edwards, Peter J. V. Elliott, 
+Norman Ellison, Alan Giles, Ron W. Helm, Harold 
+Holdsworth, Frank G. living, Brennig James, R. C. M. 
+King (Ministry of Defence), Peter Layne (NZ GSA), 
+Eoin MacDonald, Ross Macintyre, Robert J. Martin, B. 
+A. Meulbrouck, Alec O'Connor, Derek Piggott, R. Read, 
+Barry Rolfe (BGA), Harry Schneider, the late John 
+Stanley Sproule, G. Terry, Mervyn Waghorn, Peter M. 
+Warren, John Williamson, Christopher Wills.
+256
+
+--- PAGE 259 ---
+The Author
+Martin Simons began gliding in 1947 and 
+has been involved with the sport ever 
+since. He has about 1,500 hours soaring 
+time and is still active as a pilot. He has a 
+strong interest in designing, building and 
+flying model aircraft.
+After completing national service with 
+the RAF he attended college and 
+university in London and has held a 
+number of teaching posts. In 1968 he 
+emigrated to South Australia to teach at 
+Adelaide University. From 1970 to 1980 
+he edited Australian Gliding.
+Airlife Publishing Ltd
+101 Longden Road 
+Shrewsbury SY3 9EB 
+England
+ISBN 1 853107328
+
+--- PAGE 260 ---
+Type 2 fuselage
+was entirely skinned
+with plywood
+I \csrn
+ISBN 1-85310-732-8
+9 "781853"107320

@@ -1,0 +1,1282 @@
+ shear in the skin. The contribution of the skin to the
+bending strength of the wing depends on its degree of buckling and relative modulus of
+elasticity.
+From
+this general
+picture,
+it
+is evident that broad simplifying assumptions are
+necessary to make a stress analysis of a shell wing practicable, and that the computed
+stresses in the various elements are likely to be less exact than in the case of statically
+determinate independent spar wings.
+In metal shell structures, elements which become
+too highly stressed generally yield without difficulty and the load is redistributed to less
+
+--- PAGE 158 ---
+152
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+SINGLE CELL SECTIONS
+MULTI-CELL SECTION
+Note:
+Other types
+of Two Cell Wing Sections may have
+stiffeners.
+or thick
+skin
+similar
+to the
+single cells
+shown above.
+Figure 3-10.—Typical shell wing sections.
+
+--- PAGE 159 ---
+METHODS OF STRUCTURAL ANALYSIS
+153
+highly stressed elements.
+In wood structures, however, some types of elements are un-
+able to accommodate themselves to secondary stresses which would be of no importance
+in metal structures, for example, buckles of sharp curvature relative to the thickness
+are apt to split plywood. The stress analysis methods presented in this section should
+therefore be considered only as reasonable approximations until the designer has had
+experience in applying a particular method to a particular type of structure and has
+correlated the analysis procedures with the results of static tests.
+3.131. Computation of loading curves.
+3.1310. Loading axis.
+In determining
+the shear and bending
+stresses
+in
+shell
+wings,
+it has been found convenient to transfer the distributed
+air and
+inertia loads
+to a suitable spanwise loading axis by computing net beam, chord, and torque load-
+ings
+at
+points or stations along such axis. The position of the loading axis may be
+chosen arbitrarily
+if the corresponding moment and torque components acting
+at a
+particular section of the wing are then properly applied to the various elements of the
+section in a manner consistent with their structural behavior.
+Since a reinforced shell
+wing
+is usually a complex nonisotropic structure in which some of the elements resist
+axial loads in a particular direction only, the true stress conditions resulting from the
+interaction of elements having various directions at a given section are often difficult
+to analyze.
+It
+is therefore recommended that the loading axis be located inside the
+wing, approximately parallel to the principal bending and shear elements.
+Such a loca-
+tion should tend to reduce errors in the process of transferring external loads and torques
+to the loading axis and redistributing them to the structural elements.
+Section 3.135
+shows that the use of a loading axis in the main shear web is often convenient for the
+shear distribution analysis, without further transfer of loads and torques.
+If the loading axis is located as suggested,
+it
+is necessary for
+it to change direc-
+tion where the principal structural elements change direction; for example, where an
+outer wing panel having dihedral or sweepback joins a straight center section.
+The
+loadings due to the air and inertia loads are computed for each segment of the axis
+in the usual manner, but at the point of direction change, the total moments and torque
+from the outboard segment should be resolved into the proper components relative
+to the inboard segment.
+The formulas given in section 3.1311 for computing the running loads and torque
+at various stations on the loading axis use
+airfoil moment
+coefficients
+(or center of
+pressure locations) based on airfoil sections parallel to the airflow.
+For a loading axis
+which
+is not perpendicular to such sections, these equations will therefore give small
+errors in the bending moment and torque values.
+These errors may be neglected unless
+the angle of inclination of the loading axis is large.
+3.1311. Loading formulas. The
+net
+running
+load
+at
+points
+along
+the
+loading
+axis and the net running torsion about these points may be found from the following
+equations
+C
+yb = (CNq+ n 2e)—
+(3:14)
+(3:15)
+
+--- PAGE 160 ---
+154
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+m« =
+[ \CN (x-a) + C_y a
+} q+n 2e (x-j)J^
+(3:16)
+where
+ijb = running beam load in pounds per inch of span.
+y c = running chord loads in pounds per inch of span,
+m, = running torsion load in inch-pounds per inch of span,
+a, j, and x are expressed as fractions of the chord at the station in question and locate
+points on figure 3-11 as follows:
+a locates the point in the airfoil on which the moment coefficient, CW
+, is based.
+j locates the resultant wing dead weight at the station.
+x is the distance from the leading edge to the loading axis, at the station.
+q = dynamic pressure for the condition being investigated.
+CN and CWo are the airfoil normal and moment coefficients at the section in question.
+C c = airfoil chord coefficient at each station. The proper sign should be retained
+throughout the computations.
+C"=the wing chord, in inches.
+e = the average unit weight of the wing, in pounds per square foot, over the chord
+at the station in question.
+It should be computed or estimated for each area included
+between the wing stations investigated,
+unless the unit wing weight
+is substantially
+constant, in which case a constant value may be assumed. By properly correlating the
+values of e and j, the effects of local weights, such as fuel tanks and nacelles, can be
+accounted for directly.
+n2=the net limit load factor representing the inertia effect of the whole airplane
+acting at the center of gravity. The inertia load always acts in a direction opposite to
+the net air load.
+For positively accelerated conditions n% will always
+be. negative, and vice
+versa.
+Its value and sign are obtained in the airplane balancing process.
+n r 2 = net
+limit
+chord-load factor approximately representing the inertia
+effect of
+All Vectors Are Shown in Positive Sense
+Figure 3-11.—Section showing location of load axis.
+i
+
+--- PAGE 161 ---
+METHODS OF STRUCTURAL ANALYSIS
+155
+the whole airplane in the chord direction.
+The value and sign are obtained in the air-
+plane balancing process.
+Note that, when C c is negative,
+7ix2 will be positive.
+Positive directions for all quantities are shown in figure 3-11.
+The computations
+required for this form of analysis can be carried out conveniently through the use of
+tables similar to tables 3-3 and 3
+4.
+Table 3-3.
+Computation
+oj net loadings (constants)
+Stations Along Span
+1
+Distance from root, inches
+2
+C/144 - (chord in inches) /14A
+3
+x, fraction of chord
+4
+a, fraction of chord
+(a.o.)
+5
+j, fraction of chord*
+6
+e » unit wing wt. , lbs/sq.ft.*
+7
+x - a -d)-.(4)
+8
+x-j-(D-(D
+9
+iSlZ
+144
+*
+These values will depend on the amount of disposable
+load carried in the wing.
+The values of yb, y c , and m t should be plotted against the span, and, in case irregu-
+larities are found, they should be checked before proceeding with the calculations.
+It is sometimes desirable to compute the airloadings and inertia loadings separately.
+The inertia loading, shear, moment and torsion curves then need be computed for only
+one condition
+(say,
+rig = 1.0), the values
+for any other condition being obtained by
+multiplying by the proper load
+factor.
+The foregoing formulas may be modified for
+this purpose by omitting terms containing n3
+for the airloading, and omitting terms
+containing q for the inertia loading.
+3.132. Computation of shear, bending moment and torsion.
+The summation
+of
+the areas under the loading curves determined by the method described in section 3.131,
+from the tip to any wing station will give the values of the total load (shear) and of
+the total torque (torsion) acting at the station.
+It
+is advisable to plot curves of the shear and torsion values against the span to
+determine
+if any
+irregularities have occurred
+in
+the computations.
+If concentrated
+weight and load items were not accounted for in the loading computations, they should
+be taken care of by additional computations, and their effects shown on the shear and
+torsion curves.
+The bending moments at any station of the wing can be found either by computing
+the moments, about the station, of the areas under the loading curves outboard of the
+station, taking into consideration moments due to concentrated loads, if such are present;
+
+--- PAGE 162 ---
+156
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Table 3-4.
+Computation o] net loadings (variables)
+COHDITIOH
+q
+\(etc)
+\
+Distance b from root
+(Refer also to Table 3-2)
+Normal
+Load
+10
+U.
+12
+13
+14
+C™(variation with
+span)
+c tfl
+- © x q
+@
+* ©
+7b
+- ©x©
+lba./in.
+Chord
+Load
+15
+16
+17
+18
+19
+c'c
+(variation with
+span)
+C'fjq
+- © X q
+©
+©
+y
+- ©>© lbs./in.
+Unit
+Torque
+20
+21
+22
+23
+24
+25
+26
+(variation with span
+© x ©
+©
++
+(§)
+(22)
+x
+q
+©
+x ©
+@
+@
+H
+- © X©
+or by summing up the areas under the shear curves from the tip to the station. A con-
+venient tabular method of computing these values
+is
+also shown
+in
+figure 3-6; and
+typical curves are shown in figure 3-7.
+The following quantities are now assumed to have been determined and plotted
+for any station on the loading axis:
+S bL , the total beam load (shear) through the loading axis in pounds.
+SCL , the total chord load (shear through the loading axis in pounds.
+M tL , the torsion about the loading axis in inch-pounds.
+MbL , the beam moment in inch-pounds.
+MCL , the chord moment in inch-pounds.
+Formulas
+of
+section
+3.1311
+give moments and
+torques whose magnitudes and
+directions are not necessarily consistent with the direction of the loading axis, but the
+errors may usually be neglected.
+(Sec. 3.1310).
+3.133. Computation of bending stresses. The methods outlined herein are based
+on the application of the conventional bending theory to the wing section as a whole,
+rather than to individual spars deflecting independently.
+It
+is assumed that the axial
+
+--- PAGE 163 ---
+METHODS OF STRUCTURAL ANALYSIS
+157
+deformation due to bending,
+for any element of the wing section,
+is proportional
+to
+the distance of the element from the neutral axis of the section.
+This means that
+in
+multispar shell wings the deflection of all spars is assumed to be substantially the same.
+These assumptions are valid only where the wing contains relatively
+rigid torsion cells
+so that wing twist is resisted by shear in the walls of these cells rather than
+differential
+bending of the beams.
+Experience indicates that this simple bending theory
+is satis-
+factory for the practical design of shell wings if allowances or corrections are made for
+the following conditions:
+(1)
+Excessive shear lag, or shear deflection, in the shell betwo 311 various bending
+elements. Such deflections cause the actual stresses in elements remote from the vertical
+shear webs to be
+less than, and the stresses in elements adjacent to the shear webs
+greater than, the values indicated by the simple bending theory.
+In some types
+of
+structures
+as
+described
+in
+section
+3.1330
+(5),
+these
+deflections may
+be
+considered
+negligible in the design of the wing as a whole.
+Since the bending elements receive and
+give up their axial loads through shear in the webs or skin to which they are attached,
+local shear stresses and deflections will be intensified in the region of discontinuities in
+the bending or shear elements.
+Shear lag
+is therefore likely to be appreciable in such
+regions. A convenient method of allowing for shear lag is to assume a reduced effective
+area for the bending elements affected, in computing the section properties as described
+in section 3.1330. The stresses computed for such elements by the bending theory will
+then be too high, and, to be consistent, should be reduced in the same ratio as the areas
+used in the section properties.
+(2) The effects of torsion on the bending stresses at the corners of a box beam.
+This condition
+is usually dealt with after the bending stresses and shear distribution
+have been determined on the basis of the simple theory. See section 3. 1370 for discussion.
+3.1330. Section properties. A sufficient number of stations along the wing should
+be investigated to determine the minimum margins of safety.
+The information neces-
+sary to compute the section properties at each station selected for investigation may
+be conveniently obtained from a scale diagram of the wing section.
+Such a diagram
+(fig. 3-12) and accompanying data should show the following:
+(1)
+All
+material assumed
+acting
+in
+shear
+or bending
+(sec.
+3.138)
+divided
+into
+suitable elementary strips and areas, with each such element designated by a suitable
+item number for use in tabular computations.
+(2) Thicknesses of skin and web elements, area and center of gravity of stiffeners
+and flanges, and the relative moduli of elasticity of all elements, normal to the section
+(sees. 2.1210,
+2.52, and 3.138, or table 2-9).
+For example, the modulus of the beam
+flanges might be taken as a basic in tension and the moduli of other elements expressed
+as ratios thereto.
+(3) Reference axes from which the various elements are located.
+The amount of
+calculation
+will generally be
+less
+if the reference axes are made parallel to the beam
+and chord directions used in the loading curve determinations.
+(4)
+Effective widths of skin assumed acting in compression in conjunction with
+stiffeners or flanges.
+These should be consistent with the methods used in determining-
+allowable stresses, in accordance with section 3.138.
+(5)
+Effectiveness factors for bending elements which have elastic modulus different
+from the basic value selected for the wing, or which are affected by shear
+lag.
+The
+
+--- PAGE 164 ---
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+
+--- PAGE 165 ---
+METHODS OF STRUCTURAL ANALYSIS
+159
+final factor, c, includes both effects, and may be expressed as: f = f,x«», where e, is equal
+E
+to
+* Umcnt
+an(j e
+j s
+f ne shear lag factor.
+TP
+-Ei basic
+A value of Ci = 1.0 indicates that the effectiveness of an element
+is not considered
+reduced by shear lag, while e2 =0 indicates that
+it
+is completely ineffective.
+Shear lag
+may be general or local or a combination of both.
+General shear lag is greatest in a shell
+wing which has a major portion of the bending elements remote from the shear webs,
+relatively thin skin, and little or no taper in plan and front views.
+The general shear-
+lag effectiveness factors for such wings should be based on
+rational analysis or
+test
+data for similar wings, unless the spar web flanges can withstand stresses considerably
+higher than those computed by the simple bending theory
+(refs. 3-4, 3-9, and 3-13).
+In a wing having characteristics opposite to those described, general shear lag may be
+neglected
+if the spar flanges can withstand stresses slightly larger than those computed
+Figure 3-13.—Effectiveness of discontinuous stiffener.
+
+--- PAGE 166 ---
+160
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+by the simple bending theory.
+Local shear lag due to discontinuities and cutouts may
+be estimated by determining e, from figures 3-13 and 3-14, or computed by methods
+of reference 3-13
+o
+53
+uo
+a
+•Hu
+-pw
+o
+»H>
+•73
+?
+•HPO©
+w
+O
+(D
+/
+v
+Cut-Out
+or
+Wing
+Tip
+W
+\
+/
+/
+/
+V
+Effectiveness
+CQ
+V
+Figure 3-14.—Effectiveness of stringer's at cutout.
+In using figure 3-14, L may be taken as 2.5W for conventional constructions em-
+ploying
+stiff 45° plywood skin. A more rational value for L, applicable to
+all grain
+directions, may be computed from the following formula which takes into account the
+shear rigidity of the skin in relation to the axial load:
+1MW
+E'A
+L =
+
+--- PAGE 167 ---
+I
+METHODS OF STRUCTURAL ANALYSIS
+161
+where
+W = width of cutout or tree end.
+(7 = effective shear modulus of skin.
+t= thickness of skin.
+= effective modulus of elasticity of composite section in tension or compression,
+as defined in section 2.761.
+.4 = total effective area of skin and stiffeners in tension or compression, as defined
+in section 2.761.
+With
+the
+foregoing
+information
+available,
+the
+wing-section
+properties may
+be
+computed in a tabular form, such as shown on table 3-5, the column headings meaning:
+(1)
+Effectiveness factor for item,
+e.
+(2)
+(a)
+Geometrical area of item, (A).
+(b)
+Effective area of item,
+(a ), =eA.
+(3) Beam distance of item from reference axis (yi).
+(5) Beam moment of area about the reference axis,
+(ayi).
+The location of the X axis, passing through the center of gravity and parallel to the
+horizontal reference axis, should next be determined by dividing /
+col. (5) by /
+col. (2b).
+(7) Beam distance of item from the X axis passing through the center of gravity (y).
+(9) Beam moment of the area about the X axis,
+(ay).
+(11) Second beam moment of area about the X axis, (ay2
+).
+(13)
+Individual moments of inertia of items which are of sufficient magnitude to be
+included.
+The sum of the items in column 9 for all of the wing elements above or all of the
+wing elements below the X axis is equal to the static moment of the section Q x .
+The
+sum of items in columns 11 and 13 is equal to the moment of inertia of the wing section
+about the X axis.
+By a similar process, the wing-section properties about the Y axis
+can be determined by filling out the remaining columns in table 3 -5 pertaining to chord
+distances and moments. The X and Y axis are not necessarily the principal axes.
+The sum of all of the items in column
+15
+is equal to the product of inertia of the
+section about the center of gravity axes.
+Careful attention should be paid to the use of
+the proper signs in computing the products of inertia and in the subsequent stress calcula-
+tions.
+When effective widths are used for skin in compression, it is evident that the section
+properties may change for inverted loads, and in such cases the necessary computations
+should be repeated accordingly.
+3.1331. Bending stress formulas.
+The
+following formulas may be used for the
+computation of the bending stresses at any point on the wing section.
+These formulas
+are similar to those described in section 6:6 of reference 3-15, and permit the stresses
+to be computed without determining the principal axes of inertia or the section prop-
+erties relative thereto.
+/' = -M by Mcx
+(3:18)
+
+--- PAGE 168 ---
+162
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+in
+rH
+Product
+of
+Inertia
+&
+10
+d
+Ul
+1
+3
+1
+Individual
+1
+O
+0) fH
+Chord
+H
+M
+toH
+Momenl
+Inerl
+Beam
+g
+M
+g
+M
+OiH
+Second
+Moment
+about
+C-G.
+Axis
+o
+g
+BeamJ
+\
+Ul
+1
+y—->oH
+foment
+,G.
+Axis
+Chord
+oh
+i
+First
+J
+about
+C,
+Beam
+H
+^—
+00
+Distance
+from
+Axis
+Passing
+Through
+C.
+G.
+Chord
+X
+'—
+* '
+Beam
+CD
+Moment
+about
+Ref.
+Axis
+Chord
+f
+«*
+in
+Beam
+c
+cd
+*—
+a
+O
+Chord
+it
+to
+Distai
+Ref,
+Beam
+aso
+9ATq.0©JJ3
+W
+II
+sm©q.i
+g
+&
+M
+M
+i
+"h
+
+--- PAGE 169 ---
+METHODS OF STRUCTURAL ANALYSIS
+163
+M b-Mc ~f
+M c -M b -f
+where: M b = -
+'
+and M,
+j
+(I xy)
+S
+j
+{I zv)
+Ix % v
+^ x I
+The values of
+and M c are the values of the bending moments about the X and Y
+axes,
+respectively,
+used in the section properties computations; the / values are de-
+termined by the methods outlined in table 3-5, and the x and y values are the distances
+to the points at which the bending stresses are desired.
+If the analysis of some of the wing sections indicates that the value of IxV
+is ap-
+proaching zero,
+it
+is apparent that the reference axes chosen are nearly parallel to the
+section principal axes, and the analysis of similar wing sections may be simplified by
+omitting the computation of the product of inertia in table 3-5. The expression for the
+stress at any point in this case simplifies to:
+f
+, = _M*_M<y
+(3;19)
+* x
+1 y
+When desired, the angle of inclination of the principal axes of inertia to the XY
+axes is given by the following relation
+(fig. 3-12):
+Tan#6=y^ff
+(3:20)
+where the values on the right side of the equation are obtained from table 3-5.
+The stress/' computed by the formulas applies directly only to elements having the
+elastic modulus selected as basic for the section, and a shear-lag effectiveness factor of
+1.0. The actual stress/ for other elements is obtained by multiplying/' from the formulas
+by the proper effectiveness factor from table 3-5.
+3.134. Secondary stresses in bending elements.
+(a) Air loads and bending deflections.
+Stiffeners are normally subjected to combined
+compression and bending. The compression results from the stiffener acting as a part of
+the flange material of the entire section. Two of the conditions producing bending in
+the stiffeners are
+: Part of the normal airload on the skin being carried to the ribs by the
+stiffeners, and curvature of the stiffeners due to bending deflection of the entire wing.
+Allowance for these bending loads may be made by using conservative values for the
+allowable compressive stress or, in relatively large rib spacings, by suitable computations
+and tests.
+(6) Diagonal tension-field effects.
+When the wing covering buckles in shear, addi-
+tional
+stresses may be imposed on the spanwise
+stiffeners by the
+diagonal-tension-
+field effects in the skin.
+If the initial buckling shear stress is greatly exceeded, it may be
+necessary to make additional analyses to account for the increased
+stiffener stresses.
+Shear buckles (diagonal-tension fields) in curved skin tend to produce bending or sag-
+ging of the stiffeners between the ribs.
+Particular attention should be paid to the possi-
+bilities of the sagging type of failure in spanwise leading-edge stiffeners, especially when
+they are also subjected to combined beam and chord compressive
+loads.
+Combined
+loading tests or conservative allowable stresses based on simple tests in accordance with
+
+--- PAGE 170 ---
+164
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRU( 'TITRES
+section 3.1381 should therefore be employed for D-nose spar and similar types of w ings,
+(c) Bending stresses due to torsion are discussed in section 3.1370.
+3.135. Computation of shear flows and stresses.
+3.1350. General.
+The methods outlined herein are based on the following princi-
+ples:
+(refs. 3-5 and 3-11).
+(1) The shear flow.? producing bending in the wing
+(direct shear) are distributed
+by the various shear elements to each ending element in such a manner as to produce
+the increase in axial load per unit of span required by the bending theory.
+In applying
+this principle, use
+is made of the computations performed in determining the bending
+stresses, and the results are affected by the same basic assumptions and limitations.
+(2) The shear hows in the various shear elements of a torque box or
+cell are
+as-
+sumed to produce
+(or
+resist) torque about a reference point
+in accordance with
+the
+elementary principles of shear flows, as illustrated in figure 3
+15.
+This assumption
+is
+valid only where: The ribs and bulkheads are rigid in shear in their own plane, particu-
+larly at concentrated loads; the length of the torque box, or the distance from the section
+where a large concentrated torque, applied to the section where it is reacted, is relatively
+greater than the cross-sectional dimensions of the box ; and where the cross sections of
+the wing are free to warp when the wing twists, as in a w ing panel which is so joined to
+the center section that only the main beam can transmit bending, the remaining webs
+being pin-jointed.
+When any of these conditions are seriously violated, conservative
+overlapping assumptions should be made as to the shear in the various elements.
+3.1351. Shear flow absorbed
+by bending elements.
+The
+rational methods
+for
+shear distribution
+first require the determination of the shear flows absorbed by the
+individual bending elements which may be determined by one of the following methods:
+(1)
+Spanvrise method.
+The spanwise method requires the calculation of the total
+axial load in each bending element at various stations along the span.
+The change in
+axial load per inch of span at any point is then equal to the shear flow being absorbed
+by the element at that point.
+This method takes account
+of beam
+taper,
+discontinuities and
+redistribution
+of
+bending material, and
+is therefore particularly applicable to complex structures where
+these conditions are involved to a considerable degree.
+The average axial
+stress,
+/',
+(in terms of tLd "basic" elastic modulus) in each element having small depth compared
+to the whole section at a particular station may be obtained by substituting the x and y
+coordinates of the centroid of the element in the bending stress formula of section 3. 1331.
+The total axial load, P, equals f'Xa, where a
+is the effective area of the element from
+the section properties computations. The shear flow, Aq, absorbed by the element is:
+At=%
+(3:21,
+dP
+.
+.
+where — is obtained by plotting P against the distance, Z, along the span, and finding
+dZ
+the slope of the tangent at desired points.
+Aq may be most conveniently found by
+tabular methods, that
+is: Aq = (P J — P 1 )/ Az, where P t and P2 are the axial loads at
+two adjacent stations and Az
+is the distance between them. Aq is considered positive
+when
+it tends to increase the tension on an element, proceeding from outboard to in-
+
+--- PAGE 171 ---
+(b) RESULTANT SHEAR
+(o) TWIST OF SHEAR CELL
+Symbol*
+<?=shear applied per inch of shear element in section view.
+I Lb. per in.)
+>S'= resultant of total shear acting on shear element.
+s= length of median line of shear element in section view.
+i=thickness of shear element.
+f.= shear stress
+(psi.)= -
+t
+h= length of chord joining ends of shear element.
+o= reference point about which torque is taken.
+A = area enclosed between median line of shear element and radii drawn from extremities to 0.
+f)= angle of twist of shear cell (radians) per inch of length normal to the section.
+G= modulus of rigidity of portion of cell wall.
+T= torque about reference point.
+Figure 3-15.—Properties of shear flows.
+
+--- PAGE 172 ---
+(b)
+Figure 3-16.—Sign conventions for shear flows.
+(2)
+Section method.
+The section method determines the shear flow absorbed by
+the bending elements by considering one section at a time under the external shears
+at that section, with separate corrections,
+if desired, for the effects of wing taper.
+This
+method is obviously not correct for sections in the vicinity of cutouts on wings having
+distributed bending
+material.
+It
+is,
+therefore, more
+applicable
+to wings where the
+bending material
+is concentrated
+in beams which taper uniformly.
+The shear flow
+absorbed by any bending element
+is obtained from formulas similar to those for the
+
+--- PAGE 173 ---
+METHODS OF STRUCTURAL, ANALYSIS
+167
+bending
+stresses
+(equation
+3:18),
+using
+the
+same
+section
+properties
+computations,
+as follows:
+Ag==a r_^_^]
+(3-22)
+T=
+-j-^f-
+(3:23)
+<
+v 1 xy)
+D =
+1
+(IxvY
+C3:24)
+where
+a = effective area of element.
+x and y are coordinates of controid of element from section diagram.
+Deep ele-
+ments, such as solid spars, should be broken into smaller elements.
+Ix, table 3-5.
+Iv , table 3-5.
+I zy =y
+axy, col. 15, table 3-5.
+S6'=the total external beamwise shear
+(parallel to the Y reference
+axis for the
+section) resisted by the shear elements at the section, positive upward.
+It may include
+a shear correction due to taper in depth, as described in section 3.1352.
+Sc'=the total external chordwise shear (parallel to the X axis) resisted by the shear
+elements at the section,
+positive rearward.
+It may include a shear correction due to
+taper in plan view.
+3.1352. Shear
+correction
+for beam
+taper.
+When a beam having concentrated
+flanges
+is tapered in depth, a part of the external shear at any station
+is resisted by
+components of the axial loads in the flanges, as shown in figure 3-17.
+That part of the
+M
+shear
+resisted by the
+flange
+axial
+loads
+is: AS=— , where M
+is the moment
+at the
+L o
+station and L
+is the distance from the station to the point where centerlines of the
+flanges would meet
+if prolonged.
+The shear
+resisted by the shear elements
+is then:
+S'b = Sb~ A»Sb.
+If the flange material is distributed over the wing surface a conservative
+average taper may be assumed.
+These corrections for taper should not be used with
+the spanwise method of determining shear flow absorbed by bending elements.
+3.135 3. Simple D spar.
+The type of structure considered under this heading
+is
+shown in figure 3-18.
+The method described herein
+is rational in regard to beamwise
+shear and torque
+if the following idealizing assumptions are applicable.
+The beamwise
+bending material
+is assumed concentrated in flanges at the vertical web; the leading
+edge is assumed to be thin, that is, not capable of carrying beamwise bending, and the
+leading edge strip
+(or equivalent material resisting chordwise bending),
+is assumed to
+be located so as not to be affected by beamwise bending nor to incline the principal
+
+--- PAGE 174 ---
+168
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+M
+&Sb > portion of shear resisted by axial loads in flanges of tapered beam
+V.
+Figure 3-17.—Shear correction for tapered beam.
+axes to the vertical web.
+As in any single
+cell, the shear How is statically determinate,
+and, under the above assumptions, readily apparent.
+If the external loads are transferred
+to a point on the neutral axis in the vertical web, as shears parallel and perpendicular
+to the web, and a torque about the point, as shown in figure 3-18, the parallel shear,
+S'b,
+is resisted entirely by the vertical web, so that
+qb = S'b/h, where h
+is the height
+between the centroids of the flanges.
+The torque, M t ,
+is resisted by the torsion
+cell,
+M t
+requiring a shear flow around the periphery: q t =— , where A
+is the enclosed area.
+2A
+<
+d
+Figure
+3-18.—Shear in simple D-spar.
+The shear S' c
+is assumed resisted equally by the upper and lower skin, so that:
+qc = S' c /2d, where d is the distance from the vertical web to the leading edge strip.
+Then:
+q w
+(vertical
+web) =q b — q t
+; and
+qL.E.=qt + qe ,
+with
+the
+sign
+conventions
+shown on the diagram.
+
+--- PAGE 175 ---
+METHODS OF STRUCTURAL ANALYSIS
+169
+If the bending material of a D-spar is largely distributed around the periphery in
+the form of a thick skin or spanwise stiffeners, the general rational method for single
+cells, described in the following,
+is more applicable.
+3.1354. Rational shear distribution.
+3.13 540. Single cell—general method.
+The
+following method
+is
+applicable
+to
+single
+cell structures having the bending material distributed
+in the form of a thick
+skin or any number of concentrated flanges or stiffeners.
+However, when such material
+is in the form of thick skin, it is assumed divided into strips each of which is considered
+a
+concentrated
+element.
+Since
+the
+single
+cell
+is
+statically
+determinate,
+the
+elastic
+properties of the shear material are not necessarily involved in determining the stress
+distribution, although they are required in determining the twist or shear center.
+For
+simplicity, the shear center will not be used in computing shear flows and stresses.
+Its
+location may be readily determined after the shear flows are known.
+The method of
+computing shear flows is briefly outlined as follows: Referring to figure 3-19, the shear
+flow in the main vertical web
+is considered as an unknown,
+q,„, and the shear in each
+successive shear element around the periphery of the cell is expressed in terms of qm by
+successively adding
+(algebraically)
+the
+shear
+flows,
+Aq,„
+absorbed by
+the bending
+elements.
+The sum of the torques due to each shear element, about reference point
+in the main vertical web, is then computed from the principles of shear flows (figure 3-15)
+and equated to the external torque, M t . This equation is solved for q m , and the numerical
+values of the remaining shear flows obtained by successive addition of the Aq values,
+as explained.
+By using a suitable notation, the computations may be reduced
+to a
+simple tabular form as shown on table 3-6.
+Such a notation
+is described as follows, and
+is
+illustrated
+in
+figure 3-19, where
+the assumed positive directions of quantities are as shown:
+M t = the resultant external moment applied
+at point
+when the external shear
+Sb and SJ have been transferred to that point.
+qm = shear flow in main web.
+2ij
+<?2,
+q%,
+etc.,
+are shear flows
+in successive shear elements numbered clockwise
+around the section, as shown.
+q n = shear flow in nth shear element.
+Aq,, Aq2 , AqJt etc., are shear flows absorbed by bending elements correspondingly
+numbered. Aq is positive when it tends to produce tension in the bending element, as
+shown in figure 3-16.
+It
+is produced by
+(or requires)
+a resultant shear flow directed
+away from the element in section view.
+The values of Aq are assumed to have been
+determined by methods such as those of section 3.1351.
+A(?„ = shear flow absorbed by nth shear element.
+A lt A e , A 3 , etc., are the areas enclosed between shear elements and radii from the
+reference point, 0, to centroids of the bending elements.
+A = enclosed area of entire section.
+T = total torque of shear elements about point 0.
+n
+y
+=summation of quantities for elements 1 through n, where n — 1, 2, 3, etc.
+T~
+N = number of last bending element (lower main flange).
+N—1 =number of last shear element (not counting main web).
+
+--- PAGE 176 ---
+170
+AJSTC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+Table 3-6.
+Shear-flow computations for single
+cell.
+(1)
+(2)
+(3)
+U)
+(5)
+(6)
+n
+t Aqn
+•
+n
+= £(2)
+l
+An
+VlAqn
+=
+(4>x(3)
+1
+2
+3
+N-1
+A %
+A
+A3
+r
+N XX
+N
+2>)
+1
+N-1
+i
+N-1
+21
+(5)
+1
+N
+/
+(2)
+should approximate
+0,
+Note:
+Z—
+1
+N-1
+^
+(4)
+should approximate total area
+=
+A*
+1
+
+--- PAGE 177 ---
+METHODS OF STRUCTURAL ANALYSIS
+171
+The expressions for shear now in any element in terms of q m , using sign conventions
+of figure 3-16, are:
+Aq,=q,-q m
+>-
+Aq,=q m + Aq,
+Aqi = qsl — qi
+>-
+Aq,=q m + Aq, + Aqs
+n
+qn = q m + }
+Ag„
+(3:25)
+i
+Equation (3:25)
+is represented graphically on diagram
+(b) figure 3-19 by a flow q m
+n
+around the entire section, to which
+is added flow
+/
+Aq n at any shear element to
+obtain the total flow q n acting in that element.
+/
+The expression for the total torque of the shear elements about point 0,
+figure 3-
+19(a), is:
+or
+T = )>
+2 A n q n
+T
+\~
+ir—/
+A,,q n , which, from diagram (b)
+Li
+'-
+of figure 3-19
+(A n >
+A<?„)
+1
+Mi
+=-— (equilibrium of internal and external loads)
+Aqm =-^-)
+(A n >
+Aq n
+)
+Z
+—j—
+1
+vm- 2A
+A y
+(i.)
+A?B)
+(3:26)
+Equations
+(3:25) and
+(3:26) may be represented in the tabular form shown by
+table 3-6. Equations (3:25) and (3:26) and table 3-6 are directly applicable to stiffened-
+Z)-nose type wings
+if the sign conventions and numbering shown
+in
+figure 3-20 are
+employed.
+3.13541. Two cell—general method. The following method is an extension of the
+general method for single cells. The two-cell structure is statically indeterminate since
+the division of the total torque between the two cells depends upon their relative torsional
+stiffnesses. A shear flow in an element of the front cell and a flow in an element of the
+rear cell are therefore considered as unknowns, and the flows in the remaining elements
+expressed in terms of these two unknowns. One independent equation is obtained from
+/
+torques = 0, and another from the fact that the twist of the front cell equals the
+twist
+of the
+rear
+cell.
+The two unknown shear flows are obtained by simultaneous
+
+--- PAGE 178 ---
+172
+ANC BULLETIN—DESIGN OF WOOD AIRCRAFT STRUCTURES
+(b) GRAPHIC REPRESENTA?I

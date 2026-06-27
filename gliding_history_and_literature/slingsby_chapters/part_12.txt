@@ -1,0 +1,773 @@
+-26-2. Note 
+the absence of auxiliary struts. (Slingsby collection.)
+The prototype T-31B with the auxiliary bracing strut and 
+spoilers. (Slingsby collection.)
+A Royal Navy Gliding and Soaring Association T-31 pre­ 
+paring for launch. Another T-31 is in the background. 
+(Charles E. Brown, RAF Museum, Hendon, neg. No. 6689- 
+12.)
+
+--- PAGE 156 ---
+A T-31B in service with the RAAF support group in 
+Singapore, about 1967. (J. Wilson)
+The instrument panel of a T -31B in Malaysia, including artifi­ 
+cial horizon and other instruments not normally fitted.
+A Royal Navy T-31 just after take-off on winch launch in 
+Wfe 
+1951. (Fox Photos)
+**$
+
+--- PAGE 157 ---
+The cockpits and instrument panels of an Air Cadets T-31 B. 
+The instruments are an airspeed indicator, altimeter and 
+variometer—all that are required for simple training flights. 
+(M. Simons)
+An Air Cadets T-31 B at Dunstable in 1990, following restora­ 
+tion after sale on the government surplus market. 
+(M. Simons)
+A rare photograph of the T-35 Austral in service with the 
+Renmark Gliding Club in South Australia, 1959. (Alan 
+DeLaine.)
+
+--- PAGE 158 ---
+Root sections thickened
+Gottingen 549
+Experimental 
+enlarged rudder
+Tip 
+NACA2R2 12
+Skylark canopy 
+used
+Prototype for test flights
+Slingsby Type 34 
+Sky
+Drawn by Martin Simons 1992 
+(£/
+
+--- PAGE 159 ---
+Type 34, Sky
+There is no substitute for span,' Fred Slingsby was 
+once heard to say. In sailplane performance this 
+remains true, and probably always will. The current 
+generation of open-class sailplanes have spans of any- 
+thing from 23 to 26m (75 to 85ft). In 1950, however, 
+sailplane wing spans of more than 18m (59ft) were con- 
+sidered somewhat too great, and although many 
+earlier German aircraft and Slingsby's own two-seat 
+Gull 2 had reached about 20m (65.6ft), 18m repre- 
+sented an accepted limit. Since sailplanes often have to 
+be transported by road, the wing was normally divis- 
+ible on the centreline into two equal pieces. A two- 
+wheeled light trailer less than 10m (32.8ft) long could 
+be towed safely by an ordinary car.
+The best contest sailplane available at this time was 
+the 18m German Weihe (pronounced approximately 
+'Vyer', to rhyme with fire), which had been designed in 
+1938. The Olympia was in effect a 15m version of this 
+famous aircraft. It was almost inevitable that Slingsby 
+should be advised to produce a new sailplane which 
+would meet and beat the Weihe. Types 32 and 33 never 
+advanced beyond the design study stage, so the 
+number allotted to the proposed new high-perfor- 
+mance single-seater was T-34. The name Sky was not 
+chosen until after the prototype had flown. It was 
+invented by John Furlong, using the initial letters of 
+Slingsby, Kirbymoorside, Yorkshire. Furlong ordered 
+the first of the new type off the drawing board.
+The obvious way of improving the performance of a 
+good small sailplane was to extend the span, and this 
+was what Slingsby proceeded to do. This had the very 
+important advantage that it would allow the re-use of 
+most of the jigging and tooling used to produce the 
+Gull 4, and many of the components would be the 
+same. While such an exercise might seem relatively 
+simple, there are difficulties.
+The span increase was achieved by adding two extra 
+bays to the centre section of the wing and increasing 
+the spacing of the outer main ribs to 350mm instead of 
+300mm. The main spar was a box-type of spruce with 
+plywood shear webs, and the greater span necessi- 
+tated a complete redesign of this most vital member.
+The bending and shear forces at the centre of such a 
+wing are large, and the spar had to be much stronger 
+than that required for the smaller Gull. The spar flanges 
+inboard of bay nine in the centre section were widened 
+in plan view, and the depth of the spar was increased 
+considerably towards the root. The resulting structure 
+was quite complicated, and one aerodynamic conse- 
+quence was that the aerofoil section at the extreme 
+root end of the wing had to be increased to 22 per cent 
+depth instead of the 13.85 per cent of the standard 
+Gottingen 549 profile. The weight of the main spar so 
+constructed was a quarter of the total structural weight 
+of the sailplane.
+The rest of the wing was of standard form with a 
+plywood skinned leading edge, the grain of the birch 
+plywood laid diagonally to resist torsional loads. The 
+plywood over the inner wing panels was 2mm thick, 
+reducing to 1mm near the tips. This stressed skin was 
+supported by numerous light nose ribs to preserve an 
+accurate profile and stiffen the plywood against sec- 
+ondary failure. The outer panels of such a wing tend to 
+flex in bending and torsion during flight, and tip move- 
+ments up and down of a metre or so had to be allowed 
+for. The need in soaring to change direction frequently 
+in search of the strongest part of thermal upcurrents 
+requires effective ailerons. These on the T-34 were spilt 
+into two segments to prevent them binding at the 
+hinges as the wing distorted, and were driven by 
+tubular steel pushrods rather than cables. Rigging the 
+Sky was facilitated by the simple three-pin system of 
+attaching the wings to one another and to the fuselage, 
+but the weight of the wings was a disadvantage. It was 
+claimed that a trained crew could rig the aircraft from 
+its trailer in 6min, but what was not stated was the 
+number of people required for this exercise. It could 
+not have been fewer than four or five unless trestles 
+and auxiliary wheeled trolleys were available.
+The airbrakes used on the Gull 4 had been of the ver- 
+tical parallel-ruler type developed originally by 
+Schempp-Hirth in Germany. On the Sky these were 
+replaced by the DFS type of brake with paddles above 
+and below the wing which lay flush with the surfaces
+157
+
+--- PAGE 160 ---
+SLINGSBY SAILPLANES
+when retracted. On opening these brakes, the lower 
+paddle moved down and back, the upper paddle up and 
+forward, the aerodynamic loads on the two surfaces 
+tending to balance one another. Some difficulties were 
+found when closing the brakes on the prototype at 
+moderately high airspeeds, which required several 
+modifications before fully satisfactory operating loads 
+were achieved. They were also increased in size.
+The fuselage of the Sky from the wing forward was 
+identical to that of the Gull 4. The prototype Sky flew 
+with a rather angular built-up transparent canopy, but 
+in production this was replaced by a blown bubble. 
+Behind the wing, to keep the tail moment arms in pro- 
+portion to the greater span, the fuselage was stretched, 
+with an increased number of cross-formers and stiffen- 
+ers while retaining the same cross-section. The tail unit 
+was adapted directly from the Gulls. The rudder 
+proved somewhat too small, and various experiments 
+were tried to improve this before the final arrangement 
+was adopted. A simple landing wheel was fitted, but to 
+reduce drag for major competitions, the Sky was avail- 
+able without the wheel, a drop-off dolly being used for 
+take-off and landings being made on the skid alone.
+The prototype T-34 first flew in September 1950, and 
+favourable reports appeared almost at once. It handled 
+well and was safe and strong. Before long, comparison 
+flights against the Weihe were made, and it was 
+claimed that these demonstrated a clear advantage for 
+the new type. In some important respects these claims 
+were justified. The Sky showed measurable improve- 
+ment over the old German aircraft at high flying 
+speeds. For cross-country flying and racing in anything 
+but the poorest conditions the Sky would certainly do 
+better, gaining speed and distance in the glide, even if 
+not climbing quite so well in weak thermals. It was not 
+made clear in any of the published data that the Sky 
+and Weihe differed in weight and wing loading. The 
+Slingsby type was heavier and stronger, which gave it a 
+greater wing loading and hence a better glide at high 
+speeds. Had the two been compared at identical 
+weight, any performance advantage for the Slingsby 
+type would probably have disappeared.
+The BGA later published figures based on flight tests 
+which showed the Sky to have a best glide ratio of 
+about 27.5 at 34kt airspeed, the Weihe reaching 29 at 
+36kt. The best glide ratio of the Weihe was superior and 
+its minimum rate of sink was fractionally better. In 
+practice the difference between the two types, allow- 
+ing for experimental error in the test flying, was proba- 
+bly negligible. What was more important was that the 
+Sky was readily available at an attainable cost from a 
+British factory.
+Two Skys competed in the British National Contests 
+held at Camphill in July 1951. John Furlong's aircraft 
+was flown by Geoffrey Stephenson, well-known for his 
+cross-Channel soaring flight in the Gull 1 in 11)39. The 
+other Sky was piloted by Jock Forbes. who had made a 
+great reputation flying with the British Air Force of 
+Occupation gliding clubs in Germany. Two Weihes, 
+flown by Philip Wills and Lome Welch, constituted the
+main opposition. The contest had several remarkable 
+features. On one day Stephenson s barograph failed to 
+record correctly the height he had gained in a cloud 
+flight, costing him 52 points. On another day Forbes 
+attempted an out-and-return flight to Flamborough 
+Head, relying on a photograph he proposed to take of 
+the lighthouse to prove that he had reached the pre- 
+declared turning point. This was the first occasion ever 
+on which a glider pilot used a camera to prove the 
+rounding of a turning point in a competition. Forbes 
+did reach the lighthouse, but had to land a short dis- 
+tance inland on the return journey. His photo when 
+developed was almost indecipherable. The final result 
+of the competition after seven days' flying depended on 
+whether he could establish that he had in fact rounded 
+the Head, which would give him a small winning 
+margin. After some fairly frantic telephone calls it was 
+established that the lighthouse keeper had seen and 
+logged the appearance to seaward of a red glider at the 
+appropriate time. Forbes won with 877 points over 
+Stephenson, with 873, and Welch and Wills took third 
+and fourth places with 804 and 800.
+At the Festival of Britain exhibition, held on the 
+south bank of the Thames in London later in the year, 
+the prototype Sky was suspended in the transport hall 
+among other aircraft as a recognition of its design 
+excellence.
+It was not surprising that the British team of Forbes, 
+Stephenson, Wills, Welch and Foster, sent to Madrid 
+for the World Championships in 1952, should be 
+equipped with Slingsby Skys. Two others of the type 
+were flown by the Argentinian team, and one by 
+Ordelman of Holland. To the great delight of the British 
+Wills won the championships from the Frenchman 
+Gerard Pierre, with Forbes in third place. Slingsby's 
+latest product was thus established as one of the great 
+sailplane designs. The Sky had proved itself. Orders 
+came in, with exports as well as sales on the home 
+market, and for a time the T-34 was recognised as the 
+best available contest sailplane. Stephenson won the 
+British Nationals in 1953.
+Yet only 16 of the type were built. This was a modest 
+success, but not at all the kind of result Slingsby must 
+have hoped for. For its period the Sky was quite costly, 
+and with much less expensive gliders such as the 
+Olympia on the market there were1 not many individu- 
+als or clubs with the capital to buy one. In other coun- 
+tries during this period new sailplanes with very 
+significant improvements in performance over pre-war 
+German design were beginning to appear.
+The 1954 World Championships, held at Camphill 
+(forever remembered because they were almost 
+washed out by rain) were won by the French Breguet 
+901 flown by Pierre, with Wills in his Sky second. A 
+Weihe 50 from new German production came third, 
+showing that even this old type could still do well, 
+especially in difficult weather. Meanwhile, outstanding 
+work by the aerodynamicist August Raspet and Dick 
+Johnson in the USA had produced the RJ-5 sailplane, 
+which, after very skilful rebuilding, smoothing and
+158
+
+--- PAGE 161 ---
+TYPE 34, SKY
+sealing, achieved a best glide ratio of 40:1 using NACA 
+low drag '6 Series' wing profiles. The Breguet 901 used 
+these sections and achieved a glide ratio of 36:1. By 
+1954, it was clear to anyone that design concepts 
+dating back to 1938 were no longer appropriate. The 
+success of the Sky was short-lived. Even so, as late as 
+1958 in Argentina, Sky sailplanes placed third, fourth 
+and fifth in the National Championships.
+Today, several T-34s are flown in Britain and are trea- 
+sured by their owners. These include BGA 685, the 
+prototype; BGA 686, the third off the production line in 
+May 1951; and BGA 698, first registered in 1953, which 
+has been fitted with a Skylark cockpit canopy. It is not 
+known how many of those that were exported have 
+survived, but some that were sold to Dutch and Swiss 
+owners have more recently been returned to Britain, 
+and one at least has been exported yet again.
+Type 34 Sky data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o. a. 
+Wing sections
+Root
+Mid-span
+Tip
+Weights
+Tare 
+Flying 
+Wing loading
+18m (59.06ft)
+17.37m-(187ft-)
+18.7
+7.65m (25ft lin)
+Goltingen 549 thickened 
+Gottingen 549 
+NACA2R, 12
+249.5kg (5501b) 
+362.9kg (SOOlb) 
+20.9kg/m2 (4.281b/ft2.)
+An early experiment with a much-enlarged rudder with aero­ 
+dynamic balance. This was not adopted for production. 
+(Slingsby collection.)
+The prototype T-34 showing the original built-up cockpit 
+canopy, small rudder and translucent doped fabric covering. 
+(Slingsby collection.)
+An early production Sky outside the factory at 
+Kirbymoorside. (Slingsby collection)
+159
+
+--- PAGE 162 ---
+Wills in the Sky taking off on a winch launch. (Charles E 
+Brown, RAF Museum, Hendon, neg No. 6568)
+Philip Wills flying his Sky with the landing skid instead of the 
+fixed wheel arrangement. Performance tests by the BGA 
+Test Group 1 based at Lasham showed a gain of one point in
+the best glide ratio for this configuration. (Charles E. Brown, 
+RAF Museum, Hendon, neg No. 6598-3}
+During the National Championships, a goal race to 
+Dunstable from Camphill was won by Geoffrey Stephenson. 
+Jock Forbes was placed second and Philip Wills, in the 
+Weihe, came third. The two winning Sky aircraft are seen 
+here after landing at Dunstable on 21 July 1951, with the 
+Olympia flown to fourth place on this day by Tony Goodhart 
+behind them, and Wills's Weihe on the left. (M. Eacock)
+Geoffrey Stephenson in the cockpit, preparing to take off. 
+His wife and crew chief Beryl assists. (Charles E. Brown, 
+RAF Museum, Hendon, neg No 6613-12)
+
+--- PAGE 163 ---
+I 
+I
+Rigging detail of the Sky. Two horizontal pins aligned on the 
+same centre attach one wing to the fuselage. When the 
+other wing is similarly attached the last pin is inserted to join 
+the upper flanges of the main spars. Aileron and brake 
+pushrods are linked with pip pins. (P. J. Teagle)
+Airbrake detail of the Sky. When retracted, the brake paddle 
+lies flush with the wing. ( M. Simons]
+BGA 685, a restored Sky which has been a frequent par­ 
+ticipant in vintage rallies in recent times, at Dunstable. 
+(M. Simons)
+Instrument panel and cockpit details of Sky BGA 686. 
+Instruments, from left to right and top to bottom, are airspeed 
+indicator, electric variometer, altimeter, mechanical vario­ 
+meter (PZL), artificial horizon, turn and slip indicator, Cobb- 
+Slater variometer, oxygen pressure gauge and Cook 
+compass. (P. J. Teagle)
+AVB
+
+--- PAGE 164 ---
+J_499-4-457-|-407-|-470—430
+I-438-I-392-I-4544-536-I—575
+Root section 
+NACA633 618
+Tip section 
+NACA64J618
+Slingsby Type 37 
+Skylark 1
+Drawn by Martin Simons 1994
+
+--- PAGE 165 ---
+Type 37, Skylark 1
+Several lines of thought converged to produce the first 
+Slingsby Skylark, which began test flying in March 
+1953. According to Slingsby himself, the prototype was 
+built 'for a lark', hence its name. There was a serious 
+purpose behind this 'lark', and with its subsequent 
+development it led to something of a golden age for the 
+Yorkshire company. It was numbered Type 37 in 
+Slingsby's sequence. (The T-35 Austral was the one off 
+extended-span version of the T-31, and the T-36, a pro- 
+jected two-seat development of the T-34 Sky, was never 
+built.)
+In a highly competitive market a successful sailplane 
+was judged chiefly by its performance and price. 
+Slingsby argued rightly enough that, despite the advan- 
+tages of a large wingspan, a small aircraft should 
+always turn out cheaper to produce than a large one 
+using similar materials. If the performance was not 
+much poorer or, with improved aerodynamic design, 
+even superior to contemporary 15m sailplanes such as 
+the Olympia, and if the price was lower, sales of a new 
+type ought to be good. There was also some need for 
+research into the lateral controls of sailplanes which, 
+with their high aspect ratios and relatively large 
+moments of inertia in the rolling plane, tended to be 
+sluggish when changing direction and suffered from 
+severe adverse yaw caused by aileron drag. Moreover, 
+they were occasionally prone to aileron reversal at 
+moderately high speeds. Application of aileron could 
+cause the wing to twist so much that the control 
+became ineffective or reversed (an example being the 
+T-14 Gull 2). Many sailplanes were notoriously heavy 
+on the ailerons. Rudders, in the absence of any slip- 
+stream from a propeller, were seldom adequate.
+In the autumn of 1952 some preliminary design work 
+was begun. To facilitate the research the wing was 
+designed in three pieces, consisting of a parallel-chord 
+centre section with detachable outer panels which 
+could be changed as required to try out different types 
+of control, including tip spoilers coupled with short- 
+span ailerons, different tip sections and varying 
+amounts of washout. The three-piece design also obvi- 
+atod the need for heavy and expensive metal fittings at
+the root ends of the wings, where, in orthodox prac- 
+tice, they were joined to one another and to the fuse- 
+lage at the point of maximum stress. Carrying the 
+mainspar through in one piece, with appropriate dihe- 
+dral built in, saved both weight and cost, as the fuse- 
+lage could be suspended below such a wing using the 
+simplest and lightest of fittings. The connection 
+between the outer wing panels and the centre section 
+was made by a single vertical steel pin inserted from 
+above, with very simple automatic alignment and 
+connection of front and rear drag fittings.
+At this time Slingsby appointed John Reussner, a 
+qualified engineer from Hull, as draughtsman and 
+designer, and it may have been at Reussner's sugges- 
+tion that Slingsby decided to use the NACA '6 series' 
+wing sections. The original intention had been to use 
+the older four-digit profiles which had been successful 
+on the Gull 1 before the Second World War. The out- 
+standing performance in the USA of the RJ-5, using the 
+newer so-called laminar flow profiles, caused sailplane 
+designers all over the world to revise their ideas, and a 
+major advance in performance was expected. The sec- 
+tions chosen for the T-37 were the NACA 63 3618 for the 
+centre section, tapering to the 64 3618 at the tip, with 
+3.5° of washout to prevent tip stalling. The 63 section 
+should have a laminar boundary layer to 30 per cent of 
+the chord (as indicated by the second digit), and the 64 
+section to 40 per cent. As denoted by the last two 
+digits, the wing was 18 per cent of the chord in thick- 
+ness. The figure 6 relates to the camber, which was 
+large compared with that used for powered aircraft, 
+and the sub-scripted 3 referred to the width of the low- 
+drag range, or 'drag bucket', of these profiles. An 
+important advantage of the new sections was that, 
+even though they were thick, their very wide 'drag 
+bucket' allowed a sailplane to perform well at low 
+speeds for soaring and at high speeds for penetrating 
+sinking air between thermals. Preliminary calculations 
+showed that with 13.72m (45ft) span with these low 
+drag profiles, the Skylark would not only be cheaper 
+but would also outperform larger types.
+To get the advantage of laminar flow in the boundary
+163
+
+--- PAGE 166 ---
+SLINGSBY SAILPLANES
+layer, the RI-5 had proved that it was absolutely neces- 
+sary to make the wing accurately and to prevent the 
+development of waves and humps, particularly over 
+the forward third of the chord. Quite a small hump or 
+hollow, and even small blobs of paint or fly specks in 
+this region, could cause the boundary layer to become 
+turbulent. A 'low-drag' section with the flow forced 
+into premature turbulence would actually produce 
+more drag than one of the old-fashioned profiles. Dick 
+Johnson had completely rebuilt the wing, and spent 
+many hundreds of hours levelling and smoothing the 
+surfaces of the RJ-5 before the sailplane began to 
+perform up to expectations. To maintain this per- 
+formance the levelling and smoothing process had to 
+be repeated every season.
+Hitherto, production sailplanes had usually been 
+skinned with birch plywood, often with the grain laid 
+diagonally. The ply was as thin as possible consistent 
+with strength and stiffness, to save weight. Hence 
+there were waves in the skin even as a new sailplane 
+emerged from the factory, and after a short time in 
+service these became more prominent as the wood 
+shrank slightly, producing something of a 'starved 
+horse' appearance, with every rib visible from the 
+outside. Where the plywood was glued to the mainspar 
+there was always a marked bump running from tip to 
+lip on both upper and lower surfaces. With the older 
+types of wings the penalt ies were not very great, but 
+the new profiles demanded much more attention to 
+these details.
+I laving recognised the problem, Slingsby adopted a 
+radical solution. Instead of thin, high-density birch 
+ply, an African gaboon plywood of low density and 
+greater thickness was used. Gaboon, rather a soft 
+wood, had not been well liked for aircraft construc- 
+tion previously, and the greater stiffness of the 
+material necessitated a different approach to manu- 
+facture and surface finish. Thin birch ply can be per- 
+suaded without very elaborate moulding techniques 
+to bend right round the leading edge of a wing, so that 
+the skin can be continuous from the bottom round to 
+the top of the mainspar. This was not feasible with 
+gaboon, so the extreme leading edges of the Skylark 
+wing were made from an accurately machined and 
+spindled hollow member of spruce, with rebates top 
+and bottom to accept the edges of the plywood. The 
+skin was then applied in separate panels above and 
+below, with careful attention to the leading-edge 
+joints to prevent irregularities. This was largely 
+successful. The Skylark wings were much more accu- 
+rate and wave free than those of previous sailplanes, 
+and remained quite good in service. To preserve accu- 
+racy over the rest of the wing the plywood skin was 
+carried aft to the auxiliary spar, only a small area of 
+the wing near the trailing edge being fabric-covered. 
+The outer wing panels and ailerons were entirely ply 
+skinned. To protect the rather soft outer veneer, light- 
+weight cotton fabric was doped on to the plywood 
+before painting. Airbrakes of the well tried Schempp- 
+Hirth type were installed and, according to Slingsby,
+proved to be very effective, even more powerful than 
+strictly necessary.
+The rest of the Skylark 1 was very orthodox, even 
+somewhat crude, since it was regarded as an experi- 
+mental aircraft. The fuselage was adapted cheaply 
+from that of the T-30 Prefect trainer, being a wooden 
+space frame with a simple cockpit and an upright, 
+rather cramped and uncomfortable seating arrange- 
+ment. The undercarriage was a simple rubber-sprung 
+skid. The tailplane, like the wing, was skinned with 
+gaboon ply. It was intended to produce a more refined 
+streamlined monocoque fuselage for series product ion 
+once the wing design had been proved.
+After preliminary test flights, the Skylark was flown 
+in the British National Championships by Anthony 
+Deane Drummond, the distinguished soldier and pilot. 
+The EGA handicappers rated it about equal to the 
+much larger and more expensive 18m Sky and Weihe, 
+with a best glide ratio about 27:1. The features that 
+Deane Drummond praised most were the very effec- 
+tive lateral controls and the absence of adverse aileron 
+drag, suggesting that the research had paid off. His 
+chief criticism of the Skylark was that it had a higher 
+wing loading and hence a greater stalling speed and 
+larger circling radius than he had been accustomed to. 
+He thought these were disadvantages for British 
+soaring conditions. In good soaring weather the T-37 
+was excellent. Deane Drummond was placed fifth in 
+the individual list, a good result considering the limited 
+time he had had to get Used to the aircraft.
+A second T-37 was built for South African pilot Pat 
+Beatty to fly in the 1954 World Championships at 
+Camphill. In miserable weather which produced a bare 
+minimum four days' flying, in common with several 
+others he scored points on only one day. Afterwards 
+the Skylark was taken to South Africa. What became of 
+it there is not known. The one that remained in Britain 
+was sold by Slingsby and still exists, though it is now 
+very rarely seen or flown.
+Technically, the T-37 was a very considerable 
+advance for Slingsby. It is interesting to speculate on 
+what might have happened if he had done as origi- 
+nally intended and produced a new version with 
+exactly the same wing and a superior fuselage and 
+cockpit. The wing loading of 28.8kg/irr (5.891b/ft2), 
+which was considered so high in 1953, now seems 
+extraordinarily light when sailplane pilots commonly 
+load up their aircraft with large quantities of water 
+ballast to achieve loadings nearly twice as great. 
+Already in 1953 the mighty HKS 1 from Germany was 
+flying successfully with higher wing loadings, and the 
+Breguet 901, which won the wretched 1954 World 
+Championships, had a wing loading comparable to 
+that of Sling's little Skylark. The Breguet, however, 
+had enormous Fowler flaps which enabled it to turn 
+tightly in small, weak thermals. As it was, Slingsby 
+allowed the collective voice of British pilots to con- 
+vince him that the Skylark should follow a more con- 
+servative line of development; more span, more wing 
+area, lower wing loading.
+164
+
+--- PAGE 167 ---
+Type 37 Skylark 1 data
+Dimensions
+Wingspan 
+Wing area 
+Aspect ratio 
+Length o. a. 
+Wing sections
+Root
+Mid-span
+Tip
+Weights
+Tare 
+Flying 
+Wing loading
+13.7m (45ft)
+10.5m2 (H3ft2)
+17.9
+6.39m (20.95ft)
+NACA63 3618 
+NACA63 3618 
+NACA64 0618
+196.5kg (4331b) 
+302kg (6651b) 
+28.8kg/m2 (5.891b/ft2.)
+Tony Deane Drummond taking a winch launch in the proto­ 
+type Skylark at the 1953 British National Championships at 
+Camphill. (Slingsby collection)
+Beatty takes a winch launch at Camphill during the 1954 
+World Championships. (M. Eacock)
+The prototype Skylark survives in Britain but is not often 
+flown. It is shown here, carrying the contest number 234, in 
+company with the later developments Skylark 2, 3 and 4. 
+( Wills collection)
+
+--- PAGE 168 ---
+SLINGSBY SAILPLANES
+The Skylark was unusual in having a three-piece wing com­ 
+prising a central section with two tip sections. The airbrakes 
+were in the centre panel, the ailerons confined to the outer 
+panels.
+The prototype Skylark on the ground at Lasham in 1953. The 
+wheeled dolly was used for ground handling. The fuselage 
+was taken with minimal changes from the Prefect training 
+sailplane, the most noticeable alteration being a reduction in 
+height to allow the cantilever wing to be attached on a 
+broader pylon.
+166
+
+--- PAGE 169 ---
+Before the 1954 World Championships, the South African 
+pilot Pat Beatty took delivery of the second Skylark and flew 
+it at Dunstable. He is seen here in the cockpit, with the 
+canopy about to be put in place by his countryman, Heli 
+Lasch. (M. Eacock)
+In this photograph it is Lasch's turn to try the Skylark while 
+Beatty looks on. (M. Eacock)
+167
+
+--- PAGE 170 ---
+Wing section 
+Gottingen 426
+Slingsby
+Type 38
+Grasshopper
+Drawn by Martin Simons 1992 
+v£)
+
+--- PAGE 171 ---
+Type 38, 
+Grasshopper
+It seems extraordinary at first that while Slingsby was 
+working on the technically advanced and innovative T- 
+37 Skylark 1 in 1952-5:3, he should revert to the produc- 
+tion of a primary glider. The British gliding movement 
+had almost totally abandoned solo training methods by 
+this time, and there was no demand from the civilian 
+clubs for such primitive aircraft. However, there were 
+many schools with Combined Cadet Force units, in 
+which boys could receive some basic military training. 
+The officers were usually schoolmasters who had 
+gained experience in the Services during the Second 
+World War. Boys who were interested in the army had 
+guns to work and drill with, and those who were keen 
+on the Navy could learn to row, sail and navigate boats. 
+There was nothing of similar kind for the air-minded 
+cadets. Members of the Air Council recognised that 
+this was an unsatisfactory state of affairs, and the idea 
+that the cadets could have an elementary glider to play 
+with appealed to the authorities. Such machines could 
+be used for instruction in airmanship, aircraft struc- 
+tures and controls. The cadets could learn how to rig 
+and inspect gliders, and even carry out simple repairs. 
+It would not be necessary for the aircraft to be fully air- 
+worthy.
+The EON Type 7 primary glider, available new from 
+Elliotts of Newbury, was a straightforward copy of the 
+successful German SG-38, fully certificated for flight 
+including aero-towing. About 90 had been built but 
+many were not sold, being allowed to stand idle in 
+storage. A few, named the Eton TX-1 by the ATC and 
+RAF, were in use. It was, however, remembered that 
+the ATC had a large number of the old Slingsby T-7 
+Cadet wings, and more spare sets of wings from Cadets 
+were in stock at Kirbymoorside, following conversion 
+of the aircraft into Tutors. A new fuselage frame could 
+be made to take Cadet flying surfaces which would 
+need some servicing and very little modification. It 
+would be possible to produce a large number of suit- 
+able, non-airworthy gliders very quickly and more 
+cheaply than buying the Eton.
+Slingsby was very happy to undertake the work of 
+overhauling the wings, many of which were quite old
+and glued with casein. Tail units were also taken from 
+old Cadets. The new fuselage was very similar to that 
+of the SG-38, the only important difference being that 
+the telescopic springing system used on the skid of the 
+German type was replaced by a simpler suspension 
+system of hard rubber rings. Provision was made for 
+ballast weights to be fitted to allow for small and light 
+boy pilots. To prevent the pupil from over-controlling 
+and perhaps even getting the glider off the ground into 
+some dangerous attitude, a locking pin could be 
+inserted to restrict the movement of the elevator.
+Flight testing of the T-38 Grasshopper was under- 
+taken by Derek Piggott, launching by aero-tow to 900m 
+(3,000ft). Presumably the aircraft used was carefully 
+checked and was fully airworthy, since it was not feasi- 
+ble to carry a parachute. The ailerons were not differ- 
+entially geared, and severe adverse yaw was 
+experienced when entering turns. The vertical tail area 
+was found to be too great, it being impossible to yaw 
+the aircraft straight with rudder during the hold-off for 
+a crosswind landing. This was corrected by removing a 
+large area of fabric covering from the rear bays of the 
+gate-like tailboom. The Grasshopper would enter a 
+spin with full up elevator and full rudder and opposite 
+aileron, but would spiral out after about one full turn.
+Adopting an idea from the old German gliding 
+schools, the primary glider could be suspended on a 
+pendelbock for the boys to get some feel for the con- 
+trols. The pen del bock was a tripod on which the glider 
+could be suspended on a universal joint about its e.g. In 
+a wind the controls would all work correctly, and a boy 
+on the seat could use ailerons, rudder and elevator to 
+change attitude without actually leaving the ground.
+Having established that the glider was at least con- 
+trollable, manufacture, (or remanufacture) began. A 
+total of 115 were delivered. Many spare parts and a 
+great deal of repair work were necessary during the 
+following years, all quite profitable to the company.
+A training school for the cadet officers was estab- 
+lished at Detling, Kent, where Derek Piggott was 
+working. The procedure was to give each schoolmas- 
+ter at least one genuine flight in a T-21 Sodbergh to
+169
+
+--- PAGE 172 ---
+SLINGSBY SAILPLANES
+teach the effects of the controls, even allowing the 
+student to do the landing. After this the course was 
+confined to bungee launching the primary glider up 
+and down the airfield. With one person strapped safely 
+on the glider's seat, four on the bungee, a wingtip 
+runner and someone holding back the tail as the 
+bungee was stretched, the work was hard, and at the 
+end of a good day each student would have had four or 
+five ground slides or very low hops. It was exhausting, 
+and Piggott remembers sometimes praying for rain so 
+that they could have a rest. On one occasion a course 
+continued to operate in deep snow, with fog in dead- 
+calm air reducing visibility to 100 yards. The group 
+operating the glider wandered about, launching, 
+hopping and launching again until a fence was encoun- 
+tered, after which the glider was turned and launched 
+again and again until another fence was found. After a 
+short time the group was totally disoriented and did 
+not know in which direction to find the hangar.
+The amount learned on these exercises was depress- 
+ingly small in relation to the physical effort put into 
+them, and eventually winch launching was used to 
+speed things up. Even so, progress was very slow com- 
+pared with two-seater training. With their new-found 
+skills and a glider, the officers could return to their 
+schools and keep the boys busy for hours. An inexperi- 
+enced group following the instruction manual could 
+spend most of a day simply rigging the glider, and it 
+would often be wrongly set up at the end.
+Each cadet group was supplied with a rubber bungee 
+for ground slides. Strictly, the cadets were not supposed 
+to fly, but many did achieve hops, either intentionally or 
+by accident. The ballast weights provided were often 
+wrongly disposed or not fitted, so a lightweight cadet 
+would sometimes find himself off the ground in a climb- 
+ing attitude. If the locking pin was in place the restricted 
+stick movement would prevent adequate corrective ele- 
+vator action, even if the pupil knew what to do. George 
+Locke, who already had achieved his A and B 
+Certificates, contrived to remove the locking pin fr

@@ -1,0 +1,4105 @@
+FLICKFIBEL — PLASTIC PLANE PATCH PRIMER (3rd issue, 1978)
+Ursula Haenle — English translation. GRP/fibreglass repair guide for sailplanes.
+OCR from scanned PDF (no text layer). OCR errors present; verify critical values
+against the source scan: composite_repair/plastic_plane_patch_primer_flickfibel_1978.pdf
+======================================================================
+
+--- Page 1 ---
+U
+R
+SU
+LA H
+-
+N
+LE
+
+|
+
+
+--- Page 2 ---
+
+
+
+--- Page 3 ---
+Forewoxd of 4rd issue
+
+Crewing experience and enlarging of the plastic planes, also develop-
+ment of the ‘basic materials required since long time a new~
+
+forming of the Patch Primer. Or, really radical: is this thing
+
+still necessary?
+
+‘yot only that we know in the meantime other fibers, from what the
+slender birds are made ; the manufacturers are pressed by the LBA
+to deliver maintenance and repair handbooks for each type of them.
+And these are responsible before all other papers because the manu-
+facturer carries the responsibility, against you and the DBA.
+
+Only if there is nothing to have from him, because he is no more
+present, f.i., jump into his part the LBA, his control organizations,
+or an LTB (there are available a lot, also some with good quality).
+the necessary to explain a complicate repair method will be replace
+also by the lot of FRP = workshops which are arranged. on many places.
+
+the villages in possession of an FRP expert grew more numerous!
+
+pot what we miss in spite of this: a general introduction for-wew-
+comers in this territory. For instance; what [I have to observe if
+
+I would like to buy -such a plane? What I can do for to conserve it
+
+for a possible long time ? How I can help myself in case of little
+failures? .
+
+The new Patch Primer for this will have its ¢.G. more to this subjects.
+But it affords the luxe to transmit without change the introduction
+
+of the first issue from 30 years ago - a lot of this is no more utopic
+atoday.
+
+When TI wrote in 1967 the first issue of the booklet, I was nearly
+as a prophet in the desert.
+
+Today we are in the position to know, not by speculation but
+by experience,to say how is the behaviour of a plane with 410 years
+in action. : .
+
+the new Patch Primer also will have the size and the arrangement
+which will allow you to insert this general basis into your advises
+of the manufacturer. The system of numbering the pages allows to
+insert them together with special tips for your plane onthe correct
+place. “3
+
+strodehne, spring 1997 \4) af wh
+ides
+i
+\
+
+
+--- Page 4 ---
+Foreword 2nd iss u‘e;
+
+Many owners of a plastic plane which had the wish to learn
+more about the inner life of their bird have looked out for
+
+a PPPP without success in the last time.
+
+I thought that another person would write a replacement for it
+with much more knowledgment, science and make-up.
+
+However~ this person was not found, sorry. And because under
+blind persons the one-eyed is king, so I was sitting down and
+writing all the informations from 10 years working and learnin,
+on fiberglass sailplanes in this second issue.
+
+. Please would you connect during reading your pleasure to be
+able to help yourself in much cases with a moment of thanks
+
+to my husband, Mr. Eugen Haénle, because most of this recogniza
+tions were coming from him.
+
+May 78 UE.
+
+Copyright by Ursula Hanle. all rights reserved.
+
+
+--- Page 5 ---
+Table of Contents
+
+General
+
+JTMGLOMUCELONs seven cece cere cane nenseneanenses eel (0
+A Little schoolabout plastics. cccssensacesenselQ2
+Glas fibers, fiberglass... cecesccccnccneeseeeal OD
+New fibers. sss cc ccesencnaseescsevesessseesaeee bl d
+Sandwich. wsssesee seen eens rer rr
+Quality Festa ecressceacsarcacevcvassssveceser sll
+
+Testa
+
+Help for health for PRP gliders....seeeeeeeee+200
+Gheck List connected plane..acssaccaveccaseee e204
+Check List partSccuscesccecsssessereneenecae es 206
+Yearly control...... deren awe nse e ra eseensees eral
+Buy a plastic plane. ...ssccerevcecersenen eee es AlQ
+
+Practice
+
+PreLiminariecd secs caasvrecacncccasasssesetene sr OQ
+Filling materials, separating fluids.....+...- 301
+Tips, Press (VACUUM). seseeeeseesreceresearcess I02
+TOOLS. carsecee ene e nn veteneneee cece ete e nance ne D04
+
+Repair tips
+
+FRP- sandwich shells.ecaseecsaenneareerecsr «400
+Roving layers ancestor atcererenwenecesanse ne cA Qh
+AL1- Fiberglas shells ..sccccecasssnnenesscuce 406
+Damaged parts. ance r ener nesene ae anser neers es c4OS
+Diverse tesin WOrkS se. cscs cccuaeerene ate acaae «410
+Added equipment...asee. sara nnaeowerenasecncneshld
+
+Surface
+
+PUTTY cere esencevenee arrears 16\0)
+Finish: polyester golcoat sa nee se eeaee bene a wens 5ol
+working methods. pace naes ean eennnaeas eee 02
+Finish: DD- laquer | sence ceca ernenene pane e 0 D04
+
+Ganopy
+Sealing: Silicone..... pee eeenes pean cawewane ++ 600
+
+Polish ».s..se-- eee neon eeues eee wee eee 601
+Segling: plastic canopy FVAMC cece eee ee ee eeees 602
+
+performance tickle
+
+C.Ge POSLTLON cece ene nnae “Vea sawae ates beware >700
+Aidleron endplates; Airflow wisecee se naeeeeenes TOL
+Sealing, otherS....sseaeeae Cn ewes oneness naee 2702
+
+
+--- Page 6 ---
+
+
+
+--- Page 7 ---
+(Foreword to the first issue - 1967! yd 100,
+
+Drrecumn tte,
+
+Pilots, especially glider pilots, have recently lived through a small
+revolution. It came from Germany, and it was happy and constructive:
+
+{ An airersfit whdse load-bearing ff
+
+are composed of reinforced plastic.
+
+As it was 50 years ago, when gliding was born, it was young people seeking
+the stars, who, without regard for finance or authority, opened a new way
+to aircraft construction.
+
+Yes, very clearly: Aircraft construction. Even then no one knew the number
+and extent of the cicles which the new construction method would have the
+power to influence. Today the method is handicapped, in the sense of
+
+a large~scale industry, by the large amount of hand labor — but so were
+other branches of industry in their beginnings. It may be that in 50 years
+one will laughingly consider putting today's equipment of a fiberglass
+workshop in the Deutches Museum; it may be -that one then will have no. more
+the sticky fingers and the collar of glass dust - the beginning was here,
+today, with us.
+
+The reinforced plastic aircraft has it roots in ‘demande’ which are quite
+special for the sailplane pilot: Higher strength and stiffnesa with lower
+weight - one seeks the ultimate of materials — and higher aeroflynamic
+performance.
+
+The strength/weight ratio of fiberglass used in aircraft today is higher
+than that of good steel. The weights of pilots are more or less fixed,
+
+but cockpits can be fitted with lighter wings than with more conventional
+construction. Or, as the advantage is usually taken, the. aireraty can have
+higher strength for camparable waight. we '
+
+The conventional conatruction methods normally begin with partially
+fabricated material of limited deformability and are accordingly a compro
+mise between the form demanded by aerodynamics and its realization by meaua
+of a material which has essentially the form of sheets.
+
+Tie reinforced plastic aircraft daes not. embodysuch a compromise. fo be
+sure, some sheet-like material is used, but ita fabrication is suited! to
+itself from the beginning; it surmounts any Limitations of surface — it
+can in practise take on almoat any shape in the greatest detail, formed
+with so-called "lost" molds, or even without them. The builder is com-
+pletely free to follow the laws of the streaming air.
+
+Mie unbounded formability, and the variability
+same time its chief problems, because they re-
+h in craftsmanship and design.
+
+These two distinc
+of the material
+quire an enti
+
+
+--- Page 8 ---
+104
+
+There is still a big item which both the builder and the pilot care about:
+The damping effect.
+
+Qne weans by this the capability of a material to absorb an impulse at
+its working conditions even though it is not permanently deformed. This
+damping effect for load-bearing fiberglass elements in an aircraft is
+very high, about 20 times as high as steel, if one takes into account
+the higher density of steel.
+
+It follows that a fiberglass fuselage can endure much more thao one
+
+of wood or metal before ita contents are effected. This already applies
+to so-called fiberglass— sandwich shells; it applies even more strongly
+to solid fiberglass shells. And ultimately one is led to springs of
+fiberglass; we already find such springs under helicoptera and aircraft,
+and also in the landig gear of the, Libelle (E.g., the tail skid).
+
+A further interesting point for the high- performance pilot is the
+
+quality and permanence of the wing surfaces. A fiberglass reinforced
+plastic object, once it is hardened, is, as we shall later clarify,
+
+fixed indefinitely to its original form. It changes no more, even if
+soaked in water. It does not chip, spall, or swell, Remedies, such as
+coatings, specially total paint~ removings, should be spared on fiberglass
+aircraft - no well-equipped bird needs this either. One who cannot live
+without polishing something can use ordinary cloth and automobile polish,
+
+Plexiglass polish, ete.
+
+No wonder then, that the love of fiberglass aircraft spreads like an
+epidemic. High performance pilots, and those who aspire to be such,
+cleave ever more to the swift, slender white birds. But a disquieting
+thought lurks in the background: ‘
+
+"Really now, what if the thing gets damaged, or goes kaputt? What then?"
+
+The repair possibilities are basically about the same as for wood. How-
+ever, the facts that almost any village holds a cabinetmaker, while must
+look a long way for a fiberglass expert, makes the‘ outlook ‘somewhat
+delicate... But as fiberglass aircraft become more widespread, fiberglas
+glass specialists will - must! ~ appear in flying clubs and workshops.
+
+Small holes in the skin, or a nick in an edge —‘“these'‘oan be fixed from
+the directions in the repair kits. And for perchance a damaged spar,
+
+- as with a wooden ship — one would use good sense, and take it only
+
+to someone with knowledge and experience. One shovld not overlook the
+fact that this misfortune is rarer with fiberglass, on account of its
+gréater durability. :
+
+If any doubts arise during a repair, please ask your constructor, insteed
+of taking the risk upon yourself. In order to be complete, this manual
+inust at least contain a fairly complete drawing. And in spite of this
+there would be the possibilits of added questions. Otherwise there will
+be something which you can't repair, either because special tools are
+necessary for it, or it would not be advantageous to do the repair work
+yourself.
+
+Por special questions, as when one perhaps needs to rémove the ailerons
+
+or where is the best place to put the oxygen equipment, it is again ,
+advantageous to have the answers in the standard format, so that you
+
+can make easy work to add this into the booklet. Then you will have repair
+instructions for your ship with the minimum trouble and in a smooth
+continuous fashion, : ,
+
+fhe system of page numbering permits you to arrange things in the right
+Place and provides spare also for special notices and sketches: from
+your own practice in workshop. : —
+
+
+--- Page 9 ---
+AGL
+
+A LDIPTTLE SCHOOL ABOUT PLAS ? Ics.
+
+Plastics in aircraft are not new!
+
+The most of the, modern glues for wood or metal are plastic-— based. Plastics
+In spite .of this, you find in the operating: manual for your aircraft .
+
+a table which’you have never seen for other birds. This’ does not imply
+
+that other aircraft do nat follow the same lawa. The question is only
+
+whether suck a peculiary ought to be emphasized here.
+
+Alghough ° ‘one knows, for example, ‘that some glues, upon being beated ta
+50°C, suffer a loss of strength wich is not recovered on subsequent
+cooling, there are no exact studies of the subject. And although it ig
+generaily known that all wooods "work", i.e., parts respond to changes in
+climate and thereby swell and shrink (metal parts, tpo!), the normal
+instruction manual contents itself with the brief remark: "Guard against
+excessive hot! sunlight". . Lod
+
+The fiberglasq plane also could use the same term. But rather com—
+plate studies thave been made on fiberglass materials ‘and objects made
+from them. Accordingly, one can give quite accurate limits-for safety.
+Thus one knows, for example, from dtudies made on complete fabricated
+articles, how:a wing will behave after 9000 hours under ijpad dike in.
+flight, ora fuselage in winch lauych at 54°C (1299F), _
+
+The fiberglass sailplane, when first offered to. the public, met with
+other suppositiona. In the geod old days when wooden aircraft made their
+appearance, ote didn't know very much about flying and its easgciated |
+stresses. One:rattled the wings, and if noting’ fel ah ¥
+start. The fiberglass sailplane made its debut “utider ‘the
+a. testing bureau, many whom of were sclentificalty ° trained ;.-
+nally, as the'result of an accident, were inclined to be skeptical.
+This was -in no way a disadvantage, for ane approached the teste of air-
+worthiness with foresight and an enormous amount of research results -
+for your benefit!
+
+(And not only i iyou and the fiberglass aircraft manufacturer; other
+‘faculties also profited from these studies: for example, it was found that
+the value’ of gompresdive strength in the fiber direction, according ta .
+correct assumptions, was almost equal to the tensile-strength, uot only
+for Fiberglass. but.alse for fir. For years a smaller value had been
+taken.
+
+Even so, the studies showed that the strength of fiberglass articles
+
+did not fall, .but instead rese, if one held it at a higher temperature
+
+and then ‘tested it again after cooling. How does this come about?
+
+
+--- Page 10 ---
+loz
+
+thermoplasts
+
+Plastics are built by stimulate their molecules to knot nets or chains.
+They go together with regular repeated pattern, (the word "Poly" means
+“many-fold"). It is not uncommon for a molecular chain in a polymer to be
+made of several thousand links. For some nets it is possible to "de-knot"
+them. When such a polymer is warmed, the chains or nets: vibrate more and
+become more free to move past each other. The plastic becomes soft and
+
+can be molded; when cooled, it hardens in this form. This can be repeated
+over and over. Such polymers are called "thermoplastic" because they become
+soft — plastic - when heated.
+
+Expensive machinerv is needed to heat and mold such materials, and they
+are also not suitable for aircraft for other reasons. One exception is
+
+’ Plexiglass, used for the canopy.
+
+quroplasts
+
+Epoxy
+
+Cleanliness
+
+Other polymers are wade of nets which’are tied together at a desired time
+
+by chemical reactions so that the entire collection form a rigid network.
+
+When warmed, the net remainsfirmly hound together, and may even form some
+
+new bonds. Such polymers, when they are fully hardened or cured (have many a
+inter— chain bonds), do not dissolve easily in solvents, can not be moided
+again, and so are formed only once — hopefully in the right shape.
+
+This polymers are called "Guro-plastics" or “thermogetting", because their
+shape endures, despite moderate heating or exposure to many solvents
+
+The duroplastics are usually employed in aircraft coustruction and the prin-
+cipal type used goes by the name of "epoxy". There are. slight variations
+in.the kinda of epoxies available, but most of them -have outstanding strength
+and tenacity, as plastics go. They are made by mixing liquid’ resin with har—-
+dener; these begin to reant at once to build nets and tie them together, and
+before long one has the rigid article. The chemical reactious liberate heat,
+and the hotter the mixture, the faster the- reactions go. (Never work with
+more than 2 pounds or 1 kilogram, in one pot, because the Bot can get hot
+enough to fill a whole factory with fumes!) .
+
+To make articles with the resin, one needs also a wiold, ‘but one can make
+
+.the mold himself. Repairs to such articles can’usually be made more or less
+
+freehand. .... one does not need presses or expensive machinery, steam, elec—
+tric power, ete, If necessary, one can get. by: with 2 measuring cups and some
+pieces of wood.
+
+And on top of all this, this simple mixture yet ‘pemaide the dest ‘compromise
+for all'plastics to be used with fiberglass! Bo 7
+Thus it becomes possible for you-to repair your fibargines: ‘sailplanes quite
+simply. . 2
+
+It is clear that the chemical reactions to produce’ the’ desizea finished
+duroplastic will run properly only when one uses the right materials and
+mixes them in the right proportions. As with regular glues, one must not
+
+F
+é
+
+“have foreign matter in the glue or on the surfaces’ to be- joined. Especially
+
+deadly to strength are separating agents and substances which can act in
+this way: Fats, oils, greases, waxes, silicones — “even & ightly oily
+finger which one absent-mindedly ran acrosa bis ‘forehead’ momént before.
+And also a drop of acetone in the wroug place cah ruin everything for. you.
+
+
+--- Page 11 ---
+“404
+
+ve have to measure the components of the plastic precisely according to - Chemica
+‘sensitive gest This is one of the very few points about which plastics are Teactio
+woe - Just imagine a party to which more women than men were invited. ~
+
+Wha long faces, when one girl must sit alone! Fach molecule must
+
+find its partner, otherwise it remains out of the building process -
+
+to pletely deentaee she product. Thus it follows that your mixture is not
+
+Comp.etely joingd together inside, or may not even hard
+
+mixed the wrong. proportions. ons Af you have
+
+For to avoid bigger letdowns you should test the harding conditions
+of each charge. Prepare a paper sheet as follows: °
+
+sailplane 14 p-y344
+
+Ny [ aay| time } ‘place resin g {hardener
+se | g
+{| 233 | fuselage top 400 2g
+A [it] 923 | Soectsse 3
+
+AG 1 left wing, top =~
+Mu AA | AQ pos. 4500 nose 50 4G
+
+e
+a
+—~
+i =
+=
+is)
+1m
+wm
+2
+>
+a)
+| mo ct
+(| 16 mom @
+i ta
+| ct
+
+From each charge you pick a little drop in the mentioned field of list.
+
+Tf you put the sheet on the central heating or a plate warmer, you will
+
+note very easy if the charge is o.k. (page 114: quality test)
+
+You may insert after hardening into the life act of the plane.
+
+Consider very carefully during preparing the mix how long you will open
+have to work. Thin layers of resin, especially if they are filled with time
+fibers, will harden slowlier than the big pot in your hand. But in
+
+ene ting they will come the ;pdint that the resin will harden, equal
+
+if your work is ready or not! ,
+
+For thaslyou need a carefully work preparation. Play in your head
+the whole running of the work or, for 4 longer action,make notices.
+The last point is: resin mixture.
+
+helpful that you prepare, perhaps on 2 tables,
+ings: on the one all parts which are pre-
+brushes, - all what has to be exact cleaned}
+ad auxiliary parts, which are prepared with
+net allowed to idle away any time during the
+t wait .
+
+In a bigger work it
+in order all neces
+pared for gluing,
+on the other all.
+separating fluid. Tt
+work -— the resin doss ?
+
+
+--- Page 12 ---
+AOS
+
+Heating
+
+“famper ing
+
+You can use the mixture aa long as it can thouroughly wet and penetrate the
+Siass fibers, so that they become almost invisible: tough, stringy resin is
+useless; one can still smear it on unimportant placés, like a nick in the
+
+garage; the toughness indicates. thatthe molecular net-building process -is
+
+well along, and. the nets are torn apart vy stirring and smearing, 1
+
+As you know.,from other glues, it is hot good to disrupt a chemical vTeaction
+by stirring, kneading, or premature removal of clamps and fixtures; the? -
+networks are thereby broken apart and don't join together too wekl again.
+
+Tt is not possible to say exactly how loug a resin mixture can be used. :
+Large masses react more quickly than small ones; the reaction goes faster
+
+in warm;rooms’ than in cold ones (and not linearly with temperature, but:in
+a curve:which goes up more steeply, the warmer the rooms. In summer you; had
+better hurry!) and new, fresh materials hardeu more rapidly than those which
+have been stored for a time. : :
+
+As a place to bang your hat, you can take it that 100 g, or 4 ounces of:
+
+" mixture! in a cotfee-cup in a room at 189 G or 650 F will pegin to harden
+
+our’ (warm) band, it will
+fabric or on your sail—
+“tb begins. “to ‘harden att 650R,
+
+in about 20 - 30 minutes. If you bold the cup in
+harden sooner. jWhen you place this resin on glas
+plane in thin Layers, 4 to 6 hours may go before
+
+; Z -
+‘Our epoky theniforms its molecular network at.normal room temperatures, at
+
+least 15°C or 60°F. (Some industrial types require.much higher temperatures).
+Lower temperatires lead to blocking of the bardening; -they ‘produce alsg a
+thick paste which is hard to work, so that you:gst too mach resin. inthe
+article that you are making. . woe . ita at OU cs
+
+One can accelerate the hardening by warming. One muat be careful with jutre-
+red lamps or sp, because ‘they may produce extrem local heating’ and damage nay
+reault. Hot aik is the best; for small pleces, a hotpad will do. When the
+area is large, so that a hot air blower won't suffice one‘’can make a tempo-—
+vary tent from plastic sheets, scrap material, wood, foam plastic, ect}, 30
+as to maintain a uniform temperature over the part. One can put a thermome—
+terginto an average part'of the tent to observe the temperatura. -
+
+4
+
+Tf it is difficult to lead the warmth to the wet resin |rea, one can warm
+the part after it has hardened at room temperature. The plastic may seen
+quite ready to you after-a few days at room temperature, but it really is
+not. Its strength and hardness increase with time, This may take a month at
+normal temperature. Probably most of the active ends of the molecules are
+then bound, so that they can no longer find their Partners so easily. But
+we can help them by warming. This is also done during construction; ali
+parts are held at 50°C for 12 Hours. The full strength of the plastic,
+which’ previously was guaranted to 40°C, falls somewhat during the warming;
+the vetworks become very slightly looser, and so the articles should not be
+subjected to stress during’ this warming. After thig treatment, almost all
+
+‘of the last reactive moleculeshave become a part of the network, the network -
+
+is stronger than before, and now we can fully load our article up to 54° or
+129°F without fear. *
+
+For this reason you will find the tables in the handbooks.
+
+Nearly all "classic" fiberglass sailplanes are made from a resin
+type like this: the good old "Epikote- Laromin' combination.
+
+(Libelle, SALTO, BS 1, ASW 15, Cirrus, LS 1 etc. ete.)
+
+
+--- Page 13 ---
+Note well:These sailplanes are made so that their outer surfaces are white.
+Other light colours also remain cool in the sun, but black or dark colours
+(e.g., numbers, decorations) can very easily reach temperatures of 70° G
+and mare. At such spots the usual high safety factor of strength will not
+be available.
+
+Because the manufacturers were angry about this low temperature
+strengith(in spite of the feeling of the pilot if his cockpit has
+only a temperature of 40° c - have you tried?’So it may be diffi-
+“eult to bring a sailplane under full load in flight conditions wit
+a structure temperature of 54° C)
+
+- so they have used in newex:planes resin systems which are ad-
+judtable in open time and temperature strength by using different
+hardeners . :
+
+Hereby you can observe that, in general, a hardener which cure 4
+resin slow has also a lower tamperature strength then a hardener
+which works faster. In some systems you can even mix the hardeners
+and so obtain a sliding border between the asked requirements.
+
+Sorry in normal case the fast working hardeners are more thixotrop
+then the slower ones.
+
+‘mm the new generation of gliders we have the so-called
+‘interim + hardened"resins. This means; the resin cures in
+room temperature so that you can it put out of the mold
+with care, but it is not really harden for carry a strength.
+Then the part will be tempered,in.temperatures up to 120° ¢,
+but in the most cases in such which can be reached with
+normal equipment ( perhaps 80 - 99 ). This resins have a
+strength in temperatures up to 80 (C which may allow nearly
+coloured gliders...
+
+In no case you can harden any resin with any hardener. The
+iystems react only in their borders and in the prescribed
+kind and quantity.
+
+AOE
+
+higher
+strength
+
+adjustabl:
+
+interim
+
+changeable
+
+
+--- Page 14 ---
+temper
+proof
+
+field
+repair
+
+fire
+hazard
+
+A0F
+
+Jn your manufacturer advise you will find from what kind of resin your
+plane is made, and with what kind of resin it may be repaired, One
+
+can think that you can repair certainly a plane from the good old Epi-
+kote ‘Laromin type with a resin system of higher strength, but not
+
+vice versa! Lo :
+
+Certainly you have to fulfil this demanded tempering procedure also for
+each repair work. And it is important that this is documented.
+
+Do not be afraid if any government office require the use of sinful
+experienced aid tools as a temperature writer. Because our work is
+instglled for the use of hot air blowers so that is necessary to observe
+the area all time, it is possible to notice the teperature aljhours
+
+and to inset them in a list as this:
+
+(~~ ; ‘ LSA‘'D -44a4
+. 2 ‘
+
+Di
+
+t
+Y
+measure - Tempering tent .
+'point 1 c @).
+a AF emda ade me ae ee
+tempering report from 90, Ad. BB :
+time: HS] My ‘
+0 62° | 60" ;
+Ao 64? | 62° |
+AA. etc. 7
+
+(with a lot of things it is similar: Bither you can replace them with
+fantasy through others, or you search in your neighbourship to lean
+the expensive tool)
+
+Some fast-curing systems can be used for "field repairs",
+They harden in minute- times. Because their properties in
+regard of the conditions of these field- repairs are not
+definitable exactly, you should avoid to use them for main
+structures.
+
+fhe components of the plastic, resin and hardener, are not as inflammable
+aS, Say;a laquer. The hardened resin does not burn easily and the fire goes
+out when the flame is removed. But it makes much soot when it burns. The
+woite laquer is also essentially a resin (polyester); and falls into the
+same class. But its solvents are easily inflammable liquids such as ace-
+tone, laquer thinners, etc. The working with the chemicals from a fiber
+glass ship will need therefore as much or as little caution-aa with ordi-
+hary aircraft . (Cigarettes alsa should be-put out before entering
+such a workshop!) : er ee .
+
+
+--- Page 15 ---
+.As for a room for working with resin, the same “recommendations hold as you
+already know for glueing work: dry, moderate, constant temperature, grease—
+free working surfaces. The overall smell is uegligible.. Facilities should
+be provided for washing the hands with warm water. It therefore occurs to
+one that there should be no thoughts against using the rooms of one's own
+home for fiberglass repair, although, to be aure, ane must, on account of
+the shameless stubborness of hardened resin spots ‘on kitchen. tables, etc.,
+be prepared to reckon with political difficulties...
+
+Some parts of tools are attacked by the liquid resin or especially: by- the
+solvents, for example, the beautiful red laquer on paint~brushes on putty—
+Iknives. Obtain unpaintened, rather cheap brushes for the work, ray. sticks.
+for stirring, dnd not colored rags but instead white goods... ,
+
+The resin mixing can be done in vessels of glass or ‘porcelain ov tin-cans —
+— they must be ‘unquestionably clean. If one often works with the resin,!
+
+it may be advantageous to use small paper cups. They must be unwaxed!
+
+One can use them again when the previous batch of: resin has hardened in
+them. ' :
+
+Ti while stirring, you loosen the remnants of an earlier batch of resin,
+From the vessel walls, that's annoying. But dissolving ia not possible for
+hardened resin, not at all. This’ hard realization may oceur to' you when
+you have let flecks’ of resin harden, unnoticed, ‘on your: sunday. quit. :
+
+As long: as the resin mixture appears soft, it can: pe dissolved vin acetone;
+MEK, laquer thinners ,_ etc.
+
+The resin can be stored in clean tin~. cans. The hardener. moat ‘be kept in
+well-galvanized cans, but even better in glass,and well- sealed, becansp |
+it reacts withthe oxygen in the air and orystallizes. ‘After’ “that, it.
+
+- reacts only poorly with the resin.
+
+If hardener inva well-sealed container nevertheless becomes Toaded’ with
+erystals, like ‘old honey, that's asign that it's too’ cold. ut it in a’
+warn place. or in warm water, and at 85° F it shoura ‘Yecome' all liquid.
+
+You must note well that the resin, and especially the. hardener ;, is. poisonous.
+fake care that-it is kept away from food. Worst’of all is “to ‘got it in the
+eye. Wash it ag once with running water and go to’ the’ doc’ “even if it.
+doesn't’ seem 8a bad. A chemical description of: the’ hardener’ is: ‘piven or-hanel-
+books i ij: the dodtor will know from that what he can do
+
+vany persons ‘are allergic, or very sensitive ‘to. certiin ‘uubatihdés. The
+famous hay fever is nothing but an allergy to the pollens of platits. Some
+people will. algo be allergis to the resin, The aymtoms fade. away,. ‘3S aooh.as
+one no longer comes in cottact with the ivritatiig ‘substanoe. In any cage:
+avoid unnecessary contact of the skin with the chemical, wash the hands. often
+with? soap (youltll do that anyway because they ge eaticigr). ianaitt necessary
+work with rubber or plastic gloves. : : : ;
+
+Remember that fardened vesin is chemically absolutdly: neutral. If you climb
+out‘of the ship after an eight-hour ‘flight with a ‘runny nose ,* ‘or you dqn't
+feel well, it's surely for sume other reason. :
+
+A005
+
+workshop
+
+Tools-
+
+Dilution
+
+Storage
+
+Poison!
+
+Allergies
+
+
+--- Page 16 ---
+199
+
+Glass Now we've discoursed a long time about resin. But in away, it's of secondery
+
+. importance; it is a necessary evil which we must employ in order to hold the
+glass fibers in their places so as to direct their strength in the beat ways.
+The fibers'themselves have tensile strengths about twice that of good steel
+and about 20 times that of the resin. .
+
+The glass fiber is the real strong man!
+
+Strength This extraordinary strength of a material, which we tised to regard ag being
+brittle, springs from the surface tension of a very tiny fiber, about 9
+microns or 0.36 thousandths of an inch in diameter. The tensile strength of .
+such a fiber lies around 14,000 ke/sq om, or about 200,000 psi; ita compres—
+
+’ sive strength is almost exactly the same. Presumably, in order ta put the
+
+fibers to the utmost use, oné must orient them in the direction of the lines .
+of force and anchor them under all circumstancea in this position, specially.
+when compressive forces are working and the fibers would like to prefer the
+way of bending or buckling.
+
+Fiber— To this now we need the plastic matrix. This combination we fame "glass
+
+glass fiber reinforced plagtic ", "GFE" or "FRE", or Fiberglass". It is clear that
+the strength of the combination depends on two. factors: The ratio by volume
+of the strong glass fibers to the weaker plastic matrix, and the lay or di-
+rection taken by the fibers. :
+
+A laminate made of parallel strands — "roving" -— and -plastic can possess a
+tensile strength up to about 8000 ke/sq.cm, or. 110,000 psi. The approach to
+the maximum depends, on bow closely one comes to the optimal fiber volume
+fraction of 60%, and the line-up of the fibers parallel with the imposed
+stress. oO
+
+Taminates made of woven fiberglass cloth are Somewhat weaker on account of
+the weaving of the fibers and run from 2000 to 6000 Ke/sq.cm.or 30,000 to
+
+90,000 psi — in the fiber directions, naturally! Consider once 8, Plece of
+
+fabric in the diagonal direction ana You'll see why alignment is sao important
+
+‘ Laminates made from random short fibers - "mat" — ‘reach strengths of only
+about 1000 ke/aq.cm.or 15,000 psi. -_ So :
+
+i
+
+We see that one can buy glass fibers in different’ forms
+
+abt .
+
+Mats Mats of. unorientated short fibera — not too suitable “for use sailplanes
+. because fibers can't follow the lines of stress too well. And they use -
+up a lot of resin in making the article.
+
+Cloth Woven fabrics, including those with a great preponderance of fibers in
+one direction and only a few at vight angles, are available in many types,
+weaves, finishes, weights, ete., for simple or highly curved shapes,
+
+1 for strongly directional or more equelly divided stress patterns,
+
+Prefabs Pre— impregnated woven fabrics are made which carry resin in a soft state,
+When such material is shaped to. the desired form and then heated, the
+
+resin hardens. However, such material ig not very suitable for our hand
+work because the pressing and heating is difficult, : :
+
+fhe threads should be in every Case not or not hard twisted.
+
+
+--- Page 17 ---
+ROVING
+MAT
+Unorientated fibers “
+
+held together with
+a plastic binder
+
+CLOTH
+
+Plain weave:
+over one,
+
+under one.
+
+Warp and weft
+have about
+
+the same number
+of fibers and
+atrength. :
+Used for moat
+flat surfaces.
+
+vu a .
+Unidirectional weave.
+
+A special kind of plain weave. There
+
+. ave many fibers in one direction,
+but only enough to hold things to~
+gether in the other direction, Such
+cloth is used in the outer wing skin
+-of the Libelle, and in place of the
+rovings in the wing spars of some
+aircraft.
+
+Twill weave.
+
+This weave commonly has equal fiber
+content in warp and weft, but its
+special weave: over one, under two,
+makes it conform well to rounded
+places and compound corves.
+
+
+--- Page 18 ---
+AAA
+
+Rovings
+
+Fiber
+Coating
+
+“iberglass
+Proportion
+
+carbon
+fibers
+
+Rovings - long, long oifidles of parallel fibers in ‘various numbers per
+bundle, are aboutithe hardest to handle, but once they are well placed
+one can best satisfy the demands of following the lines of stress .with.
+fibers. With them‘ one.éan span most directly between two pointse."One can |
+reinforce edges with fhem or fasten down fittings. And it's not necessary
+to bore holes in. ie main spars; instead, using rovings one ca ttach,
+the necessary assembly-pins and sockets aa firmlv as a bough is fastenad
+to'a tree. The fibers .are not cut off; there is no loss of strength. “*
+
+All glass fibers used for reinforcing are coatéd with a substance during .
+their manufacture which results in'a better bond between glass and resjo.
+Furthermore, the glas's.would break easier without this protective coating.
+Do not permit .the fibers to get wet or come in contact with thinners ot
+cleaning materials. Do not heat it either. One should take care to keep the
+glass flat or smoothly rolled, so that it does not become weakened by
+kinking. It can be protected from dust by plastic sheets.
+
+‘Because we build airtraft as lightly as we possibly can, we are concerned
+to develop the grip on: the fibers with the least possible resin, exactly
+enough. that the product doesn't show white spots from unwetted fibers, but
+not so much’ that there are "puddles" of resin. For the most part. we are
+unable to reach the optimum standard of 60% glass to 40% resin:in éur hand—
+crafting methods. He who lays up spars, ribs, and skin with 60% fiber
+attains the highest strength with the least weight and space. i
+
+We find this optimum ratio in the BS and the Tibelle in for example the
+
+wing. spars. ’
+
+In the most main spars are used rovings. In some cases they are mad@®: from
+unidirectional layers, but these spars are softer than they from rovings
+
+(lower amplitude).
+
+Who gains a little more experience in the PRP technigue will note that
+in the older fiberglass planes this system of following the stress lines
+is fulfilled more consequently than in younger ones. In this time the
+pressure of economic was still unknown... —"~
+
+Sometimes we will find after remove the gelcoat black main spars or
+completely black interieurs of the planes!
+
+We have to do with carbon fibers. They will be manufact from eraphit
+
+or plastic material which will be carbonized.
+
+The material has a higher strength than glass fibers. But their extension
+is not So high. Spares from carbon are very stiff; for this one can
+make very thin wings not from other material.
+
+Carbon fibers. have a different crash behaviour than fiberglass.
+
+The long period of extend. which we know from glass, or the long phasis
+of grewing white is not available in carbon. If they failure, they do
+it apruptly. (Watchers of a carbon crash are speaking about a "black
+explosion".
+
+The high damping effect which we know from fiberglass is inapplicable.
+
+Repairs of carbon fiber parts are in the system nearly the
+
+same than FRP parts. Caution: it is difficult to observe the
+througout wetting of all fibers! :
+Carbon fibers are in this time more expensive than fibers from
+
+glass. But all is relative: if you are so clever to go apart
+from a sandwich by using carbon - you have made a good business.
+
+
+--- Page 19 ---
+Also during working and repair we have to observe something;
+
+basically are available the Same kinds and clothes as from glass, also
+the same weaving sizes. put we are dependent of. the statement of glider
+manufacturer what kind of carbon cloth is to find in what part of plane
+because this is nearly impossible to constate by eye-look.
+
+Also there are mix clothes: chain from glass, shut from carbon.
+
+Carbon fibers are no more inflammable than glassfibers. But they conduct
+electric stream! It may happen that your electtic handtool may have a
+‘ghort" and works no more. For this you should use air-pressure tools.
+
+Tf under the white surface during remove it comes not greexpr black but
+yellow, than we have to do with Kevlar fibers. (Aramid). Here we have
+also the same cloth types, but no rovings. This type of fibers has
+
+also a high tension strength, put a low strength for pressure. Tt will
+used on places who the material should be very Light, and in con-
+structions where the high tension strength came in play.
+
+Aramid fibers are not resistent against UV- light. For this they must be
+protect against sun. Also you should remark that they do not like to
+
+be worked after curing, they fringe. Tt is nearly impossible to cut
+
+them with normal scissors,
+
+[Tt seems logical that it is impossible to repair one type of fibers with
+an other. Because we meet sometimes a combination material - f.%. 1 layer
+glass,,,1 layer carbon or similar - it is indispensable to ask the manu-
+facturer.
+
+The development of fibers is not resting on one spot. There were tests
+with bor fibers. Also thermoplast fibers are in the development.
+foncerning resin, also here we have tests with new polyester develop-
+ments, or materials we know in the past as thermoplasts. For to be aure
+from surprises, it is necessary to contact the manufacturer. Pach of them
+must record ll materials used in the plane in its maintenance beoks.
+
+gxample: the etiffness of the carbon fibers provokes to use them in air-
+craft parts we had never think on it: there are pushrods or drivingshafts
+
+of them, for instance.
+
+{he fiberglass aircraft constructox.tiérefore makes his own materia!
+goes along; he creates his airoraft from an embryo, out of the badic YAW
+materials, so to speak. No one has ‘Looked into a metal spar. mor iuto <the. .
+laminations of a wood structure. \With, fiberglass the construction is.6ut in
+the open from’ the beginning; there, are iscarecely any casting flawa or-resia.
+lumps which can't be noted. And ‘més{iparts can be thoroughly inapectad "~~
+after curing by singly illuminating: them from behind with a atronug Lape. ° am
+
+AAD
+
+Kevlar
+
+new
+fibers
+
+
+--- Page 20 ---
+Add
+
+sandwich;
+
+balsa
+
+conticell
+
+tubus
+
+Hexcel
+
+Rohacell
+
+Material
+list
+
+The first PRP Sailplanes had balsawood as core inside between
+the FRP layers. In this time we had no other,
+
+The balsawood has a really good strength for tension and pression;
+for this it takes part in this direction on the structure.
+
+Planes with balsawood cores have for this 2 bit higher wing
+oszillation.
+
+But the balsa supports not so good against buckling. Also it
+is the first which breaks when the wing is strongly bended,
+
+Caused by its low ‘extension.
+
+If a balsa— sandwich ig broken, you must slope it as normal
+
+wood.
+
+The most used sandwich material is "Conticell", a pyc foam.
+
+[ts elasticity is good, but against buckling it's also not
+
+So very well. And in temperature strength it is not an optimum.
+But because it is manvfactured in large plates, it is not
+
+80 expensive to manufact the pieces for wing sandwich layers.
+If you are not very attentive the Conticell soaks a lot of
+resin, and your Sailplane part gets very heavy.
+
+If you have only a little repair spot, it is not necessary to
+Slope it exactly. You place only the little spot with a mix.
+ture of resin and microballoon (see page 301)
+
+Breaks in Conticell layers should be investigated with care.
+It is possible that you find under a little crack of 3 few
+coms nearly half a meter loosed inner FRP layer!
+
+Some sailplanes have sandwich layers from so-called "tubus"
+plates. They are made from a thermoplast material (polystyrol
+etc). We have learned tha't these materials may contact not so
+very good to fiberglass. This may be the reason that this
+construction method ig not widely used. On the other hand
+these tubus and honeycomb- sandwich layers have a very good
+resistence against buckling.
+
+For this f.i. the "Airbus" -ig using in many parts a sandwich
+layer from honeycomb made of nylon paper which effects a
+really good connection to the FRP caused by a rough cutting
+of their thickness, but with some resin types you need
+"tricks", The material is called "Nomex" or "Gexcell", Tt
+
+is very light and.to fit very easy in repair spots; but its
+price is really high.
+
+For to obtain a. good sonneetion between Hexcel and TRP “layer you should
+try to get little "feet" on the walls of the honeycomb. That means to try
+that the resin runs alittle upward of them. Pither you can use a special
+resin for this, or you san help yourself on a mechanical way: to wet the
+walls by using a brush, or a piece of carpet. PAULL
+
+Under some PRP layers you will find a white sandwich material. This is
+
+a derivate from the Plexiglass of our canopies, ("Rohacell" ) It is very
+homogene. light and not so resin-gsreedy. than Gonticell, but more brittle.
+Tt is used in some tail faces,
+
+For newer FRP gliders you will find a register of all used
+materials of the plane in the maintenance book. If you cannot
+find such, please Look for the so called "type attendant",
+The LBA wikL help you to find out him.
+
+Hach manufacturer delivers the materials used in his planes.
+But if you have a good reputable LTB in your area: the buying
+there may be more cheaper because everybody knows what to buy
+minimum charges will cost today.
+
+These LTRs are responsible also to a quality control,
+
+
+--- Page 21 ---
+AA
+
+QUALITY TESTS
+
+- Mistakes in a PRP part may have naturally two sources: glass or resin.
+
+The glass portion has to fulfil the following requirements:
+
+it must have the predetermined amount and kind of glass in the right
+direction; the finished piece must be a translucent gray—green; hence it
+must not have white spotg nor obviously visible glass structure, If thése
+are seeu,the glass was moist or had the wrong finish, so that the resip
+aid not stick on it. :
+
+The piece is stronger, the higher the glass content and the more appropriate
+the lay of the glass fibers. Snarls, crooked or displaced fibers in the
+weave reduce the strength. . ‘
+
+Imperfections in the resin component are more frequently as those in the.
+glass. The parts must be clean, thoroughly saturated and cannot show any
+a : * : i
+
+white spots.
+
+The resin must be harden completely. Poorly hardened resin doesn't give
+enough support to prevent kinking of any fibers. One can check the harfening
+of the resin hy the following tests: H
+
+Any little points sticking out of the piece must, be as sharp as needles and
+preak off in a brittle way.:If you can merely pend --them,’-the’ hardening!.ia .in-
+complete. © : . ‘ . : . :
+
+The left-over resin in the mixing pot shovld not be impressed by a. finger:
+nail by the’ next day (say after 12 bours)at’18°C. or 65°F minimum temperature.
+After about 24 hours, a hammer blow should split the masa‘of resin into -
+splinters; the splinters should be prittle, yellowish, and clear like ‘glass.
+
+One can aliso detect inadequate hardening-when he works on the piece:
+such parts,;-when filed, sanded, or drilled, are somewhat smeary. 'The loose
+particles cut. off ure like bread crumbs and not like ‘powder. As one wqrks
+in this soft material, the glass fibers may: try to stand up or even tear loose.
+The sound of these parts is not bright and hard but dull. They do not resist
+againat bending and don't-break suddenly, with: cracking. and splitting, but
+
+> '
+
+more like soft plastic, e.g. polyethylene. .
+
+Often the.trouble with a soft piece is simply that’ tt rasin hasn't, had time
+to havden yet: - perhaps it was kept tao cool - and one can cure this by
+avacming it up for a while. . poe :
+
+We can establish whether thia is the trouble by keeping. the. leftover resin
+in a warm, place (baking oven!) and no#icing latest aftersan' hour whether it
+has gotten, harder or not.. Naturally we test it after,it'as cooled off.. .
+
+Tf we have made an error, in the preparation of the resin, ex we used a brush
+wet with ‘Acetone in the mixture, then nothing can- be- done about it, exept to
+startiover. But it is better to have that sinking’ feeling on the ground than
+in the air... . , .
+
+
+--- Page 22 ---
+2.00
+
+eke for roth for FRP planes
+
+You know that a plane is not able to fly without a minimum of paper.
+The system of these papers are different in the countries and con—
+tinents. Here you find the system of Germany (Luftfahrt- Bundesamt =
+LBA).
+
+During its manufacturing, every plane will be observed by a licensad
+improvement person. He controls during the work of the plane if it si
+accordance with its drawings, manufacturing advises and other papers:
+which are-important for its identits, Without this procedure the plé
+will not get its piece improvement certificate, and without this you
+will not get. the G of A.
+
+piece
+
+}
+
+' Every year - the date is caused by the date of piece improvement ~ the
+yearly plane needs a yearly inspection. Tt is to be attested that the plane
+is airworthy by following the manufacturing documents valid in this
+moment.
+We tell not a secret that the quality of this improvements is very
+‘different. For this it would be good for every owner of a plane if
+he would be able himself to check his plane. Undispensable will be
+this in case of a hard landing or other happenings.
+
+The different manufacturers have in stock improvement lists of their
+
+designs. On the base of them you can check your plane. In doubt
+
+you should order a check list for the "Long Service Check"which is
+
+obligatory for every fiberglass plane after 3000 hours. This list
+
+will guide you through the whole plane. Also the little drawing on,’
+
+page 24% will help you. oo
+E L
+
+Some sequences before you have read an important set: documents valic
+in this moment, .
+
+The world is turning, and also manufacturers of sailplanes grew
+wiser (sometimes). If such a manufacturer notes that the part x
+should be replaced by the part y because this is easier to control,
+without a necessary of Security, he amend his LBA for a ‘Technical
+Bulletin" (TM). This T™ can be followed by the sailplane owner but
+must not. Both, the old and the new Solution, are valid.
+
+TB
+
+If the manufacturer has the opinion that the security is in play,
+because any part of the plane may have a shadow to be not so sure
+as planned in design, he amends by the LBA an "Airworthiness Di-
+rective" (AD in-English, 47a in German). Also the DBA can order
+
+an AD if doubts insecurity of the plane are shown.
+
+An AD must be followed inside of the term decided in the AD, other-
+wise the plane is out of law. An 4D of the LBA will be send to
+
+all Governments where the type of plane is flying, for the propo-
+sal that these officials will send the AD to all owners of the
+
+type and also to all licensed workshops.
+
+Without a fulfilled ap you will not get 2 yearly Cod!
+
+--- Page 23 ---
+2O-4
+
+If you have the wish to change any little thing in your plane, self
+you should be sure that this may not be a so-called "big change". designs
+This must be amended by the Government!
+
+For to clear this question you should ask the next improvement
+inspector or licensed workshop.
+
+Tf an inspector will find such a, change not identical with
+the plane's documents, he can refuse the CoA!
+
+Herewith be spoken a word in favor of the improvement persons;
+certainly in the world we have bad peoples, perhaps also under
+us, but in the normal case you can be sure that the inspector
+is willing to protect you and othergfrom harm. For this you
+should ask your inspector better one time morethan less. (In
+our country we can say that inspectors and LBA are the best,
+information sources you can find).
+
+What is to do if it has "bomped"? damages,
+
+Every damage which injures the airworthiness eliminates the
+CoA. : :
+
+_My experience is that the state of airworthiness will be
+adapted very different by the owners of the panes.
+
+Certainly the plane is no more airworthy if the tube of the
+AST has removed from the instrument. But this will not bring
+in action an inspector, certainly. .
+
+[In other cases an owner found his plane airworthy in apite of
+‘ the gaps and crashes in the FRP surface.
+
+That means: nobody until now was able. to definate exactly
+what is a big damage of the plane, or in following a "thig repaiz".
+
+Here you see that there is a wide room of play for the respon-.
+sibility of the owner. Principally you can say that every damage
+touching the structure or the controls of the plane should be
+discussed with the inspector.
+
+Mo decide this you have the help of the check list of your
+manufacturer. .
+
+
+--- Page 24 ---
+osenheim
+ules
+
+Sly peoples have try to eliminate this dilemma. by setting up rules which
+Separates the damages in classes (30 called "Rosenhsimer Regels", 80 named
+from a plastic institute at Rosenhein, Bavaria)s
+
+class 1: big areas of distructdonwhich demands 2 partial replacement
+
+of the aircraft pars or 2 big repair. "his means damages which interrupt
+main strength lines, specially if in primary or secondary parts strength
+connections are interrupt, Peamples; tail broken away, Wing main connec-—
+tion damaged, main Spar damaged or broken, cockpit frame broken, control
+surface out of place (aileron. rudder. elevator), :
+
+class 2; holes and brakes in a laminate up to ca 200 mm in each direc-
+
+tion: damages which have broken all sandwich layers top and bottom, f.i.
+transport damage, dropped wing.
+
+class -3; little holes or damages in the surface without destructions
+of inner layer, Example; crashes or chamfers which cutted the outer
+laminate layer.
+
+class 4; eroded spots, Crashes and dents in the surface which have not
+damaged the FRP layer. Typical: crashed from placing in hangar.
+
+Primary structures: this are such concerning main organs of the plane
+(wing, fuselage, tail) .
+
+Mein secundary structures are f.i. control surfaces, flaps, airbrakes.
+Auxiliary secundary structures are f.1, gear closing plates, canopy,
+inspection hole covers, baldachinparts.
+
+In theory this seems very well, but in practice the border between little
+and big repair will be anywhere between class 3 and 4 ~ that means therefore:
+fluidable. why this is so important? Following the most government rules
+
+the little repair can do in border of maintenance of the plane, perhaps
+
+by such a "expert person", this may be the owner or a person which knows
+
+the plane since many years of maintenance. The big repair, contrary,
+
+must be done by a licensed firm (German; LTB = licensed repair shop).
+
+
+--- Page 25 ---
+203
+
+For to avoid disagreable discussions, one should in principle a11 cases
+which touch in any kind the carrying structure or the control system °~
+of the glider, in advance clear with an inspector.
+
+The following two pages are borrowed from the Long Time Inspection check
+Program of the SALTO. Hach who like to buy a FRP sailplane should metho
+be armed’ with this. They are helping also for each who will check
+
+sucha plane by other reasons.
+
+After this follows4 pages of a check list, which allows to note after
+each question the reason of critism and later the restoration of them.
+If you have worked through thia list, you can look for the visit of
+your yearly inspection with calmness.
+
+Tf it has crashed, the list may help for checking: may I able to
+
+maintain the damage myself? What parts are necessary to order, and
+
+which material?
+
+What means, properly, "Long Time Inspection Program? long tir
+
+When the FRP planes are just coming from their egg-shells, nobody check
+
+knows how long this new material would beware its full strength, and
+if, perhaps during the time,may shown some objections.
+
+For this the first types of the new material are designed and inspec-
+ted for 3000 hours service time.
+
+But, in most cases, it happen very fast that the 3000 hours are ful-
+filled. What now?
+
+Manufacturer and LBA agreed that the white birds were subjected to
+
+a check through their whole structure all 3000 hours. If there were
+not/found any mistakes on the FRP, they may work further {900 hours.
+How the check will have its program is decided by the manufacturer.
+You may find notices around this temporary tests in the papers of
+the plane (one reason more for the axiom; the check of a plane [
+would like to buy begins at the papers!)
+
+I regret that the most programs of this have their most weight on
+the plastic and less to other import parts af the bird. But we have
+the experience that there iv still no case ~ the time has nibbled
+on the plastic, but more that other materials of the bird are con-
+founded. The catastrophic cases of pushrods which are rusted from
+inside belongs in this rubric! And such cases are not depending of
+the service time but of the life time!
+
+(For this the Long Time Inspection Program the SALTO demands
+a througout. inspection of the bird, “all par equal what material,
+and each 1000 hours or 10 years, what may pren easier).
+
+
+--- Page 26 ---
+LO
+7 —S --
+doktor fiberglas— check list le. a (3)
+. - wo ,,,
+Drawing | ab Tet .
+No 1 SALTO~ part ok,ok, na, statement: ok
+AIRPLANE ASSEMBLED:
+All main connecting parts should be clean and green, i.a. without
+paint. All parts of the airplane are to be washed and cleaned, the
+connecting parts are to be clean and lubricatect,”" .
+. Spherical bell bearings and Junction jaws are positionned accordingly,
+air brake handlaver is in closed, but not im locked position
+i —_
+ING: *
+Left and right are movable without problems
+(the use of an aluminum bay is allowed). *
+jt
+middle Left and right are movable by hand without
+attachment} problems (use of a small aluminum hammer is
+allowed) ‘
+bolts | Remove again. | eee ete see —
+Left and right can be screwed without problems.
+There is no slackness. . .
+The screw-down bolts cannot be moved in the
+axial direction and-are-nct and cannot be turned
+connection} The connection bolts have no slackness. in
+pins the ball and socket joint
+The distance between the junction pin and
+the ball and socket joint is not more than
+1.5 mm.
+. i 4
+aileron and | the connection bolts of the ailerons and
+aitbrake the air brakes have a distance of about
+connection
+
+Actuation
+
+2mm to the end of jaw gap
+
+shafts are not movable axially in the
+
+slackness.
+
+fuselage . Strong shake (neither tangen-
+tial nox vertical) does not produce any
+noise,
+
+TAILPLANE:
+
+The tailplane bushing and cones move
+together without problems (with only a
+slight push forward),
+
+The connecting screw can be serewed at
+jJeast 3 threads before it is tightened.
+The U-plate is almost parallel ta the
+safety stirrup.
+can be inserted into the U-plate and
+removed without problems.
+
+The tailplane is tight in the bushings,
+there is neither tangential nor vertical
+
+has no slackness in the rudder cavity. The
+rudder has no axial slackness in the tailplane
+
+The safety mechanism
+
+The tail control mechanism.
+
+aileron
+fasteged:Maximum
+of the free aileron.
+Maximum 3
+
+airbrake
+
+Control Surface Slackness Allowed:
+
+With the control stick and one aileron
+
+With the control stick and pedal fastened:
+
+trailing edge at the fuselage (individual
+check of elevator and rudder).
+
+Not locked -maximum 5 mm to one another.
+Axial maximum 1.5 mm.
+
+=
+
+4
+
+mm at the outer end edge
+
+mm at the tail rudder at the
+
+
+--- Page 27 ---
+doktor fiberglas- check list 8
+
+Drawing
+No
+
+SALTO- part
+
+pb
+28
+OD ia
+
+mt TE
+
+no, atatement:
+
+ok
+
+joke oF
+
+Airplane steadily mounted on an even surface.
+Main connecting bolts and tail plane connec~
+tion bolts fastened. 7
+
+Ailerons and rudders at zero.
+
+Air brakes closed, tire pressure 2,0 bax
+
+“b
+
+geometry
+
+Connecting Lines between wing tips
+and tail tips are parallel.
+Distances between wing tips and
+tail tips are equal.
+
+es aa
+
+basic |
+adjustment
+
+Control stick in middle position—
+ailerons axe at zero,
+
+Control stick in middle position-
+hoth tail rudders are at zero,
+
+In doing this, the square bar of
+the stick is nearly in the center
+of the rectangular opening of the
+knee board and the trim adjustment
+
+ds neutral.
+
+If you move the stick forward and
+back, both tail rudders work
+
+nearly equal.
+
+passage
+freedom
+
+All rudders are movable in each
+
+handling combination and each
+
+position of airbrake lever and
+
+drag parachute connections.
+
+No excessive chaff marks in the
+
+cackpit side tunnels.
+
+No minimum gap of less than 3 mm ¢
+between two handling parts
+
+exeption: full pulled stick, full rudder
+ageinst half pulled brake chute lever,
+
+suspicious places: (check all handiing combinations) *
+
+aileron control lever vertical under
+stick against rudder yoke;
+
+two lag rocker arm under the ying
+bridge right against aileron pushrod;
+tail control pushrod left against
+airbrake bell cranic ;
+
+tail guide lever againet tail chute lever;
+airbrake lever in tunnel
+
+against tail pushrod in the tunnel
+
+airhrake
+
+The locked aixrbrakes need ahout
+§-8 kg to be opened Perce phi bte ;
+(use @ spring seale, posit
+protection plywood piece at the trailing
+edge of brake )
+
+Control ceflection declared in the-
+inspection list can be realized.
+
+ioned with a
+
+canopy
+
+The canopy rocker arm does not
+right wing root.
+
+touch th
+
+vibration
+
+al frequency is ok
+__. cyclas/minute
+
+All subsequen
+
+stands:
+
+All inspection data are recorded.
+
+Weight and i
+
+und are faultless
+Loqbaok.
+changes are
+
+ce was done.
+
+
+--- Page 28 ---
+206
+
+Date
+
+Reason:
+
+PRUFLIS @ #B Check bist
+
+jt
+
+(Ail
+
+air
+rakes
+
+state
+
+re eht
+
+to do
+
+hinges
+
+gluing
+
+end ribs
+
+balance pl. |
+
+durface
+
+state
+
+end ribs
+
+drive bear.
+
+fit i
+
+play, fasten
+
+surface
+
+a a
+
+ail
+lates
+
+state
+
+resin worl
+
+fittings
+
+bearings
+
+‘surface
+
+—}
+
+cudder
+
+sxLevator
+
+state
+
+bearings
+eS
+
+inside
+
+balance
+
+surface
+
++ .in order
+
+not correct
+
+is]
+
+not a
+
+Hy
+
+BA
+
+
+--- Page 29 ---
+2¢
+
+)
+
+: asues UT,
+i
+
+sasTou:
+
+an
+
+J
+
+YUSMS AOU
+
+sdez
+
+«8UOTLOOTIOD
+
+srequntu
+
+aoezins-
+
+4—
+
+feta 4jyeus
+
+“TTS ‘ATID
+
+eaptaq ‘Tte
+
+SeuUT IES
+
+sereds W
+
+| asol ania
+
+weepo
+
+paqosuuo tore Tt?
+
+“TUOOsTD
+
+ayeqs saut
+
+
+--- Page 30 ---
+208
+
+found
+
+canopy glass
+
++
+
+to do
+
+frame
+
+. +
+fittings
+~ 1
+
+seal
+
+—___|
+
+—-
+
+fusel. state
+
+resin work
+
+gluing
+
+hook nose
+
+|
+
+it a.G.
+
+pitot
+
+feet contr
+
+rope conn, °
+
+hand contr
+
+tail contr
+
+ail, control
+
+airbralke c,
+
+Main conn.
+
+4
+
+bagg. comp.
+
+conn. comp.
+
+main gear
+
+tail wheel
+
+tail conn,
+
+canopy conn,
+
+trim equ.
+
+electric
+
+1
+
+
+--- Page 31 ---
+Main conn.”
+
+found
+
+to do
+
+Ok.
+
+eee oe
+mont F271 conn.
+
+-
+
++
+control conn, | :
+| 7
+ail. work
+anc = +
+- deflect. | |
+tail work ‘|
+- deflect.
+airbrake work
+ao a
+in sense _|
++ -
+
+panel
+
+1
+
+Instr. state ;
+
++—t
+
+airspeed
+- —
+altitude
+j____f
+Vario 1 Lod aa
+2 ;
+|
+Compass '
+
+radio
+
+iquipm.
+
+harness
+pocket | 4.
+stick sack im
+eovers | 4 a |
+securies t
+diac. part r
+u date
+to
+
+TY etal 7
+
+a
+
+I. operate
+
+
+--- Page 32 ---
+Q40
+
+Self
+inspection
+
+yearly
+inspection
+
+buy 2
+FRP plane
+
+Sometimes it is not so simple to find damages.
+
+Put the parts so that daylight or sun nay come
+
+in an angle to them. Certainly the part should
+
+be good cleaned from dust etc. Only then you will
+note little cracks or gaps - under which they
+
+may concealed reasonnable big crashes. FRP springs
+back in its starting position!
+
+Added to this you should inspect the sandwich
+layers by "pick-pick" with the end of a pencil
+or so.
+
+fuselage: try to insert a little stick lamp into the
+fuselage in a dark surrounding. You will see exactly
+each repair spot, each cragh.
+
+Preparing of a yearly inspection:
+
+For every inspection you need not only a prepared plane,
+
+The plane's papers should be chronological in order,
+
+all ordered AD's should be done,
+
+all time limits‘of equipment should be observed,
+
+the installed eqhipment shotthd be in accordance with the
+. equipment List
+
+the weight and balance repdrt should be valid for this
+
+equipment
+the log book should be completed and settled up.
+
+Time is money - this is specially an inspector's set!
+
+If you wish to buy such a plane for yourself or your club,
+please avoid the mistake which may cost you perhaps the life:
+to sit into the plane after a short explication by the ower
+and to take off!
+
+The check of an unknown sailplane beging at the plane's papers.
+Without ~to know: the weight of the plane, its present C.¢,
+position, how big is the possible payload - without this the
+test flight will be a punishable carelessness |
+
+You should overthink that a bird with high performance in
+each case has alsa a high wing aspect ratio. This means a
+small area of possible C,&;range. And a plane moving behind
+the allowed back ¢.G. may have an un-controlled behaviour.
+
+Added to this, each plane will have its good or bad proper—
+ties. Not only by type; each bird is manufactured by hand
+and a human hand is not an electronic control!
+
+For this the first action of check ig the study of the
+papers and the Elight and Service Manual.
+
+Conscientious holders ef a plane may demand you before
+a flight in their plane to confirm in writing that you
+have read the 7.5.M and also understand it.
+
+
+--- Page 33 ---
+& a4
+
+’
+
+ETeNSN UBYA, Gatsva STAT
+‘uty uo sfemapts ysnd
+
+‘OTEUBY B82q BATP AN4 Jo
+[eset] FO Teqaenb set
+5q4 UT puodsaz prnoys
+ayeaiq ayy ‘sary FButuangy
+asnl aq 4snu Teaun auy
+‘HAVRE THAHM
+
+. ‘aRepTeang. O49 squtod
+qusUyoey4e eau sqzods
+B4TuA ao sdqaz ‘'s¥utads
+uayoaqg ‘uotyeazado aaay
+‘sqanaqas quaq ‘agutqyunon
+PUB BSTXB aua4 Joy Hoaug
+TUVGED ONICHVI
+
+“a
+
+jS2uT pury
+AUT8q prey-ae_ggze yoayo
+éATaaay sqeaadg 4uBeTo
+*MOOH HSVH1TN' DD
+
+Ny éTTaus
+
+pug quoty aeau aSepteasni POW
+: ¥. 'BSal NOTSHOL
+
+SSB Faq Ty] uaed# uy sautyT ao svage aqqtum ‘adja ‘squap
+Toy qno pue apTsuy, yoaug
+‘NIHS GOVIASAd
+
+aug 03 S4utod yoeyy4e
+BUQ TeaU SweIe SATU
+'SdOOl GIFHLVaS
+
+\
+
+487eTasny of saonoseg
+- ésj;ads 84
+
+. jATTetoadsa
+'S#utsgunom yoayg ‘sdta “SeonTd sseus yoeug
+‘sqgods ayyym Joy Hoag
+
+4} 084UT
+‘CIMS TIVE
+
+é'4°9 OOH YSON
+
+J
+
+4YSNTI pues
+
+Atanas gfepd yontt 004 40N
+pauaysey aupsed| ZATaaaz ajyeaadg
+sand TIVE ‘STOULNOD PHOT
+
+Btato SSHNUVH
+— YEGTNOHS
+
+oN . “Suraatz. aba. gutpanoame
+
+SsSBTsazeqty eqy ‘OTA TA HBBLB, BATyM
+
+. pu ‘aecos Suyasgeez eq, punosze
+BROwIO ‘kepd “aapsssoxa toy yoang
+i NOTHOINNOO Ba2TT Tavs TVLHOZTUOH
+
+\ 7
+
+Fras y-o ‘NTOAXO
+‘OTGVH ‘| SUNTWAULSNI
+
+WaAACNY SV GWYS
+*MOLVATTE
+
+. me oa. ftqmesss paey
+
+1 sutor agen sjode a4 yum : euytd quaq To esoot (500g oe poe)
+
+Aeqd aatssaoxe net cane ‘SgeTsraqry aug UT SPATE aATYyM Aol yssug
+1H
+
+*NOTDOUNNOD ONIM-AOVTESAT
+
+my
+FoYv71asNad
+
+
+--- Page 34 ---
+Check for proper position
+
+and fitting of wings, elevator
+and rudder. : ”
+‘Check the angularity of the
+axis (elevator and rudder).
+
+. Wing vibration mist be ‘the,
+e Same as on the manufacturer's
+reporgs 77" © ,
+For the Annual, checks, ‘the Loe a
+. datum points ‘and other re. ee
+: quirements are obtained from. mo :
+_ the’ flight and service mannal. Oe
+
+* AILERONS, FLAP:
+
+“lL. Pull travel? No exceagiv
+. Rips or nicks in surf
+
+Fiberglass}
+oh Ba Lea ”
+
+co Ter skin
+
+Nose joint
+
+Ze
+
+MAIN WING CONNECTORS
+
++ Sheck for hairline cracks
+ct . : along the, Front portion of
+; a. the spar fo ts, condition
+DIVE BRAKES ; of the pins, “ball joints
+and the main pin.
+
+Full travel? Close well?
+Play in joints?
+
+WING:
+Main apar- -e@a faultless?
+‘No-cracks, ridges? .
+
+ToT ag foe
+
+HAIRLINE CRACKS at, the WING.ROOT EDGES Where they butt -
+‘against the fuselage are usually not important if they."
+ogeour in the filler material used here for a good areo~
+dynamic fit, This resin~filler is not. very elastic and .
+often develops cracks from the normal working of the
+wings. The cracks do not grow when the Wings bend, and
+the main spar ia’ not affected. If a bard landing make
+the oracks looking more doubtful, remove the putty,and
+inspect fhe spar. . :
+
+HAIRLINE CRACKS at’ the LEADING EDGE stagnation point:
+there jis the+same:probiem with the Dutty layer. The top
+and “bottom shetis-of-the Libelle. wing are joined -to—
+gether at. the.leading edge by two layers of glasscloth
+inside, and the exteriar gap 1s filled‘with putty.
+The leading edge - see figure —-tas as many layers of
+glass as the rest-of the wing, but the reduced thick
+ness (no balsa sandwich) makes the leading edge more
+elastic, and ‘the putty is not able to follow.
+
+
+--- Page 35 ---
+|
+i
+\
+i
+
+{
+}
+|
+
+ant iret enn neat ead teas Esety shiantinticetatmeweeaette bent
+
+BASIC TECHWNIOUES
+
+When it has happened... : .
+Keep calm — evep light a cigarette if you must. Your case is probably ngt
+as bad as many that came out fine. :
+
+Go through. the checklist of the ship and establish exactly.what is ruined.
+
+Then you must determine from,the debris what sort of glass material ~
+weight, weave, and direction ~ went inte these parts. so
+
+In most cases, you can do a little grinding to find this out; the layers
+are built up,’ like plywoods. . “4
+If. you are in dpubt, you can: :
+
+i
+
+a) Ask your manufactwer of the ship, |
+
+b) Por all cases, add another layer of glass reinforcement when rebuilding
+this‘area, ¢ .
+
+c) Burn a piece of the debris. After the resin is burned out, the glass:
+fibers remain ( if you didn't heat them too hot and melt the whole works
+into’a lump), and then it's easy to tell fiber count.and direction of
+
+layers .,
+
+The golden rule says to always use one extra layer of glass than used before.
+
+fhen you will have enough reserve for grinding and finishing, without §
+
+fear of'damaging critical fibers. .
+oc . . ‘ i
+
+Lets look at thle similarities to and the diffey noe. between working with
+
+fiberglass and with: wood: ann . '
+
++
+
+In general, ond doesn't need to work s0 precisely with fiberglass pecause
+the fiberglass ‘layera will squeeze together to a”amall degree. Usually no
+
+’ pressure clamping is needed, which makes things: easier. Thereby one can
+
+taken sevenal sessions with wood and glhe. ee
+But Fibergiasa is more, exacting in corre :
+
+aften accomplish things in one session with. fiberglass which. would: have
+
+the: ogmponents 7
+
+Both methdas ‘ate equally sensitive to, Er join ng areas,
+
+Fiberglass, pefhaps ‘more than any other waterte!
+stronger and run closer to the original. Use thi
+yourself a bunch of steps-and sharp corners
+
+wt :
+SSS _
+‘poor : >
+
+If you have ‘not only holes, put also rips:in the skin, firat fix the rips;
+then these repaired parts will guide you in.re-creating the right diape
+for the rést of the area. a
+
+Recall that ,.arlier we noted that the strongest bonds are formed when the
+floleculea Cf the wet, unhardaned layers oan join together, So we like to
+work "wet: upon wet" wherever possible. Also by this we spare ourselves a
+Lot of grind Tf you can't work "wet upon wet", then the next bealt uo
+course i : upon dry", 1.e,, Leying fresh resin and gless on some! which
+has already nardened. Good clean sanded surfaces are necessary then.
+
+
+--- Page 36 ---
+30%
+
+"Dry upon dry" is hardly ever done, for it places great demands on the
+
+exact fitting of the parts, as in wood Glueing. Most of the time, we can
+
+get by with one layer of wet material between two hardened parts, which .
+equalises or levels any irregularities in the surface. If this is impossible,
+due to a precision fit, then we must consider: the highest strength is .
+‘obtained by glueing two hardened fiberglass parts together with pure resin.
+But only with a very good fit!. Pockets of the very brittle resin will |
+disturb the strength of the connection. Where the exact glued surfaces are
+‘dubious, we can use a resin mixture "filled" with various kind of small
+particles. . . .
+
+Filler - Tf one must £111 in uneven spots or thick layers with resin, one must
+material thicken the resin so that it doesn't drip or run. Usually one uses
+. powdery fillers, to make the mixture thick, like putty, and also because
+cur resin tends to be brittle. For our purposes the beat are:
+
+Aerosil — makes the resin stiff, go it won't drip. But the hardened
+mixture is brittle like pure resin.
+
+Cotton fibers — the mixture is not too, hard ‘and is easy to grind.
+We use a mixture of aerosil and cotton fibers when we want a filled
+resin which should sustain a lot of pressure but must remain
+flexible as wéll. .
+
+Glass dust yields a: very hard, strong mixture, which one should
+-not use on top of wet-resin~fiberglasa. Also this mixture is rela—
+tively dense. :
+Microballoons is excellent for making a-very light putty for thick
+layers, It grinds well, but it is forbidden as an-adhesive for
+joints. Its strength is not the beat,
+
+The normal microballoon material is brown (Phenol resin).
+
+it has also-such in white, but this is very hard to obtain,
+
+if you wish isuch from plastic. There is also white naterial
+made from littel glass bAlls, but the mixture of them is very
+heavy, and hard to abrasive.
+
+Separating Suppose that you had made a fiberglass part ina special mold, or
+material you had used the origin surface of your sailiplane as a mold for a spare
+: part, and then after the resin had herdened,:you couldn't pry, dig, or bl
+the part loose from the mold. That would be irritating. . .
+
+Evidently the molds should be suitable isolated. Where’ thin plastic sheet
+won't do because tha, curvature, then one waxes "the mold and more often,
+rougher it is. . * " ;
+
+There are two main groupa of parting agents: Water: olutions of certain a
+thetics, and wax solutions. The water solutions’ part wall, but the dry lg
+retarded and the surfaces don't get so smooth.. Therefore we mostly use th
+wax solutions. Most auppliers of resins alao have parti agents -availabl
+The waxy solutions are brushed or.mopped on;: they-dry: = few minutes,
+
+In simple litt}, cases you can use floor-wax. -
+
+Any surface expusea to a parting agent mustbesoarefully cleaned before
+puts resin or laquer on it. Even slight traces. of parting agent in the.
+Sanding dust on the surface will ruin a good.bend. « ao :
+
+
+--- Page 37 ---
+30
+
+Seriovglv warned should be before. -any substance — Separators or
+polishes ~ which contain silicone. This penetrates. very deep
+into the FRP and cannot be removed. On this spots it is hardly
+impossible to set a reliable repair.
+
+contact
+no cont:
+
+The following material stick to fiberglass— resin:
+
+Metal, wood, cloth, paper, rubber, concrete,’ clean glass, and some fiberbéards [7 2)
+The following material do NOT stick;
+
+Polyethylene, Teflon, polyvinyl chloride (PYG), Cellophane, polyamid (Nylon),
+shiny phenolica, and probably polystyrene. And also linoleum and all fasty
+greasy, or waxy stuffs, including silicones. i
+
+For the materials with a question-mark the behaviour is not clear.
+
+Some people may end lamentable - because things which go into rooms
+or compartments very good in form of clothwith resin, may perhaps
+not to go apart in stadium of hardness...
+
+Ball and roller bearings, and other link joints and rods must be well. protected
+against the dangers of resin running into them, especially when the parta are
+
+heated and the resin becomes liquid. litre water You neven beable to. glean oe
+epoxy out of ‘bearings ! aid foe wba teeth Tt te
+
+tected with primer paint; otherwise the hardener attacks” “then Bad ‘rust puitds
+
+upe- : . won ated ptt
+
+If you wish to use some pressure while the resin is hardening, there are two
+reasons why the vressure should not ha too strong: firstly, you won't be sure
+of the shape ibecause the fiberglass will wander, and secondly, “the repaired
+pieces shouldhseethe same thickness as the old to. which they: join, for althcugh
+thinner, highly pressed sections have a higher glass fiber density, they also
+bend much | easier.
+
+During manufacturing, and also in bigger repair works, the pressure vacwun
+by vacuum is usual. Hach LTB .owned a vacuum pump. In adventurous
+
+cases of the begin of PRP sometimes aggregats of milking machines
+
+were used, Today are available special machines. ~~ One can, in
+
+rare cases, turn around a normal compressor.
+
+A repair which was vacuum- pressed is more soft to even than a
+spot as described in page300. And because the pressure oftthe
+vac cannot be more than 1 atue, there is no chance to displace
+the whole matter.
+
+ow is to do this in practice?
+
+The trick is less to bring the spot really sealed, but to
+suck out as many air as possible. One should use for this no
+narrow valves, and not too little thbes.
+
+
+--- Page 38 ---
+303 .
+A repair prepaired for vacuum pressure looks like this:
+(the layers are listened in the sequence of putting-on)
+
+Crna ca
+
+aT a LO ares
+
+AERTS
+a 73 RE
+
+sandwich shell
+repair spot og
+tear off cloth if available | la
+foil which have little holes (woved with nails)
+
+air cloth (jute, fleece )-———____->______-
+
+[ 5 vacuum foil, sealed around with tapes
+
+are sealed with bathroom sealing
+
+“
+
+OF wwe
+
+7 vite Wrinkles at the tubes
+
+gf it is to be apprehend that a lot of dust will be in the
+pump air, then defend your tube end with a filter of cloth.
+
+Tf you have not Many experience in vacuum technique, it may
+
+be worthwile to make a test in dry before using the resin, _
+The vacuum is perfect if the Little wrinkles which bulid up
+
+in the vacuum foil cannot be pulled up by hand, at no spot!
+
+Only really big holes in the foil you will hear to spit.
+
+The finer the whistle the more little the hole (and that
+
+means the more bad to find).
+
+Tt is bad that all sharp spots, little resin needles etc. need
+eften some time for to drill themselves through our carefully
+Sealed foil...
+
+The vacu foil should so Loose bepositioned that it will not
+be separated from the borders when the vacuum is pulling on.
+
+A little before we have read something about "tear off cloth:
+an invention which elaminates the burdensome abrasive after
+gluing. One put it as the last layer on the repair spot. after
+hardening it is simple removed — and ready is the abrasive!
+
+when one: has ‘painfully dearned to discriminate between ‘places where spmething
+should be cemented and places where in no case should.there be cement:— the
+one to be catefully prepared for the resin,. the Other te bear parting, agent
+to reject the glue, and all this with the greatest economy of means —, then
+it will seem ‘like sport, to juggle these two possibilities, .. . 7
+
+ton
+
+
+--- Page 39 ---
+TOOLS
+
+.In addition to-the usual tools of an aircraft shop, the following are
+especially recommanded for fiberglass work:
+
+Clean vessels for resin, hardener, and mixing °
+
+Brushes with small bristles, and one big brush .
+
+Sharp scissors
+
+Sandpaper of varous grits
+
+Abrasive baper 200, 300, 400, and 600 grits; d000., 4500
+
+Sharp chisel
+A keyhole saw, a hacksaw blade with one end taped to make a handle
+
+Files, nalf-round, coarse
+
+_Sanding block to hold sandpaper while using it
+
+Sanding lath: the working side of this must be exactly even!
+Rule: if you equalize a wing surface,~the longer the sanding-
+lath the better the quality of the surface of your wing.
+
+For wet abraSive paper the lath should be in minimum as long
+as 2 blades of abrasive paper.
+
+Vinyl (PvG) Plastic electrical tape,
+Clear cellophane tapes, old newspapers,
+
+Plastic sheeting, polyethylene
+
+Good special roughing fool: a piece ofa, haekgan age: | Sbbdied..on, a .
+handle from fiberglass,or wood, or metal :
+
+an oid, bended pushrod which will be prepared on one end for
+insert a little brush. With this one can reach in to a fuselage
+f.i. very. deep for resin worke.
+
+Parting agents for epoxies. In emergency, try paste wax or ‘clear’ shoe
+polish, also a candle, However, never use waxes containing aiiicones
+
+because one can never remove traces of them from the work, and silicones
+Will prevent adhesion of resin or laquer.
+
+Solvents: Acetone or MEK (methyl—ethyl-ketone), daquer thinners, petroleum
+solvents, to clean the tools and remove traces of parting agents. Don't
+_ get them on the canopy!
+
+A small hand grinder makes the work easier,
+
+A disc sander with a 90° acapter is extremely-useful for many works, but
+untrained peoplé should use only small ones, — providing the danger of
+cutting holes ‘very quickly!
+
+These tool: iS veally a little dust slinger - but no other
+tool is so multipurpose in our handicraft.
+
+In the most cases these tools are delivered with hard grind
+disks. These are unsuitable for us. The best are these white
+
+elastic polyamide disks.
+
+Grinding wheel for sharpening tools - fiberglass dulls them faster than
+wood! :
+
+Balance or scale which is accurate to about one gram (0,05 ounce)
+~ a mail scale is not close enough in the most cases
+
+aa,
+
+30
+
+/
+
+
+--- Page 40 ---
+HOO
+
+FTRERGLASS~— BALSA— SANDWICH SKIN?
+
+(Libelle and Bs — Wings, Elevator, Rudder)
+
+To these members we have a layer of balsa wood between two layers of
+fiberglass, * ,
+
+There are ‘two; kinds of damage: . we :
+a) Only the outer skin and balsa is damaged, and the inner skin .isrsound;
+
+b) The damage: goes through all three layers.
+
+i
+
+SS 2 layers of fiberglass a
+wu Stiitzstoff balsa wont
+io dayer. inner skin ~~~" S&S
+
+course simpler, go let's begin with its.:° 7077
+aE .
+
+ae F*B
+OS
+
+Grind off the afflicted area
+“with 40 - 60 grit sandpaper, until.
+the, paint is removed from the outer
+skin and the structure of the glass. -
+cloth is visible about 6 mm (1/4 in.)
+around the rim of the hole.
+
+Fill the hole in’the balsa with epoxy
+putty which ig made from normal epoxy
+mixed with'microballoon, cotton floc,
+sawdust, dr even flour.
+
+Let it hataen!
+
+
+--- Page 41 ---
+Grind off the excess resin flush with the
+sound balsa ae :
+
+. Remove part of the. outer skin so that the
+glass ig exposed for about 20 mm (0.8 in.)
+
+around the rim, The exposed glass should be
+
+ground tapered so that it goes from zero to .
+
+full thickness in the 20 mm, Note that it will
+
+be aasy to unwittingly carve deep holes iu
+
+the balsa while attacking harder stuff.'
+
+Do not touch area with (greasy) fingers!
+
+Remove dust with clean brush.
+
+Cut some glass cloth patches to cover the
+area ~- use the same kind and lay as original in
+in that area (Exception: On wing skins, instead’
+of 2 layers 92145, use 3 layers 92110: The
+92145 weave can't be blended too well).
+Thoroughly wet the patches and the area with
+
+freshly mixed epoxy..and lay them in place.
+Saturate all with epoxy. co .
+
+hiavtilm.of polyethylene,
+md work “dhe air -bubbles
+Be-dareiuk not to shift the
+
+: fone ve ek 4
+
+When epoxy is surely hard, pull off the
+film' end proceed ta grind the area to shape,
+starting with coarse paper aud finishing with
+200 or aven 400 grit; wet. Keep greasy fingers
+aff. Epoxy putty can ‘be used to fill tiny
+holes. :
+
+4o
+
+
+--- Page 42 ---
+how
+
+Now we consider case b), the awful ‘hole through both the inner and outer
+skins. It will be necessary to rebuild the inner. skin first.
+
+Suppose that one can't reach the area from behind, and that the hole ip
+
+the inner’skin is small. .
+
+Prepare the hole as shown in
+picture b 2. fhe grain of the, - -
+new balsa piece must run
+
+parallel with: the original!
+
+bye
+The inner suyfaces of the support
+material are ‘covered thoroughly
+with époxy, mixture .
+
+Then gover the bottom of the balsa >
+piece with: glass cloth and saturate ~
+
+it with epoxy . . g
+: i . ;
+
+So it looks if the support material is balwa.
+
+Tf we have foam, it has no fiber direction, certainlx. We have
+only to watch that the material is shafted around with 20 mm,
+Tubus or Hexcel will not be shafted but insert simple stump
+and the edges will be glued with microballoon.
+
+5
+
+with epoxy. and insert the fitted
+part. Apply [ight pressure with
+weights or} sand bags. .
+
+Cover the prepared area of the shell’: =
+
+The nextisteps follow as explained
+in piatune: 5 ‘and following.
+
+Tha aupport matarial, balsa or foam, should ba replaced avery time ‘in the
+described “kind, It might be easy to make a foam’ support material in a
+round shape, -but it will be very hard to fit it precisely, . :
+But the glasq cloth should be cut with round corners,
+
+
+--- Page 43 ---
+This method in 2 steps will deliver the most qualitative result.
+If you have no time for a long work, it is also possible to
+repair the whole thing in one step: cover the support material
+with a glass piece which will reach ca 20 mm over the PRP materi-
+al of the surface layer. For this the foam must be fit very well,
+not too high. Then continue like picture a 6.
+
+For larger damage: prepare as shown in picture
+o 2, but the weaving must cover the slanted .
+
+surfaces and extend beyond those slanted aur—
+faces. These "ears" lie on the spliced’ eige
+
+of the outer FRP layer.
+
+From there follow as shown in picture 6.
+
+For holes big enough to admit a couple, of fingers,
+or where the inner skin hangs down and flops. around
+most disconcertedly, one must build a Light platform
+under the inner skin to hold it in place while new’
+fabric is glued to it. .
+
+ot ara Dress the inside surface of the inner
+xo " skin to a clean, tapered surface, as
+7 NR. shown in picture c 2. Gloves will
+
+protect the hands from sharp edges!.-
+
+Cut out a platform piece of foam
+
+or balsa or other light material
+
+big enough to overlap the hole {
+by abhut 50 mm (2 in.) all around. .
+Sand off its top surface so that
+it is a fairly good fit to’ the
+ground surface of the inner skin.
+Then secure with wires or strings
+against the shéll.’The inserted
+part must’f£i¢ shell contour ex-
+actly. without distorting the
+
+contour, | .° . . -
+
+(OB
+
+Practice with a-dzy-run!
+
+We cover the top side of thia in-
+' gerted piece with epoxy and glaas_
+= cloth, so that it overlaps the '
+“aplice of the inner FRP layer.
+After saturating exactly we tighten
+-the wires or strings against the
+shell, and let it harden. a
+
+The reestablished’ inher layer .is ndw
+‘sanded off and one “can lay in a piece
+' of balsa or foam and proceed as “shown " ‘
+in picture b 2 ~ 4°and continued as in
+picture 5, °
+
+z This support platform remains forever
+
+' a inside and we must insure that it re-
+mains there in fact, and also does not
+. interfere with any steering mechanism.
+
+Jn all cases where you are not
+completely sure to obtain a
+precise junction of the ianer
+Vovers. wou nit under the
+
+
+--- Page 44 ---
+Ook
+
+bended
+parts
+
+roving
+ropes
+
+Sometime.: we will not come to a result, f.i. if the damage is
+positioned in the bended area of the nose. Then we should pre-
+pare a replace part, We stretch a foil in the neighbourship of
+the damage over the bended area, put on this a piece of inner
+layer FRP, good with wet resin, and on this a piece of foam.
+This will bé pressed with tapes, tear off cloth or vacuum on
+the bended spot. Let harden. Jf you have tear off cloth, then
+this is the first layer before.. the inner FRP, so we have not
+to grind.
+
+For this we have here the method "dry onto dryt, it is neces-
+sary to glue in this replacement part with cotton fiber mix-
+ture. :
+
+Working with roving ropes
+
+To this it is coming very easy. Example: a guide of a lever for
+airbrakes or flaps isuyebbhligg; a landing gear cover is rein-
+forced with rovings ; the back rest of the ASK 21 is broken in
+top: etc. etc.
+
+Certainly it is impossible for you to constate how many rovigs
+per rope and how many ropes are placed in the mentioned position,
+you can only, estimate regarding the thickness of the layer.
+
+You can produce a roving rope as following:
+
+cut some pieces of rovings, perhaps a meter or so. Then they are
+impregnated with resin. work f.i, on an old newspaper (also foil
+is possible, but I personally prefer paper beacause it is to look
+where you have put resin, and also the paper absorbe the resin a
+little. the work grews less smeary than with foil).
+
+The slipp- off of the most resin you can do in the simpelst matter
+with the fingers. More domfortable:
+
+take’ a piece of tube 6 x 1 mm. This has a caliber of 4 mn. Therein
+6 rovings can be slipped off. This results a proportion fiber/
+resin of nearly 50%. A tube 10 x 1 has. a caliber of 8 mm; can
+take 25 rovings for nearly equal proportion.
+
+Certainly you should observe that the running of the rovings into
+the tube is prepared very soft, so the tube begins like a venturi
+tube. Profis put the tube into a turned mouth of steel, or alumin.
+
+The area which you like to strenghten will be roughen, prepared
+with resin, the ropes positioned fine shafted and the layer
+covered always with glass cloth, otherwise the rovings may can
+crack under Load. a
+
+In case you like to repair a broken roving rope the shaft length
+must have a proportion of 1: 4o.
+
+The stop position of the landing gear lever may be weaked in
+some planes by time. In all PRP guides we can renew this with
+a roving rope positioned against the lever (see picture).
+
+If this is not passible screw or rivet a piece of polyamide
+against the Lever.
+
+--- Page 45 ---
+. 4OS
+
+result after
+hardening
+
+pre-fabricated
+nose part
+
+(weight }
+
+taper
+
+stop of jcloth layer 4
+landing gear lever - - oe
+
+tube 6¥/
+
+simple apparatus for
+fabricate roving ropes
+
+
+--- Page 46 ---
+Loe
+
+Repair of an all- fiberglass fuselage
+
+(Libelle, Sato, others }
+
+fn contrast ‘to ‘the wing a fuselage
+shell consists only of fiberglass.
+this design provides spring flexibility.
+
+Tn case ofa smaller damage do nothing
+but splice around the area, approxi- ve]
+mitaly 2 - 1.5 inches (20 —- 30 mm). . Pa
+ve thé kind and direction of the . .
+cioth and replace accordingly. Doe :
+fivS layer of glass cloth is’ the .
+£, und! each repeated layer should
+be 7 - 10 mm (1/2 in.) smaller in cir—
+cuttfecance. tet it, harden, sand it,
+paint it. . f .
+
+Rips in che shell or built-in parts
+are tu begtdund away (taper) on each
+side for a.distance equal to the
+Length of,the irip, but at most about
+50 mm (2 in.) fon each.side of the nip;
+and also at each end. Lay dn resin’
+und properly driented glass cloth.
+after thid is'hard, grind off the in- .-
+side surface of the rip and lay ou:
+, a sigle layer ‘of fabric inside, as’
+shown im the picture. Observe the
+kind und direction of the glass cloth
+and replace! accordingly! ° ,
+
+Por larger damages it is difficult to
+
+establish the :contour without a support,
+Example 1: Pit a piece of foam, “fromthe .
+inaide, so that if completely covers «the open
+area and Secure it with brace or other support
+
+Remove the foam and splice the shell in
+4 normal manner, cover the foam with a
+foil and ifserpt it. Rebuild the shell
+as described barlier.
+
+You can also Work without the foil as
+dong as the fpam will not react to’ the
+epoxy: (Teet A small piece!) Styrofoam
+has proven, ta work well. a
+
+Bat certainly, this manner requires! more
+eftort tocvclean the pate.
+
+And certainly you have the possibility to
+fabricate on a spot in the neighbourship
+& replacement part. (page 407)
+
+
+--- Page 47 ---
+new outer layers
+
+blind rivets
+
+4Or
+
+.Example 2: You make a-mold on the out—
+aside. This is not too hard to make
+
+First wax the opposite symetrical side
+af the airplane perfectly (hoping this
+area was not damaged too!), lay on one
+layer of saturated glass cloth of 300
+or 400 weight (12 oz./sq yd), letiit
+harden and sand it as desired without
+removing from the plane's contour!
+
+Then, after removing, bend it inside—
+out, Like an old hat. Now the nicely
+ground surface, which used ta be con~—
+vex, bas become concave. It can be:'
+waxed and used as a mold, ~
+
+After preparing the damaged area
+
+as learned earlier under: “little
+
+holes", wax the new mold and lay in
+
+the observed glass cloth. After ,
+
+saturating it with resin, stick the
+whole affair onto the damaged area’ Ls
+in the right place. Hold it there
+very lightly, say with sticky tape.
+Heavy pressure will distort the
+shell contour or remove the wet
+fiberglass.
+
+With small, curvaceous surfaces one
+may use modeling clay. or typewriter '
+oleaner: or even Plaster of Paris to
+form a mold (but: do not nee. silicones!)
+Remember that some of these.molding |
+materials may. contain grease which |
+ruins the epoxybond.-So0 after remo—
+ving the molding‘ ‘material; .clean the
+rebuilt‘ area’well with hot, soaby
+water -and roughen” it well after drying
+if you need, to. work with resin
+
+on this ‘area.
+
+Whenever it is possible, try to put
+one layer ou -the'iuside for safdty
+. Peasons. Any ‘separating: material .
+should be removed- before inserting.
+the inner Layer. Wash with acetone : a
+and sand it.
+
+A HOLE
+
+you can often not repair even enough
+with the wet PRP layers. .
+Then you prepare on a spot of the
+fuselage which seems adequate of
+the hole contour a fiberglass.
+adapter of 2 to 3 layers,
+fit it with the good overlapped
+borders to the repair spot and glue
+- it from inside, very well roughed,
+te cover the hole. Glue with cotton
+filled resin.
+If you fix it with some little
+blind rivets, you can work without
+an interruption with the onvter
+
+Ly FRP layers.
+
+
+--- Page 48 ---
+Hos
+
+Cc
+
+D
+
+“ pver this lay a single Tayer of cloth
+‘and
+it ¢
+8 ‘d° rib.
+mag id vi
+
+‘unddt light pressure in the. right
+
+‘ posix this first in the usual way .
+
+WHEN A BULKHEAD TS DAMAGED:
+
+Small places can be patched directly
+bn the rib. Naturally one sands the
+spot as‘usual. One who is wise also
+patchés‘ little dents and bends, tou.
+
+When a large portion of the rib is
+torn.up; one will have to make a mold.
+One caniform a rib core out of a foam
+Plastic, glue it into the skin, and
+day over it the necessary layers of
+glass:cloth and toving, impregnated _t
+with ‘regin, . .
+
+or one Gan use an undamaged rib as
+@ pattern. lay a piece of thin poly . J Sf,
+‘ethylen® film over the good rib, and ; nn 8 © Se
+
+: ; Ore —
+Tye
+; o pulkbesd er,
+If the prepared base doesn't. curve
+
+: SST wet
+quitg right, saw some notehes in it —— : > :
+
+so that!it will bend under light pres— : QC . \
+sure Here one is forced to repair the .
+rib in two steps. First, glue on
+
+(epox 13 just one layer of cloth over
+the’ deformed base’ and let it' harden -:
+
+esin, After it hardens, one uses
+"ai base for.re-creating the da—
+
+f
+
+shape. pecond , ou this now perfect’
+pattern, (naturally after ‘sanding!):
+glie on the roving and: outer fabric
+dayers.i Certainly, it is allowed to
+put. the, roving ou the peak of the
+ving! between the first and second
+layer. ° u
+
+Damage TRAILING. EDGES ON -ATLERONS, Soe
+vl GR REaps: coe, Te
+
+If offly a short length ta split open, 1% often auffices
+to “ery ithe two halves apart a little bit’ and ‘sqtieeze .
+someveyoxy into the split.; The two sides should then
+be squgezed. together equally, as by spring clathespins
+or ‘film clips. a
+
+oe . 1
+Howevex , if a piece of the edge has been hacked out,
+them yqu need. to build it uy -again with resin and cloth.
+Sant’ off the paint until tha gless fibers are visible, :
+jay, inj2 layers of 90070 fine cloth and resin in “the pro- -
+per way, and overlapping. Cover two straight pieces of
+wood with foil and clamp them to the upper and lower, tte
+
+. subfacd in a way that they line up with the trailing :
+‘edge. Prevent any Sliding, especially ou large parts, 4
+
+Ifj-the! balsa haa been damaged, then naturally you nead .
+
+Be-careful not to add too much mass to the trailing
+edges, lest you upset the mass balance for flutter.
+:
+
+
+--- Page 49 ---
+TORN-OUT END RIBS
+
+on Flaps or Ridders.
+
+If the rib is torn. out clean, sand all
+
+around it first. Then split the rudder
+
+on the trailing edge and even coat the
+
+vib with thickened epoxy (aerosil-and
+
+cotton flakes) and ram it back into
+
+position. Clamp it with tape-covered
+
+wood pieces: This freshly glued ‘part
+
+has to be installed in its position
+
+so, the bearings will line up again.
+
+Uaually, hawever, the rib is not,torn ont.
+
+so gently, and a piece of the end: rib or
+
+skin is damaged or distorted. The, diffi-
+
+culty here is that the parts are built in
+‘female molds, which you don't happen to :
+have handy. In spite of this the repair [o>
+must match the original contour 4nd the .
+original strength must be regained; There~
+
+fore you'll ‘have to make some kind; of a
+
+mold, either by: i
+
+a) bending some smooth sheet metal exactl
+to the right contour, or . .
+b) using the corresponding undamaged mem—
+ber on the. other wing aa'a pattern, for a
+mold (Ailerous, flaps, and elevator of tHe
+Libelle have’ symmetrical. profiles!), ‘or
+
+2) Making an exact duplicate ofthe part,
+in softwood, cover it with 1 layer of
+
+glass cloth, sand it and fill it -#ith
+putty, and make a female mold from this.
+
+As in other aircraft repair, one must
+first obtain a good rib, either by repair
+or by purchase. . an “Lo ,
+Then, with the aid of-the moid prepared
+by one of the above methods, one can set
+in the rib and fasten'the skin to it as
+described above. : .
+
+“Please note that in the neighborhood of
+all end riba in the Libelle and'BS 1,
+the balsa on the sandwich tapers off to
+zero, somewhat in from the rib, and the
+balsa ia not called upon to carry any
+load in these places. See figure,
+
+
+--- Page 50 ---
+iio
+
+The feet of the. bolts
+os look like this
+
+Here under the putty sit hinges
+and screws (fuselage side);
+or rivets (door side).
+
+IF AN ASSEMBLY PIN ON TRE WING ROOT
+
+IS BROKEN OFF:
+
+Relax. It's not like breaking a legy
+The little pins have nothing to do -
+with the stress portion of the wing.,
+In fact, their strength is purposely
+limited to prevent damages by enthusi-
+agtic but misguided assemblers.
+
+Grind away the remuants where the pin
+
+_ sat, until -there's no bump-left. Then
+
+lay 2 layers of glass cloth on the ‘spot,
+and place'a new pin on the spot. Gut
+out 4 circular patches: of glass cloth,:
+The patches should'bhave different ~- .
+sizes, about 50 - 65, mm
+
+Poke 4 hole in the :center of each patch:
+using something smooth so that no ‘
+fibers are cut (perhapa d'acissor’s tip;
+Slip it over the head’ of the bolt so
+that they cover. its-¥eet. Orient the
+fabric so that the fibers crisscross,
+saturate all with resin, and let harden,
+
+i
+
+LANDING GRAR DOORS:
+
+Damaged doors are disassembled by..,
+cleaning off the area of the hinges
+and removing the screws. If the hinge
+is damaged, it can be replaced with
+Similar brass hinges...
+
+The fiberglass doors are repaired
+
+“ag is", If rovings are torn, prdaceed
+as with "Porn—-out Fittings", and‘use
+new rovings with’ splices about 50 -— 60
+mi. (2 ~ 2.5 in.)long.
+
+Badly damaged doors are usually repldaceu
+hecause it's too demanding to try to
+re-create their exact contours,
+
+added A basic remark to the installing of added equipment parts:
+
+equipment 4. each of these nice added parts costa weight. Very fast in
+
+this kind you can collect —
+
+this reduce the limit of payload. -
+
+some kes of weight, and
+
+2, The plane is licensed based an its type certificate.
+Going away from this Line can interrupt the traffic license
+of the plane, with all consequences (insurance cover!) This
+
+is valid also for added equipment,
+
+Or the elimination of
+
+parts which are listend in the type designs.
+
+If you find such a change very important you can apply for 4
+"ehange on the piece" by the. government. The for this necessary
+paperwork know the manufacturer or the LBA.
+
+
+--- Page 51 ---
+A
+
+4 LAA
+
+Attachment Point Reinforcement.
+
+Tf you have to attach something
+
+on the shell, the same rules apply
+as in wood construe tion. The area
+must be. strengthened before cutting
+any holes or inserting screws.
+
+fo accomplish this, rougheo the
+place and put some layers of
+glass onto the area, each larger
+
++ than the: preceeding layer, and’ also
+changing the directiod of the weave.
+fhe «sjttengthening shall be in a
+vealigtip relation to the. weight it
+must’-carpy, A 1/8 inch diameter
+tubing dbes' not need as much as an
+-instrumeht weighing two pounds.
+In ddubt! you make some tests an a
+geparate! piece of Wood. or fiber—
+glass,
+
+For Léapp, hooks, sockets, tubes:
+Sgnditthe; area, wrap the part with
+glass ‘icloth around the tube and
+
+another layer iapping over to the
+skin, and let harden in ‘position.
+
+Greater Btrength ig achieved by
+wrapping, the part with soaked strands
+of royings. Spread the end out over
+the ‘shell and Secure it with an addi~
+ioe ‘layer of clath..
+
+You #4n “also build a
+remayva Te attach peint:
+
+4 Firgtredver the sheLl with foil a
+rdeeed as deseribed ahove.
+hardening ' remove the bushing
+incliding all the ‘glass.
+
+2 Cover tle back side of this attach=
+ment ldte with foil and drill tha
+fecessany holes fof the connection.
+bolts: through the plate and foil,
+
+3 Sand’ thd area-where the attach. point
+should We located and cover it with
+the niécdssary ‘layers of glasg cloth.
+
+nithe hexegons of the qecessary
+: with a file, the rougher the
+bet er. ‘Protect the eorews than against
+rusk," -by primer or by gina on cadmium
+plating: Cover shank and thread of tha
+senewa with grease, but the head must
+Femain dlean.
+& App 2ito 3 layers of glass onto the
+pre irdd backside of the attachment
+plate, dlear the holes of weaving and
+push thé screws through so that the
+heada’, come to rest on the wet glass.
+
+6 Put resin-wetted glass fuagles around
+screw heads
+
+fpress the so prepared attachment plate
+against the glass spot in the plane and
+fix it with any suitable tool.
+
+Por a conncetion between the plane and
+ae Ph ee, a i: i,
+
+
+--- Page 52 ---
+500
+
+The Surface;
+
+After vepairs the equalize of the spot with putty is necessary.
+Rughen the spot well without injure the FRP. The structure of
+the upper glass layer should be not hurt. Abrasive paper 80 -
+
+100. :
+
+Than you apply a white polyester putty with the japanese
+spatula. The plainer the putty area the lower the work to
+erind. It may be remunerative to donate a boddle beer to a
+friendly painter so that he will bring on the putty area -
+because he is able to do this in minutes and he reach a
+perfectly even area - instead the most laymen can only set
+relatively equal heaps .
+
+Sometimes you need to apply the putty 2 to 3 times.Between
+the steps it needs to grind again. By time you feel a nearly
+even area which has no more differences to the environment.
+
+_f The putty area is to grind a little deeper than the un-
+treated area so that you have room for the later laquer.
+But in practice exactly the repairspot is the highest!
+Here hels only a wide spread-out of Schw. for -to
+make invisible the buckle.
+
+If you have to fill out a relatively little spot ina
+Schwabbellack surface, you can avoid somtimes a big action
+
+if you wait until the Schw. reaches nearly its polymeri-
+
+zation point. Then he gets very thick, and you can fill
+
+more mi. Qr you add some Aerosil (page 301). Then the .
+spot gets perhaps not so shiny, but you have no colour difference
+to the environment - and save a lot of work.
+
+in case of synthetic laquer surfaces (page 604) comes
+after the putty a thick filler, painted or sprayed, then
+a fine filler whichis to grind fine and wet, and then the
+laquer
+
+
+--- Page 53 ---
+We know two methods to colour a sailplane;:
+a) on the beginning, b) on the end of its manufacturing.
+
+The painting of the surface on the beginning, as the first step
+into the mold, we call "gelcoat" method. In all the first
+native time of the plastic plane one has known only the
+"Schwabbellack"; later there were developped special gelcoat
+resins. They-are specially designed to get no "noses" on
+vertical surfaces.
+
+For the final iaquer method you know the steps from a tar;
+one useg also often the same laquers. So every clever
+craftsman for car~ spraying can help and advise you.
+
+it is clear that you should handle each kind of surface
+in its special manner. For this it is necessary to ask
+the sailplane manufacturer for the kind of surface before
+begimning every surface work.
+
+Gelcoat resin is in the most cases a ' really thick layer; .
+it is not to apprehend that you will erind "through" if
+
+you use a reasonable corn of sandpaper. But sometimes it
+
+is not so freindly to polish. If you have to apply some
+
+material it is necessary to grind the spot exactly.
+
+Caution is to be observe in the area of noses and other
+
+areas whre it is possible that we have glue gaps from
+manufacturing; there may be refitted and you may find
+
+thinner spots.
+
+Gelcoat material is . harder than Schwabbellack.
+
+' Polyester- Schwabbellack ist also painted first into
+
+the negative mold, but it is more fluid and for this it
+can. run from vertical walls so that the surface is not
+50 equal than’ gelcoat. Also in former times (GLASFLUGEL)
+vne were avaricious with the weight of a plane so that
+we have often some trouble with a very thin layer of
+Schwabbellack.
+
+Also the laying-on with a brush as it was done in former times
+of plastic planes that the white surface is not very even. This
+uneveness is followed by the first cloth layer. In such cases
+you should not have the ambition to remove each white Little
+spot from the surface if you like to put a new gelcoat on this,
+In this case you would hurt on many places the first glass
+layer | -
+\ py white surface + j
+
++ wetbanguamnone ao an Sliding level
+
+zy"
+
+3. sloth :
+
+Before beginning with the work in Polyester, you should
+regard the part intensively in a slanting coming sunlight;
+then it is to see if there are thin areas. Then you have
+to decide: if you grind a repaired area you will neces-
+sary also grind the environment, and if this is thin from
+the first, you will risk there dark spots, so that you
+have to apply there new material ... and so on until
+
+
+--- Page 54 ---
+502,
+
+lay on
+
+reaction
+spot
+
+sliding
+
+If you have decided for "apply" — this is no question for repair
+spots - then you leok good over the area and draw a pencil line aroun
+the area you will paint. This is grinded with abrasive paper 120,
+if you feel that the whole area has not so thick material, you
+take finer, 220 or 400. Never paint wider than the grinded area,
+this will result borders.
+
+After this you paint the Schw. not too thin, grinding is rela-
+tively facile, also thin layers. may harden slower and often not
+correctly.
+
+Immediately after the laquer has polymerizated you can apply
+the next layer, if you have to paint vertical spots - so that
+
+you can reach also here a good thick surface. :
+
+Never paint over the pencil line or other uncleaned spots -— they
+will come as dark spots after erinding.
+
+During its reaction the Schw. is, fora very short time, really
+thick as putty so that you are able to apply it in this moment
+in millimeters thickness ~ if you have an uneven area too little
+for putty work. :
+
+Tf the Schw. is harden good and ready - you can help with a
+heating fan, but not so long. it is wet! — than you grind.
+
+Only if you have to remove bigshubbles than you take 120 paper,
+and only for the hubbles. Otherwise take no coarser than 360
+to 400. This -needs more time;-but in other cases it may be
+poasible that you can't remove the scrapes.
+
+You use wet sanding paper, and span it over a good even piece of
+balsawood or other wood which is not too hard. For the wing
+
+the woad piece may be the longer the better. You please work
+never in direction-of the wood's length, always rectangular
+
+or diagonal. Otherwise you fabricate channels.
+
+This first grinding step decides over the quality of your
+surface; for this you colour the surface with a mixture of
+
+very little colouv laquer and a lot of thinner - only so
+
+that you have a gleam of colour.
+
+If you grind then with the even wood, you will note that on (
+the higher places the surface get white and on the lower the ;
+coloured spots rest. So you have a check if you have grinded
+
+the whole area correctly.
+
+If you see a dark shadow while on other areas still the
+
+colour rest unremoved, than you repeat the method of pain-
+
+ting : line with pencil around the deep area, sanding and
+
+filling out with Schwabbellack, really thick.
+
+After this you paint another time, thinner, also’
+over the dark shadow — area.
+
+This is to hear a little complicate, and of course it can
+
+be throughout a time- eating procedure, guided by your
+pretensions. Not without reason such planes are more
+expensive than such with a thick surface layer, but they are
+certainly lighter than them.
+
+
+--- Page 55 ---
+fine
+finish
+
+spray
+
+if the progress of the work cames on the spot that you have
+the feeling to have no more shadows or spots with colour -
+and..also the feeling with your hand notes no more uneven
+spots ~ than you can dry the whole thing and regard it in
+Slanting coming light. The surface than has already a light
+shiny looking, and you will see very good eventual scrapes
+or other mistakes,
+
+If you are satified totally with the 400 wet abrasion, you
+take the 600 and 800 paper. You can take a softer wood for
+it -(never.you sand without an even base)-Now no more
+material will be removed, only the channels of the former
+paper will be slided. The direction of sliding is now im-
+portant: the wings in direction of flight, also the fuse~-
+lage, only the ailerons can be done in length because their
+chord is too little.
+
+The last step is a slide with the oldest, used-up fine
+800 paper which brings only the last scrapes aboard.
+
+Then comes the fine work with 1000 and the grey 1500 paper.
+
+The dried surface has now a fine shiny look. We polish it
+with a good car polish. Ndét..d0 experienced persons should
+not use a polish disk (angle:‘polisher): if the surface
+gets too warm on any spot thé the structure of the @lass
+come to see and all the work. was for nothing.
+
+If you have obstinated dark areas, there will help only
+
+a radical procedure: you should grind this spat deeper
+than the area around - without injuring the FRP! - and
+spread out your Schwabbellack over a-good area around.
+Otherwise you will have on the critical spot a buckle
+
+for all time.
+
+So complicate the whole thing seems - one can nearly do not
+really mistakes. If the dark shadow comes you will see.
+For this also laymen may try to help theirselves in
+following the described method.
+
+Because Schwabbellack gets yellow a little after long
+time, it will be not to avoid sometimes to get"different
+colours of white"(as we say) But this means not a lack
+in straightness for the surface, which is the important
+
+point,
+The procedure with gelcoat is similar to Schw.
+
+For some Schw. there are thinner or thinned hardener which allow
+to apply them with the spraygun. Tf you have larger areas you
+should prefer this. You can do it in a normal workroom which are
+prepared against dust by wetting the floor and covering ithe
+environment of the repair area.
+
+So
+
+ad
+
+
+--- Page 56 ---
+504.
+
+build up
+steps
+
+spray
+
+Synthetical laquer (polyurethane, Acrylic ete.)
+
+Gontrary to Schwabbellack this is a really laquer, with
+characteristical thin-layer. The working method for this
+is basically different. The laquer should be sprayed with
+4 gun, and it needsa dusty- free working room (cabin).
+
+ft is more elastic and in spite more harder than
+Schw. and rest white for years.
+
+The method - let us regard the SALTO — is the sane then
+on a car; first putty, than filler, than laquer. Because
+the laquer layer is thin you will come through easy when
+sliding, and you will note this not so fast because the
+underground is white.
+
+The first putty, normally a sprayed one, will be slided
+with 80 paper. It delivers the straighthness of surface.
+The fine filler is to slide with wet 400 paper. It is soft
+and to slide fastly. after this workstep the part should
+not have heavy dark spots.
+
+Repair spots’ are to spray with a gun and with disappearing
+
+borders - not. as §chw. with hard contours as from = brush.
+
+They will be prepared good with 600 paper. The sprayed area
+should be on end before the#end. of sliding. .
+
+To slide the ready work you will do after full hardening,
+otherwise you get Scrapes. This harding procedure will
+
+@0 over days and weeks because we have not the possibility
+to heat as on a car.
+
+How big the characteristic "orange surface" of spraying will
+be depends on the quality of material and sprayer.
+
+If it is necessary te slide then you use no coarser than
+600 paper, better finer, because channels are very hard
+bo remove. Better to work a little longer with fine paper
+as to have the angry after using toscoarse one,
+
+Have you slided the sprayed part with 600 you should dry and
+look for the success. If you are content you take the old 800
+or 1000 used-up paper and slide the whole area at once.
+After this there should not be to see channels.
+
+Then you polish preferable by hand. Every good polisher is
+to use if you know it from your car ~ this laquer is a
+
+car laquer. With patience you can reach on your bird a
+diamond-— like brigthness which makes pleasure for long time
+in fact of its better hardness.
+
+
+--- Page 57 ---
+600
+
+SALTO and others; ;
+1. Elastic Sealing:
+
+elastic If the sealing of the SALTO canopy is no more o.k., -— this can be
+
+frame extended if you protect the sealing on the outside with a white
+plastic tape —- than you should replace it by another system; for
+this you need some skill, but the result is a lot better in its
+aerodynamic effect .
+
+First remove the old sealing, clean the frame and rough
+it a little. Before working you should protect the
+plexiglass by a plastic tape on the outsi'de directly
+over the sealing. Added to this-use another tape over
+the first which overlapps the first some mms.
+
+If you set the canopy on the fuselage you will note
+a gap between canopy and fuselage. This is the area
+for the damping element. We create it as follows;
+
+pret in supermarkets you can buy silikone sealing paste,
+used normally for bath ceramics. We need 2 tubes of
+it, also the cartridge for to apply it, a roll of
+foam sealing for windows, ca 5 mm wide, a straight
+frames spatula from plastic, and a very weak base for the
+. canopy ( the bests an old mattress. Plexiglas is
+
+, gealiné & weak material and earns scrathes very fast!
+
+foam Put the canopy am tke:weak base and glue the sealing
+foam strip around the canopy frame, towards the
+inside, ,
+
+The fuselage frame should be insulated with fat
+so that nothing can be fixed there. Also use tape.
+
+If you have prepared all meterials and tools, you
+
+begin to press a fine equal rope of silicone around
+xt the canopy, close to the foam strip. It can be
+
+good thick. After this you press a second rope.
+
+Then you set the canopy softly on the fuselage, and
+close the canopy levers. .
+
+After this comes the third rope. The silicone mate-
+rial should be plenty enough:
+
+spread out the silicone around the frame, add ma-
+terial if it is not enough for the next step:
+take the-sharp spatula and pull it in a single
+walk- around exactly on the frame, using fuselage
+and tape on the canopy as conduction.
+
+The problem is: if it was not going to your sa-
+tisfaction, then you have time in maximum for a
+second walk-around before the material begins to
+harden,
+The whole thing must be storaged in silence during 1 - 2 days.
+Then you take a sharp fine knife and later a japanese spatula
+for to loose the canopy frame from fuselage.
+This method you can use on all possible canopies and you can
+eliminate some whistling gan.
+
+
+--- Page 58 ---
+604
+
+putty
+sealed
+canopy
+
+polish
+
+ais et .
+
+The sealing with the bycicle- valve tube
+is certainly not the newest; it was used
+
+oo? almost in the first SALTO. It is only
+
+£ possible in massive frames from FRDP:
+with a little special tool you mill a
+groove into the basis of the frame, ca
+3 mm deep. Fittings are surrounded softly.
+
+On @ place which you can reach during
+flying, you piace the enda of the tube,
+which will be installed in the groove
+
+Va a AN 8 . .
+ge? vee with contact glue. The endS are imbedded
+ane into an instrument tube, on which you
+
+connect -a..rubber ball (blood pressure
+indicatc#). So you can adjust the sealing
+following the temperature necessary.
+
+The plastic putty sealed canopy is certainly the solution of
+
+the most comfort. But onethécone side it needs the most per-
+fection of worker, on the:dther hand it is relatively sensi-
+tive against hard closing: @8iiv of the wind!).
+
+In much cases the lot of ‘patience when installing such a sea-
+ling will not be honoured, the larger the canopy the minder.
+Plexiglas is working much in temperature changes, so that your
+canopy will fit exactly only in a narrow area of temperature.
+If it sits proper in 29° C, you can get angry in ~ 5°.
+
+Also a very strong installed canopy may not be undangerous.
+The necessary of working is present, and if the Canopy has not
+the possibility ¢o follow it, the tension gets possible un-
+controlled so that you earn a crash!
+
+If your canopy is no more good transparent or has scrapes you
+should polish it. :
+
+In hard casea, if the scrapes are deep, you need in the begin
+of the procedure abrasive paper of 600 or 400. You take than
+the next finer, and sa you will end at least at 1000 or 1200.
+Wet grinding is better than dry.
+
+After this comes the special polish work. Only experienced
+people can take the angle machine with a fabric disk (not the
+normal angle grinder — its velocity is nearly 10 000 rpm, this
+of the special machine perhaps 2 - 300.) Tf you are not very
+attentive and the polished spot gets warm you can earn a buckle!
+So for not so trained people it is better to use a fine polish
+solution for cars and do i+ by hands.
+
+In such cases if the unprotected canopy will be moved often
+on its base you can help with a cover of self-gluing plastic
+foil.
+
+
+--- Page 59 ---
+Sealing of a plastic putty frame:
+
+(GLASFLUGEL and others)
+
+Suppose that you: lost your canopy, or
+may be just want to have a spare. We'll
+describe the entire procedure, and
+thereby cover all the simpler cases.
+You ,wil} need:
+
+Avrcanopy frame, .
+
+The untrimmed Plexiglass,
+
+Appropriate metal fittings and screws,
+Epoxy, glass fiber, etce.: plexiglass glue
+
+The-Pleviglass comes with a protective
+_ payer on it; leave it on, wherever
+Ho glpe:need. be applied, for protection.
+
+A First you have to fit the frame. Place all fittings
+and. closing equipment on its place. Adjust the frame °
+around so that it shows a distance of ca 3 - 4 mm e
+around the fuselage contour (thickness of Plexi). aS.
+
+Caution: some later Libelle and the SALTO serial I
+have a frame with a step so that the plexi sits on
+the step and the step fite with the fuselage contour.
+Tf the frame fits to your satisfaction, the fittings
+
+will be-glued to the frame with fast polyester .o ‘
+resin. Than you move it carefully and screw them to tape
+the frame.
+
+U
+2 Now you adjust the plexighags. Cut it raw with a
+angle cutter with a veryikit¢le disk and equa-
+lize it with the anglegrinders s .
+Set the plexi on the fuselage. It must fit : "Bel ‘
+close to the frame when the glass is sitting, oiece
+on little pieces of balsawood ca 5 mm thick °~
+
+around the frame Never the plexi should be uses P27
+as stroke on the fuselage.
+During this progedure the frame must be fastened
+
+in its close fittings. Never put a canopy glass
+on a:separate frame, this will never fit!
+
+4 prill first 6 to 8 holes for the screws,
+fix the plexi there and drill then the other |
+needed holes (2,5 mm 9 for screws 2,9 mm 9)
+Remove the canopy, light fixed on frame
+
+4 Protect the plexi on the inside with a tape
+directlyfon top of the frame. Cut with a
+sharp knife softly around the frame. If
+you remove then the screws you can loose
+this strip of protection foil. Here must
+be grinded the vlexi. and also the frame
+
+5 protect the fuselage with a tape and some
+
+fat. Wis the frames correctly: on the fuse-
+lage. Mix the glue following the direc-
+tives and spread it out over the upper
+region of the prepared frame. Than you
+set up the plexi and screw it - but soft-
+iy for to avoid crashes running from the
+screw holes.
+
+he a
+
+Some newer canopy frames have a cross
+
+
+--- Page 60 ---
+63
+
+The screws should be first fastened and then
+loose again for ca 1/4 turn. This will avoid -
+the little cracks around the gtrews,
+
+6G If the thing is dry, you take a bunch
+of rovings, wet it with epoxy mix and
+Place it into the gap between the
+plexi and the fuselage. With this you
+can fill nearly all the place so
+that on-the one side you need not so
+much putty which is rigid and for
+this sensitive against shocks, on
+the other side you have protected
+the plexi too.
+
+SB Now the outer contour of the canopy .
+' Seems nearly o.k. the rest is done
+by putty and laquer. the claims to
+the fitting quality are different
+and so the time for the finish work
+changes. re
+
+When starting. the finish work you
+place aiprotection tape outside of i,
+the canopy’ nearly parallel to the
+one of the inside. And then you
+need a quiet hand — take the sharp
+= knife and follow the line of the
+.tape around the canopy. after this
+. you ¢an remove this strip of pro-
+, tection foil and then you grind
+‘this area for to prepare it for
+‘good sitting putty and laquer.
+
+@ iit you .are Satisfied with the work
+‘you can remove all auxiliary
+‘and protection material. In some
+cases the protection foil is not
+moving very wellj then you need
+water or spirit ~ never nitro
+thinner!
+
+
+--- Page 61 ---
+FOr
+
+Ticking for ‘Performance.
+
+Please do not await the deepest secrets of record fliers.
+_ Almost simple measures can bring notable better performance;
+for this they should be observed much more, -
+
+C.G. Position;
+
+The most important mean to make more from your plane, and
+also the surest method to ruin a lot is the 0.G position.
+“ Sometimes one's hairs are raising when observing the sins
+in this matter. :
+
+it is clear that a wing with a relatively high aspect ratio
+has a better performance than a not so wide one ~ but also
+
+a little possible area of useable C.G. If a modern airfoil
+will allow an area of let us say 30 - 45% reduced wing chord -
+so you have on a wing as SALTO and Libelle, both with nearly
+630 mm reduced wing chord, not more than 100 mm. Inside of
+this little border you find all optimals, from best sinking.
+to best glide ratio, and for this you have to balance really
+exagtly if you wish to meet the far the case desired optimum.
+
+So you should use the next rainy sunday and find out your
+personal flight ¢.G. - you will be astonished about the
+success!
+
+You need; a place for!the‘connected plane, with possible
+
+even ground, a wood-Rowing: the angle between fuselage
+surface and horizontal’ this you find in your Flight and
+Servuce Manual - a scale for the tail weight, and two helpers.
+
+First you have balanced exactly your plane, than yourself
+with all the equipment which you need during flying: hat;
+parachute, photo, breakfast eta., each on its place. Be
+clear that f.i. other shoes can reach a different C.G.!
+
+In your FSM you find a drawing how you should adjust your ..
+plane for the ¢.G. ascertainmant, also the formula. Sit in u.
+your plane, let held the wings horizontal with two fingers
+
+and ket look the second “pelper for the tail weight.
+
+Installed in the formula, you can calculate your 0.G flight
+position in mms. For to change this in I of reduced wing
+
+chord, you need this from your sailplane manufacturer. He -
+should tell you 1. the area, 2. the optimums. —
+
+Look that your personal flight c.G. is near of the optimum
+either for climbing or for gliding. With sitting position
+or eyuipment you should gamble @ little; in the most cases
+you can avoid this Lot of lead which I have seen in some
+planes.
+
+
+--- Page 62 ---
+FO"
+
+The second check point you need is the zero position of your”
+elevator. When a helper held the’ elevator in its zero posi-
+tion, you take a little ledge preferable from Balsawood for
+to adjust the delivered position of your stick referred to
+the instrument panel or another fizpoint.
+
+The third is a little water balance which you can buy in
+hobbyworker's shops. You place it inside -of the fuselage
+on @ spot you can observe during flight. It shows you the
+exact horizontal position of your plane.
+
+During the next flight in preferable quiet air you can
+check now if your Plane is flying at the velocity of best
+Sliding ratio with no redundant drag: straight fuselage,
+zero elevator.
+
+Certainly the same for bes+ sinking. Now you can calibrate
+your plane for the task you have in eyes. For aerobatic
+pilots specially it is indispensable to know his precise
+C.G. position because some figures, Specially these with
+broken airflow, aze only to fly eXactly with the C.G. in
+@ special precise position. -
+
+(Tip for SALTO pilots: the best gliding ¢.G. is at 300-mums,
+the possible area of C.¢. ig 235 ~ 335 mms, = 30 - 43%.)
+
+Aileron endplates;
+
+This penny Cheap article can help you to circle for ca
+
+8 km/h slower than ‘without! ¥ew-éan do it yourself from
+a piece of stiff plastic foil} ‘plywood etc.
+
+They must be a little larger than the biggest aileron
+deflection for to avoid a blocking of aileron. After
+installing the plates the aileron must be to move fully
+free over the. whole area and have a distance to the wing
+of ca 1,5 mms,. You should colour the Plates striking so
+
+that you avoid to catch on it.
+The endplate is only effegtful on the aileron root.
+
+he
+
+
+--- Page 63 ---
+Cockpit airflow
+peep airilow
+
+You have pleasure if your cockpit is ggod airflowed on hot
+days. But are you sure that the incoming air can gornut icf
+the plane without redundant drag? If the air find no holes
+for to stream out through the fuselage and leave the plane
+behind the tail, it looks for other possibilities; press
+through the Canopy gaps and disturb the airstream over the
+wings.
+
+Tf you find necessary to drill holes for the leaving aiz,
+please be sure that you will not damage carrying parts,
+Better to ask the manufacturer.
+
+Sealing
+
+If you have a plane with through- going airbrake houses,
+you can reach only some success with silicone sealing paste.
+All other means may be payed with a bad fitting of the
+brakes.
+
+But the most planes with an airbrake system Hitter (he was
+the inventor of these so-called Sabempp-Hirth- brakes) have
+today separated houses so that you have no sealing problems.
+
+Sealing of the aileron with inside tapes is only -possible
+on ailerons with center hinging (GLASFLUGEL, SALTO). In
+former times one used for this teflon tapes, which you ‘bad
+to remove if the aileron must be dismantled. Now we have
+this simple "ye Sealing tape from Tesa which you can buy
+in homeworker's shops, it is a sealing for windows but fits
+wonderful in our planes, also for tails.
+
+It is also to use in some shell-hinging aileron systema.
+
+Sealing with outside nylon buckled tapes: you should be
+sure that this is a win for your airfoil and not a Lost;
+you should ask your manufacturer before using.
+
+On SALTO's you should avoid to use this, specially on the
+tail!
+
+Sealing the gaps between wing and fuselage: nobody has
+invented a better solution than these plastic tapes which
+move sometimes the laquer from the wings. The only method
+which looks acceptable is to use first a wider one, to
+cut it with a knife and rest it on the parts; on this
+tape is glued a smaller one which seals and will be re-
+moved when the plane gets disconnacted.
+
+Water ballast installing
+
+is a "big change" and has to be licensed fo this type of
+planes. The installing must be done under the eyes and
+with the confirming of 4 licensed person. The manufactu-
+rers held in stock parts for the installing,
+
+The same is valid for adjusted wing enlarging.
+
+Make a little gymnastique and look for the
+exact closing of your gear covers. The
+measures of a wind channel are related ever
+to really sniodth fuselages!
+
++O
+
+
+--- Page 64 ---
+
